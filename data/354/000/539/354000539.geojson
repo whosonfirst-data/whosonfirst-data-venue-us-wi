@@ -1,0 +1,67 @@
+{
+  "id": 354000539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.422713,43.037807,-89.422713,43.037807",
+    "geom:latitude":43.037807,
+    "geom:longitude":-89.422713,
+    "iso:country":"US",
+    "sg:address":"2605 Todd Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 255 0195",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        102081795,
+        85878867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hl9UlL7iXIPzqxvHQ9UQp_43.037807_-89.422713@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1b7e3977e7dd805bafd1b2e7960b36ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":-1,
+            "neighbourhood_id":85878867,
+            "region_id":85688517,
+            "venue_id":354000539
+        }
+    ],
+    "wof:id":354000539,
+    "wof:lastmodified":1449066205,
+    "wof:name":"Silver Motors",
+    "wof:parent_id":85878867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-89.422713,43.037807,-89.422713,43.037807],
+  "geometry": {"coordinates":[-89.422713,43.037807],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 185616623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.445241,43.001245,-89.445241,43.001245",
+    "geom:latitude":43.001245,
+    "geom:longitude":-89.445241,
+    "iso:country":"US",
+    "sg:address":"5791 Lacy Rd",
+    "sg:city":"Fitchburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 278 2980",
+    "sg:postcode":"53711",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.fitchburgfire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wyniEIVHvwbS5Qeg8lk1S_43.001245_-89.445241@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b952537ab52bfb1a360c7885d698a5f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878885,
+            "region_id":85688517,
+            "venue_id":185616623
+        }
+    ],
+    "wof:id":185616623,
+    "wof:lastmodified":1449007774,
+    "wof:name":"Fitchburg Fire Dept",
+    "wof:parent_id":85878885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-89.445241,43.001245,-89.445241,43.001245],
+  "geometry": {"coordinates":[-89.445241,43.001245],"type":"Point"}
+}

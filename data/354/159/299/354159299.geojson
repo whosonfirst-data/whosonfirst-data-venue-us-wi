@@ -1,0 +1,70 @@
+{
+  "id": 354159299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.400159,43.058436,-89.400159,43.058436",
+    "geom:latitude":43.058436,
+    "geom:longitude":-89.400159,
+    "iso:country":"US",
+    "sg:address":"832 S Park St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 255 5519",
+    "sg:postcode":"53715",
+    "sg:province":"WI",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MZWY4fC1IU9yiyFLvzecQ_43.058436_-89.400159@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d0e939ed62ae66110ffbd9371abf61a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878849,
+            "region_id":85688517,
+            "venue_id":354159299
+        }
+    ],
+    "wof:id":354159299,
+    "wof:lastmodified":1449066142,
+    "wof:name":"Acme Cars",
+    "wof:parent_id":85878849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [-89.400159,43.058436,-89.400159,43.058436],
+  "geometry": {"coordinates":[-89.400159,43.058436],"type":"Point"}
+}

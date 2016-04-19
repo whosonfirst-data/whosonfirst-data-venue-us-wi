@@ -1,0 +1,68 @@
+{
+  "id": 387543079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.027301,42.995525,-88.027301,42.995525",
+    "geom:latitude":42.995525,
+    "geom:longitude":-88.027301,
+    "iso:country":"US",
+    "sg:address":"9102 W Cleveland Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 546 0510",
+    "sg:postcode":"53227",
+    "sg:province":"WI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733091,
+        102081837,
+        85870861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kyZkvM5uAovmGNTsqGLlD_42.995525_-88.027301@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f76072853f18727bcc31808ea2c110c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101733091,
+            "neighbourhood_id":85870861,
+            "region_id":85688517,
+            "venue_id":387543079
+        }
+    ],
+    "wof:id":387543079,
+    "wof:lastmodified":1449056844,
+    "wof:name":"Cleveland Apartments",
+    "wof:parent_id":85870861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-88.027301,42.995525,-88.027301,42.995525],
+  "geometry": {"coordinates":[-88.027301,42.995525],"type":"Point"}
+}

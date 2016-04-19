@@ -1,0 +1,68 @@
+{
+  "id": 353723341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.907589,43.081976,-87.907589,43.081976",
+    "geom:latitude":43.081976,
+    "geom:longitude":-87.907589,
+    "iso:country":"US",
+    "sg:address":"245 E Keefe Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 374 8191",
+    "sg:postcode":"53212",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85870941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qIeNH6bxUKORhznitDOEL_43.081976_-87.907589@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"afd53e28bc066656fbd693fa10aa4d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870941,
+            "region_id":85688517,
+            "venue_id":353723341
+        }
+    ],
+    "wof:id":353723341,
+    "wof:lastmodified":1449019761,
+    "wof:name":"D & R Auto Repair",
+    "wof:parent_id":85870941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-87.907589,43.081976,-87.907589,43.081976],
+  "geometry": {"coordinates":[-87.907589,43.081976],"type":"Point"}
+}

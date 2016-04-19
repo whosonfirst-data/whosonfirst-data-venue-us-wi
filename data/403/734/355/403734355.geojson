@@ -1,0 +1,81 @@
+{
+  "id": 403734355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.955357,43.003143,-87.955357,43.003143",
+    "geom:latitude":43.003143,
+    "geom:longitude":-87.955357,
+    "iso:country":"US",
+    "sg:address":"3210 W Lincoln Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 643 8595",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733095,
+        102081837,
+        85870841,
+        101732987,
+        85870927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DFB3sNzJJ5p4xe9DhwheE_43.003143_-87.955357@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"41d60943e0ab4370d964154322fac67a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101733095,
+            "neighbourhood_id":85870841,
+            "region_id":85688517,
+            "venue_id":403734355
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870927,
+            "region_id":85688517,
+            "venue_id":403734355
+        }
+    ],
+    "wof:id":403734355,
+    "wof:lastmodified":1449055801,
+    "wof:name":"Bargain Town Autos Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [-87.955357,43.003143,-87.955357,43.003143],
+  "geometry": {"coordinates":[-87.955357,43.003143],"type":"Point"}
+}

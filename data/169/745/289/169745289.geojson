@@ -1,0 +1,68 @@
+{
+  "id": 169745289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.011151,42.959324,-88.011151,42.959324",
+    "geom:latitude":42.959324,
+    "geom:longitude":-88.011151,
+    "iso:country":"US",
+    "sg:address":"7818 W Layton Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 281 1490",
+    "sg:postcode":"53220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical",
+        "imaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733071,
+        102081837,
+        85870865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37S6l8OV0K9oyk4QnMQzJW_42.959324_-88.011151@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"03fa9caffa94348c3f0e215c9bf94796",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101733071,
+            "neighbourhood_id":85870865,
+            "region_id":85688517,
+            "venue_id":169745289
+        }
+    ],
+    "wof:id":169745289,
+    "wof:lastmodified":1449035811,
+    "wof:name":"Open Advanced MRI-Milwaukee",
+    "wof:parent_id":85870865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "imaging"
+    ]
+},
+  "bbox": [-88.011151,42.959324,-88.011151,42.959324],
+  "geometry": {"coordinates":[-88.011151,42.959324],"type":"Point"}
+}

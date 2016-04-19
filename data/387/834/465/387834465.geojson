@@ -1,0 +1,68 @@
+{
+  "id": 387834465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.007384,43.08325,-88.007384,43.08325",
+    "geom:latitude":43.08325,
+    "geom:longitude":-88.007384,
+    "iso:country":"US",
+    "sg:address":"3631 N 76th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 466 9525",
+    "sg:postcode":"53222",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85870905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E8BCfTk2ZgUhLjlRUW1ZM_43.083250_-88.007384@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a15751274abe027647465ccbf338177a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870905,
+            "region_id":85688517,
+            "venue_id":387834465
+        }
+    ],
+    "wof:id":387834465,
+    "wof:lastmodified":1449056458,
+    "wof:name":"J & L Svc Station",
+    "wof:parent_id":85870905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-88.007384,43.08325,-88.007384,43.08325],
+  "geometry": {"coordinates":[-88.007384,43.08325],"type":"Point"}
+}

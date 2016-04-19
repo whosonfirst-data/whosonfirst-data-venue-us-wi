@@ -1,0 +1,68 @@
+{
+  "id": 337326177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.40871,44.264886,-88.40871,44.264886",
+    "geom:latitude":44.264886,
+    "geom:longitude":-88.40871,
+    "iso:country":"US",
+    "sg:address":"300 N Superior St",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 968 4220",
+    "sg:postcode":"54911",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iou8GyPALr4cnP3ebjl0M_44.264886_-88.408710@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3cca7ac602e3a7fc2178d05d40b545ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":337326177
+        }
+    ],
+    "wof:id":337326177,
+    "wof:lastmodified":1449027282,
+    "wof:name":"Tom's Garage",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-88.40871,44.264886,-88.40871,44.264886],
+  "geometry": {"coordinates":[-88.40871,44.264886],"type":"Point"}
+}

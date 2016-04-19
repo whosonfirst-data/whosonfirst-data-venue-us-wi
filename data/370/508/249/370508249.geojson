@@ -1,0 +1,68 @@
+{
+  "id": 370508249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.908963,43.050895,-87.908963,43.050895",
+    "geom:latitude":43.050895,
+    "geom:longitude":-87.908963,
+    "iso:country":"US",
+    "sg:address":"1575 N Rivercenter Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 291 3100",
+    "sg:postcode":"53212",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85870985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G2vMiiRFitmEDMCtN5e4F_43.050895_-87.908963@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5894c691f1d861ec7f06da4026b37a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870985,
+            "region_id":85688517,
+            "venue_id":370508249
+        }
+    ],
+    "wof:id":370508249,
+    "wof:lastmodified":1449030966,
+    "wof:name":"Digestive Disease Specialists",
+    "wof:parent_id":85870985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-87.908963,43.050895,-87.908963,43.050895],
+  "geometry": {"coordinates":[-87.908963,43.050895],"type":"Point"}
+}

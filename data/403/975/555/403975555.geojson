@@ -1,0 +1,68 @@
+{
+  "id": 403975555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.840107,44.933775,-89.840107,44.933775",
+    "geom:latitude":44.933775,
+    "geom:longitude":-89.840107,
+    "iso:country":"US",
+    "sg:address":"116 Main St",
+    "sg:city":"Marathon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 443 2400",
+    "sg:postcode":"54448",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qE6LVQJBQdAhNNUhNhNn0_44.933775_-89.840107@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"20e634ec2f9bdf8a938efc4fb90bb15d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":403975555
+        }
+    ],
+    "wof:id":403975555,
+    "wof:lastmodified":1449055787,
+    "wof:name":"Myszka Oil & Motors",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-89.840107,44.933775,-89.840107,44.933775],
+  "geometry": {"coordinates":[-89.840107,44.933775],"type":"Point"}
+}

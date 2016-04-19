@@ -1,0 +1,72 @@
+{
+  "id": 353725503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.090797,44.464503,-88.090797,44.464503",
+    "geom:latitude":44.464503,
+    "geom:longitude":-88.090797,
+    "iso:country":"US",
+    "sg:address":"963 Ashwaubenon St",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 330 9972",
+    "sg:postcode":"54304",
+    "sg:province":"WI",
+    "sg:tags":[
+        "machine"
+    ],
+    "sg:website":"www.baysidemachine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732363,
+        102081867,
+        85855345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a4AD0OCXVRzTQ4tiirOjp_44.464503_-88.090797@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"66cd85165859f336d6a29a3ca6e4cb3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081867,
+            "locality_id":101732363,
+            "neighbourhood_id":85855345,
+            "region_id":85688517,
+            "venue_id":353725503
+        }
+    ],
+    "wof:id":353725503,
+    "wof:lastmodified":1449018883,
+    "wof:name":"Bayside Machine Corporation",
+    "wof:parent_id":85855345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine"
+    ]
+},
+  "bbox": [-88.090797,44.464503,-88.090797,44.464503],
+  "geometry": {"coordinates":[-88.090797,44.464503],"type":"Point"}
+}

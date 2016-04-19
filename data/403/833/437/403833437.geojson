@@ -1,0 +1,68 @@
+{
+  "id": 403833437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.020073,43.040911,-88.020073,43.040911",
+    "geom:latitude":43.040911,
+    "geom:longitude":-88.020073,
+    "iso:country":"US",
+    "sg:address":"865 N 87th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 456 7600",
+    "sg:postcode":"53226",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733089,
+        102081837,
+        85870835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38LE76zkEL5z6ayDysv2Pv_43.040911_-88.020073@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55f120e9dda39e640148f44aee860976",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101733089,
+            "neighbourhood_id":85870835,
+            "region_id":85688517,
+            "venue_id":403833437
+        }
+    ],
+    "wof:id":403833437,
+    "wof:lastmodified":1449054792,
+    "wof:name":"Medical College Of Wisconsin",
+    "wof:parent_id":85870835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-88.020073,43.040911,-88.020073,43.040911],
+  "geometry": {"coordinates":[-88.020073,43.040911],"type":"Point"}
+}

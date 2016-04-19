@@ -1,0 +1,76 @@
+{
+  "id": 186157705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.394102,43.043256,-89.394102,43.043256",
+    "geom:latitude":43.043256,
+    "geom:longitude":-89.394102,
+    "iso:country":"US",
+    "sg:address":"2116 S Park St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 251 0775",
+    "sg:postcode":"53715",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        102081795,
+        85878867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eeH2ZudPEfewcscfwMnWv_43.043256_-89.394102@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c7594cfea59252311b4168170c27980a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":-1,
+            "neighbourhood_id":85878867,
+            "region_id":85688517,
+            "venue_id":186157705
+        }
+    ],
+    "wof:id":186157705,
+    "wof:lastmodified":1449052639,
+    "wof:name":"Park Street Garage",
+    "wof:parent_id":85878867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [-89.394102,43.043256,-89.394102,43.043256],
+  "geometry": {"coordinates":[-89.394102,43.043256],"type":"Point"}
+}

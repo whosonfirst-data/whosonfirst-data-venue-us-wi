@@ -1,0 +1,68 @@
+{
+  "id": 185789101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.351335,43.110374,-89.351335,43.110374",
+    "geom:latitude":43.110374,
+    "geom:longitude":-89.351335,
+    "iso:country":"US",
+    "sg:address":"1010 North St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 244 2601",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "club",
+        "baseball"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DuUwLg8FBIyEJBeqdDQaQ_43.110374_-89.351335@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"357b49d4d7cb86ca3b76490e7f5e55fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878829,
+            "region_id":85688517,
+            "venue_id":185789101
+        }
+    ],
+    "wof:id":185789101,
+    "wof:lastmodified":1449007344,
+    "wof:name":"East Madison Little League",
+    "wof:parent_id":85878829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "baseball"
+    ]
+},
+  "bbox": [-89.351335,43.110374,-89.351335,43.110374],
+  "geometry": {"coordinates":[-89.351335,43.110374],"type":"Point"}
+}

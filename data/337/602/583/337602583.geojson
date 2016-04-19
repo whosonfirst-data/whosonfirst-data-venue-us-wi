@@ -1,0 +1,74 @@
+{
+  "id": 337602583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.59052,42.53105,-88.59052,42.53105",
+    "geom:latitude":42.53105,
+    "geom:longitude":-88.59052,
+    "iso:country":"US",
+    "sg:address":"525 Kenosha St",
+    "sg:city":"Walworth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 275 0936",
+    "sg:postcode":"53184",
+    "sg:province":"WI",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "sg:website":"www.aurorahealthcare.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733549,
+        102081883,
+        85814169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yGeolNtWN3GPPBIPLGazF_42.531050_-88.590520@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"714db134e421e4ad6317cafdda1616e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733549,
+            "neighbourhood_id":85814169,
+            "region_id":85688517,
+            "venue_id":337602583
+        }
+    ],
+    "wof:id":337602583,
+    "wof:lastmodified":1449027338,
+    "wof:name":"Aurora Health Care",
+    "wof:parent_id":85814169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [-88.59052,42.53105,-88.59052,42.53105],
+  "geometry": {"coordinates":[-88.59052,42.53105],"type":"Point"}
+}

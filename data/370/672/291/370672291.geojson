@@ -1,0 +1,73 @@
+{
+  "id": 370672291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.542553,43.992176,-88.542553,43.992176",
+    "geom:latitude":43.992176,
+    "geom:longitude":-88.542553,
+    "iso:country":"US",
+    "sg:address":"2307 Oregon St",
+    "sg:city":"Oshkosh",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 235 9150",
+    "sg:postcode":"54902",
+    "sg:province":"WI",
+    "sg:tags":[
+        "industrial",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733459,
+        102081801,
+        85851167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tGCfcBDYIsmM2gPIjTeeL_43.992176_-88.542553@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"93eb9f443b06fa09812040bd689a234d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101733459,
+            "neighbourhood_id":85851167,
+            "region_id":85688517,
+            "venue_id":370672291
+        }
+    ],
+    "wof:id":370672291,
+    "wof:lastmodified":1449029300,
+    "wof:name":"Oshkosh Truck Corporation",
+    "wof:parent_id":85851167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "truck"
+    ]
+},
+  "bbox": [-88.542553,43.992176,-88.542553,43.992176],
+  "geometry": {"coordinates":[-88.542553,43.992176],"type":"Point"}
+}

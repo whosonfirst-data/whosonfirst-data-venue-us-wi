@@ -1,0 +1,66 @@
+{
+  "id": 185762901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.4599,43.031493,-89.4599,43.031493",
+    "geom:latitude":43.031493,
+    "geom:longitude":-89.4599,
+    "iso:country":"US",
+    "sg:address":"4601 Verona Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 274 7229",
+    "sg:postcode":"53711",
+    "sg:province":"WI",
+    "sg:tags":[
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QDoLZmaks2eELJj2G63HJ_43.031493_-89.459900@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"945d149471be4512597e6b92b4d74bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878885,
+            "region_id":85688517,
+            "venue_id":185762901
+        }
+    ],
+    "wof:id":185762901,
+    "wof:lastmodified":1449007738,
+    "wof:name":"Verona Road Mobil",
+    "wof:parent_id":85878885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station"
+    ]
+},
+  "bbox": [-89.4599,43.031493,-89.4599,43.031493],
+  "geometry": {"coordinates":[-89.4599,43.031493],"type":"Point"}
+}

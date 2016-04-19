@@ -1,0 +1,66 @@
+{
+  "id": 337399325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.004581,43.164179,-88.004581,43.164179",
+    "geom:latitude":43.164179,
+    "geom:longitude":-88.004581,
+    "iso:country":"US",
+    "sg:address":"8052 N 76th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 365 5200",
+    "sg:postcode":"53223",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85870797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M0rnG48R8lSyLbVyJmKdW_43.164179_-88.004581@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b0a0e54dfc14eed89046769a22e641e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870797,
+            "region_id":85688517,
+            "venue_id":337399325
+        }
+    ],
+    "wof:id":337399325,
+    "wof:lastmodified":1449027066,
+    "wof:name":"Advance Veterinary Care",
+    "wof:parent_id":85870797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-88.004581,43.164179,-88.004581,43.164179],
+  "geometry": {"coordinates":[-88.004581,43.164179],"type":"Point"}
+}

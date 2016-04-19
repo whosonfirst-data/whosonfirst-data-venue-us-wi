@@ -1,0 +1,68 @@
+{
+  "id": 387689287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.199453,43.007813,-88.199453,43.007813",
+    "geom:latitude":43.007813,
+    "geom:longitude":-88.199453,
+    "iso:country":"US",
+    "sg:address":"1706 Pearl St",
+    "sg:city":"Waukesha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 521 2277",
+    "sg:postcode":"53186",
+    "sg:province":"WI",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733495,
+        102081741,
+        85815589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BKsbjzl9FGqpNm5NkPaPP_43.007813_-88.199453@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7edd625daf6558398eb772be7bd76558",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081741,
+            "locality_id":101733495,
+            "neighbourhood_id":85815589,
+            "region_id":85688517,
+            "venue_id":387689287
+        }
+    ],
+    "wof:id":387689287,
+    "wof:lastmodified":1449059281,
+    "wof:name":"Dollar Rent",
+    "wof:parent_id":85815589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [-88.199453,43.007813,-88.199453,43.007813],
+  "geometry": {"coordinates":[-88.199453,43.007813],"type":"Point"}
+}

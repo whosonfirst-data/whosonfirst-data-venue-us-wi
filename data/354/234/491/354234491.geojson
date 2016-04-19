@@ -1,0 +1,66 @@
+{
+  "id": 354234491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.01469,44.496105,-88.01469,44.496105",
+    "geom:latitude":44.496105,
+    "geom:longitude":-88.01469,
+    "iso:country":"US",
+    "sg:address":"1220 S Webster Ave",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 432 7284",
+    "sg:postcode":"54301",
+    "sg:province":"WI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732291,
+        102081867,
+        85877931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f0bDZgYfzdF70zDogXaIQ_44.496105_-88.014690@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0baa1057f288651a47b734577c95f0c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081867,
+            "locality_id":101732291,
+            "neighbourhood_id":85877931,
+            "region_id":85688517,
+            "venue_id":354234491
+        }
+    ],
+    "wof:id":354234491,
+    "wof:lastmodified":1449067579,
+    "wof:name":"Supervalu",
+    "wof:parent_id":85877931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-88.01469,44.496105,-88.01469,44.496105],
+  "geometry": {"coordinates":[-88.01469,44.496105],"type":"Point"}
+}

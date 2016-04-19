@@ -1,0 +1,68 @@
+{
+  "id": 387168899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.044087,42.649905,-89.044087,42.649905",
+    "geom:latitude":42.649905,
+    "geom:longitude":-89.044087,
+    "iso:country":"US",
+    "sg:address":"2016 Kellogg Ave",
+    "sg:city":"Janesville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 757 9900",
+    "sg:postcode":"53546",
+    "sg:province":"WI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732837,
+        102081829,
+        85803103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q3gQ3gBEvrPpbfZosGZou_42.649905_-89.044087@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a85761c33f811ced904790f52b18d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081829,
+            "locality_id":101732837,
+            "neighbourhood_id":85803103,
+            "region_id":85688517,
+            "venue_id":387168899
+        }
+    ],
+    "wof:id":387168899,
+    "wof:lastmodified":1449058096,
+    "wof:name":"Kellog Avenue Apartments",
+    "wof:parent_id":85803103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-89.044087,42.649905,-89.044087,42.649905],
+  "geometry": {"coordinates":[-89.044087,42.649905],"type":"Point"}
+}

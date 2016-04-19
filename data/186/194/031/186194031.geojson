@@ -1,0 +1,81 @@
+{
+  "id": 186194031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.344451,43.103044,-89.344451,43.103044",
+    "geom:latitude":43.103044,
+    "geom:longitude":-89.344451,
+    "iso:country":"US",
+    "sg:address":"2825 E Washington Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 249 2520",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878879,
+        85878865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mHPOgJqUu49O6EN2hmixT_43.103044_-89.344451@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8a3627e49dc509d2fb2601d32e4666ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878879,
+            "region_id":85688517,
+            "venue_id":186194031
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878865,
+            "region_id":85688517,
+            "venue_id":186194031
+        }
+    ],
+    "wof:id":186194031,
+    "wof:lastmodified":1449052625,
+    "wof:name":"Family Dollar Stores",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [-89.344451,43.103044,-89.344451,43.103044],
+  "geometry": {"coordinates":[-89.344451,43.103044],"type":"Point"}
+}

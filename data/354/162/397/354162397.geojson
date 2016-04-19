@@ -1,0 +1,68 @@
+{
+  "id": 354162397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.007406,43.001171,-88.007406,43.001171",
+    "geom:latitude":43.001171,
+    "geom:longitude":-88.007406,
+    "iso:country":"US",
+    "sg:address":"2310 S 76th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 546 2786",
+    "sg:postcode":"53219",
+    "sg:province":"WI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733091,
+        102081837,
+        85870937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vU2Me5LYwDFnDDTROsif1_43.001171_-88.007406@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd97f43abdb4ca380ce10302c3d13bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101733091,
+            "neighbourhood_id":85870937,
+            "region_id":85688517,
+            "venue_id":354162397
+        }
+    ],
+    "wof:id":354162397,
+    "wof:lastmodified":1449067406,
+    "wof:name":"Shell",
+    "wof:parent_id":85870937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [-88.007406,43.001171,-88.007406,43.001171],
+  "geometry": {"coordinates":[-88.007406,43.001171],"type":"Point"}
+}

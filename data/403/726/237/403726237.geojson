@@ -1,0 +1,68 @@
+{
+  "id": 403726237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.372742,43.040687,-89.372742,43.040687",
+    "geom:latitude":43.040687,
+    "geom:longitude":-89.372742,
+    "iso:country":"US",
+    "sg:address":"340 Coyier Ln",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 274 0430",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732815,
+        102081795,
+        85868285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oiqpSajGkohObGerjSWHq_43.040687_-89.372742@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33b1d31e186c82b9390d636e1ed6e77f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732815,
+            "neighbourhood_id":85868285,
+            "region_id":85688517,
+            "venue_id":403726237
+        }
+    ],
+    "wof:id":403726237,
+    "wof:lastmodified":1449055515,
+    "wof:name":"Wisconsin Registered Nurses",
+    "wof:parent_id":85868285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [-89.372742,43.040687,-89.372742,43.040687],
+  "geometry": {"coordinates":[-89.372742,43.040687],"type":"Point"}
+}

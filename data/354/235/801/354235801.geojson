@@ -1,0 +1,67 @@
+{
+  "id": 354235801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.45869,43.189179,-89.45869,43.189179",
+    "geom:latitude":43.189179,
+    "geom:longitude":-89.45869,
+    "iso:country":"US",
+    "sg:address":"350 West St",
+    "sg:city":"Waunakee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 849 5728",
+    "sg:postcode":"53597",
+    "sg:province":"WI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        102081795,
+        85868279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5as45FnAKYI6Vmu2aD8bPq_43.189179_-89.458690@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6834b14051f9ee3406bc1ea41a6becb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":-1,
+            "neighbourhood_id":85868279,
+            "region_id":85688517,
+            "venue_id":354235801
+        }
+    ],
+    "wof:id":354235801,
+    "wof:lastmodified":1449066229,
+    "wof:name":"Ray Greiber & Sons Heating",
+    "wof:parent_id":85868279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-89.45869,43.189179,-89.45869,43.189179],
+  "geometry": {"coordinates":[-89.45869,43.189179],"type":"Point"}
+}

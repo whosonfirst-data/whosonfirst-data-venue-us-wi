@@ -1,0 +1,67 @@
+{
+  "id": 387691347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.977367,43.07346,-87.977367,43.07346",
+    "geom:latitude":43.07346,
+    "geom:longitude":-87.977367,
+    "iso:country":"US",
+    "sg:address":"5000 W Chambers St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 447 2636",
+    "sg:postcode":"53210",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EC2KmcLwANXXWe9SqfxU5_43.073460_-87.977367@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a11314b4d4c26e1d23e7825e1ae4f61f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":-1,
+            "region_id":85688517,
+            "venue_id":387691347
+        }
+    ],
+    "wof:id":387691347,
+    "wof:lastmodified":1449056423,
+    "wof:name":"Medical Oncology Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-87.977367,43.07346,-87.977367,43.07346],
+  "geometry": {"coordinates":[-87.977367,43.07346],"type":"Point"}
+}

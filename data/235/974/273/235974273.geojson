@@ -1,0 +1,67 @@
+{
+  "id": 235974273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.01982,42.549398,-89.01982,42.549398",
+    "geom:latitude":42.549398,
+    "geom:longitude":-89.01982,
+    "iso:country":"US",
+    "sg:address":"1220 Huebbe Pkwy",
+    "sg:city":"Beloit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 362 7111",
+    "sg:postcode":"53511",
+    "sg:province":"IL",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        102081829,
+        85825897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jS3j2xEMMO8XrR01jG4QX_42.549398_-89.019820@1294102059"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dbdd86ac657eba5e3fa5a83c3a20a1e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081829,
+            "locality_id":-1,
+            "neighbourhood_id":85825897,
+            "region_id":85688517,
+            "venue_id":235974273
+        }
+    ],
+    "wof:id":235974273,
+    "wof:lastmodified":1449008558,
+    "wof:name":"Mike's Garage",
+    "wof:parent_id":85825897,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-89.01982,42.549398,-89.01982,42.549398],
+  "geometry": {"coordinates":[-89.01982,42.549398],"type":"Point"}
+}

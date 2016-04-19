@@ -1,0 +1,72 @@
+{
+  "id": 354321341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.463471,43.191376,-89.463471,43.191376",
+    "geom:latitude":43.191376,
+    "geom:longitude":-89.463471,
+    "iso:country":"US",
+    "sg:address":"201 Klein Dr",
+    "sg:city":"Waunakee",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 000 1111",
+    "sg:postcode":"53597",
+    "sg:province":"WI",
+    "sg:tags":[
+        "ambulance",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        102081795,
+        85868279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25T53J7wmSlm5I0sggBpZn_43.191376_-89.463471@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ebed3e5530a2245d8d301de8e6f47c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":-1,
+            "neighbourhood_id":85868279,
+            "region_id":85688517,
+            "venue_id":354321341
+        }
+    ],
+    "wof:id":354321341,
+    "wof:lastmodified":1449065978,
+    "wof:name":"Waunakee Village Ambulance",
+    "wof:parent_id":85868279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance",
+        "village"
+    ]
+},
+  "bbox": [-89.463471,43.191376,-89.463471,43.191376],
+  "geometry": {"coordinates":[-89.463471,43.191376],"type":"Point"}
+}

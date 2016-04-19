@@ -1,0 +1,80 @@
+{
+  "id": 387842621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.362458,43.086583,-89.362458,43.086583",
+    "geom:latitude":43.086583,
+    "geom:longitude":-89.362458,
+    "iso:country":"US",
+    "sg:address":"1334 Dewey Ct",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 250 6634",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.community-partnerships.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878861,
+        101732815,
+        85868285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QIr7FgO9iGktPFocvUZm7_43.086583_-89.362458@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ddb72a9e94bb8ea0ce6e93614a1b5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878861,
+            "region_id":85688517,
+            "venue_id":387842621
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732815,
+            "neighbourhood_id":85868285,
+            "region_id":85688517,
+            "venue_id":387842621
+        }
+    ],
+    "wof:id":387842621,
+    "wof:lastmodified":1449056393,
+    "wof:name":"Community Partnerships",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [-89.362458,43.086583,-89.362458,43.086583],
+  "geometry": {"coordinates":[-89.362458,43.086583],"type":"Point"}
+}

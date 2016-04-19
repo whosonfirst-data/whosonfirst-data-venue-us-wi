@@ -1,0 +1,73 @@
+{
+  "id": 353928169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.036708,43.036106,-88.036708,43.036106",
+    "geom:latitude":43.036106,
+    "geom:longitude":-88.036708,
+    "iso:country":"US",
+    "sg:address":"601 N 99th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 785 8004",
+    "sg:postcode":"53226",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85867293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29c3vq9inSzSMSmfRxlnn9_43.036106_-88.036708@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1aa3169d8dc49e8e098e52c4c5c113c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85867293,
+            "region_id":85688517,
+            "venue_id":353928169
+        }
+    ],
+    "wof:id":353928169,
+    "wof:lastmodified":1449020453,
+    "wof:name":"Milwaukee Nephrologists",
+    "wof:parent_id":85867293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-88.036708,43.036106,-88.036708,43.036106],
+  "geometry": {"coordinates":[-88.036708,43.036106],"type":"Point"}
+}

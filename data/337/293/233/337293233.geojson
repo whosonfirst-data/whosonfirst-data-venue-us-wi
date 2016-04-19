@@ -1,0 +1,79 @@
+{
+  "id": 337293233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.999198,44.513293,-87.999198,44.513293",
+    "geom:latitude":44.513293,
+    "geom:longitude":-87.999198,
+    "iso:country":"US",
+    "sg:address":"1123 Cedar St",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 435 8301",
+    "sg:postcode":"54301",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "sg:website":"www.pompstire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732365,
+        102081867,
+        85877953,
+        85877947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29qbDbF8jt6rf2NPbffc48_44.513293_-87.999198@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7163594de2f786175f834981ab9dfa3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081867,
+            "locality_id":101732365,
+            "neighbourhood_id":85877953,
+            "region_id":85688517,
+            "venue_id":337293233
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081867,
+            "locality_id":101732365,
+            "neighbourhood_id":85877947,
+            "region_id":85688517,
+            "venue_id":337293233
+        }
+    ],
+    "wof:id":337293233,
+    "wof:lastmodified":1449027085,
+    "wof:name":"Pomp's Tire Svc Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [-87.999198,44.513293,-87.999198,44.513293],
+  "geometry": {"coordinates":[-87.999198,44.513293],"type":"Point"}
+}

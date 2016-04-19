@@ -1,0 +1,68 @@
+{
+  "id": 370475833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.909777,42.951077,-87.909777,42.951077",
+    "geom:latitude":42.951077,
+    "geom:longitude":-87.909777,
+    "iso:country":"US",
+    "sg:address":"5151 S Howell Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 747 5339",
+    "sg:postcode":"53207",
+    "sg:province":"WI",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85894489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62RWbuLkWXCrI2DtJIwgLE_42.951077_-87.909777@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc1831027133c4041f1a053e59b5a60c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85894489,
+            "region_id":85688517,
+            "venue_id":370475833
+        }
+    ],
+    "wof:id":370475833,
+    "wof:lastmodified":1449030488,
+    "wof:name":"Hertz",
+    "wof:parent_id":85894489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [-87.909777,42.951077,-87.909777,42.951077],
+  "geometry": {"coordinates":[-87.909777,42.951077],"type":"Point"}
+}

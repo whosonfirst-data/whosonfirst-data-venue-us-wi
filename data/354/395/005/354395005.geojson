@@ -1,0 +1,68 @@
+{
+  "id": 354395005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.918535,43.055752,-87.918535,43.055752",
+    "geom:latitude":43.055752,
+    "geom:longitude":-87.918535,
+    "iso:country":"US",
+    "sg:address":"1901 N 6th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 286 8859",
+    "sg:postcode":"53212",
+    "sg:province":"WI",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85870919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FjFD6cWdSYEVllfPfhq6M_43.055752_-87.918535@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d536eb82a8d74010d678918ef83d990",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870919,
+            "region_id":85688517,
+            "venue_id":354395005
+        }
+    ],
+    "wof:id":354395005,
+    "wof:lastmodified":1449067404,
+    "wof:name":"Milwaukee Housing Authority",
+    "wof:parent_id":85870919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [-87.918535,43.055752,-87.918535,43.055752],
+  "geometry": {"coordinates":[-87.918535,43.055752],"type":"Point"}
+}

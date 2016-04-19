@@ -1,0 +1,70 @@
+{
+  "id": 185761173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.328604,43.114325,-89.328604,43.114325",
+    "geom:latitude":43.114325,
+    "geom:longitude":-89.328604,
+    "iso:country":"US",
+    "sg:address":"3401 E Washington Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 246 5109",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "bakery",
+        "prod",
+        "cookie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jAOLlMjuvtA2IU9Q0oN9T_43.114325_-89.328604@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5b82dcfe2539091e986a686a97c67f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878851,
+            "region_id":85688517,
+            "venue_id":185761173
+        }
+    ],
+    "wof:id":185761173,
+    "wof:lastmodified":1449007844,
+    "wof:name":"Sara Lee Gardner Bakery",
+    "wof:parent_id":85878851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery",
+        "prod",
+        "cookie"
+    ]
+},
+  "bbox": [-89.328604,43.114325,-89.328604,43.114325],
+  "geometry": {"coordinates":[-89.328604,43.114325],"type":"Point"}
+}

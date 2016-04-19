@@ -1,0 +1,81 @@
+{
+  "id": 404148441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.998421,42.957576,-87.998421,42.957576",
+    "geom:latitude":42.957576,
+    "geom:longitude":-87.998421,
+    "iso:country":"US",
+    "sg:address":"6610 W Barnard Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 281 6004",
+    "sg:postcode":"53220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733071,
+        102081837,
+        85870865,
+        101733073,
+        85870939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iGxhE5zzQ0ZzW5cwMf7vt_42.957576_-87.998421@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"768111eeab020fef70e0dc500d2cf6dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101733071,
+            "neighbourhood_id":85870865,
+            "region_id":85688517,
+            "venue_id":404148441
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101733073,
+            "neighbourhood_id":85870939,
+            "region_id":85688517,
+            "venue_id":404148441
+        }
+    ],
+    "wof:id":404148441,
+    "wof:lastmodified":1449040125,
+    "wof:name":"Tommy B Trucking LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-87.998421,42.957576,-87.998421,42.957576],
+  "geometry": {"coordinates":[-87.998421,42.957576],"type":"Point"}
+}

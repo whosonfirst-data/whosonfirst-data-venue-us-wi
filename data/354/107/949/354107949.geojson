@@ -1,0 +1,66 @@
+{
+  "id": 354107949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.184173,43.436486,-88.184173,43.436486",
+    "geom:latitude":43.436486,
+    "geom:longitude":-88.184173,
+    "iso:country":"US",
+    "sg:address":"1200 N Main St",
+    "sg:city":"West Bend",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 338 3670",
+    "sg:postcode":"53090",
+    "sg:province":"WI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732991,
+        102081745,
+        85859413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V1pvzm1LmEw9TFYKZnnTo_43.436486_-88.184173@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f132fc46b6d473652e795a85b27f1b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081745,
+            "locality_id":101732991,
+            "neighbourhood_id":85859413,
+            "region_id":85688517,
+            "venue_id":354107949
+        }
+    ],
+    "wof:id":354107949,
+    "wof:lastmodified":1449065936,
+    "wof:name":"Bob's Main Street Auto & Twng",
+    "wof:parent_id":85859413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [-88.184173,43.436486,-88.184173,43.436486],
+  "geometry": {"coordinates":[-88.184173,43.436486],"type":"Point"}
+}

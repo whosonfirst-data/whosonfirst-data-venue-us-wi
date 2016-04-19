@@ -1,0 +1,68 @@
+{
+  "id": 387452437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.942333,43.112291,-87.942333,43.112291",
+    "geom:latitude":43.112291,
+    "geom:longitude":-87.942333,
+    "iso:country":"US",
+    "sg:address":"2400 W Villard Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 527 8131",
+    "sg:postcode":"53209",
+    "sg:province":"WI",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85870801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z4Xbm2iJTUObDHbYk2r0s_43.112291_-87.942333@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b5056c119c7728d5b9444b1f7d40fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870801,
+            "region_id":85688517,
+            "venue_id":387452437
+        }
+    ],
+    "wof:id":387452437,
+    "wof:lastmodified":1449057003,
+    "wof:name":"Behavioral Health Center",
+    "wof:parent_id":85870801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [-87.942333,43.112291,-87.942333,43.112291],
+  "geometry": {"coordinates":[-87.942333,43.112291],"type":"Point"}
+}

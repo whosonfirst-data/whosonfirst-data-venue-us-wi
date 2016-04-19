@@ -1,0 +1,72 @@
+{
+  "id": 387132101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.924251,43.259403,-87.924251,43.259403",
+    "geom:latitude":43.259403,
+    "geom:longitude":-87.924251,
+    "iso:country":"US",
+    "sg:address":"13111 N Port Washington Rd",
+    "sg:city":"Mequon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 243 7300",
+    "sg:postcode":"53097",
+    "sg:province":"WI",
+    "sg:tags":[
+        "clinic",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        102081873,
+        85829269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lLxlFtDMW7YD2A7Y94Lli_43.259403_-87.924251@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ad3010ad2263011590d28f451a48a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081873,
+            "locality_id":-1,
+            "neighbourhood_id":85829269,
+            "region_id":85688517,
+            "venue_id":387132101
+        }
+    ],
+    "wof:id":387132101,
+    "wof:lastmodified":1449057961,
+    "wof:name":"St Mary's Hospital Ozaukee",
+    "wof:parent_id":85829269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "general"
+    ]
+},
+  "bbox": [-87.924251,43.259403,-87.924251,43.259403],
+  "geometry": {"coordinates":[-87.924251,43.259403],"type":"Point"}
+}

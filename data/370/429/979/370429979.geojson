@@ -1,0 +1,67 @@
+{
+  "id": 370429979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.882683,43.08182,-87.882683,43.08182",
+    "geom:latitude":43.08182,
+    "geom:longitude":-87.882683,
+    "iso:country":"US",
+    "sg:address":"3410 N Maryland Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 229 4627",
+    "sg:postcode":"53211",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.police.uwm.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733085,
+        102081837,
+        85870911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45uC8nYtz3ozDHZbwVIbzj_43.081820_-87.882683@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33741b9939086636fd52b20afb81fd6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101733085,
+            "neighbourhood_id":85870911,
+            "region_id":85688517,
+            "venue_id":370429979
+        }
+    ],
+    "wof:id":370429979,
+    "wof:lastmodified":1449032286,
+    "wof:name":"Uwm Police Dept",
+    "wof:parent_id":85870911,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-87.882683,43.08182,-87.882683,43.08182],
+  "geometry": {"coordinates":[-87.882683,43.08182],"type":"Point"}
+}

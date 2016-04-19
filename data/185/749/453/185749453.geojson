@@ -1,0 +1,67 @@
+{
+  "id": 185749453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.381112,43.075279,-89.381112,43.075279",
+    "geom:latitude":43.075279,
+    "geom:longitude":-89.381112,
+    "iso:country":"US",
+    "sg:address":"110 E Main St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 266 3501",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "state"
+    ],
+    "sg:website":"www.wicourts.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vIA3CVdCE0n3EbgS6oSfy_43.075279_-89.381112@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ec6736e0ce634ab4896eb8be0bafa21",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878845,
+            "region_id":85688517,
+            "venue_id":185749453
+        }
+    ],
+    "wof:id":185749453,
+    "wof:lastmodified":1449007075,
+    "wof:name":"Supreme Court",
+    "wof:parent_id":85878845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [-89.381112,43.075279,-89.381112,43.075279],
+  "geometry": {"coordinates":[-89.381112,43.075279],"type":"Point"}
+}

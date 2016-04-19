@@ -1,0 +1,70 @@
+{
+  "id": 354132569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.888204,42.981109,-87.888204,42.981109",
+    "geom:latitude":42.981109,
+    "geom:longitude":-87.888204,
+    "iso:country":"US",
+    "sg:address":"3406 S Alabama Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 294 0374",
+    "sg:postcode":"53207",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85894493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F5Gd6LFKJQMYS23Sv6znX_42.981109_-87.888204@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a5e18203759d37d1ae3b52dadef00fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85894493,
+            "region_id":85688517,
+            "venue_id":354132569
+        }
+    ],
+    "wof:id":354132569,
+    "wof:lastmodified":1449066748,
+    "wof:name":"JW Express",
+    "wof:parent_id":85894493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-87.888204,42.981109,-87.888204,42.981109],
+  "geometry": {"coordinates":[-87.888204,42.981109],"type":"Point"}
+}

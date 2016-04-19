@@ -1,0 +1,68 @@
+{
+  "id": 354297853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.902538,43.16945,-87.902538,43.16945",
+    "geom:latitude":43.16945,
+    "geom:longitude":-87.902538,
+    "iso:country":"US",
+    "sg:address":"508 E Dean Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 384 2000",
+    "sg:postcode":"53217",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733069,
+        102081837,
+        85870821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WC7WbkIorX99P6i7kMVZc_43.169450_-87.902538@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6398c0d47ba3ce89ed0cc8847b1665c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101733069,
+            "neighbourhood_id":85870821,
+            "region_id":85688517,
+            "venue_id":354297853
+        }
+    ],
+    "wof:id":354297853,
+    "wof:lastmodified":1449067050,
+    "wof:name":"Jung Ki Cho MD",
+    "wof:parent_id":85870821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-87.902538,43.16945,-87.902538,43.16945],
+  "geometry": {"coordinates":[-87.902538,43.16945],"type":"Point"}
+}

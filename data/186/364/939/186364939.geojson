@@ -1,0 +1,68 @@
+{
+  "id": 186364939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.023149,42.680203,-89.023149,42.680203",
+    "geom:latitude":42.680203,
+    "geom:longitude":-89.023149,
+    "iso:country":"US",
+    "sg:address":"123 S River St",
+    "sg:city":"Janesville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 758 1240",
+    "sg:postcode":"53545",
+    "sg:province":"WI",
+    "sg:tags":[
+        "city",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732837,
+        102081829,
+        85803103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70DZYNIYwPDRCx6MMyQa1x_42.680203_-89.023149@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"69f9fec6238a6a62e901034b73058ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081829,
+            "locality_id":101732837,
+            "neighbourhood_id":85803103,
+            "region_id":85688517,
+            "venue_id":186364939
+        }
+    ],
+    "wof:id":186364939,
+    "wof:lastmodified":1449051887,
+    "wof:name":"Janesville City Transit Trnsfr",
+    "wof:parent_id":85803103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "program"
+    ]
+},
+  "bbox": [-89.023149,42.680203,-89.023149,42.680203],
+  "geometry": {"coordinates":[-89.023149,42.680203],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 387222641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.611382,45.002761,-89.611382,45.002761",
+    "geom:latitude":45.002761,
+    "geom:longitude":-89.611382,
+    "iso:country":"US",
+    "sg:address":"935 Evergreen Rd",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 675 4726",
+    "sg:postcode":"54403",
+    "sg:province":"WI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nx0vZFetAbatWQFcar1lB_45.002761_-89.611382@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"760f2917d7f21f77ba4f6e4cc4cdb602",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":387222641
+        }
+    ],
+    "wof:id":387222641,
+    "wof:lastmodified":1449058654,
+    "wof:name":"Wausau Office Cleaning",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [-89.611382,45.002761,-89.611382,45.002761],
+  "geometry": {"coordinates":[-89.611382,45.002761],"type":"Point"}
+}

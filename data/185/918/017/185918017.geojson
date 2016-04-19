@@ -1,0 +1,68 @@
+{
+  "id": 185918017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.798531,42.748336,-87.798531,42.748336",
+    "geom:latitude":42.748336,
+    "geom:longitude":-87.798531,
+    "iso:country":"US",
+    "sg:address":"2320 Douglas Ave",
+    "sg:city":"Racine",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 635 5280",
+    "sg:postcode":"53402",
+    "sg:province":"WI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732315,
+        102081763,
+        85827169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7X9sicJIWYp8ObsLQsNXuY_42.748336_-87.798531@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ad0a1c5a16f661e79bed4ab061f1a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081763,
+            "locality_id":101732315,
+            "neighbourhood_id":85827169,
+            "region_id":85688517,
+            "venue_id":185918017
+        }
+    ],
+    "wof:id":185918017,
+    "wof:lastmodified":1449007679,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85827169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [-87.798531,42.748336,-87.798531,42.748336],
+  "geometry": {"coordinates":[-87.798531,42.748336],"type":"Point"}
+}

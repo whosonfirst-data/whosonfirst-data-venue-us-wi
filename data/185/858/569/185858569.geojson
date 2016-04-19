@@ -1,0 +1,76 @@
+{
+  "id": 185858569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.936375,43.002906,-87.936375,43.002906",
+    "geom:latitude":43.002906,
+    "geom:longitude":-87.936375,
+    "iso:country":"US",
+    "sg:address":"1817 W Lincoln Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 902 9700",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85894491,
+        85870927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UGEV26no44Sc2hdNbxz0u_43.002906_-87.936375@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3998fdabb1d7d87ec269da135f88e85f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85894491,
+            "region_id":85688517,
+            "venue_id":185858569
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870927,
+            "region_id":85688517,
+            "venue_id":185858569
+        }
+    ],
+    "wof:id":185858569,
+    "wof:lastmodified":1449006774,
+    "wof:name":"Lincoln Avenue Elementary Schl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [-87.936375,43.002906,-87.936375,43.002906],
+  "geometry": {"coordinates":[-87.936375,43.002906],"type":"Point"}
+}

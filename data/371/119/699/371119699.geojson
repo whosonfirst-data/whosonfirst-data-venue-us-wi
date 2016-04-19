@@ -1,0 +1,67 @@
+{
+  "id": 371119699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.394107,43.041833,-89.394107,43.041833",
+    "geom:latitude":43.041833,
+    "geom:longitude":-89.394107,
+    "iso:country":"US",
+    "sg:address":"2200 S Park St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 845 8230",
+    "sg:postcode":"53715",
+    "sg:province":"WI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        102081795,
+        85878867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63L3at7KPzcFgnHWoAXhAa_43.041833_-89.394107@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4368545cb359598eb21c0a4851d96089",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":-1,
+            "neighbourhood_id":85878867,
+            "region_id":85688517,
+            "venue_id":371119699
+        }
+    ],
+    "wof:id":371119699,
+    "wof:lastmodified":1449049797,
+    "wof:name":"Verona Quik",
+    "wof:parent_id":85878867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [-89.394107,43.041833,-89.394107,43.041833],
+  "geometry": {"coordinates":[-89.394107,43.041833],"type":"Point"}
+}

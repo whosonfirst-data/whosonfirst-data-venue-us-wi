@@ -1,0 +1,75 @@
+{
+  "id": 354246877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.534401,43.092378,-89.534401,43.092378",
+    "geom:latitude":43.092378,
+    "geom:longitude":-89.534401,
+    "iso:country":"US",
+    "sg:address":"8551 Research Way",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 662 1232",
+    "sg:postcode":"53562",
+    "sg:province":"WI",
+    "sg:tags":[
+        "hospital",
+        "carrier",
+        "life"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jeVPOFN1WfeiYxw9uPIId_43.092378_-89.534401@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"080343f0cb0648f603aa7d9fcb894756",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":354246877
+        }
+    ],
+    "wof:id":354246877,
+    "wof:lastmodified":1449066048,
+    "wof:name":"North American Insurance Co",
+    "wof:parent_id":85878843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "carrier",
+        "life"
+    ]
+},
+  "bbox": [-89.534401,43.092378,-89.534401,43.092378],
+  "geometry": {"coordinates":[-89.534401,43.092378],"type":"Point"}
+}

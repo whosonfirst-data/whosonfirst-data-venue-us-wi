@@ -1,0 +1,83 @@
+{
+  "id": 353582529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.941628,43.004844,-87.941628,43.004844",
+    "geom:latitude":43.004844,
+    "geom:longitude":-87.941628,
+    "iso:country":"US",
+    "sg:address":"2101 W Forest Home Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 649 9030",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "product",
+        "oriental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85870843,
+        85870927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G9ktogmB5MqlR08vS8R73_43.004844_-87.941628@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25f0ce0f9b1f44ae8889682aac4bc422",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870843,
+            "region_id":85688517,
+            "venue_id":353582529
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870927,
+            "region_id":85688517,
+            "venue_id":353582529
+        }
+    ],
+    "wof:id":353582529,
+    "wof:lastmodified":1449019636,
+    "wof:name":"Asian American Wholesale Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "oriental"
+    ]
+},
+  "bbox": [-87.941628,43.004844,-87.941628,43.004844],
+  "geometry": {"coordinates":[-87.941628,43.004844],"type":"Point"}
+}

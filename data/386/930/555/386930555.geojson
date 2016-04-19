@@ -1,0 +1,74 @@
+{
+  "id": 386930555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.346357,43.137415,-89.346357,43.137415",
+    "geom:latitude":43.137415,
+    "geom:longitude":-89.346357,
+    "iso:country":"US",
+    "sg:address":"4000 International Ln",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 661 4900",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878829
+    ],
+    "wof:brand_id":420573775,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RlApzIGy8gTiEY3m3dYXU_43.137415_-89.346357@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8b71ee441e0ca37be298fe617492cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878829,
+            "region_id":85688517,
+            "venue_id":386930555
+        }
+    ],
+    "wof:id":386930555,
+    "wof:lastmodified":1457207250,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85878829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -89.346357,
+    43.137415,
+    -89.346357,
+    43.137415
+],
+  "geometry": {"coordinates":[-89.346357,43.137415],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 403989485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.496192,43.056407,-89.496192,43.056407",
+    "geom:latitude":43.056407,
+    "geom:longitude":-89.496192,
+    "iso:country":"US",
+    "sg:address":"6661 Odana Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 829 2535",
+    "sg:postcode":"53719",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a1PiP9FxwWIqjJerr0Xz8_43.056407_-89.496192@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d8ae50ea8a302212c581ad56917388ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878893,
+            "region_id":85688517,
+            "venue_id":403989485
+        }
+    ],
+    "wof:id":403989485,
+    "wof:lastmodified":1449055587,
+    "wof:name":"Associated Podiatrists LLP",
+    "wof:parent_id":85878893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-89.496192,43.056407,-89.496192,43.056407],
+  "geometry": {"coordinates":[-89.496192,43.056407],"type":"Point"}
+}

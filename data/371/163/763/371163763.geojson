@@ -1,0 +1,76 @@
+{
+  "id": 371163763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.387294,43.074225,-89.387294,43.074225",
+    "geom:latitude":43.074225,
+    "geom:longitude":-89.387294,
+    "iso:country":"US",
+    "sg:address":"124 W Mifflin St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 255 7586",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mental",
+        "outpatient",
+        "specialty"
+    ],
+    "sg:website":"www.mhcdc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mnw7valCKQgqeo7nG7GFu_43.074225_-89.387294@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"680720c10991c0c0ed808f52d3f6566a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878831,
+            "region_id":85688517,
+            "venue_id":371163763
+        }
+    ],
+    "wof:id":371163763,
+    "wof:lastmodified":1449050119,
+    "wof:name":"Mental Health Center Dane Cnty",
+    "wof:parent_id":85878831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [-89.387294,43.074225,-89.387294,43.074225],
+  "geometry": {"coordinates":[-89.387294,43.074225],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387675129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.81492,42.791429,-87.81492,42.791429",
+    "geom:latitude":42.791429,
+    "geom:longitude":-87.81492,
+    "iso:country":"US",
+    "sg:address":"5333 Douglas Ave",
+    "sg:city":"Racine",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 752 2100",
+    "sg:postcode":"53402",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732315,
+        102081763,
+        85827169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DyohtCOS7Qt71bWNVBMjL_42.791429_-87.814920@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a08f2cca12c0f86bee327846eef8844",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081763,
+            "locality_id":101732315,
+            "neighbourhood_id":85827169,
+            "region_id":85688517,
+            "venue_id":387675129
+        }
+    ],
+    "wof:id":387675129,
+    "wof:lastmodified":1449058041,
+    "wof:name":"Aurora Health Ctr",
+    "wof:parent_id":85827169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-87.81492,42.791429,-87.81492,42.791429],
+  "geometry": {"coordinates":[-87.81492,42.791429],"type":"Point"}
+}

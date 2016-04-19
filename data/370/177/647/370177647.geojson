@@ -1,0 +1,68 @@
+{
+  "id": 370177647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.933849,42.984736,-87.933849,42.984736",
+    "geom:latitude":42.984736,
+    "geom:longitude":-87.933849,
+    "iso:country":"US",
+    "sg:address":"3201 S 16th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 643 0711",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85870955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0112i7I3sO8VTsBL78u2lX_42.984736_-87.933849@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"207fe4b71a44ff754713c9cf02a4694e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870955,
+            "region_id":85688517,
+            "venue_id":370177647
+        }
+    ],
+    "wof:id":370177647,
+    "wof:lastmodified":1449032470,
+    "wof:name":"Wes I Frankowski MD",
+    "wof:parent_id":85870955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-87.933849,42.984736,-87.933849,42.984736],
+  "geometry": {"coordinates":[-87.933849,42.984736],"type":"Point"}
+}

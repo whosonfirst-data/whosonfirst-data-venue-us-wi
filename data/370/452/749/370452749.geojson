@@ -1,0 +1,68 @@
+{
+  "id": 370452749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.415129,43.029305,-89.415129,43.029305",
+    "geom:latitude":43.029305,
+    "geom:longitude":-89.415129,
+    "iso:country":"US",
+    "sg:address":"2019 Pike Dr",
+    "sg:city":"Fitchburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 274 6196",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "janitor",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ustumn3sr31rvjkBQ8TxM_43.029305_-89.415129@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe421386aad3efbf11909b47426bc20a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":370452749
+        }
+    ],
+    "wof:id":370452749,
+    "wof:lastmodified":1449029887,
+    "wof:name":"Zapps Cleaning Services LLC",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "maintenance"
+    ]
+},
+  "bbox": [-89.415129,43.029305,-89.415129,43.029305],
+  "geometry": {"coordinates":[-89.415129,43.029305],"type":"Point"}
+}

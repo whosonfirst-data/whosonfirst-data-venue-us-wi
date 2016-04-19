@@ -1,0 +1,67 @@
+{
+  "id": 337423489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.812198,43.829568,-87.812198,43.829568",
+    "geom:latitude":43.829568,
+    "geom:longitude":-87.812198,
+    "iso:country":"US",
+    "sg:address":"7940 State Hwy 42",
+    "sg:city":"Sheboygan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 565 2375",
+    "sg:postcode":"53083",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        102081869,
+        85818209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R518xAdGLDJTs0EVLAP76_43.829568_-87.812198@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"460269fcf73b031a134c5de9db560ceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081869,
+            "locality_id":-1,
+            "neighbourhood_id":85818209,
+            "region_id":85688517,
+            "venue_id":337423489
+        }
+    ],
+    "wof:id":337423489,
+    "wof:lastmodified":1449027060,
+    "wof:name":"Schwartz Service",
+    "wof:parent_id":85818209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-87.812198,43.829568,-87.812198,43.829568],
+  "geometry": {"coordinates":[-87.812198,43.829568],"type":"Point"}
+}

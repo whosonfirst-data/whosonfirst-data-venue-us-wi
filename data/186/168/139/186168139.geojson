@@ -1,0 +1,68 @@
+{
+  "id": 186168139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.987732,43.891995,-90.987732,43.891995",
+    "geom:latitude":43.891995,
+    "geom:longitude":-90.987732,
+    "iso:country":"US",
+    "sg:address":"1501 Commercial St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 486 2631",
+    "sg:postcode":"54614",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732663,
+        102081301,
+        85825891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MGBPK4mzyBROsSzENifCV_43.891995_-90.987732@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8042f45b6f1afa0e1a2d8031fbcc649d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732663,
+            "neighbourhood_id":85825891,
+            "region_id":85688517,
+            "venue_id":186168139
+        }
+    ],
+    "wof:id":186168139,
+    "wof:lastmodified":1449051770,
+    "wof:name":"John's 76",
+    "wof:parent_id":85825891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-90.987732,43.891995,-90.987732,43.891995],
+  "geometry": {"coordinates":[-90.987732,43.891995],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 370362149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.052058,43.046952,-88.052058,43.046952",
+    "geom:latitude":43.046952,
+    "geom:longitude":-88.052058,
+    "iso:country":"US",
+    "sg:address":"11020 W Plank Ct",
+    "sg:city":"Wauwatosa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 647 5285",
+    "sg:postcode":"53226",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85867293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vRccI1HKe9BXpM2dziefX_43.046952_-88.052058@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61e23d182db735b00722e6d67160abd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85867293,
+            "region_id":85688517,
+            "venue_id":370362149
+        }
+    ],
+    "wof:id":370362149,
+    "wof:lastmodified":1449031259,
+    "wof:name":"Ameripath",
+    "wof:parent_id":85867293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-88.052058,43.046952,-88.052058,43.046952],
+  "geometry": {"coordinates":[-88.052058,43.046952],"type":"Point"}
+}

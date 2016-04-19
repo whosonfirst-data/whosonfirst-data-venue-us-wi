@@ -1,0 +1,68 @@
+{
+  "id": 185880889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.005717,42.695355,-89.005717,42.695355",
+    "geom:latitude":42.695355,
+    "geom:longitude":-89.005717,
+    "iso:country":"US",
+    "sg:address":"1321 Sherman Ave",
+    "sg:city":"Janesville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 752 3711",
+    "sg:postcode":"53545",
+    "sg:province":"WI",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732837,
+        102081829,
+        85803103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vyrYZpGY2DNvKdCkw1LsK_42.695355_-89.005717@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0baa8901640a83f75946a9e356614ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081829,
+            "locality_id":101732837,
+            "neighbourhood_id":85803103,
+            "region_id":85688517,
+            "venue_id":185880889
+        }
+    ],
+    "wof:id":185880889,
+    "wof:lastmodified":1449008220,
+    "wof:name":"Sherman Home",
+    "wof:parent_id":85803103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [-89.005717,42.695355,-89.005717,42.695355],
+  "geometry": {"coordinates":[-89.005717,42.695355],"type":"Point"}
+}

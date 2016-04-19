@@ -1,0 +1,83 @@
+{
+  "id": 353425417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.933772,43.055639,-87.933772,43.055639",
+    "geom:latitude":43.055639,
+    "geom:longitude":-87.933772,
+    "iso:country":"US",
+    "sg:address":"1942 N 17th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Bus Station",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 344 4550",
+    "sg:postcode":"53205",
+    "sg:province":"WI",
+    "sg:tags":[
+        "freight",
+        "government",
+        "facility",
+        "county",
+        "motor",
+        "line",
+        "fixed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85870963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AG8KL7ZO3l9XrqsIRtlRu_43.055639_-87.933772@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"65acdea052630c6e81839164827c7d27",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870963,
+            "region_id":85688517,
+            "venue_id":353425417
+        }
+    ],
+    "wof:id":353425417,
+    "wof:lastmodified":1449019149,
+    "wof:name":"Milwaukee County Transit Sys",
+    "wof:parent_id":85870963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "freight",
+        "government",
+        "facility",
+        "county",
+        "motor",
+        "line",
+        "fixed"
+    ]
+},
+  "bbox": [-87.933772,43.055639,-87.933772,43.055639],
+  "geometry": {"coordinates":[-87.933772,43.055639],"type":"Point"}
+}

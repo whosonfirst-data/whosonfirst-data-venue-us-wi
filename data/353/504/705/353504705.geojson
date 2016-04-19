@@ -1,0 +1,74 @@
+{
+  "id": 353504705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.566308,44.055735,-88.566308,44.055735",
+    "geom:latitude":44.055735,
+    "geom:longitude":-88.566308,
+    "iso:country":"US",
+    "sg:address":"1975 Stillman Dr",
+    "sg:city":"Oshkosh",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 233 0783",
+    "sg:postcode":"54901",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "line",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733459,
+        102081801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d7ARQYTPQ0YFB1bH8xEMZ_44.055735_-88.566308@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bccd1eeb4d2354dcc138a865d4f99e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101733459,
+            "neighbourhood_id":-1,
+            "region_id":85688517,
+            "venue_id":353504705
+        }
+    ],
+    "wof:id":353504705,
+    "wof:lastmodified":1449018692,
+    "wof:name":"Hartvig Transit",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line",
+        "trucking"
+    ]
+},
+  "bbox": [-88.566308,44.055735,-88.566308,44.055735],
+  "geometry": {"coordinates":[-88.566308,44.055735],"type":"Point"}
+}

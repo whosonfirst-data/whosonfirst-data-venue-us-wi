@@ -1,0 +1,68 @@
+{
+  "id": 185820225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.997163,43.088545,-87.997163,43.088545",
+    "geom:latitude":43.088545,
+    "geom:longitude":-87.997163,
+    "iso:country":"US",
+    "sg:address":"3975 N 68th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 536 0236",
+    "sg:postcode":"53216",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85870905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cj1RFALhpeXLahjNzZe2x_43.088545_-87.997163@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d91f85806bb0fd7b9cade24cd194f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870905,
+            "region_id":85688517,
+            "venue_id":185820225
+        }
+    ],
+    "wof:id":185820225,
+    "wof:lastmodified":1449007462,
+    "wof:name":"Capitol Drive Pediatrics",
+    "wof:parent_id":85870905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-87.997163,43.088545,-87.997163,43.088545],
+  "geometry": {"coordinates":[-87.997163,43.088545],"type":"Point"}
+}

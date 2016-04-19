@@ -1,0 +1,69 @@
+{
+  "id": 353818603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.485126,44.184383,-88.485126,44.184383",
+    "geom:latitude":44.184383,
+    "geom:longitude":-88.485126,
+    "iso:country":"US",
+    "sg:address":"301 S Green Bay Rd",
+    "sg:city":"Neenah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 886 8714",
+    "sg:postcode":"54956",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R4Ynt8MiuNj43nrupuT1X_44.184383_-88.485126@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"178f659906eeef9ebbcd0ce9fae2db6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688517,
+            "venue_id":353818603
+        }
+    ],
+    "wof:id":353818603,
+    "wof:lastmodified":1449019510,
+    "wof:name":"Rob's Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-88.485126,44.184383,-88.485126,44.184383],
+  "geometry": {"coordinates":[-88.485126,44.184383],"type":"Point"}
+}

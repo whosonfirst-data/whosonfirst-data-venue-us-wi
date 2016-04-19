@@ -1,0 +1,68 @@
+{
+  "id": 370525435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.067645,44.485974,-88.067645,44.485974",
+    "geom:latitude":44.485974,
+    "geom:longitude":-88.067645,
+    "iso:country":"US",
+    "sg:address":"2401 S Oneida St",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 497 6135",
+    "sg:postcode":"54304",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732293,
+        102081867,
+        85877943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o9rxX1143AyCAtBBoXUDq_44.485974_-88.067645@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"518219d0ec1c972e5dda8ba78141ff62",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081867,
+            "locality_id":101732293,
+            "neighbourhood_id":85877943,
+            "region_id":85688517,
+            "venue_id":370525435
+        }
+    ],
+    "wof:id":370525435,
+    "wof:lastmodified":1449031779,
+    "wof:name":"Rick Davison MD",
+    "wof:parent_id":85877943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-88.067645,44.485974,-88.067645,44.485974],
+  "geometry": {"coordinates":[-88.067645,44.485974],"type":"Point"}
+}

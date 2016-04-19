@@ -1,0 +1,68 @@
+{
+  "id": 337352583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.806188,42.711488,-87.806188,42.711488",
+    "geom:latitude":42.711488,
+    "geom:longitude":-87.806188,
+    "iso:country":"US",
+    "sg:address":"1642 Taylor Ave",
+    "sg:city":"Racine",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 637 2522",
+    "sg:postcode":"53403",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732315,
+        102081763,
+        85827169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YJJnhLaS6vnS0XQes8hpH_42.711488_-87.806188@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49bcd2ff3d56efd6f965bbe8dfe2e852",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081763,
+            "locality_id":101732315,
+            "neighbourhood_id":85827169,
+            "region_id":85688517,
+            "venue_id":337352583
+        }
+    ],
+    "wof:id":337352583,
+    "wof:lastmodified":1449027451,
+    "wof:name":"Fuzzys Auto Service",
+    "wof:parent_id":85827169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "general"
+    ]
+},
+  "bbox": [-87.806188,42.711488,-87.806188,42.711488],
+  "geometry": {"coordinates":[-87.806188,42.711488],"type":"Point"}
+}

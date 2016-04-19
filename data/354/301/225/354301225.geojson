@@ -1,0 +1,66 @@
+{
+  "id": 354301225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.561497,44.017777,-88.561497,44.017777",
+    "geom:latitude":44.017777,
+    "geom:longitude":-88.561497,
+    "iso:country":"US",
+    "sg:address":"815 Witzel Ave",
+    "sg:city":"Oshkosh",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 233 2752",
+    "sg:postcode":"54902",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733459,
+        102081801,
+        85851167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_224TPvwFIwmZd1bqe1cvpu_44.017777_-88.561497@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"02d0e145f8efa0dfa5be0304da13d7a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101733459,
+            "neighbourhood_id":85851167,
+            "region_id":85688517,
+            "venue_id":354301225
+        }
+    ],
+    "wof:id":354301225,
+    "wof:lastmodified":1449066348,
+    "wof:name":"Care Hospital For Animals",
+    "wof:parent_id":85851167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-88.561497,44.017777,-88.561497,44.017777],
+  "geometry": {"coordinates":[-88.561497,44.017777],"type":"Point"}
+}

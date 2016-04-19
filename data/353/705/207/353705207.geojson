@@ -1,0 +1,80 @@
+{
+  "id": 353705207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.364311,43.083264,-89.364311,43.083264",
+    "geom:latitude":43.083264,
+    "geom:longitude":-89.364311,
+    "iso:country":"US",
+    "sg:address":"1101 Williamson St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 259 1301",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "sg:website":"www.motherfools.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878861,
+        101732815,
+        85868285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mmowkH3TE8Yke1WOTCiYp_43.083264_-89.364311@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8dc1ebdd4133abd0bb4a6848773ba39d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878861,
+            "region_id":85688517,
+            "venue_id":353705207
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732815,
+            "neighbourhood_id":85868285,
+            "region_id":85688517,
+            "venue_id":353705207
+        }
+    ],
+    "wof:id":353705207,
+    "wof:lastmodified":1449020810,
+    "wof:name":"Mother Fool's Coffee House",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [-89.364311,43.083264,-89.364311,43.083264],
+  "geometry": {"coordinates":[-89.364311,43.083264],"type":"Point"}
+}

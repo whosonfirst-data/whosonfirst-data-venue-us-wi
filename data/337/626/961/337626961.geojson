@@ -1,0 +1,68 @@
+{
+  "id": 337626961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.43052,43.075125,-89.43052,43.075125",
+    "geom:latitude":43.075125,
+    "geom:longitude":-89.43052,
+    "iso:country":"US",
+    "sg:address":"2500 Overlook Ter",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 270 5676",
+    "sg:postcode":"53705",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85868277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15gsPSafiDsuRTnDlJy1eu_43.075125_-89.430520@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db2268473c9388007f375d8a5016c096",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85868277,
+            "region_id":85688517,
+            "venue_id":337626961
+        }
+    ],
+    "wof:id":337626961,
+    "wof:lastmodified":1449027738,
+    "wof:name":"Dr Thomas H Steele Ofc",
+    "wof:parent_id":85868277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-89.43052,43.075125,-89.43052,43.075125],
+  "geometry": {"coordinates":[-89.43052,43.075125],"type":"Point"}
+}

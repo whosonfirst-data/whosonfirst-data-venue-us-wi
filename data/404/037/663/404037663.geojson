@@ -1,0 +1,69 @@
+{
+  "id": 404037663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.028378,42.649617,-89.028378,42.649617",
+    "geom:latitude":42.649617,
+    "geom:longitude":-89.028378,
+    "iso:country":"US",
+    "sg:address":"849 Kellogg Ave",
+    "sg:city":"Janesville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 755 7964",
+    "sg:postcode":"53546",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.mercyhealthsystem.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732837,
+        102081829,
+        85803103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SgOdfzvV09EPt6bzMYJ7z_42.649617_-89.028378@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5d82cce4d2920ff4aaa8061b143cdcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081829,
+            "locality_id":101732837,
+            "neighbourhood_id":85803103,
+            "region_id":85688517,
+            "venue_id":404037663
+        }
+    ],
+    "wof:id":404037663,
+    "wof:lastmodified":1449040343,
+    "wof:name":"Family Practice Residency",
+    "wof:parent_id":85803103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-89.028378,42.649617,-89.028378,42.649617],
+  "geometry": {"coordinates":[-89.028378,42.649617],"type":"Point"}
+}

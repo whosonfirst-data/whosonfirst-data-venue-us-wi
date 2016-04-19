@@ -1,0 +1,66 @@
+{
+  "id": 337281639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.025706,42.695683,-89.025706,42.695683",
+    "geom:latitude":42.695683,
+    "geom:longitude":-89.025706,
+    "iso:country":"US",
+    "sg:address":"830 Harding St",
+    "sg:city":"Janesville",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 752 2000",
+    "sg:postcode":"53545",
+    "sg:province":"WI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732837,
+        102081829,
+        85803103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IL908EiquBq5Icl3k8BSh_42.695683_-89.025706@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"878312c91168f1f992ec6d2c6b52a65f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081829,
+            "locality_id":101732837,
+            "neighbourhood_id":85803103,
+            "region_id":85688517,
+            "venue_id":337281639
+        }
+    ],
+    "wof:id":337281639,
+    "wof:lastmodified":1449027616,
+    "wof:name":"Janesville City Taxi",
+    "wof:parent_id":85803103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-89.025706,42.695683,-89.025706,42.695683],
+  "geometry": {"coordinates":[-89.025706,42.695683],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 354300261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.415862,44.277874,-88.415862,44.277874",
+    "geom:latitude":44.277874,
+    "geom:longitude":-88.415862,
+    "iso:country":"US",
+    "sg:address":"1727 N Richmond St",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 733 6136",
+    "sg:postcode":"54911",
+    "sg:province":"WI",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TRqJcrlQNzStkR97QGndr_44.277874_-88.415862@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"13c9765ca3772c60ef92bcc7012daad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":354300261
+        }
+    ],
+    "wof:id":354300261,
+    "wof:lastmodified":1449066909,
+    "wof:name":"Crescent Electric Motor Svc",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [-88.415862,44.277874,-88.415862,44.277874],
+  "geometry": {"coordinates":[-88.415862,44.277874],"type":"Point"}
+}

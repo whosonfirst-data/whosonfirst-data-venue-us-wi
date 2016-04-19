@@ -1,0 +1,79 @@
+{
+  "id": 353581781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.36358,43.085211,-89.36358,43.085211",
+    "geom:latitude":43.085211,
+    "geom:longitude":-89.36358,
+    "iso:country":"US",
+    "sg:address":"202 S Baldwin St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 251 4680",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878861,
+        101732815,
+        85868285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wIxPMD99b4AEzmfghPhAn_43.085211_-89.363580@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0c7c1db0788cd6978e82ac386640388e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878861,
+            "region_id":85688517,
+            "venue_id":353581781
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732815,
+            "neighbourhood_id":85868285,
+            "region_id":85688517,
+            "venue_id":353581781
+        }
+    ],
+    "wof:id":353581781,
+    "wof:lastmodified":1449018797,
+    "wof:name":"Madison Isthmus Mini Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [-89.36358,43.085211,-89.36358,43.085211],
+  "geometry": {"coordinates":[-89.36358,43.085211],"type":"Point"}
+}

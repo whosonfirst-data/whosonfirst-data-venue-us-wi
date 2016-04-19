@@ -1,0 +1,83 @@
+{
+  "id": 353583447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.003093,44.513285,-88.003093,44.513285",
+    "geom:latitude":44.513285,
+    "geom:longitude":-88.003093,
+    "iso:country":"US",
+    "sg:address":"914 Main St",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 455 4540",
+    "sg:postcode":"54301",
+    "sg:province":"WI",
+    "sg:tags":[
+        "product",
+        "oriental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732365,
+        102081867,
+        85877935,
+        85877947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mSb54OpEVTs2Bx58XXPCU_44.513285_-88.003093@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d4be9681fe61be7119ace32330732164",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081867,
+            "locality_id":101732365,
+            "neighbourhood_id":85877935,
+            "region_id":85688517,
+            "venue_id":353583447
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081867,
+            "locality_id":101732365,
+            "neighbourhood_id":85877947,
+            "region_id":85688517,
+            "venue_id":353583447
+        }
+    ],
+    "wof:id":353583447,
+    "wof:lastmodified":1449020284,
+    "wof:name":"Vang's Oriental Food Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "oriental"
+    ]
+},
+  "bbox": [-88.003093,44.513285,-88.003093,44.513285],
+  "geometry": {"coordinates":[-88.003093,44.513285],"type":"Point"}
+}

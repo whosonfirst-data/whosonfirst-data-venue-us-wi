@@ -1,0 +1,68 @@
+{
+  "id": 404053331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.47464,43.08263,-89.47464,43.08263",
+    "geom:latitude":43.08263,
+    "geom:longitude":-89.47464,
+    "iso:country":"US",
+    "sg:address":"1706 Norman Way",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 233 6315",
+    "sg:postcode":"53705",
+    "sg:province":"WI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_161jcppsfz2ane6Mzv6KjW_43.082630_-89.474640@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8aaf04b8a36ba08073da974211b71a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878893,
+            "region_id":85688517,
+            "venue_id":404053331
+        }
+    ],
+    "wof:id":404053331,
+    "wof:lastmodified":1449039280,
+    "wof:name":"Spring Harbor Apts",
+    "wof:parent_id":85878893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-89.47464,43.08263,-89.47464,43.08263],
+  "geometry": {"coordinates":[-89.47464,43.08263],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 371155377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.00416,44.511283,-88.00416,44.511283",
+    "geom:latitude":44.511283,
+    "geom:longitude":-88.00416,
+    "iso:country":"US",
+    "sg:address":"101 N Webster Ave",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 435 1933",
+    "sg:postcode":"54301",
+    "sg:province":"WI",
+    "sg:tags":[
+        "foot",
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732365,
+        102081867,
+        85877935,
+        85877947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TY4vsJ93ddBEEpS8dhBcy_44.511283_-88.004160@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c75524f868c046120b28ae7b79aca5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081867,
+            "locality_id":101732365,
+            "neighbourhood_id":85877935,
+            "region_id":85688517,
+            "venue_id":371155377
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081867,
+            "locality_id":101732365,
+            "neighbourhood_id":85877947,
+            "region_id":85688517,
+            "venue_id":371155377
+        }
+    ],
+    "wof:id":371155377,
+    "wof:lastmodified":1449049921,
+    "wof:name":"National Pedorthic Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foot",
+        "appliance"
+    ]
+},
+  "bbox": [-88.00416,44.511283,-88.00416,44.511283],
+  "geometry": {"coordinates":[-88.00416,44.511283],"type":"Point"}
+}

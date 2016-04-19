@@ -1,0 +1,75 @@
+{
+  "id": 387009121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.940372,43.010101,-87.940372,43.010101",
+    "geom:latitude":43.010101,
+    "geom:longitude":-87.940372,
+    "iso:country":"US",
+    "sg:address":"1985 S Muskego Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 384 7320",
+    "sg:postcode":"53204",
+    "sg:province":"WI",
+    "sg:tags":[
+        "sausage",
+        "smoked",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85870843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0txsQVcDWp7TLOpI0SctAV_43.010101_-87.940372@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"40180e72967ddc8188dd7925ee0b45c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870843,
+            "region_id":85688517,
+            "venue_id":387009121
+        }
+    ],
+    "wof:id":387009121,
+    "wof:lastmodified":1449059842,
+    "wof:name":"European Home Made Sausage Shp",
+    "wof:parent_id":85870843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sausage",
+        "smoked",
+        "mfg"
+    ]
+},
+  "bbox": [-87.940372,43.010101,-87.940372,43.010101],
+  "geometry": {"coordinates":[-87.940372,43.010101],"type":"Point"}
+}

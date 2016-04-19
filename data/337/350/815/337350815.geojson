@@ -1,0 +1,68 @@
+{
+  "id": 337350815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.087579,43.902172,-91.087579,43.902172",
+    "geom:latitude":43.902172,
+    "geom:longitude":-91.087579,
+    "iso:country":"US",
+    "sg:address":"540 Commerce St",
+    "sg:city":"West Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 786 2572",
+    "sg:postcode":"54669",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732663,
+        102081301,
+        85825891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45Z0ytO8gPLspIQQ2wRcau_43.902172_-91.087579@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d51e2959b402e17b9cc4476a3a5b542c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732663,
+            "neighbourhood_id":85825891,
+            "region_id":85688517,
+            "venue_id":337350815
+        }
+    ],
+    "wof:id":337350815,
+    "wof:lastmodified":1449027366,
+    "wof:name":"Tom's Auto Svc",
+    "wof:parent_id":85825891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-91.087579,43.902172,-91.087579,43.902172],
+  "geometry": {"coordinates":[-91.087579,43.902172],"type":"Point"}
+}

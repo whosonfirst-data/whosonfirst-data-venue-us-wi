@@ -1,0 +1,74 @@
+{
+  "id": 387229661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.192427,43.019386,-88.192427,43.019386",
+    "geom:latitude":43.019386,
+    "geom:longitude":-88.192427,
+    "iso:country":"US",
+    "sg:address":"1801 Dolphin Dr",
+    "sg:city":"Waukesha",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"News Services",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 650 0270",
+    "sg:postcode":"53186",
+    "sg:province":"WI",
+    "sg:tags":[
+        "newspaper",
+        "bureau"
+    ],
+    "sg:website":"www.jsonline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733495,
+        102081741,
+        85815589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dHVwhcEW0BPMOpmii5QMi_43.019386_-88.192427@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8541e8482fd49115d129c3696a2a494e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081741,
+            "locality_id":101733495,
+            "neighbourhood_id":85815589,
+            "region_id":85688517,
+            "venue_id":387229661
+        }
+    ],
+    "wof:id":387229661,
+    "wof:lastmodified":1449059148,
+    "wof:name":"Milwaukee Journal Sentinel",
+    "wof:parent_id":85815589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper",
+        "bureau"
+    ]
+},
+  "bbox": [-88.192427,43.019386,-88.192427,43.019386],
+  "geometry": {"coordinates":[-88.192427,43.019386],"type":"Point"}
+}

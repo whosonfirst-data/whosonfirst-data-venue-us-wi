@@ -1,0 +1,70 @@
+{
+  "id": 403842251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.005307,44.514775,-88.005307,44.514775",
+    "geom:latitude":44.514775,
+    "geom:longitude":-88.005307,
+    "iso:country":"US",
+    "sg:address":"700 Main St",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 435 7502",
+    "sg:postcode":"54302",
+    "sg:province":"WI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732365,
+        102081867,
+        85877935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w3Mm8NQesLUF3DMZGZuPQ_44.514775_-88.005307@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c681f8765cc07af1528c413117b3756",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081867,
+            "locality_id":101732365,
+            "neighbourhood_id":85877935,
+            "region_id":85688517,
+            "venue_id":403842251
+        }
+    ],
+    "wof:id":403842251,
+    "wof:lastmodified":1449054731,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85877935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [-88.005307,44.514775,-88.005307,44.514775],
+  "geometry": {"coordinates":[-88.005307,44.514775],"type":"Point"}
+}

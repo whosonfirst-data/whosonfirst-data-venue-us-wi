@@ -1,0 +1,68 @@
+{
+  "id": 354318809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.249533,43.813015,-91.249533,43.813015",
+    "geom:latitude":43.813015,
+    "geom:longitude":-91.249533,
+    "iso:country":"US",
+    "sg:address":"425 State St",
+    "sg:city":"La Crosse",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 791 8100",
+    "sg:postcode":"54601",
+    "sg:province":"WI",
+    "sg:tags":[
+        "delivery",
+        "mail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732651,
+        102081301,
+        85837759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UwgAJSxV9FXQj14edDxBB_43.813015_-91.249533@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1a01ff0fd37bd55be2bda3fedd8bd7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732651,
+            "neighbourhood_id":85837759,
+            "region_id":85688517,
+            "venue_id":354318809
+        }
+    ],
+    "wof:id":354318809,
+    "wof:lastmodified":1449066291,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85837759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "mail"
+    ]
+},
+  "bbox": [-91.249533,43.813015,-91.249533,43.813015],
+  "geometry": {"coordinates":[-91.249533,43.813015],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 353789183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.94246,43.006646,-87.94246,43.006646",
+    "geom:latitude":43.006646,
+    "geom:longitude":-87.94246,
+    "iso:country":"US",
+    "sg:address":"2147 S Muskego Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 384 4966",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85870843,
+        85870927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LO1YP9SdGvK2HA5OQy1jB_43.006646_-87.942460@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad07935573010bf106879eab4c1579d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870843,
+            "region_id":85688517,
+            "venue_id":353789183
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870927,
+            "region_id":85688517,
+            "venue_id":353789183
+        }
+    ],
+    "wof:id":353789183,
+    "wof:lastmodified":1449019411,
+    "wof:name":"Professional Auto Body Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [-87.94246,43.006646,-87.94246,43.006646],
+  "geometry": {"coordinates":[-87.94246,43.006646],"type":"Point"}
+}

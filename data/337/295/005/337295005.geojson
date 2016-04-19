@@ -1,0 +1,70 @@
+{
+  "id": 337295005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.17384,43.415423,-88.17384,43.415423",
+    "geom:latitude":43.415423,
+    "geom:longitude":-88.17384,
+    "iso:country":"US",
+    "sg:address":"742 Pennsylvania Ave",
+    "sg:city":"West Bend",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 338 8532",
+    "sg:postcode":"53095",
+    "sg:province":"WI",
+    "sg:tags":[
+        "appliance",
+        "household",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732991,
+        102081745,
+        85859413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79G7ZJQEmQS6kukcUJxZTW_43.415423_-88.173840@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"58f5d0247e3c05804653f26ac81a011d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081745,
+            "locality_id":101732991,
+            "neighbourhood_id":85859413,
+            "region_id":85688517,
+            "venue_id":337295005
+        }
+    ],
+    "wof:id":337295005,
+    "wof:lastmodified":1449027260,
+    "wof:name":"Ron's Appliance Repair",
+    "wof:parent_id":85859413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance",
+        "household",
+        "electrical"
+    ]
+},
+  "bbox": [-88.17384,43.415423,-88.17384,43.415423],
+  "geometry": {"coordinates":[-88.17384,43.415423],"type":"Point"}
+}

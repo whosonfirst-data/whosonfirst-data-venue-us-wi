@@ -1,0 +1,81 @@
+{
+  "id": 186052551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.996714,44.511288,-87.996714,44.511288",
+    "geom:latitude":44.511288,
+    "geom:longitude":-87.996714,
+    "iso:country":"US",
+    "sg:address":"1285 Main St",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 435 2299",
+    "sg:postcode":"54302",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732365,
+        102081867,
+        85877953,
+        85877947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PJhbCBKr3uwRFKygqvCEO_44.511288_-87.996714@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8c99c2d1f4077abf653e4058a2afeeac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081867,
+            "locality_id":101732365,
+            "neighbourhood_id":85877953,
+            "region_id":85688517,
+            "venue_id":186052551
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081867,
+            "locality_id":101732365,
+            "neighbourhood_id":85877947,
+            "region_id":85688517,
+            "venue_id":186052551
+        }
+    ],
+    "wof:id":186052551,
+    "wof:lastmodified":1449051583,
+    "wof:name":"Family Dollar Stores",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [-87.996714,44.511288,-87.996714,44.511288],
+  "geometry": {"coordinates":[-87.996714,44.511288],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 186139021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.949239,43.001812,-87.949239,43.001812",
+    "geom:latitude":43.001812,
+    "geom:longitude":-87.949239,
+    "iso:country":"US",
+    "sg:address":"2326 S 28th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 671 2647",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85870843,
+        85870927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iaYCbZ1T0rkhOiN9lZ0yE_43.001812_-87.949239@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95d48caa55f95113eab27ec342f6d7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870843,
+            "region_id":85688517,
+            "venue_id":186139021
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870927,
+            "region_id":85688517,
+            "venue_id":186139021
+        }
+    ],
+    "wof:id":186139021,
+    "wof:lastmodified":1449050496,
+    "wof:name":"BNT Cleaning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [-87.949239,43.001812,-87.949239,43.001812],
+  "geometry": {"coordinates":[-87.949239,43.001812],"type":"Point"}
+}

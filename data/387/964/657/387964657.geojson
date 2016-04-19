@@ -1,0 +1,76 @@
+{
+  "id": 387964657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.945229,43.003122,-87.945229,43.003122",
+    "geom:latitude":43.003122,
+    "geom:longitude":-87.945229,
+    "iso:country":"US",
+    "sg:address":"2400 W Lincoln Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 671 7000",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85870843,
+        85870927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kNVmXjhHD3eXcAKR3JIGc_43.003122_-87.945229@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b4280bdc840a0ac2256e62014cba9630",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870843,
+            "region_id":85688517,
+            "venue_id":387964657
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870927,
+            "region_id":85688517,
+            "venue_id":387964657
+        }
+    ],
+    "wof:id":387964657,
+    "wof:lastmodified":1449058972,
+    "wof:name":"Medical Surgical Clinic AMG",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-87.945229,43.003122,-87.945229,43.003122],
+  "geometry": {"coordinates":[-87.945229,43.003122],"type":"Point"}
+}

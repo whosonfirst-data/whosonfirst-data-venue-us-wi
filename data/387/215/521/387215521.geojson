@@ -1,0 +1,68 @@
+{
+  "id": 387215521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.417924,43.06447,-89.417924,43.06447",
+    "geom:latitude":43.06447,
+    "geom:longitude":-89.417924,
+    "iso:country":"US",
+    "sg:address":"1920 Monroe St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 251 6060",
+    "sg:postcode":"53711",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O3iUB8LxOxaQaQCCHdQmC_43.064470_-89.417924@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"513998a743081c7dfc99d1539178417d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878833,
+            "region_id":85688517,
+            "venue_id":387215521
+        }
+    ],
+    "wof:id":387215521,
+    "wof:lastmodified":1449059262,
+    "wof:name":"Minor Procedures Clinic",
+    "wof:parent_id":85878833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-89.417924,43.06447,-89.417924,43.06447],
+  "geometry": {"coordinates":[-89.417924,43.06447],"type":"Point"}
+}

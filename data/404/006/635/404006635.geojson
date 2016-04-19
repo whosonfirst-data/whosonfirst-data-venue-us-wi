@@ -1,0 +1,73 @@
+{
+  "id": 404006635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.066108,44.488123,-88.066108,44.488123",
+    "geom:latitude":44.488123,
+    "geom:longitude":-88.066108,
+    "iso:country":"US",
+    "sg:address":"2321 S Oneida St",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 497 4440",
+    "sg:postcode":"54304",
+    "sg:province":"WI",
+    "sg:tags":[
+        "elevator",
+        "inspects"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732293,
+        102081867,
+        85877943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BhBZyzXMvPZZ2TiMV67Xy_44.488123_-88.066108@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee3b54179b9a9fdb35fe35c6aa828ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081867,
+            "locality_id":101732293,
+            "neighbourhood_id":85877943,
+            "region_id":85688517,
+            "venue_id":404006635
+        }
+    ],
+    "wof:id":404006635,
+    "wof:lastmodified":1449040049,
+    "wof:name":"TSR Elevator Co Inc",
+    "wof:parent_id":85877943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elevator",
+        "inspects"
+    ]
+},
+  "bbox": [-88.066108,44.488123,-88.066108,44.488123],
+  "geometry": {"coordinates":[-88.066108,44.488123],"type":"Point"}
+}

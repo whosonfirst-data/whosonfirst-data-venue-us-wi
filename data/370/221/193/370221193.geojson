@@ -1,0 +1,67 @@
+{
+  "id": 370221193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.9948,44.488059,-87.9948,44.488059",
+    "geom:latitude":44.488059,
+    "geom:longitude":-87.9948,
+    "iso:country":"US",
+    "sg:address":"1234 Bellevue St",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 468 6828",
+    "sg:postcode":"54302",
+    "sg:province":"WI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.biebelscatering.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732291,
+        102081867,
+        85877933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eln8VnbHrHbPMfdvbPPWC_44.488059_-87.994800@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2263ac744802ad4d38c1bd67d6540ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081867,
+            "locality_id":101732291,
+            "neighbourhood_id":85877933,
+            "region_id":85688517,
+            "venue_id":370221193
+        }
+    ],
+    "wof:id":370221193,
+    "wof:lastmodified":1449030580,
+    "wof:name":"Biebel's Supermarket",
+    "wof:parent_id":85877933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-87.9948,44.488059,-87.9948,44.488059],
+  "geometry": {"coordinates":[-87.9948,44.488059],"type":"Point"}
+}

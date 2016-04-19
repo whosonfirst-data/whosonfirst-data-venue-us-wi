@@ -1,0 +1,70 @@
+{
+  "id": 387620843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.923069,43.025391,-87.923069,43.025391",
+    "geom:latitude":43.025391,
+    "geom:longitude":-87.923069,
+    "iso:country":"US",
+    "sg:address":"1000 W Bruce St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 383 7792",
+    "sg:postcode":"53204",
+    "sg:province":"WI",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732987,
+        102081837,
+        85870951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CQFwXv8OD2DhLGw4HReXH_43.025391_-87.923069@1294253271"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"37c98a664fe6cbfdf5c6198900500e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081837,
+            "locality_id":101732987,
+            "neighbourhood_id":85870951,
+            "region_id":85688517,
+            "venue_id":387620843
+        }
+    ],
+    "wof:id":387620843,
+    "wof:lastmodified":1449059585,
+    "wof:name":"Community Warehouse",
+    "wof:parent_id":85870951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [-87.923069,43.025391,-87.923069,43.025391],
+  "geometry": {"coordinates":[-87.923069,43.025391],"type":"Point"}
+}
