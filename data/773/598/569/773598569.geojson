@@ -1,0 +1,71 @@
+{
+  "id": 773598569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.057038,42.511548,-89.057038,42.511548",
+    "geom:latitude":42.511548,
+    "geom:longitude":-89.057038,
+    "iso:country":"US",
+    "sg:address":"1164 S Madison Rd",
+    "sg:city":"Beloit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 362 0602",
+    "sg:postcode":"53511",
+    "sg:province":"WI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732817,
+        102081829,
+        85810961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g0OJZIOlHWQXe8URr1iO9_42.511548_-89.057038@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586934,
+    "wof:geomhash":"96d86fe8f1d102791f3442ae701da1cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "locality_id":101732817,
+            "neighbourhood_id":85810961,
+            "region_id":85688517,
+            "venue_id":773598569
+        }
+    ],
+    "wof:id":773598569,
+    "wof:lastmodified":1462586934,
+    "wof:name":"John's Restaurant",
+    "wof:parent_id":85810961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -89.057038,
+    42.511548,
+    -89.057038,
+    42.511548
+],
+  "geometry": {"coordinates":[-89.05703800000001,42.511548],"type":"Point"}
+}

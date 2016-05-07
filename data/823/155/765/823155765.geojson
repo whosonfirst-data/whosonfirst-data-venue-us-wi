@@ -1,0 +1,88 @@
+{
+  "id": 823155765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.047039,43.01628,-88.047039,43.01628",
+    "geom:latitude":43.01628,
+    "geom:longitude":-88.047039,
+    "iso:country":"US",
+    "sg:address":"1405 S 108th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 763 3198",
+    "sg:postcode":"53214",
+    "sg:province":"WI",
+    "sg:tags":[
+        "supplies-wholesale",
+        "manufacturer",
+        "electronic",
+        "consumer",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867293,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kgbXvrkVVrdX9XGlXWhrO_43.016280_-88.047039@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607745,
+    "wof:geomhash":"d3086b40b983e757e1bee09e2cd84b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85867293,
+            "region_id":85688517,
+            "venue_id":823155765
+        }
+    ],
+    "wof:id":823155765,
+    "wof:lastmodified":1462607745,
+    "wof:name":"Mojo Mobile",
+    "wof:parent_id":85867293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supplies-wholesale",
+        "manufacturer",
+        "electronic",
+        "consumer",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -88.047039,
+    43.01628,
+    -88.047039,
+    43.01628
+],
+  "geometry": {"coordinates":[-88.047039,43.01628],"type":"Point"}
+}

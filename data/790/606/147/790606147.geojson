@@ -1,0 +1,71 @@
+{
+  "id": 790606147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.066324,42.511607,-89.066324,42.511607",
+    "geom:latitude":42.511607,
+    "geom:longitude":-89.066324,
+    "iso:country":"US",
+    "sg:address":"1256 Division St",
+    "sg:city":"Beloit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 362 9491",
+    "sg:postcode":"53511",
+    "sg:province":"WI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732817,
+        102081829,
+        85810961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eJ8fMdwXplSXhuCiJuWlD_42.511607_-89.066324@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462597273,
+    "wof:geomhash":"d9e4e37d7ce2af972a12136342071761",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "locality_id":101732817,
+            "neighbourhood_id":85810961,
+            "region_id":85688517,
+            "venue_id":790606147
+        }
+    ],
+    "wof:id":790606147,
+    "wof:lastmodified":1462597273,
+    "wof:name":"Stateline Truck Svc",
+    "wof:parent_id":85810961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -89.066324,
+    42.511607,
+    -89.066324,
+    42.511607
+],
+  "geometry": {"coordinates":[-89.06632399999999,42.511607],"type":"Point"}
+}

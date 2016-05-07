@@ -1,0 +1,71 @@
+{
+  "id": 773745447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.383288,42.939265,-89.383288,42.939265",
+    "geom:latitude":42.939265,
+    "geom:longitude":-89.383288,
+    "iso:country":"US",
+    "sg:address":"880 N Main St",
+    "sg:city":"Oregon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 835 3603",
+    "sg:postcode":"53575",
+    "sg:province":"WI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85829451,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l7f6grc986ZkwbKYmtLPA_42.939265_-89.383288@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588065,
+    "wof:geomhash":"1cd4881558b979aeee9e4b29006f9dd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85829451,
+            "region_id":85688517,
+            "venue_id":773745447
+        }
+    ],
+    "wof:id":773745447,
+    "wof:lastmodified":1462588065,
+    "wof:name":"Erfurth Body Shop",
+    "wof:parent_id":85829451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.383288,
+    42.939265,
+    -89.383288,
+    42.939265
+],
+  "geometry": {"coordinates":[-89.38328799999999,42.939265],"type":"Point"}
+}

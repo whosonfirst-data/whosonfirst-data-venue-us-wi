@@ -1,0 +1,88 @@
+{
+  "id": 823133605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.222324,43.0504,-88.222324,43.0504",
+    "geom:latitude":43.0504,
+    "geom:longitude":-88.222324,
+    "iso:country":"US",
+    "sg:address":"N16w23217 Stone Ridge Dr # 120",
+    "sg:city":"Waukesha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 506 1000",
+    "sg:postcode":"53188",
+    "sg:province":"WI",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "sg:website":"http://www.interstatepartners.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85815589,
+        102191575,
+        404495673,
+        85633793,
+        101733495,
+        102081741,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cshSJrbxN66Rt53BYOdti_43.050400_-88.222324@1303262807"
+    },
+    "wof:country":"US",
+    "wof:created":1462607394,
+    "wof:geomhash":"c6c7efdc968476592b4f927768040d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081741,
+            "localadmin_id":404495673,
+            "locality_id":101733495,
+            "neighbourhood_id":85815589,
+            "region_id":85688517,
+            "venue_id":823133605
+        }
+    ],
+    "wof:id":823133605,
+    "wof:lastmodified":1462607394,
+    "wof:name":"Interstate Partners",
+    "wof:parent_id":85815589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -88.222324,
+    43.0504,
+    -88.222324,
+    43.0504
+],
+  "geometry": {"coordinates":[-88.222324,43.0504],"type":"Point"}
+}

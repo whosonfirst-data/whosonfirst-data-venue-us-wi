@@ -1,0 +1,93 @@
+{
+  "id": 807360289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.948275,42.954509,-87.948275,42.954509",
+    "geom:latitude":42.954509,
+    "geom:longitude":-87.948275,
+    "iso:country":"US",
+    "sg:address":"4950 S 27th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/milwaukee/139057-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 282 4350",
+    "sg:postcode":"53221",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870931,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HlPHyv5trVp6X9dpp2KtU_42.954509_-87.948275@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606655,
+    "wof:geomhash":"f0fd6d3aecda4ebd58ba2a8dff48a2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870931,
+            "region_id":85688517,
+            "venue_id":807360289
+        }
+    ],
+    "wof:id":807360289,
+    "wof:lastmodified":1462606655,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85870931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -87.948275,
+    42.954509,
+    -87.948275,
+    42.954509
+],
+  "geometry": {"coordinates":[-87.948275,42.954509],"type":"Point"}
+}

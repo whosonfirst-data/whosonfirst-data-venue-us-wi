@@ -1,0 +1,73 @@
+{
+  "id": 789585553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.266605,42.586868,-88.266605,42.586868",
+    "geom:latitude":42.586868,
+    "geom:longitude":-88.266605,
+    "iso:country":"US",
+    "sg:address":"5501 376th Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 537 4164",
+    "sg:postcode":"53105",
+    "sg:province":"WI",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85848963,
+        102081309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KoJ5l1fmn3Kz1JwGo34pa_42.586868_-88.266605@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588953,
+    "wof:geomhash":"4a9b5c1dd7311c7d29259af877222c92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081309,
+            "neighbourhood_id":85848963,
+            "region_id":85688517,
+            "venue_id":789585553
+        }
+    ],
+    "wof:id":789585553,
+    "wof:lastmodified":1462588953,
+    "wof:name":"Emerald Greyhounds",
+    "wof:parent_id":85848963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -88.266605,
+    42.586868,
+    -88.266605,
+    42.586868
+],
+  "geometry": {"coordinates":[-88.266605,42.586868],"type":"Point"}
+}

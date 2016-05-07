@@ -1,0 +1,69 @@
+{
+  "id": 789707487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.463132,44.187058,-88.463132,44.187058",
+    "geom:latitude":44.187058,
+    "geom:longitude":-88.463132,
+    "iso:country":"US",
+    "sg:address":"116 W Wisconsin Ave",
+    "sg:city":"Neenah",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 727 0135",
+    "sg:postcode":"54956",
+    "sg:province":"WI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85851515,
+        102081801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IPKnp07LGfjV4Ca2qs2ma_44.187058_-88.463132@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589911,
+    "wof:geomhash":"0795cf862e232e33a7419724b570b5f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "neighbourhood_id":85851515,
+            "region_id":85688517,
+            "venue_id":789707487
+        }
+    ],
+    "wof:id":789707487,
+    "wof:lastmodified":1462589911,
+    "wof:name":"Great Harvest Bread Co",
+    "wof:parent_id":85851515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -88.463132,
+    44.187058,
+    -88.463132,
+    44.187058
+],
+  "geometry": {"coordinates":[-88.463132,44.187058],"type":"Point"}
+}

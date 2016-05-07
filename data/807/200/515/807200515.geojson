@@ -1,0 +1,75 @@
+{
+  "id": 807200515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.975547,43.091606,-87.975547,43.091606",
+    "geom:latitude":43.091606,
+    "geom:longitude":-87.975547,
+    "iso:country":"US",
+    "sg:address":"4927 W Fiebrantz Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 286 8955",
+    "sg:postcode":"53216",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870959,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KyPRDBUDQY4yOurAFVjBR_43.091606_-87.975547@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604802,
+    "wof:geomhash":"77ed545db7f5517f4583f7924d66a903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870959,
+            "region_id":85688517,
+            "venue_id":807200515
+        }
+    ],
+    "wof:id":807200515,
+    "wof:lastmodified":1462604802,
+    "wof:name":"Milwaukee Fire Dept",
+    "wof:parent_id":85870959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -87.975547,
+    43.091606,
+    -87.975547,
+    43.091606
+],
+  "geometry": {"coordinates":[-87.97554700000001,43.091606],"type":"Point"}
+}

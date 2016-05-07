@@ -1,0 +1,83 @@
+{
+  "id": 773123871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.258816,42.655282,-88.258816,42.655282",
+    "geom:latitude":42.655282,
+    "geom:longitude":-88.258816,
+    "iso:country":"US",
+    "sg:address":"6015 Pine St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 763 6695",
+    "sg:postcode":"53105",
+    "sg:province":"WI",
+    "sg:tags":[
+        "boarding",
+        "pet",
+        "dog",
+        "kennel",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865439,
+        102191575,
+        404494891,
+        85633793,
+        101733617,
+        102081763,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OGdk0c1InYjY8IzSQc8ne_42.655282_-88.258816@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583322,
+    "wof:geomhash":"7ef3bec19ab25924bfbc52e1fe837b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494891,
+            "locality_id":101733617,
+            "neighbourhood_id":85865439,
+            "region_id":85688517,
+            "venue_id":773123871
+        }
+    ],
+    "wof:id":773123871,
+    "wof:lastmodified":1462583322,
+    "wof:name":"Burlington Kennel Supply",
+    "wof:parent_id":85865439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding",
+        "pet",
+        "dog",
+        "kennel",
+        "supply"
+    ]
+},
+  "bbox": [
+    -88.258816,
+    42.655282,
+    -88.258816,
+    42.655282
+],
+  "geometry": {"coordinates":[-88.258816,42.655282],"type":"Point"}
+}

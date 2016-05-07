@@ -1,0 +1,80 @@
+{
+  "id": 789678277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.307716,43.085393,-89.307716,43.085393",
+    "geom:latitude":43.085393,
+    "geom:longitude":-89.307716,
+    "iso:country":"US",
+    "sg:address":"613 Atlas Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 223 3232",
+    "sg:postcode":"53714",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medicine",
+        "product",
+        "health",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78NzCdVKbauSbz5taOAb6z_43.085393_-89.307716@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589687,
+    "wof:geomhash":"aa2ddf331e439694bfa8780bcc701b94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":789678277
+        }
+    ],
+    "wof:id":789678277,
+    "wof:lastmodified":1462589687,
+    "wof:name":"Holt Products Co",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "product",
+        "health",
+        "animal"
+    ]
+},
+  "bbox": [
+    -89.307716,
+    43.085393,
+    -89.307716,
+    43.085393
+],
+  "geometry": {"coordinates":[-89.307716,43.085393],"type":"Point"}
+}

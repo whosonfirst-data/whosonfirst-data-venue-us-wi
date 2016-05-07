@@ -1,0 +1,88 @@
+{
+  "id": 807351791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.909592,42.947579,-87.909592,42.947579",
+    "geom:latitude":42.947579,
+    "geom:longitude":-87.909592,
+    "iso:country":"US",
+    "sg:address":"5330 S Howell Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 489 2150",
+    "sg:postcode":"53207",
+    "sg:province":"WI",
+    "sg:tags":[
+        "control",
+        "state",
+        "air",
+        "government-united",
+        "traffic",
+        "tower"
+    ],
+    "sg:website":"http://www.faa.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102530849,
+        85870975,
+        102191575,
+        404494163,
+        85633793,
+        101733063,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lPfJpfPqqc6NFXTcVAuf6_42.947619_-87.909639@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462606527,
+    "wof:geomhash":"d933ac0bcba1d9a70b0f19b6c33da46e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530849,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494163,
+            "locality_id":101733063,
+            "neighbourhood_id":85870975,
+            "region_id":85688517,
+            "venue_id":807351791
+        }
+    ],
+    "wof:id":807351791,
+    "wof:lastmodified":1462606527,
+    "wof:name":"Airport Traffic Control Tower",
+    "wof:parent_id":102530849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "state",
+        "air",
+        "government-united",
+        "traffic",
+        "tower"
+    ]
+},
+  "bbox": [
+    -87.909592,
+    42.947579,
+    -87.909592,
+    42.947579
+],
+  "geometry": {"coordinates":[-87.909592,42.947579],"type":"Point"}
+}

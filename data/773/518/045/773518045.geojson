@@ -1,0 +1,81 @@
+{
+  "id": 773518045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.958071,43.001052,-87.958071,43.001052",
+    "geom:latitude":43.001052,
+    "geom:longitude":-87.958071,
+    "iso:country":"US",
+    "sg:address":"2425 S 35th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 385 3655",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550067,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517,
+        85870927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42mH2kr71zdwadPM45g1Sv_43.001052_-87.958071@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586331,
+    "wof:geomhash":"46b5511af596e0379cf4f8d8bef45abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":420550067,
+            "region_id":85688517,
+            "venue_id":773518045
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870927,
+            "region_id":85688517,
+            "venue_id":773518045
+        }
+    ],
+    "wof:id":773518045,
+    "wof:lastmodified":1462586331,
+    "wof:name":"South Service Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.958071,
+    43.001052,
+    -87.958071,
+    43.001052
+],
+  "geometry": {"coordinates":[-87.958071,43.001052],"type":"Point"}
+}

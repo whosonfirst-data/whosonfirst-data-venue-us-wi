@@ -1,0 +1,80 @@
+{
+  "id": 773684687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.394651,43.030187,-89.394651,43.030187",
+    "geom:latitude":43.030187,
+    "geom:longitude":-89.394651,
+    "iso:country":"US",
+    "sg:address":"2908 Syene Rd",
+    "sg:city":"Fitchburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 829 2426",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "baker",
+        "bakery",
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z6zJXN20LvbSjnZbEdvYL_43.030187_-89.394651@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462587575,
+    "wof:geomhash":"15c344f9c258ac332bb1e3e18d04a3f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":773684687
+        }
+    ],
+    "wof:id":773684687,
+    "wof:lastmodified":1462587575,
+    "wof:name":"Stella's Bakery",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "bakery",
+        "catering"
+    ]
+},
+  "bbox": [
+    -89.394651,
+    43.030187,
+    -89.394651,
+    43.030187
+],
+  "geometry": {"coordinates":[-89.394651,43.030187],"type":"Point"}
+}

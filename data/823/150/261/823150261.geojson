@@ -1,0 +1,84 @@
+{
+  "id": 823150261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.882385,43.082891,-87.882385,43.082891",
+    "geom:latitude":43.082891,
+    "geom:longitude":-87.882385,
+    "iso:country":"US",
+    "sg:address":"2220 E Stratford Ct",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 964 5701",
+    "sg:postcode":"53211",
+    "sg:province":"WI",
+    "sg:tags":[
+        "apparel-wholesale",
+        "manufacturer",
+        "women's"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870911,
+        102191575,
+        404494183,
+        85633793,
+        101733085,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51jIEJCNvz1HNjKPZ7HGLu_43.082891_-87.882385@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607671,
+    "wof:geomhash":"2009083410c7db86c24a5a25e53dd49e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494183,
+            "locality_id":101733085,
+            "neighbourhood_id":85870911,
+            "region_id":85688517,
+            "venue_id":823150261
+        }
+    ],
+    "wof:id":823150261,
+    "wof:lastmodified":1462607671,
+    "wof:name":"B-Tween Friends",
+    "wof:parent_id":85870911,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparel-wholesale",
+        "manufacturer",
+        "women's"
+    ]
+},
+  "bbox": [
+    -87.882385,
+    43.082891,
+    -87.882385,
+    43.082891
+],
+  "geometry": {"coordinates":[-87.882385,43.082891],"type":"Point"}
+}

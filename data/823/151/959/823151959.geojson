@@ -1,0 +1,83 @@
+{
+  "id": 823151959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.913886,43.08209,-87.913886,43.08209",
+    "geom:latitude":43.08209,
+    "geom:longitude":-87.913886,
+    "iso:country":"US",
+    "sg:address":"312 W Keefe Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 264 7050",
+    "sg:postcode":"53212",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operated",
+        "dryer",
+        "laundries-self",
+        "washer",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870941,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fL52R2Cu53IQREKJqwDV6_43.082090_-87.913886@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607691,
+    "wof:geomhash":"a2ff8c46334d2e47758d2fc3f0aa03e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870941,
+            "region_id":85688517,
+            "venue_id":823151959
+        }
+    ],
+    "wof:id":823151959,
+    "wof:lastmodified":1462607691,
+    "wof:name":"Big Load Laundry",
+    "wof:parent_id":85870941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operated",
+        "dryer",
+        "laundries-self",
+        "washer",
+        "coin"
+    ]
+},
+  "bbox": [
+    -87.913886,
+    43.08209,
+    -87.913886,
+    43.08209
+],
+  "geometry": {"coordinates":[-87.91388600000001,43.08209],"type":"Point"}
+}

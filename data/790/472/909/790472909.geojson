@@ -1,0 +1,71 @@
+{
+  "id": 790472909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.40144,44.272851,-88.40144,44.272851",
+    "geom:latitude":44.272851,
+    "geom:longitude":-88.40144,
+    "iso:country":"US",
+    "sg:address":"335 E Wisconsin Ave",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 734 1803",
+    "sg:postcode":"54911",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cp29311FQK4AywgafSHMv_44.272851_-88.401440@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462596135,
+    "wof:geomhash":"4c04de3157d205d680cc3fd2ff62f340",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":790472909
+        }
+    ],
+    "wof:id":790472909,
+    "wof:lastmodified":1462596135,
+    "wof:name":"Appleton Dental Group",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.40144,
+    44.272851,
+    -88.40144,
+    44.272851
+],
+  "geometry": {"coordinates":[-88.40143999999999,44.272851],"type":"Point"}
+}

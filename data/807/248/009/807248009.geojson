@@ -1,0 +1,75 @@
+{
+  "id": 807248009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.468145,44.856218,-91.468145,44.856218",
+    "geom:latitude":44.856218,
+    "geom:longitude":-91.468145,
+    "iso:country":"US",
+    "sg:address":"3400 White Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 834 8751",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qctlGwTcYYjeqKWsP8Qbs_44.856218_-91.468145@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605304,
+    "wof:geomhash":"ebb95ad043bab96f580cd474f56012ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807248009
+        }
+    ],
+    "wof:id":807248009,
+    "wof:lastmodified":1462605304,
+    "wof:name":"Indianhead Warehouse Corp",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -91.468145,
+    44.856218,
+    -91.468145,
+    44.856218
+],
+  "geometry": {"coordinates":[-91.46814500000001,44.856218],"type":"Point"}
+}

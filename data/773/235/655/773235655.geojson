@@ -1,0 +1,73 @@
+{
+  "id": 773235655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.977764,42.841213,-88.977764,42.841213",
+    "geom:latitude":42.841213,
+    "geom:longitude":-88.977764,
+    "iso:country":"US",
+    "sg:address":"11509 N Nelson St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 868 7964",
+    "sg:postcode":"53563",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85810477,
+        102081829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qvR5K1kJVkLNhaLfpeCEh_42.841213_-88.977764@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584186,
+    "wof:geomhash":"991333ab8ac912b40355b87ab035623d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "neighbourhood_id":85810477,
+            "region_id":85688517,
+            "venue_id":773235655
+        }
+    ],
+    "wof:id":773235655,
+    "wof:lastmodified":1462584186,
+    "wof:name":"Smith Trucking LLC",
+    "wof:parent_id":85810477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.977764,
+    42.841213,
+    -88.977764,
+    42.841213
+],
+  "geometry": {"coordinates":[-88.97776399999999,42.841213],"type":"Point"}
+}

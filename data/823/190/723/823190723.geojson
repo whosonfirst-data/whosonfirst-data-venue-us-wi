@@ -1,0 +1,73 @@
+{
+  "id": 823190723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.638225,44.960898,-89.638225,44.960898",
+    "geom:latitude":44.960898,
+    "geom:longitude":-89.638225,
+    "iso:country":"US",
+    "sg:address":"209 Callon St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 298 2369",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "brew",
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vqJFiAhGqP4SrbcWU4PYC_44.960898_-89.638225@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608199,
+    "wof:geomhash":"93dd64328ad463be3399a6b9cf10a14c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":823190723
+        }
+    ],
+    "wof:id":823190723,
+    "wof:lastmodified":1462608199,
+    "wof:name":"Callon Street Pub",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew",
+        "tavern"
+    ]
+},
+  "bbox": [
+    -89.638225,
+    44.960898,
+    -89.638225,
+    44.960898
+],
+  "geometry": {"coordinates":[-89.63822500000001,44.960898],"type":"Point"}
+}

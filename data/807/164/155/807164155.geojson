@@ -1,0 +1,84 @@
+{
+  "id": 807164155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.97365,43.010095,-87.97365,43.010095",
+    "geom:latitude":43.010095,
+    "geom:longitude":-87.97365,
+    "iso:country":"US",
+    "sg:address":"4901 W Burnham St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 384 9854",
+    "sg:postcode":"53219",
+    "sg:province":"WI",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870923,
+        102191575,
+        404494277,
+        85633793,
+        101733095,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_033n54llkLSCjpJGFp7Zz3_43.010095_-87.973650@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604420,
+    "wof:geomhash":"8e3ec29cc518eeea33b9b0c33d166419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494277,
+            "locality_id":101733095,
+            "neighbourhood_id":85870923,
+            "region_id":85688517,
+            "venue_id":807164155
+        }
+    ],
+    "wof:id":807164155,
+    "wof:lastmodified":1462604420,
+    "wof:name":"Burnham Auto Salvage & Sales",
+    "wof:parent_id":85870923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -87.97365,
+    43.010095,
+    -87.97365,
+    43.010095
+],
+  "geometry": {"coordinates":[-87.97365000000001,43.010095],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 807365795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.117323,44.462654,-88.117323,44.462654",
+    "geom:latitude":44.462654,
+    "geom:longitude":-88.117323,
+    "iso:country":"US",
+    "sg:address":"1501 W Main Ave",
+    "sg:city":"De Pere",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/ashwaubenon/204607-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 983 0430",
+    "sg:postcode":"54115",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855345,
+        102191575,
+        404492849,
+        85633793,
+        101732363,
+        102081867,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z9Dag2E27nvKshS2YgM0X_44.462654_-88.117323@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606736,
+    "wof:geomhash":"9693858c7cfc6e2b4017f0e60856fb78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081867,
+            "localadmin_id":404492849,
+            "locality_id":101732363,
+            "neighbourhood_id":85855345,
+            "region_id":85688517,
+            "venue_id":807365795
+        }
+    ],
+    "wof:id":807365795,
+    "wof:lastmodified":1462606736,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85855345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -88.117323,
+    44.462654,
+    -88.117323,
+    44.462654
+],
+  "geometry": {"coordinates":[-88.117323,44.462654],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 773811303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.206111,42.907375,-89.206111,42.907375",
+    "geom:latitude":42.907375,
+    "geom:longitude":-89.206111,
+    "iso:country":"US",
+    "sg:address":"1004 Dunkirk Ave",
+    "sg:city":"Stoughton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 873 1212",
+    "sg:postcode":"53589",
+    "sg:province":"WI",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868281,
+        102191575,
+        404493355,
+        85633793,
+        101732777,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30yHAe6ja9hoiV0tx4SZCD_42.907375_-89.206111@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588565,
+    "wof:geomhash":"4c321e7516eac9da19f25b594cbc2771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404493355,
+            "locality_id":101732777,
+            "neighbourhood_id":85868281,
+            "region_id":85688517,
+            "venue_id":773811303
+        }
+    ],
+    "wof:id":773811303,
+    "wof:lastmodified":1462588565,
+    "wof:name":"Schmidt's Auto Inc",
+    "wof:parent_id":85868281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -89.206111,
+    42.907375,
+    -89.206111,
+    42.907375
+],
+  "geometry": {"coordinates":[-89.20611100000001,42.907375],"type":"Point"}
+}

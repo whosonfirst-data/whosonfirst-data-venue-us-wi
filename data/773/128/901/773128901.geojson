@@ -1,0 +1,73 @@
+{
+  "id": 773128901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.516862,44.796769,-91.516862,44.796769",
+    "geom:latitude":44.796769,
+    "geom:longitude":-91.516862,
+    "iso:country":"US",
+    "sg:address":"1120 Oak Ridge Dr",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 834 8414",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85848105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dY6DhzgxRPbfaoVqsJsq8_44.796769_-91.516862@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583353,
+    "wof:geomhash":"4754ff0e3f4a3893a3a7df29eb183828",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85848105,
+            "region_id":85688517,
+            "venue_id":773128901
+        }
+    ],
+    "wof:id":773128901,
+    "wof:lastmodified":1462583353,
+    "wof:name":"Oral Surgery Associates",
+    "wof:parent_id":85848105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -91.516862,
+    44.796769,
+    -91.516862,
+    44.796769
+],
+  "geometry": {"coordinates":[-91.516862,44.796769],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789608661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.456389,43.026621,-88.456389,43.026621",
+    "geom:latitude":43.026621,
+    "geom:longitude":-88.456389,
+    "iso:country":"US",
+    "sg:address":"35047 Wayfare Trl",
+    "sg:city":"Oconomowoc",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 965 5606",
+    "sg:postcode":"53066",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85854741,
+        102081741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fnKsZhyT5clSMFe9rnrVo_43.026621_-88.456389@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589129,
+    "wof:geomhash":"5c08bc8cc75110512fd1ba3dde317121",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081741,
+            "neighbourhood_id":85854741,
+            "region_id":85688517,
+            "venue_id":789608661
+        }
+    ],
+    "wof:id":789608661,
+    "wof:lastmodified":1462589129,
+    "wof:name":"Raymond W Moy MD",
+    "wof:parent_id":85854741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.456389,
+    43.026621,
+    -88.456389,
+    43.026621
+],
+  "geometry": {"coordinates":[-88.456389,43.026621],"type":"Point"}
+}

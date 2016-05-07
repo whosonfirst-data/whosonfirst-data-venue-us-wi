@@ -1,0 +1,78 @@
+{
+  "id": 823154603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.060971,43.027658,-88.060971,43.027658",
+    "geom:latitude":43.027658,
+    "geom:longitude":-88.060971,
+    "iso:country":"US",
+    "sg:address":"423 S Curtis Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 259 9656",
+    "sg:postcode":"53214",
+    "sg:province":"WI",
+    "sg:tags":[
+        "government-united",
+        "state"
+    ],
+    "sg:website":"http://www.wistrans.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867293,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s2qMGfdt0aAR7oesYmFRL_43.027658_-88.060971@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607726,
+    "wof:geomhash":"48911352f6210fdf8c88d3b51c7bf232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85867293,
+            "region_id":85688517,
+            "venue_id":823154603
+        }
+    ],
+    "wof:id":823154603,
+    "wof:lastmodified":1462607726,
+    "wof:name":"Test Station",
+    "wof:parent_id":85867293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "state"
+    ]
+},
+  "bbox": [
+    -88.060971,
+    43.027658,
+    -88.060971,
+    43.027658
+],
+  "geometry": {"coordinates":[-88.060971,43.027658],"type":"Point"}
+}

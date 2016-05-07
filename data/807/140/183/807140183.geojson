@@ -1,0 +1,71 @@
+{
+  "id": 807140183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.657578,44.111204,-88.657578,44.111204",
+    "geom:latitude":44.111204,
+    "geom:longitude":-88.657578,
+    "iso:country":"US",
+    "sg:address":"6085 Harbour View Dr",
+    "sg:city":"Winneconne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 582 0600",
+    "sg:postcode":"54986",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85842431,
+        102081801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c8GNe3bc4zitDNE4vBSft_44.111204_-88.657578@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604160,
+    "wof:geomhash":"cc105f1d4e006e1fca92ff166cdeeb91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "neighbourhood_id":85842431,
+            "region_id":85688517,
+            "venue_id":807140183
+        }
+    ],
+    "wof:id":807140183,
+    "wof:lastmodified":1462604160,
+    "wof:name":"Aurora Health Ctr",
+    "wof:parent_id":85842431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.657578,
+    44.111204,
+    -88.657578,
+    44.111204
+],
+  "geometry": {"coordinates":[-88.657578,44.111204],"type":"Point"}
+}

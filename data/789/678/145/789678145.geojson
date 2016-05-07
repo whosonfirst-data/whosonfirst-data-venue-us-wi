@@ -1,0 +1,81 @@
+{
+  "id": 789678145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.015919,43.055009,-88.015919,43.055009",
+    "geom:latitude":43.055009,
+    "geom:longitude":-88.015919,
+    "iso:country":"US",
+    "sg:address":"8127 Hillcrest Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 443 9150",
+    "sg:postcode":"53213",
+    "sg:province":"WI",
+    "sg:tags":[
+        "tile",
+        "ceiling",
+        "grid",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870835,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xIuvOSLue4n35hup2iqbZ_43.055009_-88.015919@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589686,
+    "wof:geomhash":"e002c38a800272b7a40b4cb0cc1628b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870835,
+            "region_id":85688517,
+            "venue_id":789678145
+        }
+    ],
+    "wof:id":789678145,
+    "wof:lastmodified":1462589686,
+    "wof:name":"USG",
+    "wof:parent_id":85870835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "ceiling",
+        "grid",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -88.015919,
+    43.055009,
+    -88.015919,
+    43.055009
+],
+  "geometry": {"coordinates":[-88.015919,43.055009],"type":"Point"}
+}

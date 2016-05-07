@@ -1,0 +1,75 @@
+{
+  "id": 789998897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.540187,43.099496,-89.540187,43.099496",
+    "geom:latitude":43.099496,
+    "geom:longitude":-89.540187,
+    "iso:country":"US",
+    "sg:address":"2332 Pinehurst Dr",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 831 8000",
+    "sg:postcode":"53562",
+    "sg:province":"WI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ViDVnjEYmFCP0SHwytaow_43.099496_-89.540187@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592321,
+    "wof:geomhash":"f93057858940d01b210fb203598b26cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":789998897
+        }
+    ],
+    "wof:id":789998897,
+    "wof:lastmodified":1462592321,
+    "wof:name":"Pet Lodge",
+    "wof:parent_id":85878843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -89.540187,
+    43.099496,
+    -89.540187,
+    43.099496
+],
+  "geometry": {"coordinates":[-89.540187,43.099496],"type":"Point"}
+}

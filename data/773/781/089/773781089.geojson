@@ -1,0 +1,82 @@
+{
+  "id": 773781089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.488901,43.05508,-89.488901,43.05508",
+    "geom:latitude":43.05508,
+    "geom:longitude":-89.488901,
+    "iso:country":"US",
+    "sg:address":"9 Odana Ct",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 274 5181",
+    "sg:postcode":"53719",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878893,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F9yEivz4E6ECT5N4pfVCv_43.055080_-89.488901@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588326,
+    "wof:geomhash":"e33756bae59599089a5d02d243401f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878893,
+            "region_id":85688517,
+            "venue_id":773781089
+        }
+    ],
+    "wof:id":773781089,
+    "wof:lastmodified":1462588326,
+    "wof:name":"Uplands Counseling Associates",
+    "wof:parent_id":85878893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "mental"
+    ]
+},
+  "bbox": [
+    -89.488901,
+    43.05508,
+    -89.488901,
+    43.05508
+],
+  "geometry": {"coordinates":[-89.488901,43.05508],"type":"Point"}
+}

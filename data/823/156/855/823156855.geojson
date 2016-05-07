@@ -1,0 +1,82 @@
+{
+  "id": 823156855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.920029,42.999191,-87.920029,42.999191",
+    "geom:latitude":42.999191,
+    "geom:longitude":-87.920029,
+    "iso:country":"US",
+    "sg:address":"2500 S 7th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 672 6602",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867297,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gcOF3Zl6aAd5sslNR3QTc_42.999191_-87.920029@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607762,
+    "wof:geomhash":"e88111a0c8562f321f9e59de023db6f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85867297,
+            "region_id":85688517,
+            "venue_id":823156855
+        }
+    ],
+    "wof:id":823156855,
+    "wof:lastmodified":1462607762,
+    "wof:name":"Mds Messenger & Trucking",
+    "wof:parent_id":85867297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -87.920029,
+    42.999191,
+    -87.920029,
+    42.999191
+],
+  "geometry": {"coordinates":[-87.920029,42.999191],"type":"Point"}
+}

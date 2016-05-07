@@ -1,0 +1,100 @@
+{
+  "id": 823170481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.058666,43.137782,-88.058666,43.137782",
+    "geom:latitude":43.137782,
+    "geom:longitude":-88.058666,
+    "iso:country":"US",
+    "sg:address":"11826 W Appleton Pl",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 353 7577",
+    "sg:postcode":"53224",
+    "sg:province":"WI",
+    "sg:tags":[
+        "cooky",
+        "crackers-wholesale",
+        "bakers-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550241,
+        102191575,
+        404495647,
+        85633793,
+        101733465,
+        102081741,
+        85688517,
+        420550109,
+        404492091,
+        101732987,
+        102081837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dkRSLozQGA6MuNFZEIfni_43.137782_-88.058666@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607934,
+    "wof:geomhash":"46a19cee004f81cc18910d09ee997a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081741,
+            "localadmin_id":404495647,
+            "locality_id":101733465,
+            "neighbourhood_id":420550241,
+            "region_id":85688517,
+            "venue_id":823170481
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":420550109,
+            "region_id":85688517,
+            "venue_id":823170481
+        }
+    ],
+    "wof:id":823170481,
+    "wof:lastmodified":1462607934,
+    "wof:name":"Peppy Puppy Cookie",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cooky",
+        "crackers-wholesale",
+        "bakers-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -88.058666,
+    43.137782,
+    -88.058666,
+    43.137782
+],
+  "geometry": {"coordinates":[-88.058666,43.137782],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 773695229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.072169,44.47472,-88.072169,44.47472",
+    "geom:latitude":44.47472,
+    "geom:longitude":-88.072169,
+    "iso:country":"US",
+    "sg:address":"855 Hansen Rd",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 498 1269",
+    "sg:postcode":"54304",
+    "sg:province":"WI",
+    "sg:tags":[
+        "filter",
+        "automotive",
+        "oil",
+        "change"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855345,
+        102191575,
+        404492849,
+        85633793,
+        101732363,
+        102081867,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OoAlVroo8yvySiAZgUM91_44.474720_-88.072169@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462587681,
+    "wof:geomhash":"369c8792e49a834ef9de776aef9f3315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081867,
+            "localadmin_id":404492849,
+            "locality_id":101732363,
+            "neighbourhood_id":85855345,
+            "region_id":85688517,
+            "venue_id":773695229
+        }
+    ],
+    "wof:id":773695229,
+    "wof:lastmodified":1462587681,
+    "wof:name":"Super Lube",
+    "wof:parent_id":85855345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filter",
+        "automotive",
+        "oil",
+        "change"
+    ]
+},
+  "bbox": [
+    -88.072169,
+    44.47472,
+    -88.072169,
+    44.47472
+],
+  "geometry": {"coordinates":[-88.072169,44.47472],"type":"Point"}
+}

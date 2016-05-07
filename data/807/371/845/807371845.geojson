@@ -1,0 +1,77 @@
+{
+  "id": 807371845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.46335,44.156901,-88.46335,44.156901",
+    "geom:latitude":44.156901,
+    "geom:longitude":-88.46335,
+    "iso:country":"US",
+    "sg:address":"102 E Bell St",
+    "sg:city":"Neenah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/neenah/206430-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"54956",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550295,
+        102191575,
+        404495533,
+        85633793,
+        101733455,
+        102081801,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eX1W3c2KOLIvagxUXHIcg_44.156901_-88.463350@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606815,
+    "wof:geomhash":"1bc178dcc306a23f225555eb9b379f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081801,
+            "localadmin_id":404495533,
+            "locality_id":101733455,
+            "neighbourhood_id":420550295,
+            "region_id":85688517,
+            "venue_id":807371845
+        }
+    ],
+    "wof:id":807371845,
+    "wof:lastmodified":1462606815,
+    "wof:name":"McDonald's",
+    "wof:parent_id":420550295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -88.46335,
+    44.156901,
+    -88.46335,
+    44.156901
+],
+  "geometry": {"coordinates":[-88.46335000000001,44.156901],"type":"Point"}
+}

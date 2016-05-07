@@ -1,0 +1,86 @@
+{
+  "id": 790210091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.344348,43.103189,-89.344348,43.103189",
+    "geom:latitude":43.103189,
+    "geom:longitude":-89.344348,
+    "iso:country":"US",
+    "sg:address":"2801 E Washington Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 246 9777",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878865,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517,
+        85878879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71K58PbUV82h1ygs5VZfav_43.103189_-89.344348@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462594028,
+    "wof:geomhash":"f3180672d7ecb96c3ee09bf97c7d640f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878865,
+            "region_id":85688517,
+            "venue_id":790210091
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878879,
+            "region_id":85688517,
+            "venue_id":790210091
+        }
+    ],
+    "wof:id":790210091,
+    "wof:lastmodified":1462594028,
+    "wof:name":"Blockbuster",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video"
+    ]
+},
+  "bbox": [
+    -89.344348,
+    43.103189,
+    -89.344348,
+    43.103189
+],
+  "geometry": {"coordinates":[-89.344348,43.103189],"type":"Point"}
+}

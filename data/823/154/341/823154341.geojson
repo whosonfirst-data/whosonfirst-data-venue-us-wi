@@ -1,0 +1,81 @@
+{
+  "id": 823154341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.004828,43.05523,-88.004828,43.05523",
+    "geom:latitude":43.05523,
+    "geom:longitude":-88.004828,
+    "iso:country":"US",
+    "sg:address":"7406 Hillcrest Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 774 8672",
+    "sg:postcode":"53213",
+    "sg:province":"WI",
+    "sg:tags":[
+        "historical"
+    ],
+    "sg:website":"http://www.wauwatosahistoricalsociety.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870835,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iJu3iCoegAS5gc9sSNUjQ_43.055230_-88.004828@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607723,
+    "wof:geomhash":"6efc4b5e9ed19cfad1cf5e3cf9557b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870835,
+            "region_id":85688517,
+            "venue_id":823154341
+        }
+    ],
+    "wof:id":823154341,
+    "wof:lastmodified":1462607723,
+    "wof:name":"Wauwatosa Historical Society",
+    "wof:parent_id":85870835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "historical"
+    ]
+},
+  "bbox": [
+    -88.004828,
+    43.05523,
+    -88.004828,
+    43.05523
+],
+  "geometry": {"coordinates":[-88.004828,43.05523],"type":"Point"}
+}

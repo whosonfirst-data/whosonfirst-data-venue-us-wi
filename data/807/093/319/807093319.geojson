@@ -1,0 +1,71 @@
+{
+  "id": 807093319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.241242,43.000786,-89.241242,43.000786",
+    "geom:latitude":43.000786,
+    "geom:longitude":-89.241242,
+    "iso:country":"US",
+    "sg:address":"2820 Lakewood Cir",
+    "sg:city":"Stoughton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 838 9510",
+    "sg:postcode":"53589",
+    "sg:province":"WI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85814911,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24M0aeNE2Y2wU3mY2byCIT_43.000786_-89.241242@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603647,
+    "wof:geomhash":"73e70abe866401e521aeba86168ecfbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85814911,
+            "region_id":85688517,
+            "venue_id":807093319
+        }
+    ],
+    "wof:id":807093319,
+    "wof:lastmodified":1462603647,
+    "wof:name":"RG Properties",
+    "wof:parent_id":85814911,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -89.241242,
+    43.000786,
+    -89.241242,
+    43.000786
+],
+  "geometry": {"coordinates":[-89.241242,43.000786],"type":"Point"}
+}

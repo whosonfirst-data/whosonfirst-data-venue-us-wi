@@ -1,0 +1,74 @@
+{
+  "id": 807369361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.464543,44.795448,-91.464543,44.795448",
+    "geom:latitude":44.795448,
+    "geom:longitude":-91.464543,
+    "iso:country":"US",
+    "sg:address":"2602 E Clairemont Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/80041-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 834 5346",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XvW5KrUzjcw3Effn4NPmz_44.795448_-91.464543@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606782,
+    "wof:geomhash":"2b1749463cc4c486be8df48c3437263a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807369361
+        }
+    ],
+    "wof:id":807369361,
+    "wof:lastmodified":1462606782,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.464543,
+    44.795448,
+    -91.464543,
+    44.795448
+],
+  "geometry": {"coordinates":[-91.46454300000001,44.795448],"type":"Point"}
+}

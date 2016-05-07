@@ -1,0 +1,71 @@
+{
+  "id": 790410263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.220201,43.887849,-91.220201,43.887849",
+    "geom:latitude":43.887849,
+    "geom:longitude":-91.220201,
+    "iso:country":"US",
+    "sg:address":"1212 Well St",
+    "sg:city":"Onalaska",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 783 2200",
+    "sg:postcode":"54650",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732663,
+        102081301,
+        85825891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uLaNFwYzhWCpF4niGE0Cd_43.887849_-91.220201@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462595615,
+    "wof:geomhash":"db05a991bac82359d9ded5d5121b3036",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732663,
+            "neighbourhood_id":85825891,
+            "region_id":85688517,
+            "venue_id":790410263
+        }
+    ],
+    "wof:id":790410263,
+    "wof:lastmodified":1462595615,
+    "wof:name":"Onalaska Clinic",
+    "wof:parent_id":85825891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -91.220201,
+    43.887849,
+    -91.220201,
+    43.887849
+],
+  "geometry": {"coordinates":[-91.220201,43.887849],"type":"Point"}
+}

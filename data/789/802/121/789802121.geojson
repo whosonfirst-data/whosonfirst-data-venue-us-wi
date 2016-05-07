@@ -1,0 +1,69 @@
+{
+  "id": 789802121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.395275,42.938213,-88.395275,42.938213",
+    "geom:latitude":42.938213,
+    "geom:longitude":-88.395275,
+    "iso:country":"US",
+    "sg:address":"108 Oakridge Dr",
+    "sg:city":"North Prairie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 392 2700",
+    "sg:postcode":"53153",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85854741,
+        102081741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YpoK2fkO95bloq67BmvDW_42.938213_-88.395275@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590656,
+    "wof:geomhash":"673c9a165edc2b51220cbf9d457d5ac2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081741,
+            "neighbourhood_id":85854741,
+            "region_id":85688517,
+            "venue_id":789802121
+        }
+    ],
+    "wof:id":789802121,
+    "wof:lastmodified":1462590656,
+    "wof:name":"North Prairie Fire Dept",
+    "wof:parent_id":85854741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.395275,
+    42.938213,
+    -88.395275,
+    42.938213
+],
+  "geometry": {"coordinates":[-88.395275,42.938213],"type":"Point"}
+}

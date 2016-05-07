@@ -1,0 +1,71 @@
+{
+  "id": 807051703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.246132,43.945713,-91.246132,43.945713",
+    "geom:latitude":43.945713,
+    "geom:longitude":-91.246132,
+    "iso:country":"US",
+    "sg:address":"605 Alpine Ln",
+    "sg:city":"Holmen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 526 4171",
+    "sg:postcode":"54636",
+    "sg:province":"WI",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732663,
+        102081301,
+        85825891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ryOEEgMTe8vHU56WZEQDH_43.945713_-91.246132@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603300,
+    "wof:geomhash":"3e45d850dd3ef55bef265c4d8ea1f154",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732663,
+            "neighbourhood_id":85825891,
+            "region_id":85688517,
+            "venue_id":807051703
+        }
+    ],
+    "wof:id":807051703,
+    "wof:lastmodified":1462603300,
+    "wof:name":"Liberty Appliance & Parts",
+    "wof:parent_id":85825891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -91.246132,
+    43.945713,
+    -91.246132,
+    43.945713
+],
+  "geometry": {"coordinates":[-91.246132,43.945713],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 807359695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.980893,43.092827,-87.980893,43.092827",
+    "geom:latitude":43.092827,
+    "geom:longitude":-87.980893,
+    "iso:country":"US",
+    "sg:address":"5341 W Fond Du Lac Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/milwaukee/95432-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 871 4467",
+    "sg:postcode":"53216",
+    "sg:province":"WI",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870959,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7askvE8zEGCdGldlhuK554_43.092827_-87.980893@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606644,
+    "wof:geomhash":"6e1bd4b1dcb0b80766a3190a302a79ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870959,
+            "region_id":85688517,
+            "venue_id":807359695
+        }
+    ],
+    "wof:id":807359695,
+    "wof:lastmodified":1462606644,
+    "wof:name":"IHOP",
+    "wof:parent_id":85870959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -87.980893,
+    43.092827,
+    -87.980893,
+    43.092827
+],
+  "geometry": {"coordinates":[-87.98089299999999,43.092827],"type":"Point"}
+}

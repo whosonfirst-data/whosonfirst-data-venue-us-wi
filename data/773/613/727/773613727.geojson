@@ -1,0 +1,73 @@
+{
+  "id": 773613727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.630033,44.962358,-89.630033,44.962358",
+    "geom:latitude":44.962358,
+    "geom:longitude":-89.630033,
+    "iso:country":"US",
+    "sg:address":"614 1st St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 845 8201",
+    "sg:postcode":"54403",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KxQPgYrvHWfjgBtSpJfrO_44.962358_-89.630033@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462587042,
+    "wof:geomhash":"64b4e9f31017ec3278ef647c9c0ad417",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":773613727
+        }
+    ],
+    "wof:id":773613727,
+    "wof:lastmodified":1462587042,
+    "wof:name":"Eye Clinic Of Wisconsin",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.630033,
+    44.962358,
+    -89.630033,
+    44.962358
+],
+  "geometry": {"coordinates":[-89.630033,44.962358],"type":"Point"}
+}

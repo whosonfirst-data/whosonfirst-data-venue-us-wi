@@ -1,0 +1,86 @@
+{
+  "id": 806971749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.471719,44.808451,-91.471719,44.808451",
+    "geom:latitude":44.808451,
+    "geom:longitude":-91.471719,
+    "iso:country":"US",
+    "sg:address":"826 S Hastings Way",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 838 9173",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "outpatient",
+        "psychiatric",
+        "specialty",
+        "clinic",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F9czjyE6W5Bv6UaVh8kVb_44.808451_-91.471719@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602625,
+    "wof:geomhash":"0488b41d4712ab1d6eae927300c2a9cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":806971749
+        }
+    ],
+    "wof:id":806971749,
+    "wof:lastmodified":1462602625,
+    "wof:name":"Northern Light Psychiatric Svc",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "outpatient",
+        "psychiatric",
+        "specialty",
+        "clinic",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.471719,
+    44.808451,
+    -91.471719,
+    44.808451
+],
+  "geometry": {"coordinates":[-91.47171899999999,44.808451],"type":"Point"}
+}

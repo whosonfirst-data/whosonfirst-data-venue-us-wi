@@ -1,0 +1,71 @@
+{
+  "id": 807189243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.652646,44.984397,-89.652646,44.984397",
+    "geom:latitude":44.984397,
+    "geom:longitude":-89.652646,
+    "iso:country":"US",
+    "sg:address":"1719 Merrill Ave",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 675 7010",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18nORzkFTDNsKRr2KnJQGX_44.984397_-89.652646@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604683,
+    "wof:geomhash":"eb3a5a9f148a377def5e21decd9731a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":807189243
+        }
+    ],
+    "wof:id":807189243,
+    "wof:lastmodified":1462604683,
+    "wof:name":"Gorski Auto Service",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -89.652646,
+    44.984397,
+    -89.652646,
+    44.984397
+],
+  "geometry": {"coordinates":[-89.652646,44.984397],"type":"Point"}
+}

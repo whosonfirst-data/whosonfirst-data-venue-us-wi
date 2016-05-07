@@ -1,0 +1,83 @@
+{
+  "id": 773019331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.188174,43.443461,-88.188174,43.443461",
+    "geom:latitude":43.443461,
+    "geom:longitude":-88.188174,
+    "iso:country":"US",
+    "sg:address":"1903 N Main St",
+    "sg:city":"West Bend",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 338 8980",
+    "sg:postcode":"53090",
+    "sg:province":"WI",
+    "sg:tags":[
+        "battery",
+        "automotive",
+        "gene",
+        "rebuilds",
+        "alternator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859413,
+        102191575,
+        404495617,
+        85633793,
+        101732991,
+        102081745,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UJykSswmLWJ1DKbvfNuCP_43.443461_-88.188174@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462582452,
+    "wof:geomhash":"6295ac72ec3424675211d6e4a02c41ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081745,
+            "localadmin_id":404495617,
+            "locality_id":101732991,
+            "neighbourhood_id":85859413,
+            "region_id":85688517,
+            "venue_id":773019331
+        }
+    ],
+    "wof:id":773019331,
+    "wof:lastmodified":1462582452,
+    "wof:name":"Battery Component Supply",
+    "wof:parent_id":85859413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery",
+        "automotive",
+        "gene",
+        "rebuilds",
+        "alternator"
+    ]
+},
+  "bbox": [
+    -88.188174,
+    43.443461,
+    -88.188174,
+    43.443461
+],
+  "geometry": {"coordinates":[-88.188174,43.443461],"type":"Point"}
+}

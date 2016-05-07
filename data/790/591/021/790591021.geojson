@@ -1,0 +1,71 @@
+{
+  "id": 790591021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.299855,43.084324,-89.299855,43.084324",
+    "geom:latitude":43.084324,
+    "geom:longitude":-89.299855,
+    "iso:country":"US",
+    "sg:address":"4640 Cottage Grove Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 221 3509",
+    "sg:postcode":"53716",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H3OW1V7zdn8evwmYO7gQE_43.084324_-89.299855@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462597132,
+    "wof:geomhash":"4f0d4e130098f38563e1e5b589470ffa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":790591021
+        }
+    ],
+    "wof:id":790591021,
+    "wof:lastmodified":1462597132,
+    "wof:name":"Petcare Clinics Inc",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "animal"
+    ]
+},
+  "bbox": [
+    -89.299855,
+    43.084324,
+    -89.299855,
+    43.084324
+],
+  "geometry": {"coordinates":[-89.29985499999999,43.084324],"type":"Point"}
+}

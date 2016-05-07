@@ -1,0 +1,71 @@
+{
+  "id": 806830243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.160345,44.02949,-88.160345,44.02949",
+    "geom:latitude":44.02949,
+    "geom:longitude":-88.160345,
+    "iso:country":"US",
+    "sg:address":"15 E Main St",
+    "sg:city":"Chilton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 849 9341",
+    "sg:postcode":"53014",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732735,
+        102081289,
+        85822647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5o8uvNgePoTmjpqf0Tp49D_44.029490_-88.160345@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601426,
+    "wof:geomhash":"7504f715beba2a9e8f7a1c3bae0579a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081289,
+            "locality_id":101732735,
+            "neighbourhood_id":85822647,
+            "region_id":85688517,
+            "venue_id":806830243
+        }
+    ],
+    "wof:id":806830243,
+    "wof:lastmodified":1462601426,
+    "wof:name":"Michael S Baus Sc",
+    "wof:parent_id":85822647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.160345,
+    44.02949,
+    -88.160345,
+    44.02949
+],
+  "geometry": {"coordinates":[-88.16034500000001,44.02949],"type":"Point"}
+}

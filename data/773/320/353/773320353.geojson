@@ -1,0 +1,91 @@
+{
+  "id": 773320353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.056388,42.858079,-88.056388,42.858079",
+    "geom:latitude":42.858079,
+    "geom:longitude":-88.056388,
+    "iso:country":"US",
+    "sg:address":"12320 W Oakwood Rd",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 529 0545",
+    "sg:postcode":"53132",
+    "sg:province":"WI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550073,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837,
+        85688517,
+        420550247,
+        404495657,
+        101733509,
+        102081741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d8I1bIbMVX6AxmknNb7w6_42.858079_-88.056388@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584845,
+    "wof:geomhash":"a4a48fd55f351a88dff4161f811b4e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "neighbourhood_id":420550073,
+            "region_id":85688517,
+            "venue_id":773320353
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081741,
+            "localadmin_id":404495657,
+            "locality_id":101733509,
+            "neighbourhood_id":420550247,
+            "region_id":85688517,
+            "venue_id":773320353
+        }
+    ],
+    "wof:id":773320353,
+    "wof:lastmodified":1462584845,
+    "wof:name":"Electric Noise LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.056388,
+    42.858079,
+    -88.056388,
+    42.858079
+],
+  "geometry": {"coordinates":[-88.056388,42.858079],"type":"Point"}
+}

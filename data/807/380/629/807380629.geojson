@@ -1,0 +1,82 @@
+{
+  "id": 807380629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.987099,43.322601,-87.987099,43.322601",
+    "geom:latitude":43.322601,
+    "geom:longitude":-87.987099,
+    "iso:country":"US",
+    "sg:address":"6261 State Road 60",
+    "sg:city":"Cedarburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 377 8090",
+    "sg:postcode":"53012",
+    "sg:province":"WI",
+    "sg:tags":[
+        "venue",
+        "nightlife"
+    ],
+    "sg:website":"www.circlebrecreation.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85868895,
+        102081873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Bk6R2nzA3Q0T1Fb4PmqvM_43.322601_-87.987099@1303262805"
+    },
+    "wof:country":"US",
+    "wof:created":1462606928,
+    "wof:geomhash":"11f0ae05d2fd43b37a245c3c545b18d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081873,
+            "neighbourhood_id":85868895,
+            "region_id":85688517,
+            "venue_id":807380629
+        }
+    ],
+    "wof:id":807380629,
+    "wof:lastmodified":1462606928,
+    "wof:name":"Circle B Recreation",
+    "wof:parent_id":85868895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue",
+        "nightlife"
+    ]
+},
+  "bbox": [
+    -87.987099,
+    43.322601,
+    -87.987099,
+    43.322601
+],
+  "geometry": {"coordinates":[-87.987099,43.322601],"type":"Point"}
+}

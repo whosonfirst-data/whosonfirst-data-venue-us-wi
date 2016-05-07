@@ -1,0 +1,84 @@
+{
+  "id": 773324425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.399459,44.272842,-88.399459,44.272842",
+    "geom:latitude":44.272842,
+    "geom:longitude":-88.399459,
+    "iso:country":"US",
+    "sg:address":"523 E Wisconsin Ave",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 731 5933",
+    "sg:postcode":"54911",
+    "sg:province":"WI",
+    "sg:tags":[
+        "body",
+        "shop",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857401,
+        102191575,
+        404494867,
+        85633793,
+        101732417,
+        102081851,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24cTDzp7w5BTO9ICSHZLsh_44.272842_-88.399459@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584870,
+    "wof:geomhash":"ea9f33d2ae66cd1ef0c0961f1e693180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081851,
+            "localadmin_id":404494867,
+            "locality_id":101732417,
+            "neighbourhood_id":85857401,
+            "region_id":85688517,
+            "venue_id":773324425
+        }
+    ],
+    "wof:id":773324425,
+    "wof:lastmodified":1462584870,
+    "wof:name":"Baer Paints & Supplies Inc",
+    "wof:parent_id":85857401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.399459,
+    44.272842,
+    -88.399459,
+    44.272842
+],
+  "geometry": {"coordinates":[-88.39945899999999,44.272842],"type":"Point"}
+}

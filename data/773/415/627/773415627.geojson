@@ -1,0 +1,71 @@
+{
+  "id": 773415627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.753657,43.760987,-87.753657,43.760987",
+    "geom:latitude":43.760987,
+    "geom:longitude":-87.753657,
+    "iso:country":"US",
+    "sg:address":"3515 Superior Ave",
+    "sg:city":"Sheboygan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 800 2727",
+    "sg:postcode":"53081",
+    "sg:province":"WI",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85818209,
+        102081869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cloA5gcMUiGMQNJUHmhNz_43.760987_-87.753657@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585539,
+    "wof:geomhash":"1ab3202ecfd0ff3a6746463b4833f362",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "neighbourhood_id":85818209,
+            "region_id":85688517,
+            "venue_id":773415627
+        }
+    ],
+    "wof:id":773415627,
+    "wof:lastmodified":1462585539,
+    "wof:name":"Safelite Autoglass",
+    "wof:parent_id":85818209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -87.753657,
+    43.760987,
+    -87.753657,
+    43.760987
+],
+  "geometry": {"coordinates":[-87.753657,43.760987],"type":"Point"}
+}

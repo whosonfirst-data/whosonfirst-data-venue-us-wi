@@ -1,0 +1,88 @@
+{
+  "id": 823155909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.006338,43.016657,-88.006338,43.016657",
+    "geom:latitude":43.016657,
+    "geom:longitude":-88.006338,
+    "iso:country":"US",
+    "sg:address":"7525 W Greenfield Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 302 8200",
+    "sg:postcode":"53214",
+    "sg:province":"WI",
+    "sg:tags":[
+        "town",
+        "planner",
+        "village",
+        "township",
+        "government-city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550045,
+        102191575,
+        404494275,
+        85633793,
+        101733091,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75bsQXJOpgSWU1R1lyjhdw_43.016657_-88.006338@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607747,
+    "wof:geomhash":"672ea99bb03b221bd8f17c6a9e0ef357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494275,
+            "locality_id":101733091,
+            "neighbourhood_id":420550045,
+            "region_id":85688517,
+            "venue_id":823155909
+        }
+    ],
+    "wof:id":823155909,
+    "wof:lastmodified":1462607747,
+    "wof:name":"City Of West Allis",
+    "wof:parent_id":420550045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town",
+        "planner",
+        "village",
+        "township",
+        "government-city"
+    ]
+},
+  "bbox": [
+    -88.006338,
+    43.016657,
+    -88.006338,
+    43.016657
+],
+  "geometry": {"coordinates":[-88.006338,43.016657],"type":"Point"}
+}

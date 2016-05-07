@@ -1,0 +1,82 @@
+{
+  "id": 823146655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.934735,43.09773,-87.934735,43.09773",
+    "geom:latitude":43.09773,
+    "geom:longitude":-87.934735,
+    "iso:country":"US",
+    "sg:address":"1700 W Cornell St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 263 4334",
+    "sg:postcode":"53209",
+    "sg:province":"WI",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870823,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u26qu3QS23htudNVUXpcD_43.097730_-87.934735@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607628,
+    "wof:geomhash":"0ca9313f5e2e1a8638438f516604d21a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870823,
+            "region_id":85688517,
+            "venue_id":823146655
+        }
+    ],
+    "wof:id":823146655,
+    "wof:lastmodified":1462607628,
+    "wof:name":"Dfi Trucking",
+    "wof:parent_id":85870823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -87.934735,
+    43.09773,
+    -87.934735,
+    43.09773
+],
+  "geometry": {"coordinates":[-87.934735,43.09773],"type":"Point"}
+}

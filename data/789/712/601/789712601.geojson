@@ -1,0 +1,73 @@
+{
+  "id": 789712601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.875452,43.410989,-87.875452,43.410989",
+    "geom:latitude":43.410989,
+    "geom:longitude":-87.875452,
+    "iso:country":"US",
+    "sg:address":"207 W Seven Hills Rd",
+    "sg:city":"Port Washington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 241 1919",
+    "sg:postcode":"53074",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732547,
+        102081873,
+        85828641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b76OBJgqDZgWJRf34avpx_43.410989_-87.875452@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589952,
+    "wof:geomhash":"3a2990ac08696541da995910ba995644",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081873,
+            "locality_id":101732547,
+            "neighbourhood_id":85828641,
+            "region_id":85688517,
+            "venue_id":789712601
+        }
+    ],
+    "wof:id":789712601,
+    "wof:lastmodified":1462589952,
+    "wof:name":"Lakeshore Eye Care Pro",
+    "wof:parent_id":85828641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.875452,
+    43.410989,
+    -87.875452,
+    43.410989
+],
+  "geometry": {"coordinates":[-87.875452,43.410989],"type":"Point"}
+}

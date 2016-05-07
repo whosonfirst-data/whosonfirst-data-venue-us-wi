@@ -1,0 +1,73 @@
+{
+  "id": 806629967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.378864,43.03886,-89.378864,43.03886",
+    "geom:latitude":43.03886,
+    "geom:longitude":-89.378864,
+    "iso:country":"US",
+    "sg:address":"2400 Rimrock Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 258 4000",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VCHZemZQQvHtLRVYCBEeQ_43.038860_-89.378864@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462599735,
+    "wof:geomhash":"caa7364bd66070d7454ccaa626e31b59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":806629967
+        }
+    ],
+    "wof:id":806629967,
+    "wof:lastmodified":1462599735,
+    "wof:name":"Zimbrick BMW",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.378864,
+    43.03886,
+    -89.378864,
+    43.03886
+],
+  "geometry": {"coordinates":[-89.37886399999999,43.03886],"type":"Point"}
+}

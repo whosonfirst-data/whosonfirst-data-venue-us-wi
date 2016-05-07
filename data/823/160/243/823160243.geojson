@@ -1,0 +1,106 @@
+{
+  "id": 823160243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.9064,43.118545,-87.9064,43.118545",
+    "geom:latitude":43.118545,
+    "geom:longitude":-87.9064,
+    "iso:country":"US",
+    "sg:address":"325 E Silver Spring Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 247 4800",
+    "sg:postcode":"53217",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "oncology",
+        "pediatrics",
+        "cancer",
+        "medical",
+        "surgeons",
+        "orthopedics",
+        "treatment",
+        "medicine",
+        "surgeon",
+        "internal"
+    ],
+    "sg:website":"http://www.ah.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870821,
+        102191575,
+        404494165,
+        85633793,
+        101733065,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_706r9g3Q6FofrFVBsa6Lo6_43.118545_-87.906400@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607802,
+    "wof:geomhash":"411c16ce1440f3b0164656227cb5c1a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494165,
+            "locality_id":101733065,
+            "neighbourhood_id":85870821,
+            "region_id":85688517,
+            "venue_id":823160243
+        }
+    ],
+    "wof:id":823160243,
+    "wof:lastmodified":1462607802,
+    "wof:name":"Aurora Advanced Healthcare",
+    "wof:parent_id":85870821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "oncology",
+        "pediatrics",
+        "cancer",
+        "medical",
+        "surgeons",
+        "orthopedics",
+        "treatment",
+        "medicine",
+        "surgeon",
+        "internal"
+    ]
+},
+  "bbox": [
+    -87.9064,
+    43.118545,
+    -87.9064,
+    43.118545
+],
+  "geometry": {"coordinates":[-87.9064,43.118545],"type":"Point"}
+}

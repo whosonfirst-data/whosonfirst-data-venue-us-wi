@@ -1,0 +1,71 @@
+{
+  "id": 773467507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.187818,43.88023,-91.187818,43.88023",
+    "geom:latitude":43.88023,
+    "geom:longitude":-91.187818,
+    "iso:country":"US",
+    "sg:address":"2700 National Dr",
+    "sg:city":"Onalaska",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 781 9092",
+    "sg:postcode":"54650",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732663,
+        102081301,
+        85825891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_410IAw1dTuSfR6Z6MuAka8_43.880230_-91.187818@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585968,
+    "wof:geomhash":"d33880648def8f11bb50ceee5af1ec31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732663,
+            "neighbourhood_id":85825891,
+            "region_id":85688517,
+            "venue_id":773467507
+        }
+    ],
+    "wof:id":773467507,
+    "wof:lastmodified":1462585968,
+    "wof:name":"John Moore DDS",
+    "wof:parent_id":85825891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -91.187818,
+    43.88023,
+    -91.187818,
+    43.88023
+],
+  "geometry": {"coordinates":[-91.18781799999999,43.88023],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773752339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.96245,44.923293,-89.96245,44.923293",
+    "geom:latitude":44.923293,
+    "geom:longitude":-89.96245,
+    "iso:country":"US",
+    "sg:address":"113 S 2nd Ave",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 845 6583",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VYpH97wRPRK3t494E9tIN_44.923293_-89.962450@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588113,
+    "wof:geomhash":"53d32b29e9316256e5e6e9633484d8fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":773752339
+        }
+    ],
+    "wof:id":773752339,
+    "wof:lastmodified":1462588113,
+    "wof:name":"Homeless Shelter",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership"
+    ]
+},
+  "bbox": [
+    -89.96245,
+    44.923293,
+    -89.96245,
+    44.923293
+],
+  "geometry": {"coordinates":[-89.96245,44.923293],"type":"Point"}
+}

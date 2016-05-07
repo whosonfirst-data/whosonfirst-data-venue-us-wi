@@ -1,0 +1,95 @@
+{
+  "id": 807363941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.344953,43.102827,-89.344953,43.102827",
+    "geom:latitude":43.102827,
+    "geom:longitude":-89.344953,
+    "iso:country":"US",
+    "sg:address":"2835 E Washington Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/251976-jj-fish--chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 242 4444",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "seafood",
+        "soul",
+        "chicken",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878865,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517,
+        85878879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oMKg82uOce6ohVTpoFNkU_43.102827_-89.344953@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606707,
+    "wof:geomhash":"cb54a7014cec3a1b4e0f73879ecef103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878865,
+            "region_id":85688517,
+            "venue_id":807363941
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878879,
+            "region_id":85688517,
+            "venue_id":807363941
+        }
+    ],
+    "wof:id":807363941,
+    "wof:lastmodified":1462606707,
+    "wof:name":"JJ Fish & Chicken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "seafood",
+        "soul",
+        "chicken",
+        "wing"
+    ]
+},
+  "bbox": [
+    -89.344953,
+    43.102827,
+    -89.344953,
+    43.102827
+],
+  "geometry": {"coordinates":[-89.344953,43.102827],"type":"Point"}
+}

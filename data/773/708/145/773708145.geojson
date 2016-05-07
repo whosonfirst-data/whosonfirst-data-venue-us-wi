@@ -1,0 +1,71 @@
+{
+  "id": 773708145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.446207,44.204697,-88.446207,44.204697",
+    "geom:latitude":44.204697,
+    "geom:longitude":-88.446207,
+    "iso:country":"US",
+    "sg:address":"204 Racine St",
+    "sg:city":"Menasha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 725 9787",
+    "sg:postcode":"54952",
+    "sg:province":"WI",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732729,
+        102081801,
+        85807543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b4JWCe2uNF1aqY7iblWJ5_44.204697_-88.446207@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462587787,
+    "wof:geomhash":"ba2e8c605e9fab9188e00ad95e6c3286",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101732729,
+            "neighbourhood_id":85807543,
+            "region_id":85688517,
+            "venue_id":773708145
+        }
+    ],
+    "wof:id":773708145,
+    "wof:lastmodified":1462587787,
+    "wof:name":"Menasha Coin Laundry",
+    "wof:parent_id":85807543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -88.446207,
+    44.204697,
+    -88.446207,
+    44.204697
+],
+  "geometry": {"coordinates":[-88.446207,44.204697],"type":"Point"}
+}

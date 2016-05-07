@@ -1,0 +1,71 @@
+{
+  "id": 773107117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.434449,43.033978,-89.434449,43.033978",
+    "geom:latitude":43.033978,
+    "geom:longitude":-89.434449,
+    "iso:country":"US",
+    "sg:address":"2838 Kingston Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 271 5464",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878867,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xqw4UuiieKWeRw5iAn7I6_43.033978_-89.434449@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583203,
+    "wof:geomhash":"cec0c36476f11c2adad6f061efd0f34c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878867,
+            "region_id":85688517,
+            "venue_id":773107117
+        }
+    ],
+    "wof:id":773107117,
+    "wof:lastmodified":1462583203,
+    "wof:name":"Kingston Health Care Svc",
+    "wof:parent_id":85878867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -89.434449,
+    43.033978,
+    -89.434449,
+    43.033978
+],
+  "geometry": {"coordinates":[-89.434449,43.033978],"type":"Point"}
+}

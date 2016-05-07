@@ -1,0 +1,71 @@
+{
+  "id": 789587449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.338254,43.049242,-89.338254,43.049242",
+    "geom:latitude":43.049242,
+    "geom:longitude":-89.338254,
+    "iso:country":"US",
+    "sg:address":"6429 Bridge Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 837 6396",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a014aXPUZKCuW1SZ71n6M_43.049242_-89.338254@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588966,
+    "wof:geomhash":"785b5d50a2e72b1ed1b4bc6a4e90eacf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":789587449
+        }
+    ],
+    "wof:id":789587449,
+    "wof:lastmodified":1462588966,
+    "wof:name":"Day Night Limo Service",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -89.338254,
+    43.049242,
+    -89.338254,
+    43.049242
+],
+  "geometry": {"coordinates":[-89.33825400000001,43.049242],"type":"Point"}
+}

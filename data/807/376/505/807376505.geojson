@@ -1,0 +1,72 @@
+{
+  "id": 807376505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.41576,44.287408,-88.41576,44.287408",
+    "geom:latitude":44.287408,
+    "geom:longitude":-88.41576,
+    "iso:country":"US",
+    "sg:address":"2810 N Richmond St",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/appleton/205744-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 733 8060",
+    "sg:postcode":"54911",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S8MJgw45y6YHQ2fzNNLD6_44.288005_-88.415675@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606878,
+    "wof:geomhash":"e34fd7b95cc4d6ddafa58cab2cbb7b75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":807376505
+        }
+    ],
+    "wof:id":807376505,
+    "wof:lastmodified":1462606878,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -88.41576,
+    44.287408,
+    -88.41576,
+    44.287408
+],
+  "geometry": {"coordinates":[-88.41576000000001,44.287408],"type":"Point"}
+}

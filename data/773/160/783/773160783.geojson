@@ -1,0 +1,71 @@
+{
+  "id": 773160783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.017116,43.833411,-88.017116,43.833411",
+    "geom:latitude":43.833411,
+    "geom:longitude":-88.017116,
+    "iso:country":"US",
+    "sg:address":"81 N East St",
+    "sg:city":"Elkhart Lake",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 876 3333",
+    "sg:postcode":"53020",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733393,
+        102081869,
+        85836705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68V98d97zHSwYp6naJdHW4_43.833411_-88.017116@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583595,
+    "wof:geomhash":"4f379065953f2eea573c718da57b68bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "locality_id":101733393,
+            "neighbourhood_id":85836705,
+            "region_id":85688517,
+            "venue_id":773160783
+        }
+    ],
+    "wof:id":773160783,
+    "wof:lastmodified":1462583595,
+    "wof:name":"Elkhart Lake Fire Station",
+    "wof:parent_id":85836705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.017116,
+    43.833411,
+    -88.017116,
+    43.833411
+],
+  "geometry": {"coordinates":[-88.017116,43.833411],"type":"Point"}
+}

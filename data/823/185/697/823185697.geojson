@@ -1,0 +1,76 @@
+{
+  "id": 823185697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.526322,43.162419,-89.526322,43.162419",
+    "geom:latitude":43.162419,
+    "geom:longitude":-89.526322,
+    "iso:country":"US",
+    "sg:address":"6918 Meffert Rd",
+    "sg:city":"Waunakee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 255 1311",
+    "sg:postcode":"53597",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shuttle",
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85803789,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16LS7MVnQCtJuUHQwNsYzs_43.162419_-89.526322@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608140,
+    "wof:geomhash":"fc47f685ec7b1152e8348d76cb50eac3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85803789,
+            "region_id":85688517,
+            "venue_id":823185697
+        }
+    ],
+    "wof:id":823185697,
+    "wof:lastmodified":1462608140,
+    "wof:name":"Sir Michael's Limousine Service",
+    "wof:parent_id":85803789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -89.526322,
+    43.162419,
+    -89.526322,
+    43.162419
+],
+  "geometry": {"coordinates":[-89.52632199999999,43.162419],"type":"Point"}
+}

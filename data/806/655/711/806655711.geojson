@@ -1,0 +1,71 @@
+{
+  "id": 806655711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.415593,44.29649,-88.415593,44.29649",
+    "geom:latitude":44.29649,
+    "geom:longitude":-88.415593,
+    "iso:country":"US",
+    "sg:address":"3525 N Richmond St",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 734 6303",
+    "sg:postcode":"54911",
+    "sg:province":"WI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uDOcV0feVokuJRtXx2AlP_44.296490_-88.415593@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462599956,
+    "wof:geomhash":"ccce64e88f7714728b5bb8ca04af80f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":806655711
+        }
+    ],
+    "wof:id":806655711,
+    "wof:lastmodified":1462599956,
+    "wof:name":"Sturm Body Shop",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -88.415593,
+    44.29649,
+    -88.415593,
+    44.29649
+],
+  "geometry": {"coordinates":[-88.415593,44.29649],"type":"Point"}
+}

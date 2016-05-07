@@ -1,0 +1,71 @@
+{
+  "id": 806960501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.089926,42.835408,-89.089926,42.835408",
+    "geom:latitude":42.835408,
+    "geom:longitude":-89.089926,
+    "iso:country":"US",
+    "sg:address":"1301 Winston Dr",
+    "sg:city":"Edgerton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 884 7368",
+    "sg:postcode":"53534",
+    "sg:province":"WI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85826905,
+        102081829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52ULxSGBK65i5eilqEE02W_42.835408_-89.089926@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602529,
+    "wof:geomhash":"09cc0e0e8dc707593f1bfd7bf340f6bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "neighbourhood_id":85826905,
+            "region_id":85688517,
+            "venue_id":806960501
+        }
+    ],
+    "wof:id":806960501,
+    "wof:lastmodified":1462602529,
+    "wof:name":"Alpine Haus",
+    "wof:parent_id":85826905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.089926,
+    42.835408,
+    -89.089926,
+    42.835408
+],
+  "geometry": {"coordinates":[-89.08992600000001,42.835408],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 807356185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.85769,42.588781,-87.85769,42.588781",
+    "geom:latitude":42.588781,
+    "geom:longitude":-87.85769,
+    "iso:country":"US",
+    "sg:address":"4002 52nd St",
+    "sg:city":"Kenosha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/kenosha/204747-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 652 7310",
+    "sg:postcode":"53144",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810813,
+        102191575,
+        404493393,
+        85633793,
+        101732567,
+        102081309,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t061odBjT2UoOBLJym7w1_42.588781_-87.857690@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606596,
+    "wof:geomhash":"3b8f9d8ca774179e6adb89c8cce33aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493393,
+            "locality_id":101732567,
+            "neighbourhood_id":85810813,
+            "region_id":85688517,
+            "venue_id":807356185
+        }
+    ],
+    "wof:id":807356185,
+    "wof:lastmodified":1462606596,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85810813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -87.85769,
+    42.588781,
+    -87.85769,
+    42.588781
+],
+  "geometry": {"coordinates":[-87.85769000000001,42.588781],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 823166761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.948209,42.981005,-87.948209,42.981005",
+    "geom:latitude":42.981005,
+    "geom:longitude":-87.948209,
+    "iso:country":"US",
+    "sg:address":"3514 S 27th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 281 6300",
+    "sg:postcode":"53221",
+    "sg:province":"WI",
+    "sg:tags":[
+        "tire"
+    ],
+    "sg:website":"http://www.goodyear.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870853,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RVQSixbyApmAd3MHI5wjI_42.981005_-87.948209@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607890,
+    "wof:geomhash":"796cb113a3b68c7241f33a87a4f487b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870853,
+            "region_id":85688517,
+            "venue_id":823166761
+        }
+    ],
+    "wof:id":823166761,
+    "wof:lastmodified":1462607890,
+    "wof:name":"Goodyear Auto Svc Ctr",
+    "wof:parent_id":85870853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -87.948209,
+    42.981005,
+    -87.948209,
+    42.981005
+],
+  "geometry": {"coordinates":[-87.94820900000001,42.981005],"type":"Point"}
+}

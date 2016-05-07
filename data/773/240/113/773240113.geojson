@@ -1,0 +1,75 @@
+{
+  "id": 773240113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.453653,44.752521,-91.453653,44.752521",
+    "geom:latitude":44.752521,
+    "geom:longitude":-91.453653,
+    "iso:country":"US",
+    "sg:address":"5350 Friedeck Rd",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 839 9955",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QnKmRwGaa6xHVHDC45o4D_44.752521_-91.453653@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584216,
+    "wof:geomhash":"d239a6f6c18721a373fa01766abfa056",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":773240113
+        }
+    ],
+    "wof:id":773240113,
+    "wof:lastmodified":1462584216,
+    "wof:name":"Nelson's Auto Body",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -91.453653,
+    44.752521,
+    -91.453653,
+    44.752521
+],
+  "geometry": {"coordinates":[-91.453653,44.752521],"type":"Point"}
+}

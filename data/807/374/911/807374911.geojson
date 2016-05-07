@@ -1,0 +1,81 @@
+{
+  "id": 807374911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.301403,43.130911,-89.301403,43.130911",
+    "geom:latitude":43.130911,
+    "geom:longitude":-89.301403,
+    "iso:country":"US",
+    "sg:address":"2627 E Springs Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/41103-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 826 0808",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CFGKTSNDyhtRxRNOQlbtT_43.130807_-89.300754@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606853,
+    "wof:geomhash":"5486efe4ff06acbadae4510157260425",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":807374911
+        }
+    ],
+    "wof:id":807374911,
+    "wof:lastmodified":1462606853,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -89.301403,
+    43.130911,
+    -89.301403,
+    43.130911
+],
+  "geometry": {"coordinates":[-89.30140299999999,43.130911],"type":"Point"}
+}

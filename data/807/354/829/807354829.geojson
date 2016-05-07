@@ -1,0 +1,70 @@
+{
+  "id": 807354829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.751314,43.752224,-87.751314,43.752224",
+    "geom:latitude":43.752224,
+    "geom:longitude":-87.751314,
+    "iso:country":"US",
+    "sg:address":"3205 Erie Ave",
+    "sg:city":"Sheboygan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/sheboygan/204860-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 452 4994",
+    "sg:postcode":"53081",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85818209,
+        102081869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HJ5NU3gmiLreCKIGuA7FE_43.752224_-87.751314@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606571,
+    "wof:geomhash":"92f24050f90a0364d9a8510ab9807560",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "neighbourhood_id":85818209,
+            "region_id":85688517,
+            "venue_id":807354829
+        }
+    ],
+    "wof:id":807354829,
+    "wof:lastmodified":1462606571,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85818209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -87.751314,
+    43.752224,
+    -87.751314,
+    43.752224
+],
+  "geometry": {"coordinates":[-87.75131399999999,43.752224],"type":"Point"}
+}

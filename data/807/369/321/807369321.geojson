@@ -1,0 +1,73 @@
+{
+  "id": 807369321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.469924,44.802735,-91.469924,44.802735",
+    "geom:latitude":44.802735,
+    "geom:longitude":-91.469924,
+    "iso:country":"US",
+    "sg:address":"1513 S Hastings Way",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/206511-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xQNQEpqjpg7fIDzXZ57qI_44.802735_-91.469924@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606781,
+    "wof:geomhash":"9c0f7647d3824038e80c3eefd603c7b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807369321
+        }
+    ],
+    "wof:id":807369321,
+    "wof:lastmodified":1462606781,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.469924,
+    44.802735,
+    -91.469924,
+    44.802735
+],
+  "geometry": {"coordinates":[-91.46992400000001,44.802735],"type":"Point"}
+}

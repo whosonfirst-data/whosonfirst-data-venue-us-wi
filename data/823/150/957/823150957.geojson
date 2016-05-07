@@ -1,0 +1,85 @@
+{
+  "id": 823150957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.885443,43.070484,-87.885443,43.070484",
+    "geom:latitude":43.070484,
+    "geom:longitude":-87.885443,
+    "iso:country":"US",
+    "sg:address":"2865 N Murray Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bicycle Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 332 1330",
+    "sg:postcode":"53211",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop",
+        "bicycles-renting",
+        "bicycles-repair"
+    ],
+    "sg:website":"http://www.thebikesmiths.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870945,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pSeTmaqmUkNvoOJ5s1jG3_43.070484_-87.885443@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607679,
+    "wof:geomhash":"2dec026a7405bfde5eb75d15eb7d2ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870945,
+            "region_id":85688517,
+            "venue_id":823150957
+        }
+    ],
+    "wof:id":823150957,
+    "wof:lastmodified":1462607679,
+    "wof:name":"The Bikesmith",
+    "wof:parent_id":85870945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "bicycles-renting",
+        "bicycles-repair"
+    ]
+},
+  "bbox": [
+    -87.885443,
+    43.070484,
+    -87.885443,
+    43.070484
+],
+  "geometry": {"coordinates":[-87.885443,43.070484],"type":"Point"}
+}

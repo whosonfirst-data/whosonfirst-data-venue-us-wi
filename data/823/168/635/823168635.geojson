@@ -1,0 +1,90 @@
+{
+  "id": 823168635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.009877,43.097028,-88.009877,43.097028",
+    "geom:latitude":43.097028,
+    "geom:longitude":-88.009877,
+    "iso:country":"US",
+    "sg:address":"7793 W Appleton Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 393 9810",
+    "sg:postcode":"53222",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dialysis"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870997,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48eS1diJmgFxwBJiBVfwtA_43.097028_-88.009877@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607913,
+    "wof:geomhash":"d468b85d33060fae46ac4ff78826ced6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870997,
+            "region_id":85688517,
+            "venue_id":823168635
+        }
+    ],
+    "wof:id":823168635,
+    "wof:lastmodified":1462607913,
+    "wof:name":"Midwest Nephrology Associates, S.C.",
+    "wof:parent_id":85870997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dialysis"
+    ]
+},
+  "bbox": [
+    -88.009877,
+    43.097028,
+    -88.009877,
+    43.097028
+],
+  "geometry": {"coordinates":[-88.009877,43.097028],"type":"Point"}
+}

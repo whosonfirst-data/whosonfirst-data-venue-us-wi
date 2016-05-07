@@ -1,0 +1,71 @@
+{
+  "id": 773643117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.828675,44.949822,-89.828675,44.949822",
+    "geom:latitude":44.949822,
+    "geom:longitude":-89.828675,
+    "iso:country":"US",
+    "sg:address":"110 152nd Ave",
+    "sg:city":"Marathon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 443 3030",
+    "sg:postcode":"54448",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4j9AryJ4S6uud1dBScsfx2_44.949822_-89.828675@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462587277,
+    "wof:geomhash":"e7aeb3fc245c0eaf16368f99fecec75f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":773643117
+        }
+    ],
+    "wof:id":773643117,
+    "wof:lastmodified":1462587277,
+    "wof:name":"County Center Animal Hospital",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -89.828675,
+    44.949822,
+    -89.828675,
+    44.949822
+],
+  "geometry": {"coordinates":[-89.828675,44.949822],"type":"Point"}
+}

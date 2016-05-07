@@ -1,0 +1,86 @@
+{
+  "id": 773567669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.345735,43.103277,-89.345735,43.103277",
+    "geom:latitude":43.103277,
+    "geom:longitude":-89.345735,
+    "iso:country":"US",
+    "sg:address":"2750 E Johnson St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 246 2701",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878879,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517,
+        85878865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nTNvYw8rKSZecRhTmgKw1_43.103277_-89.345735@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586704,
+    "wof:geomhash":"d9a0419b94ff9f35f516d13a8763032a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878879,
+            "region_id":85688517,
+            "venue_id":773567669
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878865,
+            "region_id":85688517,
+            "venue_id":773567669
+        }
+    ],
+    "wof:id":773567669,
+    "wof:lastmodified":1462586704,
+    "wof:name":"Booked For Murder",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.345735,
+    43.103277,
+    -89.345735,
+    43.103277
+],
+  "geometry": {"coordinates":[-89.345735,43.103277],"type":"Point"}
+}

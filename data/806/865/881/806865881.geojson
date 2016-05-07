@@ -1,0 +1,71 @@
+{
+  "id": 806865881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.641412,44.996246,-89.641412,44.996246",
+    "geom:latitude":44.996246,
+    "geom:longitude":-89.641412,
+    "iso:country":"US",
+    "sg:address":"3307 N 4th Ave",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 675 7493",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10GEBggS2wUDU2WLkVkkdX_44.996246_-89.641412@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601740,
+    "wof:geomhash":"2af1d32d4a889267b21efead19712289",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":806865881
+        }
+    ],
+    "wof:id":806865881,
+    "wof:lastmodified":1462601740,
+    "wof:name":"Central Wisconsin Aesthesia",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.641412,
+    44.996246,
+    -89.641412,
+    44.996246
+],
+  "geometry": {"coordinates":[-89.641412,44.996246],"type":"Point"}
+}

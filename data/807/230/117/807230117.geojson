@@ -1,0 +1,71 @@
+{
+  "id": 807230117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.801796,43.619725,-87.801796,43.619725",
+    "geom:latitude":43.619725,
+    "geom:longitude":-87.801796,
+    "iso:country":"US",
+    "sg:address":"417 S 11th St",
+    "sg:city":"Oostburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 564 2045",
+    "sg:postcode":"53070",
+    "sg:province":"WI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733891,
+        102081869,
+        85821461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DyqnNiPJekpmnmVciEqnw_43.619725_-87.801796@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605119,
+    "wof:geomhash":"0e9c3876ebd649dcd19d756a0da9b55a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "locality_id":101733891,
+            "neighbourhood_id":85821461,
+            "region_id":85688517,
+            "venue_id":807230117
+        }
+    ],
+    "wof:id":807230117,
+    "wof:lastmodified":1462605119,
+    "wof:name":"Wright Automotive",
+    "wof:parent_id":85821461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -87.801796,
+    43.619725,
+    -87.801796,
+    43.619725
+],
+  "geometry": {"coordinates":[-87.801796,43.619725],"type":"Point"}
+}

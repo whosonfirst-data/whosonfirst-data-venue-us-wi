@@ -1,0 +1,67 @@
+{
+  "id": 807356303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.434302,42.589347,-88.434302,42.589347",
+    "geom:latitude":42.589347,
+    "geom:longitude":-88.434302,
+    "iso:country":"US",
+    "sg:address":"327 Wrigley Dr",
+    "sg:city":"Lake Geneva",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/lake-geneva/267008-gilberts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 248 6680",
+    "sg:postcode":"53147",
+    "sg:province":"WI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733551,
+        102081883,
+        85812017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VSzjYcczv8eS2I5xJEZrh_42.589347_-88.434302@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606598,
+    "wof:geomhash":"0b671cafd0f2e3aee1c7c5404b102749",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733551,
+            "neighbourhood_id":85812017,
+            "region_id":85688517,
+            "venue_id":807356303
+        }
+    ],
+    "wof:id":807356303,
+    "wof:lastmodified":1462606598,
+    "wof:name":"Gilbert's",
+    "wof:parent_id":85812017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.434302,
+    42.589347,
+    -88.434302,
+    42.589347
+],
+  "geometry": {"coordinates":[-88.434302,42.589347],"type":"Point"}
+}

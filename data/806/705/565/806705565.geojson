@@ -1,0 +1,73 @@
+{
+  "id": 806705565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.752716,43.702808,-87.752716,43.702808",
+    "geom:latitude":43.702808,
+    "geom:longitude":-87.752716,
+    "iso:country":"US",
+    "sg:address":"3535 Weeden Creek Rd",
+    "sg:city":"Sheboygan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 458 6118",
+    "sg:postcode":"53081",
+    "sg:province":"WI",
+    "sg:tags":[
+        "truck",
+        "company",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85854963,
+        102081869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FgDeEvdCDrS6wCZCgEdwo_43.702808_-87.752716@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462600385,
+    "wof:geomhash":"cf6fe4317a6ef280e5e2fb5d5354fe12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "neighbourhood_id":85854963,
+            "region_id":85688517,
+            "venue_id":806705565
+        }
+    ],
+    "wof:id":806705565,
+    "wof:lastmodified":1462600385,
+    "wof:name":"Penske",
+    "wof:parent_id":85854963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "company",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -87.752716,
+    43.702808,
+    -87.752716,
+    43.702808
+],
+  "geometry": {"coordinates":[-87.75271600000001,43.702808],"type":"Point"}
+}

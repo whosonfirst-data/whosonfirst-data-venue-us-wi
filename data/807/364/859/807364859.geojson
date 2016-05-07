@@ -1,0 +1,74 @@
+{
+  "id": 807364859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.518684,43.074209,-89.518684,43.074209",
+    "geom:latitude":43.074209,
+    "geom:longitude":-89.518684,
+    "iso:country":"US",
+    "sg:address":"652 N High Point Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/145582-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 829 2009",
+    "sg:postcode":"53717",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BOK9ZiSogghiwblZq8KCR_43.074209_-89.518684@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606718,
+    "wof:geomhash":"85b49a8874bdd278608621041cb832b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":807364859
+        }
+    ],
+    "wof:id":807364859,
+    "wof:lastmodified":1462606718,
+    "wof:name":"Subway",
+    "wof:parent_id":85878843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.518684,
+    43.074209,
+    -89.518684,
+    43.074209
+],
+  "geometry": {"coordinates":[-89.51868399999999,43.074209],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 823145923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.977229,43.044471,-87.977229,43.044471",
+    "geom:latitude":43.044471,
+    "geom:longitude":-87.977229,
+    "iso:country":"US",
+    "sg:address":"5120 W State St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 258 8200",
+    "sg:postcode":"53208",
+    "sg:province":"WI",
+    "sg:tags":[
+        "foundry",
+        "castings-non-ferrous"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870885,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PfAeC4fjOs35v7BQeYWgG_43.044471_-87.977229@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607619,
+    "wof:geomhash":"3a828729784cf4edf5a269581a2ee55b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870885,
+            "region_id":85688517,
+            "venue_id":823145923
+        }
+    ],
+    "wof:id":823145923,
+    "wof:lastmodified":1462607619,
+    "wof:name":"Badger Alloys, Inc.",
+    "wof:parent_id":85870885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundry",
+        "castings-non-ferrous"
+    ]
+},
+  "bbox": [
+    -87.977229,
+    43.044471,
+    -87.977229,
+    43.044471
+],
+  "geometry": {"coordinates":[-87.97722899999999,43.044471],"type":"Point"}
+}

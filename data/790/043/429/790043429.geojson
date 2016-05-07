@@ -1,0 +1,80 @@
+{
+  "id": 790043429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.62934,44.947182,-89.62934,44.947182",
+    "geom:latitude":44.947182,
+    "geom:longitude":-89.62934,
+    "iso:country":"US",
+    "sg:address":"308 Adrian St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 842 3725",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "sales",
+        "motor",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17R3iGye295x0A0VHzy9ul_44.947182_-89.629340@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592668,
+    "wof:geomhash":"9eac6f7a384311af4e2d0859316e1219",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":790043429
+        }
+    ],
+    "wof:id":790043429,
+    "wof:lastmodified":1462592668,
+    "wof:name":"Linder Electric Motors Inc",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sales",
+        "motor",
+        "electric"
+    ]
+},
+  "bbox": [
+    -89.62934,
+    44.947182,
+    -89.62934,
+    44.947182
+],
+  "geometry": {"coordinates":[-89.62934,44.947182],"type":"Point"}
+}

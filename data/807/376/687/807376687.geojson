@@ -1,0 +1,91 @@
+{
+  "id": 807376687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.835579,43.497782,-87.835579,43.497782",
+    "geom:latitude":43.497782,
+    "geom:longitude":-87.835579,
+    "iso:country":"US",
+    "sg:address":"117 S Royal Ave",
+    "sg:city":"Belgium",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 285 4123",
+    "sg:postcode":"53004",
+    "sg:province":"WI",
+    "sg:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ],
+    "sg:website":"http://www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85829065,
+        102191575,
+        404495095,
+        85633793,
+        101732531,
+        102081873,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WstcBjti5HFNzdgyyyCIQ_43.497782_-87.835579@1303262804"
+    },
+    "wof:country":"US",
+    "wof:created":1462606880,
+    "wof:geomhash":"c64585e166535e1015321e05133149f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081873,
+            "localadmin_id":404495095,
+            "locality_id":101732531,
+            "neighbourhood_id":85829065,
+            "region_id":85688517,
+            "venue_id":807376687
+        }
+    ],
+    "wof:id":807376687,
+    "wof:lastmodified":1462606880,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85829065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -87.835579,
+    43.497782,
+    -87.835579,
+    43.497782
+],
+  "geometry": {"coordinates":[-87.835579,43.497782],"type":"Point"}
+}

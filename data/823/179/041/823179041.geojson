@@ -1,0 +1,81 @@
+{
+  "id": 823179041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.782578,42.721531,-87.782578,42.721531",
+    "geom:latitude":42.721531,
+    "geom:longitude":-87.782578,
+    "iso:country":"US",
+    "sg:address":"1001 Main St",
+    "sg:city":"Racine",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 619 6200",
+    "sg:postcode":"53403",
+    "sg:province":"WI",
+    "sg:tags":[
+        "college"
+    ],
+    "sg:website":"http://www.gateway.tec.wi.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827169,
+        102191575,
+        404494985,
+        85633793,
+        101732325,
+        102081763,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PwjvGzyRURhlaUX4Cf4pz_42.721531_-87.782578@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608051,
+    "wof:geomhash":"570e49096fceb6d32262696112e87590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494985,
+            "locality_id":101732325,
+            "neighbourhood_id":85827169,
+            "region_id":85688517,
+            "venue_id":823179041
+        }
+    ],
+    "wof:id":823179041,
+    "wof:lastmodified":1462608051,
+    "wof:name":"Gateway Technical College",
+    "wof:parent_id":85827169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -87.782578,
+    42.721531,
+    -87.782578,
+    42.721531
+],
+  "geometry": {"coordinates":[-87.782578,42.721531],"type":"Point"}
+}

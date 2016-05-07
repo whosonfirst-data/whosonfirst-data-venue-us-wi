@@ -1,0 +1,73 @@
+{
+  "id": 789875879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.039509,42.613497,-89.039509,42.613497",
+    "geom:latitude":42.613497,
+    "geom:longitude":-89.039509,
+    "iso:country":"US",
+    "sg:address":"4606 S Atlantis Dr",
+    "sg:city":"Janesville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 373 0904",
+    "sg:postcode":"53546",
+    "sg:province":"WI",
+    "sg:tags":[
+        "aircraft",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102530519,
+        85688517,
+        85633793,
+        102081829,
+        85825897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J9oZLZzdGUjjnZtscGExg_42.613497_-89.039509@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591238,
+    "wof:geomhash":"215f37c7727c5018bd94fca116ac5427",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530519,
+            "country_id":85633793,
+            "county_id":102081829,
+            "neighbourhood_id":85825897,
+            "region_id":85688517,
+            "venue_id":789875879
+        }
+    ],
+    "wof:id":789875879,
+    "wof:lastmodified":1462591238,
+    "wof:name":"Wisconsin Aviation Acdemey Inc",
+    "wof:parent_id":102530519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "school"
+    ]
+},
+  "bbox": [
+    -89.039509,
+    42.613497,
+    -89.039509,
+    42.613497
+],
+  "geometry": {"coordinates":[-89.039509,42.613497],"type":"Point"}
+}

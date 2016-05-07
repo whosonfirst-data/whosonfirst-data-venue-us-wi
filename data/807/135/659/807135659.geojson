@@ -1,0 +1,71 @@
+{
+  "id": 807135659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.931095,43.91358,-87.931095,43.91358",
+    "geom:latitude":43.91358,
+    "geom:longitude":-87.931095,
+    "iso:country":"US",
+    "sg:address":"18213 W Washington Rd",
+    "sg:city":"Kiel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 457 4991",
+    "sg:postcode":"53042",
+    "sg:province":"WI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OntmxDaxyO4lfoButNtti_43.913580_-87.931095@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604118,
+    "wof:geomhash":"b756bf99fe4f8da1fa4631029e6dcbbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":807135659
+        }
+    ],
+    "wof:id":807135659,
+    "wof:lastmodified":1462604118,
+    "wof:name":"Magic Car Wash",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -87.931095,
+    43.91358,
+    -87.931095,
+    43.91358
+],
+  "geometry": {"coordinates":[-87.931095,43.91358],"type":"Point"}
+}

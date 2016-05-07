@@ -1,0 +1,83 @@
+{
+  "id": 807376547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.460786,44.266214,-88.460786,44.266214",
+    "geom:latitude":44.266214,
+    "geom:longitude":-88.460786,
+    "iso:country":"US",
+    "sg:address":"599 N Westhill Blvd",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/grand-chute/182914-culvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 830 2331",
+    "sg:postcode":"54914",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15FdLrLTN1HbJdl7PU0YSy_44.265990_-88.461128@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606878,
+    "wof:geomhash":"b275104c323877484666dbd160beac0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":807376547
+        }
+    ],
+    "wof:id":807376547,
+    "wof:lastmodified":1462606878,
+    "wof:name":"Culver's",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -88.460786,
+    44.266214,
+    -88.460786,
+    44.266214
+],
+  "geometry": {"coordinates":[-88.460786,44.266214],"type":"Point"}
+}

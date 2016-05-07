@@ -1,0 +1,71 @@
+{
+  "id": 806677805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.583373,43.998457,-88.583373,43.998457",
+    "geom:latitude":43.998457,
+    "geom:longitude":-88.583373,
+    "iso:country":"US",
+    "sg:address":"1951 S Washburn St",
+    "sg:city":"Oshkosh",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 235 2566",
+    "sg:postcode":"54904",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733459,
+        102081801,
+        85819403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QLCDSEji1yOw6vGdKs37e_43.998457_-88.583373@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462600154,
+    "wof:geomhash":"13af6144c8e5a1b93e7d256026d3104c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101733459,
+            "neighbourhood_id":85819403,
+            "region_id":85688517,
+            "venue_id":806677805
+        }
+    ],
+    "wof:id":806677805,
+    "wof:lastmodified":1462600154,
+    "wof:name":"Animal Hospital Of Oshkosh",
+    "wof:parent_id":85819403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -88.583373,
+    43.998457,
+    -88.583373,
+    43.998457
+],
+  "geometry": {"coordinates":[-88.58337299999999,43.998457],"type":"Point"}
+}

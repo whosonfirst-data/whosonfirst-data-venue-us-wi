@@ -1,0 +1,74 @@
+{
+  "id": 807367463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.649755,44.917841,-89.649755,44.917841",
+    "geom:latitude":44.917841,
+    "geom:longitude":-89.649755,
+    "iso:country":"US",
+    "sg:address":"4300 Rib Mountain Dr",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/rib-mountain/145811-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 355 1214",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85854809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59Dpf48MOKvMv1HtervXWS_44.917841_-89.649755@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606758,
+    "wof:geomhash":"09d4e82db4cb735c2749de5f80df9cc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85854809,
+            "region_id":85688517,
+            "venue_id":807367463
+        }
+    ],
+    "wof:id":807367463,
+    "wof:lastmodified":1462606758,
+    "wof:name":"Subway",
+    "wof:parent_id":85854809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.649755,
+    44.917841,
+    -89.649755,
+    44.917841
+],
+  "geometry": {"coordinates":[-89.649755,44.917841],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 807381779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.002706,43.318193,-88.002706,43.318193",
+    "geom:latitude":43.318193,
+    "geom:longitude":-88.002706,
+    "iso:country":"US",
+    "sg:address":"1214 Washington Ave",
+    "sg:city":"Cedarburg",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 375 4780",
+    "sg:postcode":"53012",
+    "sg:province":"WI",
+    "sg:tags":[
+        "cable-non-electric",
+        "wire",
+        "store",
+        "cable-electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85868895,
+        102081873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fvxyehRyIQnvPHFO690jO_43.318193_-88.002706@1303262805"
+    },
+    "wof:country":"US",
+    "wof:created":1462606945,
+    "wof:geomhash":"7017d3a6662693e4457b33adcafa0999",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081873,
+            "neighbourhood_id":85868895,
+            "region_id":85688517,
+            "venue_id":807381779
+        }
+    ],
+    "wof:id":807381779,
+    "wof:lastmodified":1462606945,
+    "wof:name":"Classic Connection USA Inc",
+    "wof:parent_id":85868895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cable-non-electric",
+        "wire",
+        "store",
+        "cable-electric"
+    ]
+},
+  "bbox": [
+    -88.002706,
+    43.318193,
+    -88.002706,
+    43.318193
+],
+  "geometry": {"coordinates":[-88.002706,43.318193],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 807393027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.279633,42.670608,-88.279633,42.670608",
+    "geom:latitude":42.670608,
+    "geom:longitude":-88.279633,
+    "iso:country":"US",
+    "sg:address":"190 Gardner Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 763 8101",
+    "sg:postcode":"53105",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865439,
+        102191575,
+        404494891,
+        85633793,
+        101733617,
+        102081763,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CtG9cxqSUEdrx6RVA4DQV_42.670608_-88.279633@1303262806"
+    },
+    "wof:country":"US",
+    "wof:created":1462607118,
+    "wof:geomhash":"b65ff912915498199dc1dc3e8ba4b42d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494891,
+            "locality_id":101733617,
+            "neighbourhood_id":85865439,
+            "region_id":85688517,
+            "venue_id":807393027
+        }
+    ],
+    "wof:id":807393027,
+    "wof:lastmodified":1462607118,
+    "wof:name":"Wisconsin Oral Surgery & Dental Implants",
+    "wof:parent_id":85865439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ]
+},
+  "bbox": [
+    -88.279633,
+    42.670608,
+    -88.279633,
+    42.670608
+],
+  "geometry": {"coordinates":[-88.279633,42.670608],"type":"Point"}
+}

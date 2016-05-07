@@ -1,0 +1,90 @@
+{
+  "id": 789896099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.938433,42.988322,-87.938433,42.988322",
+    "geom:latitude":42.988322,
+    "geom:longitude":-87.938433,
+    "iso:country":"US",
+    "sg:address":"1909 W Oklahoma Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 645 6460",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870955,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517,
+        85870927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F4TM8M06NN4NcbZr4RMgj_42.988322_-87.938433@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591413,
+    "wof:geomhash":"8f815f1db4f1fbfb84ee763dddfec22d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870955,
+            "region_id":85688517,
+            "venue_id":789896099
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870927,
+            "region_id":85688517,
+            "venue_id":789896099
+        }
+    ],
+    "wof:id":789896099,
+    "wof:lastmodified":1462591413,
+    "wof:name":"Kenar Imports",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -87.938433,
+    42.988322,
+    -87.938433,
+    42.988322
+],
+  "geometry": {"coordinates":[-87.938433,42.988322],"type":"Point"}
+}

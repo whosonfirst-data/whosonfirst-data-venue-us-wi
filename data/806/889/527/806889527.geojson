@@ -1,0 +1,71 @@
+{
+  "id": 806889527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.820422,43.568646,-87.820422,43.568646",
+    "geom:latitude":43.568646,
+    "geom:longitude":-87.820422,
+    "iso:country":"US",
+    "sg:address":"313 S Main St",
+    "sg:city":"Cedar Grove",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 668 8502",
+    "sg:postcode":"53013",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733891,
+        102081869,
+        85821461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bsIPTruR6BAi0hB8T0QV2_43.568646_-87.820422@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601927,
+    "wof:geomhash":"962c6eb6612034bdafab857bd2644e71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "locality_id":101733891,
+            "neighbourhood_id":85821461,
+            "region_id":85688517,
+            "venue_id":806889527
+        }
+    ],
+    "wof:id":806889527,
+    "wof:lastmodified":1462601927,
+    "wof:name":"Cedar Grove Clinic",
+    "wof:parent_id":85821461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -87.820422,
+    43.568646,
+    -87.820422,
+    43.568646
+],
+  "geometry": {"coordinates":[-87.82042199999999,43.568646],"type":"Point"}
+}

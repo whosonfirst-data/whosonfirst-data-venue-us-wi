@@ -1,0 +1,84 @@
+{
+  "id": 789579155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.395576,44.280954,-88.395576,44.280954",
+    "geom:latitude":44.280954,
+    "geom:longitude":-88.395576,
+    "iso:country":"US",
+    "sg:address":"2006 N Meade St",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 734 7630",
+    "sg:postcode":"54911",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857401,
+        102191575,
+        404494867,
+        85633793,
+        101732417,
+        102081851,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l8zkkeqP2LeC3B0P4FH8F_44.280954_-88.395576@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588897,
+    "wof:geomhash":"0eaf3bdb8d5112e4b8ae898cab0d9297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081851,
+            "localadmin_id":404494867,
+            "locality_id":101732417,
+            "neighbourhood_id":85857401,
+            "region_id":85688517,
+            "venue_id":789579155
+        }
+    ],
+    "wof:id":789579155,
+    "wof:lastmodified":1462588897,
+    "wof:name":"Pete's Auto Repair",
+    "wof:parent_id":85857401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "special"
+    ]
+},
+  "bbox": [
+    -88.395576,
+    44.280954,
+    -88.395576,
+    44.280954
+],
+  "geometry": {"coordinates":[-88.39557600000001,44.280954],"type":"Point"}
+}

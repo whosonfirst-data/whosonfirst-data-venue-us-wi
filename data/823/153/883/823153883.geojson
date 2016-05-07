@@ -1,0 +1,87 @@
+{
+  "id": 823153883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.0073,43.033602,-88.0073,43.033602",
+    "geom:latitude":43.033602,
+    "geom:longitude":-88.0073,
+    "iso:country":"US",
+    "sg:address":"304 N 76th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Sports Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 475 0500",
+    "sg:postcode":"53213",
+    "sg:province":"WI",
+    "sg:tags":[
+        "hall",
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870835,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PFLOcEJWUi06oSaO3SbUa_43.033602_-88.007300@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607718,
+    "wof:geomhash":"5ffc5b530284b7e790c8ef649ca13f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870835,
+            "region_id":85688517,
+            "venue_id":823153883
+        }
+    ],
+    "wof:id":823153883,
+    "wof:lastmodified":1462607718,
+    "wof:name":"Brewski's Sports Club",
+    "wof:parent_id":85870835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "pool"
+    ]
+},
+  "bbox": [
+    -88.0073,
+    43.033602,
+    -88.0073,
+    43.033602
+],
+  "geometry": {"coordinates":[-88.0073,43.033602],"type":"Point"}
+}

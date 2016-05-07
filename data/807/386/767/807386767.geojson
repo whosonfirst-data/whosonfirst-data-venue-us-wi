@@ -1,0 +1,87 @@
+{
+  "id": 807386767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.9676,43.222321,-87.9676,43.222321",
+    "geom:latitude":43.222321,
+    "geom:longitude":-87.9676,
+    "iso:country":"US",
+    "sg:address":"4533 W Bonnie Ct",
+    "sg:city":"Mequon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Farmers Market",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 242 0980",
+    "sg:postcode":"53092",
+    "sg:province":"WI",
+    "sg:tags":[
+        "product",
+        "corn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870795,
+        102191575,
+        404491943,
+        85633793,
+        101732545,
+        102081873,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_523rv0rFX8SYGKVq2ukA2q_43.222321_-87.967600@1303262805"
+    },
+    "wof:country":"US",
+    "wof:created":1462607021,
+    "wof:geomhash":"35a48227b13d1f1eb0a0289ad81eb4ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081873,
+            "localadmin_id":404491943,
+            "locality_id":101732545,
+            "neighbourhood_id":85870795,
+            "region_id":85688517,
+            "venue_id":807386767
+        }
+    ],
+    "wof:id":807386767,
+    "wof:lastmodified":1462607021,
+    "wof:name":"Baehmann Family Farm",
+    "wof:parent_id":85870795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "corn"
+    ]
+},
+  "bbox": [
+    -87.9676,
+    43.222321,
+    -87.9676,
+    43.222321
+],
+  "geometry": {"coordinates":[-87.9676,43.222321],"type":"Point"}
+}

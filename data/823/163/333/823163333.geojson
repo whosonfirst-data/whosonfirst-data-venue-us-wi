@@ -1,0 +1,93 @@
+{
+  "id": 823163333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.988858,43.002892,-87.988858,43.002892",
+    "geom:latitude":43.002892,
+    "geom:longitude":-87.988858,
+    "iso:country":"US",
+    "sg:address":"6104 W Lincoln Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 543 6620",
+    "sg:postcode":"53219",
+    "sg:province":"WI",
+    "sg:tags":[
+        "recording",
+        "instrument",
+        "instruction-instrumental",
+        "service-sound",
+        "musical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870937,
+        102191575,
+        404494275,
+        85633793,
+        101733091,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mOeukk1wk8qeiYfVvT9IR_43.002892_-87.988858@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607845,
+    "wof:geomhash":"cd69872c0bdf144e46e31fd80514c054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494275,
+            "locality_id":101733091,
+            "neighbourhood_id":85870937,
+            "region_id":85688517,
+            "venue_id":823163333
+        }
+    ],
+    "wof:id":823163333,
+    "wof:lastmodified":1462607845,
+    "wof:name":"Boe Music Studio",
+    "wof:parent_id":85870937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recording",
+        "instrument",
+        "instruction-instrumental",
+        "service-sound",
+        "musical"
+    ]
+},
+  "bbox": [
+    -87.988858,
+    43.002892,
+    -87.988858,
+    43.002892
+],
+  "geometry": {"coordinates":[-87.98885799999999,43.002892],"type":"Point"}
+}

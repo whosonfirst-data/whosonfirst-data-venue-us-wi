@@ -1,0 +1,67 @@
+{
+  "id": 773574213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.431593,44.778316,-91.431593,44.778316",
+    "geom:latitude":44.778316,
+    "geom:longitude":-91.431593,
+    "iso:country":"US",
+    "sg:address":"3711 Gateway Dr",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 835 6336",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:website":"www.kohls.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ai4hLkRPmx07fnO7CFpLt_44.778316_-91.431593@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586762,
+    "wof:geomhash":"1038ec919d4294caf614df8c47786992",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":773574213
+        }
+    ],
+    "wof:id":773574213,
+    "wof:lastmodified":1462586762,
+    "wof:name":"Kohl's",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.431593,
+    44.778316,
+    -91.431593,
+    44.778316
+],
+  "geometry": {"coordinates":[-91.43159300000001,44.778316],"type":"Point"}
+}

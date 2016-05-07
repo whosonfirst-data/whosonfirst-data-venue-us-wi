@@ -1,0 +1,83 @@
+{
+  "id": 823186625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.392311,43.02773,-89.392311,43.02773",
+    "geom:latitude":43.02773,
+    "geom:longitude":-89.392311,
+    "iso:country":"US",
+    "sg:address":"715 Post Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 288 1111",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "buses-charter",
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OHWPsB1d6PLajezkSpkkL_43.027730_-89.392311@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608151,
+    "wof:geomhash":"156c1b5fb9881b5886bdeb780f812f5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":823186625
+        }
+    ],
+    "wof:id":823186625,
+    "wof:lastmodified":1462608151,
+    "wof:name":"Sunlife Limousine & Coaches",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buses-charter",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -89.392311,
+    43.02773,
+    -89.392311,
+    43.02773
+],
+  "geometry": {"coordinates":[-89.39231100000001,43.02773],"type":"Point"}
+}

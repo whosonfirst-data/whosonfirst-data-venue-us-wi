@@ -1,0 +1,74 @@
+{
+  "id": 807372361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.870957,43.40081,-87.870957,43.40081",
+    "geom:latitude":43.40081,
+    "geom:longitude":-87.870957,
+    "iso:country":"US",
+    "sg:address":"1021 N Wisconsin St",
+    "sg:city":"Port Washington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/port-washington/80055-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 284 5834",
+    "sg:postcode":"53074",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732547,
+        102081873,
+        85828641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SFnti9GDmIY81pN04np4m_43.400801_-87.871072@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606821,
+    "wof:geomhash":"dbab95b43b02ca8dbb9f863754c0d4ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081873,
+            "locality_id":101732547,
+            "neighbourhood_id":85828641,
+            "region_id":85688517,
+            "venue_id":807372361
+        }
+    ],
+    "wof:id":807372361,
+    "wof:lastmodified":1462606821,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85828641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -87.870957,
+    43.40081,
+    -87.870957,
+    43.40081
+],
+  "geometry": {"coordinates":[-87.870957,43.40081],"type":"Point"}
+}

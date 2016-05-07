@@ -1,0 +1,86 @@
+{
+  "id": 823152927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.906994,43.089327,-87.906994,43.089327",
+    "geom:latitude":43.089327,
+    "geom:longitude":-87.906994,
+    "iso:country":"US",
+    "sg:address":"320 E Capitol Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 962 3854",
+    "sg:postcode":"53212",
+    "sg:province":"WI",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollartree.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870941,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iO0TfoX4VcYlAKCGofX8W_43.089327_-87.906994@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607706,
+    "wof:geomhash":"290191adcc07482f1d9b57f390f29f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870941,
+            "region_id":85688517,
+            "venue_id":823152927
+        }
+    ],
+    "wof:id":823152927,
+    "wof:lastmodified":1462607706,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85870941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -87.906994,
+    43.089327,
+    -87.906994,
+    43.089327
+],
+  "geometry": {"coordinates":[-87.906994,43.089327],"type":"Point"}
+}

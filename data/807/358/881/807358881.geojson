@@ -1,0 +1,82 @@
+{
+  "id": 807358881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.963307,43.182695,-87.963307,43.182695",
+    "geom:latitude":43.182695,
+    "geom:longitude":-87.963307,
+    "iso:country":"US",
+    "sg:address":"9080 N Green Bay Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/brown-deer/7652-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 434 2270",
+    "sg:postcode":"53209",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85894487,
+        102191575,
+        404494179,
+        85633793,
+        101733081,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jtaShT5xwZKqVVtqC0gw8_43.182695_-87.963307@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606635,
+    "wof:geomhash":"b6027e1552f4663e7b0c2fd8dbb951a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494179,
+            "locality_id":101733081,
+            "neighbourhood_id":85894487,
+            "region_id":85688517,
+            "venue_id":807358881
+        }
+    ],
+    "wof:id":807358881,
+    "wof:lastmodified":1462606635,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85894487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -87.963307,
+    43.182695,
+    -87.963307,
+    43.182695
+],
+  "geometry": {"coordinates":[-87.963307,43.182695],"type":"Point"}
+}

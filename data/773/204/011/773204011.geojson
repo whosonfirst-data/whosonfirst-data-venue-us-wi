@@ -1,0 +1,71 @@
+{
+  "id": 773204011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.123461,42.965618,-89.123461,42.965618",
+    "geom:latitude":42.965618,
+    "geom:longitude":-89.123461,
+    "iso:country":"US",
+    "sg:address":"1447 Co Rd B",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 877 0150",
+    "sg:postcode":"53523",
+    "sg:province":"WI",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85853305,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64COaNR7LO7KnU8bgsmlLk_42.965618_-89.123461@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583958,
+    "wof:geomhash":"f5d04b574f145a6bab856406fbecf03d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85853305,
+            "region_id":85688517,
+            "venue_id":773204011
+        }
+    ],
+    "wof:id":773204011,
+    "wof:lastmodified":1462583958,
+    "wof:name":"Melton Motors",
+    "wof:parent_id":85853305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -89.123461,
+    42.965618,
+    -89.123461,
+    42.965618
+],
+  "geometry": {"coordinates":[-89.12346100000001,42.965618],"type":"Point"}
+}

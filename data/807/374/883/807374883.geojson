@@ -1,0 +1,91 @@
+{
+  "id": 807374883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.36348,43.094978,-89.36348,43.094978",
+    "geom:latitude":43.094978,
+    "geom:longitude":-89.36348,
+    "iso:country":"US",
+    "sg:address":"1738 Fordem Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/149784-einstein-bros/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 242 9888",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "bagel",
+        "soup",
+        "american",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878841,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13np2WcvJbD26nY4HVyFeb_43.094714_-89.363586@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606853,
+    "wof:geomhash":"6eb7a09227d346ae5b0f7154411e141d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878841,
+            "region_id":85688517,
+            "venue_id":807374883
+        }
+    ],
+    "wof:id":807374883,
+    "wof:lastmodified":1462606853,
+    "wof:name":"Einstein Bros",
+    "wof:parent_id":85878841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "bagel",
+        "soup",
+        "american",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -89.36348,
+    43.094978,
+    -89.36348,
+    43.094978
+],
+  "geometry": {"coordinates":[-89.36348,43.094978],"type":"Point"}
+}

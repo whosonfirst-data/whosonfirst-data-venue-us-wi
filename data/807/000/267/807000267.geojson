@@ -1,0 +1,69 @@
+{
+  "id": 807000267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.293985,43.339385,-88.293985,43.339385",
+    "geom:latitude":43.339385,
+    "geom:longitude":-88.293985,
+    "iso:country":"US",
+    "sg:address":"123 Weil Dr",
+    "sg:city":"Slinger",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 644 5594",
+    "sg:postcode":"53086",
+    "sg:province":"WI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85810007,
+        102081745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bl4l08M1iCW56F7ps6lF7_43.339385_-88.293985@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602863,
+    "wof:geomhash":"202b3667ae1bb39a2966f4fd165baf80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081745,
+            "neighbourhood_id":85810007,
+            "region_id":85688517,
+            "venue_id":807000267
+        }
+    ],
+    "wof:id":807000267,
+    "wof:lastmodified":1462602863,
+    "wof:name":"Lifestar Emergency Med Svc",
+    "wof:parent_id":85810007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -88.293985,
+    43.339385,
+    -88.293985,
+    43.339385
+],
+  "geometry": {"coordinates":[-88.29398500000001,43.339385],"type":"Point"}
+}

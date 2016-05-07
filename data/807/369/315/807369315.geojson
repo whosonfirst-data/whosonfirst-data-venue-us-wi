@@ -1,0 +1,73 @@
+{
+  "id": 807369315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.488245,44.812438,-91.488245,44.812438",
+    "geom:latitude":44.812438,
+    "geom:longitude":-91.488245,
+    "iso:country":"US",
+    "sg:address":"1029 Main St",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/206435-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w4k4tGG2HyPnf0WaYJokW_44.812438_-91.488245@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606781,
+    "wof:geomhash":"a26da18c1c5997fd8c0fd289a70bac63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807369315
+        }
+    ],
+    "wof:id":807369315,
+    "wof:lastmodified":1462606781,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.488245,
+    44.812438,
+    -91.488245,
+    44.812438
+],
+  "geometry": {"coordinates":[-91.48824500000001,44.812438],"type":"Point"}
+}

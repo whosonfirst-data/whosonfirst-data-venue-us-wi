@@ -1,0 +1,71 @@
+{
+  "id": 773579391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.376083,42.92376,-89.376083,42.92376",
+    "geom:latitude":42.92376,
+    "geom:longitude":-89.376083,
+    "iso:country":"US",
+    "sg:address":"383 Park St",
+    "sg:city":"Oregon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 835 3111",
+    "sg:postcode":"53575",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85829451,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O9x2tOl737SZubnZ1bpDG_42.923760_-89.376083@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586799,
+    "wof:geomhash":"3856cb717ce6cb617a6b16a33df7a036",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85829451,
+            "region_id":85688517,
+            "venue_id":773579391
+        }
+    ],
+    "wof:id":773579391,
+    "wof:lastmodified":1462586799,
+    "wof:name":"Oregon Police Department",
+    "wof:parent_id":85829451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -89.376083,
+    42.92376,
+    -89.376083,
+    42.92376
+],
+  "geometry": {"coordinates":[-89.37608299999999,42.92376],"type":"Point"}
+}

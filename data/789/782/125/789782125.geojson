@@ -1,0 +1,75 @@
+{
+  "id": 789782125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.000996,43.049545,-88.000996,43.049545",
+    "geom:latitude":43.049545,
+    "geom:longitude":-88.000996,
+    "iso:country":"US",
+    "sg:address":"1337 N 71st St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 453 9190",
+    "sg:postcode":"53213",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shelter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870885,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cpxuG77iDo23RXgQRDkI0_43.049545_-88.000996@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590505,
+    "wof:geomhash":"84fbf619a0199c61f5bf562f1bc364d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870885,
+            "region_id":85688517,
+            "venue_id":789782125
+        }
+    ],
+    "wof:id":789782125,
+    "wof:lastmodified":1462590505,
+    "wof:name":"Cat Association",
+    "wof:parent_id":85870885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter"
+    ]
+},
+  "bbox": [
+    -88.000996,
+    43.049545,
+    -88.000996,
+    43.049545
+],
+  "geometry": {"coordinates":[-88.000996,43.049545],"type":"Point"}
+}

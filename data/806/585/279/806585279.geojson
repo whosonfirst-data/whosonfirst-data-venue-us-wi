@@ -1,0 +1,73 @@
+{
+  "id": 806585279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.486003,43.089645,-89.486003,43.089645",
+    "geom:latitude":43.089645,
+    "geom:longitude":-89.486003,
+    "iso:country":"US",
+    "sg:address":"6225 University Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 442 3160",
+    "sg:postcode":"53705",
+    "sg:province":"WI",
+    "sg:tags":[
+        "development",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732813,
+        102081795,
+        85841479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_013nksrWA8tyjvI5z7Jy65_43.089645_-89.486003@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462599357,
+    "wof:geomhash":"81db41afbd9fbe75d2e05472c11999bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732813,
+            "neighbourhood_id":85841479,
+            "region_id":85688517,
+            "venue_id":806585279
+        }
+    ],
+    "wof:id":806585279,
+    "wof:lastmodified":1462599357,
+    "wof:name":"Skyward Inc",
+    "wof:parent_id":85841479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "software"
+    ]
+},
+  "bbox": [
+    -89.486003,
+    43.089645,
+    -89.486003,
+    43.089645
+],
+  "geometry": {"coordinates":[-89.486003,43.089645],"type":"Point"}
+}

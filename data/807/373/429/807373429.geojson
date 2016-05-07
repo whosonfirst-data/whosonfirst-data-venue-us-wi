@@ -1,0 +1,78 @@
+{
+  "id": 807373429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.888071,43.070306,-87.888071,43.070306",
+    "geom:latitude":43.070306,
+    "geom:longitude":-87.888071,
+    "iso:country":"US",
+    "sg:address":"2831 N Oakland Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/milwaukee/86180-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 962 9444",
+    "sg:postcode":"53211",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867291,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FMQLoodsAEgNuDmuPl8eE_43.070711_-87.887995@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606834,
+    "wof:geomhash":"a71946c7fc5fc40d2eb9cf19330386f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85867291,
+            "region_id":85688517,
+            "venue_id":807373429
+        }
+    ],
+    "wof:id":807373429,
+    "wof:lastmodified":1462606834,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85867291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -87.888071,
+    43.070306,
+    -87.888071,
+    43.070306
+],
+  "geometry": {"coordinates":[-87.888071,43.070306],"type":"Point"}
+}

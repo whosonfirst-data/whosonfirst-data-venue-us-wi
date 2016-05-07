@@ -1,0 +1,74 @@
+{
+  "id": 807369407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.475501,44.85074,-91.475501,44.85074",
+    "geom:latitude":44.85074,
+    "geom:longitude":-91.475501,
+    "iso:country":"US",
+    "sg:address":"2413 Eddy Ln",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/145451-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 831 1090",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62pnMxPweHiWpkXOjQEIZF_44.850740_-91.475501@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606782,
+    "wof:geomhash":"2083a70b07afd3776c050344d7a0081e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807369407
+        }
+    ],
+    "wof:id":807369407,
+    "wof:lastmodified":1462606782,
+    "wof:name":"Subway",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -91.475501,
+    44.85074,
+    -91.475501,
+    44.85074
+],
+  "geometry": {"coordinates":[-91.47550099999999,44.85074],"type":"Point"}
+}

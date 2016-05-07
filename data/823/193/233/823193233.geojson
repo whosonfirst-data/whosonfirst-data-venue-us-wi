@@ -1,0 +1,88 @@
+{
+  "id": 823193233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.207474,43.869652,-91.207474,43.869652",
+    "geom:latitude":43.869652,
+    "geom:longitude":-91.207474,
+    "iso:country":"US",
+    "sg:address":"1202 County Road Ph",
+    "sg:city":"Onalaska",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 781 2225",
+    "sg:postcode":"54650",
+    "sg:province":"WI",
+    "sg:tags":[
+        "therapist",
+        "therapy",
+        "physical",
+        "chiropractic"
+    ],
+    "sg:website":"http://www.bronstonchiro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732663,
+        102081301,
+        85825891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42QTApDVF9cEwt3DpbXrkR_43.869652_-91.207474@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608241,
+    "wof:geomhash":"da6e484c8c68e58eae38ed6e8db4573e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732663,
+            "neighbourhood_id":85825891,
+            "region_id":85688517,
+            "venue_id":823193233
+        }
+    ],
+    "wof:id":823193233,
+    "wof:lastmodified":1462608241,
+    "wof:name":"Bronston Chiropractic Clinic",
+    "wof:parent_id":85825891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "therapy",
+        "physical",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -91.207474,
+    43.869652,
+    -91.207474,
+    43.869652
+],
+  "geometry": {"coordinates":[-91.207474,43.869652],"type":"Point"}
+}

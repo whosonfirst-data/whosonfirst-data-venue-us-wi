@@ -1,0 +1,88 @@
+{
+  "id": 823168519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.059595,43.074224,-88.059595,43.074224",
+    "geom:latitude":43.074224,
+    "geom:longitude":-88.059595,
+    "iso:country":"US",
+    "sg:address":"11737 W Burleigh St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 258 9000",
+    "sg:postcode":"53222",
+    "sg:province":"WI",
+    "sg:tags":[
+        "children's",
+        "planning"
+    ],
+    "sg:website":"http://www.amf.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870817,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AFb4nLkuvNol0qeUfBlX5_43.074224_-88.059595@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607911,
+    "wof:geomhash":"8b9a98814a5660802d83ef01edd9ffb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870817,
+            "region_id":85688517,
+            "venue_id":823168519
+        }
+    ],
+    "wof:id":823168519,
+    "wof:lastmodified":1462607911,
+    "wof:name":"AMF Bowlero Lanes",
+    "wof:parent_id":85870817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "children's",
+        "planning"
+    ]
+},
+  "bbox": [
+    -88.059595,
+    43.074224,
+    -88.059595,
+    43.074224
+],
+  "geometry": {"coordinates":[-88.059595,43.074224],"type":"Point"}
+}

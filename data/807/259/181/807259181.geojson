@@ -1,0 +1,78 @@
+{
+  "id": 807259181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.938792,44.153309,-87.938792,44.153309",
+    "geom:latitude":44.153309,
+    "geom:longitude":-87.938792,
+    "iso:country":"US",
+    "sg:address":"18227 US Hwy 10",
+    "sg:city":"Reedsville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 754 4142",
+    "sg:postcode":"54230",
+    "sg:province":"WI",
+    "sg:tags":[
+        "lead",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85827947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lIZWoEFexKnCgjs5FfbhL_44.153309_-87.938792@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605423,
+    "wof:geomhash":"786f16e31f80931b4a2e00fc3a91052c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85827947,
+            "region_id":85688517,
+            "venue_id":807259181
+        }
+    ],
+    "wof:id":807259181,
+    "wof:lastmodified":1462605423,
+    "wof:name":"Rainbow's End Campgrounds",
+    "wof:parent_id":85827947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lead",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -87.938792,
+    44.153309,
+    -87.938792,
+    44.153309
+],
+  "geometry": {"coordinates":[-87.93879200000001,44.153309],"type":"Point"}
+}

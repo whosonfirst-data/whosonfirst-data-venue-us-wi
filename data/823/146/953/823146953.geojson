@@ -1,0 +1,84 @@
+{
+  "id": 823146953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.953957,43.113731,-87.953957,43.113731",
+    "geom:latitude":43.113731,
+    "geom:longitude":-87.953957,
+    "iso:country":"US",
+    "sg:address":"5300 N 33rd St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 462 8244",
+    "sg:postcode":"53209",
+    "sg:province":"WI",
+    "sg:tags":[
+        "equipment",
+        "fix-it",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870907,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QsAXDFiXeCV9MCwf7E1r0_43.113731_-87.953957@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607631,
+    "wof:geomhash":"1b49118433b4b96fd75d7ac958fadf26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870907,
+            "region_id":85688517,
+            "venue_id":823146953
+        }
+    ],
+    "wof:id":823146953,
+    "wof:lastmodified":1462607631,
+    "wof:name":"Nre Wheel Works, Inc",
+    "wof:parent_id":85870907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "fix-it",
+        "supply"
+    ]
+},
+  "bbox": [
+    -87.953957,
+    43.113731,
+    -87.953957,
+    43.113731
+],
+  "geometry": {"coordinates":[-87.953957,43.113731],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 773084353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.518576,44.796771,-91.518576,44.796771",
+    "geom:latitude":44.796771,
+    "geom:longitude":-91.518576,
+    "iso:country":"US",
+    "sg:address":"1030 Oak Ridge Dr",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 833 1504",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85848105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ctDyUgnFS0cE3fGgqspoS_44.796771_-91.518576@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583041,
+    "wof:geomhash":"cf78dfb1d99cccc94e0f766454f0da2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85848105,
+            "region_id":85688517,
+            "venue_id":773084353
+        }
+    ],
+    "wof:id":773084353,
+    "wof:lastmodified":1462583041,
+    "wof:name":"Hand & Upper Extremity Spec",
+    "wof:parent_id":85848105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -91.518576,
+    44.796771,
+    -91.518576,
+    44.796771
+],
+  "geometry": {"coordinates":[-91.518576,44.796771],"type":"Point"}
+}

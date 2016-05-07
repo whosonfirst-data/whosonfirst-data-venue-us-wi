@@ -1,0 +1,80 @@
+{
+  "id": 823191013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.15472,44.691133,-90.15472,44.691133",
+    "geom:latitude":44.691133,
+    "geom:longitude":-90.15472,
+    "iso:country":"US",
+    "sg:address":"2312 N Central Ave",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 384 6532",
+    "sg:postcode":"54449",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dining",
+        "mexican",
+        "take",
+        "fine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85832133,
+        102081881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1keiuMXUmsixB8QIgutJeX_44.691133_-90.154720@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608202,
+    "wof:geomhash":"c7e5be0c3959c71089d96040adae6048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "neighbourhood_id":85832133,
+            "region_id":85688517,
+            "venue_id":823191013
+        }
+    ],
+    "wof:id":823191013,
+    "wof:lastmodified":1462608202,
+    "wof:name":"El Mezcal",
+    "wof:parent_id":85832133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dining",
+        "mexican",
+        "take",
+        "fine"
+    ]
+},
+  "bbox": [
+    -90.15472,
+    44.691133,
+    -90.15472,
+    44.691133
+],
+  "geometry": {"coordinates":[-90.15472,44.691133],"type":"Point"}
+}

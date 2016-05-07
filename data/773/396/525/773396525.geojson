@@ -1,0 +1,69 @@
+{
+  "id": 773396525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.330301,44.512255,-88.330301,44.512255",
+    "geom:latitude":44.512255,
+    "geom:longitude":-88.330301,
+    "iso:country":"US",
+    "sg:address":"119 N Main St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 833 9439",
+    "sg:postcode":"54165",
+    "sg:province":"WI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85803271,
+        102081851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iBLXxOC6qCoPr12AdYRps_44.512255_-88.330301@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585373,
+    "wof:geomhash":"52f6a02b53741e957f81e3da176f4e62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "neighbourhood_id":85803271,
+            "region_id":85688517,
+            "venue_id":773396525
+        }
+    ],
+    "wof:id":773396525,
+    "wof:lastmodified":1462585373,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85803271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -88.330301,
+    44.512255,
+    -88.330301,
+    44.512255
+],
+  "geometry": {"coordinates":[-88.33030100000001,44.512255],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789762151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.587957,44.019309,-88.587957,44.019309",
+    "geom:latitude":44.019309,
+    "geom:longitude":-88.587957,
+    "iso:country":"US",
+    "sg:address":"112 Westbrook Dr",
+    "sg:city":"Oshkosh",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 232 9162",
+    "sg:postcode":"54904",
+    "sg:province":"WI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733459,
+        102081801,
+        85819403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j25o11SRmcG5eyh06tqzT_44.019309_-88.587957@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590347,
+    "wof:geomhash":"1c45b5b6e11549161321d1a147e23cd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101733459,
+            "neighbourhood_id":85819403,
+            "region_id":85688517,
+            "venue_id":789762151
+        }
+    ],
+    "wof:id":789762151,
+    "wof:lastmodified":1462590347,
+    "wof:name":"Anderson Cleaning Services",
+    "wof:parent_id":85819403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -88.587957,
+    44.019309,
+    -88.587957,
+    44.019309
+],
+  "geometry": {"coordinates":[-88.587957,44.019309],"type":"Point"}
+}

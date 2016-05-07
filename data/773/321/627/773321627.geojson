@@ -1,0 +1,71 @@
+{
+  "id": 773321627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.072753,42.523855,-89.072753,42.523855",
+    "geom:latitude":42.523855,
+    "geom:longitude":-89.072753,
+    "iso:country":"US",
+    "sg:address":"1735 S Madison Rd",
+    "sg:city":"Beloit",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 365 4383",
+    "sg:postcode":"53511",
+    "sg:province":"WI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732817,
+        102081829,
+        85810961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kGhSihijtxJlhRFk5ZGo4_42.523855_-89.072753@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584854,
+    "wof:geomhash":"5ebcaebe935e30305e7a9ff0f12a7081",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "locality_id":101732817,
+            "neighbourhood_id":85810961,
+            "region_id":85688517,
+            "venue_id":773321627
+        }
+    ],
+    "wof:id":773321627,
+    "wof:lastmodified":1462584854,
+    "wof:name":"Quest Diagnostics Inc",
+    "wof:parent_id":85810961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -89.072753,
+    42.523855,
+    -89.072753,
+    42.523855
+],
+  "geometry": {"coordinates":[-89.07275300000001,42.523855],"type":"Point"}
+}

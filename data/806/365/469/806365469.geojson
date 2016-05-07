@@ -1,0 +1,71 @@
+{
+  "id": 806365469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.035045,42.819195,-89.035045,42.819195",
+    "geom:latitude":42.819195,
+    "geom:longitude":-89.035045,
+    "iso:country":"US",
+    "sg:address":"10101 N Kidder Rd",
+    "sg:city":"Edgerton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 884 4494",
+    "sg:postcode":"53534",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85836935,
+        102081829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05ajwRLhPgRSYyFCcKX86J_42.819195_-89.035045@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462597545,
+    "wof:geomhash":"7ca0dfb76c59ee1eabd0a692cf539a04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "neighbourhood_id":85836935,
+            "region_id":85688517,
+            "venue_id":806365469
+        }
+    ],
+    "wof:id":806365469,
+    "wof:lastmodified":1462597545,
+    "wof:name":"City Trans Svc",
+    "wof:parent_id":85836935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.035045,
+    42.819195,
+    -89.035045,
+    42.819195
+],
+  "geometry": {"coordinates":[-89.035045,42.819195],"type":"Point"}
+}

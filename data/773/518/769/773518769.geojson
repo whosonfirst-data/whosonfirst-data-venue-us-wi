@@ -1,0 +1,71 @@
+{
+  "id": 773518769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.330035,44.518155,-88.330035,44.518155",
+    "geom:latitude":44.518155,
+    "geom:longitude":-88.330035,
+    "iso:country":"US",
+    "sg:address":"883 N Main St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 833 2888",
+    "sg:postcode":"54165",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85803271,
+        102081851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ukALOESFcXXxMgbz8F3Dc_44.518155_-88.330035@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586336,
+    "wof:geomhash":"0f5f804028a1e2c8b726e901a2e7699a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "neighbourhood_id":85803271,
+            "region_id":85688517,
+            "venue_id":773518769
+        }
+    ],
+    "wof:id":773518769,
+    "wof:lastmodified":1462586336,
+    "wof:name":"Chuck's Auto Svc",
+    "wof:parent_id":85803271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.330035,
+    44.518155,
+    -88.330035,
+    44.518155
+],
+  "geometry": {"coordinates":[-88.330035,44.518155],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 823157257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.956734,42.993894,-87.956734,42.993894",
+    "geom:latitude":42.993894,
+    "geom:longitude":-87.956734,
+    "iso:country":"US",
+    "sg:address":"2803 S 34th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 218 6344",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "container",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870927,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517,
+        85870955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_243I3zm2Io6PIQm7YXfxTC_42.993894_-87.956734@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607766,
+    "wof:geomhash":"9fe0429ce17b202c312d17a8b1d9fcbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870927,
+            "region_id":85688517,
+            "venue_id":823157257
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870955,
+            "region_id":85688517,
+            "venue_id":823157257
+        }
+    ],
+    "wof:id":823157257,
+    "wof:lastmodified":1462607766,
+    "wof:name":"Milwaukee Logistics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "broker"
+    ]
+},
+  "bbox": [
+    -87.956734,
+    42.993894,
+    -87.956734,
+    42.993894
+],
+  "geometry": {"coordinates":[-87.956734,42.993894],"type":"Point"}
+}

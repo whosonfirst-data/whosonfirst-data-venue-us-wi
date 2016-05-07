@@ -1,0 +1,73 @@
+{
+  "id": 789624101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.649436,44.913447,-89.649436,44.913447",
+    "geom:latitude":44.913447,
+    "geom:longitude":-89.649436,
+    "iso:country":"US",
+    "sg:address":"4512 Rib Mountain Dr",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 359 7999",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "eating",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85854809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qOe7bzwqnFjESIx0oldDC_44.913447_-89.649436@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589251,
+    "wof:geomhash":"ec413330aa471efcb2bbd4f27baa5288",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85854809,
+            "region_id":85688517,
+            "venue_id":789624101
+        }
+    ],
+    "wof:id":789624101,
+    "wof:lastmodified":1462589251,
+    "wof:name":"Rosati's Pizza",
+    "wof:parent_id":85854809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.649436,
+    44.913447,
+    -89.649436,
+    44.913447
+],
+  "geometry": {"coordinates":[-89.64943599999999,44.913447],"type":"Point"}
+}

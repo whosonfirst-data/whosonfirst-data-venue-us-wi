@@ -1,0 +1,71 @@
+{
+  "id": 790423415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.391927,43.038382,-89.391927,43.038382",
+    "geom:latitude":43.038382,
+    "geom:longitude":-89.391927,
+    "iso:country":"US",
+    "sg:address":"711 W Badger Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 256 2514",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ja3UpyrA2F3uHRpDjsjA0_43.038382_-89.391927@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462595707,
+    "wof:geomhash":"9cb30beb6abf19ec2802322093437409",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":790423415
+        }
+    ],
+    "wof:id":790423415,
+    "wof:lastmodified":1462595707,
+    "wof:name":"Whale Of A Wash Inc",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -89.391927,
+    43.038382,
+    -89.391927,
+    43.038382
+],
+  "geometry": {"coordinates":[-89.391927,43.038382],"type":"Point"}
+}

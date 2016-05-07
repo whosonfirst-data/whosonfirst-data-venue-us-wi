@@ -1,0 +1,75 @@
+{
+  "id": 789705701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.999154,43.090014,-87.999154,43.090014",
+    "geom:latitude":43.090014,
+    "geom:longitude":-87.999154,
+    "iso:country":"US",
+    "sg:address":"6926 W Capitol Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 461 1717",
+    "sg:postcode":"53216",
+    "sg:province":"WI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870905,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Gf8RPoJkc2OLD2fv1CJ8O_43.090014_-87.999154@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589897,
+    "wof:geomhash":"135511219c63a7b56a2ed9da948bde60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870905,
+            "region_id":85688517,
+            "venue_id":789705701
+        }
+    ],
+    "wof:id":789705701,
+    "wof:lastmodified":1462589897,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85870905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -87.999154,
+    43.090014,
+    -87.999154,
+    43.090014
+],
+  "geometry": {"coordinates":[-87.999154,43.090014],"type":"Point"}
+}

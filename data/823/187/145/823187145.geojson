@@ -1,0 +1,76 @@
+{
+  "id": 823187145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.524692,43.069457,-89.524692,43.069457",
+    "geom:latitude":43.069457,
+    "geom:longitude":-89.524692,
+    "iso:country":"US",
+    "sg:address":"451 Junction Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 263 6226",
+    "sg:postcode":"53717",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iVFj02f1v6Haao9r3D5Ed_43.069457_-89.524692@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608157,
+    "wof:geomhash":"6883c732f69010768ceb361b271219ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":823187145
+        }
+    ],
+    "wof:id":823187145,
+    "wof:lastmodified":1462608157,
+    "wof:name":"Mohs Surgery Clinic",
+    "wof:parent_id":85878843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.524692,
+    43.069457,
+    -89.524692,
+    43.069457
+],
+  "geometry": {"coordinates":[-89.524692,43.069457],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773748573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.659396,44.988061,-89.659396,44.988061",
+    "geom:latitude":44.988061,
+    "geom:longitude":-89.659396,
+    "iso:country":"US",
+    "sg:address":"1605 Bovine Ln",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 675 9402",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O1oSFwWleOdIIhHXYcApz_44.988061_-89.659396@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588088,
+    "wof:geomhash":"6121b5851ee6cfe6c33301e6d8097779",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":773748573
+        }
+    ],
+    "wof:id":773748573,
+    "wof:lastmodified":1462588088,
+    "wof:name":"Wisconsin Valley Vet Svc",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -89.659396,
+    44.988061,
+    -89.659396,
+    44.988061
+],
+  "geometry": {"coordinates":[-89.659396,44.988061],"type":"Point"}
+}

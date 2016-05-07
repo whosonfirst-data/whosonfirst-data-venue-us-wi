@@ -1,0 +1,71 @@
+{
+  "id": 789608011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.497016,44.809918,-91.497016,44.809918",
+    "geom:latitude":44.809918,
+    "geom:longitude":-91.497016,
+    "iso:country":"US",
+    "sg:address":"304 Gray St",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 832 5566",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74CA3xv9ZzZ6seqZMbDsla_44.809918_-91.497016@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589125,
+    "wof:geomhash":"79c595ab43ad44cbcac5ec074f25a8e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":789608011
+        }
+    ],
+    "wof:id":789608011,
+    "wof:lastmodified":1462589125,
+    "wof:name":"Clement Marjorie A DDS",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -91.497016,
+    44.809918,
+    -91.497016,
+    44.809918
+],
+  "geometry": {"coordinates":[-91.497016,44.809918],"type":"Point"}
+}

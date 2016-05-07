@@ -1,0 +1,69 @@
+{
+  "id": 790029075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.267456,44.916542,-90.267456,44.916542",
+    "geom:latitude":44.916542,
+    "geom:longitude":-90.267456,
+    "iso:country":"US",
+    "sg:address":"3222 Huckleberry Rd",
+    "sg:city":"Colby",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 223 2203",
+    "sg:postcode":"54421",
+    "sg:province":"WI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85832133,
+        102081881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GJyz0IWovTdVFJ45SPcqr_44.916542_-90.267456@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592567,
+    "wof:geomhash":"c1abe5f8d687b897648ea3a9e39342a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "neighbourhood_id":85832133,
+            "region_id":85688517,
+            "venue_id":790029075
+        }
+    ],
+    "wof:id":790029075,
+    "wof:lastmodified":1462592567,
+    "wof:name":"Decker Automotive",
+    "wof:parent_id":85832133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -90.267456,
+    44.916542,
+    -90.267456,
+    44.916542
+],
+  "geometry": {"coordinates":[-90.267456,44.916542],"type":"Point"}
+}

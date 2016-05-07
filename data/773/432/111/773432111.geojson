@@ -1,0 +1,71 @@
+{
+  "id": 773432111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.502368,45.103414,-91.502368,45.103414",
+    "geom:latitude":45.103414,
+    "geom:longitude":-91.502368,
+    "iso:country":"US",
+    "sg:address":"2121 Duncan Rd",
+    "sg:city":"Bloomer",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 568 1888",
+    "sg:postcode":"54724",
+    "sg:province":"WI",
+    "sg:tags":[
+        "civic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732557,
+        102081787,
+        85837071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lyr6LfReawJOWyZUOwg0F_45.103414_-91.502368@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585684,
+    "wof:geomhash":"be94fcf8adec118927d3cebf0e828bf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081787,
+            "locality_id":101732557,
+            "neighbourhood_id":85837071,
+            "region_id":85688517,
+            "venue_id":773432111
+        }
+    ],
+    "wof:id":773432111,
+    "wof:lastmodified":1462585684,
+    "wof:name":"Bloomer Civic Center",
+    "wof:parent_id":85837071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "civic"
+    ]
+},
+  "bbox": [
+    -91.502368,
+    45.103414,
+    -91.502368,
+    45.103414
+],
+  "geometry": {"coordinates":[-91.502368,45.103414],"type":"Point"}
+}

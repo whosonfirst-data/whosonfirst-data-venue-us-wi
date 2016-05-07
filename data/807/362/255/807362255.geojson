@@ -1,0 +1,82 @@
+{
+  "id": 807362255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.997818,42.718006,-88.997818,42.718006",
+    "geom:latitude":42.718006,
+    "geom:longitude":-88.997818,
+    "iso:country":"US",
+    "sg:address":"3024 Milton Ave",
+    "sg:city":"Janesville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/janesville/88862-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 756 3559",
+    "sg:postcode":"53545",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803103,
+        102191575,
+        404492347,
+        85633793,
+        101732837,
+        102081829,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G8UVdzuH1ykPrexOOvw3R_42.718006_-88.997818@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606687,
+    "wof:geomhash":"947a8d73a64b5e1850aab5f93c77ff98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081829,
+            "localadmin_id":404492347,
+            "locality_id":101732837,
+            "neighbourhood_id":85803103,
+            "region_id":85688517,
+            "venue_id":807362255
+        }
+    ],
+    "wof:id":807362255,
+    "wof:lastmodified":1462606687,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85803103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -88.997818,
+    42.718006,
+    -88.997818,
+    42.718006
+],
+  "geometry": {"coordinates":[-88.997818,42.718006],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 807370807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.401275,44.287235,-88.401275,44.287235",
+    "geom:latitude":44.287235,
+    "geom:longitude":-88.401275,
+    "iso:country":"US",
+    "sg:address":"420 E Northland Ave",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/appleton/77445-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 739 7500",
+    "sg:postcode":"54911",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Psc9upK7MLUsONhxGBlH0_44.287235_-88.401275@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606799,
+    "wof:geomhash":"327ad48baf94517739134ee71dbc5735",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":807370807
+        }
+    ],
+    "wof:id":807370807,
+    "wof:lastmodified":1462606799,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.401275,
+    44.287235,
+    -88.401275,
+    44.287235
+],
+  "geometry": {"coordinates":[-88.401275,44.287235],"type":"Point"}
+}

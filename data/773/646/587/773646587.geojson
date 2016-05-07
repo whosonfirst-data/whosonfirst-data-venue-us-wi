@@ -1,0 +1,73 @@
+{
+  "id": 773646587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.518788,43.093956,-89.518788,43.093956",
+    "geom:latitude":43.093956,
+    "geom:longitude":-89.518788,
+    "iso:country":"US",
+    "sg:address":"3012 W Beltline Hwy",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 836 7773",
+    "sg:postcode":"53562",
+    "sg:province":"WI",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IgnRH2qFxfCNMAK3ODNUM_43.093956_-89.518788@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462587305,
+    "wof:geomhash":"c29a0e6fad8fc46c552242c42a94620d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":773646587
+        }
+    ],
+    "wof:id":773646587,
+    "wof:lastmodified":1462587305,
+    "wof:name":"Rent A Car Inc",
+    "wof:parent_id":85878843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -89.518788,
+    43.093956,
+    -89.518788,
+    43.093956
+],
+  "geometry": {"coordinates":[-89.518788,43.093956],"type":"Point"}
+}

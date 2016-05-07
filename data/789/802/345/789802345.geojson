@@ -1,0 +1,71 @@
+{
+  "id": 789802345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.042472,42.612845,-89.042472,42.612845",
+    "geom:latitude":42.612845,
+    "geom:longitude":-89.042472,
+    "iso:country":"US",
+    "sg:address":"4750 S Columbia Dr",
+    "sg:city":"Janesville",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 290 1568",
+    "sg:postcode":"53546",
+    "sg:province":"WI",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85825897,
+        102081829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51H0VUr4C6uGRCysWYxp4q_42.612845_-89.042472@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590657,
+    "wof:geomhash":"84cb8878fb8b89354e77fdcbe08c940a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "neighbourhood_id":85825897,
+            "region_id":85688517,
+            "venue_id":789802345
+        }
+    ],
+    "wof:id":789802345,
+    "wof:lastmodified":1462590657,
+    "wof:name":"Hummingbird Helicopters Inc",
+    "wof:parent_id":85825897,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -89.042472,
+    42.612845,
+    -89.042472,
+    42.612845
+],
+  "geometry": {"coordinates":[-89.042472,42.612845],"type":"Point"}
+}

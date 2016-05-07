@@ -1,0 +1,71 @@
+{
+  "id": 807101557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.504652,44.79311,-91.504652,44.79311",
+    "geom:latitude":44.79311,
+    "geom:longitude":-91.504652,
+    "iso:country":"US",
+    "sg:address":"617 W Clairemont Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 839 5175",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hJXWUf6bYCXBtSnGSOxiE_44.793110_-91.504652@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603749,
+    "wof:geomhash":"e5728a9a6a29e7cdaf5e0b9c0497aa12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807101557
+        }
+    ],
+    "wof:id":807101557,
+    "wof:lastmodified":1462603749,
+    "wof:name":"Family Medicine Clinic",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -91.504652,
+    44.79311,
+    -91.504652,
+    44.79311
+],
+  "geometry": {"coordinates":[-91.50465199999999,44.79311],"type":"Point"}
+}

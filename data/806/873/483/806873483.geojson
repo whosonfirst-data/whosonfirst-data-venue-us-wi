@@ -1,0 +1,73 @@
+{
+  "id": 806873483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.533265,42.860183,-89.533265,42.860183",
+    "geom:latitude":42.860183,
+    "geom:longitude":-89.533265,
+    "iso:country":"US",
+    "sg:address":"20 River St",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 424 3666",
+    "sg:postcode":"53508",
+    "sg:province":"WI",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85804673,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dnv9aXemwrVPURXrtz7bO_42.860183_-89.533265@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601798,
+    "wof:geomhash":"80e807d0830c89de0ed18c00d8a27428",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85804673,
+            "region_id":85688517,
+            "venue_id":806873483
+        }
+    ],
+    "wof:id":806873483,
+    "wof:lastmodified":1462601798,
+    "wof:name":"Belleville Public Works",
+    "wof:parent_id":85804673,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -89.533265,
+    42.860183,
+    -89.533265,
+    42.860183
+],
+  "geometry": {"coordinates":[-89.533265,42.860183],"type":"Point"}
+}

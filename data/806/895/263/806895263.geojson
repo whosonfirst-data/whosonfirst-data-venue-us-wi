@@ -1,0 +1,73 @@
+{
+  "id": 806895263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.62599,44.95506,-89.62599,44.95506",
+    "geom:latitude":44.95506,
+    "geom:longitude":-89.62599,
+    "iso:country":"US",
+    "sg:address":"406 Plumer St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 845 2427",
+    "sg:postcode":"54403",
+    "sg:province":"WI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qpcg2iTXGfp0iOt6KnhZG_44.955060_-89.625990@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601976,
+    "wof:geomhash":"d0060759f1dc957369ae726479c94819",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":806895263
+        }
+    ],
+    "wof:id":806895263,
+    "wof:lastmodified":1462601976,
+    "wof:name":"Bob's Electric Of Edgar",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.62599,
+    44.95506,
+    -89.62599,
+    44.95506
+],
+  "geometry": {"coordinates":[-89.62599,44.95506],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 790196975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.223038,42.9703,-89.223038,42.9703",
+    "geom:latitude":42.9703,
+    "geom:longitude":-89.223038,
+    "iso:country":"US",
+    "sg:address":"2312 Williams Dr",
+    "sg:city":"Stoughton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 877 9003",
+    "sg:postcode":"53589",
+    "sg:province":"WI",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85827925,
+        102081795,
+        85868281,
+        102191575,
+        404493355,
+        101732777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qhUWmJCqBC7ZhTVqH8yac_42.970300_-89.223038@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462593926,
+    "wof:geomhash":"53fc6cb5d94c8f2a9087d059b2b3f46b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85827925,
+            "region_id":85688517,
+            "venue_id":790196975
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404493355,
+            "locality_id":101732777,
+            "neighbourhood_id":85868281,
+            "region_id":85688517,
+            "venue_id":790196975
+        }
+    ],
+    "wof:id":790196975,
+    "wof:lastmodified":1462593926,
+    "wof:name":"Catfish Creek Taxidermy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -89.223038,
+    42.9703,
+    -89.223038,
+    42.9703
+],
+  "geometry": {"coordinates":[-89.223038,42.9703],"type":"Point"}
+}

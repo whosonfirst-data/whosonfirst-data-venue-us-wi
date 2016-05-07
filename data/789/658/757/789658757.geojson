@@ -1,0 +1,73 @@
+{
+  "id": 789658757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.302777,43.035374,-89.302777,43.035374",
+    "geom:latitude":43.035374,
+    "geom:longitude":-89.302777,
+    "iso:country":"US",
+    "sg:address":"4215 Terminal Dr",
+    "sg:city":"Mc Farland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 221 0101",
+    "sg:postcode":"53558",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oQL6y18R57g4AVoiUMiYr_43.035374_-89.302777@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589520,
+    "wof:geomhash":"5577388f57eca44a1dd63bb440742eeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":789658757
+        }
+    ],
+    "wof:id":789658757,
+    "wof:lastmodified":1462589520,
+    "wof:name":"J J Transport Inc",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.302777,
+    43.035374,
+    -89.302777,
+    43.035374
+],
+  "geometry": {"coordinates":[-89.30277700000001,43.035374],"type":"Point"}
+}

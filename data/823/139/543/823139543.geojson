@@ -1,0 +1,76 @@
+{
+  "id": 823139543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.916284,43.034662,-87.916284,43.034662",
+    "geom:latitude":43.034662,
+    "geom:longitude":-87.916284,
+    "iso:country":"US",
+    "sg:address":"433 W Saint Paul Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 224 0050",
+    "sg:postcode":"53203",
+    "sg:province":"WI",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"http://www.hertz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870965,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n3WYlUx3IJGaCX3FaFFrs_43.034662_-87.916284@1303262807"
+    },
+    "wof:country":"US",
+    "wof:created":1462607497,
+    "wof:geomhash":"dce053cecd74cebc66e63106dbed08c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870965,
+            "region_id":85688517,
+            "venue_id":823139543
+        }
+    ],
+    "wof:id":823139543,
+    "wof:lastmodified":1462607497,
+    "wof:name":"Hertz",
+    "wof:parent_id":85870965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -87.916284,
+    43.034662,
+    -87.916284,
+    43.034662
+],
+  "geometry": {"coordinates":[-87.916284,43.034662],"type":"Point"}
+}

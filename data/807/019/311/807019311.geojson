@@ -1,0 +1,102 @@
+{
+  "id": 807019311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.008559,42.949279,-88.008559,42.949279",
+    "geom:latitude":42.949279,
+    "geom:longitude":-88.008559,
+    "iso:country":"US",
+    "sg:address":"5453 S 76th St",
+    "sg:city":"Greendale",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 421 8888",
+    "sg:postcode":"53129",
+    "sg:province":"WI",
+    "sg:tags":[
+        "pet",
+        "shop",
+        "product",
+        "veterinary",
+        "mfg"
+    ],
+    "sg:website":"www.animaladventurepets.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870865,
+        102191575,
+        404492089,
+        85633793,
+        101733071,
+        102081837,
+        85688517,
+        420558473,
+        404494171,
+        101733073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qiEgmxcN37M4VjXJKA4oC_42.949279_-88.008559@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603032,
+    "wof:geomhash":"c7a468f658ab07fd6fdd259e619368b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492089,
+            "locality_id":101733071,
+            "neighbourhood_id":85870865,
+            "region_id":85688517,
+            "venue_id":807019311
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494171,
+            "locality_id":101733073,
+            "neighbourhood_id":420558473,
+            "region_id":85688517,
+            "venue_id":807019311
+        }
+    ],
+    "wof:id":807019311,
+    "wof:lastmodified":1462603032,
+    "wof:name":"Animal Adventure Pets",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop",
+        "product",
+        "veterinary",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -88.008559,
+    42.949279,
+    -88.008559,
+    42.949279
+],
+  "geometry": {"coordinates":[-88.00855900000001,42.949279],"type":"Point"}
+}

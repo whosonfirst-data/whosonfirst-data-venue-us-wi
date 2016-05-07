@@ -1,0 +1,71 @@
+{
+  "id": 790078665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.581229,44.011916,-88.581229,44.011916",
+    "geom:latitude":44.011916,
+    "geom:longitude":-88.581229,
+    "iso:country":"US",
+    "sg:address":"300 S Koeller St",
+    "sg:city":"Oshkosh",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 424 1721",
+    "sg:postcode":"54902",
+    "sg:province":"WI",
+    "sg:tags":[
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733459,
+        102081801,
+        85819403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67nLuDOCBIZjP7NnGvmzFe_44.011916_-88.581229@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592962,
+    "wof:geomhash":"d7a432d4f0c23037ecc212cca49e86d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101733459,
+            "neighbourhood_id":85819403,
+            "region_id":85688517,
+            "venue_id":790078665
+        }
+    ],
+    "wof:id":790078665,
+    "wof:lastmodified":1462592962,
+    "wof:name":"Corrections Wisconsin Dept",
+    "wof:parent_id":85819403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "court"
+    ]
+},
+  "bbox": [
+    -88.581229,
+    44.011916,
+    -88.581229,
+    44.011916
+],
+  "geometry": {"coordinates":[-88.58122899999999,44.011916],"type":"Point"}
+}

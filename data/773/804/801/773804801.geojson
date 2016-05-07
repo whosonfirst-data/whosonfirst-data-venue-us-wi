@@ -1,0 +1,71 @@
+{
+  "id": 773804801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.060508,44.45201,-88.060508,44.45201",
+    "geom:latitude":44.45201,
+    "geom:longitude":-88.060508,
+    "iso:country":"US",
+    "sg:address":"333 N Broadway",
+    "sg:city":"De Pere",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 448 4407",
+    "sg:postcode":"54115",
+    "sg:province":"WI",
+    "sg:website":"www.browncountylibrary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855345,
+        102191575,
+        404492849,
+        85633793,
+        101732363,
+        102081867,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y5yLeRZW7zn7kCLhSrBmp_44.452010_-88.060508@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588512,
+    "wof:geomhash":"e4ed58a41b4397b4fe7c9901b9c6f341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081867,
+            "localadmin_id":404492849,
+            "locality_id":101732363,
+            "neighbourhood_id":85855345,
+            "region_id":85688517,
+            "venue_id":773804801
+        }
+    ],
+    "wof:id":773804801,
+    "wof:lastmodified":1462588512,
+    "wof:name":"Brown County Library",
+    "wof:parent_id":85855345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.060508,
+    44.45201,
+    -88.060508,
+    44.45201
+],
+  "geometry": {"coordinates":[-88.060508,44.45201],"type":"Point"}
+}

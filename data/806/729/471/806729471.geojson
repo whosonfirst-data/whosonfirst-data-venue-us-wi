@@ -1,0 +1,71 @@
+{
+  "id": 806729471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.64161,44.948297,-89.64161,44.948297",
+    "geom:latitude":44.948297,
+    "geom:longitude":-89.64161,
+    "iso:country":"US",
+    "sg:address":"423 W Thomas St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 842 9847",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aTZzizj7YpLJwzBkSdMpQ_44.948297_-89.641610@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462600577,
+    "wof:geomhash":"a71dbf086d3f91d2fdb6367f9a26e472",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":806729471
+        }
+    ],
+    "wof:id":806729471,
+    "wof:lastmodified":1462600577,
+    "wof:name":"Berna's Used Book Store",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.64161,
+    44.948297,
+    -89.64161,
+    44.948297
+],
+  "geometry": {"coordinates":[-89.64161,44.948297],"type":"Point"}
+}

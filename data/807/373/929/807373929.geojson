@@ -1,0 +1,81 @@
+{
+  "id": 807373929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.019507,43.081942,-88.019507,43.081942",
+    "geom:latitude":43.081942,
+    "geom:longitude":-88.019507,
+    "iso:country":"US",
+    "sg:address":"8518 W Lisbon Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/milwaukee/141505-lisbon-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 463 2714",
+    "sg:postcode":"53222",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870995,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ropVzY6n0pEfC3USdttiM_43.082099_-88.019991@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606841,
+    "wof:geomhash":"1fa4038463ac7b056d9780128e762ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870995,
+            "region_id":85688517,
+            "venue_id":807373929
+        }
+    ],
+    "wof:id":807373929,
+    "wof:lastmodified":1462606841,
+    "wof:name":"Lisbon Cafe",
+    "wof:parent_id":85870995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -88.019507,
+    43.081942,
+    -88.019507,
+    43.081942
+],
+  "geometry": {"coordinates":[-88.019507,43.081942],"type":"Point"}
+}

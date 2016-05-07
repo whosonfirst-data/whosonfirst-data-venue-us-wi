@@ -1,0 +1,71 @@
+{
+  "id": 806682849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.543514,44.302135,-88.543514,44.302135",
+    "geom:latitude":44.302135,
+    "geom:longitude":-88.543514,
+    "iso:country":"US",
+    "sg:address":"7128 Spring Rd",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 757 0537",
+    "sg:postcode":"54942",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44ZdlZUOnUd20meRSTCAj2_44.302135_-88.543514@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462600194,
+    "wof:geomhash":"a4a8af7608974148aed56745a03b040c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":806682849
+        }
+    ],
+    "wof:id":806682849,
+    "wof:lastmodified":1462600194,
+    "wof:name":"Chris M Weinlander",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.543514,
+    44.302135,
+    -88.543514,
+    44.302135
+],
+  "geometry": {"coordinates":[-88.543514,44.302135],"type":"Point"}
+}

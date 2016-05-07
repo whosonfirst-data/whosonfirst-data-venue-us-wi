@@ -1,0 +1,80 @@
+{
+  "id": 807375199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.514173,43.060501,-89.514173,43.060501",
+    "geom:latitude":43.060501,
+    "geom:longitude":-89.514173,
+    "iso:country":"US",
+    "sg:address":"7601 Mineral Point Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/68343-uno-chicago-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 833 7200",
+    "sg:postcode":"53717",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834009,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xTwl0h7btkKzOdkbZfzE6_43.060502_-89.514434@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606862,
+    "wof:geomhash":"4d9bb12c88b07f02c84d0c1c69774169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85834009,
+            "region_id":85688517,
+            "venue_id":807375199
+        }
+    ],
+    "wof:id":807375199,
+    "wof:lastmodified":1462606862,
+    "wof:name":"Uno Chicago Grill",
+    "wof:parent_id":85834009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.514173,
+    43.060501,
+    -89.514173,
+    43.060501
+],
+  "geometry": {"coordinates":[-89.514173,43.060501],"type":"Point"}
+}

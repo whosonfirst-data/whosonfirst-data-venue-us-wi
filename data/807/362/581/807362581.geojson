@@ -1,0 +1,74 @@
+{
+  "id": 807362581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.524616,43.090452,-89.524616,43.090452",
+    "geom:latitude":43.090452,
+    "geom:longitude":-89.524616,
+    "iso:country":"US",
+    "sg:address":"8302 Market St",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/middleton/7995-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 833 7070",
+    "sg:postcode":"53562",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MFlgu92b9dYxiOtVGLovW_43.090452_-89.524616@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606691,
+    "wof:geomhash":"fe9468cab55b5020d8b904b88ec0eaf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":807362581
+        }
+    ],
+    "wof:id":807362581,
+    "wof:lastmodified":1462606691,
+    "wof:name":"Denny's",
+    "wof:parent_id":85878843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -89.524616,
+    43.090452,
+    -89.524616,
+    43.090452
+],
+  "geometry": {"coordinates":[-89.52461599999999,43.090452],"type":"Point"}
+}

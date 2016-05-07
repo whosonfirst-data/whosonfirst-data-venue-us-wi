@@ -1,0 +1,89 @@
+{
+  "id": 823154395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.983583,43.039763,-87.983583,43.039763",
+    "geom:latitude":43.039763,
+    "geom:longitude":-87.983583,
+    "iso:country":"US",
+    "sg:address":"811 N Hawley Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 578 2961",
+    "sg:postcode":"53213",
+    "sg:province":"WI",
+    "sg:tags":[
+        "home",
+        "medical",
+        "eldercare-home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870915,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54wPrbJXA9HX51jkRuYzFs_43.039763_-87.983583@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607723,
+    "wof:geomhash":"8a67d1420dc167debca1a1a2c681d495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870915,
+            "region_id":85688517,
+            "venue_id":823154395
+        }
+    ],
+    "wof:id":823154395,
+    "wof:lastmodified":1462607723,
+    "wof:name":"Midamerica Health Care Corp Of Wisconsin",
+    "wof:parent_id":85870915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "medical",
+        "eldercare-home"
+    ]
+},
+  "bbox": [
+    -87.983583,
+    43.039763,
+    -87.983583,
+    43.039763
+],
+  "geometry": {"coordinates":[-87.983583,43.039763],"type":"Point"}
+}

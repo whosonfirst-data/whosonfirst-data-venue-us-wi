@@ -1,0 +1,81 @@
+{
+  "id": 807374555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.38348,43.07679,-89.38348,43.07679",
+    "geom:latitude":43.07679,
+    "geom:longitude":-89.38348,
+    "iso:country":"US",
+    "sg:address":"127 E Mifflin St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/261131-cafe-montmartre/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 255 5900",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878845,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FVl5XXvxecae6iTsEVkgS_43.076770_-89.383333@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606849,
+    "wof:geomhash":"e2d1e344d667bbb596a87d06a26eccea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878845,
+            "region_id":85688517,
+            "venue_id":807374555
+        }
+    ],
+    "wof:id":807374555,
+    "wof:lastmodified":1462606849,
+    "wof:name":"Cafe Montmartre",
+    "wof:parent_id":85878845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -89.38348,
+    43.07679,
+    -89.38348,
+    43.07679
+],
+  "geometry": {"coordinates":[-89.38348000000001,43.07679],"type":"Point"}
+}

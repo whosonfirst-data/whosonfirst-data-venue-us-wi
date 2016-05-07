@@ -1,0 +1,72 @@
+{
+  "id": 807364761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.324591,43.047669,-89.324591,43.047669",
+    "geom:latitude":43.047669,
+    "geom:longitude":-89.324591,
+    "iso:country":"US",
+    "sg:address":"100 E Broadway",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/monona/204843-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 222 8007",
+    "sg:postcode":"53716",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Uvc12M2QKYW1JmTQu0kWL_43.047669_-89.324591@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606717,
+    "wof:geomhash":"4c1b565d18542962b4857ac84607a277",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":807364761
+        }
+    ],
+    "wof:id":807364761,
+    "wof:lastmodified":1462606717,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -89.324591,
+    43.047669,
+    -89.324591,
+    43.047669
+],
+  "geometry": {"coordinates":[-89.324591,43.047669],"type":"Point"}
+}

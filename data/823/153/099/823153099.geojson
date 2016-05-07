@@ -1,0 +1,90 @@
+{
+  "id": 823153099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.900361,43.060164,-87.900361,43.060164",
+    "geom:latitude":43.060164,
+    "geom:longitude":-87.900361,
+    "iso:country":"US",
+    "sg:address":"909 E North Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"Youth",
+            "type":"Public Place"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 263 8383",
+    "sg:postcode":"53212",
+    "sg:province":"WI",
+    "sg:tags":[
+        "nursery",
+        "day",
+        "camps-recreational"
+    ],
+    "sg:website":"http://www.coa-yfc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867295,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xlHALoigZEjRLn15BIn5y_43.060164_-87.900361@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607708,
+    "wof:geomhash":"4d4f703a62512eb4d9077d3a22586ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85867295,
+            "region_id":85688517,
+            "venue_id":823153099
+        }
+    ],
+    "wof:id":823153099,
+    "wof:lastmodified":1462607708,
+    "wof:name":"COA Youth & Family Centers",
+    "wof:parent_id":85867295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "day",
+        "camps-recreational"
+    ]
+},
+  "bbox": [
+    -87.900361,
+    43.060164,
+    -87.900361,
+    43.060164
+],
+  "geometry": {"coordinates":[-87.900361,43.060164],"type":"Point"}
+}

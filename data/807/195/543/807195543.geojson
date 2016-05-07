@@ -1,0 +1,71 @@
+{
+  "id": 807195543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.655215,44.94596,-89.655215,44.94596",
+    "geom:latitude":44.94596,
+    "geom:longitude":-89.655215,
+    "iso:country":"US",
+    "sg:address":"1437 Madison St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 842 5220",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sQhTwEsNknSu31j8IJ0cy_44.945960_-89.655215@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604747,
+    "wof:geomhash":"ca452714258922f60f1f2ecbdeb6f04e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":807195543
+        }
+    ],
+    "wof:id":807195543,
+    "wof:lastmodified":1462604747,
+    "wof:name":"Heisler Painting Co",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -89.655215,
+    44.94596,
+    -89.655215,
+    44.94596
+],
+  "geometry": {"coordinates":[-89.655215,44.94596],"type":"Point"}
+}

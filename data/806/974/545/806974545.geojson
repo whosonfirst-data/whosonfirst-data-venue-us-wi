@@ -1,0 +1,80 @@
+{
+  "id": 806974545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.274827,43.05201,-89.274827,43.05201",
+    "geom:latitude":43.05201,
+    "geom:longitude":-89.274827,
+    "iso:country":"US",
+    "sg:address":"6001 Femrite Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 223 0224",
+    "sg:postcode":"53718",
+    "sg:province":"WI",
+    "sg:tags":[
+        "automotive",
+        "sandblasting",
+        "paint",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ASlsK9M0DBSEembiPqQfB_43.052010_-89.274827@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602645,
+    "wof:geomhash":"375bfe3023e5b9a4fcf11a13c8cc248f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":806974545
+        }
+    ],
+    "wof:id":806974545,
+    "wof:lastmodified":1462602645,
+    "wof:name":"Stripmasters of Madison",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "sandblasting",
+        "paint",
+        "removal"
+    ]
+},
+  "bbox": [
+    -89.274827,
+    43.05201,
+    -89.274827,
+    43.05201
+],
+  "geometry": {"coordinates":[-89.274827,43.05201],"type":"Point"}
+}

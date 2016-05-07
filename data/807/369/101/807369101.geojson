@@ -1,0 +1,72 @@
+{
+  "id": 807369101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.466603,44.798762,-91.466603,44.798762",
+    "geom:latitude":44.798762,
+    "geom:longitude":-91.466603,
+    "iso:country":"US",
+    "sg:address":"2016 S Hastings Way",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/117986-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 834 2513",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hBsQdoRKuYP21ivkenyQN_44.798762_-91.466603@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606778,
+    "wof:geomhash":"24e83d282369cf2d901a425b60355167",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807369101
+        }
+    ],
+    "wof:id":807369101,
+    "wof:lastmodified":1462606778,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -91.466603,
+    44.798762,
+    -91.466603,
+    44.798762
+],
+  "geometry": {"coordinates":[-91.46660300000001,44.798762],"type":"Point"}
+}

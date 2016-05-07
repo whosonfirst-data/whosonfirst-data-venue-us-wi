@@ -1,0 +1,74 @@
+{
+  "id": 807362573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.524846,43.098494,-89.524846,43.098494",
+    "geom:latitude":43.098494,
+    "geom:longitude":-89.524846,
+    "iso:country":"US",
+    "sg:address":"8321 Murphy Dr",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/middleton/159066-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 836 1199",
+    "sg:postcode":"53562",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732813,
+        102081795,
+        85841479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZTNODDt70hgUgQRGcNRZd_43.098494_-89.524846@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606691,
+    "wof:geomhash":"709a211ac84eb1ad49c64bd0fc7dd88e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732813,
+            "neighbourhood_id":85841479,
+            "region_id":85688517,
+            "venue_id":807362573
+        }
+    ],
+    "wof:id":807362573,
+    "wof:lastmodified":1462606691,
+    "wof:name":"Arby's",
+    "wof:parent_id":85841479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -89.524846,
+    43.098494,
+    -89.524846,
+    43.098494
+],
+  "geometry": {"coordinates":[-89.524846,43.098494],"type":"Point"}
+}

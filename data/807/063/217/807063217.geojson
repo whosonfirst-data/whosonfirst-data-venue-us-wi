@@ -1,0 +1,81 @@
+{
+  "id": 807063217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.543535,44.082932,-88.543535,44.082932",
+    "geom:latitude":44.082932,
+    "geom:longitude":-88.543535,
+    "iso:country":"US",
+    "sg:address":"90 W Co Rd Y",
+    "sg:city":"Oshkosh",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 232 1900",
+    "sg:postcode":"54901",
+    "sg:province":"WI",
+    "sg:tags":[
+        "county",
+        "govt",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85818737,
+        102081801,
+        85827909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xyMNsmRtAhOmaHaOO0c3Y_44.082932_-88.543535@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603395,
+    "wof:geomhash":"63ca6bc6e173d68e6cd39e89d82a2a7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "neighbourhood_id":85818737,
+            "region_id":85688517,
+            "venue_id":807063217
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "neighbourhood_id":85827909,
+            "region_id":85688517,
+            "venue_id":807063217
+        }
+    ],
+    "wof:id":807063217,
+    "wof:lastmodified":1462603395,
+    "wof:name":"Winnebago County Work Release",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "institution"
+    ]
+},
+  "bbox": [
+    -88.543535,
+    44.082932,
+    -88.543535,
+    44.082932
+],
+  "geometry": {"coordinates":[-88.54353500000001,44.082932],"type":"Point"}
+}

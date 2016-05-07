@@ -1,0 +1,80 @@
+{
+  "id": 807374981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.451264,43.074121,-89.451264,43.074121",
+    "geom:latitude":43.074121,
+    "geom:longitude":-89.451264,
+    "iso:country":"US",
+    "sg:address":"702 N Midvale Blvd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/139262-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 236 0930",
+    "sg:postcode":"53705",
+    "sg:province":"WI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868277,
+        102191575,
+        404491679,
+        85633793,
+        101732725,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q6TgC58wEEwQ86x1sEXdD_43.074606_-89.451208@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606854,
+    "wof:geomhash":"80b2949dbc82de4b0d222ca45ff1eba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491679,
+            "locality_id":101732725,
+            "neighbourhood_id":85868277,
+            "region_id":85688517,
+            "venue_id":807374981
+        }
+    ],
+    "wof:id":807374981,
+    "wof:lastmodified":1462606854,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85868277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.451264,
+    43.074121,
+    -89.451264,
+    43.074121
+],
+  "geometry": {"coordinates":[-89.45126399999999,43.074121],"type":"Point"}
+}

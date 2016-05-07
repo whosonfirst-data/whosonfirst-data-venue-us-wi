@@ -1,0 +1,80 @@
+{
+  "id": 773316623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.940528,43.0362,-87.940528,43.0362",
+    "geom:latitude":43.0362,
+    "geom:longitude":-87.940528,
+    "iso:country":"US",
+    "sg:address":"2030 W Clybourn St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 933 8555",
+    "sg:postcode":"53233",
+    "sg:province":"WI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870977,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TgDBO1ZGe2cQUK3zRO0YB_43.036200_-87.940528@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584821,
+    "wof:geomhash":"8bf330d9b6b542b95006d1db328c8e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870977,
+            "region_id":85688517,
+            "venue_id":773316623
+        }
+    ],
+    "wof:id":773316623,
+    "wof:lastmodified":1462584821,
+    "wof:name":"Sav-On Foods",
+    "wof:parent_id":85870977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -87.940528,
+    43.0362,
+    -87.940528,
+    43.0362
+],
+  "geometry": {"coordinates":[-87.940528,43.0362],"type":"Point"}
+}

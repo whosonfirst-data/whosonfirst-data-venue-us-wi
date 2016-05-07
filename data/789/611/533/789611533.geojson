@@ -1,0 +1,76 @@
+{
+  "id": 789611533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.175576,43.412295,-88.175576,43.412295",
+    "geom:latitude":43.412295,
+    "geom:longitude":-88.175576,
+    "iso:country":"US",
+    "sg:address":"108 W Decorah Rd",
+    "sg:city":"West Bend",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 375 8911",
+    "sg:postcode":"53095",
+    "sg:province":"WI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "sg:website":"www.lifestar-ems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859413,
+        102191575,
+        404495617,
+        85633793,
+        101732991,
+        102081745,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TtT97KQrtQqJrSeyDvjZz_43.412295_-88.175576@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589148,
+    "wof:geomhash":"48a3d970d08198b0994dc298656f6cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081745,
+            "localadmin_id":404495617,
+            "locality_id":101732991,
+            "neighbourhood_id":85859413,
+            "region_id":85688517,
+            "venue_id":789611533
+        }
+    ],
+    "wof:id":789611533,
+    "wof:lastmodified":1462589148,
+    "wof:name":"Lifestar Ambulance Svc",
+    "wof:parent_id":85859413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -88.175576,
+    43.412295,
+    -88.175576,
+    43.412295
+],
+  "geometry": {"coordinates":[-88.17557600000001,43.412295],"type":"Point"}
+}

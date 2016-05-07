@@ -1,0 +1,86 @@
+{
+  "id": 823149415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.887441,43.094727,-87.887441,43.094727",
+    "geom:latitude":43.094727,
+    "geom:longitude":-87.887441,
+    "iso:country":"US",
+    "sg:address":"4314 N Oakland Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 481 0868",
+    "sg:postcode":"53211",
+    "sg:province":"WI",
+    "sg:tags":[
+        "eyeglass"
+    ],
+    "sg:website":"http://www.eyezunique.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870879,
+        102191575,
+        404494183,
+        85633793,
+        101733085,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40GIwpo6xHMKuuR8PdyRnH_43.094727_-87.887441@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607661,
+    "wof:geomhash":"3f6179f6e8b71cd7b6d5c4d58fa2311a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494183,
+            "locality_id":101733085,
+            "neighbourhood_id":85870879,
+            "region_id":85688517,
+            "venue_id":823149415
+        }
+    ],
+    "wof:id":823149415,
+    "wof:lastmodified":1462607661,
+    "wof:name":"Eyez Boutique",
+    "wof:parent_id":85870879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eyeglass"
+    ]
+},
+  "bbox": [
+    -87.887441,
+    43.094727,
+    -87.887441,
+    43.094727
+],
+  "geometry": {"coordinates":[-87.887441,43.094727],"type":"Point"}
+}

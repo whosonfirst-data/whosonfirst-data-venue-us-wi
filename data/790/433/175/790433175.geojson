@@ -1,0 +1,69 @@
+{
+  "id": 790433175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.749719,43.760843,-87.749719,43.760843",
+    "geom:latitude":43.760843,
+    "geom:longitude":-87.749719,
+    "iso:country":"US",
+    "sg:address":"1414 N Taylor Dr",
+    "sg:city":"Sheboygan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 453 5972",
+    "sg:postcode":"53081",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85818209,
+        102081869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z8Nuww45QvoDy3TdA0P0L_43.760843_-87.749719@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462595793,
+    "wof:geomhash":"cb46fa86c1e79ce06c3b33698c545bd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "neighbourhood_id":85818209,
+            "region_id":85688517,
+            "venue_id":790433175
+        }
+    ],
+    "wof:id":790433175,
+    "wof:lastmodified":1462595793,
+    "wof:name":"North Star Dental Group",
+    "wof:parent_id":85818209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -87.749719,
+    43.760843,
+    -87.749719,
+    43.760843
+],
+  "geometry": {"coordinates":[-87.749719,43.760843],"type":"Point"}
+}

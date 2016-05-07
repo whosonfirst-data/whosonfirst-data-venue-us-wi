@@ -1,0 +1,71 @@
+{
+  "id": 789791675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.741164,43.730761,-87.741164,43.730761",
+    "geom:latitude":43.730761,
+    "geom:longitude":-87.741164,
+    "iso:country":"US",
+    "sg:address":"2143 Bollmann Dr",
+    "sg:city":"Sheboygan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 458 1722",
+    "sg:postcode":"53081",
+    "sg:province":"WI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85818209,
+        102081869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PfKd8dd4jCncmeXyYw6gj_43.730761_-87.741164@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590578,
+    "wof:geomhash":"5dc8648769e8d215161990b9a514140e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "neighbourhood_id":85818209,
+            "region_id":85688517,
+            "venue_id":789791675
+        }
+    ],
+    "wof:id":789791675,
+    "wof:lastmodified":1462590578,
+    "wof:name":"Foxcroft Apartments",
+    "wof:parent_id":85818209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -87.741164,
+    43.730761,
+    -87.741164,
+    43.730761
+],
+  "geometry": {"coordinates":[-87.741164,43.730761],"type":"Point"}
+}

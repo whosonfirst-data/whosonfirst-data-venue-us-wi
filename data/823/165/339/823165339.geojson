@@ -1,0 +1,90 @@
+{
+  "id": 823165339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.986633,42.97769,-87.986633,42.97769",
+    "geom:latitude":42.97769,
+    "geom:longitude":-87.986633,
+    "iso:country":"US",
+    "sg:address":"9740 S 58th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 421 9234",
+    "sg:postcode":"53220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "frozen",
+        "products-wholesale",
+        "dessert"
+    ],
+    "sg:website":"http://www.schwans.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550055,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BGIFavlh1VLmFZzKt96WE_42.977690_-87.986633@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607873,
+    "wof:geomhash":"f6842789a8439a46d4bea355c1e3c582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":420550055,
+            "region_id":85688517,
+            "venue_id":823165339
+        }
+    ],
+    "wof:id":823165339,
+    "wof:lastmodified":1462607873,
+    "wof:name":"Schwan's",
+    "wof:parent_id":420550055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "products-wholesale",
+        "dessert"
+    ]
+},
+  "bbox": [
+    -87.986633,
+    42.97769,
+    -87.986633,
+    42.97769
+],
+  "geometry": {"coordinates":[-87.986633,42.97769],"type":"Point"}
+}

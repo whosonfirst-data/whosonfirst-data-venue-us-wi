@@ -1,0 +1,88 @@
+{
+  "id": 823181905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.05148,42.503472,-89.05148,42.503472",
+    "geom:latitude":42.503472,
+    "geom:longitude":-89.05148,
+    "iso:country":"US",
+    "sg:address":"1104 Saint Lawrence Ave",
+    "sg:city":"Beloit",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 365 4694",
+    "sg:postcode":"53511",
+    "sg:province":"WI",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "accessory",
+        "part",
+        "brake",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732817,
+        102081829,
+        85810961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q4kBG9wOf5jeNJlWWGjHn_42.503472_-89.051480@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608086,
+    "wof:geomhash":"653a90713b931efbeb4678a57dfd6a21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "locality_id":101732817,
+            "neighbourhood_id":85810961,
+            "region_id":85688517,
+            "venue_id":823181905
+        }
+    ],
+    "wof:id":823181905,
+    "wof:lastmodified":1462608086,
+    "wof:name":"Steves Muffler Shop",
+    "wof:parent_id":85810961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "accessory",
+        "part",
+        "brake",
+        "painting"
+    ]
+},
+  "bbox": [
+    -89.05148,
+    42.503472,
+    -89.05148,
+    42.503472
+],
+  "geometry": {"coordinates":[-89.05148,42.503472],"type":"Point"}
+}

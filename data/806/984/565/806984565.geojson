@@ -1,0 +1,73 @@
+{
+  "id": 806984565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.581503,44.139759,-87.581503,44.139759",
+    "geom:latitude":44.139759,
+    "geom:longitude":-87.581503,
+    "iso:country":"US",
+    "sg:address":"2339 Roosevelt Ave",
+    "sg:city":"Two Rivers",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 793 1187",
+    "sg:postcode":"54241",
+    "sg:province":"WI",
+    "sg:tags":[
+        "hospital",
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26ddsRiJgdjds2D3YOZiiY_44.139759_-87.581503@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602733,
+    "wof:geomhash":"87f8d115811c5c9a3c890dbad5e6753f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":806984565
+        }
+    ],
+    "wof:id":806984565,
+    "wof:lastmodified":1462602733,
+    "wof:name":"Two Rivers Veterinary Hospital",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -87.581503,
+    44.139759,
+    -87.581503,
+    44.139759
+],
+  "geometry": {"coordinates":[-87.581503,44.139759],"type":"Point"}
+}

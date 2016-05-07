@@ -1,0 +1,71 @@
+{
+  "id": 789915101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.834792,44.210903,-87.834792,44.210903",
+    "geom:latitude":44.210903,
+    "geom:longitude":-87.834792,
+    "iso:country":"US",
+    "sg:address":"12023 Polifka Rd",
+    "sg:city":"Whitelaw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 732 4526",
+    "sg:postcode":"54247",
+    "sg:province":"WI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85827947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m4HHcqofsFL6qAIMhGNwd_44.210903_-87.834792@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591582,
+    "wof:geomhash":"796b71b65eb5132414e0227c0d224f58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85827947,
+            "region_id":85688517,
+            "venue_id":789915101
+        }
+    ],
+    "wof:id":789915101,
+    "wof:lastmodified":1462591582,
+    "wof:name":"G B Cleaner Corp",
+    "wof:parent_id":85827947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -87.834792,
+    44.210903,
+    -87.834792,
+    44.210903
+],
+  "geometry": {"coordinates":[-87.83479199999999,44.210903],"type":"Point"}
+}

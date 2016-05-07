@@ -1,0 +1,71 @@
+{
+  "id": 790431659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.58634,44.445651,-88.58634,44.445651",
+    "geom:latitude":44.445651,
+    "geom:longitude":-88.58634,
+    "iso:country":"US",
+    "sg:address":"5605 State Hwy 76",
+    "sg:city":"Shiocton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 986 3294",
+    "sg:postcode":"54170",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jtkgGBgZsokQmzGHgVHr5_44.445651_-88.586340@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462595783,
+    "wof:geomhash":"5740336cfa8bcdf895f40c48c3047f74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":790431659
+        }
+    ],
+    "wof:id":790431659,
+    "wof:lastmodified":1462595783,
+    "wof:name":"Shiocton Police Dept",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.58634,
+    44.445651,
+    -88.58634,
+    44.445651
+],
+  "geometry": {"coordinates":[-88.58634000000001,44.445651],"type":"Point"}
+}

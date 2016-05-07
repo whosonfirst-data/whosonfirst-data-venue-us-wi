@@ -1,0 +1,73 @@
+{
+  "id": 806397103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.529767,44.042041,-88.529767,44.042041",
+    "geom:latitude":44.042041,
+    "geom:longitude":-88.529767,
+    "iso:country":"US",
+    "sg:address":"1925 Surgery Center Dr",
+    "sg:city":"Oshkosh",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 233 1233",
+    "sg:postcode":"54901",
+    "sg:province":"WI",
+    "sg:tags":[
+        "ambulatory",
+        "surgery",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85827909,
+        102081801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QOBjan4NA4OXJLjcHJGvF_44.042041_-88.529767@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462597810,
+    "wof:geomhash":"3d4530249df9f824ef15e2dec71e50fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "neighbourhood_id":85827909,
+            "region_id":85688517,
+            "venue_id":806397103
+        }
+    ],
+    "wof:id":806397103,
+    "wof:lastmodified":1462597810,
+    "wof:name":"Health South Surgery Center",
+    "wof:parent_id":85827909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulatory",
+        "surgery",
+        "center"
+    ]
+},
+  "bbox": [
+    -88.529767,
+    44.042041,
+    -88.529767,
+    44.042041
+],
+  "geometry": {"coordinates":[-88.52976700000001,44.042041],"type":"Point"}
+}

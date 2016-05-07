@@ -1,0 +1,71 @@
+{
+  "id": 789623795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.45184,44.199688,-88.45184,44.199688",
+    "geom:latitude":44.199688,
+    "geom:longitude":-88.45184,
+    "iso:country":"US",
+    "sg:address":"23 Main St",
+    "sg:city":"Menasha",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 727 4770",
+    "sg:postcode":"54952",
+    "sg:province":"WI",
+    "sg:tags":[
+        "lounge"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732729,
+        102081801,
+        85807543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sAuKmWAonzf5pMaW3F10c_44.199688_-88.451840@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589249,
+    "wof:geomhash":"fb02490ad2cf424bf8c437e891bb431c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101732729,
+            "neighbourhood_id":85807543,
+            "region_id":85688517,
+            "venue_id":789623795
+        }
+    ],
+    "wof:id":789623795,
+    "wof:lastmodified":1462589249,
+    "wof:name":"Jitters Bars",
+    "wof:parent_id":85807543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge"
+    ]
+},
+  "bbox": [
+    -88.45184,
+    44.199688,
+    -88.45184,
+    44.199688
+],
+  "geometry": {"coordinates":[-88.45184,44.199688],"type":"Point"}
+}

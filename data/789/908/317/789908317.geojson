@@ -1,0 +1,75 @@
+{
+  "id": 789908317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.140371,45.033391,-90.140371,45.033391",
+    "geom:latitude":45.033391,
+    "geom:longitude":-90.140371,
+    "iso:country":"US",
+    "sg:address":"1909 W Townline Rd",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 257 1492",
+    "sg:postcode":"54411",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_282ASzjB1FJlIciGU8WdvC_45.033391_-90.140371@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591519,
+    "wof:geomhash":"a66acbd54ee14e884392fa6b2ef5b51d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":789908317
+        }
+    ],
+    "wof:id":789908317,
+    "wof:lastmodified":1462591519,
+    "wof:name":"Frahm Family Trucking LLC",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.140371,
+    45.033391,
+    -90.140371,
+    45.033391
+],
+  "geometry": {"coordinates":[-90.140371,45.033391],"type":"Point"}
+}

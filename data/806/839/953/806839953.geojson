@@ -1,0 +1,84 @@
+{
+  "id": 806839953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.205368,43.012173,-88.205368,43.012173",
+    "geom:latitude":43.012173,
+    "geom:longitude":-88.205368,
+    "iso:country":"US",
+    "sg:address":"801 Eugene Ct",
+    "sg:city":"Waukesha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 544 9900",
+    "sg:postcode":"53186",
+    "sg:province":"WI",
+    "sg:tags":[
+        "steel",
+        "distribution",
+        "foundry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85815589,
+        102191575,
+        404495673,
+        85633793,
+        101733495,
+        102081741,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58WZ0dqn6fyJOyUdz2jHrm_43.012173_-88.205368@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601509,
+    "wof:geomhash":"25f4a1cc401ecfcbed043d375c48d777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081741,
+            "localadmin_id":404495673,
+            "locality_id":101733495,
+            "neighbourhood_id":85815589,
+            "region_id":85688517,
+            "venue_id":806839953
+        }
+    ],
+    "wof:id":806839953,
+    "wof:lastmodified":1462601509,
+    "wof:name":"Neenah Foundry Company",
+    "wof:parent_id":85815589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "distribution",
+        "foundry"
+    ]
+},
+  "bbox": [
+    -88.205368,
+    43.012173,
+    -88.205368,
+    43.012173
+],
+  "geometry": {"coordinates":[-88.20536800000001,43.012173],"type":"Point"}
+}

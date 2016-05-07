@@ -1,0 +1,71 @@
+{
+  "id": 790329559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.004674,43.658021,-88.004674,43.658021",
+    "geom:latitude":43.658021,
+    "geom:longitude":-88.004674,
+    "iso:country":"US",
+    "sg:address":"501 Milwaukee Ave",
+    "sg:city":"Cascade",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 528 8432",
+    "sg:postcode":"53079",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733393,
+        102081869,
+        85836705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UCHEI841M2xLGWjRkeqj2_43.658021_-88.004674@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462594989,
+    "wof:geomhash":"9c7d9bf7793f4c3cabfa804da907c81a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "locality_id":101733393,
+            "neighbourhood_id":85836705,
+            "region_id":85688517,
+            "venue_id":790329559
+        }
+    ],
+    "wof:id":790329559,
+    "wof:lastmodified":1462594989,
+    "wof:name":"Cascade Fire Dept",
+    "wof:parent_id":85836705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.004674,
+    43.658021,
+    -88.004674,
+    43.658021
+],
+  "geometry": {"coordinates":[-88.00467399999999,43.658021],"type":"Point"}
+}

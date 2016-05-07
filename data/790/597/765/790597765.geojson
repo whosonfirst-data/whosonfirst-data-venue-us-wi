@@ -1,0 +1,79 @@
+{
+  "id": 790597765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.709609,43.772321,-87.709609,43.772321",
+    "geom:latitude":43.772321,
+    "geom:longitude":-87.709609,
+    "iso:country":"US",
+    "sg:address":"2640 N 6th St",
+    "sg:city":"Sheboygan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 457 0513",
+    "sg:postcode":"53083",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mental",
+        "outpatient",
+        "specialty"
+    ],
+    "sg:website":"www.aurora.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85818209,
+        102081869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ngQQGR0HxngKomz7hUXv4_43.772321_-87.709609@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462597193,
+    "wof:geomhash":"f9af02fdc2a1cff665d50744cb860481",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "neighbourhood_id":85818209,
+            "region_id":85688517,
+            "venue_id":790597765
+        }
+    ],
+    "wof:id":790597765,
+    "wof:lastmodified":1462597193,
+    "wof:name":"Center For Mental Health Svcs",
+    "wof:parent_id":85818209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -87.709609,
+    43.772321,
+    -87.709609,
+    43.772321
+],
+  "geometry": {"coordinates":[-87.709609,43.772321],"type":"Point"}
+}

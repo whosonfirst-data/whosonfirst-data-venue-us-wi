@@ -1,0 +1,81 @@
+{
+  "id": 823186829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.399857,43.066319,-89.399857,43.066319",
+    "geom:latitude":43.066319,
+    "geom:longitude":-89.399857,
+    "iso:country":"US",
+    "sg:address":"801 Braxton Pl",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 260 2700",
+    "sg:postcode":"53715",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"http://www.selectmedicalcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868283,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WUyZRsFQe4kafhonIGxUS_43.066319_-89.399857@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608153,
+    "wof:geomhash":"582d6fbbdfc06711f69bca08e7771a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85868283,
+            "region_id":85688517,
+            "venue_id":823186829
+        }
+    ],
+    "wof:id":823186829,
+    "wof:lastmodified":1462608153,
+    "wof:name":"Select Specialty Hospital-Madison",
+    "wof:parent_id":85868283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.399857,
+    43.066319,
+    -89.399857,
+    43.066319
+],
+  "geometry": {"coordinates":[-89.399857,43.066319],"type":"Point"}
+}

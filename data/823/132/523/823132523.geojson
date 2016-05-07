@@ -1,0 +1,91 @@
+{
+  "id": 823132523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.198412,42.76664,-88.198412,42.76664",
+    "geom:latitude":42.76664,
+    "geom:longitude":-88.198412,
+    "iso:country":"US",
+    "sg:address":"815 Fox Ln # B",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 534 5534",
+    "sg:postcode":"53185",
+    "sg:province":"WI",
+    "sg:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ],
+    "sg:website":"http://www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865439,
+        102191575,
+        404494891,
+        85633793,
+        101733617,
+        102081763,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_369eEQRlFDC7FXCUam9PLN_42.766640_-88.198412@1303262807"
+    },
+    "wof:country":"US",
+    "wof:created":1462607375,
+    "wof:geomhash":"1d9c8aa37d551e635d7b0ee0bb4dca01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494891,
+            "locality_id":101733617,
+            "neighbourhood_id":85865439,
+            "region_id":85688517,
+            "venue_id":823132523
+        }
+    ],
+    "wof:id":823132523,
+    "wof:lastmodified":1462607375,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85865439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -88.198412,
+    42.76664,
+    -88.198412,
+    42.76664
+],
+  "geometry": {"coordinates":[-88.198412,42.76664],"type":"Point"}
+}

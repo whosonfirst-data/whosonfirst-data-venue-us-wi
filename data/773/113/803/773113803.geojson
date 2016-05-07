@@ -1,0 +1,71 @@
+{
+  "id": 773113803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.789962,42.995836,-89.789962,42.995836",
+    "geom:latitude":42.995836,
+    "geom:longitude":-89.789962,
+    "iso:country":"US",
+    "sg:address":"2571 Erbe Rd",
+    "sg:city":"Blue Mounds",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 437 4654",
+    "sg:postcode":"53517",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85830985,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FeTkR9CHW2dXB2Qa8k9Br_42.995836_-89.789962@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583246,
+    "wof:geomhash":"6003c4a371136cbd3567f26ef159e2bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85830985,
+            "region_id":85688517,
+            "venue_id":773113803
+        }
+    ],
+    "wof:id":773113803,
+    "wof:lastmodified":1462583246,
+    "wof:name":"Johnson Trucking",
+    "wof:parent_id":85830985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.789962,
+    42.995836,
+    -89.789962,
+    42.995836
+],
+  "geometry": {"coordinates":[-89.789962,42.995836],"type":"Point"}
+}

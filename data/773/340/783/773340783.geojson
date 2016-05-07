@@ -1,0 +1,71 @@
+{
+  "id": 773340783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.441586,42.603268,-88.441586,42.603268",
+    "geom:latitude":42.603268,
+    "geom:longitude":-88.441586,
+    "iso:country":"US",
+    "sg:address":"1217 Grant St",
+    "sg:city":"Lake Geneva",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 248 8212",
+    "sg:postcode":"53147",
+    "sg:province":"WI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733551,
+        102081883,
+        85812017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FD7XezCI8KxcPZYuYpUm5_42.603268_-88.441586@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584986,
+    "wof:geomhash":"c86602a77e12db08f9bed28b7f5de314",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733551,
+            "neighbourhood_id":85812017,
+            "region_id":85688517,
+            "venue_id":773340783
+        }
+    ],
+    "wof:id":773340783,
+    "wof:lastmodified":1462584986,
+    "wof:name":"Grant Street Storage",
+    "wof:parent_id":85812017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -88.441586,
+    42.603268,
+    -88.441586,
+    42.603268
+],
+  "geometry": {"coordinates":[-88.441586,42.603268],"type":"Point"}
+}

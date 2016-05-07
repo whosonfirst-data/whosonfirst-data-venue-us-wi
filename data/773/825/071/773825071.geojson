@@ -1,0 +1,70 @@
+{
+  "id": 773825071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.741298,43.007884,-89.741298,43.007884",
+    "geom:latitude":43.007884,
+    "geom:longitude":-89.741298,
+    "iso:country":"US",
+    "sg:address":"222 W Front St",
+    "sg:city":"Mt Horeb",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 437 5522",
+    "sg:postcode":"53572",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.mhpd.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85830985,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dA1r4UQwYFXeS9UHlL0f0_43.007884_-89.741298@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588680,
+    "wof:geomhash":"8b5c00d0dda32f5405446d06a48e603b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85830985,
+            "region_id":85688517,
+            "venue_id":773825071
+        }
+    ],
+    "wof:id":773825071,
+    "wof:lastmodified":1462588680,
+    "wof:name":"Mt Horeb Police Dept",
+    "wof:parent_id":85830985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.741298,
+    43.007884,
+    -89.741298,
+    43.007884
+],
+  "geometry": {"coordinates":[-89.741298,43.007884],"type":"Point"}
+}

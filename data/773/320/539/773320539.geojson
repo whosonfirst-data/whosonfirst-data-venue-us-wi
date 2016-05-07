@@ -1,0 +1,73 @@
+{
+  "id": 773320539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.733393,44.382562,-88.733393,44.382562",
+    "geom:latitude":44.382562,
+    "geom:longitude":-88.733393,
+    "iso:country":"US",
+    "sg:address":"1301 Mill St",
+    "sg:city":"New London",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 982 7670",
+    "sg:postcode":"54961",
+    "sg:province":"WI",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CIN5egCHZPyclacrcwWr1_44.382562_-88.733393@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584846,
+    "wof:geomhash":"c9a3e0a5b554d83ab50162ec78f3fc57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":773320539
+        }
+    ],
+    "wof:id":773320539,
+    "wof:lastmodified":1462584846,
+    "wof:name":"Medicap Pharmacy",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -88.733393,
+    44.382562,
+    -88.733393,
+    44.382562
+],
+  "geometry": {"coordinates":[-88.73339300000001,44.382562],"type":"Point"}
+}

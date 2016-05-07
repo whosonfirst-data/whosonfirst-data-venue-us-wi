@@ -1,0 +1,95 @@
+{
+  "id": 807342041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.006877,42.953888,-88.006877,42.953888",
+    "geom:latitude":42.953888,
+    "geom:longitude":-88.006877,
+    "iso:country":"US",
+    "sg:address":"7432 W Holmes Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 281 8100",
+    "sg:postcode":"53220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "event",
+        "ticket",
+        "sale",
+        "broker"
+    ],
+    "sg:website":"http://www.buyticketsonline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870865,
+        102191575,
+        404492089,
+        85633793,
+        101733071,
+        102081837,
+        85688517,
+        420558473,
+        404494171,
+        101733073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QL9S02wIPnW5Ss3A3F7dY_42.953987_-88.006862@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462606376,
+    "wof:geomhash":"c33c9eb696fffe0616f5fb03fb7a0733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492089,
+            "locality_id":101733071,
+            "neighbourhood_id":85870865,
+            "region_id":85688517,
+            "venue_id":807342041
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494171,
+            "locality_id":101733073,
+            "neighbourhood_id":420558473,
+            "region_id":85688517,
+            "venue_id":807342041
+        }
+    ],
+    "wof:id":807342041,
+    "wof:lastmodified":1462606376,
+    "wof:name":"Front Row Ticket Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "event",
+        "ticket",
+        "sale",
+        "broker"
+    ]
+},
+  "bbox": [
+    -88.006877,
+    42.953888,
+    -88.006877,
+    42.953888
+],
+  "geometry": {"coordinates":[-88.006877,42.953888],"type":"Point"}
+}

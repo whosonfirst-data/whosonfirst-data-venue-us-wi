@@ -1,0 +1,85 @@
+{
+  "id": 823166453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.948635,42.972351,-87.948635,42.972351",
+    "geom:latitude":42.972351,
+    "geom:longitude":-87.948635,
+    "iso:country":"US",
+    "sg:address":"5048 S 27th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 282 7581",
+    "sg:postcode":"53221",
+    "sg:province":"WI",
+    "sg:tags":[
+        "car",
+        "leasing",
+        "truck"
+    ],
+    "sg:website":"http://budget.com/IYP_tl",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550033,
+        102191575,
+        404494171,
+        85633793,
+        101733073,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ky4IXynSMhr42dDbe6bMo_42.972351_-87.948635@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607886,
+    "wof:geomhash":"73c66df2a94330f336abb1c781293ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494171,
+            "locality_id":101733073,
+            "neighbourhood_id":420550033,
+            "region_id":85688517,
+            "venue_id":823166453
+        }
+    ],
+    "wof:id":823166453,
+    "wof:lastmodified":1462607886,
+    "wof:name":"Budget Rent A Car",
+    "wof:parent_id":420550033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "leasing",
+        "truck"
+    ]
+},
+  "bbox": [
+    -87.948635,
+    42.972351,
+    -87.948635,
+    42.972351
+],
+  "geometry": {"coordinates":[-87.948635,42.972351],"type":"Point"}
+}

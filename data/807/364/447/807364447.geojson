@@ -1,0 +1,74 @@
+{
+  "id": 807364447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.413792,43.025371,-89.413792,43.025371",
+    "geom:latitude":43.025371,
+    "geom:longitude":-89.413792,
+    "iso:country":"US",
+    "sg:address":"3042 Fish Hatchery Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/fitchburg/86164-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 274 9900",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uNQtFFaGZ4fEQ14w0cTQD_43.025371_-89.413792@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606713,
+    "wof:geomhash":"8b969b8f85fc3878e3bd84398bc1a2a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":807364447
+        }
+    ],
+    "wof:id":807364447,
+    "wof:lastmodified":1462606713,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.413792,
+    43.025371,
+    -89.413792,
+    43.025371
+],
+  "geometry": {"coordinates":[-89.413792,43.025371],"type":"Point"}
+}

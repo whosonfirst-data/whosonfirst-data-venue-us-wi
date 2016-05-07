@@ -1,0 +1,71 @@
+{
+  "id": 807146041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.625098,44.335395,-88.625098,44.335395",
+    "geom:latitude":44.335395,
+    "geom:longitude":-88.625098,
+    "iso:country":"US",
+    "sg:address":"406 E Main St",
+    "sg:city":"Hortonville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 779 5938",
+    "sg:postcode":"54944",
+    "sg:province":"WI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Mix5n59zuUuu1p6824uzs_44.335395_-88.625098@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604228,
+    "wof:geomhash":"0034c61a86920b909082bced84e929f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":807146041
+        }
+    ],
+    "wof:id":807146041,
+    "wof:lastmodified":1462604228,
+    "wof:name":"Neuman Auto Frame",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -88.625098,
+    44.335395,
+    -88.625098,
+    44.335395
+],
+  "geometry": {"coordinates":[-88.62509799999999,44.335395],"type":"Point"}
+}

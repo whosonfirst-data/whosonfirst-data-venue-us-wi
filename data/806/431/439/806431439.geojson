@@ -1,0 +1,83 @@
+{
+  "id": 806431439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.45095,43.075406,-89.45095,43.075406",
+    "geom:latitude":43.075406,
+    "geom:longitude":-89.45095,
+    "iso:country":"US",
+    "sg:address":"4050 University Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 238 9338",
+    "sg:postcode":"53705",
+    "sg:province":"WI",
+    "sg:tags":[
+        "factory",
+        "outlet"
+    ],
+    "sg:website":"www.thecompanystore.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868277,
+        102191575,
+        404491679,
+        85633793,
+        101732725,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TqdbsXJYAfUyig8kLVyjb_43.075406_-89.450950@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462598098,
+    "wof:geomhash":"fdecd15cfa43db6e486f7fa5052ea6f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491679,
+            "locality_id":101732725,
+            "neighbourhood_id":85868277,
+            "region_id":85688517,
+            "venue_id":806431439
+        }
+    ],
+    "wof:id":806431439,
+    "wof:lastmodified":1462598098,
+    "wof:name":"Company Store The",
+    "wof:parent_id":85868277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "factory",
+        "outlet"
+    ]
+},
+  "bbox": [
+    -89.45095,
+    43.075406,
+    -89.45095,
+    43.075406
+],
+  "geometry": {"coordinates":[-89.45095000000001,43.075406],"type":"Point"}
+}

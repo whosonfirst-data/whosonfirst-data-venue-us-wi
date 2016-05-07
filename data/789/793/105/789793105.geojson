@@ -1,0 +1,71 @@
+{
+  "id": 789793105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.821259,43.974142,-87.821259,43.974142",
+    "geom:latitude":43.974142,
+    "geom:longitude":-87.821259,
+    "iso:country":"US",
+    "sg:address":"10707 State Hwy 42",
+    "sg:city":"Newton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 726 3000",
+    "sg:postcode":"53063",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b1kbKrZ8dpQo1gcFmhqBY_43.974142_-87.821259@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590587,
+    "wof:geomhash":"32cf044e8b5c999d8853cb9e94f35ec3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":789793105
+        }
+    ],
+    "wof:id":789793105,
+    "wof:lastmodified":1462590587,
+    "wof:name":"Nomad Moving",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -87.821259,
+    43.974142,
+    -87.821259,
+    43.974142
+],
+  "geometry": {"coordinates":[-87.821259,43.974142],"type":"Point"}
+}

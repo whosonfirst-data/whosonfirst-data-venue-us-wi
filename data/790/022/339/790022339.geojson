@@ -1,0 +1,71 @@
+{
+  "id": 790022339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.031164,42.631848,-89.031164,42.631848",
+    "geom:latitude":42.631848,
+    "geom:longitude":-89.031164,
+    "iso:country":"US",
+    "sg:address":"3332 US Hwy 51",
+    "sg:city":"Janesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 757 1001",
+    "sg:postcode":"53546",
+    "sg:province":"WI",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85825897,
+        102081829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0il17eFHuamtN8eg00U9XM_42.631848_-89.031164@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592508,
+    "wof:geomhash":"6e396667fa51a061f1247c606c9e25ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "neighbourhood_id":85825897,
+            "region_id":85688517,
+            "venue_id":790022339
+        }
+    ],
+    "wof:id":790022339,
+    "wof:lastmodified":1462592508,
+    "wof:name":"Ace Towing",
+    "wof:parent_id":85825897,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -89.031164,
+    42.631848,
+    -89.031164,
+    42.631848
+],
+  "geometry": {"coordinates":[-89.031164,42.631848],"type":"Point"}
+}

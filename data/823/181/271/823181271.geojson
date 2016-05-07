@@ -1,0 +1,80 @@
+{
+  "id": 823181271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.064941,42.520901,-89.064941,42.520901",
+    "geom:latitude":42.520901,
+    "geom:longitude":-89.064941,
+    "iso:country":"US",
+    "sg:address":"1651 Sun Valley Dr",
+    "sg:city":"Beloit",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 313 9202",
+    "sg:postcode":"53511",
+    "sg:province":"WI",
+    "sg:tags":[
+        "equipment",
+        "cd-rom",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732817,
+        102081829,
+        85810961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IsXxS4zB3RZgFgE6Is6pB_42.520901_-89.064941@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608077,
+    "wof:geomhash":"1eabcf99605514c9fe23cd777f5fea5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "locality_id":101732817,
+            "neighbourhood_id":85810961,
+            "region_id":85688517,
+            "venue_id":823181271
+        }
+    ],
+    "wof:id":823181271,
+    "wof:lastmodified":1462608077,
+    "wof:name":"Sun Valley Softworks",
+    "wof:parent_id":85810961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "cd-rom",
+        "software"
+    ]
+},
+  "bbox": [
+    -89.064941,
+    42.520901,
+    -89.064941,
+    42.520901
+],
+  "geometry": {"coordinates":[-89.064941,42.520901],"type":"Point"}
+}

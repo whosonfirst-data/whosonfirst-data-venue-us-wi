@@ -1,0 +1,71 @@
+{
+  "id": 773566529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.324457,42.509139,-88.324457,42.509139",
+    "geom:latitude":42.509139,
+    "geom:longitude":-88.324457,
+    "iso:country":"US",
+    "sg:address":"121 Co Hwy U",
+    "sg:city":"Genoa City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 279 2272",
+    "sg:postcode":"53128",
+    "sg:province":"WI",
+    "sg:tags":[
+        "expedited"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733599,
+        102081763,
+        85865441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mYh8715y0IV5ogK2bNFty_42.509139_-88.324457@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586697,
+    "wof:geomhash":"ebfc33d24cfc45d3c494ad0158d51f04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081763,
+            "locality_id":101733599,
+            "neighbourhood_id":85865441,
+            "region_id":85688517,
+            "venue_id":773566529
+        }
+    ],
+    "wof:id":773566529,
+    "wof:lastmodified":1462586697,
+    "wof:name":"SLC Expedited Freight",
+    "wof:parent_id":85865441,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "expedited"
+    ]
+},
+  "bbox": [
+    -88.324457,
+    42.509139,
+    -88.324457,
+    42.509139
+],
+  "geometry": {"coordinates":[-88.324457,42.509139],"type":"Point"}
+}

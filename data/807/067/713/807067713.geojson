@@ -1,0 +1,71 @@
+{
+  "id": 807067713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.741462,43.997797,-87.741462,43.997797",
+    "geom:latitude":43.997797,
+    "geom:longitude":-87.741462,
+    "iso:country":"US",
+    "sg:address":"8622 Center Rd",
+    "sg:city":"Newton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 726 2277",
+    "sg:postcode":"53063",
+    "sg:province":"WI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f5tQ3DiH8lx8AjWeUcHfr_43.997797_-87.741462@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603428,
+    "wof:geomhash":"6ded2b87a44839917bdd81089a7f52da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":807067713
+        }
+    ],
+    "wof:id":807067713,
+    "wof:lastmodified":1462603428,
+    "wof:name":"Fallier Automotive LLC",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -87.741462,
+    43.997797,
+    -87.741462,
+    43.997797
+],
+  "geometry": {"coordinates":[-87.741462,43.997797],"type":"Point"}
+}

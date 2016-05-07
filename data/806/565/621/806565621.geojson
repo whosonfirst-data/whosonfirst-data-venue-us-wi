@@ -1,0 +1,73 @@
+{
+  "id": 806565621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.479694,44.801859,-91.479694,44.801859",
+    "geom:latitude":44.801859,
+    "geom:longitude":-91.479694,
+    "iso:country":"US",
+    "sg:address":"1613 Harding Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 834 9302",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "muffler",
+        "install"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SBEjkYvx6QXCAcHA59OPo_44.801859_-91.479694@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462599171,
+    "wof:geomhash":"10ba1fc190d578cad6559ab10d9a5b9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":806565621
+        }
+    ],
+    "wof:id":806565621,
+    "wof:lastmodified":1462599171,
+    "wof:name":"Don The Muffler Man",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "install"
+    ]
+},
+  "bbox": [
+    -91.479694,
+    44.801859,
+    -91.479694,
+    44.801859
+],
+  "geometry": {"coordinates":[-91.47969399999999,44.801859],"type":"Point"}
+}

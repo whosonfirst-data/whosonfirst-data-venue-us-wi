@@ -1,0 +1,75 @@
+{
+  "id": 789812345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.976962,45.14825,-90.976962,45.14825",
+    "geom:latitude":45.14825,
+    "geom:longitude":-90.976962,
+    "iso:country":"US",
+    "sg:address":"34539 210th Ave",
+    "sg:city":"Gilman",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 447 8742",
+    "sg:postcode":"54433",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732557,
+        102081787,
+        85837071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EWd2DRQl6JoxzmzsF5voM_45.148250_-90.976962@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590733,
+    "wof:geomhash":"9e57146748b6894b5661589c2cd3c243",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081787,
+            "locality_id":101732557,
+            "neighbourhood_id":85837071,
+            "region_id":85688517,
+            "venue_id":789812345
+        }
+    ],
+    "wof:id":789812345,
+    "wof:lastmodified":1462590733,
+    "wof:name":"Goodwin Trucking",
+    "wof:parent_id":85837071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.976962,
+    45.14825,
+    -90.976962,
+    45.14825
+],
+  "geometry": {"coordinates":[-90.976962,45.14825],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 807340053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.929523,42.938428,-87.929523,42.938428",
+    "geom:latitude":42.938428,
+    "geom:longitude":-87.929523,
+    "iso:country":"US",
+    "sg:address":"5848 S 13th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 282 9862",
+    "sg:postcode":"53221",
+    "sg:province":"WI",
+    "sg:tags":[
+        "automobile",
+        "rebuilt",
+        "material",
+        "used"
+    ],
+    "sg:website":"http://www.rozauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870859,
+        102191575,
+        404494177,
+        85633793,
+        101733079,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FNxXSh5rwezmbw6uFzhrr_42.938405_-87.929434@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462606347,
+    "wof:geomhash":"69a1b65b6efcf35745ffdc10c9a39c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494177,
+            "locality_id":101733079,
+            "neighbourhood_id":85870859,
+            "region_id":85688517,
+            "venue_id":807340053
+        }
+    ],
+    "wof:id":807340053,
+    "wof:lastmodified":1462606347,
+    "wof:name":"Roz Auto Salvage",
+    "wof:parent_id":85870859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt",
+        "material",
+        "used"
+    ]
+},
+  "bbox": [
+    -87.929523,
+    42.938428,
+    -87.929523,
+    42.938428
+],
+  "geometry": {"coordinates":[-87.929523,42.938428],"type":"Point"}
+}

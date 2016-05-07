@@ -1,0 +1,71 @@
+{
+  "id": 789600743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.8032,43.622114,-87.8032,43.622114",
+    "geom:latitude":43.622114,
+    "geom:longitude":-87.8032,
+    "iso:country":"US",
+    "sg:address":"1108 Superior Ave",
+    "sg:city":"Oostburg",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 564 3013",
+    "sg:postcode":"53070",
+    "sg:province":"WI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733891,
+        102081869,
+        85821461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bCJMl0zK9lszbaXig39PE_43.622114_-87.803200@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589073,
+    "wof:geomhash":"1ff82f27618d0178c0319465e8e98e30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "locality_id":101733891,
+            "neighbourhood_id":85821461,
+            "region_id":85688517,
+            "venue_id":789600743
+        }
+    ],
+    "wof:id":789600743,
+    "wof:lastmodified":1462589073,
+    "wof:name":"Oostburg Ambulance Non",
+    "wof:parent_id":85821461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -87.8032,
+    43.622114,
+    -87.8032,
+    43.622114
+],
+  "geometry": {"coordinates":[-87.8032,43.622114],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 823186859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.399064,43.05225,-89.399064,43.05225",
+    "geom:latitude":43.05225,
+    "geom:longitude":-89.399064,
+    "iso:country":"US",
+    "sg:address":"1313 Fish Hatchery Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 252 8040",
+    "sg:postcode":"53715",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878849,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43gWD0qO8z6xN1A0YDaVxK_43.052250_-89.399064@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608154,
+    "wof:geomhash":"f583a166fdd6dafd68780e592ade04ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878849,
+            "region_id":85688517,
+            "venue_id":823186859
+        }
+    ],
+    "wof:id":823186859,
+    "wof:lastmodified":1462608154,
+    "wof:name":"Dean Clinic",
+    "wof:parent_id":85878849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.399064,
+    43.05225,
+    -89.399064,
+    43.05225
+],
+  "geometry": {"coordinates":[-89.399064,43.05225],"type":"Point"}
+}

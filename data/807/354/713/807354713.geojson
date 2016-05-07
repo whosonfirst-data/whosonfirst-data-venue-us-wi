@@ -1,0 +1,72 @@
+{
+  "id": 807354713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.930376,43.377493,-87.930376,43.377493",
+    "geom:latitude":43.377493,
+    "geom:longitude":-87.930376,
+    "iso:country":"US",
+    "sg:address":"250 S Foster St",
+    "sg:city":"Saukville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/saukville/204857-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 268 6997",
+    "sg:postcode":"53080",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732547,
+        102081873,
+        85828641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zg3eEOXKQHA10V7rxEFBx_43.377493_-87.930376@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606568,
+    "wof:geomhash":"63b993602122682f6f9b5e683b9b6151",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081873,
+            "locality_id":101732547,
+            "neighbourhood_id":85828641,
+            "region_id":85688517,
+            "venue_id":807354713
+        }
+    ],
+    "wof:id":807354713,
+    "wof:lastmodified":1462606568,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85828641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -87.930376,
+    43.377493,
+    -87.930376,
+    43.377493
+],
+  "geometry": {"coordinates":[-87.930376,43.377493],"type":"Point"}
+}

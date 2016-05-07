@@ -1,0 +1,71 @@
+{
+  "id": 806992351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.328512,43.167165,-89.328512,43.167165",
+    "geom:latitude":43.167165,
+    "geom:longitude":-89.328512,
+    "iso:country":"US",
+    "sg:address":"4282 Acker Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 244 6755",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85852311,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rFtELJbVCgbskesZylBLy_43.167165_-89.328512@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602793,
+    "wof:geomhash":"0df940304b05e1b27dd937c6076364ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85852311,
+            "region_id":85688517,
+            "venue_id":806992351
+        }
+    ],
+    "wof:id":806992351,
+    "wof:lastmodified":1462602793,
+    "wof:name":"Northside Automobile",
+    "wof:parent_id":85852311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.328512,
+    43.167165,
+    -89.328512,
+    43.167165
+],
+  "geometry": {"coordinates":[-89.328512,43.167165],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 807166459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.400713,45.284228,-91.400713,45.284228",
+    "geom:latitude":45.284228,
+    "geom:longitude":-91.400713,
+    "iso:country":"US",
+    "sg:address":"30123 138th St",
+    "sg:city":"New Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 967 2960",
+    "sg:postcode":"54757",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "boat",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732557,
+        102081787,
+        85837071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EiqV8FL1nexPVT3T84jm1_45.284228_-91.400713@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604442,
+    "wof:geomhash":"4d83b7ff21f9240071886333b12b2069",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081787,
+            "locality_id":101732557,
+            "neighbourhood_id":85837071,
+            "region_id":85688517,
+            "venue_id":807166459
+        }
+    ],
+    "wof:id":807166459,
+    "wof:lastmodified":1462604442,
+    "wof:name":"Drum's Marine Repair",
+    "wof:parent_id":85837071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boat",
+        "motor"
+    ]
+},
+  "bbox": [
+    -91.400713,
+    45.284228,
+    -91.400713,
+    45.284228
+],
+  "geometry": {"coordinates":[-91.400713,45.284228],"type":"Point"}
+}

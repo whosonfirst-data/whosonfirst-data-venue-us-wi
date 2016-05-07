@@ -1,0 +1,71 @@
+{
+  "id": 773213167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.343591,43.242648,-89.343591,43.242648",
+    "geom:latitude":43.242648,
+    "geom:longitude":-89.343591,
+    "iso:country":"US",
+    "sg:address":"103 Murray St",
+    "sg:city":"Browntown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 966 3763",
+    "sg:postcode":"53532",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85852311,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24OS7Ztn92BNkddJGTx0dg_43.242648_-89.343591@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584019,
+    "wof:geomhash":"0bc1b038735706ed8c85cc3980ac3674",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85852311,
+            "region_id":85688517,
+            "venue_id":773213167
+        }
+    ],
+    "wof:id":773213167,
+    "wof:lastmodified":1462584019,
+    "wof:name":"C B Repair",
+    "wof:parent_id":85852311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.343591,
+    43.242648,
+    -89.343591,
+    43.242648
+],
+  "geometry": {"coordinates":[-89.343591,43.242648],"type":"Point"}
+}

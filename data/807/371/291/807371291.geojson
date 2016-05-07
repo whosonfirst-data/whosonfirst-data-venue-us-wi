@@ -1,0 +1,82 @@
+{
+  "id": 807371291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.357445,44.258426,-88.357445,44.258426",
+    "geom:latitude":44.258426,
+    "geom:longitude":-88.357445,
+    "iso:country":"US",
+    "sg:address":"3730 E College Ave",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/appleton/35878-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 954 8060",
+    "sg:postcode":"54915",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857401,
+        102191575,
+        404494867,
+        85633793,
+        101732417,
+        102081851,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RO7aGDLIFCqEKkXB5XqCG_44.258426_-88.357445@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606808,
+    "wof:geomhash":"4ac102ba2ac780821ff0437ba31263e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081851,
+            "localadmin_id":404494867,
+            "locality_id":101732417,
+            "neighbourhood_id":85857401,
+            "region_id":85688517,
+            "venue_id":807371291
+        }
+    ],
+    "wof:id":807371291,
+    "wof:lastmodified":1462606808,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85857401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -88.357445,
+    44.258426,
+    -88.357445,
+    44.258426
+],
+  "geometry": {"coordinates":[-88.357445,44.258426],"type":"Point"}
+}

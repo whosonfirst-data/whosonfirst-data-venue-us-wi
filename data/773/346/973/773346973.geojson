@@ -1,0 +1,73 @@
+{
+  "id": 773346973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.639393,44.959327,-89.639393,44.959327",
+    "geom:latitude":44.959327,
+    "geom:longitude":-89.639393,
+    "iso:country":"US",
+    "sg:address":"404 S 3rd Ave",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 843 2790",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A9g403CPnIdUMwu1OjewK_44.959327_-89.639393@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585024,
+    "wof:geomhash":"6a1f407371cebfe23842c5cc4e9cd80f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":773346973
+        }
+    ],
+    "wof:id":773346973,
+    "wof:lastmodified":1462585024,
+    "wof:name":"Ministry Medical Group",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.639393,
+    44.959327,
+    -89.639393,
+    44.959327
+],
+  "geometry": {"coordinates":[-89.639393,44.959327],"type":"Point"}
+}

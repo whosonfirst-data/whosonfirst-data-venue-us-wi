@@ -1,0 +1,87 @@
+{
+  "id": 807394099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.626601,42.637839,-88.626601,42.637839",
+    "geom:latitude":42.637839,
+    "geom:longitude":-88.626601,
+    "iso:country":"US",
+    "sg:address":"440 Sunshine Ave",
+    "sg:city":"Delavan",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 728 5757",
+    "sg:postcode":"53115",
+    "sg:province":"WI",
+    "sg:tags":[
+        "local",
+        "hardware-builders",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733549,
+        102081883,
+        85829149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25WhKexJGql6vrdIYmyWxF_42.637839_-88.626601@1303262806"
+    },
+    "wof:country":"US",
+    "wof:created":1462607142,
+    "wof:geomhash":"2a5560596d2eaa572260343b60b6641c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733549,
+            "neighbourhood_id":85829149,
+            "region_id":85688517,
+            "venue_id":807394099
+        }
+    ],
+    "wof:id":807394099,
+    "wof:lastmodified":1462607142,
+    "wof:name":"Means Trucking",
+    "wof:parent_id":85829149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "hardware-builders",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.626601,
+    42.637839,
+    -88.626601,
+    42.637839
+],
+  "geometry": {"coordinates":[-88.62660099999999,42.637839],"type":"Point"}
+}

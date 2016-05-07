@@ -1,0 +1,90 @@
+{
+  "id": 789581631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.39489,43.07492,-89.39489,43.07492",
+    "geom:latitude":43.07492,
+    "geom:longitude":-89.39489,
+    "iso:country":"US",
+    "sg:address":"532 State St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 251 7755",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "arts",
+        "facility",
+        "instruction",
+        "martial",
+        "fitness",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878887,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ta2Teyp35TKQ3rypMzlcU_43.074920_-89.394890@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588915,
+    "wof:geomhash":"4b728841a255c99c2ad380c03cadbb17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878887,
+            "region_id":85688517,
+            "venue_id":789581631
+        }
+    ],
+    "wof:id":789581631,
+    "wof:lastmodified":1462588915,
+    "wof:name":"Villaris Martial Arts Center",
+    "wof:parent_id":85878887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arts",
+        "facility",
+        "instruction",
+        "martial",
+        "fitness",
+        "physical"
+    ]
+},
+  "bbox": [
+    -89.39489,
+    43.07492,
+    -89.39489,
+    43.07492
+],
+  "geometry": {"coordinates":[-89.39489,43.07492],"type":"Point"}
+}

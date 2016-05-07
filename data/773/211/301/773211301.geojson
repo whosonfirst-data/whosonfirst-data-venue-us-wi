@@ -1,0 +1,71 @@
+{
+  "id": 773211301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.840137,44.931161,-89.840137,44.931161",
+    "geom:latitude":44.931161,
+    "geom:longitude":-89.840137,
+    "iso:country":"US",
+    "sg:address":"420 Main St",
+    "sg:city":"Marathon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 443 3311",
+    "sg:postcode":"54448",
+    "sg:province":"WI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JYcrqJvVxbPNAgKRKrXqW_44.931161_-89.840137@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584005,
+    "wof:geomhash":"82057caf7c5c0ecbec6cfa46e015c1e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":773211301
+        }
+    ],
+    "wof:id":773211301,
+    "wof:lastmodified":1462584005,
+    "wof:name":"George's Market",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -89.840137,
+    44.931161,
+    -89.840137,
+    44.931161
+],
+  "geometry": {"coordinates":[-89.840137,44.931161],"type":"Point"}
+}

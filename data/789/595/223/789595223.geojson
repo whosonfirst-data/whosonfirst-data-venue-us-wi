@@ -1,0 +1,71 @@
+{
+  "id": 789595223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.038111,44.951402,-91.038111,44.951402",
+    "geom:latitude":44.951402,
+    "geom:longitude":-91.038111,
+    "iso:country":"US",
+    "sg:address":"629 E Murray St",
+    "sg:city":"Boyd",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 667 3537",
+    "sg:postcode":"54726",
+    "sg:province":"WI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732557,
+        102081787,
+        85837071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YIdY786JJbEehnUS0vv75_44.951402_-91.038111@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589022,
+    "wof:geomhash":"cb4b3d3fc9d0afb6aa2dc742ea86dc0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081787,
+            "locality_id":101732557,
+            "neighbourhood_id":85837071,
+            "region_id":85688517,
+            "venue_id":789595223
+        }
+    ],
+    "wof:id":789595223,
+    "wof:lastmodified":1462589022,
+    "wof:name":"Big B Market",
+    "wof:parent_id":85837071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.038111,
+    44.951402,
+    -91.038111,
+    44.951402
+],
+  "geometry": {"coordinates":[-91.038111,44.951402],"type":"Point"}
+}

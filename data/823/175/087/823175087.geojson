@@ -1,0 +1,85 @@
+{
+  "id": 823175087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.048165,42.993157,-88.048165,42.993157",
+    "geom:latitude":42.993157,
+    "geom:longitude":-88.048165,
+    "iso:country":"US",
+    "sg:address":"10922 W National Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 546 6900",
+    "sg:postcode":"53227",
+    "sg:province":"WI",
+    "sg:tags":[
+        "car",
+        "leasing",
+        "truck"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=4404&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870861,
+        102191575,
+        404494275,
+        85633793,
+        101733091,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52U981b2G138od3LsTf3qE_42.993157_-88.048165@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608001,
+    "wof:geomhash":"9a95c83c9b0e43031469afd6c2fc5129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494275,
+            "locality_id":101733091,
+            "neighbourhood_id":85870861,
+            "region_id":85688517,
+            "venue_id":823175087
+        }
+    ],
+    "wof:id":823175087,
+    "wof:lastmodified":1462608001,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85870861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "leasing",
+        "truck"
+    ]
+},
+  "bbox": [
+    -88.048165,
+    42.993157,
+    -88.048165,
+    42.993157
+],
+  "geometry": {"coordinates":[-88.048165,42.993157],"type":"Point"}
+}

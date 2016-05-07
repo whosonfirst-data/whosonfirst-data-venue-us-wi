@@ -1,0 +1,71 @@
+{
+  "id": 773073787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.254778,43.042396,-89.254778,43.042396",
+    "geom:latitude":43.042396,
+    "geom:longitude":-89.254778,
+    "iso:country":"US",
+    "sg:address":"7102 US Hwy 12",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 838 9555",
+    "sg:postcode":"53718",
+    "sg:province":"WI",
+    "sg:tags":[
+        "fill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85826215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MAxrGFJss0UsrHuNGxnN0_43.042396_-89.254778@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462582961,
+    "wof:geomhash":"27e8e3296d20fe689550483f4a5dbd8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85826215,
+            "region_id":85688517,
+            "venue_id":773073787
+        }
+    ],
+    "wof:id":773073787,
+    "wof:lastmodified":1462582961,
+    "wof:name":"County Landfill Site 2",
+    "wof:parent_id":85826215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fill"
+    ]
+},
+  "bbox": [
+    -89.254778,
+    43.042396,
+    -89.254778,
+    43.042396
+],
+  "geometry": {"coordinates":[-89.254778,43.042396],"type":"Point"}
+}

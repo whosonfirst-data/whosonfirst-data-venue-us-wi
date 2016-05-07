@@ -1,0 +1,76 @@
+{
+  "id": 807366485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.672648,44.088944,-87.672648,44.088944",
+    "geom:latitude":44.088944,
+    "geom:longitude":-87.672648,
+    "iso:country":"US",
+    "sg:address":"1910 Washington St",
+    "sg:city":"Manitowoc",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/manitowoc/85803-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 683 3881",
+    "sg:postcode":"54220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35d9gRcYQvHEbVmVaHAEXh_44.088944_-87.672648@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606746,
+    "wof:geomhash":"181f20fd5ea5c06a4456c92de442cfcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":807366485
+        }
+    ],
+    "wof:id":807366485,
+    "wof:lastmodified":1462606746,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -87.672648,
+    44.088944,
+    -87.672648,
+    44.088944
+],
+  "geometry": {"coordinates":[-87.672648,44.088944],"type":"Point"}
+}

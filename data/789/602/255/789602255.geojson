@@ -1,0 +1,71 @@
+{
+  "id": 789602255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.643149,44.10806,-87.643149,44.10806",
+    "geom:latitude":44.10806,
+    "geom:longitude":-87.643149,
+    "iso:country":"US",
+    "sg:address":"17 Waldo Blvd",
+    "sg:city":"Manitowoc",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 684 7103",
+    "sg:postcode":"54220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EbzhA35Q52NMpAJfuRoV8_44.108060_-87.643149@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589084,
+    "wof:geomhash":"b111417e58c64427bcb6c643e4ba6ed5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":789602255
+        }
+    ],
+    "wof:id":789602255,
+    "wof:lastmodified":1462589084,
+    "wof:name":"Amato Orthodontics",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -87.643149,
+    44.10806,
+    -87.643149,
+    44.10806
+],
+  "geometry": {"coordinates":[-87.64314899999999,44.10806],"type":"Point"}
+}

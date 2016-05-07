@@ -1,0 +1,73 @@
+{
+  "id": 807320503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.9534,43.321499,-87.9534,43.321499",
+    "geom:latitude":43.321499,
+    "geom:longitude":-87.9534,
+    "iso:country":"US",
+    "sg:address":"1050 Spring St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 375 5510",
+    "sg:postcode":"53024",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85852983,
+        102081873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UeTbCBpJayFRynLtFcm8h_43.321640_-87.953537@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462606069,
+    "wof:geomhash":"1540981e7f41914333909feafb1e4fc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081873,
+            "neighbourhood_id":85852983,
+            "region_id":85688517,
+            "venue_id":807320503
+        }
+    ],
+    "wof:id":807320503,
+    "wof:lastmodified":1462606069,
+    "wof:name":"Mark's Auto",
+    "wof:parent_id":85852983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "gas"
+    ]
+},
+  "bbox": [
+    -87.9534,
+    43.321499,
+    -87.9534,
+    43.321499
+],
+  "geometry": {"coordinates":[-87.9534,43.321499],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773407907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.300925,44.756437,-90.300925,44.756437",
+    "geom:latitude":44.756437,
+    "geom:longitude":-90.300925,
+    "iso:country":"US",
+    "sg:address":"102 Dearborn St",
+    "sg:city":"Spencer",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 659 4062",
+    "sg:postcode":"54479",
+    "sg:province":"WI",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85832133,
+        102081881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cIJfiHD4HPEN4niX3Ryhw_44.756437_-90.300925@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585473,
+    "wof:geomhash":"0b07bd35ac5ea43ea537782e5ba5d8be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "neighbourhood_id":85832133,
+            "region_id":85688517,
+            "venue_id":773407907
+        }
+    ],
+    "wof:id":773407907,
+    "wof:lastmodified":1462585473,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85832133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -90.300925,
+    44.756437,
+    -90.300925,
+    44.756437
+],
+  "geometry": {"coordinates":[-90.30092500000001,44.756437],"type":"Point"}
+}

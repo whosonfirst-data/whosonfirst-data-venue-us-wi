@@ -1,0 +1,75 @@
+{
+  "id": 789625271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.932417,43.017112,-87.932417,43.017112",
+    "geom:latitude":43.017112,
+    "geom:longitude":-87.932417,
+    "iso:country":"US",
+    "sg:address":"1560 W Greenfield Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 671 7015",
+    "sg:postcode":"53204",
+    "sg:province":"WI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870969,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HB4zzyie3ozFPjRPcX7FH_43.017112_-87.932417@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589259,
+    "wof:geomhash":"c2815dd40040a78d64c7bb7e5b5d6d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870969,
+            "region_id":85688517,
+            "venue_id":789625271
+        }
+    ],
+    "wof:id":789625271,
+    "wof:lastmodified":1462589259,
+    "wof:name":"Quality Cleaning Svc",
+    "wof:parent_id":85870969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -87.932417,
+    43.017112,
+    -87.932417,
+    43.017112
+],
+  "geometry": {"coordinates":[-87.932417,43.017112],"type":"Point"}
+}

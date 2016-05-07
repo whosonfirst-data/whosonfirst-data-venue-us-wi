@@ -1,0 +1,74 @@
+{
+  "id": 806798083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.510249,44.815648,-91.510249,44.815648",
+    "geom:latitude":44.815648,
+    "geom:longitude":-91.510249,
+    "iso:country":"US",
+    "sg:address":"108 W Madison St",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 832 6065",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "sg:website":"www.kwiktrip.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85848105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KVdwOo9gObBv4NPJ3Qxly_44.815648_-91.510249@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601169,
+    "wof:geomhash":"cf265b64107f473b2dd2adaf7cf6ad63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85848105,
+            "region_id":85688517,
+            "venue_id":806798083
+        }
+    ],
+    "wof:id":806798083,
+    "wof:lastmodified":1462601169,
+    "wof:name":"KWIK Trip",
+    "wof:parent_id":85848105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -91.510249,
+    44.815648,
+    -91.510249,
+    44.815648
+],
+  "geometry": {"coordinates":[-91.510249,44.815648],"type":"Point"}
+}

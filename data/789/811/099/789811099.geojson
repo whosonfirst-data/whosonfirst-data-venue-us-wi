@@ -1,0 +1,71 @@
+{
+  "id": 789811099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.655295,44.22219,-88.655295,44.22219",
+    "geom:latitude":44.22219,
+    "geom:longitude":-88.655295,
+    "iso:country":"US",
+    "sg:address":"5210 N Loop Rd",
+    "sg:city":"Larsen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 836 3986",
+    "sg:postcode":"54947",
+    "sg:province":"WI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85833681,
+        102081801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NfPGTdObjXfSFbU3XKJSi_44.222190_-88.655295@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590722,
+    "wof:geomhash":"91a98bd3bea2291d05ceebeaaab7c13b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "neighbourhood_id":85833681,
+            "region_id":85688517,
+            "venue_id":789811099
+        }
+    ],
+    "wof:id":789811099,
+    "wof:lastmodified":1462590722,
+    "wof:name":"Forrest Plumbing LLC",
+    "wof:parent_id":85833681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.655295,
+    44.22219,
+    -88.655295,
+    44.22219
+],
+  "geometry": {"coordinates":[-88.655295,44.22219],"type":"Point"}
+}

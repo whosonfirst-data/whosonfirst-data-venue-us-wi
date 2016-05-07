@@ -1,0 +1,75 @@
+{
+  "id": 807350239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.50275,43.063917,-89.50275,43.063917",
+    "geom:latitude":43.063917,
+    "geom:longitude":-89.50275,
+    "iso:country":"US",
+    "sg:address":"202 S Gammon Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 824 4000",
+    "sg:postcode":"53717",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "clinic",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c9A0n3c0YBMQzK7L7DFhU_43.063532_-89.502758@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462606507,
+    "wof:geomhash":"d4c52877e14874159b988a4456271b52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":807350239
+        }
+    ],
+    "wof:id":807350239,
+    "wof:lastmodified":1462606507,
+    "wof:name":"West Madison Dean Clinic",
+    "wof:parent_id":85878843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "clinic",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.50275,
+    43.063917,
+    -89.50275,
+    43.063917
+],
+  "geometry": {"coordinates":[-89.50275000000001,43.063917],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 806355123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.025912,44.51142,-88.025912,44.51142",
+    "geom:latitude":44.51142,
+    "geom:longitude":-88.025912,
+    "iso:country":"US",
+    "sg:address":"416 Clinton St",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 432 3456",
+    "sg:postcode":"54303",
+    "sg:province":"WI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877935,
+        102191575,
+        404491529,
+        85633793,
+        101732365,
+        102081867,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Bw6yZk9hUNVmmpWxSBu8h_44.511420_-88.025912@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462597471,
+    "wof:geomhash":"595626388d0f62438e2cd8cc137806a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081867,
+            "localadmin_id":404491529,
+            "locality_id":101732365,
+            "neighbourhood_id":85877935,
+            "region_id":85688517,
+            "venue_id":806355123
+        }
+    ],
+    "wof:id":806355123,
+    "wof:lastmodified":1462597471,
+    "wof:name":"Bay City Transport & Cab",
+    "wof:parent_id":85877935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -88.025912,
+    44.51142,
+    -88.025912,
+    44.51142
+],
+  "geometry": {"coordinates":[-88.02591200000001,44.51142],"type":"Point"}
+}

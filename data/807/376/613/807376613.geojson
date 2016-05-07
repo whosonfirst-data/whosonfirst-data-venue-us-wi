@@ -1,0 +1,72 @@
+{
+  "id": 807376613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.447605,44.204742,-88.447605,44.204742",
+    "geom:latitude":44.204742,
+    "geom:longitude":-88.447605,
+    "iso:country":"US",
+    "sg:address":"450 3rd St",
+    "sg:city":"Menasha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/menasha/204831-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 727 0755",
+    "sg:postcode":"54952",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732729,
+        102081801,
+        85807543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76AsliX9sttBHmdmXBTd5S_44.204815_-88.447234@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606879,
+    "wof:geomhash":"fa503ffb5e10c05c57569586a6f206ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101732729,
+            "neighbourhood_id":85807543,
+            "region_id":85688517,
+            "venue_id":807376613
+        }
+    ],
+    "wof:id":807376613,
+    "wof:lastmodified":1462606879,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85807543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -88.447605,
+    44.204742,
+    -88.447605,
+    44.204742
+],
+  "geometry": {"coordinates":[-88.447605,44.204742],"type":"Point"}
+}

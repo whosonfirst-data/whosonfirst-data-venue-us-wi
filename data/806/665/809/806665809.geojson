@@ -1,0 +1,71 @@
+{
+  "id": 806665809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.799289,43.624868,-87.799289,43.624868",
+    "geom:latitude":43.624868,
+    "geom:longitude":-87.799289,
+    "iso:country":"US",
+    "sg:address":"14 N 10th St",
+    "sg:city":"Oostburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 564 2317",
+    "sg:postcode":"53070",
+    "sg:province":"WI",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733891,
+        102081869,
+        85821461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IIUXYvaxDqYvDIokBQ1AF_43.624868_-87.799289@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462600046,
+    "wof:geomhash":"610d55c2874d27237f64a4c4982fc45e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "locality_id":101733891,
+            "neighbourhood_id":85821461,
+            "region_id":85688517,
+            "venue_id":806665809
+        }
+    ],
+    "wof:id":806665809,
+    "wof:lastmodified":1462600046,
+    "wof:name":"Terry's Upholstery",
+    "wof:parent_id":85821461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -87.799289,
+    43.624868,
+    -87.799289,
+    43.624868
+],
+  "geometry": {"coordinates":[-87.799289,43.624868],"type":"Point"}
+}

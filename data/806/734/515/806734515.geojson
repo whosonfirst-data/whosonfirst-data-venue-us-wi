@@ -1,0 +1,81 @@
+{
+  "id": 806734515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.967983,43.089887,-87.967983,43.089887",
+    "geom:latitude":43.089887,
+    "geom:longitude":-87.967983,
+    "iso:country":"US",
+    "sg:address":"4344 W Capitol Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 875 1234",
+    "sg:postcode":"53216",
+    "sg:province":"WI",
+    "sg:tags":[
+        "wheel",
+        "aircraft",
+        "overhaul",
+        "brakes"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870959,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fB4zfBqg7a14T736gvoWH_43.089887_-87.967983@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462600620,
+    "wof:geomhash":"fc09c40fa187ab1b9e701c38a1280edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870959,
+            "region_id":85688517,
+            "venue_id":806734515
+        }
+    ],
+    "wof:id":806734515,
+    "wof:lastmodified":1462600620,
+    "wof:name":"Milwaukee Centerline",
+    "wof:parent_id":85870959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "aircraft",
+        "overhaul",
+        "brakes"
+    ]
+},
+  "bbox": [
+    -87.967983,
+    43.089887,
+    -87.967983,
+    43.089887
+],
+  "geometry": {"coordinates":[-87.967983,43.089887],"type":"Point"}
+}

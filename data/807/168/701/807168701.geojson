@@ -1,0 +1,77 @@
+{
+  "id": 807168701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.909915,42.930523,-87.909915,42.930523",
+    "geom:latitude":42.930523,
+    "geom:longitude":-87.909915,
+    "iso:country":"US",
+    "sg:address":"6134 S Howell Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 570 1800",
+    "sg:postcode":"53207",
+    "sg:province":"WI",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870859,
+        102191575,
+        404494177,
+        85633793,
+        101733079,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oib1kbRsmTqgMr8MAtUpp_42.930523_-87.909915@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604470,
+    "wof:geomhash":"908e0101c2738950df7f03e82bf9f82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494177,
+            "locality_id":101733079,
+            "neighbourhood_id":85870859,
+            "region_id":85688517,
+            "venue_id":807168701
+        }
+    ],
+    "wof:id":807168701,
+    "wof:lastmodified":1462604470,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85870859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -87.909915,
+    42.930523,
+    -87.909915,
+    42.930523
+],
+  "geometry": {"coordinates":[-87.909915,42.930523],"type":"Point"}
+}

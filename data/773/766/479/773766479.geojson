@@ -1,0 +1,82 @@
+{
+  "id": 773766479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.360845,43.085794,-89.360845,43.085794",
+    "geom:latitude":43.085794,
+    "geom:longitude":-89.360845,
+    "iso:country":"US",
+    "sg:address":"1302 Williamson St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 256 2953",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:website":"www.thecrystalcornerbar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878861,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517,
+        85868285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HPUmB97IlbePRNFylK2z6_43.085794_-89.360845@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588217,
+    "wof:geomhash":"165f3297fff985d7564d1ec11b11e1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878861,
+            "region_id":85688517,
+            "venue_id":773766479
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85868285,
+            "region_id":85688517,
+            "venue_id":773766479
+        }
+    ],
+    "wof:id":773766479,
+    "wof:lastmodified":1462588217,
+    "wof:name":"Crystal Corner Bar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.360845,
+    43.085794,
+    -89.360845,
+    43.085794
+],
+  "geometry": {"coordinates":[-89.360845,43.085794],"type":"Point"}
+}

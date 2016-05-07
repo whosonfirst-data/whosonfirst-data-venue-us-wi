@@ -1,0 +1,84 @@
+{
+  "id": 807370953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.468764,44.273064,-88.468764,44.273064",
+    "geom:latitude":44.273064,
+    "geom:longitude":-88.468764,
+    "iso:country":"US",
+    "sg:address":"4101 W Wisconsin Ave",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/grand-chute/95423-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 733 6829",
+    "sg:postcode":"54913",
+    "sg:province":"WI",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sNqpcFbVbXse4ybooloXC_44.273064_-88.468764@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606801,
+    "wof:geomhash":"2e14299adf7dee62e02dbb2b694548df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":807370953
+        }
+    ],
+    "wof:id":807370953,
+    "wof:lastmodified":1462606801,
+    "wof:name":"IHOP",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -88.468764,
+    44.273064,
+    -88.468764,
+    44.273064
+],
+  "geometry": {"coordinates":[-88.46876399999999,44.273064],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 789753005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.331928,43.102213,-89.331928,43.102213",
+    "geom:latitude":43.102213,
+    "geom:longitude":-89.331928,
+    "iso:country":"US",
+    "sg:address":"221 Gannon Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 246 8165",
+    "sg:postcode":"53714",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878865,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517,
+        85878839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49r9cnbDdbGEj5YE6E8eI7_43.102213_-89.331928@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590276,
+    "wof:geomhash":"0ddcc622a15d88b5fe167ee2afa4ff39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878865,
+            "region_id":85688517,
+            "venue_id":789753005
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878839,
+            "region_id":85688517,
+            "venue_id":789753005
+        }
+    ],
+    "wof:id":789753005,
+    "wof:lastmodified":1462590276,
+    "wof:name":"Fowler Trucking LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.331928,
+    43.102213,
+    -89.331928,
+    43.102213
+],
+  "geometry": {"coordinates":[-89.331928,43.102213],"type":"Point"}
+}

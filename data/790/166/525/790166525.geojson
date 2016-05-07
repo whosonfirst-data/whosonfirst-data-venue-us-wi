@@ -1,0 +1,71 @@
+{
+  "id": 790166525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.730297,43.767119,-87.730297,43.767119",
+    "geom:latitude":43.767119,
+    "geom:longitude":-87.730297,
+    "iso:country":"US",
+    "sg:address":"1929 N 18th St",
+    "sg:city":"Sheboygan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 458 5775",
+    "sg:postcode":"53081",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85818209,
+        102081869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gWa5MHeAJ53QO1WtscvyP_43.767119_-87.730297@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462593655,
+    "wof:geomhash":"dd0af036d273581fa3d7b7a547718483",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "neighbourhood_id":85818209,
+            "region_id":85688517,
+            "venue_id":790166525
+        }
+    ],
+    "wof:id":790166525,
+    "wof:lastmodified":1462593655,
+    "wof:name":"Prestige Motors",
+    "wof:parent_id":85818209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.730297,
+    43.767119,
+    -87.730297,
+    43.767119
+],
+  "geometry": {"coordinates":[-87.73029699999999,43.767119],"type":"Point"}
+}

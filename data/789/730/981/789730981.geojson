@@ -1,0 +1,82 @@
+{
+  "id": 789730981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.950537,43.003135,-87.950537,43.003135",
+    "geom:latitude":43.003135,
+    "geom:longitude":-87.950537,
+    "iso:country":"US",
+    "sg:address":"2800 W Lincoln Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 831 1692",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:website":"www.wildflour.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870927,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517,
+        85870843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6enNbLsqHnVGxYu1AjWJ2L_43.003135_-87.950537@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590110,
+    "wof:geomhash":"f7897d680f7aa14c4a2f1ab255a04d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870927,
+            "region_id":85688517,
+            "venue_id":789730981
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870843,
+            "region_id":85688517,
+            "venue_id":789730981
+        }
+    ],
+    "wof:id":789730981,
+    "wof:lastmodified":1462590110,
+    "wof:name":"Wild Flour Bake Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.950537,
+    43.003135,
+    -87.950537,
+    43.003135
+],
+  "geometry": {"coordinates":[-87.950537,43.003135],"type":"Point"}
+}

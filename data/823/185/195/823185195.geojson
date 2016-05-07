@@ -1,0 +1,75 @@
+{
+  "id": 823185195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.371078,42.917822,-89.371078,42.917822",
+    "geom:latitude":42.917822,
+    "geom:longitude":-89.371078,
+    "iso:country":"US",
+    "sg:address":"990 Janesville St Unit 1",
+    "sg:city":"Oregon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 835 5373",
+    "sg:postcode":"53575",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"http://www.stoughtonhospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85829451,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37JYOsx0QpT2XCqfZ2QdJn_42.917822_-89.371078@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608134,
+    "wof:geomhash":"d520e0e6016d1caddc05f5af5ee6c101",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85829451,
+            "region_id":85688517,
+            "venue_id":823185195
+        }
+    ],
+    "wof:id":823185195,
+    "wof:lastmodified":1462608134,
+    "wof:name":"Stoughton Hospital",
+    "wof:parent_id":85829451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.371078,
+    42.917822,
+    -89.371078,
+    42.917822
+],
+  "geometry": {"coordinates":[-89.371078,42.917822],"type":"Point"}
+}

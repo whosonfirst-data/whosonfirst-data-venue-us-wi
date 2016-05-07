@@ -1,0 +1,78 @@
+{
+  "id": 807370543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.581835,44.00025,-88.581835,44.00025",
+    "geom:latitude":44.00025,
+    "geom:longitude":-88.581835,
+    "iso:country":"US",
+    "sg:address":"1700 S Koeller St",
+    "sg:city":"Oshkosh",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/oshkosh/35977-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 231 8770",
+    "sg:postcode":"54902",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733459,
+        102081801,
+        85819403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AVrE88Z9YAb0MZnv6XLMw_44.000250_-88.581835@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606796,
+    "wof:geomhash":"79e1adef1883dbc615eb64925c68cb48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101733459,
+            "neighbourhood_id":85819403,
+            "region_id":85688517,
+            "venue_id":807370543
+        }
+    ],
+    "wof:id":807370543,
+    "wof:lastmodified":1462606796,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85819403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -88.581835,
+    44.00025,
+    -88.581835,
+    44.00025
+],
+  "geometry": {"coordinates":[-88.581835,44.00025],"type":"Point"}
+}

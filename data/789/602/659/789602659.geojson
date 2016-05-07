@@ -1,0 +1,73 @@
+{
+  "id": 789602659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.101127,43.876332,-91.101127,43.876332",
+    "geom:latitude":43.876332,
+    "geom:longitude":-91.101127,
+    "iso:country":"US",
+    "sg:address":"2121 Co Rd M",
+    "sg:city":"La Crosse",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 786 1349",
+    "sg:postcode":"54601",
+    "sg:province":"WI",
+    "sg:tags":[
+        "transmission",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732663,
+        102081301,
+        85825891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ErE0XfO1f2KmUD2T1rv6h_43.876332_-91.101127@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589086,
+    "wof:geomhash":"b6d2f2cbb84992b210fc3ba8c32506c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732663,
+            "neighbourhood_id":85825891,
+            "region_id":85688517,
+            "venue_id":789602659
+        }
+    ],
+    "wof:id":789602659,
+    "wof:lastmodified":1462589086,
+    "wof:name":"Dens Auto Clinic",
+    "wof:parent_id":85825891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.101127,
+    43.876332,
+    -91.101127,
+    43.876332
+],
+  "geometry": {"coordinates":[-91.10112700000001,43.876332],"type":"Point"}
+}

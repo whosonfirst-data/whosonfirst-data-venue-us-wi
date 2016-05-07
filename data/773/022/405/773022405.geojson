@@ -1,0 +1,86 @@
+{
+  "id": 773022405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.938588,42.988169,-87.938588,42.988169",
+    "geom:latitude":42.988169,
+    "geom:longitude":-87.938588,
+    "iso:country":"US",
+    "sg:address":"3305 S 20th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 645 1808",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870927,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517,
+        85870955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Zzld9bwXmE5OXvPkW1IzM_42.988169_-87.938588@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462582488,
+    "wof:geomhash":"1738ea36db0187bd331c5d7f62ea9db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870927,
+            "region_id":85688517,
+            "venue_id":773022405
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870955,
+            "region_id":85688517,
+            "venue_id":773022405
+        }
+    ],
+    "wof:id":773022405,
+    "wof:lastmodified":1462582488,
+    "wof:name":"Lakeshore Medical Walk-In",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -87.938588,
+    42.988169,
+    -87.938588,
+    42.988169
+],
+  "geometry": {"coordinates":[-87.938588,42.988169],"type":"Point"}
+}

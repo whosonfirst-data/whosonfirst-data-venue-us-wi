@@ -1,0 +1,73 @@
+{
+  "id": 806562331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.297487,43.023194,-89.297487,43.023194",
+    "geom:latitude":43.023194,
+    "geom:longitude":-89.297487,
+    "iso:country":"US",
+    "sg:address":"5315 Paulson Rd",
+    "sg:city":"Mc Farland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 838 7001",
+    "sg:postcode":"53558",
+    "sg:province":"WI",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p4nND8LwVXcvnUAm6nHrv_43.023194_-89.297487@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462599145,
+    "wof:geomhash":"f3b39249a86b053b071650c63c16cf73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":806562331
+        }
+    ],
+    "wof:id":806562331,
+    "wof:lastmodified":1462599145,
+    "wof:name":"Seville Corp Warehouse",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -89.297487,
+    43.023194,
+    -89.297487,
+    43.023194
+],
+  "geometry": {"coordinates":[-89.297487,43.023194],"type":"Point"}
+}

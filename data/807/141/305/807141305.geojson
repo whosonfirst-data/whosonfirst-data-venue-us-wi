@@ -1,0 +1,91 @@
+{
+  "id": 807141305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.061457,43.139736,-88.061457,43.139736",
+    "geom:latitude":43.139736,
+    "geom:longitude":-88.061457,
+    "iso:country":"US",
+    "sg:address":"11900 W Appleton Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 355 1200",
+    "sg:postcode":"53224",
+    "sg:province":"WI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550109,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517,
+        420550241,
+        404495647,
+        101733465,
+        102081741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lEDDIzwXeZudPuyvCjsDo_43.139736_-88.061457@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604171,
+    "wof:geomhash":"cc531ef8322d18c47750464f7bcbf14c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":420550109,
+            "region_id":85688517,
+            "venue_id":807141305
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081741,
+            "localadmin_id":404495647,
+            "locality_id":101733465,
+            "neighbourhood_id":420550241,
+            "region_id":85688517,
+            "venue_id":807141305
+        }
+    ],
+    "wof:id":807141305,
+    "wof:lastmodified":1462604171,
+    "wof:name":"Bernard's Outback Landscaping",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.061457,
+    43.139736,
+    -88.061457,
+    43.139736
+],
+  "geometry": {"coordinates":[-88.061457,43.139736],"type":"Point"}
+}

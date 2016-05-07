@@ -1,0 +1,82 @@
+{
+  "id": 823151489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.906001,43.089201,-87.906001,43.089201",
+    "geom:latitude":43.089201,
+    "geom:longitude":-87.906001,
+    "iso:country":"US",
+    "sg:address":"401 E Capitol Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 967 0548",
+    "sg:postcode":"53212",
+    "sg:province":"WI",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870941,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15O1Mh3SQen4CY2ljYuOpa_43.089201_-87.906001@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607685,
+    "wof:geomhash":"0520d0540d8bcfadd88fc92cca2c3fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870941,
+            "region_id":85688517,
+            "venue_id":823151489
+        }
+    ],
+    "wof:id":823151489,
+    "wof:lastmodified":1462607685,
+    "wof:name":"Us Cellular",
+    "wof:parent_id":85870941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -87.906001,
+    43.089201,
+    -87.906001,
+    43.089201
+],
+  "geometry": {"coordinates":[-87.906001,43.089201],"type":"Point"}
+}

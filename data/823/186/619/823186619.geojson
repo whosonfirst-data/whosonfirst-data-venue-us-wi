@@ -1,0 +1,87 @@
+{
+  "id": 823186619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.337892,43.049278,-89.337892,43.049278",
+    "geom:latitude":43.049278,
+    "geom:longitude":-89.337892,
+    "iso:country":"US",
+    "sg:address":"6416 Bridge Rd",
+    "sg:city":"Monona",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 225 7095",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "breeder",
+        "specialty",
+        "store",
+        "show"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CpLSlpRdKA4Ev4gZu808j_43.049278_-89.337892@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608151,
+    "wof:geomhash":"510fce3e46e88697e71bc72b3420f48d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":823186619
+        }
+    ],
+    "wof:id":823186619,
+    "wof:lastmodified":1462608151,
+    "wof:name":"Reptile Rapture",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeder",
+        "specialty",
+        "store",
+        "show"
+    ]
+},
+  "bbox": [
+    -89.337892,
+    43.049278,
+    -89.337892,
+    43.049278
+],
+  "geometry": {"coordinates":[-89.337892,43.049278],"type":"Point"}
+}

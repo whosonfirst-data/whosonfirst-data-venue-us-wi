@@ -1,0 +1,84 @@
+{
+  "id": 823147393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.953987,43.137772,-87.953987,43.137772",
+    "geom:latitude":43.137772,
+    "geom:longitude":-87.953987,
+    "iso:country":"US",
+    "sg:address":"6617 N Teutonia Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 351 2500",
+    "sg:postcode":"53209",
+    "sg:province":"WI",
+    "sg:tags":[
+        "transmission",
+        "truck",
+        "transmissions-other"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870811,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wKdjNWSVWX8L46Hq9rs3a_43.137772_-87.953987@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607636,
+    "wof:geomhash":"522e181ed9c7697cc0f615b8de9845ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870811,
+            "region_id":85688517,
+            "venue_id":823147393
+        }
+    ],
+    "wof:id":823147393,
+    "wof:lastmodified":1462607636,
+    "wof:name":"Badger Transmissions",
+    "wof:parent_id":85870811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "truck",
+        "transmissions-other"
+    ]
+},
+  "bbox": [
+    -87.953987,
+    43.137772,
+    -87.953987,
+    43.137772
+],
+  "geometry": {"coordinates":[-87.953987,43.137772],"type":"Point"}
+}

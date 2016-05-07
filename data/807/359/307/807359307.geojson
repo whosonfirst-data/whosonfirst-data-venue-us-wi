@@ -1,0 +1,82 @@
+{
+  "id": 807359307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.996752,43.045919,-87.996752,43.045919",
+    "geom:latitude":43.045919,
+    "geom:longitude":-87.996752,
+    "iso:country":"US",
+    "sg:address":"6750 W State St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/wauwatosa/88870-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 778 1430",
+    "sg:postcode":"53213",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870885,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y0qmFt11DKv7soQztvWxm_43.045919_-87.996752@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606640,
+    "wof:geomhash":"698a6687133b19b7e2c5aa72652501ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870885,
+            "region_id":85688517,
+            "venue_id":807359307
+        }
+    ],
+    "wof:id":807359307,
+    "wof:lastmodified":1462606640,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85870885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -87.996752,
+    43.045919,
+    -87.996752,
+    43.045919
+],
+  "geometry": {"coordinates":[-87.996752,43.045919],"type":"Point"}
+}

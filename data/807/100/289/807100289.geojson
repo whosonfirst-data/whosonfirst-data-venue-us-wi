@@ -1,0 +1,82 @@
+{
+  "id": 807100289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.432626,44.229829,-88.432626,44.229829",
+    "geom:latitude":44.229829,
+    "geom:longitude":-88.432626,
+    "iso:country":"US",
+    "sg:address":"1095 Midway Rd",
+    "sg:city":"Menasha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 720 2300",
+    "sg:postcode":"54952",
+    "sg:province":"WI",
+    "sg:tags":[
+        "clinic",
+        "mental",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732729,
+        102081801,
+        85807543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZmIRIKXPlsKMoCB4eXbEo_44.229829_-88.432626@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603735,
+    "wof:geomhash":"99c4ec5085d8e4ec5f971f0d095d05b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101732729,
+            "neighbourhood_id":85807543,
+            "region_id":85688517,
+            "venue_id":807100289
+        }
+    ],
+    "wof:id":807100289,
+    "wof:lastmodified":1462603735,
+    "wof:name":"Theda-Care Behavioral Health",
+    "wof:parent_id":85807543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "mental",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -88.432626,
+    44.229829,
+    -88.432626,
+    44.229829
+],
+  "geometry": {"coordinates":[-88.432626,44.229829],"type":"Point"}
+}

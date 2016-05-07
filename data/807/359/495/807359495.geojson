@@ -1,0 +1,80 @@
+{
+  "id": 807359495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.968745,43.016858,-87.968745,43.016858",
+    "geom:latitude":43.016858,
+    "geom:longitude":-87.968745,
+    "iso:country":"US",
+    "sg:address":"4401 W Greenfield Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/west-milwaukee/141391-vickis-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 647 2275",
+    "sg:postcode":"53214",
+    "sg:province":"WI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870841,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uigxqhNOWpCjGIFPVt9Ci_43.016858_-87.968745@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606642,
+    "wof:geomhash":"8a80bcb380d278dd91d3d7a0f9acad79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870841,
+            "region_id":85688517,
+            "venue_id":807359495
+        }
+    ],
+    "wof:id":807359495,
+    "wof:lastmodified":1462606642,
+    "wof:name":"Vicki's Restaurant",
+    "wof:parent_id":85870841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -87.968745,
+    43.016858,
+    -87.968745,
+    43.016858
+],
+  "geometry": {"coordinates":[-87.968745,43.016858],"type":"Point"}
+}

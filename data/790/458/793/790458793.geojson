@@ -1,0 +1,79 @@
+{
+  "id": 790458793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.525141,44.074989,-88.525141,44.074989",
+    "geom:latitude":44.074989,
+    "geom:longitude":-88.525141,
+    "iso:country":"US",
+    "sg:address":"4060 Co Rd A",
+    "sg:city":"Oshkosh",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 231 8067",
+    "sg:postcode":"54901",
+    "sg:province":"WI",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85818737,
+        102081801,
+        85827909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TsOq3YS3pxKleGAqWsOAT_44.074989_-88.525141@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462596002,
+    "wof:geomhash":"c1f843e8f03c6eff68093f388f5d6817",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "neighbourhood_id":85818737,
+            "region_id":85688517,
+            "venue_id":790458793
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "neighbourhood_id":85827909,
+            "region_id":85688517,
+            "venue_id":790458793
+        }
+    ],
+    "wof:id":790458793,
+    "wof:lastmodified":1462596002,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -88.525141,
+    44.074989,
+    -88.525141,
+    44.074989
+],
+  "geometry": {"coordinates":[-88.525141,44.074989],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790220209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.035113,43.351922,-88.035113,43.351922",
+    "geom:latitude":43.351922,
+    "geom:longitude":-88.035113,
+    "iso:country":"US",
+    "sg:address":"2299 Brandt Dr",
+    "sg:city":"Cedarburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 240 0000",
+    "sg:postcode":"53012",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85826293,
+        102081873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lKhk4b92kAKmEmqrmR2kH_43.351922_-88.035113@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462594104,
+    "wof:geomhash":"86018e272e24f0451307ea004994abd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081873,
+            "neighbourhood_id":85826293,
+            "region_id":85688517,
+            "venue_id":790220209
+        }
+    ],
+    "wof:id":790220209,
+    "wof:lastmodified":1462594104,
+    "wof:name":"Sharon L Elias MD",
+    "wof:parent_id":85826293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.035113,
+    43.351922,
+    -88.035113,
+    43.351922
+],
+  "geometry": {"coordinates":[-88.035113,43.351922],"type":"Point"}
+}

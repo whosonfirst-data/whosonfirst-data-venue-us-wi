@@ -1,0 +1,78 @@
+{
+  "id": 807341007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.006311,43.134209,-88.006311,43.134209",
+    "geom:latitude":43.134209,
+    "geom:longitude":-88.006311,
+    "iso:country":"US",
+    "sg:address":"7630 W Mill Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 286 8830",
+    "sg:postcode":"53218",
+    "sg:province":"WI",
+    "sg:tags":[
+        "outpatient",
+        "specialty"
+    ],
+    "sg:website":"http://www.ci.mil.wi.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550105,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KsHwz3zK8fzNpgfaAeUzU_43.134212_-88.006854@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462606364,
+    "wof:geomhash":"a438b1583a12d3dded8eacdbacf7ce15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":420550105,
+            "region_id":85688517,
+            "venue_id":807341007
+        }
+    ],
+    "wof:id":807341007,
+    "wof:lastmodified":1462606364,
+    "wof:name":"Northwest Health Ctr",
+    "wof:parent_id":420550105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -88.006311,
+    43.134209,
+    -88.006311,
+    43.134209
+],
+  "geometry": {"coordinates":[-88.006311,43.134209],"type":"Point"}
+}

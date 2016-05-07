@@ -1,0 +1,73 @@
+{
+  "id": 806787601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.462113,44.800016,-91.462113,44.800016",
+    "geom:latitude":44.800016,
+    "geom:longitude":-91.462113,
+    "iso:country":"US",
+    "sg:address":"935 Vernon St",
+    "sg:city":"Altoona",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 552 7262",
+    "sg:postcode":"54720",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TnTixygs1gC0mXrdxiKQ9_44.800016_-91.462113@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601081,
+    "wof:geomhash":"0d1a4ab6afc0b454c16c203a7cc9dceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":806787601
+        }
+    ],
+    "wof:id":806787601,
+    "wof:lastmodified":1462601081,
+    "wof:name":"Joe's Automotive",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.462113,
+    44.800016,
+    -91.462113,
+    44.800016
+],
+  "geometry": {"coordinates":[-91.462113,44.800016],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 823193125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.231345,43.87682,-91.231345,43.87682",
+    "geom:latitude":43.87682,
+    "geom:longitude":-91.231345,
+    "iso:country":"US",
+    "sg:address":"641 2nd Ave S",
+    "sg:city":"Onalaska",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 783 0225",
+    "sg:postcode":"54650",
+    "sg:province":"WI",
+    "sg:tags":[
+        "automobile",
+        "electrician",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732651,
+        102081301,
+        85833661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pKlFdqlGHRu04V2ii0GAo_43.876820_-91.231345@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608234,
+    "wof:geomhash":"4afa80e0efb46e1c0f29c7c0834a8e91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732651,
+            "neighbourhood_id":85833661,
+            "region_id":85688517,
+            "venue_id":823193125
+        }
+    ],
+    "wof:id":823193125,
+    "wof:lastmodified":1462608234,
+    "wof:name":"Ed's Auto Electric",
+    "wof:parent_id":85833661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electrician",
+        "electric"
+    ]
+},
+  "bbox": [
+    -91.231345,
+    43.87682,
+    -91.231345,
+    43.87682
+],
+  "geometry": {"coordinates":[-91.231345,43.87682],"type":"Point"}
+}

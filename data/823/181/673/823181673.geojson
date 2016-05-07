@@ -1,0 +1,79 @@
+{
+  "id": 823181673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.168571,42.571275,-89.168571,42.571275",
+    "geom:latitude":42.571275,
+    "geom:longitude":-89.168571,
+    "iso:country":"US",
+    "sg:address":"7402 S County Road H",
+    "sg:city":"Beloit",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 879 2811",
+    "sg:postcode":"53511",
+    "sg:province":"WI",
+    "sg:tags":[
+        "corn",
+        "product"
+    ],
+    "sg:website":"http://www.perkinsmd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732817,
+        102081829,
+        85810961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hkVGnAQbsO5gWV23o54VM_42.571275_-89.168571@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608082,
+    "wof:geomhash":"1d79bd224f5f3d964e9f59961499c7e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "locality_id":101732817,
+            "neighbourhood_id":85810961,
+            "region_id":85688517,
+            "venue_id":823181673
+        }
+    ],
+    "wof:id":823181673,
+    "wof:lastmodified":1462608082,
+    "wof:name":"Steve Perkins",
+    "wof:parent_id":85810961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corn",
+        "product"
+    ]
+},
+  "bbox": [
+    -89.168571,
+    42.571275,
+    -89.168571,
+    42.571275
+],
+  "geometry": {"coordinates":[-89.168571,42.571275],"type":"Point"}
+}

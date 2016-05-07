@@ -1,0 +1,110 @@
+{
+  "id": 823180285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.844824,42.697065,-87.844824,42.697065",
+    "geom:latitude":42.697065,
+    "geom:longitude":-87.844824,
+    "iso:country":"US",
+    "sg:address":"5439 Durand Ave",
+    "sg:city":"Racine",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 554 9787",
+    "sg:postcode":"53406",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "radiology",
+        "laboratories-medical",
+        "dental",
+        "pediatrics-radiology",
+        "surgeons",
+        "imaging",
+        "resonance",
+        "magnetic",
+        "x-ray",
+        "mri"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854859,
+        102191575,
+        404494985,
+        85633793,
+        101732325,
+        102081763,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wJ8QhT8RF9YSR21sF5M1j_42.697065_-87.844824@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608066,
+    "wof:geomhash":"27e5d8e64ed896ebc8f95a8ea6d0feb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494985,
+            "locality_id":101732325,
+            "neighbourhood_id":85854859,
+            "region_id":85688517,
+            "venue_id":823180285
+        }
+    ],
+    "wof:id":823180285,
+    "wof:lastmodified":1462608066,
+    "wof:name":"Advanced Medical Imaging",
+    "wof:parent_id":85854859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "radiology",
+        "laboratories-medical",
+        "dental",
+        "pediatrics-radiology",
+        "surgeons",
+        "imaging",
+        "resonance",
+        "magnetic",
+        "x-ray",
+        "mri"
+    ]
+},
+  "bbox": [
+    -87.844824,
+    42.697065,
+    -87.844824,
+    42.697065
+],
+  "geometry": {"coordinates":[-87.844824,42.697065],"type":"Point"}
+}

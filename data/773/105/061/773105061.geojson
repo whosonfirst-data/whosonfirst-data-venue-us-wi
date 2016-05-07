@@ -1,0 +1,71 @@
+{
+  "id": 773105061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.191992,43.254354,-88.191992,43.254354",
+    "geom:latitude":43.254354,
+    "geom:longitude":-88.191992,
+    "iso:country":"US",
+    "sg:address":"1810 Wolf Rd",
+    "sg:city":"Richfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 628 1932",
+    "sg:postcode":"53076",
+    "sg:province":"WI",
+    "sg:tags":[
+        "truck",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85846371,
+        102081745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29bsr8NWaBsuXxBExMWr0T_43.254354_-88.191992@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583189,
+    "wof:geomhash":"ef60b23325ad05b706d666e33089dd9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081745,
+            "neighbourhood_id":85846371,
+            "region_id":85688517,
+            "venue_id":773105061
+        }
+    ],
+    "wof:id":773105061,
+    "wof:lastmodified":1462583189,
+    "wof:name":"Richfield Service Inc",
+    "wof:parent_id":85846371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "sales"
+    ]
+},
+  "bbox": [
+    -88.191992,
+    43.254354,
+    -88.191992,
+    43.254354
+],
+  "geometry": {"coordinates":[-88.191992,43.254354],"type":"Point"}
+}

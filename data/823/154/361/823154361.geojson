@@ -1,0 +1,88 @@
+{
+  "id": 823154361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.993842,43.060741,-87.993842,43.060741",
+    "geom:latitude":43.060741,
+    "geom:longitude":-87.993842,
+    "iso:country":"US",
+    "sg:address":"6520 W North Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 431 0510",
+    "sg:postcode":"53213",
+    "sg:province":"WI",
+    "sg:tags":[
+        "frozen",
+        "dessert"
+    ],
+    "sg:website":"http://www.dairyqueen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870913,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PVBUayeAPDmGVT6LCq8B9_43.060741_-87.993842@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607723,
+    "wof:geomhash":"7aae3b57bb974e809557c0a405315459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870913,
+            "region_id":85688517,
+            "venue_id":823154361
+        }
+    ],
+    "wof:id":823154361,
+    "wof:lastmodified":1462607723,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85870913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert"
+    ]
+},
+  "bbox": [
+    -87.993842,
+    43.060741,
+    -87.993842,
+    43.060741
+],
+  "geometry": {"coordinates":[-87.993842,43.060741],"type":"Point"}
+}

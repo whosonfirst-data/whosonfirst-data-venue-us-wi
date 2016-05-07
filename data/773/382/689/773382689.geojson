@@ -1,0 +1,69 @@
+{
+  "id": 773382689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.966004,44.423214,-87.966004,44.423214",
+    "geom:latitude":44.423214,
+    "geom:longitude":-87.966004,
+    "iso:country":"US",
+    "sg:address":"3700 Dickinson Rd",
+    "sg:city":"De Pere",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 336 3360",
+    "sg:postcode":"54115",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85828807,
+        102081867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hyhD4f2PZzgjbSbzA58J9_44.423214_-87.966004@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585270,
+    "wof:geomhash":"7a1a9d65cecd2e72265213f738749b6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081867,
+            "neighbourhood_id":85828807,
+            "region_id":85688517,
+            "venue_id":773382689
+        }
+    ],
+    "wof:id":773382689,
+    "wof:lastmodified":1462585270,
+    "wof:name":"Ledgeview Fire Dept",
+    "wof:parent_id":85828807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -87.966004,
+    44.423214,
+    -87.966004,
+    44.423214
+],
+  "geometry": {"coordinates":[-87.966004,44.423214],"type":"Point"}
+}

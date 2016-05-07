@@ -1,0 +1,77 @@
+{
+  "id": 806850269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.856031,43.499397,-87.856031,43.499397",
+    "geom:latitude":43.499397,
+    "geom:longitude":-87.856031,
+    "iso:country":"US",
+    "sg:address":"815 Main St",
+    "sg:city":"Belgium",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 285 3378",
+    "sg:postcode":"53004",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85829065,
+        102191575,
+        404495095,
+        85633793,
+        101732531,
+        102081873,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BtqrSD6bKLF3oloFbCljl_43.499397_-87.856031@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601609,
+    "wof:geomhash":"c828bc476a80af1d979d93b330088f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081873,
+            "localadmin_id":404495095,
+            "locality_id":101732531,
+            "neighbourhood_id":85829065,
+            "region_id":85688517,
+            "venue_id":806850269
+        }
+    ],
+    "wof:id":806850269,
+    "wof:lastmodified":1462601609,
+    "wof:name":"Jeff's Automotive",
+    "wof:parent_id":85829065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.856031,
+    43.499397,
+    -87.856031,
+    43.499397
+],
+  "geometry": {"coordinates":[-87.856031,43.499397],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 790015523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.163004,44.03839,-88.163004,44.03839",
+    "geom:latitude":44.03839,
+    "geom:longitude":-88.163004,
+    "iso:country":"US",
+    "sg:address":"617 N Madison St",
+    "sg:city":"Chilton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 849 7150",
+    "sg:postcode":"53014",
+    "sg:province":"WI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732735,
+        102081289,
+        85822647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4j2i7guQPst3u2AMer5DNa_44.038390_-88.163004@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592454,
+    "wof:geomhash":"b19ac32a97d94d981e34282907a5ae71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081289,
+            "locality_id":101732735,
+            "neighbourhood_id":85822647,
+            "region_id":85688517,
+            "venue_id":790015523
+        }
+    ],
+    "wof:id":790015523,
+    "wof:lastmodified":1462592454,
+    "wof:name":"Sunshine Car Wash Inc",
+    "wof:parent_id":85822647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -88.163004,
+    44.03839,
+    -88.163004,
+    44.03839
+],
+  "geometry": {"coordinates":[-88.163004,44.03839],"type":"Point"}
+}

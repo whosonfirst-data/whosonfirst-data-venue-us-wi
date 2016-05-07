@@ -1,0 +1,72 @@
+{
+  "id": 807200879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.525092,43.075967,-89.525092,43.075967",
+    "geom:latitude":43.075967,
+    "geom:longitude":-89.525092,
+    "iso:country":"US",
+    "sg:address":"8017 Excelsior Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 831 0700",
+    "sg:postcode":"53717",
+    "sg:province":"WI",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "sg:website":"www.verizon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dVdk0ubQ7iQKuKO3RUp0w_43.075967_-89.525092@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604806,
+    "wof:geomhash":"5d0aa2349f8d9d7b348825f9c150224e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":807200879
+        }
+    ],
+    "wof:id":807200879,
+    "wof:lastmodified":1462604806,
+    "wof:name":"Verizon Communications",
+    "wof:parent_id":85878843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -89.525092,
+    43.075967,
+    -89.525092,
+    43.075967
+],
+  "geometry": {"coordinates":[-89.525092,43.075967],"type":"Point"}
+}

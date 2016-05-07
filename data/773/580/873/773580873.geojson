@@ -1,0 +1,73 @@
+{
+  "id": 773580873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.976255,43.748796,-87.976255,43.748796",
+    "geom:latitude":43.748796,
+    "geom:longitude":-87.976255,
+    "iso:country":"US",
+    "sg:address":"302 E Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 892 6906",
+    "sg:postcode":"53073",
+    "sg:province":"WI",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733393,
+        102081869,
+        85836705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3soKZ2OmvY8MtFkiQyAieQ_43.748796_-87.976255@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586810,
+    "wof:geomhash":"1d144874d36113976467b4f59471ff9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "locality_id":101733393,
+            "neighbourhood_id":85836705,
+            "region_id":85688517,
+            "venue_id":773580873
+        }
+    ],
+    "wof:id":773580873,
+    "wof:lastmodified":1462586810,
+    "wof:name":"Plymouth Post Office",
+    "wof:parent_id":85836705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -87.976255,
+    43.748796,
+    -87.976255,
+    43.748796
+],
+  "geometry": {"coordinates":[-87.97625499999999,43.748796],"type":"Point"}
+}

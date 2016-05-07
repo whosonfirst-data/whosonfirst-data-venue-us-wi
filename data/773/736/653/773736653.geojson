@@ -1,0 +1,71 @@
+{
+  "id": 773736653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.734135,43.732044,-87.734135,43.732044",
+    "geom:latitude":43.732044,
+    "geom:longitude":-87.734135,
+    "iso:country":"US",
+    "sg:address":"2105 Union Ave",
+    "sg:city":"Sheboygan",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 457 4863",
+    "sg:postcode":"53081",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85818209,
+        102081869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LrU7toqaTVnm5bJXsk9kX_43.732044_-87.734135@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462587998,
+    "wof:geomhash":"e0f4e260a7200da95701be0db12202f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "neighbourhood_id":85818209,
+            "region_id":85688517,
+            "venue_id":773736653
+        }
+    ],
+    "wof:id":773736653,
+    "wof:lastmodified":1462587998,
+    "wof:name":"Union Pacific Railroad",
+    "wof:parent_id":85818209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line"
+    ]
+},
+  "bbox": [
+    -87.734135,
+    43.732044,
+    -87.734135,
+    43.732044
+],
+  "geometry": {"coordinates":[-87.73413499999999,43.732044],"type":"Point"}
+}

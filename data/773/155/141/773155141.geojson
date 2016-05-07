@@ -1,0 +1,71 @@
+{
+  "id": 773155141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.645223,44.987978,-89.645223,44.987978",
+    "geom:latitude":44.987978,
+    "geom:longitude":-89.645223,
+    "iso:country":"US",
+    "sg:address":"995 W Campus Dr",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 675 3391",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uFaSH21IgvbFiYpRC5m6q_44.987978_-89.645223@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583558,
+    "wof:geomhash":"0f4f717171f70de631f0279f7d5b9930",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":773155141
+        }
+    ],
+    "wof:id":773155141,
+    "wof:lastmodified":1462583558,
+    "wof:name":"Wausau Family Practice Ctr",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -89.645223,
+    44.987978,
+    -89.645223,
+    44.987978
+],
+  "geometry": {"coordinates":[-89.645223,44.987978],"type":"Point"}
+}

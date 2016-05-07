@@ -1,0 +1,73 @@
+{
+  "id": 789685923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.64257,44.964051,-89.64257,44.964051",
+    "geom:latitude":44.964051,
+    "geom:longitude":-89.64257,
+    "iso:country":"US",
+    "sg:address":"115 N 6th Ave",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 842 1603",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "state",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RWoCr5K3ZuLeHmiGNIvgK_44.964051_-89.642570@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589749,
+    "wof:geomhash":"782801c52a3e50b3c90a95f7c4ce59db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":789685923
+        }
+    ],
+    "wof:id":789685923,
+    "wof:lastmodified":1462589749,
+    "wof:name":"Wisconsin Public Defender",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -89.64257,
+    44.964051,
+    -89.64257,
+    44.964051
+],
+  "geometry": {"coordinates":[-89.64257000000001,44.964051],"type":"Point"}
+}

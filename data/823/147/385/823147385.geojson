@@ -1,0 +1,84 @@
+{
+  "id": 823147385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.939278,43.104382,-87.939278,43.104382",
+    "geom:latitude":43.104382,
+    "geom:longitude":-87.939278,
+    "iso:country":"US",
+    "sg:address":"2201 W Hampton Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 447 0347",
+    "sg:postcode":"53209",
+    "sg:province":"WI",
+    "sg:tags":[
+        "provider",
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870823,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pDySs3JydF3h0K61GNQcE_43.104382_-87.939278@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607636,
+    "wof:geomhash":"4b2d2b4106943db15505ba80f8c5e95b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870823,
+            "region_id":85688517,
+            "venue_id":823147385
+        }
+    ],
+    "wof:id":823147385,
+    "wof:lastmodified":1462607636,
+    "wof:name":"D V Trans Inc",
+    "wof:parent_id":85870823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "provider",
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -87.939278,
+    43.104382,
+    -87.939278,
+    43.104382
+],
+  "geometry": {"coordinates":[-87.939278,43.104382],"type":"Point"}
+}

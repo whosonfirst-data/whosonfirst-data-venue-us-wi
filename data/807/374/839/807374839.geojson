@@ -1,0 +1,72 @@
+{
+  "id": 807374839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.302023,43.131115,-89.302023,43.131115",
+    "geom:latitude":43.131115,
+    "geom:longitude":-89.302023,
+    "iso:country":"US",
+    "sg:address":"2649 E Springs Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/80028-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 246 2755",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cttJgBaQKKrWVV4vAwDNK_43.131164_-89.302098@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462606853,
+    "wof:geomhash":"71a1ded514b8cea4bc48383b23eeebaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":807374839
+        }
+    ],
+    "wof:id":807374839,
+    "wof:lastmodified":1462606853,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.302023,
+    43.131115,
+    -89.302023,
+    43.131115
+],
+  "geometry": {"coordinates":[-89.30202300000001,43.131115],"type":"Point"}
+}

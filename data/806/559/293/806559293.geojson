@@ -1,0 +1,71 @@
+{
+  "id": 806559293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.509849,44.805948,-91.509849,44.805948",
+    "geom:latitude":44.805948,
+    "geom:longitude":-91.509849,
+    "iso:country":"US",
+    "sg:address":"506 5th Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 000 1111",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xpWT8s6TovTfiei3QfYqx_44.805948_-91.509849@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462599119,
+    "wof:geomhash":"5a64eddae746c644ff7e7d7efc1a31b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":806559293
+        }
+    ],
+    "wof:id":806559293,
+    "wof:lastmodified":1462599119,
+    "wof:name":"Fire Alarm",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.509849,
+    44.805948,
+    -91.509849,
+    44.805948
+],
+  "geometry": {"coordinates":[-91.509849,44.805948],"type":"Point"}
+}

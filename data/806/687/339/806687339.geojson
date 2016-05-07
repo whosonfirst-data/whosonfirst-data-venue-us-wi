@@ -1,0 +1,71 @@
+{
+  "id": 806687339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.41881,43.025623,-89.41881,43.025623",
+    "geom:latitude":43.025623,
+    "geom:longitude":-89.41881,
+    "iso:country":"US",
+    "sg:address":"2321 Traceway Dr",
+    "sg:city":"Fitchburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 278 2962",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RittsaTJeVzNbn1rQJdX7_43.025623_-89.418810@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462600233,
+    "wof:geomhash":"9289248764457cac0c3e7795babd6482",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":806687339
+        }
+    ],
+    "wof:id":806687339,
+    "wof:lastmodified":1462600233,
+    "wof:name":"Fitchburg Police Dept North",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.41881,
+    43.025623,
+    -89.41881,
+    43.025623
+],
+  "geometry": {"coordinates":[-89.41880999999999,43.025623],"type":"Point"}
+}

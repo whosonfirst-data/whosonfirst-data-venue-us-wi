@@ -1,0 +1,76 @@
+{
+  "id": 807161739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.891911,43.384913,-87.891911,43.384913",
+    "geom:latitude":43.384913,
+    "geom:longitude":-87.891911,
+    "iso:country":"US",
+    "sg:address":"1234 W Lincoln Ave",
+    "sg:city":"Port Washington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 284 6502",
+    "sg:postcode":"53074",
+    "sg:province":"WI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732547,
+        102081873,
+        85828641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pll05SuhmQQcrv7umO7kA_43.384913_-87.891911@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604395,
+    "wof:geomhash":"ab67fd5eecd72676d7be88b4eaaf80b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081873,
+            "locality_id":101732547,
+            "neighbourhood_id":85828641,
+            "region_id":85688517,
+            "venue_id":807161739
+        }
+    ],
+    "wof:id":807161739,
+    "wof:lastmodified":1462604395,
+    "wof:name":"Community Learning Center",
+    "wof:parent_id":85828641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -87.891911,
+    43.384913,
+    -87.891911,
+    43.384913
+],
+  "geometry": {"coordinates":[-87.89191099999999,43.384913],"type":"Point"}
+}

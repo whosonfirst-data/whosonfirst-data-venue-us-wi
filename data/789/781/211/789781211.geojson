@@ -1,0 +1,82 @@
+{
+  "id": 789781211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.437195,44.204758,-88.437195,44.204758",
+    "geom:latitude":44.204758,
+    "geom:longitude":-88.437195,
+    "iso:country":"US",
+    "sg:address":"704 3rd St",
+    "sg:city":"Menasha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 722 9600",
+    "sg:postcode":"54952",
+    "sg:province":"WI",
+    "sg:tags":[
+        "water",
+        "delivery",
+        "bottled",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732729,
+        102081801,
+        85807543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I2eENNI7Lgk0LuwjbyA0v_44.204758_-88.437195@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590490,
+    "wof:geomhash":"fb7d465e4f3feef17d0910479444a7a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101732729,
+            "neighbourhood_id":85807543,
+            "region_id":85688517,
+            "venue_id":789781211
+        }
+    ],
+    "wof:id":789781211,
+    "wof:lastmodified":1462590490,
+    "wof:name":"Water Care",
+    "wof:parent_id":85807543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "delivery",
+        "bottled",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -88.437195,
+    44.204758,
+    -88.437195,
+    44.204758
+],
+  "geometry": {"coordinates":[-88.437195,44.204758],"type":"Point"}
+}

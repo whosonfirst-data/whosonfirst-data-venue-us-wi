@@ -1,0 +1,74 @@
+{
+  "id": 807370819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.415682,44.262681,-88.415682,44.262681",
+    "geom:latitude":44.262681,
+    "geom:longitude":-88.415682,
+    "iso:country":"US",
+    "sg:address":"205 N Richmond St",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/appleton/86160-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 734 5664",
+    "sg:postcode":"54911",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s7ZOJkWLmXLQusi4Y825e_44.262681_-88.415682@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606799,
+    "wof:geomhash":"41b498f44980147c867066990c33e39a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":807370819
+        }
+    ],
+    "wof:id":807370819,
+    "wof:lastmodified":1462606799,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.415682,
+    44.262681,
+    -88.415682,
+    44.262681
+],
+  "geometry": {"coordinates":[-88.415682,44.262681],"type":"Point"}
+}

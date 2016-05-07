@@ -1,0 +1,77 @@
+{
+  "id": 807039957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.915117,42.944077,-87.915117,42.944077",
+    "geom:latitude":42.944077,
+    "geom:longitude":-87.915117,
+    "iso:country":"US",
+    "sg:address":"351 W Air Cargo Way",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 747 1105",
+    "sg:postcode":"53207",
+    "sg:province":"WI",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102530849,
+        85870975,
+        102191575,
+        404494163,
+        85633793,
+        101733063,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aH1a0GoOm236srT59DgIC_42.944077_-87.915117@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603203,
+    "wof:geomhash":"f64a959884da7eade1fdbc51c034c32f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530849,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494163,
+            "locality_id":101733063,
+            "neighbourhood_id":85870975,
+            "region_id":85688517,
+            "venue_id":807039957
+        }
+    ],
+    "wof:id":807039957,
+    "wof:lastmodified":1462603203,
+    "wof:name":"UPS",
+    "wof:parent_id":102530849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -87.915117,
+    42.944077,
+    -87.915117,
+    42.944077
+],
+  "geometry": {"coordinates":[-87.915117,42.944077],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 790313035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.032808,42.797101,-89.032808,42.797101",
+    "geom:latitude":42.797101,
+    "geom:longitude":-89.032808,
+    "iso:country":"US",
+    "sg:address":"8606 N Kidder Rd",
+    "sg:city":"Edgerton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 563 5480",
+    "sg:postcode":"53534",
+    "sg:province":"WI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85836935,
+        102081829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NrMueDTLgzXYUmqpdDYdq_42.797101_-89.032808@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462594869,
+    "wof:geomhash":"097b3381cd174324add39e9706a14115",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "neighbourhood_id":85836935,
+            "region_id":85688517,
+            "venue_id":790313035
+        }
+    ],
+    "wof:id":790313035,
+    "wof:lastmodified":1462594869,
+    "wof:name":"Spot Free Car Wash",
+    "wof:parent_id":85836935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -89.032808,
+    42.797101,
+    -89.032808,
+    42.797101
+],
+  "geometry": {"coordinates":[-89.032808,42.797101],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 773685069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.919929,43.006546,-87.919929,43.006546",
+    "geom:latitude":43.006546,
+    "geom:longitude":-87.919929,
+    "iso:country":"US",
+    "sg:address":"610 W Becher St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 643 4820",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870893,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gcjr1gezKWzAKOoeVSktp_43.006546_-87.919929@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462587580,
+    "wof:geomhash":"ae36b5c567111903671a4fc3c12df6b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870893,
+            "region_id":85688517,
+            "venue_id":773685069
+        }
+    ],
+    "wof:id":773685069,
+    "wof:lastmodified":1462587580,
+    "wof:name":"Petro Pantry",
+    "wof:parent_id":85870893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -87.919929,
+    43.006546,
+    -87.919929,
+    43.006546
+],
+  "geometry": {"coordinates":[-87.919929,43.006546],"type":"Point"}
+}

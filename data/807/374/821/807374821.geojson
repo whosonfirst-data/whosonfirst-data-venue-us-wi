@@ -1,0 +1,83 @@
+{
+  "id": 807374821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.342431,43.093869,-89.342431,43.093869",
+    "geom:latitude":43.093869,
+    "geom:longitude":-89.342431,
+    "iso:country":"US",
+    "sg:address":"2827 Atwood Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/261177-bunkys-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 204 7004",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mediterranean",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878879,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MWnZHYhvXD3R9Z6YF0tJe_43.093787_-89.342353@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606852,
+    "wof:geomhash":"08b8975821c9d5cde6c7766e03598ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878879,
+            "region_id":85688517,
+            "venue_id":807374821
+        }
+    ],
+    "wof:id":807374821,
+    "wof:lastmodified":1462606852,
+    "wof:name":"Bunky's Cafe",
+    "wof:parent_id":85878879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mediterranean",
+        "italian"
+    ]
+},
+  "bbox": [
+    -89.342431,
+    43.093869,
+    -89.342431,
+    43.093869
+],
+  "geometry": {"coordinates":[-89.342431,43.093869],"type":"Point"}
+}

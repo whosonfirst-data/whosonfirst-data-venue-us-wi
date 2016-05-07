@@ -1,0 +1,73 @@
+{
+  "id": 789685435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.474561,44.799974,-91.474561,44.799974",
+    "geom:latitude":44.799974,
+    "geom:longitude":-91.474561,
+    "iso:country":"US",
+    "sg:address":"1907 Brackett Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 838 0005",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ncVdjw2xhxh1Kf3nZXKZB_44.799974_-91.474561@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589746,
+    "wof:geomhash":"432c5d3601e35c63557831a2d3078edd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":789685435
+        }
+    ],
+    "wof:id":789685435,
+    "wof:lastmodified":1462589746,
+    "wof:name":"Seattle Pride Coffee Co",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -91.474561,
+    44.799974,
+    -91.474561,
+    44.799974
+],
+  "geometry": {"coordinates":[-91.47456099999999,44.799974],"type":"Point"}
+}

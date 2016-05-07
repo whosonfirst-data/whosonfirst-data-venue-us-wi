@@ -1,0 +1,71 @@
+{
+  "id": 807394151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.639261,42.634595,-88.639261,42.634595",
+    "geom:latitude":42.634595,
+    "geom:longitude":-88.639261,
+    "iso:country":"US",
+    "sg:address":"220 N 7th St",
+    "sg:city":"Delavan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 728 5646",
+    "sg:postcode":"53115",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733549,
+        102081883,
+        85829149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7STN9KwfeZDFrmXPB58zKo_42.634595_-88.639261@1303262806"
+    },
+    "wof:country":"US",
+    "wof:created":1462607143,
+    "wof:geomhash":"6f4598553f7515763126e007ffdee15d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733549,
+            "neighbourhood_id":85829149,
+            "region_id":85688517,
+            "venue_id":807394151
+        }
+    ],
+    "wof:id":807394151,
+    "wof:lastmodified":1462607143,
+    "wof:name":"Delavan Fire Chief",
+    "wof:parent_id":85829149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.639261,
+    42.634595,
+    -88.639261,
+    42.634595
+],
+  "geometry": {"coordinates":[-88.639261,42.634595],"type":"Point"}
+}

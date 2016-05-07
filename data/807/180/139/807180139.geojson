@@ -1,0 +1,69 @@
+{
+  "id": 807180139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.739768,43.008204,-89.739768,43.008204",
+    "geom:latitude":43.008204,
+    "geom:longitude":-89.739768,
+    "iso:country":"US",
+    "sg:address":"120 S 1st St",
+    "sg:city":"Mt Horeb",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 437 5571",
+    "sg:postcode":"53572",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85830985,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CBnCn9wyErX4ekzc3a14e_43.008204_-89.739768@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604587,
+    "wof:geomhash":"61b9c4907d7abe39da0f63d5db4d0b27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85830985,
+            "region_id":85688517,
+            "venue_id":807180139
+        }
+    ],
+    "wof:id":807180139,
+    "wof:lastmodified":1462604587,
+    "wof:name":"Mt Horeb Fire Dept",
+    "wof:parent_id":85830985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.739768,
+    43.008204,
+    -89.739768,
+    43.008204
+],
+  "geometry": {"coordinates":[-89.739768,43.008204],"type":"Point"}
+}

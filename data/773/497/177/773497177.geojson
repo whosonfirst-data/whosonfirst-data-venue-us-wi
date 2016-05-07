@@ -1,0 +1,71 @@
+{
+  "id": 773497177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.106525,43.898256,-91.106525,43.898256",
+    "geom:latitude":43.898256,
+    "geom:longitude":-91.106525,
+    "iso:country":"US",
+    "sg:address":"1529 Heritage Blvd",
+    "sg:city":"West Salem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 786 0900",
+    "sg:postcode":"54669",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732663,
+        102081301,
+        85825891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xCdU2UmcueybeaSG85Bvh_43.898256_-91.106525@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586187,
+    "wof:geomhash":"bf3ffa1115e263cfdcf084bcb79823d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732663,
+            "neighbourhood_id":85825891,
+            "region_id":85688517,
+            "venue_id":773497177
+        }
+    ],
+    "wof:id":773497177,
+    "wof:lastmodified":1462586187,
+    "wof:name":"Jacobson Dental Clinic",
+    "wof:parent_id":85825891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -91.106525,
+    43.898256,
+    -91.106525,
+    43.898256
+],
+  "geometry": {"coordinates":[-91.106525,43.898256],"type":"Point"}
+}

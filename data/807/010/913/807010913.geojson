@@ -1,0 +1,71 @@
+{
+  "id": 807010913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.150564,44.949486,-91.150564,44.949486",
+    "geom:latitude":44.949486,
+    "geom:longitude":-91.150564,
+    "iso:country":"US",
+    "sg:address":"418 N Main St",
+    "sg:city":"Cadott",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 289 4922",
+    "sg:postcode":"54727",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732557,
+        102081787,
+        85837071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mN9GQ3gnZDKcHaaqzpCao_44.949486_-91.150564@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602950,
+    "wof:geomhash":"a1eaa426eb0534ffa81d77639f594685",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081787,
+            "locality_id":101732557,
+            "neighbourhood_id":85837071,
+            "region_id":85688517,
+            "venue_id":807010913
+        }
+    ],
+    "wof:id":807010913,
+    "wof:lastmodified":1462602950,
+    "wof:name":"Ned L Willkom DDS",
+    "wof:parent_id":85837071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -91.150564,
+    44.949486,
+    -91.150564,
+    44.949486
+],
+  "geometry": {"coordinates":[-91.150564,44.949486],"type":"Point"}
+}

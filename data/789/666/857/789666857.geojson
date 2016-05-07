@@ -1,0 +1,71 @@
+{
+  "id": 789666857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.326214,43.045324,-89.326214,43.045324",
+    "geom:latitude":43.045324,
+    "geom:longitude":-89.326214,
+    "iso:country":"US",
+    "sg:address":"502 River Pl",
+    "sg:city":"Monona",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 222 9146",
+    "sg:postcode":"53716",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oCKRP5BHbvVBQqjocHKgn_43.045324_-89.326214@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589606,
+    "wof:geomhash":"6730ac07093d30da645f6bbc7d35e6ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":789666857
+        }
+    ],
+    "wof:id":789666857,
+    "wof:lastmodified":1462589606,
+    "wof:name":"Monona Dental",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -89.326214,
+    43.045324,
+    -89.326214,
+    43.045324
+],
+  "geometry": {"coordinates":[-89.32621399999999,43.045324],"type":"Point"}
+}

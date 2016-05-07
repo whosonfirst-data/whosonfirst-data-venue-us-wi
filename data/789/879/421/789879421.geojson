@@ -1,0 +1,71 @@
+{
+  "id": 789879421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.724956,43.779781,-87.724956,43.779781",
+    "geom:latitude":43.779781,
+    "geom:longitude":-87.724956,
+    "iso:country":"US",
+    "sg:address":"3223 N 15th St",
+    "sg:city":"Sheboygan",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 452 4222",
+    "sg:postcode":"53083",
+    "sg:province":"WI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85818209,
+        102081869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b7rSq8rTnSAxBwr7cX1hf_43.779781_-87.724956@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591285,
+    "wof:geomhash":"7fca1bec4cebd89df43ae3f5a8121510",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "neighbourhood_id":85818209,
+            "region_id":85688517,
+            "venue_id":789879421
+        }
+    ],
+    "wof:id":789879421,
+    "wof:lastmodified":1462591285,
+    "wof:name":"Budget Auto Sales",
+    "wof:parent_id":85818209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -87.724956,
+    43.779781,
+    -87.724956,
+    43.779781
+],
+  "geometry": {"coordinates":[-87.72495600000001,43.779781],"type":"Point"}
+}

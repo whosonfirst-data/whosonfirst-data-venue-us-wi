@@ -1,0 +1,86 @@
+{
+  "id": 823183997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.041358,42.61389,-89.041358,42.61389",
+    "geom:latitude":42.61389,
+    "geom:longitude":-89.041358,
+    "iso:country":"US",
+    "sg:address":"1710 W Airport Rd",
+    "sg:city":"Janesville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 752 2359",
+    "sg:postcode":"53546",
+    "sg:province":"WI",
+    "sg:tags":[
+        "school",
+        "flight",
+        "aircraft-charter",
+        "aircraft",
+        "leasing",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102530519,
+        85688517,
+        85633793,
+        102081829,
+        85825897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YschB7yHf0uG3pvTzMXRN_42.613890_-89.041358@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608120,
+    "wof:geomhash":"a906a901d66bda1c2cdf6a773fd60380",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530519,
+            "country_id":85633793,
+            "county_id":102081829,
+            "neighbourhood_id":85825897,
+            "region_id":85688517,
+            "venue_id":823183997
+        }
+    ],
+    "wof:id":823183997,
+    "wof:lastmodified":1462608120,
+    "wof:name":"Wings USA",
+    "wof:parent_id":102530519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "flight",
+        "aircraft-charter",
+        "aircraft",
+        "leasing",
+        "rental"
+    ]
+},
+  "bbox": [
+    -89.041358,
+    42.61389,
+    -89.041358,
+    42.61389
+],
+  "geometry": {"coordinates":[-89.041358,42.61389],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789606769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.250571,43.059616,-89.250571,43.059616",
+    "geom:latitude":43.059616,
+    "geom:longitude":-89.250571,
+    "iso:country":"US",
+    "sg:address":"3135 Meier Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 222 1005",
+    "sg:postcode":"53718",
+    "sg:province":"WI",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85826215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H8FtlZYcuWzYfJ4MTJcS3_43.059616_-89.250571@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589116,
+    "wof:geomhash":"c685381d0eaaa0dc50e428539657bffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85826215,
+            "region_id":85688517,
+            "venue_id":789606769
+        }
+    ],
+    "wof:id":789606769,
+    "wof:lastmodified":1462589116,
+    "wof:name":"Complete Thermal Systems Inc",
+    "wof:parent_id":85826215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.250571,
+    43.059616,
+    -89.250571,
+    43.059616
+],
+  "geometry": {"coordinates":[-89.25057099999999,43.059616],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 807371759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.424692,44.232214,-88.424692,44.232214",
+    "geom:latitude":44.232214,
+    "geom:longitude":-88.424692,
+    "iso:country":"US",
+    "sg:address":"1680 Appleton Rd",
+    "sg:city":"Menasha",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/menasha/102362-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 751 3800",
+    "sg:postcode":"54952",
+    "sg:province":"WI",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732729,
+        102081801,
+        85807543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4j21OadFpQnx9ER5PfU5fs_44.232214_-88.424692@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606814,
+    "wof:geomhash":"01a08f953a60ca884a10727c12f027e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101732729,
+            "neighbourhood_id":85807543,
+            "region_id":85688517,
+            "venue_id":807371759
+        }
+    ],
+    "wof:id":807371759,
+    "wof:lastmodified":1462606814,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":85807543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -88.424692,
+    44.232214,
+    -88.424692,
+    44.232214
+],
+  "geometry": {"coordinates":[-88.42469199999999,44.232214],"type":"Point"}
+}

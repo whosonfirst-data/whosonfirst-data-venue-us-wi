@@ -1,0 +1,71 @@
+{
+  "id": 773422415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.297434,43.10642,-89.297434,43.10642",
+    "geom:latitude":43.10642,
+    "geom:longitude":-89.297434,
+    "iso:country":"US",
+    "sg:address":"4905 Commercial Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 249 3009",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zezdpjYmohwl6eCz9CAVM_43.106420_-89.297434@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585596,
+    "wof:geomhash":"604f082d6e83e7446b45c19deac61060",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":773422415
+        }
+    ],
+    "wof:id":773422415,
+    "wof:lastmodified":1462585596,
+    "wof:name":"Citgo",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -89.297434,
+    43.10642,
+    -89.297434,
+    43.10642
+],
+  "geometry": {"coordinates":[-89.297434,43.10642],"type":"Point"}
+}

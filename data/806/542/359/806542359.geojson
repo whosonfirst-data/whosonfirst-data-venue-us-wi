@@ -1,0 +1,71 @@
+{
+  "id": 806542359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.86276,42.554082,-88.86276,42.554082",
+    "geom:latitude":42.554082,
+    "geom:longitude":-88.86276,
+    "iso:country":"US",
+    "sg:address":"238 Allen St",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 676 4425",
+    "sg:postcode":"53525",
+    "sg:province":"WI",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85852239,
+        102081829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IC52YOHuzyZX1kJXC5n8i_42.554082_-88.862760@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462598979,
+    "wof:geomhash":"eb567f8c56d07f634387f52c870d4fea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "neighbourhood_id":85852239,
+            "region_id":85688517,
+            "venue_id":806542359
+        }
+    ],
+    "wof:id":806542359,
+    "wof:lastmodified":1462598979,
+    "wof:name":"Clark Pharmacy",
+    "wof:parent_id":85852239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -88.86276,
+    42.554082,
+    -88.86276,
+    42.554082
+],
+  "geometry": {"coordinates":[-88.86275999999999,42.554082],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 807364433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.414751,43.035415,-89.414751,43.035415",
+    "geom:latitude":43.035415,
+    "geom:longitude":-89.414751,
+    "iso:country":"US",
+    "sg:address":"2102 W Beltline Hwy",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/182951-culvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 274 1221",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878867,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05GndxnyKbqvp9S8bKZnqw_43.035415_-89.414751@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606713,
+    "wof:geomhash":"e1f8e1890f95138f70012db24bc2accb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878867,
+            "region_id":85688517,
+            "venue_id":807364433
+        }
+    ],
+    "wof:id":807364433,
+    "wof:lastmodified":1462606713,
+    "wof:name":"Culver's",
+    "wof:parent_id":85878867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -89.414751,
+    43.035415,
+    -89.414751,
+    43.035415
+],
+  "geometry": {"coordinates":[-89.414751,43.035415],"type":"Point"}
+}

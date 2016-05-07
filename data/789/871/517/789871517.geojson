@@ -1,0 +1,73 @@
+{
+  "id": 789871517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.683251,44.094191,-87.683251,44.094191",
+    "geom:latitude":44.094191,
+    "geom:longitude":-87.683251,
+    "iso:country":"US",
+    "sg:address":"2814 Wollmer St",
+    "sg:city":"Manitowoc",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 682 8234",
+    "sg:postcode":"54220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C7khiQMQwvgoD381JFmG9_44.094191_-87.683251@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591199,
+    "wof:geomhash":"fc9c35e39e2ab8a05cec1f6153877dd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":789871517
+        }
+    ],
+    "wof:id":789871517,
+    "wof:lastmodified":1462591199,
+    "wof:name":"VGD Automotive LLC",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.683251,
+    44.094191,
+    -87.683251,
+    44.094191
+],
+  "geometry": {"coordinates":[-87.683251,44.094191],"type":"Point"}
+}

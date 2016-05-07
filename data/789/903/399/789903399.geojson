@@ -1,0 +1,76 @@
+{
+  "id": 789903399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.165448,42.940846,-88.165448,42.940846",
+    "geom:latitude":42.940846,
+    "geom:longitude":-88.165448,
+    "iso:country":"US",
+    "sg:address":"20245 W National Ave",
+    "sg:city":"New Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 971 0856",
+    "sg:postcode":"53146",
+    "sg:province":"WI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733509,
+        102081741,
+        85868297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LXIN5OhQOdYEkXjOUbjBn_42.940846_-88.165448@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591472,
+    "wof:geomhash":"235cce668aa0df8b6c5e64480c066d52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081741,
+            "locality_id":101733509,
+            "neighbourhood_id":85868297,
+            "region_id":85688517,
+            "venue_id":789903399
+        }
+    ],
+    "wof:id":789903399,
+    "wof:lastmodified":1462591472,
+    "wof:name":"Alpha Omega Cleaning",
+    "wof:parent_id":85868297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -88.165448,
+    42.940846,
+    -88.165448,
+    42.940846
+],
+  "geometry": {"coordinates":[-88.165448,42.940846],"type":"Point"}
+}

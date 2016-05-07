@@ -1,0 +1,71 @@
+{
+  "id": 789877299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.675844,44.088977,-87.675844,44.088977",
+    "geom:latitude":44.088977,
+    "geom:longitude":-87.675844,
+    "iso:country":"US",
+    "sg:address":"2101 Washington St",
+    "sg:city":"Manitowoc",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 682 7724",
+    "sg:postcode":"54220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gk1iuVKpPoTgQt8PVRC4L_44.088977_-87.675844@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591257,
+    "wof:geomhash":"7bf751d518358ada4f1109a3a7177ef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":789877299
+        }
+    ],
+    "wof:id":789877299,
+    "wof:lastmodified":1462591257,
+    "wof:name":"Boelter's Jewelers",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -87.675844,
+    44.088977,
+    -87.675844,
+    44.088977
+],
+  "geometry": {"coordinates":[-87.675844,44.088977],"type":"Point"}
+}

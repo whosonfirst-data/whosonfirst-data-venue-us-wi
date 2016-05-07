@@ -1,0 +1,76 @@
+{
+  "id": 807365023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.503394,43.056599,-89.503394,43.056599",
+    "geom:latitude":43.056599,
+    "geom:longitude":-89.503394,
+    "iso:country":"US",
+    "sg:address":"104 W Towne Mall",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/204775-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 829 2797",
+    "sg:postcode":"53719",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834009,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27ymX8qZWmJYcfimaU4n2G_43.056599_-89.503394@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606720,
+    "wof:geomhash":"0f281499043f73a19751f32f066fa079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85834009,
+            "region_id":85688517,
+            "venue_id":807365023
+        }
+    ],
+    "wof:id":807365023,
+    "wof:lastmodified":1462606720,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85834009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -89.503394,
+    43.056599,
+    -89.503394,
+    43.056599
+],
+  "geometry": {"coordinates":[-89.503394,43.056599],"type":"Point"}
+}

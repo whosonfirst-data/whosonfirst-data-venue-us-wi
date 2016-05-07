@@ -1,0 +1,71 @@
+{
+  "id": 807125507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.429264,44.273178,-88.429264,44.273178",
+    "geom:latitude":44.273178,
+    "geom:longitude":-88.429264,
+    "iso:country":"US",
+    "sg:address":"1320 W Wisconsin Ave",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 954 8212",
+    "sg:postcode":"54914",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bF86wFtMPIAnHg3AiNHB0_44.273178_-88.429264@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604005,
+    "wof:geomhash":"e70bcbf79f89d904fa22598dbf3a3184",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":807125507
+        }
+    ],
+    "wof:id":807125507,
+    "wof:lastmodified":1462604005,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.429264,
+    44.273178,
+    -88.429264,
+    44.273178
+],
+  "geometry": {"coordinates":[-88.429264,44.273178],"type":"Point"}
+}

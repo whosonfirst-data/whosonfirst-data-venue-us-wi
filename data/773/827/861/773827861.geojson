@@ -1,0 +1,75 @@
+{
+  "id": 773827861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.339436,43.002494,-89.339436,43.002494",
+    "geom:latitude":43.002494,
+    "geom:longitude":-89.339436,
+    "iso:country":"US",
+    "sg:address":"4419 Goodland Park Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 222 5753",
+    "sg:postcode":"53711",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00PSW0vOSSwUARWYXCaYRS_43.002494_-89.339436@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588703,
+    "wof:geomhash":"2b24e5f0afa3f6c11243cb707375243d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":773827861
+        }
+    ],
+    "wof:id":773827861,
+    "wof:lastmodified":1462588703,
+    "wof:name":"David Delivery",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.339436,
+    43.002494,
+    -89.339436,
+    43.002494
+],
+  "geometry": {"coordinates":[-89.33943600000001,43.002494],"type":"Point"}
+}

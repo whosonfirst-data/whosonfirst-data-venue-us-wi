@@ -1,0 +1,97 @@
+{
+  "id": 807382259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.136623,43.192221,-88.136623,43.192221",
+    "geom:latitude":43.192221,
+    "geom:longitude":-88.136623,
+    "iso:country":"US",
+    "sg:address":"W182n9606 Appleton Ave",
+    "sg:city":"Germantown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tobacco Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 255 1996",
+    "sg:postcode":"53022",
+    "sg:province":"WI",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "manufacturer",
+        "tobacco-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550201,
+        102191575,
+        404494363,
+        85633793,
+        101732917,
+        102081745,
+        85688517,
+        420550225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OultsraPMaY82CgKH3Hwr_43.192221_-88.136623@1303262805"
+    },
+    "wof:country":"US",
+    "wof:created":1462606950,
+    "wof:geomhash":"d87127c60051eb8334d8420807599b19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081745,
+            "localadmin_id":404494363,
+            "locality_id":101732917,
+            "neighbourhood_id":420550201,
+            "region_id":85688517,
+            "venue_id":807382259
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081745,
+            "localadmin_id":404494363,
+            "locality_id":101732917,
+            "neighbourhood_id":420550225,
+            "region_id":85688517,
+            "venue_id":807382259
+        }
+    ],
+    "wof:id":807382259,
+    "wof:lastmodified":1462606950,
+    "wof:name":"Metro Cigars",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "manufacturer",
+        "tobacco-wholesale"
+    ]
+},
+  "bbox": [
+    -88.136623,
+    43.192221,
+    -88.136623,
+    43.192221
+],
+  "geometry": {"coordinates":[-88.136623,43.192221],"type":"Point"}
+}

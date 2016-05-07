@@ -1,0 +1,67 @@
+{
+  "id": 790222497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.161465,44.029147,-88.161465,44.029147",
+    "geom:latitude":44.029147,
+    "geom:longitude":-88.161465,
+    "iso:country":"US",
+    "sg:address":"57 E Main St",
+    "sg:city":"Chilton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 000 1111",
+    "sg:postcode":"53014",
+    "sg:province":"WI",
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732735,
+        102081289,
+        85822647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OqyXpPO0ztIE5OUiWl9pv_44.029147_-88.161465@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462594119,
+    "wof:geomhash":"68e5723a7dc5f168c3eb20f49227cb96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081289,
+            "locality_id":101732735,
+            "neighbourhood_id":85822647,
+            "region_id":85688517,
+            "venue_id":790222497
+        }
+    ],
+    "wof:id":790222497,
+    "wof:lastmodified":1462594119,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85822647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.161465,
+    44.029147,
+    -88.161465,
+    44.029147
+],
+  "geometry": {"coordinates":[-88.16146500000001,44.029147],"type":"Point"}
+}

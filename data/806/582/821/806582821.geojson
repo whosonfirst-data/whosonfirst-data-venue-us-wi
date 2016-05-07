@@ -1,0 +1,73 @@
+{
+  "id": 806582821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.15041,44.025769,-88.15041,44.025769",
+    "geom:latitude":44.025769,
+    "geom:longitude":-88.15041,
+    "iso:country":"US",
+    "sg:address":"625 Diane St",
+    "sg:city":"Chilton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 849 7600",
+    "sg:postcode":"53014",
+    "sg:province":"WI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732735,
+        102081289,
+        85822647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uzHxbJtWUs7ZZ10cxHefM_44.025769_-88.150410@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462599335,
+    "wof:geomhash":"ebc8d850049fee399933221ec805767b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081289,
+            "locality_id":101732735,
+            "neighbourhood_id":85822647,
+            "region_id":85688517,
+            "venue_id":806582821
+        }
+    ],
+    "wof:id":806582821,
+    "wof:lastmodified":1462599335,
+    "wof:name":"Hometown Car Wash",
+    "wof:parent_id":85822647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -88.15041,
+    44.025769,
+    -88.15041,
+    44.025769
+],
+  "geometry": {"coordinates":[-88.15040999999999,44.025769],"type":"Point"}
+}

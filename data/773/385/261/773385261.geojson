@@ -1,0 +1,73 @@
+{
+  "id": 773385261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.64401,44.957814,-89.64401,44.957814",
+    "geom:latitude":44.957814,
+    "geom:longitude":-89.64401,
+    "iso:country":"US",
+    "sg:address":"525 S 7th Ave",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 843 7748",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RVdoWSFwyo4rybbgkExPC_44.957814_-89.644010@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585291,
+    "wof:geomhash":"de9f22a719585c27734858671d15e573",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":773385261
+        }
+    ],
+    "wof:id":773385261,
+    "wof:lastmodified":1462585291,
+    "wof:name":"M G Electric",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.64401,
+    44.957814,
+    -89.64401,
+    44.957814
+],
+  "geometry": {"coordinates":[-89.64400999999999,44.957814],"type":"Point"}
+}

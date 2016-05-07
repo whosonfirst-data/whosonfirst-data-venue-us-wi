@@ -1,0 +1,73 @@
+{
+  "id": 807114993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.640284,44.969763,-89.640284,44.969763",
+    "geom:latitude":44.969763,
+    "geom:longitude":-89.640284,
+    "iso:country":"US",
+    "sg:address":"521 N 4th Ave",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 843 5433",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07g6rHv7PJQ60hcfrl6Q2g_44.969763_-89.640284@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603889,
+    "wof:geomhash":"636ef472942a07199c6baef07d33007c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":807114993
+        }
+    ],
+    "wof:id":807114993,
+    "wof:lastmodified":1462603889,
+    "wof:name":"Community Health Care Pdtrcs",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.640284,
+    44.969763,
+    -89.640284,
+    44.969763
+],
+  "geometry": {"coordinates":[-89.64028399999999,44.969763],"type":"Point"}
+}

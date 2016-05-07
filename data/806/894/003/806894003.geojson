@@ -1,0 +1,73 @@
+{
+  "id": 806894003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.662265,44.99521,-89.662265,44.99521",
+    "geom:latitude":44.99521,
+    "geom:longitude":-89.662265,
+    "iso:country":"US",
+    "sg:address":"2005 W Cassidy Dr",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 675 9700",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ek7MQ2EIANV3G1nbV29ij_44.995210_-89.662265@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601962,
+    "wof:geomhash":"6adcda6b98e11a54817e44f82ec1f60c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":806894003
+        }
+    ],
+    "wof:id":806894003,
+    "wof:lastmodified":1462601962,
+    "wof:name":"Thor Electric Inc",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.662265,
+    44.99521,
+    -89.662265,
+    44.99521
+],
+  "geometry": {"coordinates":[-89.662265,44.99521],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790367835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.468238,44.792875,-91.468238,44.792875",
+    "geom:latitude":44.792875,
+    "geom:longitude":-91.468238,
+    "iso:country":"US",
+    "sg:address":"2403 Fairfax St",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 835 0303",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T3AqmnNO9w9Jkx4gABr01_44.792875_-91.468238@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462595288,
+    "wof:geomhash":"3a424c32b089878a020d9ee767aa6c85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":790367835
+        }
+    ],
+    "wof:id":790367835,
+    "wof:lastmodified":1462595288,
+    "wof:name":"Amoco",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -91.468238,
+    44.792875,
+    -91.468238,
+    44.792875
+],
+  "geometry": {"coordinates":[-91.468238,44.792875],"type":"Point"}
+}

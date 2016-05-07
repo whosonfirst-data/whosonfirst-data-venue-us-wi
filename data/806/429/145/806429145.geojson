@@ -1,0 +1,71 @@
+{
+  "id": 806429145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.009047,43.155901,-88.009047,43.155901",
+    "geom:latitude":43.155901,
+    "geom:longitude":-88.009047,
+    "iso:country":"US",
+    "sg:address":"7701 W Calumet Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 365 3700",
+    "sg:postcode":"53224",
+    "sg:province":"WI",
+    "sg:website":"www.samsclub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870805,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rIP3ug5S6aM2XeBYidevU_43.155901_-88.009047@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462598082,
+    "wof:geomhash":"c445bfc433e38030444854cd7ba5f2a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870805,
+            "region_id":85688517,
+            "venue_id":806429145
+        }
+    ],
+    "wof:id":806429145,
+    "wof:lastmodified":1462598082,
+    "wof:name":"Sam's Club",
+    "wof:parent_id":85870805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.009047,
+    43.155901,
+    -88.009047,
+    43.155901
+],
+  "geometry": {"coordinates":[-88.009047,43.155901],"type":"Point"}
+}

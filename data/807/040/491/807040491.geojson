@@ -1,0 +1,71 @@
+{
+  "id": 807040491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.363901,43.110144,-89.363901,43.110144",
+    "geom:latitude":43.110144,
+    "geom:longitude":-89.363901,
+    "iso:country":"US",
+    "sg:address":"1022 N Sherman Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 246 9665",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YcQ9NLj0pAMMmRLhO1dyZ_43.110144_-89.363901@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603207,
+    "wof:geomhash":"87b5cd682285bfd7f2e06a02d105f092",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878869,
+            "region_id":85688517,
+            "venue_id":807040491
+        }
+    ],
+    "wof:id":807040491,
+    "wof:lastmodified":1462603207,
+    "wof:name":"Maintenance Services Madison",
+    "wof:parent_id":85878869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -89.363901,
+    43.110144,
+    -89.363901,
+    43.110144
+],
+  "geometry": {"coordinates":[-89.363901,43.110144],"type":"Point"}
+}

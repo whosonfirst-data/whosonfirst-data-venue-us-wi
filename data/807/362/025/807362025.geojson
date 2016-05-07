@@ -1,0 +1,72 @@
+{
+  "id": 807362025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.3437,43.240761,-89.3437,43.240761",
+    "geom:latitude":43.240761,
+    "geom:longitude":-89.3437,
+    "iso:country":"US",
+    "sg:address":"613 S Main St",
+    "sg:city":"De Forest",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/deforest/237645-pizza-pit/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 846 5559",
+    "sg:postcode":"53532",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85852311,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jr6jhm4GyF3D3HZJtAmP4_43.240761_-89.343700@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606684,
+    "wof:geomhash":"9498b5f895a22afe4f9fd3940100c6ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85852311,
+            "region_id":85688517,
+            "venue_id":807362025
+        }
+    ],
+    "wof:id":807362025,
+    "wof:lastmodified":1462606684,
+    "wof:name":"Pizza Pit",
+    "wof:parent_id":85852311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.3437,
+    43.240761,
+    -89.3437,
+    43.240761
+],
+  "geometry": {"coordinates":[-89.3437,43.240761],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 807354745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.930455,43.382325,-87.930455,43.382325",
+    "geom:latitude":43.382325,
+    "geom:longitude":-87.930455,
+    "iso:country":"US",
+    "sg:address":"148 S Foster St",
+    "sg:city":"Saukville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/saukville/85828-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 284 5522",
+    "sg:postcode":"53080",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732547,
+        102081873,
+        85828641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Vgnjn0I2kZ93jLSXj7681_43.382325_-87.930455@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606568,
+    "wof:geomhash":"6a7a571aa6574f2293895f994a31ecdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081873,
+            "locality_id":101732547,
+            "neighbourhood_id":85828641,
+            "region_id":85688517,
+            "venue_id":807354745
+        }
+    ],
+    "wof:id":807354745,
+    "wof:lastmodified":1462606568,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85828641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -87.930455,
+    43.382325,
+    -87.930455,
+    43.382325
+],
+  "geometry": {"coordinates":[-87.93045499999999,43.382325],"type":"Point"}
+}

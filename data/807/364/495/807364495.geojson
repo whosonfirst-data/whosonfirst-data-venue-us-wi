@@ -1,0 +1,74 @@
+{
+  "id": 807364495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.411444,43.035188,-89.411444,43.035188",
+    "geom:latitude":43.035188,
+    "geom:longitude":-89.411444,
+    "iso:country":"US",
+    "sg:address":"1814 W Beltline Hwy",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/145570-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 255 5533",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LyCAOY40G2syOVcFPpbTB_43.035188_-89.411444@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606714,
+    "wof:geomhash":"eeefeeb7851b23b555f4f2ae8c9747ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":807364495
+        }
+    ],
+    "wof:id":807364495,
+    "wof:lastmodified":1462606714,
+    "wof:name":"Subway",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.411444,
+    43.035188,
+    -89.411444,
+    43.035188
+],
+  "geometry": {"coordinates":[-89.411444,43.035188],"type":"Point"}
+}

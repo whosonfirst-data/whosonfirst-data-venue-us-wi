@@ -1,0 +1,72 @@
+{
+  "id": 807369617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.543515,44.822138,-91.543515,44.822138",
+    "geom:latitude":44.822138,
+    "geom:longitude":-91.543515,
+    "iso:country":"US",
+    "sg:address":"2235 N Clairemont Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/292998-mikes-smokehouse-bbq/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 834 8153",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "barbecue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85848105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D1dJEKYkEzZOfFryy1ija_44.822138_-91.543515@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606784,
+    "wof:geomhash":"d563a06dda11cedb7c90d6826d895043",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85848105,
+            "region_id":85688517,
+            "venue_id":807369617
+        }
+    ],
+    "wof:id":807369617,
+    "wof:lastmodified":1462606784,
+    "wof:name":"Mike's Smokehouse BBQ",
+    "wof:parent_id":85848105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue"
+    ]
+},
+  "bbox": [
+    -91.543515,
+    44.822138,
+    -91.543515,
+    44.822138
+],
+  "geometry": {"coordinates":[-91.543515,44.822138],"type":"Point"}
+}

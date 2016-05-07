@@ -1,0 +1,71 @@
+{
+  "id": 790578221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.793448,44.973258,-89.793448,44.973258",
+    "geom:latitude":44.973258,
+    "geom:longitude":-89.793448,
+    "iso:country":"US",
+    "sg:address":"12004 Stettin Dr",
+    "sg:city":"Marathon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 845 3535",
+    "sg:postcode":"54448",
+    "sg:province":"WI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tY2TICPmCg8jlWZIopIwQ_44.973258_-89.793448@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462597024,
+    "wof:geomhash":"51573afebc8cc91f4c26fd7acda0fa21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":790578221
+        }
+    ],
+    "wof:id":790578221,
+    "wof:lastmodified":1462597024,
+    "wof:name":"Stettin Town Garage",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -89.793448,
+    44.973258,
+    -89.793448,
+    44.973258
+],
+  "geometry": {"coordinates":[-89.793448,44.973258],"type":"Point"}
+}

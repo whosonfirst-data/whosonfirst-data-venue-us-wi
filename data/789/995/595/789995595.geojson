@@ -1,0 +1,77 @@
+{
+  "id": 789995595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.516279,43.056886,-89.516279,43.056886",
+    "geom:latitude":43.056886,
+    "geom:longitude":-89.516279,
+    "iso:country":"US",
+    "sg:address":"567 Donofrio Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 833 4600",
+    "sg:postcode":"53719",
+    "sg:province":"WI",
+    "sg:tags":[
+        "federal",
+        "investigation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834009,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FZEE8n3JSDqzp0v2iFNRd_43.056886_-89.516279@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592293,
+    "wof:geomhash":"c8f4e035119c72becc8e4d53956378f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85834009,
+            "region_id":85688517,
+            "venue_id":789995595
+        }
+    ],
+    "wof:id":789995595,
+    "wof:lastmodified":1462592293,
+    "wof:name":"FBI",
+    "wof:parent_id":85834009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "investigation"
+    ]
+},
+  "bbox": [
+    -89.516279,
+    43.056886,
+    -89.516279,
+    43.056886
+],
+  "geometry": {"coordinates":[-89.516279,43.056886],"type":"Point"}
+}

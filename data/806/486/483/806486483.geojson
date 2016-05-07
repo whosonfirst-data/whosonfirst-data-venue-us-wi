@@ -1,0 +1,71 @@
+{
+  "id": 806486483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.280488,43.331288,-88.280488,43.331288",
+    "geom:latitude":43.331288,
+    "geom:longitude":-88.280488,
+    "iso:country":"US",
+    "sg:address":"205 Slinger Rd",
+    "sg:city":"Slinger",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 644 8255",
+    "sg:postcode":"53086",
+    "sg:province":"WI",
+    "sg:tags":[
+        "housing",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85810007,
+        102081745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jx9RyCIdcKiTDksML9m15_43.331288_-88.280488@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462598518,
+    "wof:geomhash":"b1f09006c48afe42a8beec73cc03cf52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081745,
+            "neighbourhood_id":85810007,
+            "region_id":85688517,
+            "venue_id":806486483
+        }
+    ],
+    "wof:id":806486483,
+    "wof:lastmodified":1462598518,
+    "wof:name":"Housing Authority",
+    "wof:parent_id":85810007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "program"
+    ]
+},
+  "bbox": [
+    -88.280488,
+    43.331288,
+    -88.280488,
+    43.331288
+],
+  "geometry": {"coordinates":[-88.28048800000001,43.331288],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 807367435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.636725,44.961698,-89.636725,44.961698",
+    "geom:latitude":44.961698,
+    "geom:longitude":-89.636725,
+    "iso:country":"US",
+    "sg:address":"210 S 1st Ave",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/wausau/79986-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 842 5629",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50X1PjjKB4F884VPHllTt5_44.961698_-89.636725@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606758,
+    "wof:geomhash":"09bed8bbed6b160f7b3a2490e3c036db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":807367435
+        }
+    ],
+    "wof:id":807367435,
+    "wof:lastmodified":1462606758,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.636725,
+    44.961698,
+    -89.636725,
+    44.961698
+],
+  "geometry": {"coordinates":[-89.636725,44.961698],"type":"Point"}
+}

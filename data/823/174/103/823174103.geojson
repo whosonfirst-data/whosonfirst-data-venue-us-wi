@@ -1,0 +1,89 @@
+{
+  "id": 823174103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.031204,43.0448,-88.031204,43.0448",
+    "geom:latitude":43.0448,
+    "geom:longitude":-88.031204,
+    "iso:country":"US",
+    "sg:address":"9455 W Watertown Plank Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 257 6995",
+    "sg:postcode":"53226",
+    "sg:province":"WI",
+    "sg:tags":[
+        "government-state",
+        "mental",
+        "information",
+        "outpatient",
+        "psychological"
+    ],
+    "sg:website":"http://www.mcdhr.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870835,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rqne0jOmEEAJFpmpmDuq8_43.044800_-88.031204@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462607983,
+    "wof:geomhash":"29c04573e7182f8e0f2074992f6d3e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870835,
+            "region_id":85688517,
+            "venue_id":823174103
+        }
+    ],
+    "wof:id":823174103,
+    "wof:lastmodified":1462607983,
+    "wof:name":"Milwaukee County Behavioral Health Division",
+    "wof:parent_id":85870835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-state",
+        "mental",
+        "information",
+        "outpatient",
+        "psychological"
+    ]
+},
+  "bbox": [
+    -88.031204,
+    43.0448,
+    -88.031204,
+    43.0448
+],
+  "geometry": {"coordinates":[-88.031204,43.0448],"type":"Point"}
+}

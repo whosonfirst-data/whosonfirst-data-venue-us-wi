@@ -1,0 +1,91 @@
+{
+  "id": 823186243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.456598,43.072909,-89.456598,43.072909",
+    "geom:latitude":43.072909,
+    "geom:longitude":-89.456598,
+    "iso:country":"US",
+    "sg:address":"625 N Segoe Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 663 2678",
+    "sg:postcode":"53705",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical",
+        "therapist",
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868277,
+        102191575,
+        404491679,
+        85633793,
+        101732725,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TNS9K2YH4JnZ0sFnRZD0j_43.072909_-89.456598@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608146,
+    "wof:geomhash":"7fa571deb8286d27815352951be17927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491679,
+            "locality_id":101732725,
+            "neighbourhood_id":85868277,
+            "region_id":85688517,
+            "venue_id":823186243
+        }
+    ],
+    "wof:id":823186243,
+    "wof:lastmodified":1462608146,
+    "wof:name":"Ampt-Advanced Manual Physical Therapy",
+    "wof:parent_id":85868277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "therapist",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -89.456598,
+    43.072909,
+    -89.456598,
+    43.072909
+],
+  "geometry": {"coordinates":[-89.456598,43.072909],"type":"Point"}
+}

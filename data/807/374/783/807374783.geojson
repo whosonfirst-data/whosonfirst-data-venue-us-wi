@@ -1,0 +1,85 @@
+{
+  "id": 807374783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.381251,43.075145,-89.381251,43.075145",
+    "geom:latitude":43.075145,
+    "geom:longitude":-89.381251,
+    "iso:country":"US",
+    "sg:address":"123 E Main St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/261151-argus/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 256 4141",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "food",
+        "american",
+        "pub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878845,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34P4bRqYWQozE1XdKUcQcy_43.075100_-89.381084@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606852,
+    "wof:geomhash":"835dbcce8ed6e0c3b7d8acd6b9925d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878845,
+            "region_id":85688517,
+            "venue_id":807374783
+        }
+    ],
+    "wof:id":807374783,
+    "wof:lastmodified":1462606852,
+    "wof:name":"Argus",
+    "wof:parent_id":85878845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "american",
+        "pub"
+    ]
+},
+  "bbox": [
+    -89.381251,
+    43.075145,
+    -89.381251,
+    43.075145
+],
+  "geometry": {"coordinates":[-89.38125100000001,43.075145],"type":"Point"}
+}

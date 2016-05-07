@@ -1,0 +1,88 @@
+{
+  "id": 823159509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.953857,43.077042,-87.953857,43.077042",
+    "geom:latitude":43.077042,
+    "geom:longitude":-87.953857,
+    "iso:country":"US",
+    "sg:address":"3200 W Auer Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 442 5945",
+    "sg:postcode":"53216",
+    "sg:province":"WI",
+    "sg:tags":[
+        "electric",
+        "supply",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870825,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0laaOzFhKwNIKWxQCoAf1b_43.077042_-87.953857@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607793,
+    "wof:geomhash":"eaeb5c46b786ad3e0df82b1d6e0824bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870825,
+            "region_id":85688517,
+            "venue_id":823159509
+        }
+    ],
+    "wof:id":823159509,
+    "wof:lastmodified":1462607793,
+    "wof:name":"Gillitzer Electric",
+    "wof:parent_id":85870825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "supply",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -87.953857,
+    43.077042,
+    -87.953857,
+    43.077042
+],
+  "geometry": {"coordinates":[-87.953857,43.077042],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 773580589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.646129,44.916088,-89.646129,44.916088",
+    "geom:latitude":44.916088,
+    "geom:longitude":-89.646129,
+    "iso:country":"US",
+    "sg:address":"1101 Morning Glory Ln",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 359 0184",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "exhaust",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85854809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4l7Y5CHRPAZS9wsLURRiNq_44.916088_-89.646129@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586808,
+    "wof:geomhash":"ce2409c805af1986e723786ab3753438",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85854809,
+            "region_id":85688517,
+            "venue_id":773580589
+        }
+    ],
+    "wof:id":773580589,
+    "wof:lastmodified":1462586808,
+    "wof:name":"Exhaust Pros",
+    "wof:parent_id":85854809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust",
+        "general"
+    ]
+},
+  "bbox": [
+    -89.646129,
+    44.916088,
+    -89.646129,
+    44.916088
+],
+  "geometry": {"coordinates":[-89.646129,44.916088],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 823171919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.029448,43.123369,-88.029448,43.123369",
+    "geom:latitude":43.123369,
+    "geom:longitude":-88.029448,
+    "iso:country":"US",
+    "sg:address":"5839 N 94th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 527 3300",
+    "sg:postcode":"53225",
+    "sg:province":"WI",
+    "sg:tags":[
+        "steel",
+        "fabricator",
+        "machine",
+        "welder"
+    ],
+    "sg:website":"http://www.interweld.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550025,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Jk6aYuNDK2qQOjRXLW43B_43.123369_-88.029448@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607952,
+    "wof:geomhash":"9f03ea5896a3680e95ddac2ad8d86496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":420550025,
+            "region_id":85688517,
+            "venue_id":823171919
+        }
+    ],
+    "wof:id":823171919,
+    "wof:lastmodified":1462607952,
+    "wof:name":"Interweld Inc",
+    "wof:parent_id":420550025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "fabricator",
+        "machine",
+        "welder"
+    ]
+},
+  "bbox": [
+    -88.029448,
+    43.123369,
+    -88.029448,
+    43.123369
+],
+  "geometry": {"coordinates":[-88.029448,43.123369],"type":"Point"}
+}

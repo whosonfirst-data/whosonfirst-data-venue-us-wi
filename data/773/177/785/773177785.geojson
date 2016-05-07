@@ -1,0 +1,71 @@
+{
+  "id": 773177785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.523091,44.800812,-91.523091,44.800812",
+    "geom:latitude":44.800812,
+    "geom:longitude":-91.523091,
+    "iso:country":"US",
+    "sg:address":"1030 Menomonie St",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 855 9250",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85848105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ega9yQcTw5hzijMqdYjLV_44.800812_-91.523091@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583719,
+    "wof:geomhash":"9ad9af81d8f6609d1623ba53818e6f32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85848105,
+            "region_id":85688517,
+            "venue_id":773177785
+        }
+    ],
+    "wof:id":773177785,
+    "wof:lastmodified":1462583719,
+    "wof:name":"Menomonie Street Car Wash",
+    "wof:parent_id":85848105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -91.523091,
+    44.800812,
+    -91.523091,
+    44.800812
+],
+  "geometry": {"coordinates":[-91.52309099999999,44.800812],"type":"Point"}
+}

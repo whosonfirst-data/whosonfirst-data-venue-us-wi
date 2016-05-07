@@ -1,0 +1,91 @@
+{
+  "id": 823153361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.99365,43.036144,-87.99365,43.036144",
+    "geom:latitude":43.036144,
+    "geom:longitude":-87.99365,
+    "iso:country":"US",
+    "sg:address":"6525 W Bluemound Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 443 9810",
+    "sg:postcode":"53213",
+    "sg:province":"WI",
+    "sg:tags":[
+        "attorney",
+        "dwi",
+        "duo",
+        "traffic",
+        "criminal",
+        "law"
+    ],
+    "sg:website":"http://www.lawofficeofpeterdploetz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870887,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y5XmWuNDpLqCd43jGEVFx_43.036144_-87.993650@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607711,
+    "wof:geomhash":"321bb9d85c016fa578d214cff953dff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870887,
+            "region_id":85688517,
+            "venue_id":823153361
+        }
+    ],
+    "wof:id":823153361,
+    "wof:lastmodified":1462607711,
+    "wof:name":"Ploetz, Peter D",
+    "wof:parent_id":85870887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney",
+        "dwi",
+        "duo",
+        "traffic",
+        "criminal",
+        "law"
+    ]
+},
+  "bbox": [
+    -87.99365,
+    43.036144,
+    -87.99365,
+    43.036144
+],
+  "geometry": {"coordinates":[-87.99365,43.036144],"type":"Point"}
+}

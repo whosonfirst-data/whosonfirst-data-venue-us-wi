@@ -1,0 +1,71 @@
+{
+  "id": 806840051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.675921,44.958355,-89.675921,44.958355",
+    "geom:latitude":44.958355,
+    "geom:longitude":-89.675921,
+    "iso:country":"US",
+    "sg:address":"515 S 32nd Ave",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 845 1150",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vHz9RhiV3rxPyRzon0Wov_44.958355_-89.675921@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601510,
+    "wof:geomhash":"b72c3282d008c81ad1474621a054d9b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":806840051
+        }
+    ],
+    "wof:id":806840051,
+    "wof:lastmodified":1462601510,
+    "wof:name":"Partners In Family Care",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.675921,
+    44.958355,
+    -89.675921,
+    44.958355
+],
+  "geometry": {"coordinates":[-89.675921,44.958355],"type":"Point"}
+}

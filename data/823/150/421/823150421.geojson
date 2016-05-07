@@ -1,0 +1,85 @@
+{
+  "id": 823150421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.879004,43.064892,-87.879004,43.064892",
+    "geom:latitude":43.064892,
+    "geom:longitude":-87.879004,
+    "iso:country":"US",
+    "sg:address":"2524 E Webster Pl Ste 305",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 810 4501",
+    "sg:postcode":"53211",
+    "sg:province":"WI",
+    "sg:tags":[
+        "information",
+        "aid",
+        "welfare"
+    ],
+    "sg:website":"http://www.stdtestexpress.com/?utm_source=CS&utm_medium=Milwaukee&utm_campaign=MILWAUKEE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870883,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mjDmsfGD6UfXwsPb5cWaK_43.064892_-87.879004@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607673,
+    "wof:geomhash":"8746b2107bcc3b36570766571896d498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870883,
+            "region_id":85688517,
+            "venue_id":823150421
+        }
+    ],
+    "wof:id":823150421,
+    "wof:lastmodified":1462607673,
+    "wof:name":"STD Test Express Milwaukee",
+    "wof:parent_id":85870883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "aid",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -87.879004,
+    43.064892,
+    -87.879004,
+    43.064892
+],
+  "geometry": {"coordinates":[-87.87900399999999,43.064892],"type":"Point"}
+}

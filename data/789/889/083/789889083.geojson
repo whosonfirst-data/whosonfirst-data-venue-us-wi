@@ -1,0 +1,71 @@
+{
+  "id": 789889083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.194291,44.929306,-91.194291,44.929306",
+    "geom:latitude":44.929306,
+    "geom:longitude":-91.194291,
+    "iso:country":"US",
+    "sg:address":"23654 Co Hwy X",
+    "sg:city":"Cadott",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 289 4664",
+    "sg:postcode":"54727",
+    "sg:province":"WI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732557,
+        102081787,
+        85837071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xP7PN9C7nBoOeGgMMcc75_44.929306_-91.194291@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591364,
+    "wof:geomhash":"5b1dd4e47c4d69cac13bd76c259a945f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081787,
+            "locality_id":101732557,
+            "neighbourhood_id":85837071,
+            "region_id":85688517,
+            "venue_id":789889083
+        }
+    ],
+    "wof:id":789889083,
+    "wof:lastmodified":1462591364,
+    "wof:name":"Green Acres Transmissions",
+    "wof:parent_id":85837071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -91.194291,
+    44.929306,
+    -91.194291,
+    44.929306
+],
+  "geometry": {"coordinates":[-91.19429100000001,44.929306],"type":"Point"}
+}

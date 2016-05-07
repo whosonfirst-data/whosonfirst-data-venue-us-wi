@@ -1,0 +1,71 @@
+{
+  "id": 807243311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.64251,44.957017,-89.64251,44.957017",
+    "geom:latitude":44.957017,
+    "geom:longitude":-89.64251,
+    "iso:country":"US",
+    "sg:address":"615 Werle Ave",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 845 7017",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EMOWVmfWnDL4CdQQrVdHi_44.957017_-89.642510@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605256,
+    "wof:geomhash":"c02af3a5a29905e628038b5d16b6771e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":807243311
+        }
+    ],
+    "wof:id":807243311,
+    "wof:lastmodified":1462605256,
+    "wof:name":"Ed's Cleaning Svc Inc",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -89.64251,
+    44.957017,
+    -89.64251,
+    44.957017
+],
+  "geometry": {"coordinates":[-89.64251,44.957017],"type":"Point"}
+}

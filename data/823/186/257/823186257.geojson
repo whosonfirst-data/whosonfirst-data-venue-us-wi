@@ -1,0 +1,88 @@
+{
+  "id": 823186257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.430962,43.07514,-89.430962,43.07514",
+    "geom:latitude":43.07514,
+    "geom:longitude":-89.430962,
+    "iso:country":"US",
+    "sg:address":"2500 Overlook Ter",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 256 1901",
+    "sg:postcode":"53705",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical",
+        "surgery"
+    ],
+    "sg:website":"http://www.madison.med.va.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868277,
+        102191575,
+        404491679,
+        85633793,
+        101732725,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gFkddtu0chwaAfnKIvaIh_43.075140_-89.430962@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608146,
+    "wof:geomhash":"e2a723ff764a3b97b6f874057023540d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491679,
+            "locality_id":101732725,
+            "neighbourhood_id":85868277,
+            "region_id":85688517,
+            "venue_id":823186257
+        }
+    ],
+    "wof:id":823186257,
+    "wof:lastmodified":1462608146,
+    "wof:name":"William S. Middleton Memorial Veterans Hospital",
+    "wof:parent_id":85868277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "surgery"
+    ]
+},
+  "bbox": [
+    -89.430962,
+    43.07514,
+    -89.430962,
+    43.07514
+],
+  "geometry": {"coordinates":[-89.43096199999999,43.07514],"type":"Point"}
+}

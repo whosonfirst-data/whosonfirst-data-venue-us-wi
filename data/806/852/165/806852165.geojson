@@ -1,0 +1,75 @@
+{
+  "id": 806852165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.850392,42.697421,-87.850392,42.697421",
+    "geom:latitude":42.697421,
+    "geom:longitude":-87.850392,
+    "iso:country":"US",
+    "sg:address":"5610 Durand Ave",
+    "sg:city":"Racine",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 598 4140",
+    "sg:postcode":"53406",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854859,
+        102191575,
+        404494985,
+        85633793,
+        101732325,
+        102081763,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vD3PHn24T5y4G9R1SZ1Q3_42.697421_-87.850392@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601627,
+    "wof:geomhash":"524ec3b6fbb0fa4e11ba9cab21953c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494985,
+            "locality_id":101732325,
+            "neighbourhood_id":85854859,
+            "region_id":85688517,
+            "venue_id":806852165
+        }
+    ],
+    "wof:id":806852165,
+    "wof:lastmodified":1462601627,
+    "wof:name":"Racine Police Dept",
+    "wof:parent_id":85854859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -87.850392,
+    42.697421,
+    -87.850392,
+    42.697421
+],
+  "geometry": {"coordinates":[-87.850392,42.697421],"type":"Point"}
+}

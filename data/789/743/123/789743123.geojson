@@ -1,0 +1,71 @@
+{
+  "id": 789743123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.276386,42.988177,-89.276386,42.988177",
+    "geom:latitude":42.988177,
+    "geom:longitude":-89.276386,
+    "iso:country":"US",
+    "sg:address":"3542 E Dyreson Rd",
+    "sg:city":"Mc Farland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 838 4335",
+    "sg:postcode":"53558",
+    "sg:province":"WI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85826215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03z0LgmXDa8CyUenbmuzYO_42.988177_-89.276386@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590200,
+    "wof:geomhash":"46a7592664e96b5e151e06106169c290",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85826215,
+            "region_id":85688517,
+            "venue_id":789743123
+        }
+    ],
+    "wof:id":789743123,
+    "wof:lastmodified":1462590200,
+    "wof:name":"Urban Ore Construction",
+    "wof:parent_id":85826215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -89.276386,
+    42.988177,
+    -89.276386,
+    42.988177
+],
+  "geometry": {"coordinates":[-89.276386,42.988177],"type":"Point"}
+}

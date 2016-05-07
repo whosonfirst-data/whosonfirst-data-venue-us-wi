@@ -1,0 +1,93 @@
+{
+  "id": 823186223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.487557,43.060765,-89.487557,43.060765",
+    "geom:latitude":43.060765,
+    "geom:longitude":-89.487557,
+    "iso:country":"US",
+    "sg:address":"6203 Mineral Point Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 230 4213",
+    "sg:postcode":"53705",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop",
+        "resale",
+        "second",
+        "consignment",
+        "hand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878893,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EowBff5dLYMLQZOIOe5he_43.060765_-89.487557@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608146,
+    "wof:geomhash":"9785d1b38f42561aec991b52bcea384d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878893,
+            "region_id":85688517,
+            "venue_id":823186223
+        }
+    ],
+    "wof:id":823186223,
+    "wof:lastmodified":1462608146,
+    "wof:name":"Oakwood Village Resale Shop",
+    "wof:parent_id":85878893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "resale",
+        "second",
+        "consignment",
+        "hand"
+    ]
+},
+  "bbox": [
+    -89.487557,
+    43.060765,
+    -89.487557,
+    43.060765
+],
+  "geometry": {"coordinates":[-89.487557,43.060765],"type":"Point"}
+}

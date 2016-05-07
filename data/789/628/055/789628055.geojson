@@ -1,0 +1,82 @@
+{
+  "id": 789628055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.440882,44.286485,-88.440882,44.286485",
+    "geom:latitude":44.286485,
+    "geom:longitude":-88.440882,
+    "iso:country":"US",
+    "sg:address":"2230 W Nordale Dr",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 832 1001",
+    "sg:postcode":"54914",
+    "sg:province":"WI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DthG8FlxiEOxOuZ3dTzyx_44.286485_-88.440882@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589277,
+    "wof:geomhash":"108c8030765a1377c5fa53c8091e4191",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":789628055
+        }
+    ],
+    "wof:id":789628055,
+    "wof:lastmodified":1462589277,
+    "wof:name":"Do It Yourself Pet Wash",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing",
+        "supply"
+    ]
+},
+  "bbox": [
+    -88.440882,
+    44.286485,
+    -88.440882,
+    44.286485
+],
+  "geometry": {"coordinates":[-88.440882,44.286485],"type":"Point"}
+}

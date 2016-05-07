@@ -1,0 +1,73 @@
+{
+  "id": 806746289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.569355,44.31732,-88.569355,44.31732",
+    "geom:latitude":44.31732,
+    "geom:longitude":-88.569355,
+    "iso:country":"US",
+    "sg:address":"2121 Greenville Dr",
+    "sg:city":"Hortonville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 779 9515",
+    "sg:postcode":"54944",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ogoiukUvBEQMZa2OtZ94M_44.317320_-88.569355@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462600732,
+    "wof:geomhash":"20db2e8859179ad77d02af7f54af4fe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":806746289
+        }
+    ],
+    "wof:id":806746289,
+    "wof:lastmodified":1462600732,
+    "wof:name":"Expert Driveline Repair",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.569355,
+    44.31732,
+    -88.569355,
+    44.31732
+],
+  "geometry": {"coordinates":[-88.569355,44.31732],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 789914179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.306432,43.128001,-89.306432,43.128001",
+    "geom:latitude":43.128001,
+    "geom:longitude":-89.306432,
+    "iso:country":"US",
+    "sg:address":"4502 E Towne Blvd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 244 3530",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878851,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Qwj30eelwt6vh2vizJFLI_43.128001_-89.306432@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591574,
+    "wof:geomhash":"a91a7241ab1281c0599d2c13da1dbf8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878851,
+            "region_id":85688517,
+            "venue_id":789914179
+        }
+    ],
+    "wof:id":789914179,
+    "wof:lastmodified":1462591574,
+    "wof:name":"Red Lobster",
+    "wof:parent_id":85878851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -89.306432,
+    43.128001,
+    -89.306432,
+    43.128001
+],
+  "geometry": {"coordinates":[-89.306432,43.128001],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 807376191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.503759,44.809226,-91.503759,44.809226",
+    "geom:latitude":44.809226,
+    "geom:longitude":-91.503759,
+    "iso:country":"US",
+    "sg:address":"119 W Grand Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/292977-grand-avenue-coffee-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 831 1100",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A5ex0nIUlFMtRt6VYY4dN_44.809068_-91.504025@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606874,
+    "wof:geomhash":"7fa7774ccdeb0b35efb70f98784efe4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807376191
+        }
+    ],
+    "wof:id":807376191,
+    "wof:lastmodified":1462606874,
+    "wof:name":"Grand Avenue Cafe",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -91.503759,
+    44.809226,
+    -91.503759,
+    44.809226
+],
+  "geometry": {"coordinates":[-91.503759,44.809226],"type":"Point"}
+}

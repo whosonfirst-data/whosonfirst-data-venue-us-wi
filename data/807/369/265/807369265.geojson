@@ -1,0 +1,72 @@
+{
+  "id": 807369265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.463069,44.79272,-91.463069,44.79272",
+    "geom:latitude":44.79272,
+    "geom:longitude":-91.463069,
+    "iso:country":"US",
+    "sg:address":"2503 London Rd",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/293297-azul-tequila/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 833 0200",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_509ULvyIloaT16sn6NzSzN_44.792720_-91.463069@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606780,
+    "wof:geomhash":"e6dd239a31614ce9957cb94eb0e5a583",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807369265
+        }
+    ],
+    "wof:id":807369265,
+    "wof:lastmodified":1462606780,
+    "wof:name":"Azul Tequila",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -91.463069,
+    44.79272,
+    -91.463069,
+    44.79272
+],
+  "geometry": {"coordinates":[-91.463069,44.79272],"type":"Point"}
+}

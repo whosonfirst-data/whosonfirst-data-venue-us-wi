@@ -1,0 +1,81 @@
+{
+  "id": 807374741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.394821,43.073919,-89.394821,43.073919",
+    "geom:latitude":43.073919,
+    "geom:longitude":-89.394821,
+    "iso:country":"US",
+    "sg:address":"414 W Gilman St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/19161-amys-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 255 8172",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878887,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mxDrvXH6y5c7uaQM5Tc43_43.074221_-89.394807@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606852,
+    "wof:geomhash":"b662fe7137fa65cdd8287794aa48478d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878887,
+            "region_id":85688517,
+            "venue_id":807374741
+        }
+    ],
+    "wof:id":807374741,
+    "wof:lastmodified":1462606852,
+    "wof:name":"Amy's Cafe",
+    "wof:parent_id":85878887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -89.394821,
+    43.073919,
+    -89.394821,
+    43.073919
+],
+  "geometry": {"coordinates":[-89.39482099999999,43.073919],"type":"Point"}
+}

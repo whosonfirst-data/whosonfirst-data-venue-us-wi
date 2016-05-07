@@ -1,0 +1,71 @@
+{
+  "id": 789639077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.656393,44.094587,-87.656393,44.094587",
+    "geom:latitude":44.094587,
+    "geom:longitude":-87.656393,
+    "iso:country":"US",
+    "sg:address":"601 Buffalo St",
+    "sg:city":"Manitowoc",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 684 5119",
+    "sg:postcode":"54220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wkZNatifFH5Zng18BZ4NG_44.094587_-87.656393@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589367,
+    "wof:geomhash":"13aec8f34efa7e7c246a351c499b1179",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":789639077
+        }
+    ],
+    "wof:id":789639077,
+    "wof:lastmodified":1462589367,
+    "wof:name":"Lakeshore Pediatrics",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -87.656393,
+    44.094587,
+    -87.656393,
+    44.094587
+],
+  "geometry": {"coordinates":[-87.65639299999999,44.094587],"type":"Point"}
+}

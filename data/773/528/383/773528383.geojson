@@ -1,0 +1,73 @@
+{
+  "id": 773528383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.528336,43.062499,-89.528336,43.062499",
+    "geom:latitude":43.062499,
+    "geom:longitude":-89.528336,
+    "iso:country":"US",
+    "sg:address":"8406 Isaac Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 833 3389",
+    "sg:postcode":"53719",
+    "sg:province":"WI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j6IZdD5VQkwnpAh9Zo2kK_43.062499_-89.528336@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586399,
+    "wof:geomhash":"74db48cb67194372efc472c2288504a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":773528383
+        }
+    ],
+    "wof:id":773528383,
+    "wof:lastmodified":1462586399,
+    "wof:name":"Junction Ridge Apartments",
+    "wof:parent_id":85878843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.528336,
+    43.062499,
+    -89.528336,
+    43.062499
+],
+  "geometry": {"coordinates":[-89.528336,43.062499],"type":"Point"}
+}

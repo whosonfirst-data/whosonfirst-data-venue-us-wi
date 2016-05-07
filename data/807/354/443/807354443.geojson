@@ -1,0 +1,72 @@
+{
+  "id": 807354443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.484016,43.107519,-88.484016,43.107519",
+    "geom:latitude":43.107519,
+    "geom:longitude":-88.484016,
+    "iso:country":"US",
+    "sg:address":"860 E Wisconsin Ave",
+    "sg:city":"Oconomowoc",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/oconomowoc/181469-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 567 8660",
+    "sg:postcode":"53066",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85851111,
+        102081741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1brm019aGfN99fHd9Bg9TG_43.107519_-88.484016@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606565,
+    "wof:geomhash":"3d558b6cc51e207905f4dc764ac6c1ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081741,
+            "neighbourhood_id":85851111,
+            "region_id":85688517,
+            "venue_id":807354443
+        }
+    ],
+    "wof:id":807354443,
+    "wof:lastmodified":1462606565,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85851111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -88.484016,
+    43.107519,
+    -88.484016,
+    43.107519
+],
+  "geometry": {"coordinates":[-88.484016,43.107519],"type":"Point"}
+}

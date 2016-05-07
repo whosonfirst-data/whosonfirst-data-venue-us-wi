@@ -1,0 +1,76 @@
+{
+  "id": 806932943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.889943,43.051051,-87.889943,43.051051",
+    "geom:latitude":43.051051,
+    "geom:longitude":-87.889943,
+    "iso:country":"US",
+    "sg:address":"1750 N Lincoln Memorial Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 347 9011",
+    "sg:postcode":"53202",
+    "sg:province":"WI",
+    "sg:tags":[
+        "product",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85870961,
+        102081837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Sfuii6QrYXSxUcd94r58f_43.051051_-87.889943@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602298,
+    "wof:geomhash":"b8329c4672ed607066fe3aa610b89e2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081837,
+            "neighbourhood_id":85870961,
+            "region_id":85688517,
+            "venue_id":806932943
+        }
+    ],
+    "wof:id":806932943,
+    "wof:lastmodified":1462602298,
+    "wof:name":"Rojo's Popcorn",
+    "wof:parent_id":85870961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "eating"
+    ]
+},
+  "bbox": [
+    -87.889943,
+    43.051051,
+    -87.889943,
+    43.051051
+],
+  "geometry": {"coordinates":[-87.889943,43.051051],"type":"Point"}
+}

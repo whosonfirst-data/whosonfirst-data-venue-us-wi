@@ -1,0 +1,84 @@
+{
+  "id": 823133771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.235718,42.976116,-88.235718,42.976116",
+    "geom:latitude":42.976116,
+    "geom:longitude":-88.235718,
+    "iso:country":"US",
+    "sg:address":"2111 S West Ave Ste 52",
+    "sg:city":"Waukesha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Psychics & Astrologers",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 232 0706",
+    "sg:postcode":"53189",
+    "sg:province":"WI",
+    "sg:tags":[
+        "therapist",
+        "supplies-renting",
+        "hospital",
+        "respiratory",
+        "wheelchairs-rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733509,
+        102081741,
+        85868297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ESoFJGYlXvIQOJZPKQ3iF_42.976116_-88.235718@1303262807"
+    },
+    "wof:country":"US",
+    "wof:created":1462607398,
+    "wof:geomhash":"b4f58584599250107c3d9e4453ec88b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081741,
+            "locality_id":101733509,
+            "neighbourhood_id":85868297,
+            "region_id":85688517,
+            "venue_id":823133771
+        }
+    ],
+    "wof:id":823133771,
+    "wof:lastmodified":1462607398,
+    "wof:name":"Northwest Respiratory Services",
+    "wof:parent_id":85868297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "supplies-renting",
+        "hospital",
+        "respiratory",
+        "wheelchairs-rental"
+    ]
+},
+  "bbox": [
+    -88.235718,
+    42.976116,
+    -88.235718,
+    42.976116
+],
+  "geometry": {"coordinates":[-88.23571800000001,42.976116],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 807099663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.590529,44.912067,-89.590529,44.912067",
+    "geom:latitude":44.912067,
+    "geom:longitude":-89.590529,
+    "iso:country":"US",
+    "sg:address":"5011 Elm St",
+    "sg:city":"Schofield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 359 5791",
+    "sg:postcode":"54476",
+    "sg:province":"WI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85854809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BTLkgCqJjcQv8hoHIk632_44.912067_-89.590529@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603718,
+    "wof:geomhash":"6700b67e996a21125f9f179d7505fa9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85854809,
+            "region_id":85688517,
+            "venue_id":807099663
+        }
+    ],
+    "wof:id":807099663,
+    "wof:lastmodified":1462603718,
+    "wof:name":"Dick's Lock & Key Svc",
+    "wof:parent_id":85854809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -89.590529,
+    44.912067,
+    -89.590529,
+    44.912067
+],
+  "geometry": {"coordinates":[-89.590529,44.912067],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789654329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.453018,44.271451,-88.453018,44.271451",
+    "geom:latitude":44.271451,
+    "geom:longitude":-88.453018,
+    "iso:country":"US",
+    "sg:address":"3010 W Elberg Ave",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 832 8304",
+    "sg:postcode":"54914",
+    "sg:province":"WI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PDnXoi3sGqRIxWtzD5GNp_44.271451_-88.453018@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589489,
+    "wof:geomhash":"edc3ee5734797ae2c7d2dc142c13f795",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":789654329
+        }
+    ],
+    "wof:id":789654329,
+    "wof:lastmodified":1462589489,
+    "wof:name":"J & J Custom Body & Fab",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -88.453018,
+    44.271451,
+    -88.453018,
+    44.271451
+],
+  "geometry": {"coordinates":[-88.453018,44.271451],"type":"Point"}
+}

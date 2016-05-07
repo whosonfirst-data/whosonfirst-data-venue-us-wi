@@ -1,0 +1,72 @@
+{
+  "id": 807372389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.74899,43.751145,-87.74899,43.751145",
+    "geom:latitude":43.751145,
+    "geom:longitude":-87.74899,
+    "iso:country":"US",
+    "sg:address":"571 S Taylor Dr",
+    "sg:city":"Sheboygan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/sheboygan/155245-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 458 8813",
+    "sg:postcode":"53081",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85818209,
+        102081869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20eoGvpvlkeTBHWo4I1rFu_43.750932_-87.749084@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606822,
+    "wof:geomhash":"235af3f096c454756949d08acf61a3db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "neighbourhood_id":85818209,
+            "region_id":85688517,
+            "venue_id":807372389
+        }
+    ],
+    "wof:id":807372389,
+    "wof:lastmodified":1462606822,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85818209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -87.74899,
+    43.751145,
+    -87.74899,
+    43.751145
+],
+  "geometry": {"coordinates":[-87.74899000000001,43.751145],"type":"Point"}
+}

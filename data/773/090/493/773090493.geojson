@@ -1,0 +1,84 @@
+{
+  "id": 773090493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.520091,44.380775,-88.520091,44.380775",
+    "geom:latitude":44.380775,
+    "geom:longitude":-88.520091,
+    "iso:country":"US",
+    "sg:address":"6501 Midway Rd",
+    "sg:city":"Hortonville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 757 5845",
+    "sg:postcode":"54944",
+    "sg:province":"WI",
+    "sg:tags":[
+        "engine",
+        "equipment",
+        "lawn",
+        "small",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kl8z5lbzKHmAk51qSgNm2_44.380775_-88.520091@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583082,
+    "wof:geomhash":"4289ab795fb92259b304d22e4ac82c66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":773090493
+        }
+    ],
+    "wof:id":773090493,
+    "wof:lastmodified":1462583082,
+    "wof:name":"Bob's Small Engine Repair",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "equipment",
+        "lawn",
+        "small",
+        "mower"
+    ]
+},
+  "bbox": [
+    -88.520091,
+    44.380775,
+    -88.520091,
+    44.380775
+],
+  "geometry": {"coordinates":[-88.52009099999999,44.380775],"type":"Point"}
+}

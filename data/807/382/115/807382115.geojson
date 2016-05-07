@@ -1,0 +1,95 @@
+{
+  "id": 807382115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.371638,43.049984,-88.371638,43.049984",
+    "geom:latitude":43.049984,
+    "geom:longitude":-88.371638,
+    "iso:country":"US",
+    "sg:address":"2754 Heritage Dr",
+    "sg:city":"Delafield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 646 3900",
+    "sg:postcode":"53018",
+    "sg:province":"WI",
+    "sg:tags":[
+        "hospital",
+        "dog",
+        "cat",
+        "clinic",
+        "veterinarian",
+        "grooming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808383,
+        102191575,
+        404495627,
+        85633793,
+        101733479,
+        102081741,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68CRnkjgI81DLA8znUkVjw_43.049984_-88.371638@1303262805"
+    },
+    "wof:country":"US",
+    "wof:created":1462606949,
+    "wof:geomhash":"47257ba75e548dedfb851848171841e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081741,
+            "localadmin_id":404495627,
+            "locality_id":101733479,
+            "neighbourhood_id":85808383,
+            "region_id":85688517,
+            "venue_id":807382115
+        }
+    ],
+    "wof:id":807382115,
+    "wof:lastmodified":1462606949,
+    "wof:name":"Heritage Animal Clinic SC",
+    "wof:parent_id":85808383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "dog",
+        "cat",
+        "clinic",
+        "veterinarian",
+        "grooming"
+    ]
+},
+  "bbox": [
+    -88.371638,
+    43.049984,
+    -88.371638,
+    43.049984
+],
+  "geometry": {"coordinates":[-88.371638,43.049984],"type":"Point"}
+}

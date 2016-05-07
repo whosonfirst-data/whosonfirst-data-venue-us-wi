@@ -1,0 +1,73 @@
+{
+  "id": 789588199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.313712,42.865106,-88.313712,42.865106",
+    "geom:latitude":42.865106,
+    "geom:longitude":-88.313712,
+    "iso:country":"US",
+    "sg:address":"941 Perkins Dr",
+    "sg:city":"Mukwonago",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 363 9990",
+    "sg:postcode":"53149",
+    "sg:province":"WI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732227,
+        102081741,
+        85838789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aNVm1KICHCpCLUrv0tBea_42.865106_-88.313712@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588973,
+    "wof:geomhash":"a688c555d1cd7af0162b8fd9a820ca24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081741,
+            "locality_id":101732227,
+            "neighbourhood_id":85838789,
+            "region_id":85688517,
+            "venue_id":789588199
+        }
+    ],
+    "wof:id":789588199,
+    "wof:lastmodified":1462588973,
+    "wof:name":"Roberts Orthodontic Laboratory",
+    "wof:parent_id":85838789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -88.313712,
+    42.865106,
+    -88.313712,
+    42.865106
+],
+  "geometry": {"coordinates":[-88.313712,42.865106],"type":"Point"}
+}

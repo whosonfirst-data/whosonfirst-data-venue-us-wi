@@ -1,0 +1,78 @@
+{
+  "id": 807357599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.889116,43.056309,-87.889116,43.056309",
+    "geom:latitude":43.056309,
+    "geom:longitude":-87.889116,
+    "iso:country":"US",
+    "sg:address":"1952 N Farwell Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/milwaukee/185036-patty-burger/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 271 3800",
+    "sg:postcode":"53202",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870987,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mU6s5CvsAFyALKy46c9cZ_43.056309_-87.889116@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606617,
+    "wof:geomhash":"5d3003bd2d1b02029ff4567183171ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870987,
+            "region_id":85688517,
+            "venue_id":807357599
+        }
+    ],
+    "wof:id":807357599,
+    "wof:lastmodified":1462606617,
+    "wof:name":"Patty Burger",
+    "wof:parent_id":85870987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -87.889116,
+    43.056309,
+    -87.889116,
+    43.056309
+],
+  "geometry": {"coordinates":[-87.889116,43.056309],"type":"Point"}
+}

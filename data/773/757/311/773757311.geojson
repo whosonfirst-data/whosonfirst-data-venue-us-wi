@@ -1,0 +1,71 @@
+{
+  "id": 773757311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.224009,43.035174,-89.224009,43.035174",
+    "geom:latitude":43.035174,
+    "geom:longitude":-89.224009,
+    "iso:country":"US",
+    "sg:address":"2762 US Hwy 18",
+    "sg:city":"Cottage Grove",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 873 5559",
+    "sg:postcode":"53527",
+    "sg:province":"WI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85814911,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iOUrMpaokqDcMewLs3pSZ_43.035174_-89.224009@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588149,
+    "wof:geomhash":"c0ff4e8b68df44417610522f71bb9708",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85814911,
+            "region_id":85688517,
+            "venue_id":773757311
+        }
+    ],
+    "wof:id":773757311,
+    "wof:lastmodified":1462588149,
+    "wof:name":"Road Ranger",
+    "wof:parent_id":85814911,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -89.224009,
+    43.035174,
+    -89.224009,
+    43.035174
+],
+  "geometry": {"coordinates":[-89.224009,43.035174],"type":"Point"}
+}

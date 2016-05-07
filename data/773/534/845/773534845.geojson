@@ -1,0 +1,71 @@
+{
+  "id": 773534845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.643886,42.632849,-88.643886,42.632849",
+    "geom:latitude":42.632849,
+    "geom:longitude":-88.643886,
+    "iso:country":"US",
+    "sg:address":"112 S 4th St",
+    "sg:city":"Delavan",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 248 4770",
+    "sg:postcode":"53115",
+    "sg:province":"WI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733549,
+        102081883,
+        85829149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19m3LBA6COVLcANkuhZqvP_42.632849_-88.643886@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586445,
+    "wof:geomhash":"614133a2621c5892f402afc94247e89e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733549,
+            "neighbourhood_id":85829149,
+            "region_id":85688517,
+            "venue_id":773534845
+        }
+    ],
+    "wof:id":773534845,
+    "wof:lastmodified":1462586445,
+    "wof:name":"Lakes Area Taxi",
+    "wof:parent_id":85829149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -88.643886,
+    42.632849,
+    -88.643886,
+    42.632849
+],
+  "geometry": {"coordinates":[-88.64388599999999,42.632849],"type":"Point"}
+}

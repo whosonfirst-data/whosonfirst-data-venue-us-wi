@@ -1,0 +1,91 @@
+{
+  "id": 823142227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.922997,43.060353,-87.922997,43.060353",
+    "geom:latitude":43.060353,
+    "geom:longitude":-87.922997,
+    "iso:country":"US",
+    "sg:address":"920 W North Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 374 6565",
+    "sg:postcode":"53205",
+    "sg:province":"WI",
+    "sg:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ],
+    "sg:website":"http://www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550051,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vqcWNwUMBE0nzmIWzVTVo_43.060353_-87.922997@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607558,
+    "wof:geomhash":"c070bbdd4362286d9ddd9b296574072f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":420550051,
+            "region_id":85688517,
+            "venue_id":823142227
+        }
+    ],
+    "wof:id":823142227,
+    "wof:lastmodified":1462607558,
+    "wof:name":"McDonald's",
+    "wof:parent_id":420550051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -87.922997,
+    43.060353,
+    -87.922997,
+    43.060353
+],
+  "geometry": {"coordinates":[-87.922997,43.060353],"type":"Point"}
+}

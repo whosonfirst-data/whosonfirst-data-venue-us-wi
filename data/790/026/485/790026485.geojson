@@ -1,0 +1,71 @@
+{
+  "id": 790026485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.432608,42.592902,-88.432608,42.592902",
+    "geom:latitude":42.592902,
+    "geom:longitude":-88.432608,
+    "iso:country":"US",
+    "sg:address":"626 Geneva St",
+    "sg:city":"Lake Geneva",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 248 4455",
+    "sg:postcode":"53147",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733551,
+        102081883,
+        85812017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DXMINKoQlYM3yd9ZnkJ5k_42.592902_-88.432608@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592543,
+    "wof:geomhash":"18218852c2387571a7808daccd3dd9a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733551,
+            "neighbourhood_id":85812017,
+            "region_id":85688517,
+            "venue_id":790026485
+        }
+    ],
+    "wof:id":790026485,
+    "wof:lastmodified":1462592543,
+    "wof:name":"Lake Geneva Police Dept",
+    "wof:parent_id":85812017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.432608,
+    42.592902,
+    -88.432608,
+    42.592902
+],
+  "geometry": {"coordinates":[-88.432608,42.592902],"type":"Point"}
+}

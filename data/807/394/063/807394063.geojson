@@ -1,0 +1,93 @@
+{
+  "id": 807394063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.63111,42.63245,-88.63111,42.63245",
+    "geom:latitude":42.63245,
+    "geom:longitude":-88.63111,
+    "iso:country":"US",
+    "sg:address":"1107 Ann St",
+    "sg:city":"Delavan",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 728 8354",
+    "sg:postcode":"53115",
+    "sg:province":"WI",
+    "sg:tags":[
+        "grooming",
+        "dog",
+        "kennel",
+        "cat"
+    ],
+    "sg:website":"http://www.delavananimalclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733549,
+        102081883,
+        85829149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u0XKYsjmI0suqr59vtnQk_42.632450_-88.631110@1303262806"
+    },
+    "wof:country":"US",
+    "wof:created":1462607141,
+    "wof:geomhash":"70bcefd7e2f1ca729a74060013abb6a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733549,
+            "neighbourhood_id":85829149,
+            "region_id":85688517,
+            "venue_id":807394063
+        }
+    ],
+    "wof:id":807394063,
+    "wof:lastmodified":1462607141,
+    "wof:name":"Delavan Animal Clinic Boarding Kennel",
+    "wof:parent_id":85829149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "dog",
+        "kennel",
+        "cat"
+    ]
+},
+  "bbox": [
+    -88.63111,
+    42.63245,
+    -88.63111,
+    42.63245
+],
+  "geometry": {"coordinates":[-88.63111000000001,42.63245],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 789701659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.98169,42.98077,-87.98169,42.98077",
+    "geom:latitude":42.98077,
+    "geom:longitude":-87.98169,
+    "iso:country":"US",
+    "sg:address":"5454 W Forest Home Ave",
+    "sg:city":"Greenfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 321 5450",
+    "sg:postcode":"53220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550055,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SMBi5miPi0VjLIzg9gJ91_42.980770_-87.981690@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589869,
+    "wof:geomhash":"093321764ff61fbcd777d748c82a534a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":420550055,
+            "region_id":85688517,
+            "venue_id":789701659
+        }
+    ],
+    "wof:id":789701659,
+    "wof:lastmodified":1462589869,
+    "wof:name":"Dave's Garage",
+    "wof:parent_id":420550055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.98169,
+    42.98077,
+    -87.98169,
+    42.98077
+],
+  "geometry": {"coordinates":[-87.98169,42.98077],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 807368973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.519312,44.792727,-91.519312,44.792727",
+    "geom:latitude":44.792727,
+    "geom:longitude":-91.519312,
+    "iso:country":"US",
+    "sg:address":"2512 Craig Rd",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/293029-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 835 1887",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85848105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LwXnyjqW2L4XXznOoqq8G_44.792727_-91.519312@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606777,
+    "wof:geomhash":"475b34ceb4b73cb63f685df004a907c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85848105,
+            "region_id":85688517,
+            "venue_id":807368973
+        }
+    ],
+    "wof:id":807368973,
+    "wof:lastmodified":1462606777,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85848105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -91.519312,
+    44.792727,
+    -91.519312,
+    44.792727
+],
+  "geometry": {"coordinates":[-91.519312,44.792727],"type":"Point"}
+}

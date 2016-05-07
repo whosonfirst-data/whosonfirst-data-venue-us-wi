@@ -1,0 +1,85 @@
+{
+  "id": 823147431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.9197,43.100112,-87.9197,43.100112",
+    "geom:latitude":43.100112,
+    "geom:longitude":-87.9197,
+    "iso:country":"US",
+    "sg:address":"727 W Glendale Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Dog Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 967 5857",
+    "sg:postcode":"53209",
+    "sg:province":"WI",
+    "sg:tags":[
+        "care",
+        "day",
+        "kennel"
+    ],
+    "sg:website":"http://www.dogtireddogs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870875,
+        102191575,
+        404494169,
+        85633793,
+        101733069,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PJq7qiLQBnOao0CuHiiVU_43.100112_-87.919700@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607637,
+    "wof:geomhash":"4b6f3bc251af492dc3780bf9b0052c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494169,
+            "locality_id":101733069,
+            "neighbourhood_id":85870875,
+            "region_id":85688517,
+            "venue_id":823147431
+        }
+    ],
+    "wof:id":823147431,
+    "wof:lastmodified":1462607637,
+    "wof:name":"Dog Tired Day Care",
+    "wof:parent_id":85870875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "care",
+        "day",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -87.9197,
+    43.100112,
+    -87.9197,
+    43.100112
+],
+  "geometry": {"coordinates":[-87.91970000000001,43.100112],"type":"Point"}
+}

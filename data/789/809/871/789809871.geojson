@@ -1,0 +1,75 @@
+{
+  "id": 789809871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.475647,44.280273,-88.475647,44.280273",
+    "geom:latitude":44.280273,
+    "geom:longitude":-88.475647,
+    "iso:country":"US",
+    "sg:address":"4276 W Parkway Blvd",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 731 3544",
+    "sg:postcode":"54913",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t8P6H3xztovz3IEGAv3zQ_44.280273_-88.475647@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590712,
+    "wof:geomhash":"6509550343c80c928f0ace52ae775e1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":789809871
+        }
+    ],
+    "wof:id":789809871,
+    "wof:lastmodified":1462590712,
+    "wof:name":"Complete Radiator Service",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -88.475647,
+    44.280273,
+    -88.475647,
+    44.280273
+],
+  "geometry": {"coordinates":[-88.475647,44.280273],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 807358243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.911096,43.019979,-87.911096,43.019979",
+    "geom:latitude":43.019979,
+    "geom:longitude":-87.911096,
+    "iso:country":"US",
+    "sg:address":"1100 S 1st St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/milwaukee/271572-marcheses-olive-pit/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 384 9555",
+    "sg:postcode":"53204",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870925,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517,
+        85870951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u5TDgksa58eDOBrWS18CT_43.019979_-87.911096@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606626,
+    "wof:geomhash":"ea82a166792a40f905740b9ce78c8436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870925,
+            "region_id":85688517,
+            "venue_id":807358243
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870951,
+            "region_id":85688517,
+            "venue_id":807358243
+        }
+    ],
+    "wof:id":807358243,
+    "wof:lastmodified":1462606626,
+    "wof:name":"Marchese's Olive Pit",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -87.911096,
+    43.019979,
+    -87.911096,
+    43.019979
+],
+  "geometry": {"coordinates":[-87.911096,43.019979],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 823151891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.914155,43.071193,-87.914155,43.071193",
+    "geom:latitude":43.071193,
+    "geom:longitude":-87.914155,
+    "iso:country":"US",
+    "sg:address":"310 W Locust St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 286 3098",
+    "sg:postcode":"53212",
+    "sg:province":"WI",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.ci.mil.wi.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870991,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34X09TqzLXOMufhTB2xlO1_43.071193_-87.914155@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607690,
+    "wof:geomhash":"6674ccf088eb57b8d3baf6cdc5b49ee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870991,
+            "region_id":85688517,
+            "venue_id":823151891
+        }
+    ],
+    "wof:id":823151891,
+    "wof:lastmodified":1462607690,
+    "wof:name":"Martin Luther King Library",
+    "wof:parent_id":85870991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -87.914155,
+    43.071193,
+    -87.914155,
+    43.071193
+],
+  "geometry": {"coordinates":[-87.91415499999999,43.071193],"type":"Point"}
+}

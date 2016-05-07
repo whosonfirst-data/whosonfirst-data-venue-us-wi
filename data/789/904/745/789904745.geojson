@@ -1,0 +1,71 @@
+{
+  "id": 789904745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.437863,44.250676,-88.437863,44.250676",
+    "geom:latitude":44.250676,
+    "geom:longitude":-88.437863,
+    "iso:country":"US",
+    "sg:address":"1201 Bartell Ct",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 733 5660",
+    "sg:postcode":"54914",
+    "sg:province":"WI",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LtC8Z48Jxh6vJzKbRWEoU_44.250676_-88.437863@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591481,
+    "wof:geomhash":"03ccc7c6d25d085d4bda227391eec9a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":789904745
+        }
+    ],
+    "wof:id":789904745,
+    "wof:lastmodified":1462591481,
+    "wof:name":"Running Wolf Courier",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -88.437863,
+    44.250676,
+    -88.437863,
+    44.250676
+],
+  "geometry": {"coordinates":[-88.43786299999999,44.250676],"type":"Point"}
+}

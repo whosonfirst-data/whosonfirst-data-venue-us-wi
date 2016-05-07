@@ -1,0 +1,76 @@
+{
+  "id": 807356247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.42437,42.606109,-88.42437,42.606109",
+    "geom:latitude":42.606109,
+    "geom:longitude":-88.42437,
+    "iso:country":"US",
+    "sg:address":"96 E Geneva Sq",
+    "sg:city":"Lake Geneva",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/lake-geneva/85799-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 248 5050",
+    "sg:postcode":"53147",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733551,
+        102081883,
+        85812017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q8YHBoYsEft3ZttXMeqjN_42.606109_-88.424370@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606597,
+    "wof:geomhash":"84d77dc701aea132ea7729427a8a7ff9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733551,
+            "neighbourhood_id":85812017,
+            "region_id":85688517,
+            "venue_id":807356247
+        }
+    ],
+    "wof:id":807356247,
+    "wof:lastmodified":1462606597,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85812017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.42437,
+    42.606109,
+    -88.42437,
+    42.606109
+],
+  "geometry": {"coordinates":[-88.42437,42.606109],"type":"Point"}
+}

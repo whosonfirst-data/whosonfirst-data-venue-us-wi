@@ -1,0 +1,75 @@
+{
+  "id": 789629941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.482728,43.055652,-89.482728,43.055652",
+    "geom:latitude":43.055652,
+    "geom:longitude":-89.482728,
+    "iso:country":"US",
+    "sg:address":"6001 Research Park Blvd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 263 4760",
+    "sg:postcode":"53719",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878893,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wFOxi3E9FTtliWwP88ZsV_43.055652_-89.482728@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589292,
+    "wof:geomhash":"661ac63822222769e78a92dd749ebbbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878893,
+            "region_id":85688517,
+            "venue_id":789629941
+        }
+    ],
+    "wof:id":789629941,
+    "wof:lastmodified":1462589292,
+    "wof:name":"Dept Psychiatry",
+    "wof:parent_id":85878893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.482728,
+    43.055652,
+    -89.482728,
+    43.055652
+],
+  "geometry": {"coordinates":[-89.48272799999999,43.055652],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 807372897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.902918,43.039919,-87.902918,43.039919",
+    "geom:latitude":43.039919,
+    "geom:longitude":-87.902918,
+    "iso:country":"US",
+    "sg:address":"733 N Van Buren St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/milwaukee/143590-gus-mexican-cantina/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 276 9933",
+    "sg:postcode":"53202",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867289,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lgd5arbWpc3E3qu9Ykrjb_43.039370_-87.902899@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606828,
+    "wof:geomhash":"8fb4d7bb248f4ba30fa597dc9ca829d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85867289,
+            "region_id":85688517,
+            "venue_id":807372897
+        }
+    ],
+    "wof:id":807372897,
+    "wof:lastmodified":1462606828,
+    "wof:name":"Gus' Mexican Cantina",
+    "wof:parent_id":85867289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -87.902918,
+    43.039919,
+    -87.902918,
+    43.039919
+],
+  "geometry": {"coordinates":[-87.902918,43.039919],"type":"Point"}
+}

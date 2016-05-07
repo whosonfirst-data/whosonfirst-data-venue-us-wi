@@ -1,0 +1,84 @@
+{
+  "id": 807363343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.394272,43.074859,-89.394272,43.074859",
+    "geom:latitude":43.074859,
+    "geom:longitude":-89.394272,
+    "iso:country":"US",
+    "sg:address":"540 State St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/27777-ginos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 257 9022",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "pasta",
+        "italian",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878887,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d2dyNDHb3vrviKqhD6LZr_43.074859_-89.394272@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606700,
+    "wof:geomhash":"3d952259ef7e3b3511e7d2345c2f6403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878887,
+            "region_id":85688517,
+            "venue_id":807363343
+        }
+    ],
+    "wof:id":807363343,
+    "wof:lastmodified":1462606700,
+    "wof:name":"Gino's",
+    "wof:parent_id":85878887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pasta",
+        "italian",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.394272,
+    43.074859,
+    -89.394272,
+    43.074859
+],
+  "geometry": {"coordinates":[-89.394272,43.074859],"type":"Point"}
+}

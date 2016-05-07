@@ -1,0 +1,78 @@
+{
+  "id": 789950591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.570074,44.712604,-91.570074,44.712604",
+    "geom:latitude":44.712604,
+    "geom:longitude":-91.570074,
+    "iso:country":"US",
+    "sg:address":"4045 Langdell Rd",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 832 8950",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "body",
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85848105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kQxRTl9obAad4gEZWXf1g_44.712604_-91.570074@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591918,
+    "wof:geomhash":"aa39ab993f398eddf95d58b79c71540b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85848105,
+            "region_id":85688517,
+            "venue_id":789950591
+        }
+    ],
+    "wof:id":789950591,
+    "wof:lastmodified":1462591918,
+    "wof:name":"ABC Auto Upholstery",
+    "wof:parent_id":85848105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -91.570074,
+    44.712604,
+    -91.570074,
+    44.712604
+],
+  "geometry": {"coordinates":[-91.57007400000001,44.712604],"type":"Point"}
+}

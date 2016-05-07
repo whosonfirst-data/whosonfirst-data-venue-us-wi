@@ -1,0 +1,80 @@
+{
+  "id": 807360575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.01391,43.177352,-88.01391,43.177352",
+    "geom:latitude":43.177352,
+    "geom:longitude":-88.01391,
+    "iso:country":"US",
+    "sg:address":"8331 W Brown Deer Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/milwaukee/195821-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 355 0967",
+    "sg:postcode":"53223",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550091,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n37vE4HOLMgeqbjt7KjTZ_43.177352_-88.013910@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606660,
+    "wof:geomhash":"453349dbf9c47b6915be3d1e71f4c0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":420550091,
+            "region_id":85688517,
+            "venue_id":807360575
+        }
+    ],
+    "wof:id":807360575,
+    "wof:lastmodified":1462606660,
+    "wof:name":"Wendy's",
+    "wof:parent_id":420550091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -88.01391,
+    43.177352,
+    -88.01391,
+    43.177352
+],
+  "geometry": {"coordinates":[-88.01391,43.177352],"type":"Point"}
+}

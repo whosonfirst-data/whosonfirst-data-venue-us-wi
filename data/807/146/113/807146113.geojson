@@ -1,0 +1,69 @@
+{
+  "id": 807146113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.307175,43.15227,-89.307175,43.15227",
+    "geom:latitude":43.15227,
+    "geom:longitude":-89.307175,
+    "iso:country":"US",
+    "sg:address":"3709 Hanson Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 301 0427",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ie5sgUd5wMvSeurP22lU6_43.152270_-89.307175@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604229,
+    "wof:geomhash":"c3ef9a1444eacb816ab50d68d1c8f28f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":807146113
+        }
+    ],
+    "wof:id":807146113,
+    "wof:lastmodified":1462604229,
+    "wof:name":"M & J Truck & Auto",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -89.307175,
+    43.15227,
+    -89.307175,
+    43.15227
+],
+  "geometry": {"coordinates":[-89.307175,43.15227],"type":"Point"}
+}

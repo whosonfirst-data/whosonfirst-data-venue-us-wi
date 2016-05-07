@@ -1,0 +1,71 @@
+{
+  "id": 773621797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.283251,44.76348,-91.283251,44.76348",
+    "geom:latitude":44.76348,
+    "geom:longitude":-91.283251,
+    "iso:country":"US",
+    "sg:address":"530 US Hwy 12",
+    "sg:city":"Fall Creek",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 877 3311",
+    "sg:postcode":"54742",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79PtdfBl7x31NyFndMTOgh_44.763480_-91.283251@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462587109,
+    "wof:geomhash":"ecbb8229c28a78864af48d35d2749c29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":773621797
+        }
+    ],
+    "wof:id":773621797,
+    "wof:lastmodified":1462587109,
+    "wof:name":"Fall Creek Fire Station",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.283251,
+    44.76348,
+    -91.283251,
+    44.76348
+],
+  "geometry": {"coordinates":[-91.28325100000001,44.76348],"type":"Point"}
+}

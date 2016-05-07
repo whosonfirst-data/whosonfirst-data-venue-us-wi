@@ -1,0 +1,69 @@
+{
+  "id": 773172547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.3513,44.243767,-88.3513,44.243767",
+    "geom:latitude":44.243767,
+    "geom:longitude":-88.3513,
+    "iso:country":"US",
+    "sg:address":"3701 E Calumet St",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 996 0573",
+    "sg:postcode":"54915",
+    "sg:province":"WI",
+    "sg:tags":[
+        "grocery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85813523,
+        102081289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SIYn05be2W8rqNZdhCQtm_44.243767_-88.351300@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583685,
+    "wof:geomhash":"9c77fe15d71d5fc96466b457ae0e1570",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081289,
+            "neighbourhood_id":85813523,
+            "region_id":85688517,
+            "venue_id":773172547
+        }
+    ],
+    "wof:id":773172547,
+    "wof:lastmodified":1462583685,
+    "wof:name":"Wal-Mart",
+    "wof:parent_id":85813523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery"
+    ]
+},
+  "bbox": [
+    -88.3513,
+    44.243767,
+    -88.3513,
+    44.243767
+],
+  "geometry": {"coordinates":[-88.35129999999999,44.243767],"type":"Point"}
+}

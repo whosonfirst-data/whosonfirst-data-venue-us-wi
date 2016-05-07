@@ -1,0 +1,74 @@
+{
+  "id": 806558179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.505971,44.82223,-91.505971,44.82223",
+    "geom:latitude":44.82223,
+    "geom:longitude":-91.505971,
+    "iso:country":"US",
+    "sg:address":"910 Forest St",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 839 5111",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "sg:website":"www.ci.eau-claire.wi.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73RzLEEeL1kJYz5gbRCvVu_44.822230_-91.505971@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462599106,
+    "wof:geomhash":"1771d30565bb495d50f43f49fa990572",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":806558179
+        }
+    ],
+    "wof:id":806558179,
+    "wof:lastmodified":1462599106,
+    "wof:name":"Eau Claire City Buses",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -91.505971,
+    44.82223,
+    -91.505971,
+    44.82223
+],
+  "geometry": {"coordinates":[-91.505971,44.82223],"type":"Point"}
+}

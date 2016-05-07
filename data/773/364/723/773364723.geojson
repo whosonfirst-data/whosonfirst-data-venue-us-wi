@@ -1,0 +1,71 @@
+{
+  "id": 773364723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.433546,44.26579,-88.433546,44.26579",
+    "geom:latitude":44.26579,
+    "geom:longitude":-88.433546,
+    "iso:country":"US",
+    "sg:address":"311 N Linwood Ave",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 830 5026",
+    "sg:postcode":"54914",
+    "sg:province":"WI",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HtGz6q73nRyr0Ws9HFXPt_44.265790_-88.433546@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585145,
+    "wof:geomhash":"c1137176a195fe1de9bb313ace7289aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":773364723
+        }
+    ],
+    "wof:id":773364723,
+    "wof:lastmodified":1462585145,
+    "wof:name":"Warehouse Specialists",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -88.433546,
+    44.26579,
+    -88.433546,
+    44.26579
+],
+  "geometry": {"coordinates":[-88.43354600000001,44.26579],"type":"Point"}
+}

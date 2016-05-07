@@ -1,0 +1,82 @@
+{
+  "id": 823154235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.007708,43.066179,-88.007708,43.066179",
+    "geom:latitude":43.066179,
+    "geom:longitude":-88.007708,
+    "iso:country":"US",
+    "sg:address":"7620 W Clarke St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 453 8111",
+    "sg:postcode":"53213",
+    "sg:province":"WI",
+    "sg:tags":[
+        "laboratory",
+        "apparatus"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870905,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZKZMWI4elp72S0GcHFzgI_43.066179_-88.007708@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607721,
+    "wof:geomhash":"2828ca265faa84e6a77c3302b105320c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870905,
+            "region_id":85688517,
+            "venue_id":823154235
+        }
+    ],
+    "wof:id":823154235,
+    "wof:lastmodified":1462607721,
+    "wof:name":"Milwaukee Technologies Inc",
+    "wof:parent_id":85870905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "apparatus"
+    ]
+},
+  "bbox": [
+    -88.007708,
+    43.066179,
+    -88.007708,
+    43.066179
+],
+  "geometry": {"coordinates":[-88.00770799999999,43.066179],"type":"Point"}
+}

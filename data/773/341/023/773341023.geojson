@@ -1,0 +1,71 @@
+{
+  "id": 773341023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.66835,42.512721,-88.66835,42.512721",
+    "geom:latitude":42.512721,
+    "geom:longitude":-88.66835,
+    "iso:country":"US",
+    "sg:address":"516 Chilson Rd",
+    "sg:city":"Walworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 736 4663",
+    "sg:postcode":"53184",
+    "sg:province":"WI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733549,
+        102081883,
+        85814169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HRoMN29Zb8pvAsp88A6LQ_42.512721_-88.668350@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584988,
+    "wof:geomhash":"5870812583b11ab847e324affe61665a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733549,
+            "neighbourhood_id":85814169,
+            "region_id":85688517,
+            "venue_id":773341023
+        }
+    ],
+    "wof:id":773341023,
+    "wof:lastmodified":1462584988,
+    "wof:name":"Home Appliance Repair",
+    "wof:parent_id":85814169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -88.66835,
+    42.512721,
+    -88.66835,
+    42.512721
+],
+  "geometry": {"coordinates":[-88.66835,42.512721],"type":"Point"}
+}

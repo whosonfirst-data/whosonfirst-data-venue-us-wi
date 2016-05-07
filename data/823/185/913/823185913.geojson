@@ -1,0 +1,89 @@
+{
+  "id": 823185913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.387329,43.074059,-89.387329,43.074059",
+    "geom:latitude":43.074059,
+    "geom:longitude":-89.387329,
+    "iso:country":"US",
+    "sg:address":"201 W Mifflin St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 266 6388",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "parish",
+        "township",
+        "government-city",
+        "government-county",
+        "village"
+    ],
+    "sg:website":"http://www.bookmobile.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878831,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bOh6q6Vjmm35gVVIzTTuP_43.074059_-89.387329@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608142,
+    "wof:geomhash":"00d8b66fac5447b9ce86e59f27151d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878831,
+            "region_id":85688517,
+            "venue_id":823185913
+        }
+    ],
+    "wof:id":823185913,
+    "wof:lastmodified":1462608142,
+    "wof:name":"Dane County Library Service",
+    "wof:parent_id":85878831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "township",
+        "government-city",
+        "government-county",
+        "village"
+    ]
+},
+  "bbox": [
+    -89.387329,
+    43.074059,
+    -89.387329,
+    43.074059
+],
+  "geometry": {"coordinates":[-89.38732899999999,43.074059],"type":"Point"}
+}

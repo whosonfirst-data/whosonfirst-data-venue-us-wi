@@ -1,0 +1,81 @@
+{
+  "id": 807374653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.38125,43.074655,-89.38125,43.074655",
+    "geom:latitude":43.074655,
+    "geom:longitude":-89.38125,
+    "iso:country":"US",
+    "sg:address":"108 King St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/261130-cafe-continental/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 251 4880",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878845,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OgHGkOyg4hQzC6Vn6THmC_43.074721_-89.380859@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606850,
+    "wof:geomhash":"4df99d5f5eb70b5ceef6ee45128c4562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878845,
+            "region_id":85688517,
+            "venue_id":807374653
+        }
+    ],
+    "wof:id":807374653,
+    "wof:lastmodified":1462606850,
+    "wof:name":"Cafe Continental",
+    "wof:parent_id":85878845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -89.38125,
+    43.074655,
+    -89.38125,
+    43.074655
+],
+  "geometry": {"coordinates":[-89.38124999999999,43.074655],"type":"Point"}
+}

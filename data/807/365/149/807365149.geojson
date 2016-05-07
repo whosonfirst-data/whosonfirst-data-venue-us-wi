@@ -1,0 +1,78 @@
+{
+  "id": 807365149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.496678,43.016211,-89.496678,43.016211",
+    "geom:latitude":43.016211,
+    "geom:longitude":-89.496678,
+    "iso:country":"US",
+    "sg:address":"3150 Maple Valley Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/80045-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 845 0845",
+    "sg:postcode":"53719",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878885,
+        102191575,
+        404493257,
+        85633793,
+        101732773,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AmiG5IpSkK9cq53ycllua_43.016211_-89.496678@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606722,
+    "wof:geomhash":"d9eccdb4b12d68f25cfb0477d338b432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404493257,
+            "locality_id":101732773,
+            "neighbourhood_id":85878885,
+            "region_id":85688517,
+            "venue_id":807365149
+        }
+    ],
+    "wof:id":807365149,
+    "wof:lastmodified":1462606722,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85878885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.496678,
+    43.016211,
+    -89.496678,
+    43.016211
+],
+  "geometry": {"coordinates":[-89.496678,43.016211],"type":"Point"}
+}

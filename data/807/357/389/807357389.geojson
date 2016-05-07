@@ -1,0 +1,74 @@
+{
+  "id": 807357389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.540987,42.582717,-88.540987,42.582717",
+    "geom:latitude":42.582717,
+    "geom:longitude":-88.540987,
+    "iso:country":"US",
+    "sg:address":"236 Elkhorn Rd",
+    "sg:city":"Williams Bay",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/williams-bay/145833-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 245 1027",
+    "sg:postcode":"53191",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733551,
+        102081883,
+        85812017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32vglVjUnArJ4hJmyCgJ7L_42.582717_-88.540987@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606615,
+    "wof:geomhash":"e3456bcff881a1187af72b996bbdab1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733551,
+            "neighbourhood_id":85812017,
+            "region_id":85688517,
+            "venue_id":807357389
+        }
+    ],
+    "wof:id":807357389,
+    "wof:lastmodified":1462606615,
+    "wof:name":"Subway",
+    "wof:parent_id":85812017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.540987,
+    42.582717,
+    -88.540987,
+    42.582717
+],
+  "geometry": {"coordinates":[-88.540987,42.582717],"type":"Point"}
+}

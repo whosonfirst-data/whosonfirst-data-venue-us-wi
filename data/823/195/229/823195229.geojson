@@ -1,0 +1,72 @@
+{
+  "id": 823195229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.471709,44.263621,-88.471709,44.263621",
+    "geom:latitude":44.263621,
+    "geom:longitude":-88.471709,
+    "iso:country":"US",
+    "sg:address":"317 N Mall Dr",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Thrift Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 733 3264",
+    "sg:postcode":"54913",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"http://www.savers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sDm7hEXPuvSnkCTTVnhHe_44.263621_-88.471709@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608266,
+    "wof:geomhash":"584fa817263704ea660397d7c6234f35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":823195229
+        }
+    ],
+    "wof:id":823195229,
+    "wof:lastmodified":1462608266,
+    "wof:name":"Savers",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.471709,
+    44.263621,
+    -88.471709,
+    44.263621
+],
+  "geometry": {"coordinates":[-88.471709,44.263621],"type":"Point"}
+}

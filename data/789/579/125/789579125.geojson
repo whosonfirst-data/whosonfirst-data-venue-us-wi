@@ -1,0 +1,71 @@
+{
+  "id": 789579125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.504325,43.098094,-89.504325,43.098094",
+    "geom:latitude":43.098094,
+    "geom:longitude":-89.504325,
+    "iso:country":"US",
+    "sg:address":"2018 Park Lawn Pl",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 712 2018",
+    "sg:postcode":"53562",
+    "sg:province":"WI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732813,
+        102081795,
+        85841479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NeAzzrgDAsEPLveuUorJZ_43.098094_-89.504325@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588897,
+    "wof:geomhash":"2e28efc1a5f77a97b004cd4fec15eea2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732813,
+            "neighbourhood_id":85841479,
+            "region_id":85688517,
+            "venue_id":789579125
+        }
+    ],
+    "wof:id":789579125,
+    "wof:lastmodified":1462588897,
+    "wof:name":"Ray Armas Painting",
+    "wof:parent_id":85841479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -89.504325,
+    43.098094,
+    -89.504325,
+    43.098094
+],
+  "geometry": {"coordinates":[-89.50432499999999,43.098094],"type":"Point"}
+}

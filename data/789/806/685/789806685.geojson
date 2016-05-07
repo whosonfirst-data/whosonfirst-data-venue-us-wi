@@ -1,0 +1,73 @@
+{
+  "id": 789806685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.706611,44.955449,-89.706611,44.955449",
+    "geom:latitude":44.955449,
+    "geom:longitude":-89.706611,
+    "iso:country":"US",
+    "sg:address":"601 S 56th Ave",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 849 3058",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Efg3NN3V5VtWMH3o4i6Uq_44.955449_-89.706611@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590690,
+    "wof:geomhash":"643056f080e3c572ac11d20ef0ec81a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":789806685
+        }
+    ],
+    "wof:id":789806685,
+    "wof:lastmodified":1462590690,
+    "wof:name":"Tamarack Apartments",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.706611,
+    44.955449,
+    -89.706611,
+    44.955449
+],
+  "geometry": {"coordinates":[-89.706611,44.955449],"type":"Point"}
+}

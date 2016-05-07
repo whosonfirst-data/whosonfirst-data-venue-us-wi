@@ -1,0 +1,69 @@
+{
+  "id": 806506307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.155653,44.692392,-90.155653,44.692392",
+    "geom:latitude":44.692392,
+    "geom:longitude":-90.155653,
+    "iso:country":"US",
+    "sg:address":"311 Ash St",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 384 4727",
+    "sg:postcode":"54449",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85832133,
+        102081881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LOvglvMnKFzsdIv8WCxuy_44.692392_-90.155653@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462598682,
+    "wof:geomhash":"0d23eb3fe9d9219bcbc55e2eccf7bcdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "neighbourhood_id":85832133,
+            "region_id":85688517,
+            "venue_id":806506307
+        }
+    ],
+    "wof:id":806506307,
+    "wof:lastmodified":1462598682,
+    "wof:name":"Muellers Animal Clinic",
+    "wof:parent_id":85832133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -90.155653,
+    44.692392,
+    -90.155653,
+    44.692392
+],
+  "geometry": {"coordinates":[-90.155653,44.692392],"type":"Point"}
+}

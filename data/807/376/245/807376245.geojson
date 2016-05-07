@@ -1,0 +1,74 @@
+{
+  "id": 807376245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.594352,44.842979,-91.594352,44.842979",
+    "geom:latitude":44.842979,
+    "geom:longitude":-91.594352,
+    "iso:country":"US",
+    "sg:address":"6123 Truax Ln",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/145456-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 874 6945",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85848105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SEzDo66qdQXhKCNtas23e_44.843441_-91.593933@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606875,
+    "wof:geomhash":"f5b82ff6c3d1993ec38f89028f685900",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85848105,
+            "region_id":85688517,
+            "venue_id":807376245
+        }
+    ],
+    "wof:id":807376245,
+    "wof:lastmodified":1462606875,
+    "wof:name":"Subway",
+    "wof:parent_id":85848105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -91.594352,
+    44.842979,
+    -91.594352,
+    44.842979
+],
+  "geometry": {"coordinates":[-91.594352,44.842979],"type":"Point"}
+}

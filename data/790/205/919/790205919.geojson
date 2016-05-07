@@ -1,0 +1,71 @@
+{
+  "id": 790205919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.412069,44.259704,-88.412069,44.259704",
+    "geom:latitude":44.259704,
+    "geom:longitude":-88.412069,
+    "iso:country":"US",
+    "sg:address":"222 S Walnut St",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 832 5563",
+    "sg:postcode":"54911",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YEesaqpurpXbJUC8RbObX_44.259704_-88.412069@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462594001,
+    "wof:geomhash":"1a28127619f1a67d7b93b37be9d110e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":790205919
+        }
+    ],
+    "wof:id":790205919,
+    "wof:lastmodified":1462594001,
+    "wof:name":"Appleton Police Fingerprint",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.412069,
+    44.259704,
+    -88.412069,
+    44.259704
+],
+  "geometry": {"coordinates":[-88.412069,44.259704],"type":"Point"}
+}

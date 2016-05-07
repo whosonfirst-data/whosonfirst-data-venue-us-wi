@@ -1,0 +1,73 @@
+{
+  "id": 806479381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.482334,44.277183,-88.482334,44.277183",
+    "geom:latitude":44.277183,
+    "geom:longitude":-88.482334,
+    "iso:country":"US",
+    "sg:address":"1850 N Silverspring Dr",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 734 4863",
+    "sg:postcode":"54913",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Xp87qiik36MaIAqPD3O73_44.277183_-88.482334@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462598465,
+    "wof:geomhash":"3475ecaa299f6904a413e339ca4e42da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":806479381
+        }
+    ],
+    "wof:id":806479381,
+    "wof:lastmodified":1462598465,
+    "wof:name":"Affordable Auto Repair",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.482334,
+    44.277183,
+    -88.482334,
+    44.277183
+],
+  "geometry": {"coordinates":[-88.48233399999999,44.277183],"type":"Point"}
+}

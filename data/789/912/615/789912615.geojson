@@ -1,0 +1,77 @@
+{
+  "id": 789912615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.59129,44.865791,-89.59129,44.865791",
+    "geom:latitude":44.865791,
+    "geom:longitude":-89.59129,
+    "iso:country":"US",
+    "sg:address":"2710 Howland Ave",
+    "sg:city":"Schofield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 355 9677",
+    "sg:postcode":"54476",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865437,
+        102191575,
+        404495429,
+        85633793,
+        101732485,
+        102081881,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Se4mog5ansXpaGoHzqfau_44.865791_-89.591290@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591562,
+    "wof:geomhash":"f747880951aa12b68b029773d8c26bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081881,
+            "localadmin_id":404495429,
+            "locality_id":101732485,
+            "neighbourhood_id":85865437,
+            "region_id":85688517,
+            "venue_id":789912615
+        }
+    ],
+    "wof:id":789912615,
+    "wof:lastmodified":1462591562,
+    "wof:name":"Copenhagen Express",
+    "wof:parent_id":85865437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.59129,
+    44.865791,
+    -89.59129,
+    44.865791
+],
+  "geometry": {"coordinates":[-89.59129,44.865791],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773282989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.50339,44.807802,-91.50339,44.807802",
+    "geom:latitude":44.807802,
+    "geom:longitude":-91.50339,
+    "iso:country":"US",
+    "sg:address":"740 2nd Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 839 4702",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eRJ9DsV78WO1HXEcG8fYI_44.807802_-91.503390@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584542,
+    "wof:geomhash":"164045ac96e33d15dff59c0d3bc8a2b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":773282989
+        }
+    ],
+    "wof:id":773282989,
+    "wof:lastmodified":1462584542,
+    "wof:name":"Eau Claire Police Jail",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.50339,
+    44.807802,
+    -91.50339,
+    44.807802
+],
+  "geometry": {"coordinates":[-91.50339,44.807802],"type":"Point"}
+}

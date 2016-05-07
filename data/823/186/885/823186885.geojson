@@ -1,0 +1,71 @@
+{
+  "id": 823186885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.400848,43.067089,-89.400848,43.067089",
+    "geom:latitude":43.067089,
+    "geom:longitude":-89.400848,
+    "iso:country":"US",
+    "sg:address":"1 S Park St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 417 8250",
+    "sg:postcode":"53715",
+    "sg:province":"WI",
+    "sg:website":"http://meriter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868283,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_703LFkUs8f5iV4H6qHvtMO_43.067089_-89.400848@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608154,
+    "wof:geomhash":"dddc32db205a3e1746413d380146eb08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85868283,
+            "region_id":85688517,
+            "venue_id":823186885
+        }
+    ],
+    "wof:id":823186885,
+    "wof:lastmodified":1462608154,
+    "wof:name":"Meriter Hospital",
+    "wof:parent_id":85868283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.400848,
+    43.067089,
+    -89.400848,
+    43.067089
+],
+  "geometry": {"coordinates":[-89.400848,43.067089],"type":"Point"}
+}

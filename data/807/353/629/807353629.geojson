@@ -1,0 +1,74 @@
+{
+  "id": 807353629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.016878,43.83314,-88.016878,43.83314",
+    "geom:latitude":43.83314,
+    "geom:longitude":-88.016878,
+    "iso:country":"US",
+    "sg:address":"111 E Rhine St",
+    "sg:city":"Elkhart Lake",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/elkhart-lake/145459-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 876 3727",
+    "sg:postcode":"53020",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733393,
+        102081869,
+        85836705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23cwMF3NvCBfNYpGzyflKy_43.833140_-88.016878@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606555,
+    "wof:geomhash":"23899fdaa6c0ae856685755b8e2b3d16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "locality_id":101733393,
+            "neighbourhood_id":85836705,
+            "region_id":85688517,
+            "venue_id":807353629
+        }
+    ],
+    "wof:id":807353629,
+    "wof:lastmodified":1462606555,
+    "wof:name":"Subway",
+    "wof:parent_id":85836705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.016878,
+    43.83314,
+    -88.016878,
+    43.83314
+],
+  "geometry": {"coordinates":[-88.01687800000001,43.83314],"type":"Point"}
+}

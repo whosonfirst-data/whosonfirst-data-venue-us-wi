@@ -1,0 +1,71 @@
+{
+  "id": 773835445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.251075,44.478995,-88.251075,44.478995",
+    "geom:latitude":44.478995,
+    "geom:longitude":-88.251075,
+    "iso:country":"US",
+    "sg:address":"6611 Co Rd H",
+    "sg:city":"Oneida",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 833 7707",
+    "sg:postcode":"54155",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dept",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85803271,
+        102081851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YaWOQ3ZjDPy78gry0scwv_44.478995_-88.251075@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588768,
+    "wof:geomhash":"945085c24ed8ea17661a9d089eccd4d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "neighbourhood_id":85803271,
+            "region_id":85688517,
+            "venue_id":773835445
+        }
+    ],
+    "wof:id":773835445,
+    "wof:lastmodified":1462588768,
+    "wof:name":"Oneida Volunteer Fire Dept",
+    "wof:parent_id":85803271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -88.251075,
+    44.478995,
+    -88.251075,
+    44.478995
+],
+  "geometry": {"coordinates":[-88.251075,44.478995],"type":"Point"}
+}

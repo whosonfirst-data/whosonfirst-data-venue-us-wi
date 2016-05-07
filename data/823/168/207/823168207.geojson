@@ -1,0 +1,90 @@
+{
+  "id": 823168207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.040618,43.089619,-88.040618,43.089619",
+    "geom:latitude":43.089619,
+    "geom:longitude":-88.040618,
+    "iso:country":"US",
+    "sg:address":"10225 W Capitol Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 463 5800",
+    "sg:postcode":"53222",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870997,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZpXvEhyWkn73yyfnK26nG_43.089619_-88.040618@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607907,
+    "wof:geomhash":"fe8384485bce5ea37b68ffe44f5b90f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870997,
+            "region_id":85688517,
+            "venue_id":823168207
+        }
+    ],
+    "wof:id":823168207,
+    "wof:lastmodified":1462607907,
+    "wof:name":"Wussow, J R, Dds",
+    "wof:parent_id":85870997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ]
+},
+  "bbox": [
+    -88.040618,
+    43.089619,
+    -88.040618,
+    43.089619
+],
+  "geometry": {"coordinates":[-88.04061799999999,43.089619],"type":"Point"}
+}

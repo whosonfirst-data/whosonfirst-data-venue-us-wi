@@ -1,0 +1,78 @@
+{
+  "id": 807093649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.259906,44.173454,-88.259906,44.173454",
+    "geom:latitude":44.173454,
+    "geom:longitude":-88.259906,
+    "iso:country":"US",
+    "sg:address":"397 Military Rd",
+    "sg:city":"Sherwood",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 989 1999",
+    "sg:postcode":"54169",
+    "sg:province":"WI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885337,
+        102191575,
+        404493061,
+        85633793,
+        101732749,
+        102081289,
+        85688517,
+        85846669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Jul9pjkeBEOTPSZBfnh79_44.173454_-88.259906@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603650,
+    "wof:geomhash":"998987417b7da20d1512e3aef2b996e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081289,
+            "localadmin_id":404493061,
+            "locality_id":101732749,
+            "neighbourhood_id":85885337,
+            "region_id":85688517,
+            "venue_id":807093649
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081289,
+            "neighbourhood_id":85846669,
+            "region_id":85688517,
+            "venue_id":807093649
+        }
+    ],
+    "wof:id":807093649,
+    "wof:lastmodified":1462603650,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.259906,
+    44.173454,
+    -88.259906,
+    44.173454
+],
+  "geometry": {"coordinates":[-88.259906,44.173454],"type":"Point"}
+}

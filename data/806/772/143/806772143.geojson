@@ -1,0 +1,77 @@
+{
+  "id": 806772143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.186491,43.430491,-88.186491,43.430491",
+    "geom:latitude":43.430491,
+    "geom:longitude":-88.186491,
+    "iso:country":"US",
+    "sg:address":"650 N Main St",
+    "sg:city":"West Bend",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 335 8030",
+    "sg:postcode":"53090",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859413,
+        102191575,
+        404495617,
+        85633793,
+        101732991,
+        102081745,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MU1qMkPaIIlYDzA6Fw5MI_43.430491_-88.186491@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462600946,
+    "wof:geomhash":"ff2c24c20d417aad880d4eded0e9e727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081745,
+            "localadmin_id":404495617,
+            "locality_id":101732991,
+            "neighbourhood_id":85859413,
+            "region_id":85688517,
+            "venue_id":806772143
+        }
+    ],
+    "wof:id":806772143,
+    "wof:lastmodified":1462600946,
+    "wof:name":"SRP Automotive Inc",
+    "wof:parent_id":85859413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.186491,
+    43.430491,
+    -88.186491,
+    43.430491
+],
+  "geometry": {"coordinates":[-88.186491,43.430491],"type":"Point"}
+}

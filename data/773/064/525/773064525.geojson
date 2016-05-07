@@ -1,0 +1,82 @@
+{
+  "id": 773064525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.940371,42.926296,-87.940371,42.926296",
+    "geom:latitude":42.926296,
+    "geom:longitude":-87.940371,
+    "iso:country":"US",
+    "sg:address":"6333 S 20th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 761 2033",
+    "sg:postcode":"53154",
+    "sg:province":"WI",
+    "sg:tags":[
+        "coin",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870933,
+        102191575,
+        404494177,
+        85633793,
+        101733079,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eYRUqup8sHv6vCVYMjhvE_42.926296_-87.940371@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462582890,
+    "wof:geomhash":"4123e4399485a4c7185b26e30489eea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494177,
+            "locality_id":101733079,
+            "neighbourhood_id":85870933,
+            "region_id":85688517,
+            "venue_id":773064525
+        }
+    ],
+    "wof:id":773064525,
+    "wof:lastmodified":1462582890,
+    "wof:name":"Barb's Washline Laundry",
+    "wof:parent_id":85870933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin",
+        "power"
+    ]
+},
+  "bbox": [
+    -87.940371,
+    42.926296,
+    -87.940371,
+    42.926296
+],
+  "geometry": {"coordinates":[-87.940371,42.926296],"type":"Point"}
+}

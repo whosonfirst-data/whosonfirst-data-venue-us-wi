@@ -1,0 +1,78 @@
+{
+  "id": 807361531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.825969,42.703183,-87.825969,42.703183",
+    "geom:latitude":42.703183,
+    "geom:longitude":-87.825969,
+    "iso:country":"US",
+    "sg:address":"2221 Lathrop Ave",
+    "sg:city":"Racine",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/racine/145717-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 638 8404",
+    "sg:postcode":"53405",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854859,
+        102191575,
+        404494985,
+        85633793,
+        101732325,
+        102081763,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mFbOhWiHZYhF7rgbR0x6T_42.703183_-87.825969@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606675,
+    "wof:geomhash":"0401441304cd99338bf3cbe275023b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494985,
+            "locality_id":101732325,
+            "neighbourhood_id":85854859,
+            "region_id":85688517,
+            "venue_id":807361531
+        }
+    ],
+    "wof:id":807361531,
+    "wof:lastmodified":1462606675,
+    "wof:name":"Subway",
+    "wof:parent_id":85854859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -87.825969,
+    42.703183,
+    -87.825969,
+    42.703183
+],
+  "geometry": {"coordinates":[-87.825969,42.703183],"type":"Point"}
+}

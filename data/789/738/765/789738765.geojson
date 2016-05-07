@@ -1,0 +1,71 @@
+{
+  "id": 789738765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.584054,44.904745,-89.584054,44.904745",
+    "geom:latitude":44.904745,
+    "geom:longitude":-89.584054,
+    "iso:country":"US",
+    "sg:address":"3109 Schofield Ave",
+    "sg:city":"Schofield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 241 0680",
+    "sg:postcode":"54476",
+    "sg:province":"WI",
+    "sg:tags":[
+        "installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85854809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3flQTlDryyhDmIhR0rHg19_44.904745_-89.584054@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590164,
+    "wof:geomhash":"a882acb35c3e07942f96775c5f8538fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85854809,
+            "region_id":85688517,
+            "venue_id":789738765
+        }
+    ],
+    "wof:id":789738765,
+    "wof:lastmodified":1462590164,
+    "wof:name":"Commercial Installation Inc",
+    "wof:parent_id":85854809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation"
+    ]
+},
+  "bbox": [
+    -89.584054,
+    44.904745,
+    -89.584054,
+    44.904745
+],
+  "geometry": {"coordinates":[-89.58405399999999,44.904745],"type":"Point"}
+}

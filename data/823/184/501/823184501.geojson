@@ -1,0 +1,77 @@
+{
+  "id": 823184501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.529817,43.098465,-89.529817,43.098465",
+    "geom:latitude":43.098465,
+    "geom:longitude":-89.529817,
+    "iso:country":"US",
+    "sg:address":"8447 Murphy Dr",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 824 1413",
+    "sg:postcode":"53562",
+    "sg:province":"WI",
+    "sg:tags":[
+        "equipment-testing"
+    ],
+    "sg:website":"http://www.alliantenergy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_356n5siYlrD882OcKvtdBP_43.098465_-89.529817@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608126,
+    "wof:geomhash":"38c3cfd4efe431e4779e75216fa74453",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":823184501
+        }
+    ],
+    "wof:id":823184501,
+    "wof:lastmodified":1462608126,
+    "wof:name":"Alliant Energy",
+    "wof:parent_id":85878843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment-testing"
+    ]
+},
+  "bbox": [
+    -89.529817,
+    43.098465,
+    -89.529817,
+    43.098465
+],
+  "geometry": {"coordinates":[-89.52981699999999,43.098465],"type":"Point"}
+}

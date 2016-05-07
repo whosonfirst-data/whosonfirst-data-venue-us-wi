@@ -1,0 +1,73 @@
+{
+  "id": 789582043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.798361,44.949872,-89.798361,44.949872",
+    "geom:latitude":44.949872,
+    "geom:longitude":-89.798361,
+    "iso:country":"US",
+    "sg:address":"225 N 128th Ave",
+    "sg:city":"Marathon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 848 3600",
+    "sg:postcode":"54448",
+    "sg:province":"WI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TNTaLgBqYPB43eaiC54VY_44.949872_-89.798361@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588918,
+    "wof:geomhash":"e39b11ead2940eeb461e0dd009cd3346",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":789582043
+        }
+    ],
+    "wof:id":789582043,
+    "wof:lastmodified":1462588918,
+    "wof:name":"Seliger Electric Inc",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.798361,
+    44.949872,
+    -89.798361,
+    44.949872
+],
+  "geometry": {"coordinates":[-89.798361,44.949872],"type":"Point"}
+}

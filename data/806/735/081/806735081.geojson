@@ -1,0 +1,71 @@
+{
+  "id": 806735081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.41567,44.272845,-88.41567,44.272845",
+    "geom:latitude":44.272845,
+    "geom:longitude":-88.41567,
+    "iso:country":"US",
+    "sg:address":"1208 N Richmond St",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 738 6737",
+    "sg:postcode":"54911",
+    "sg:province":"WI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Fra3TtbDcHhfBpN46re6w_44.272845_-88.415670@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462600625,
+    "wof:geomhash":"68e9be405283d99c788e110f3e9c577a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":806735081
+        }
+    ],
+    "wof:id":806735081,
+    "wof:lastmodified":1462600625,
+    "wof:name":"Old Dog Bakery LLC",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -88.41567,
+    44.272845,
+    -88.41567,
+    44.272845
+],
+  "geometry": {"coordinates":[-88.41567000000001,44.272845],"type":"Point"}
+}

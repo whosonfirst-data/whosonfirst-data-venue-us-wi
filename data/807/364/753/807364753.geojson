@@ -1,0 +1,72 @@
+{
+  "id": 807364753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.301272,43.084316,-89.301272,43.084316",
+    "geom:latitude":43.084316,
+    "geom:longitude":-89.301272,
+    "iso:country":"US",
+    "sg:address":"4692 Cottage Grove Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/145579-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 441 9331",
+    "sg:postcode":"53716",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Bh8JIsbCHPFCiJeQodP6Q_43.084316_-89.301272@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606717,
+    "wof:geomhash":"f67f987c62ba7590bbd2869beaf8bf37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":807364753
+        }
+    ],
+    "wof:id":807364753,
+    "wof:lastmodified":1462606717,
+    "wof:name":"Subway",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.301272,
+    43.084316,
+    -89.301272,
+    43.084316
+],
+  "geometry": {"coordinates":[-89.301272,43.084316],"type":"Point"}
+}

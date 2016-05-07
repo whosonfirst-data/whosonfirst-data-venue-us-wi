@@ -1,0 +1,71 @@
+{
+  "id": 773670207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.727108,44.957527,-89.727108,44.957527",
+    "geom:latitude":44.957527,
+    "geom:longitude":-89.727108,
+    "iso:country":"US",
+    "sg:address":"500 S 72nd Ave",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 261 9536",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I1A7cbb2ggQBZdHi7V4i9_44.957527_-89.727108@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462587468,
+    "wof:geomhash":"403ab6c384647363b1eea49d1c99b350",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":773670207
+        }
+    ],
+    "wof:id":773670207,
+    "wof:lastmodified":1462587468,
+    "wof:name":"Eastbay Warehouse",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -89.727108,
+    44.957527,
+    -89.727108,
+    44.957527
+],
+  "geometry": {"coordinates":[-89.727108,44.957527],"type":"Point"}
+}

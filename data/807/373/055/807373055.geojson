@@ -1,0 +1,81 @@
+{
+  "id": 807373055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.909699,43.038631,-87.909699,43.038631",
+    "geom:latitude":43.038631,
+    "geom:longitude":-87.909699,
+    "iso:country":"US",
+    "sg:address":"111 E Wisconsin Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/milwaukee/9719-mocais-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 271 6622",
+    "sg:postcode":"53202",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870999,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P22QMRRJ73DnbVe4JboD2_43.038495_-87.909159@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606830,
+    "wof:geomhash":"4b19afdbe688e052a534f1ae05baaede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870999,
+            "region_id":85688517,
+            "venue_id":807373055
+        }
+    ],
+    "wof:id":807373055,
+    "wof:lastmodified":1462606830,
+    "wof:name":"Mocais Cafe",
+    "wof:parent_id":85870999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -87.909699,
+    43.038631,
+    -87.909699,
+    43.038631
+],
+  "geometry": {"coordinates":[-87.909699,43.038631],"type":"Point"}
+}

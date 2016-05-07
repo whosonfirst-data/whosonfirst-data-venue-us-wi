@@ -1,0 +1,87 @@
+{
+  "id": 807372563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.86379,42.566312,-87.86379,42.566312",
+    "geom:latitude":42.566312,
+    "geom:longitude":-87.86379,
+    "iso:country":"US",
+    "sg:address":"4612 75th St",
+    "sg:city":"Kenosha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/kenosha/192751-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 697 9229",
+    "sg:postcode":"53142",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852717,
+        102191575,
+        404493393,
+        85633793,
+        101732567,
+        102081309,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69hsrM2zkeRRUyJVPRKznI_42.566371_-87.863821@1294102059"
+    },
+    "wof:country":"US",
+    "wof:created":1462606824,
+    "wof:geomhash":"45f000b4f23dc236c74a8288be66b6d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493393,
+            "locality_id":101732567,
+            "neighbourhood_id":85852717,
+            "region_id":85688517,
+            "venue_id":807372563
+        }
+    ],
+    "wof:id":807372563,
+    "wof:lastmodified":1462606824,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85852717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -87.86379,
+    42.566312,
+    -87.86379,
+    42.566312
+],
+  "geometry": {"coordinates":[-87.86378999999999,42.566312],"type":"Point"}
+}

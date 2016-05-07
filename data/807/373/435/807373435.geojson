@@ -1,0 +1,81 @@
+{
+  "id": 807373435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.887417,43.09517,-87.887417,43.09517",
+    "geom:latitude":43.09517,
+    "geom:longitude":-87.887417,
+    "iso:country":"US",
+    "sg:address":"4330 N Oakland Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/shorewood/34591-jean-pierre/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 906 9333",
+    "sg:postcode":"53211",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870879,
+        102191575,
+        404494183,
+        85633793,
+        101733085,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Irlg5i9NHJqUbU87lKiZe_43.095285_-87.887362@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606834,
+    "wof:geomhash":"11af0035e97e9b2c548ecf9fb033900c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494183,
+            "locality_id":101733085,
+            "neighbourhood_id":85870879,
+            "region_id":85688517,
+            "venue_id":807373435
+        }
+    ],
+    "wof:id":807373435,
+    "wof:lastmodified":1462606834,
+    "wof:name":"Jean Pierre",
+    "wof:parent_id":85870879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -87.887417,
+    43.09517,
+    -87.887417,
+    43.09517
+],
+  "geometry": {"coordinates":[-87.887417,43.09517],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 823167555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.06517,43.074429,-88.06517,43.074429",
+    "geom:latitude":43.074429,
+    "geom:longitude":-88.06517,
+    "iso:country":"US",
+    "sg:address":"12201 W Burleigh St Ste. 9",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 544 2843",
+    "sg:postcode":"53222",
+    "sg:province":"WI",
+    "sg:tags":[
+        "parish",
+        "college",
+        "government-county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870817,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IbD6C2NH0ZsaPzp9xkKRM_43.074429_-88.065170@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607899,
+    "wof:geomhash":"95696f251cc34bba3f88dcdb476fa6f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870817,
+            "region_id":85688517,
+            "venue_id":823167555
+        }
+    ],
+    "wof:id":823167555,
+    "wof:lastmodified":1462607899,
+    "wof:name":"Grace Christian College",
+    "wof:parent_id":85870817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "college",
+        "government-county"
+    ]
+},
+  "bbox": [
+    -88.06517,
+    43.074429,
+    -88.06517,
+    43.074429
+],
+  "geometry": {"coordinates":[-88.06516999999999,43.074429],"type":"Point"}
+}

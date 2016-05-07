@@ -1,0 +1,73 @@
+{
+  "id": 806953859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.640586,44.948378,-89.640586,44.948378",
+    "geom:latitude":44.948378,
+    "geom:longitude":-89.640586,
+    "iso:country":"US",
+    "sg:address":"301 W Thomas St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 848 2274",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kvywHHN6VVRbS1ZZmdDjP_44.948378_-89.640586@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602476,
+    "wof:geomhash":"68b97b9e4256a8ef73b8efcca9c20779",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":806953859
+        }
+    ],
+    "wof:id":806953859,
+    "wof:lastmodified":1462602476,
+    "wof:name":"Lightning Lube",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.640586,
+    44.948378,
+    -89.640586,
+    44.948378
+],
+  "geometry": {"coordinates":[-89.640586,44.948378],"type":"Point"}
+}

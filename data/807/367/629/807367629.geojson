@@ -1,0 +1,74 @@
+{
+  "id": 807367629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.336628,44.886858,-89.336628,44.886858",
+    "geom:latitude":44.886858,
+    "geom:longitude":-89.336628,
+    "iso:country":"US",
+    "sg:address":"101 Jones Ave",
+    "sg:city":"Hatley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/hatley/145517-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 446 3636",
+    "sg:postcode":"54440",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85854809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V7zs3wrYTjXfwVkaG3eQg_44.886858_-89.336628@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606760,
+    "wof:geomhash":"2d5867342fa89753fa3b227f368db56a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85854809,
+            "region_id":85688517,
+            "venue_id":807367629
+        }
+    ],
+    "wof:id":807367629,
+    "wof:lastmodified":1462606760,
+    "wof:name":"Subway",
+    "wof:parent_id":85854809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.336628,
+    44.886858,
+    -89.336628,
+    44.886858
+],
+  "geometry": {"coordinates":[-89.336628,44.886858],"type":"Point"}
+}

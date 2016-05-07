@@ -1,0 +1,73 @@
+{
+  "id": 807284081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.440634,44.780336,-91.440634,44.780336",
+    "geom:latitude":44.780336,
+    "geom:longitude":-91.440634,
+    "iso:country":"US",
+    "sg:address":"3755 Oakwood Mall Dr",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 800 8527",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "telecommunication",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42v2ByCiDSVrZdGUjliWc8_44.780336_-91.440634@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605688,
+    "wof:geomhash":"60b59776cba77ac081b6e58bbe0a3ae0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807284081
+        }
+    ],
+    "wof:id":807284081,
+    "wof:lastmodified":1462605688,
+    "wof:name":"CenturyTel",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -91.440634,
+    44.780336,
+    -91.440634,
+    44.780336
+],
+  "geometry": {"coordinates":[-91.440634,44.780336],"type":"Point"}
+}

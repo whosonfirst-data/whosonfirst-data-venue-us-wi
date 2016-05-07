@@ -1,0 +1,91 @@
+{
+  "id": 807355571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.006688,42.948283,-88.006688,42.948283",
+    "geom:latitude":42.948283,
+    "geom:longitude":-88.006688,
+    "iso:country":"US",
+    "sg:address":"5300 S 76th St",
+    "sg:city":"Greendale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/greendale/232867-gloria-jeans-coffee-bean/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 421 1111",
+    "sg:postcode":"53129",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870865,
+        102191575,
+        404492089,
+        85633793,
+        101733071,
+        102081837,
+        85688517,
+        420558473,
+        404494171,
+        101733073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tLGkm9iOCx8OjvHxICHwU_42.948283_-88.006688@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606587,
+    "wof:geomhash":"10ac8ccbd78bec28a56690327545bc3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492089,
+            "locality_id":101733071,
+            "neighbourhood_id":85870865,
+            "region_id":85688517,
+            "venue_id":807355571
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494171,
+            "locality_id":101733073,
+            "neighbourhood_id":420558473,
+            "region_id":85688517,
+            "venue_id":807355571
+        }
+    ],
+    "wof:id":807355571,
+    "wof:lastmodified":1462606587,
+    "wof:name":"Gloria Jean's Coffee Bean",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -88.006688,
+    42.948283,
+    -88.006688,
+    42.948283
+],
+  "geometry": {"coordinates":[-88.006688,42.948283],"type":"Point"}
+}

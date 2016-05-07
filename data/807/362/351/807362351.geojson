@@ -1,0 +1,88 @@
+{
+  "id": 807362351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.980369,42.71748,-88.980369,42.71748",
+    "geom:latitude":42.71748,
+    "geom:longitude":-88.980369,
+    "iso:country":"US",
+    "sg:address":"3000 Deerfield Dr",
+    "sg:city":"Janesville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/janesville/95426-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 756 1175",
+    "sg:postcode":"53546",
+    "sg:province":"WI",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803103,
+        102191575,
+        404492347,
+        85633793,
+        101732837,
+        102081829,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AlJBzv5IZIfcOw6bdLTQl_42.717480_-88.980369@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606688,
+    "wof:geomhash":"6d39fcd8c4022f4b82740430e38a0952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081829,
+            "localadmin_id":404492347,
+            "locality_id":101732837,
+            "neighbourhood_id":85803103,
+            "region_id":85688517,
+            "venue_id":807362351
+        }
+    ],
+    "wof:id":807362351,
+    "wof:lastmodified":1462606688,
+    "wof:name":"IHOP",
+    "wof:parent_id":85803103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -88.980369,
+    42.71748,
+    -88.980369,
+    42.71748
+],
+  "geometry": {"coordinates":[-88.980369,42.71748],"type":"Point"}
+}

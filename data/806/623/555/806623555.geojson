@@ -1,0 +1,71 @@
+{
+  "id": 806623555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.528122,42.656504,-88.528122,42.656504",
+    "geom:latitude":42.656504,
+    "geom:longitude":-88.528122,
+    "iso:country":"US",
+    "sg:address":"840 Koopman Ln",
+    "sg:city":"Elkhorn",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 743 1700",
+    "sg:postcode":"53121",
+    "sg:province":"WI",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733551,
+        102081883,
+        85812017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wwewaAQ3W98vmrrbtLQKZ_42.656504_-88.528122@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462599681,
+    "wof:geomhash":"dd47e5d6f818caa2b64dec4209350bec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733551,
+            "neighbourhood_id":85812017,
+            "region_id":85688517,
+            "venue_id":806623555
+        }
+    ],
+    "wof:id":806623555,
+    "wof:lastmodified":1462599681,
+    "wof:name":"Precision Plus",
+    "wof:parent_id":85812017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -88.528122,
+    42.656504,
+    -88.528122,
+    42.656504
+],
+  "geometry": {"coordinates":[-88.528122,42.656504],"type":"Point"}
+}

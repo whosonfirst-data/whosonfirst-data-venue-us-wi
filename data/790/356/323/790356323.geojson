@@ -1,0 +1,71 @@
+{
+  "id": 790356323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.5098,44.81941,-91.5098,44.81941",
+    "geom:latitude":44.81941,
+    "geom:longitude":-91.5098,
+    "iso:country":"US",
+    "sg:address":"2000 N Oxford Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 832 2699",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85848105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r8QG4QCvDHyIbyrIyXC6S_44.819410_-91.509800@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462595190,
+    "wof:geomhash":"c3f58283c640d553c8ea8381441edd26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85848105,
+            "region_id":85688517,
+            "venue_id":790356323
+        }
+    ],
+    "wof:id":790356323,
+    "wof:lastmodified":1462595190,
+    "wof:name":"Taxi of Eau Claire",
+    "wof:parent_id":85848105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -91.5098,
+    44.81941,
+    -91.5098,
+    44.81941
+],
+  "geometry": {"coordinates":[-91.5098,44.81941],"type":"Point"}
+}

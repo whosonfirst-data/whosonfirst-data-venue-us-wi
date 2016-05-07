@@ -1,0 +1,88 @@
+{
+  "id": 823195217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.482193,44.278198,-88.482193,44.278198",
+    "geom:latitude":44.278198,
+    "geom:longitude":-88.482193,
+    "iso:country":"US",
+    "sg:address":"5200 W Greenville Dr",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Recreational Vehicle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 757 0676",
+    "sg:postcode":"54913",
+    "sg:province":"WI",
+    "sg:tags":[
+        "home",
+        "camper",
+        "trailer",
+        "campers-repair"
+    ],
+    "sg:website":"http://www.applevalleycamping.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hV21hOg9Ba6pwBEPHDZFx_44.278198_-88.482193@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608266,
+    "wof:geomhash":"d27a8d1144a2b2a5fa390bffbdf74b5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":823195217
+        }
+    ],
+    "wof:id":823195217,
+    "wof:lastmodified":1462608266,
+    "wof:name":"Apple Valley Camping",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "camper",
+        "trailer",
+        "campers-repair"
+    ]
+},
+  "bbox": [
+    -88.482193,
+    44.278198,
+    -88.482193,
+    44.278198
+],
+  "geometry": {"coordinates":[-88.482193,44.278198],"type":"Point"}
+}

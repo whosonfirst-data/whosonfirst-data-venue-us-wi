@@ -1,0 +1,74 @@
+{
+  "id": 807354733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.93325,43.383546,-87.93325,43.383546",
+    "geom:latitude":43.383546,
+    "geom:longitude":-87.93325,
+    "iso:country":"US",
+    "sg:address":"620 E Green Bay Ave",
+    "sg:city":"Saukville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/saukville/77387-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 268 1700",
+    "sg:postcode":"53080",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732547,
+        102081873,
+        85828641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ir2S0fupkEacRSKT7tdOY_43.383546_-87.933250@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606568,
+    "wof:geomhash":"77aec20d5327303a9352d1d46f40b0a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081873,
+            "locality_id":101732547,
+            "neighbourhood_id":85828641,
+            "region_id":85688517,
+            "venue_id":807354733
+        }
+    ],
+    "wof:id":807354733,
+    "wof:lastmodified":1462606568,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85828641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -87.93325,
+    43.383546,
+    -87.93325,
+    43.383546
+],
+  "geometry": {"coordinates":[-87.93325,43.383546],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790041559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.539248,44.827722,-91.539248,44.827722",
+    "geom:latitude":44.827722,
+    "geom:longitude":-91.539248,
+    "iso:country":"US",
+    "sg:address":"2713 Robert Rd",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 835 0951",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85848105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ucju03t3nrDkMlvgmfVij_44.827722_-91.539248@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592656,
+    "wof:geomhash":"aa1b4548c8eb72493a24170ec2026fc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85848105,
+            "region_id":85688517,
+            "venue_id":790041559
+        }
+    ],
+    "wof:id":790041559,
+    "wof:lastmodified":1462592656,
+    "wof:name":"Clean Wisely",
+    "wof:parent_id":85848105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -91.539248,
+    44.827722,
+    -91.539248,
+    44.827722
+],
+  "geometry": {"coordinates":[-91.539248,44.827722],"type":"Point"}
+}

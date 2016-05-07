@@ -1,0 +1,77 @@
+{
+  "id": 807151053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.083464,44.45024,-88.083464,44.45024",
+    "geom:latitude":44.45024,
+    "geom:longitude":-88.083464,
+    "iso:country":"US",
+    "sg:address":"111 S 9th St",
+    "sg:city":"De Pere",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 983 7654",
+    "sg:postcode":"54115",
+    "sg:province":"WI",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855345,
+        102191575,
+        404492849,
+        85633793,
+        101732363,
+        102081867,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03boe19cwbCn3KHVL7ZBnp_44.450240_-88.083464@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604283,
+    "wof:geomhash":"929ec1df4de7fd317e25967911589698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081867,
+            "localadmin_id":404492849,
+            "locality_id":101732363,
+            "neighbourhood_id":85855345,
+            "region_id":85688517,
+            "venue_id":807151053
+        }
+    ],
+    "wof:id":807151053,
+    "wof:lastmodified":1462604283,
+    "wof:name":"Super Lube",
+    "wof:parent_id":85855345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -88.083464,
+    44.45024,
+    -88.083464,
+    44.45024
+],
+  "geometry": {"coordinates":[-88.08346400000001,44.45024],"type":"Point"}
+}

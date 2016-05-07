@@ -1,0 +1,71 @@
+{
+  "id": 773466707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.423321,43.00494,-89.423321,43.00494",
+    "geom:latitude":43.00494,
+    "geom:longitude":-89.423321,
+    "iso:country":"US",
+    "sg:address":"5543 E Cheryl Pkwy",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 274 5300",
+    "sg:postcode":"53711",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OmE4QYACWnw1holXBShVx_43.004940_-89.423321@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585963,
+    "wof:geomhash":"5e10d3ecca5e5f134b490c272f3389c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":773466707
+        }
+    ],
+    "wof:id":773466707,
+    "wof:lastmodified":1462585963,
+    "wof:name":"Uw Medical Foundation",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.423321,
+    43.00494,
+    -89.423321,
+    43.00494
+],
+  "geometry": {"coordinates":[-89.423321,43.00494],"type":"Point"}
+}

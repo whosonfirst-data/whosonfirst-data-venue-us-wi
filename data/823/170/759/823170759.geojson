@@ -1,0 +1,88 @@
+{
+  "id": 823170759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.019098,43.177876,-88.019098,43.177876",
+    "geom:latitude":43.177876,
+    "geom:longitude":-88.019098,
+    "iso:country":"US",
+    "sg:address":"8700 W Brown Deer Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 355 7780",
+    "sg:postcode":"53224",
+    "sg:province":"WI",
+    "sg:tags":[
+        "liquors-wholesale",
+        "ale",
+        "broker",
+        "beer",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870793,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jQa5qBtfzVlknI4M5rsSc_43.177876_-88.019098@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607937,
+    "wof:geomhash":"58fc06d81a34168e1188a3af9aab3587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870793,
+            "region_id":85688517,
+            "venue_id":823170759
+        }
+    ],
+    "wof:id":823170759,
+    "wof:lastmodified":1462607937,
+    "wof:name":"Ridge Plaza Beverage Inc",
+    "wof:parent_id":85870793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquors-wholesale",
+        "ale",
+        "broker",
+        "beer",
+        "store"
+    ]
+},
+  "bbox": [
+    -88.019098,
+    43.177876,
+    -88.019098,
+    43.177876
+],
+  "geometry": {"coordinates":[-88.019098,43.177876],"type":"Point"}
+}

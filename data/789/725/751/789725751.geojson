@@ -1,0 +1,71 @@
+{
+  "id": 789725751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.404048,43.038721,-89.404048,43.038721",
+    "geom:latitude":43.038721,
+    "geom:longitude":-89.404048,
+    "iso:country":"US",
+    "sg:address":"2210 Fish Hatchery Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 251 3080",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878867,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l5iJbGucXWbzipUa8kYjx_43.038721_-89.404048@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590069,
+    "wof:geomhash":"52bfdfffad62920972dff6bee20a188b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878867,
+            "region_id":85688517,
+            "venue_id":789725751
+        }
+    ],
+    "wof:id":789725751,
+    "wof:lastmodified":1462590069,
+    "wof:name":"U-Save Auto Rental",
+    "wof:parent_id":85878867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.404048,
+    43.038721,
+    -89.404048,
+    43.038721
+],
+  "geometry": {"coordinates":[-89.404048,43.038721],"type":"Point"}
+}

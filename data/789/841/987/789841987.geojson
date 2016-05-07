@@ -1,0 +1,71 @@
+{
+  "id": 789841987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.746714,43.916192,-87.746714,43.916192",
+    "geom:latitude":43.916192,
+    "geom:longitude":-87.746714,
+    "iso:country":"US",
+    "sg:address":"1202 Hickory St",
+    "sg:city":"Cleveland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 693 2277",
+    "sg:postcode":"53015",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75pt6YBwFE0jnoaIzhql9q_43.916192_-87.746714@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590962,
+    "wof:geomhash":"0a77c73c5b5005ea34024e94a253001d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":789841987
+        }
+    ],
+    "wof:id":789841987,
+    "wof:lastmodified":1462590962,
+    "wof:name":"Pioneer Moving",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -87.746714,
+    43.916192,
+    -87.746714,
+    43.916192
+],
+  "geometry": {"coordinates":[-87.746714,43.916192],"type":"Point"}
+}

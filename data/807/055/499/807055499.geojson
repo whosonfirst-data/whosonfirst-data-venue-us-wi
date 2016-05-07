@@ -1,0 +1,76 @@
+{
+  "id": 807055499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.569639,44.749279,-91.569639,44.749279",
+    "geom:latitude":44.749279,
+    "geom:longitude":-91.569639,
+    "iso:country":"US",
+    "sg:address":"5786 State Rd 37",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 836 9003",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85848105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hNxwT0uh5XUxJ0xZWgtWb_44.749279_-91.569639@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603330,
+    "wof:geomhash":"f91727ffbea4051f048e37fdfa08ad61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85848105,
+            "region_id":85688517,
+            "venue_id":807055499
+        }
+    ],
+    "wof:id":807055499,
+    "wof:lastmodified":1462603330,
+    "wof:name":"Smith's Country Inn",
+    "wof:parent_id":85848105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -91.569639,
+    44.749279,
+    -91.569639,
+    44.749279
+],
+  "geometry": {"coordinates":[-91.569639,44.749279],"type":"Point"}
+}

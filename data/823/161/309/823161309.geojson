@@ -1,0 +1,83 @@
+{
+  "id": 823161309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.915068,43.120592,-87.915068,43.120592",
+    "geom:latitude":43.120592,
+    "geom:longitude":-87.915068,
+    "iso:country":"US",
+    "sg:address":"5684 N Centerpark Way",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 962 2021",
+    "sg:postcode":"53217",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repair",
+        "eyeglass"
+    ],
+    "sg:website":"http://www.lenscrafters.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870821,
+        102191575,
+        404494165,
+        85633793,
+        101733065,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PiMQsFwGK2DczPDnDVhPO_43.120592_-87.915068@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607815,
+    "wof:geomhash":"21ebeb3aa1d223593af69fa7ad5a735e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494165,
+            "locality_id":101733065,
+            "neighbourhood_id":85870821,
+            "region_id":85688517,
+            "venue_id":823161309
+        }
+    ],
+    "wof:id":823161309,
+    "wof:lastmodified":1462607815,
+    "wof:name":"Lenscrafters",
+    "wof:parent_id":85870821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "eyeglass"
+    ]
+},
+  "bbox": [
+    -87.915068,
+    43.120592,
+    -87.915068,
+    43.120592
+],
+  "geometry": {"coordinates":[-87.91506800000001,43.120592],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 807368785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.090653,43.90004,-91.090653,43.90004",
+    "geom:latitude":43.90004,
+    "geom:longitude":-91.090653,
+    "iso:country":"US",
+    "sg:address":"420 Commerce St",
+    "sg:city":"West Salem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/west-salem/145827-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 786 2225",
+    "sg:postcode":"54669",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732663,
+        102081301,
+        85825891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vyxp6ThBzEgg3FrGEAQF5_43.900040_-91.090653@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606774,
+    "wof:geomhash":"9f08c62810235199067f3442f8ad2a38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732663,
+            "neighbourhood_id":85825891,
+            "region_id":85688517,
+            "venue_id":807368785
+        }
+    ],
+    "wof:id":807368785,
+    "wof:lastmodified":1462606774,
+    "wof:name":"Subway",
+    "wof:parent_id":85825891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -91.090653,
+    43.90004,
+    -91.090653,
+    43.90004
+],
+  "geometry": {"coordinates":[-91.090653,43.90004],"type":"Point"}
+}

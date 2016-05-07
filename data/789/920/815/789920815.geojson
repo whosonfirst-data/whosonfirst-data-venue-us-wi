@@ -1,0 +1,73 @@
+{
+  "id": 789920815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.591376,44.908218,-89.591376,44.908218",
+    "geom:latitude":44.908218,
+    "geom:longitude":-89.591376,
+    "iso:country":"US",
+    "sg:address":"2806 Schofield Ave",
+    "sg:city":"Schofield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 359 3194",
+    "sg:postcode":"54476",
+    "sg:province":"WI",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85854809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lzCMtuAdxZE9xCCEsEjxX_44.908218_-89.591376@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591633,
+    "wof:geomhash":"f38afb14ac690a0602fbac7283284194",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85854809,
+            "region_id":85688517,
+            "venue_id":789920815
+        }
+    ],
+    "wof:id":789920815,
+    "wof:lastmodified":1462591633,
+    "wof:name":"29 Super Pharmacy",
+    "wof:parent_id":85854809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -89.591376,
+    44.908218,
+    -89.591376,
+    44.908218
+],
+  "geometry": {"coordinates":[-89.591376,44.908218],"type":"Point"}
+}

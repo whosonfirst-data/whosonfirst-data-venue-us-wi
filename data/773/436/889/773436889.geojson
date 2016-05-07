@@ -1,0 +1,72 @@
+{
+  "id": 773436889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.452034,44.199576,-88.452034,44.199576",
+    "geom:latitude":44.199576,
+    "geom:longitude":-88.452034,
+    "iso:country":"US",
+    "sg:address":"41 Main St",
+    "sg:city":"Menasha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 727 4000",
+    "sg:postcode":"54952",
+    "sg:province":"WI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "sg:website":"www.gundersongroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732729,
+        102081801,
+        85807543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RalQmDwUHzWwQWnkNtcLi_44.199576_-88.452034@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585733,
+    "wof:geomhash":"1c81b1256a8a522ce73a6c3aed89523e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101732729,
+            "neighbourhood_id":85807543,
+            "region_id":85688517,
+            "venue_id":773436889
+        }
+    ],
+    "wof:id":773436889,
+    "wof:lastmodified":1462585733,
+    "wof:name":"Gunderson Cleaners",
+    "wof:parent_id":85807543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -88.452034,
+    44.199576,
+    -88.452034,
+    44.199576
+],
+  "geometry": {"coordinates":[-88.452034,44.199576],"type":"Point"}
+}

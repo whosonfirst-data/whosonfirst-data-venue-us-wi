@@ -1,0 +1,73 @@
+{
+  "id": 807086487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.086444,43.898938,-91.086444,43.898938",
+    "geom:latitude":43.898938,
+    "geom:longitude":-91.086444,
+    "iso:country":"US",
+    "sg:address":"212 N Oak St",
+    "sg:city":"West Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 786 2032",
+    "sg:postcode":"54669",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732663,
+        102081301,
+        85825891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32gZnhyTpBCDFKg3SiqAtH_43.898938_-91.086444@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603584,
+    "wof:geomhash":"89b738d47c89275d98b033f65fe2de53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732663,
+            "neighbourhood_id":85825891,
+            "region_id":85688517,
+            "venue_id":807086487
+        }
+    ],
+    "wof:id":807086487,
+    "wof:lastmodified":1462603584,
+    "wof:name":"Lindvig Auto & Truck Repair",
+    "wof:parent_id":85825891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.086444,
+    43.898938,
+    -91.086444,
+    43.898938
+],
+  "geometry": {"coordinates":[-91.086444,43.898938],"type":"Point"}
+}

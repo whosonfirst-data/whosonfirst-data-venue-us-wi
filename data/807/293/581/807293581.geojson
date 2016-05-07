@@ -1,0 +1,79 @@
+{
+  "id": 807293581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.018395,42.995547,-88.018395,42.995547",
+    "geom:latitude":42.995547,
+    "geom:longitude":-88.018395,
+    "iso:country":"US",
+    "sg:address":"8440 W Cleveland Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 321 1130",
+    "sg:postcode":"53227",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870901,
+        102191575,
+        404494275,
+        85633793,
+        101733091,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lSozJinvpIyEC7lbTrTVr_42.995547_-88.018395@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605781,
+    "wof:geomhash":"9956cb728d1513283545b6b6cd6395e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494275,
+            "locality_id":101733091,
+            "neighbourhood_id":85870901,
+            "region_id":85688517,
+            "venue_id":807293581
+        }
+    ],
+    "wof:id":807293581,
+    "wof:lastmodified":1462605781,
+    "wof:name":"Cleveland Avenue Automotive",
+    "wof:parent_id":85870901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.018395,
+    42.995547,
+    -88.018395,
+    42.995547
+],
+  "geometry": {"coordinates":[-88.018395,42.995547],"type":"Point"}
+}

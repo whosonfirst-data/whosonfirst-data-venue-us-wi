@@ -1,0 +1,77 @@
+{
+  "id": 823158847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.956936,43.095655,-87.956936,43.095655",
+    "geom:latitude":43.095655,
+    "geom:longitude":-87.956936,
+    "iso:country":"US",
+    "sg:address":"4330 N 35th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 873 5220",
+    "sg:postcode":"53216",
+    "sg:province":"WI",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870907,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JiK7aNKQnIH5Th60TEnIt_43.095655_-87.956936@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607785,
+    "wof:geomhash":"be6ae06ab7d3fcce724dabbe2c35f23f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870907,
+            "region_id":85688517,
+            "venue_id":823158847
+        }
+    ],
+    "wof:id":823158847,
+    "wof:lastmodified":1462607785,
+    "wof:name":"Bee Bus Lines",
+    "wof:parent_id":85870907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -87.956936,
+    43.095655,
+    -87.956936,
+    43.095655
+],
+  "geometry": {"coordinates":[-87.956936,43.095655],"type":"Point"}
+}

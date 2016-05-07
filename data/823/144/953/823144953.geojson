@@ -1,0 +1,76 @@
+{
+  "id": 823144953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.894315,43.006559,-87.894315,43.006559",
+    "geom:latitude":43.006559,
+    "geom:longitude":-87.894315,
+    "iso:country":"US",
+    "sg:address":"2061 S Harbor Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 482 3000",
+    "sg:postcode":"53207",
+    "sg:province":"WI",
+    "sg:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85870891,
+        102081837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PCylCuOXhFgte76UYnzCS_43.006559_-87.894315@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607602,
+    "wof:geomhash":"13ca691023252e331887cfaceddb692f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081837,
+            "neighbourhood_id":85870891,
+            "region_id":85688517,
+            "venue_id":823144953
+        }
+    ],
+    "wof:id":823144953,
+    "wof:lastmodified":1462607602,
+    "wof:name":"Milwaukee Transfer & Maintenance",
+    "wof:parent_id":85870891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ]
+},
+  "bbox": [
+    -87.894315,
+    43.006559,
+    -87.894315,
+    43.006559
+],
+  "geometry": {"coordinates":[-87.89431500000001,43.006559],"type":"Point"}
+}

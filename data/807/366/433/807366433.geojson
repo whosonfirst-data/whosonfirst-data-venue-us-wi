@@ -1,0 +1,72 @@
+{
+  "id": 807366433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.684506,44.086257,-87.684506,44.086257",
+    "geom:latitude":44.086257,
+    "geom:longitude":-87.684506,
+    "iso:country":"US",
+    "sg:address":"3002 Calumet Ave",
+    "sg:city":"Manitowoc",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/manitowoc/204829-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 682 4011",
+    "sg:postcode":"54220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eSksw8VOLyXEAlnSOw4v8_44.086257_-87.684506@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606746,
+    "wof:geomhash":"813952f9573222e9e9a4f6672e81b123",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":807366433
+        }
+    ],
+    "wof:id":807366433,
+    "wof:lastmodified":1462606746,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -87.684506,
+    44.086257,
+    -87.684506,
+    44.086257
+],
+  "geometry": {"coordinates":[-87.684506,44.086257],"type":"Point"}
+}

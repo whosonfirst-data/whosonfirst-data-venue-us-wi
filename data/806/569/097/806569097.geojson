@@ -1,0 +1,73 @@
+{
+  "id": 806569097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.525253,42.584285,-88.525253,42.584285",
+    "geom:latitude":42.584285,
+    "geom:longitude":-88.525253,
+    "iso:country":"US",
+    "sg:address":"4544 State Hwy 50",
+    "sg:city":"Lake Geneva",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 245 6201",
+    "sg:postcode":"53147",
+    "sg:province":"WI",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733551,
+        102081883,
+        85812017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zAaGVPAsVWIZ2TSRlAjSP_42.584285_-88.525253@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462599198,
+    "wof:geomhash":"032b61400a882540d56bd941516993c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733551,
+            "neighbourhood_id":85812017,
+            "region_id":85688517,
+            "venue_id":806569097
+        }
+    ],
+    "wof:id":806569097,
+    "wof:lastmodified":1462599198,
+    "wof:name":"PCD Logistics Inc",
+    "wof:parent_id":85812017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.525253,
+    42.584285,
+    -88.525253,
+    42.584285
+],
+  "geometry": {"coordinates":[-88.52525300000001,42.584285],"type":"Point"}
+}

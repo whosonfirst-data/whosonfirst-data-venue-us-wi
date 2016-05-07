@@ -1,0 +1,71 @@
+{
+  "id": 806745209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.969553,43.751973,-87.969553,43.751973",
+    "geom:latitude":43.751973,
+    "geom:longitude":-87.969553,
+    "iso:country":"US",
+    "sg:address":"432 Fairview Dr",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 893 0745",
+    "sg:postcode":"53073",
+    "sg:province":"WI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733393,
+        102081869,
+        85836705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zpK3DLBJcEu6rhKmDtlQf_43.751973_-87.969553@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462600724,
+    "wof:geomhash":"9e8ff0899ef0fb6fa409e581a60f217d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "locality_id":101733393,
+            "neighbourhood_id":85836705,
+            "region_id":85688517,
+            "venue_id":806745209
+        }
+    ],
+    "wof:id":806745209,
+    "wof:lastmodified":1462600724,
+    "wof:name":"Laziboy Car Wash Ltd",
+    "wof:parent_id":85836705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -87.969553,
+    43.751973,
+    -87.969553,
+    43.751973
+],
+  "geometry": {"coordinates":[-87.969553,43.751973],"type":"Point"}
+}

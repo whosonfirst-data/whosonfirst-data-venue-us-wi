@@ -1,0 +1,71 @@
+{
+  "id": 807167851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.917466,44.440747,-87.917466,44.440747",
+    "geom:latitude":44.440747,
+    "geom:longitude":-87.917466,
+    "iso:country":"US",
+    "sg:address":"3175 Wall St",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 863 6072",
+    "sg:postcode":"54311",
+    "sg:province":"WI",
+    "sg:tags":[
+        "warehouse",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85828807,
+        102081867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61jfthlY04R6YxdasPC8Fm_44.440747_-87.917466@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604460,
+    "wof:geomhash":"632d82baf7ecff96d569433f6f1a22b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081867,
+            "neighbourhood_id":85828807,
+            "region_id":85688517,
+            "venue_id":807167851
+        }
+    ],
+    "wof:id":807167851,
+    "wof:lastmodified":1462604460,
+    "wof:name":"Wall St Warehouse",
+    "wof:parent_id":85828807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "public"
+    ]
+},
+  "bbox": [
+    -87.917466,
+    44.440747,
+    -87.917466,
+    44.440747
+],
+  "geometry": {"coordinates":[-87.917466,44.440747],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 806880551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.218703,43.871688,-91.218703,43.871688",
+    "geom:latitude":43.871688,
+    "geom:longitude":-91.218703,
+    "iso:country":"US",
+    "sg:address":"1300 Oak Forest Dr",
+    "sg:city":"Onalaska",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 783 3400",
+    "sg:postcode":"54650",
+    "sg:province":"WI",
+    "sg:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732663,
+        102081301,
+        85825891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MznBR6fs2crgO8rioJbR7_43.871688_-91.218703@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601861,
+    "wof:geomhash":"59c82c9103f568dd1e933efed125bd0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732663,
+            "neighbourhood_id":85825891,
+            "region_id":85688517,
+            "venue_id":806880551
+        }
+    ],
+    "wof:id":806880551,
+    "wof:lastmodified":1462601861,
+    "wof:name":"Rochester Transfer & Storage",
+    "wof:parent_id":85825891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.218703,
+    43.871688,
+    -91.218703,
+    43.871688
+],
+  "geometry": {"coordinates":[-91.218703,43.871688],"type":"Point"}
+}

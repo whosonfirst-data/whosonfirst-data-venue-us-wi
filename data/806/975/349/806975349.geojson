@@ -1,0 +1,69 @@
+{
+  "id": 806975349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.952469,42.725278,-87.952469,42.725278",
+    "geom:latitude":42.725278,
+    "geom:longitude":-87.952469,
+    "iso:country":"US",
+    "sg:address":"13343 Washington Ave",
+    "sg:city":"Sturtevant",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 886 3010",
+    "sg:postcode":"53177",
+    "sg:province":"WI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85827175,
+        102081763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gs6zAJF3tIfJUVgqGl5Dc_42.725278_-87.952469@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602651,
+    "wof:geomhash":"3d0301fc48139767ba760da1e48abef0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081763,
+            "neighbourhood_id":85827175,
+            "region_id":85688517,
+            "venue_id":806975349
+        }
+    ],
+    "wof:id":806975349,
+    "wof:lastmodified":1462602651,
+    "wof:name":"McDonalds",
+    "wof:parent_id":85827175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -87.952469,
+    42.725278,
+    -87.952469,
+    42.725278
+],
+  "geometry": {"coordinates":[-87.95246899999999,42.725278],"type":"Point"}
+}

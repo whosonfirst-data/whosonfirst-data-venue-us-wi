@@ -1,0 +1,76 @@
+{
+  "id": 807370423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.542469,44.039605,-88.542469,44.039605",
+    "geom:latitude":44.039605,
+    "geom:longitude":-88.542469,
+    "iso:country":"US",
+    "sg:address":"1800 Jackson St",
+    "sg:city":"Oshkosh",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/oshkosh/204851-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 233 4133",
+    "sg:postcode":"54901",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85845403,
+        102191575,
+        404492557,
+        85633793,
+        101733459,
+        102081801,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1waRKJP6DGlzv0xjqUxRaO_44.039605_-88.542469@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606794,
+    "wof:geomhash":"0e7a893a1d91b67855c17fbbcce0a44d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081801,
+            "localadmin_id":404492557,
+            "locality_id":101733459,
+            "neighbourhood_id":85845403,
+            "region_id":85688517,
+            "venue_id":807370423
+        }
+    ],
+    "wof:id":807370423,
+    "wof:lastmodified":1462606794,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85845403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -88.542469,
+    44.039605,
+    -88.542469,
+    44.039605
+],
+  "geometry": {"coordinates":[-88.542469,44.039605],"type":"Point"}
+}

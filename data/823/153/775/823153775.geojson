@@ -1,0 +1,88 @@
+{
+  "id": 823153775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.995631,43.036558,-87.995631,43.036558",
+    "geom:latitude":43.036558,
+    "geom:longitude":-87.995631,
+    "iso:country":"US",
+    "sg:address":"537 N 67th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 771 8367",
+    "sg:postcode":"53213",
+    "sg:province":"WI",
+    "sg:tags":[
+        "consultant",
+        "medical",
+        "practice",
+        "nursing",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870887,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vwctTLyoOtRBFeqLw5JMk_43.036558_-87.995631@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607716,
+    "wof:geomhash":"1bda36ff8777951b98e6b51376339339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870887,
+            "region_id":85688517,
+            "venue_id":823153775
+        }
+    ],
+    "wof:id":823153775,
+    "wof:lastmodified":1462607716,
+    "wof:name":"Marc Gorelick",
+    "wof:parent_id":85870887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "medical",
+        "practice",
+        "nursing",
+        "home"
+    ]
+},
+  "bbox": [
+    -87.995631,
+    43.036558,
+    -87.995631,
+    43.036558
+],
+  "geometry": {"coordinates":[-87.995631,43.036558],"type":"Point"}
+}

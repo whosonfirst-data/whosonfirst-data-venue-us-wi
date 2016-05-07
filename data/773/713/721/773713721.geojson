@@ -1,0 +1,71 @@
+{
+  "id": 773713721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.080456,45.033897,-90.080456,45.033897",
+    "geom:latitude":45.033897,
+    "geom:longitude":-90.080456,
+    "iso:country":"US",
+    "sg:address":"317 Washington St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 257 9278",
+    "sg:postcode":"54411",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cucrnc3LvCr31VVQCqpFa_45.033897_-90.080456@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462587828,
+    "wof:geomhash":"65656f6d8e4da9e7e3023365cd74ce42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":773713721
+        }
+    ],
+    "wof:id":773713721,
+    "wof:lastmodified":1462587828,
+    "wof:name":"Athens Dental Clinic",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.080456,
+    45.033897,
+    -90.080456,
+    45.033897
+],
+  "geometry": {"coordinates":[-90.080456,45.033897],"type":"Point"}
+}

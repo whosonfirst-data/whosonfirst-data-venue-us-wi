@@ -1,0 +1,75 @@
+{
+  "id": 807128741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.989751,44.167824,-87.989751,44.167824",
+    "geom:latitude":44.167824,
+    "geom:longitude":-87.989751,
+    "iso:country":"US",
+    "sg:address":"21323 Sunny Slope Rd",
+    "sg:city":"Reedsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 754 4063",
+    "sg:postcode":"54230",
+    "sg:province":"WI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85827947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l7tWPf8Aqdr7FJSqpcjcZ_44.167824_-87.989751@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604036,
+    "wof:geomhash":"43aee7e1634a30466628eb43087ef7d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85827947,
+            "region_id":85688517,
+            "venue_id":807128741
+        }
+    ],
+    "wof:id":807128741,
+    "wof:lastmodified":1462604036,
+    "wof:name":"Bob's Classic Restoration",
+    "wof:parent_id":85827947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -87.989751,
+    44.167824,
+    -87.989751,
+    44.167824
+],
+  "geometry": {"coordinates":[-87.989751,44.167824],"type":"Point"}
+}

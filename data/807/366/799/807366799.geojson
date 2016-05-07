@@ -1,0 +1,82 @@
+{
+  "id": 807366799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.961801,44.48732,-87.961801,44.48732",
+    "geom:latitude":44.48732,
+    "geom:longitude":-87.961801,
+    "iso:country":"US",
+    "sg:address":"2420 E Mason St",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/green-bay/35897-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 406 8140",
+    "sg:postcode":"54302",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877953,
+        102191575,
+        404491529,
+        85633793,
+        101732365,
+        102081867,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MT44EjgSADHoxnTIVvtk4_44.487320_-87.961801@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606751,
+    "wof:geomhash":"b7ee4607acf0dffe1b63106209506458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081867,
+            "localadmin_id":404491529,
+            "locality_id":101732365,
+            "neighbourhood_id":85877953,
+            "region_id":85688517,
+            "venue_id":807366799
+        }
+    ],
+    "wof:id":807366799,
+    "wof:lastmodified":1462606751,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85877953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -87.961801,
+    44.48732,
+    -87.961801,
+    44.48732
+],
+  "geometry": {"coordinates":[-87.96180099999999,44.48732],"type":"Point"}
+}

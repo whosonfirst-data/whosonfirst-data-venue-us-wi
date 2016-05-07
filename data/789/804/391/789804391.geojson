@@ -1,0 +1,79 @@
+{
+  "id": 789804391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.078341,42.505288,-89.078341,42.505288",
+    "geom:latitude":42.505288,
+    "geom:longitude":-89.078341,
+    "iso:country":"US",
+    "sg:address":"1001 West St",
+    "sg:city":"Beloit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 362 5611",
+    "sg:postcode":"53511",
+    "sg:province":"WI",
+    "sg:tags":[
+        "car",
+        "differential",
+        "collector",
+        "refurbish",
+        "for"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732817,
+        102081829,
+        85810961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gL2AGd9b0gTDxjHecvBhC_42.505288_-89.078341@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590671,
+    "wof:geomhash":"517c94e2d1eed14ae2f03ec711e01830",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "locality_id":101732817,
+            "neighbourhood_id":85810961,
+            "region_id":85688517,
+            "venue_id":789804391
+        }
+    ],
+    "wof:id":789804391,
+    "wof:lastmodified":1462590671,
+    "wof:name":"Custom Rear Ends",
+    "wof:parent_id":85810961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "differential",
+        "collector",
+        "refurbish",
+        "for"
+    ]
+},
+  "bbox": [
+    -89.078341,
+    42.505288,
+    -89.078341,
+    42.505288
+],
+  "geometry": {"coordinates":[-89.07834099999999,42.505288],"type":"Point"}
+}

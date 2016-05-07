@@ -1,0 +1,73 @@
+{
+  "id": 773695533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.439671,44.256479,-88.439671,44.256479",
+    "geom:latitude":44.256479,
+    "geom:longitude":-88.439671,
+    "iso:country":"US",
+    "sg:address":"57 Spencer Ln",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 830 2706",
+    "sg:postcode":"54914",
+    "sg:province":"WI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41qSF0adS7xDIQ42KyFVFO_44.256479_-88.439671@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462587686,
+    "wof:geomhash":"8a1a0feb0ae4a5b3d15d7a7f40beefbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":773695533
+        }
+    ],
+    "wof:id":773695533,
+    "wof:lastmodified":1462587686,
+    "wof:name":"Spencer Village Apartments",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.439671,
+    44.256479,
+    -88.439671,
+    44.256479
+],
+  "geometry": {"coordinates":[-88.439671,44.256479],"type":"Point"}
+}

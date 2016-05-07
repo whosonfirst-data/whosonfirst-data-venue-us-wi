@@ -1,0 +1,88 @@
+{
+  "id": 823147287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.961292,43.183326,-87.961292,43.183326",
+    "geom:latitude":43.183326,
+    "geom:longitude":-87.961292,
+    "iso:country":"US",
+    "sg:address":"9096 N Green Bay Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 371 9413",
+    "sg:postcode":"53209",
+    "sg:province":"WI",
+    "sg:tags":[
+        "candle",
+        "perfume"
+    ],
+    "sg:website":"http://www.bathandbodyworks.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85894487,
+        102191575,
+        404494179,
+        85633793,
+        101733081,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nBgTKp0g6QSTbnQJRFS51_43.183326_-87.961292@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607635,
+    "wof:geomhash":"22a16ab8bce8e9031911f37e5d043d0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494179,
+            "locality_id":101733081,
+            "neighbourhood_id":85894487,
+            "region_id":85688517,
+            "venue_id":823147287
+        }
+    ],
+    "wof:id":823147287,
+    "wof:lastmodified":1462607635,
+    "wof:name":"Bath & Body Works",
+    "wof:parent_id":85894487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "candle",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -87.961292,
+    43.183326,
+    -87.961292,
+    43.183326
+],
+  "geometry": {"coordinates":[-87.961292,43.183326],"type":"Point"}
+}

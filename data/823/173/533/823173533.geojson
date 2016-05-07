@@ -1,0 +1,106 @@
+{
+  "id": 823173533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.038915,43.038319,-88.038915,43.038319",
+    "geom:latitude":43.038319,
+    "geom:longitude":-88.038915,
+    "iso:country":"US",
+    "sg:address":"10101 W Wisconsin Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospice",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 259 6333",
+    "sg:postcode":"53226",
+    "sg:province":"WI",
+    "sg:tags":[
+        "living",
+        "nursing",
+        "homes-skilled",
+        "facility",
+        "assisted",
+        "elder"
+    ],
+    "sg:website":"http://www.stcam.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867293,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i6p7sv5oTnsKjexBkxZEX_43.038319_-88.038915@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462607976,
+    "wof:geomhash":"d8c4f924628f82e79edd86957a911688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85867293,
+            "region_id":85688517,
+            "venue_id":823173533
+        }
+    ],
+    "wof:id":823173533,
+    "wof:lastmodified":1462607976,
+    "wof:name":"St. Camillus",
+    "wof:parent_id":85867293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "living",
+        "nursing",
+        "homes-skilled",
+        "facility",
+        "assisted",
+        "elder"
+    ]
+},
+  "bbox": [
+    -88.038915,
+    43.038319,
+    -88.038915,
+    43.038319
+],
+  "geometry": {"coordinates":[-88.038915,43.038319],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 807375055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.41414,43.025315,-89.41414,43.025315",
+    "geom:latitude":43.025315,
+    "geom:longitude":-89.41414,
+    "iso:country":"US",
+    "sg:address":"3030 Fish Hatchery Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/fitchburg/192687-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 273 2276",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gJlBMjbMYFA2rnp7qjAhK_43.025684_-89.413515@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606855,
+    "wof:geomhash":"c7cdf0cb4dc62dbc89e3637a1003333a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":807375055
+        }
+    ],
+    "wof:id":807375055,
+    "wof:lastmodified":1462606855,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -89.41414,
+    43.025315,
+    -89.41414,
+    43.025315
+],
+  "geometry": {"coordinates":[-89.41414,43.025315],"type":"Point"}
+}

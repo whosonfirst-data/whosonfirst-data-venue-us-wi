@@ -1,0 +1,91 @@
+{
+  "id": 823158271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.950531,42.999451,-87.950531,42.999451",
+    "geom:latitude":42.999451,
+    "geom:longitude":-87.950531,
+    "iso:country":"US",
+    "sg:address":"2900 W Forest Home Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 384 7574",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870927,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517,
+        85870843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aeYVNuAx2eDFNugs4eLGx_42.999451_-87.950531@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607778,
+    "wof:geomhash":"00951e04af8538ea1d4c5e1a3f23ab98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870927,
+            "region_id":85688517,
+            "venue_id":823158271
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870843,
+            "region_id":85688517,
+            "venue_id":823158271
+        }
+    ],
+    "wof:id":823158271,
+    "wof:lastmodified":1462607778,
+    "wof:name":"Emersons Restaurant & Deli",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -87.950531,
+    42.999451,
+    -87.950531,
+    42.999451
+],
+  "geometry": {"coordinates":[-87.950531,42.999451],"type":"Point"}
+}

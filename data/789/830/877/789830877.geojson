@@ -1,0 +1,79 @@
+{
+  "id": 789830877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.042968,43.171114,-88.042968,43.171114",
+    "geom:latitude":43.171114,
+    "geom:longitude":-88.042968,
+    "iso:country":"US",
+    "sg:address":"10343 W Donna Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 355 8915",
+    "sg:postcode":"53224",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822589,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24N3rfyrWUw2QhwJ21Fr69_43.171114_-88.042968@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590877,
+    "wof:geomhash":"5253132b4ea84421bedfae23b763132c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85822589,
+            "region_id":85688517,
+            "venue_id":789830877
+        }
+    ],
+    "wof:id":789830877,
+    "wof:lastmodified":1462590877,
+    "wof:name":"Runway Express",
+    "wof:parent_id":85822589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.042968,
+    43.171114,
+    -88.042968,
+    43.171114
+],
+  "geometry": {"coordinates":[-88.042968,43.171114],"type":"Point"}
+}

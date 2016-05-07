@@ -1,0 +1,81 @@
+{
+  "id": 823158287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.950532,42.999099,-87.950532,42.999099",
+    "geom:latitude":42.999099,
+    "geom:longitude":-87.950532,
+    "iso:country":"US",
+    "sg:address":"2512 S 29th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 645 2074",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870927,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517,
+        85870955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o6rBiRMQ6kz6T0SUxZfbG_42.999099_-87.950532@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607778,
+    "wof:geomhash":"5d52fc1381f4ff8a82cc8d991209d8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870927,
+            "region_id":85688517,
+            "venue_id":823158287
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870955,
+            "region_id":85688517,
+            "venue_id":823158287
+        }
+    ],
+    "wof:id":823158287,
+    "wof:lastmodified":1462607778,
+    "wof:name":"Milwaukee Pest Control",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.950532,
+    42.999099,
+    -87.950532,
+    42.999099
+],
+  "geometry": {"coordinates":[-87.950532,42.999099],"type":"Point"}
+}

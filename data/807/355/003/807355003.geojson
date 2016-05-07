@@ -1,0 +1,80 @@
+{
+  "id": 807355003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.923964,43.221334,-87.923964,43.221334",
+    "geom:latitude":43.221334,
+    "geom:longitude":-87.923964,
+    "iso:country":"US",
+    "sg:address":"1300 W Mequon Rd",
+    "sg:city":"Thiensville",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/mequon/41105-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 834 9999",
+    "sg:postcode":"53092",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870795,
+        102191575,
+        404491943,
+        85633793,
+        101732545,
+        102081873,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r968dL8x2Lz0pmJ0bXZ5e_43.221334_-87.923964@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606574,
+    "wof:geomhash":"cd8d96aa7746587105c456ad1b8e6310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081873,
+            "localadmin_id":404491943,
+            "locality_id":101732545,
+            "neighbourhood_id":85870795,
+            "region_id":85688517,
+            "venue_id":807355003
+        }
+    ],
+    "wof:id":807355003,
+    "wof:lastmodified":1462606574,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85870795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -87.923964,
+    43.221334,
+    -87.923964,
+    43.221334
+],
+  "geometry": {"coordinates":[-87.923964,43.221334],"type":"Point"}
+}

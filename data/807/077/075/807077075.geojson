@@ -1,0 +1,71 @@
+{
+  "id": 807077075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.560319,45.204917,-91.560319,45.204917",
+    "geom:latitude":45.204917,
+    "geom:longitude":-91.560319,
+    "iso:country":"US",
+    "sg:address":"144 E Elm St",
+    "sg:city":"New Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 237 2103",
+    "sg:postcode":"54757",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732557,
+        102081787,
+        85837071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JM5n2i7PCtPFTPy57meSj_45.204917_-91.560319@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603510,
+    "wof:geomhash":"178d9b91fcb3e247809aa3aaf524522f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081787,
+            "locality_id":101732557,
+            "neighbourhood_id":85837071,
+            "region_id":85688517,
+            "venue_id":807077075
+        }
+    ],
+    "wof:id":807077075,
+    "wof:lastmodified":1462603510,
+    "wof:name":"New Auburn Fire Dept",
+    "wof:parent_id":85837071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.560319,
+    45.204917,
+    -91.560319,
+    45.204917
+],
+  "geometry": {"coordinates":[-91.56031900000001,45.204917],"type":"Point"}
+}

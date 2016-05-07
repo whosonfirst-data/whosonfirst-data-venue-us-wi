@@ -1,0 +1,71 @@
+{
+  "id": 773060081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.365311,43.109589,-89.365311,43.109589",
+    "geom:latitude":43.109589,
+    "geom:longitude":-89.365311,
+    "iso:country":"US",
+    "sg:address":"18 Oxford Pl",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 244 3048",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dMJ6sP9fqYAXtSlHU5NYt_43.109589_-89.365311@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462582845,
+    "wof:geomhash":"963f3998b15b42930314303713b6b053",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878869,
+            "region_id":85688517,
+            "venue_id":773060081
+        }
+    ],
+    "wof:id":773060081,
+    "wof:lastmodified":1462582845,
+    "wof:name":"Maple Bluff Fire Dept",
+    "wof:parent_id":85878869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.365311,
+    43.109589,
+    -89.365311,
+    43.109589
+],
+  "geometry": {"coordinates":[-89.36531100000001,43.109589],"type":"Point"}
+}

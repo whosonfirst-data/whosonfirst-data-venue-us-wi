@@ -1,0 +1,79 @@
+{
+  "id": 806361881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.394018,43.049211,-89.394018,43.049211",
+    "geom:latitude":43.049211,
+    "geom:longitude":-89.394018,
+    "iso:country":"US",
+    "sg:address":"1401 S Park St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 251 7966",
+    "sg:postcode":"53715",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878849,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7P0GxV2ZrOQ1yHksGfCo2O_43.049211_-89.394018@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462597520,
+    "wof:geomhash":"e9c499adbd1875f464527b842e156056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878849,
+            "region_id":85688517,
+            "venue_id":806361881
+        }
+    ],
+    "wof:id":806361881,
+    "wof:lastmodified":1462597520,
+    "wof:name":"Judd's Radiator Svc",
+    "wof:parent_id":85878849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -89.394018,
+    43.049211,
+    -89.394018,
+    43.049211
+],
+  "geometry": {"coordinates":[-89.394018,43.049211],"type":"Point"}
+}

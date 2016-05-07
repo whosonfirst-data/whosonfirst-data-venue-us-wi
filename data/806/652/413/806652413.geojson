@@ -1,0 +1,83 @@
+{
+  "id": 806652413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.283775,44.185069,-88.283775,44.185069",
+    "geom:latitude":44.185069,
+    "geom:longitude":-88.283775,
+    "iso:country":"US",
+    "sg:address":"8192 Stommel Rd",
+    "sg:city":"Sherwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 989 2585",
+    "sg:postcode":"54169",
+    "sg:province":"WI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885337,
+        102191575,
+        404493061,
+        85633793,
+        101732749,
+        102081289,
+        85688517,
+        85813523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QI1r7AuSjpWhKNx8cldB9_44.185069_-88.283775@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462599928,
+    "wof:geomhash":"f62020e9124641800543dd52d234c4ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081289,
+            "localadmin_id":404493061,
+            "locality_id":101732749,
+            "neighbourhood_id":85885337,
+            "region_id":85688517,
+            "venue_id":806652413
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081289,
+            "neighbourhood_id":85813523,
+            "region_id":85688517,
+            "venue_id":806652413
+        }
+    ],
+    "wof:id":806652413,
+    "wof:lastmodified":1462599928,
+    "wof:name":"J T W Residential",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -88.283775,
+    44.185069,
+    -88.283775,
+    44.185069
+],
+  "geometry": {"coordinates":[-88.28377500000001,44.185069],"type":"Point"}
+}

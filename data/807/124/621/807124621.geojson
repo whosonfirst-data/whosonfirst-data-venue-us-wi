@@ -1,0 +1,71 @@
+{
+  "id": 807124621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.448305,44.761367,-91.448305,44.761367",
+    "geom:latitude":44.761367,
+    "geom:longitude":-91.448305,
+    "iso:country":"US",
+    "sg:address":"5137 Sheeder Rd",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 832 7817",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u4L2ufE54yyf2wZAluwD7_44.761367_-91.448305@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603997,
+    "wof:geomhash":"b001709774efc105b69039d4f962e9d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807124621
+        }
+    ],
+    "wof:id":807124621,
+    "wof:lastmodified":1462603997,
+    "wof:name":"Arneson Auto Body",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -91.448305,
+    44.761367,
+    -91.448305,
+    44.761367
+],
+  "geometry": {"coordinates":[-91.448305,44.761367],"type":"Point"}
+}

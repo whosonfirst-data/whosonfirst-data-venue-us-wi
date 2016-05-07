@@ -1,0 +1,71 @@
+{
+  "id": 807258239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.679543,42.636891,-88.679543,42.636891",
+    "geom:latitude":42.636891,
+    "geom:longitude":-88.679543,
+    "iso:country":"US",
+    "sg:address":"7702 State Rd 11",
+    "sg:city":"Delavan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 728 3303",
+    "sg:postcode":"53115",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733549,
+        102081883,
+        85814169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51iVqv89e3brez9i3xWqs5_42.636891_-88.679543@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605414,
+    "wof:geomhash":"402994ba6c0042ab2f57124a6d6e9477",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733549,
+            "neighbourhood_id":85814169,
+            "region_id":85688517,
+            "venue_id":807258239
+        }
+    ],
+    "wof:id":807258239,
+    "wof:lastmodified":1462605414,
+    "wof:name":"Delavan Animal Clinic Inc",
+    "wof:parent_id":85814169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -88.679543,
+    42.636891,
+    -88.679543,
+    42.636891
+],
+  "geometry": {"coordinates":[-88.679543,42.636891],"type":"Point"}
+}

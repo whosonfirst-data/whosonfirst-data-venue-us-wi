@@ -1,0 +1,80 @@
+{
+  "id": 806613691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.325599,43.116229,-89.325599,43.116229",
+    "geom:latitude":43.116229,
+    "geom:longitude":-89.325599,
+    "iso:country":"US",
+    "sg:address":"3803 E Washington Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 241 5007",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878851,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qgoSXWLxnevEacw5y5TPO_43.116229_-89.325599@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462599596,
+    "wof:geomhash":"9b3f026f8bc85d5b2e43514a2ec5a5a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878851,
+            "region_id":85688517,
+            "venue_id":806613691
+        }
+    ],
+    "wof:id":806613691,
+    "wof:lastmodified":1462599596,
+    "wof:name":"Big Lots",
+    "wof:parent_id":85878851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.325599,
+    43.116229,
+    -89.325599,
+    43.116229
+],
+  "geometry": {"coordinates":[-89.325599,43.116229],"type":"Point"}
+}

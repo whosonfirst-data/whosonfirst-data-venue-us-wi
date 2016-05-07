@@ -1,0 +1,71 @@
+{
+  "id": 790477387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.393727,43.19211,-89.393727,43.19211",
+    "geom:latitude":43.19211,
+    "geom:longitude":-89.393727,
+    "iso:country":"US",
+    "sg:address":"5184 State Hwy 19",
+    "sg:city":"Waunakee",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 849 2660",
+    "sg:postcode":"53597",
+    "sg:province":"WI",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QqvXsGIfve0nqycce0uQJ_43.192110_-89.393727@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462596170,
+    "wof:geomhash":"962f8e20bb60e67d53663b04ee24c065",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878869,
+            "region_id":85688517,
+            "venue_id":790477387
+        }
+    ],
+    "wof:id":790477387,
+    "wof:lastmodified":1462596170,
+    "wof:name":"Dane County Law Enforcement",
+    "wof:parent_id":85878869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -89.393727,
+    43.19211,
+    -89.393727,
+    43.19211
+],
+  "geometry": {"coordinates":[-89.393727,43.19211],"type":"Point"}
+}

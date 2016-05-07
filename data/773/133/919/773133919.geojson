@@ -1,0 +1,71 @@
+{
+  "id": 773133919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.430549,43.026293,-89.430549,43.026293",
+    "geom:latitude":43.026293,
+    "geom:longitude":-89.430549,
+    "iso:country":"US",
+    "sg:address":"3309 Grandview Blvd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 273 3275",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Pj3xY9xw7yypViXoCmrZa_43.026293_-89.430549@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583389,
+    "wof:geomhash":"bf19a6354a839feb6e2aaa73212aa319",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":773133919
+        }
+    ],
+    "wof:id":773133919,
+    "wof:lastmodified":1462583389,
+    "wof:name":"R Kiddie Cab LLC",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -89.430549,
+    43.026293,
+    -89.430549,
+    43.026293
+],
+  "geometry": {"coordinates":[-89.430549,43.026293],"type":"Point"}
+}

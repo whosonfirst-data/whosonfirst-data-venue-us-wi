@@ -1,0 +1,82 @@
+{
+  "id": 790406925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.631051,44.946327,-89.631051,44.946327",
+    "geom:latitude":44.946327,
+    "geom:longitude":-89.631051,
+    "iso:country":"US",
+    "sg:address":"400 Myron St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 261 6960",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "marking",
+        "protection",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cjCwifun2986wF4JT6E11_44.946327_-89.631051@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462595586,
+    "wof:geomhash":"bef889ed2783da9dfd0ea43c834d7f27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":790406925
+        }
+    ],
+    "wof:id":790406925,
+    "wof:lastmodified":1462595586,
+    "wof:name":"Wausau City of Public Works",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "protection",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -89.631051,
+    44.946327,
+    -89.631051,
+    44.946327
+],
+  "geometry": {"coordinates":[-89.631051,44.946327],"type":"Point"}
+}

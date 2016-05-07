@@ -1,0 +1,76 @@
+{
+  "id": 789584919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.469367,44.233074,-88.469367,44.233074",
+    "geom:latitude":44.233074,
+    "geom:longitude":-88.469367,
+    "iso:country":"US",
+    "sg:address":"2224 American Dr",
+    "sg:city":"Neenah",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 733 6598",
+    "sg:postcode":"54956",
+    "sg:province":"WI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732729,
+        102081801,
+        85807543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NluyRUOYQ0R656or8QGrs_44.233074_-88.469367@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588948,
+    "wof:geomhash":"7000b44a7f24b72a16a8c5ca2e37204f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101732729,
+            "neighbourhood_id":85807543,
+            "region_id":85688517,
+            "venue_id":789584919
+        }
+    ],
+    "wof:id":789584919,
+    "wof:lastmodified":1462588948,
+    "wof:name":"Fox Valley D H I Co-Op",
+    "wof:parent_id":85807543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -88.469367,
+    44.233074,
+    -88.469367,
+    44.233074
+],
+  "geometry": {"coordinates":[-88.46936700000001,44.233074],"type":"Point"}
+}

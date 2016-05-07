@@ -1,0 +1,85 @@
+{
+  "id": 823147399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.937454,43.127565,-87.937454,43.127565",
+    "geom:latitude":43.127565,
+    "geom:longitude":-87.937454,
+    "iso:country":"US",
+    "sg:address":"6100 N Baker Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 352 4160",
+    "sg:postcode":"53209",
+    "sg:province":"WI",
+    "sg:tags":[
+        "cylinders-air",
+        "hydraulic",
+        "supply"
+    ],
+    "sg:website":"http://www.actuant.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870821,
+        102191575,
+        404494165,
+        85633793,
+        101733065,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lrtj269zQE9S406e41tsQ_43.127565_-87.937454@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607636,
+    "wof:geomhash":"585f9ee30ad661057a4491cc93e4c17b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494165,
+            "locality_id":101733065,
+            "neighbourhood_id":85870821,
+            "region_id":85688517,
+            "venue_id":823147399
+        }
+    ],
+    "wof:id":823147399,
+    "wof:lastmodified":1462607636,
+    "wof:name":"Automotive Glendale",
+    "wof:parent_id":85870821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cylinders-air",
+        "hydraulic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -87.937454,
+    43.127565,
+    -87.937454,
+    43.127565
+],
+  "geometry": {"coordinates":[-87.937454,43.127565],"type":"Point"}
+}

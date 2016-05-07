@@ -1,0 +1,85 @@
+{
+  "id": 823193009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.21475,43.870008,-91.21475,43.870008",
+    "geom:latitude":43.870008,
+    "geom:longitude":-91.21475,
+    "iso:country":"US",
+    "sg:address":"1220 Crossing Meadows Dr Ste 130",
+    "sg:city":"Onalaska",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 781 4044",
+    "sg:postcode":"54650",
+    "sg:province":"WI",
+    "sg:tags":[
+        "equipment",
+        "salons-equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732663,
+        102081301,
+        85825891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s7Ijz1uiau1q4nTMv7SBB_43.870008_-91.214750@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608232,
+    "wof:geomhash":"1b4348c6c0a2c8464c46ace82b0624ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732663,
+            "neighbourhood_id":85825891,
+            "region_id":85688517,
+            "venue_id":823193009
+        }
+    ],
+    "wof:id":823193009,
+    "wof:lastmodified":1462608232,
+    "wof:name":"National Salon Resource",
+    "wof:parent_id":85825891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "salons-equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -91.21475,
+    43.870008,
+    -91.21475,
+    43.870008
+],
+  "geometry": {"coordinates":[-91.21475,43.870008],"type":"Point"}
+}

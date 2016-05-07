@@ -1,0 +1,88 @@
+{
+  "id": 790395845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.333317,43.099734,-89.333317,43.099734",
+    "geom:latitude":43.099734,
+    "geom:longitude":-89.333317,
+    "iso:country":"US",
+    "sg:address":"3200 Milwaukee St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 249 4614",
+    "sg:postcode":"53714",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878865,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517,
+        85878839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ox0CksuYZU3eD3BKTN1ML_43.099734_-89.333317@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462595506,
+    "wof:geomhash":"37e9d8057590ab405f99f1c59b71f203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878865,
+            "region_id":85688517,
+            "venue_id":790395845
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878839,
+            "region_id":85688517,
+            "venue_id":790395845
+        }
+    ],
+    "wof:id":790395845,
+    "wof:lastmodified":1462595506,
+    "wof:name":"Triangle Super Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.333317,
+    43.099734,
+    -89.333317,
+    43.099734
+],
+  "geometry": {"coordinates":[-89.33331699999999,43.099734],"type":"Point"}
+}

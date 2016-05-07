@@ -1,0 +1,69 @@
+{
+  "id": 790265649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.542831,44.053677,-88.542831,44.053677",
+    "geom:latitude":44.053677,
+    "geom:longitude":-88.542831,
+    "iso:country":"US",
+    "sg:address":"2850 Jackson St",
+    "sg:city":"Oshkosh",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 235 9340",
+    "sg:postcode":"54901",
+    "sg:province":"WI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85827909,
+        102081801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gQoX2QnLap0UaplOE9PBS_44.053677_-88.542831@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462594465,
+    "wof:geomhash":"36e894f9804d88c31020d8aef6082839",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "neighbourhood_id":85827909,
+            "region_id":85688517,
+            "venue_id":790265649
+        }
+    ],
+    "wof:id":790265649,
+    "wof:lastmodified":1462594465,
+    "wof:name":"Nolte's",
+    "wof:parent_id":85827909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -88.542831,
+    44.053677,
+    -88.542831,
+    44.053677
+],
+  "geometry": {"coordinates":[-88.54283100000001,44.053677],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790540721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.68802,44.950789,-89.68802,44.950789",
+    "geom:latitude":44.950789,
+    "geom:longitude":-89.68802,
+    "iso:country":"US",
+    "sg:address":"3700 Central Dr",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 842 4575",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FaAHGa5BO6o1QXuDxpEk6_44.950789_-89.688020@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462596711,
+    "wof:geomhash":"ca41e95ee15ee6b76988e9eb2573bf41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":790540721
+        }
+    ],
+    "wof:id":790540721,
+    "wof:lastmodified":1462596711,
+    "wof:name":"Heislers Automotive Service",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -89.68802,
+    44.950789,
+    -89.68802,
+    44.950789
+],
+  "geometry": {"coordinates":[-89.68801999999999,44.950789],"type":"Point"}
+}

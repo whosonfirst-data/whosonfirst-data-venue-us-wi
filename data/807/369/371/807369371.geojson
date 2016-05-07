@@ -1,0 +1,74 @@
+{
+  "id": 807369371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.505849,44.793054,-91.505849,44.793054",
+    "geom:latitude":44.793054,
+    "geom:longitude":-91.505849,
+    "iso:country":"US",
+    "sg:address":"623 W Clairemont Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/63974-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 839 9893",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vc4KSVN1epJlqMq1Y9RGI_44.793054_-91.505849@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606782,
+    "wof:geomhash":"dd9258c57797932419ea12fbf0c23943",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807369371
+        }
+    ],
+    "wof:id":807369371,
+    "wof:lastmodified":1462606782,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.505849,
+    44.793054,
+    -91.505849,
+    44.793054
+],
+  "geometry": {"coordinates":[-91.505849,44.793054],"type":"Point"}
+}

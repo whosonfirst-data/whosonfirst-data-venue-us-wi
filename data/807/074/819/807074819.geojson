@@ -1,0 +1,71 @@
+{
+  "id": 807074819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.211113,43.182995,-89.211113,43.182995",
+    "geom:latitude":43.182995,
+    "geom:longitude":-89.211113,
+    "iso:country":"US",
+    "sg:address":"301 E Main St",
+    "sg:city":"Sun Prairie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 825 1135",
+    "sg:postcode":"53590",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical",
+        "emergency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01lMNtltS0VRTxGXiPIhep_43.182995_-89.211113@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603494,
+    "wof:geomhash":"ddc37bf074ebe55bef7a94257f88cf5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":807074819
+        }
+    ],
+    "wof:id":807074819,
+    "wof:lastmodified":1462603494,
+    "wof:name":"E M S",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "emergency"
+    ]
+},
+  "bbox": [
+    -89.211113,
+    43.182995,
+    -89.211113,
+    43.182995
+],
+  "geometry": {"coordinates":[-89.211113,43.182995],"type":"Point"}
+}

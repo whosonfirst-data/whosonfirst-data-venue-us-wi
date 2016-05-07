@@ -1,0 +1,84 @@
+{
+  "id": 807387819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.923897,43.2225,-87.923897,43.2225",
+    "geom:latitude":43.2225,
+    "geom:longitude":-87.923897,
+    "iso:country":"US",
+    "sg:address":"11270 N Port Washington Rd",
+    "sg:city":"Mequon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 241 5147",
+    "sg:postcode":"53092",
+    "sg:province":"WI",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85829269,
+        102191575,
+        404491943,
+        85633793,
+        101732545,
+        102081873,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tw9iBVCXPb26iWJkh194X_43.222500_-87.923897@1303262805"
+    },
+    "wof:country":"US",
+    "wof:created":1462607035,
+    "wof:geomhash":"3eb1eb0bd777700b848ef4344e69944a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081873,
+            "localadmin_id":404491943,
+            "locality_id":101732545,
+            "neighbourhood_id":85829269,
+            "region_id":85688517,
+            "venue_id":807387819
+        }
+    ],
+    "wof:id":807387819,
+    "wof:lastmodified":1462607035,
+    "wof:name":"Walgreen Drug Stores",
+    "wof:parent_id":85829269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [
+    -87.923897,
+    43.2225,
+    -87.923897,
+    43.2225
+],
+  "geometry": {"coordinates":[-87.923897,43.2225],"type":"Point"}
+}

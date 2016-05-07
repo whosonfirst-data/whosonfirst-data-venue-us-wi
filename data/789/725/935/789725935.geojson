@@ -1,0 +1,80 @@
+{
+  "id": 789725935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.362224,43.121306,-89.362224,43.121306",
+    "geom:latitude":43.121306,
+    "geom:longitude":-89.362224,
+    "iso:country":"US",
+    "sg:address":"1738 Winchester St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 249 2050",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "equipment",
+        "refrigeration",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TNpqvuyKkcKmQzmwk694q_43.121306_-89.362224@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590071,
+    "wof:geomhash":"790166a6365d6791e971c1f0145a6391",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878869,
+            "region_id":85688517,
+            "venue_id":789725935
+        }
+    ],
+    "wof:id":789725935,
+    "wof:lastmodified":1462590071,
+    "wof:name":"Specialized Mechanical Applctn",
+    "wof:parent_id":85878869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "refrigeration",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.362224,
+    43.121306,
+    -89.362224,
+    43.121306
+],
+  "geometry": {"coordinates":[-89.362224,43.121306],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 807365163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.423964,43.072417,-89.423964,43.072417",
+    "geom:latitude":43.072417,
+    "geom:longitude":-89.423964,
+    "iso:country":"US",
+    "sg:address":"2216 University Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/145572-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 441 0814",
+    "sg:postcode":"53726",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878875,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PHeJUQjIN7BQi7YERzJBX_43.072417_-89.423964@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606722,
+    "wof:geomhash":"e203a42090bd26a6999418b373e77866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878875,
+            "region_id":85688517,
+            "venue_id":807365163
+        }
+    ],
+    "wof:id":807365163,
+    "wof:lastmodified":1462606722,
+    "wof:name":"Subway",
+    "wof:parent_id":85878875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.423964,
+    43.072417,
+    -89.423964,
+    43.072417
+],
+  "geometry": {"coordinates":[-89.423964,43.072417],"type":"Point"}
+}

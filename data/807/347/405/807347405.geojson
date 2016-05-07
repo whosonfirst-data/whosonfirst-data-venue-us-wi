@@ -1,0 +1,76 @@
+{
+  "id": 807347405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.974747,43.061501,-87.974747,43.061501",
+    "geom:latitude":43.061501,
+    "geom:longitude":-87.974747,
+    "iso:country":"US",
+    "sg:address":"2333 N 49th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 933 4444",
+    "sg:postcode":"53210",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"http://www.milwaukee.gov/police",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870829,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QxYU5x0T4SWT4YbRxwdd4_43.060895_-87.974904@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462606464,
+    "wof:geomhash":"6cf882469088a9a31f218fb79df21d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870829,
+            "region_id":85688517,
+            "venue_id":807347405
+        }
+    ],
+    "wof:id":807347405,
+    "wof:lastmodified":1462606464,
+    "wof:name":"Milwaukee Police Dept",
+    "wof:parent_id":85870829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -87.974747,
+    43.061501,
+    -87.974747,
+    43.061501
+],
+  "geometry": {"coordinates":[-87.97474699999999,43.061501],"type":"Point"}
+}

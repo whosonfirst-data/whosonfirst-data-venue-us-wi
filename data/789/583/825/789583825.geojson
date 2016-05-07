@@ -1,0 +1,73 @@
+{
+  "id": 789583825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.451861,44.747062,-91.451861,44.747062",
+    "geom:latitude":44.747062,
+    "geom:longitude":-91.451861,
+    "iso:country":"US",
+    "sg:address":"5901 State Rd 93",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 834 9052",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sByTmpnOWlGzOaAsNtxYg_44.747062_-91.451861@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588938,
+    "wof:geomhash":"952901591e81ee7a1e318c3b2bd3a3f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":789583825
+        }
+    ],
+    "wof:id":789583825,
+    "wof:lastmodified":1462588938,
+    "wof:name":"Kjelstad Plumbing Inc",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.451861,
+    44.747062,
+    -91.451861,
+    44.747062
+],
+  "geometry": {"coordinates":[-91.45186099999999,44.747062],"type":"Point"}
+}

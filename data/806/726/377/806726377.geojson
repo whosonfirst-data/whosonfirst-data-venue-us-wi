@@ -1,0 +1,80 @@
+{
+  "id": 806726377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.183029,43.412181,-88.183029,43.412181",
+    "geom:latitude":43.412181,
+    "geom:longitude":-88.183029,
+    "iso:country":"US",
+    "sg:address":"555 W Decorah Rd",
+    "sg:city":"West Bend",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 334 5551",
+    "sg:postcode":"53095",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859413,
+        102191575,
+        404495617,
+        85633793,
+        101732991,
+        102081745,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IKTJy8yp4tN56DPhtK7pB_43.412181_-88.183029@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462600555,
+    "wof:geomhash":"56ce671ae55dbd833eaf7b60bba6f12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081745,
+            "localadmin_id":404495617,
+            "locality_id":101732991,
+            "neighbourhood_id":85859413,
+            "region_id":85688517,
+            "venue_id":806726377
+        }
+    ],
+    "wof:id":806726377,
+    "wof:lastmodified":1462600555,
+    "wof:name":"Decorah Animal Hospital LLC",
+    "wof:parent_id":85859413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -88.183029,
+    43.412181,
+    -88.183029,
+    43.412181
+],
+  "geometry": {"coordinates":[-88.183029,43.412181],"type":"Point"}
+}

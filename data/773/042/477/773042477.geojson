@@ -1,0 +1,71 @@
+{
+  "id": 773042477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.421417,44.287305,-88.421417,44.287305",
+    "geom:latitude":44.287305,
+    "geom:longitude":-88.421417,
+    "iso:country":"US",
+    "sg:address":"1001 W Northland Ave",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 739 7816",
+    "sg:postcode":"54914",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5py3DQOnr8ElIpuccET0H2_44.287305_-88.421417@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462582683,
+    "wof:geomhash":"11177fb540ccc25f640172d9faf1b322",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":773042477
+        }
+    ],
+    "wof:id":773042477,
+    "wof:lastmodified":1462582683,
+    "wof:name":"North Heights Veterinary Clnc",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -88.421417,
+    44.287305,
+    -88.421417,
+    44.287305
+],
+  "geometry": {"coordinates":[-88.42141700000001,44.287305],"type":"Point"}
+}

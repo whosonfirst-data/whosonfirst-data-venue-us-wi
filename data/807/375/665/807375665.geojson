@@ -1,0 +1,85 @@
+{
+  "id": 807375665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.072757,44.478463,-88.072757,44.478463",
+    "geom:latitude":44.478463,
+    "geom:longitude":-88.072757,
+    "iso:country":"US",
+    "sg:address":"2674 S Oneida St",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/ashwaubenon/220586-breadsmith/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 405 3106",
+    "sg:postcode":"54304",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855345,
+        102191575,
+        404492849,
+        85633793,
+        101732363,
+        102081867,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3snpXCswO779PYpL72kIOd_44.478928_-88.072819@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606868,
+    "wof:geomhash":"6daaad1d97b524daf725eca7316b9997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081867,
+            "localadmin_id":404492849,
+            "locality_id":101732363,
+            "neighbourhood_id":85855345,
+            "region_id":85688517,
+            "venue_id":807375665
+        }
+    ],
+    "wof:id":807375665,
+    "wof:lastmodified":1462606868,
+    "wof:name":"Breadsmith",
+    "wof:parent_id":85855345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -88.072757,
+    44.478463,
+    -88.072757,
+    44.478463
+],
+  "geometry": {"coordinates":[-88.072757,44.478463],"type":"Point"}
+}

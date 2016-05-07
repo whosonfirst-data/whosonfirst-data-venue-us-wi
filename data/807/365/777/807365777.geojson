@@ -1,0 +1,74 @@
+{
+  "id": 807365777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.953582,44.414619,-87.953582,44.414619",
+    "geom:latitude":44.414619,
+    "geom:longitude":-87.953582,
+    "iso:country":"US",
+    "sg:address":"1850 Dickinson Rd",
+    "sg:city":"De Pere",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/glenmore/85779-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 337 4850",
+    "sg:postcode":"54115",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85828807,
+        102081867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xTJ2YTTYNoPpi5nfJU3r2_44.414619_-87.953582@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606735,
+    "wof:geomhash":"2f921b1707b51448c64fafb9d7f474c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081867,
+            "neighbourhood_id":85828807,
+            "region_id":85688517,
+            "venue_id":807365777
+        }
+    ],
+    "wof:id":807365777,
+    "wof:lastmodified":1462606735,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85828807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -87.953582,
+    44.414619,
+    -87.953582,
+    44.414619
+],
+  "geometry": {"coordinates":[-87.953582,44.414619],"type":"Point"}
+}

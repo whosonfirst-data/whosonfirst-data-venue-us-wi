@@ -1,0 +1,71 @@
+{
+  "id": 790246063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.141556,45.166729,-91.141556,45.166729",
+    "geom:latitude":45.166729,
+    "geom:longitude":-91.141556,
+    "iso:country":"US",
+    "sg:address":"409 S 8th St",
+    "sg:city":"Cornell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 239 6482",
+    "sg:postcode":"54732",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732557,
+        102081787,
+        85837071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g28UFKJx57kS49bvLzblZ_45.166729_-91.141556@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462594296,
+    "wof:geomhash":"990523ddbba3dee757d73026d4e32494",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081787,
+            "locality_id":101732557,
+            "neighbourhood_id":85837071,
+            "region_id":85688517,
+            "venue_id":790246063
+        }
+    ],
+    "wof:id":790246063,
+    "wof:lastmodified":1462594296,
+    "wof:name":"Cornell Veterinary Clinic",
+    "wof:parent_id":85837071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -91.141556,
+    45.166729,
+    -91.141556,
+    45.166729
+],
+  "geometry": {"coordinates":[-91.14155599999999,45.166729],"type":"Point"}
+}

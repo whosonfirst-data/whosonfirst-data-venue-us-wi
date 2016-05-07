@@ -1,0 +1,72 @@
+{
+  "id": 807371711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.507317,44.2733,-88.507317,44.2733",
+    "geom:latitude":44.2733,
+    "geom:longitude":-88.507317,
+    "iso:country":"US",
+    "sg:address":"W6318 Wisconsin Ave",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/greenville/218296-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 757 7741",
+    "sg:postcode":"54942",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2axuRCQNhEM2gjo6YSreLk_44.273300_-88.507317@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606813,
+    "wof:geomhash":"3a476c696bd8d36aabf54f3ea74b9c8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":807371711
+        }
+    ],
+    "wof:id":807371711,
+    "wof:lastmodified":1462606813,
+    "wof:name":"Burger King",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -88.507317,
+    44.2733,
+    -88.507317,
+    44.2733
+],
+  "geometry": {"coordinates":[-88.507317,44.2733],"type":"Point"}
+}

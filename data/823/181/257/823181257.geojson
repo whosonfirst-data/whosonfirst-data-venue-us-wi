@@ -1,0 +1,92 @@
+{
+  "id": 823181257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.031806,42.508679,-89.031806,42.508679",
+    "geom:latitude":42.508679,
+    "geom:longitude":-89.031806,
+    "iso:country":"US",
+    "sg:address":"1035 Pleasant St",
+    "sg:city":"Beloit",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 207 3307",
+    "sg:postcode":"53511",
+    "sg:province":"WI",
+    "sg:tags":[
+        "ticket",
+        "agency",
+        "services-commercial",
+        "railroads-ticket"
+    ],
+    "sg:website":"http://www.bookmytravel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85812915,
+        102191575,
+        404492341,
+        85633793,
+        101732817,
+        102081829,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UBOZSn5i0RZrjeQ2GRiBC_42.508679_-89.031806@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608077,
+    "wof:geomhash":"ef535c43c1c8e036036e3b4bbc48b038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081829,
+            "localadmin_id":404492341,
+            "locality_id":101732817,
+            "neighbourhood_id":85812915,
+            "region_id":85688517,
+            "venue_id":823181257
+        }
+    ],
+    "wof:id":823181257,
+    "wof:lastmodified":1462608077,
+    "wof:name":"Travel Network",
+    "wof:parent_id":85812915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket",
+        "agency",
+        "services-commercial",
+        "railroads-ticket"
+    ]
+},
+  "bbox": [
+    -89.031806,
+    42.508679,
+    -89.031806,
+    42.508679
+],
+  "geometry": {"coordinates":[-89.031806,42.508679],"type":"Point"}
+}

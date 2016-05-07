@@ -1,0 +1,76 @@
+{
+  "id": 773751889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.463179,43.105206,-88.463179,43.105206",
+    "geom:latitude":43.105206,
+    "geom:longitude":-88.463179,
+    "iso:country":"US",
+    "sg:address":"36050 Orchard Ln",
+    "sg:city":"Oconomowoc",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 567 5304",
+    "sg:postcode":"53066",
+    "sg:province":"WI",
+    "sg:tags":[
+        "transcription",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85851111,
+        102081741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MImWnK8RUTZBcZwQW8Bhz_43.105206_-88.463179@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588110,
+    "wof:geomhash":"b0b03235f29aa620c6e615529e00c86d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081741,
+            "neighbourhood_id":85851111,
+            "region_id":85688517,
+            "venue_id":773751889
+        }
+    ],
+    "wof:id":773751889,
+    "wof:lastmodified":1462588110,
+    "wof:name":"Med Script Transcription Svc",
+    "wof:parent_id":85851111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transcription",
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.463179,
+    43.105206,
+    -88.463179,
+    43.105206
+],
+  "geometry": {"coordinates":[-88.463179,43.105206],"type":"Point"}
+}

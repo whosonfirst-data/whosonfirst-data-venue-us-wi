@@ -1,0 +1,81 @@
+{
+  "id": 823144609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.888835,43.000996,-87.888835,43.000996",
+    "geom:latitude":43.000996,
+    "geom:longitude":-87.888835,
+    "iso:country":"US",
+    "sg:address":"2420 S Lincoln Memorial Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Restricted Area",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 747 1466",
+    "sg:postcode":"53207",
+    "sg:province":"WI",
+    "sg:tags":[
+        "navy",
+        "veteran",
+        "good",
+        "army"
+    ],
+    "sg:website":"http://www.cg-exchange.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85870891,
+        102081837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6InHwpD82f7JbZXsKyZMK3_43.000996_-87.888835@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607598,
+    "wof:geomhash":"8ad2ab0afb220340341fa81207841c0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081837,
+            "neighbourhood_id":85870891,
+            "region_id":85688517,
+            "venue_id":823144609
+        }
+    ],
+    "wof:id":823144609,
+    "wof:lastmodified":1462607598,
+    "wof:name":"CGX - Coast Guard Exchange",
+    "wof:parent_id":85870891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "navy",
+        "veteran",
+        "good",
+        "army"
+    ]
+},
+  "bbox": [
+    -87.888835,
+    43.000996,
+    -87.888835,
+    43.000996
+],
+  "geometry": {"coordinates":[-87.888835,43.000996],"type":"Point"}
+}

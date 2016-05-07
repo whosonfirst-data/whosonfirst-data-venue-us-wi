@@ -1,0 +1,71 @@
+{
+  "id": 789989843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.685339,44.087596,-87.685339,44.087596",
+    "geom:latitude":44.087596,
+    "geom:longitude":-87.685339,
+    "iso:country":"US",
+    "sg:address":"1140 S 30th St",
+    "sg:city":"Manitowoc",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 652 0991",
+    "sg:postcode":"54220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dqfclreuMf0xFbDlQcaPT_44.087596_-87.685339@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592245,
+    "wof:geomhash":"4d3e18955fad560674948b15dba3fa94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":789989843
+        }
+    ],
+    "wof:id":789989843,
+    "wof:lastmodified":1462592245,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -87.685339,
+    44.087596,
+    -87.685339,
+    44.087596
+],
+  "geometry": {"coordinates":[-87.685339,44.087596],"type":"Point"}
+}

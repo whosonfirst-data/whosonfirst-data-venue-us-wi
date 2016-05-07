@@ -1,0 +1,88 @@
+{
+  "id": 823166833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.958621,42.960062,-87.958621,42.960062",
+    "geom:latitude":42.960062,
+    "geom:longitude":-87.958621,
+    "iso:country":"US",
+    "sg:address":"4666 S 35th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 281 0400",
+    "sg:postcode":"53221",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "pediatrics",
+        "surgeon",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870931,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MqERXVmOERpqFv57FSXKK_42.960062_-87.958621@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607890,
+    "wof:geomhash":"29aeccfa7a720443bd5c95d56581dc22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870931,
+            "region_id":85688517,
+            "venue_id":823166833
+        }
+    ],
+    "wof:id":823166833,
+    "wof:lastmodified":1462607890,
+    "wof:name":"Yee, Consuelo A",
+    "wof:parent_id":85870931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "pediatrics",
+        "surgeon",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -87.958621,
+    42.960062,
+    -87.958621,
+    42.960062
+],
+  "geometry": {"coordinates":[-87.95862099999999,42.960062],"type":"Point"}
+}

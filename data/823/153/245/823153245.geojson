@@ -1,0 +1,88 @@
+{
+  "id": 823153245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.0073,43.033699,-88.0073,43.033699",
+    "geom:latitude":43.033699,
+    "geom:longitude":-88.0073,
+    "iso:country":"US",
+    "sg:address":"332 N 76th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 257 2121",
+    "sg:postcode":"53213",
+    "sg:province":"WI",
+    "sg:tags":[
+        "auto",
+        "homeowner"
+    ],
+    "sg:website":"http://apps.amfam.com/agentlocator/MVOSS?sourceid=yp3",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870835,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W6dCckvzvuoDwnEvXU8H4_43.033699_-88.007300@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607710,
+    "wof:geomhash":"aeda875c8775c1192f08df971fcf614a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870835,
+            "region_id":85688517,
+            "venue_id":823153245
+        }
+    ],
+    "wof:id":823153245,
+    "wof:lastmodified":1462607710,
+    "wof:name":"American Family Insurance- Michael L Voss",
+    "wof:parent_id":85870835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "homeowner"
+    ]
+},
+  "bbox": [
+    -88.0073,
+    43.033699,
+    -88.0073,
+    43.033699
+],
+  "geometry": {"coordinates":[-88.0073,43.033699],"type":"Point"}
+}

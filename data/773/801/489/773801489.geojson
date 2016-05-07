@@ -1,0 +1,73 @@
+{
+  "id": 773801489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.703788,44.951601,-89.703788,44.951601",
+    "geom:latitude":44.951601,
+    "geom:longitude":-89.703788,
+    "iso:country":"US",
+    "sg:address":"5601 Sherman St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 800 2727",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "glass",
+        "installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mdvNnodgqmJVPArNkeng2_44.951601_-89.703788@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588478,
+    "wof:geomhash":"075ca0eb701c37cfe247ff2df05cbd3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":773801489
+        }
+    ],
+    "wof:id":773801489,
+    "wof:lastmodified":1462588478,
+    "wof:name":"Safelite Autoglass",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "installation"
+    ]
+},
+  "bbox": [
+    -89.703788,
+    44.951601,
+    -89.703788,
+    44.951601
+],
+  "geometry": {"coordinates":[-89.703788,44.951601],"type":"Point"}
+}

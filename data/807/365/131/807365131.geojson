@@ -1,0 +1,78 @@
+{
+  "id": 807365131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.502994,43.051732,-89.502994,43.051732",
+    "geom:latitude":43.051732,
+    "geom:longitude":-89.502994,
+    "iso:country":"US",
+    "sg:address":"601 S Gammon Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/middleton/159059-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 274 6205",
+    "sg:postcode":"53719",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878893,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JQkqnweFUweVtmioIFvlq_43.051732_-89.502994@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606722,
+    "wof:geomhash":"152ee231ccd63076d7f6c22979db6989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878893,
+            "region_id":85688517,
+            "venue_id":807365131
+        }
+    ],
+    "wof:id":807365131,
+    "wof:lastmodified":1462606722,
+    "wof:name":"Arby's",
+    "wof:parent_id":85878893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -89.502994,
+    43.051732,
+    -89.502994,
+    43.051732
+],
+  "geometry": {"coordinates":[-89.502994,43.051732],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 807229499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.156396,44.032117,-88.156396,44.032117",
+    "geom:latitude":44.032117,
+    "geom:longitude":-88.156396,
+    "iso:country":"US",
+    "sg:address":"25 Pennsylvania Ave",
+    "sg:city":"Chilton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 849 4606",
+    "sg:postcode":"53014",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732735,
+        102081289,
+        85822647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zUdu4RQQVgjHCyrObRteV_44.032117_-88.156396@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605113,
+    "wof:geomhash":"493cfc7e8ca35d99bdc210b128623cee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081289,
+            "locality_id":101732735,
+            "neighbourhood_id":85822647,
+            "region_id":85688517,
+            "venue_id":807229499
+        }
+    ],
+    "wof:id":807229499,
+    "wof:lastmodified":1462605113,
+    "wof:name":"Winkel Transport LLC",
+    "wof:parent_id":85822647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.156396,
+    44.032117,
+    -88.156396,
+    44.032117
+],
+  "geometry": {"coordinates":[-88.156396,44.032117],"type":"Point"}
+}

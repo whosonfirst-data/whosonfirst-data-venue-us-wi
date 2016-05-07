@@ -1,0 +1,74 @@
+{
+  "id": 807367643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.158694,44.687044,-90.158694,44.687044",
+    "geom:latitude":44.687044,
+    "geom:longitude":-90.158694,
+    "iso:country":"US",
+    "sg:address":"1921 N Central Ave",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/marshfield/195846-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 384 4511",
+    "sg:postcode":"54449",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85832133,
+        102081881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A5OWCD5gDQUvIdVstGHUH_44.687044_-90.158694@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606760,
+    "wof:geomhash":"03f4d4ab41a3c52fddf8abdb458a64d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "neighbourhood_id":85832133,
+            "region_id":85688517,
+            "venue_id":807367643
+        }
+    ],
+    "wof:id":807367643,
+    "wof:lastmodified":1462606760,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85832133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -90.158694,
+    44.687044,
+    -90.158694,
+    44.687044
+],
+  "geometry": {"coordinates":[-90.158694,44.687044],"type":"Point"}
+}

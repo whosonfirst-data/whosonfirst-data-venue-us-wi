@@ -1,0 +1,92 @@
+{
+  "id": 823192913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.212298,43.870702,-91.212298,43.870702",
+    "geom:latitude":43.870702,
+    "geom:longitude":-91.212298,
+    "iso:country":"US",
+    "sg:address":"1231 Crossing Meadows Dr",
+    "sg:city":"Onalaska",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"Aquarium",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 783 3910",
+    "sg:postcode":"54650",
+    "sg:province":"WI",
+    "sg:tags":[
+        "food",
+        "dog",
+        "cat",
+        "furnishing",
+        "grooming",
+        "store"
+    ],
+    "sg:website":"http://www.petco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732663,
+        102081301,
+        85825891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fkZY1caanVuaZxjNsPp7o_43.870702_-91.212298@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608231,
+    "wof:geomhash":"5fe37bc814f2330b0ac27192eeffe522",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732663,
+            "neighbourhood_id":85825891,
+            "region_id":85688517,
+            "venue_id":823192913
+        }
+    ],
+    "wof:id":823192913,
+    "wof:lastmodified":1462608231,
+    "wof:name":"PETCO",
+    "wof:parent_id":85825891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "dog",
+        "cat",
+        "furnishing",
+        "grooming",
+        "store"
+    ]
+},
+  "bbox": [
+    -91.212298,
+    43.870702,
+    -91.212298,
+    43.870702
+],
+  "geometry": {"coordinates":[-91.212298,43.870702],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 773810259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.07255,42.83044,-89.07255,42.83044",
+    "geom:latitude":42.83044,
+    "geom:longitude":-89.07255,
+    "iso:country":"US",
+    "sg:address":"412 S Main St",
+    "sg:city":"Edgerton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 884 4715",
+    "sg:postcode":"53534",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85836935,
+        102081829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FENeXgHb64HeruVjeGI0w_42.830440_-89.072550@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588558,
+    "wof:geomhash":"22c277c5063d330c9c8bc1ed9d84422f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "neighbourhood_id":85836935,
+            "region_id":85688517,
+            "venue_id":773810259
+        }
+    ],
+    "wof:id":773810259,
+    "wof:lastmodified":1462588558,
+    "wof:name":"Barry Fitzsimmons Trucking",
+    "wof:parent_id":85836935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.07255,
+    42.83044,
+    -89.07255,
+    42.83044
+],
+  "geometry": {"coordinates":[-89.07255000000001,42.83044],"type":"Point"}
+}

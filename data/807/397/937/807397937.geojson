@@ -1,0 +1,103 @@
+{
+  "id": 807397937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.044952,42.883579,-88.044952,42.883579",
+    "geom:latitude":42.883579,
+    "geom:longitude":-88.044952,
+    "iso:country":"US",
+    "sg:address":"10500 W Loomis Rd",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 529 3100",
+    "sg:postcode":"53132",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "radiology",
+        "surgeons",
+        "imaging",
+        "pediatrics-radiology"
+    ],
+    "sg:website":"http://www.pdi-imaging.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550073,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837,
+        85688517,
+        420550247,
+        404495657,
+        101733509,
+        102081741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qcWVCerLwjjeLY9cQKly0_42.883579_-88.044952@1303262806"
+    },
+    "wof:country":"US",
+    "wof:created":1462607231,
+    "wof:geomhash":"63e80ca05e6e291ff4dac7d65747fd75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "neighbourhood_id":420550073,
+            "region_id":85688517,
+            "venue_id":807397937
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081741,
+            "localadmin_id":404495657,
+            "locality_id":101733509,
+            "neighbourhood_id":420550247,
+            "region_id":85688517,
+            "venue_id":807397937
+        }
+    ],
+    "wof:id":807397937,
+    "wof:lastmodified":1462607231,
+    "wof:name":"Pediatric Diagnostic Imaging",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "radiology",
+        "surgeons",
+        "imaging",
+        "pediatrics-radiology"
+    ]
+},
+  "bbox": [
+    -88.044952,
+    42.883579,
+    -88.044952,
+    42.883579
+],
+  "geometry": {"coordinates":[-88.04495199999999,42.883579],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 807362345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.004939,42.706955,-89.004939,42.706955",
+    "geom:latitude":42.706955,
+    "geom:longitude":-89.004939,
+    "iso:country":"US",
+    "sg:address":"2034 Milton Ave",
+    "sg:city":"Janesville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/janesville/145531-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 756 4343",
+    "sg:postcode":"53545",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803103,
+        102191575,
+        404492347,
+        85633793,
+        101732837,
+        102081829,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M34wD4hF0D8DukM1Ynsxg_42.706955_-89.004939@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606688,
+    "wof:geomhash":"de6f11f8ea2e4777d42df1dc443d1dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081829,
+            "localadmin_id":404492347,
+            "locality_id":101732837,
+            "neighbourhood_id":85803103,
+            "region_id":85688517,
+            "venue_id":807362345
+        }
+    ],
+    "wof:id":807362345,
+    "wof:lastmodified":1462606688,
+    "wof:name":"Subway",
+    "wof:parent_id":85803103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.004939,
+    42.706955,
+    -89.004939,
+    42.706955
+],
+  "geometry": {"coordinates":[-89.00493899999999,42.706955],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 789978611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.372871,44.243885,-88.372871,44.243885",
+    "geom:latitude":44.243885,
+    "geom:longitude":-88.372871,
+    "iso:country":"US",
+    "sg:address":"2021 E Calumet St",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 735 1656",
+    "sg:postcode":"54915",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85813523,
+        102081289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YkGo26p2iX2VxDlLRibKW_44.243885_-88.372871@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592155,
+    "wof:geomhash":"96a0460537f0e1a8005a28a949996126",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081289,
+            "neighbourhood_id":85813523,
+            "region_id":85688517,
+            "venue_id":789978611
+        }
+    ],
+    "wof:id":789978611,
+    "wof:lastmodified":1462592155,
+    "wof:name":"Fox River Animal Hospital",
+    "wof:parent_id":85813523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -88.372871,
+    44.243885,
+    -88.372871,
+    44.243885
+],
+  "geometry": {"coordinates":[-88.372871,44.243885],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 823186309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.451242,43.068426,-89.451242,43.068426",
+    "geom:latitude":43.068426,
+    "geom:longitude":-89.451242,
+    "iso:country":"US",
+    "sg:address":"222 N Midvale Blvd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 233 7905",
+    "sg:postcode":"53705",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"http://www.nationallungcancerpartnership.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868277,
+        102191575,
+        404491679,
+        85633793,
+        101732725,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Cfg24wgyswWbCid6ZvWNI_43.068426_-89.451242@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608147,
+    "wof:geomhash":"5760502bf89c652c181c4833432e9c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491679,
+            "locality_id":101732725,
+            "neighbourhood_id":85868277,
+            "region_id":85688517,
+            "venue_id":823186309
+        }
+    ],
+    "wof:id":823186309,
+    "wof:lastmodified":1462608147,
+    "wof:name":"National Lung Cancer Partnership",
+    "wof:parent_id":85868277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.451242,
+    43.068426,
+    -89.451242,
+    43.068426
+],
+  "geometry": {"coordinates":[-89.45124199999999,43.068426],"type":"Point"}
+}

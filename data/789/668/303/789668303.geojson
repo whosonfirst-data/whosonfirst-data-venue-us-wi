@@ -1,0 +1,71 @@
+{
+  "id": 789668303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.597667,42.535282,-88.597667,42.535282",
+    "geom:latitude":42.535282,
+    "geom:longitude":-88.597667,
+    "iso:country":"US",
+    "sg:address":"107 Franklin St",
+    "sg:city":"Walworth",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 275 8783",
+    "sg:postcode":"53184",
+    "sg:province":"WI",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733549,
+        102081883,
+        85814169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40w4v0Cz1VtHIu86D6xZdk_42.535282_-88.597667@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589616,
+    "wof:geomhash":"e0353bab04943786e682d2b72172d5d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733549,
+            "neighbourhood_id":85814169,
+            "region_id":85688517,
+            "venue_id":789668303
+        }
+    ],
+    "wof:id":789668303,
+    "wof:lastmodified":1462589616,
+    "wof:name":"Technical Woodworks Mfg",
+    "wof:parent_id":85814169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -88.597667,
+    42.535282,
+    -88.597667,
+    42.535282
+],
+  "geometry": {"coordinates":[-88.597667,42.535282],"type":"Point"}
+}

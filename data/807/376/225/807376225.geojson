@@ -1,0 +1,72 @@
+{
+  "id": 807376225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.5954,44.843003,-91.5954,44.843003",
+    "geom:latitude":44.843003,
+    "geom:longitude":-91.5954,
+    "iso:country":"US",
+    "sg:address":"6251 Truax Ln",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/293053-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 874 6771",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85848105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xRh76Q87SqrUOCk26e2vL_44.843099_-91.596120@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606874,
+    "wof:geomhash":"8bc8635b87112af5e3058429adc841c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85848105,
+            "region_id":85688517,
+            "venue_id":807376225
+        }
+    ],
+    "wof:id":807376225,
+    "wof:lastmodified":1462606874,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85848105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger"
+    ]
+},
+  "bbox": [
+    -91.5954,
+    44.843003,
+    -91.5954,
+    44.843003
+],
+  "geometry": {"coordinates":[-91.5954,44.843003],"type":"Point"}
+}

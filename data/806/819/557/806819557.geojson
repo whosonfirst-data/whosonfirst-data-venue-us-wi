@@ -1,0 +1,71 @@
+{
+  "id": 806819557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.481784,43.09714,-88.481784,43.09714",
+    "geom:latitude":43.09714,
+    "geom:longitude":-88.481784,
+    "iso:country":"US",
+    "sg:address":"915 Summit Ave",
+    "sg:city":"Oconomowoc",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 569 2201",
+    "sg:postcode":"53066",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85851111,
+        102081741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dMZQuaCVdHRhdYTJFC03F_43.097140_-88.481784@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601336,
+    "wof:geomhash":"aab673eed00b2bba373942e218c896d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081741,
+            "neighbourhood_id":85851111,
+            "region_id":85688517,
+            "venue_id":806819557
+        }
+    ],
+    "wof:id":806819557,
+    "wof:lastmodified":1462601336,
+    "wof:name":"Cardiovascular Associates",
+    "wof:parent_id":85851111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.481784,
+    43.09714,
+    -88.481784,
+    43.09714
+],
+  "geometry": {"coordinates":[-88.481784,43.09714],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 823139761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.917486,43.041551,-87.917486,43.041551",
+    "geom:latitude":43.041551,
+    "geom:longitude":-87.917486,
+    "iso:country":"US",
+    "sg:address":"510 W Kilbourn Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 224 9283",
+    "sg:postcode":"53203",
+    "sg:province":"WI",
+    "sg:tags":[
+        "ticket",
+        "soccer",
+        "sale",
+        "camps-recreational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85882371,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SN9fR1aDfeZ5cHEkyDOsn_43.041551_-87.917486@1303262807"
+    },
+    "wof:country":"US",
+    "wof:created":1462607501,
+    "wof:geomhash":"e58ec64400d8965f9367d6fed1a92f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85882371,
+            "region_id":85688517,
+            "venue_id":823139761
+        }
+    ],
+    "wof:id":823139761,
+    "wof:lastmodified":1462607501,
+    "wof:name":"Milwaukee Wave Professional Soccer",
+    "wof:parent_id":85882371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket",
+        "soccer",
+        "sale",
+        "camps-recreational"
+    ]
+},
+  "bbox": [
+    -87.917486,
+    43.041551,
+    -87.917486,
+    43.041551
+],
+  "geometry": {"coordinates":[-87.917486,43.041551],"type":"Point"}
+}

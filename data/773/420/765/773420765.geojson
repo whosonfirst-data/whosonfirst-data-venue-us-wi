@@ -1,0 +1,71 @@
+{
+  "id": 773420765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.291451,43.14009,-89.291451,43.14009",
+    "geom:latitude":43.14009,
+    "geom:longitude":-89.291451,
+    "iso:country":"US",
+    "sg:address":"3501 Lancaster Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 241 8901",
+    "sg:postcode":"53718",
+    "sg:province":"WI",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NzEoFZFwVYzn1yJxnQFGS_43.140090_-89.291451@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585580,
+    "wof:geomhash":"a14dd5ea1d8b7ec1d1b0ac4916e54762",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":773420765
+        }
+    ],
+    "wof:id":773420765,
+    "wof:lastmodified":1462585580,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -89.291451,
+    43.14009,
+    -89.291451,
+    43.14009
+],
+  "geometry": {"coordinates":[-89.291451,43.14009],"type":"Point"}
+}

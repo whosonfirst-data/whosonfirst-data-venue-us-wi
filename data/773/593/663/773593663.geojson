@@ -1,0 +1,72 @@
+{
+  "id": 773593663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.408487,44.24576,-88.408487,44.24576",
+    "geom:latitude":44.24576,
+    "geom:longitude":-88.408487,
+    "iso:country":"US",
+    "sg:address":"305 W Foster St",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 832 6288",
+    "sg:postcode":"54915",
+    "sg:province":"WI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.aasd.k12.wi.us/foster",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78BIEaPswjrsiswPnE1EdS_44.245760_-88.408487@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586899,
+    "wof:geomhash":"2de50b2497378c98dd714ceafffd6fa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":773593663
+        }
+    ],
+    "wof:id":773593663,
+    "wof:lastmodified":1462586899,
+    "wof:name":"Foster Elementary School",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -88.408487,
+    44.24576,
+    -88.408487,
+    44.24576
+],
+  "geometry": {"coordinates":[-88.40848699999999,44.24576],"type":"Point"}
+}

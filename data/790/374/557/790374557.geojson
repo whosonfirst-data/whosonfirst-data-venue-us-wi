@@ -1,0 +1,71 @@
+{
+  "id": 790374557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.676854,44.087195,-87.676854,44.087195",
+    "geom:latitude":44.087195,
+    "geom:longitude":-87.676854,
+    "iso:country":"US",
+    "sg:address":"2215 Marshall St",
+    "sg:city":"Manitowoc",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 652 1119",
+    "sg:postcode":"54220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16r1OXhRJnNrKc4GTQAkOC_44.087195_-87.676854@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462595344,
+    "wof:geomhash":"dfd4f79bc28ebf3d3320349ec503a468",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":790374557
+        }
+    ],
+    "wof:id":790374557,
+    "wof:lastmodified":1462595344,
+    "wof:name":"Marshall Street Auto Repair",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -87.676854,
+    44.087195,
+    -87.676854,
+    44.087195
+],
+  "geometry": {"coordinates":[-87.67685400000001,44.087195],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789820673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.006785,43.15184,-88.006785,43.15184",
+    "geom:latitude":43.15184,
+    "geom:longitude":-88.006785,
+    "iso:country":"US",
+    "sg:address":"7900 W Clinton Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 353 6046",
+    "sg:postcode":"53223",
+    "sg:province":"WI",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870805,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cfhDj3R4p1YgYmwhERkSl_43.151840_-88.006785@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590794,
+    "wof:geomhash":"5455a16d32df897e117d7425b0fd33c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870805,
+            "region_id":85688517,
+            "venue_id":789820673
+        }
+    ],
+    "wof:id":789820673,
+    "wof:lastmodified":1462590794,
+    "wof:name":"Milwaukee Journal Sentinel",
+    "wof:parent_id":85870805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -88.006785,
+    43.15184,
+    -88.006785,
+    43.15184
+],
+  "geometry": {"coordinates":[-88.00678499999999,43.15184],"type":"Point"}
+}

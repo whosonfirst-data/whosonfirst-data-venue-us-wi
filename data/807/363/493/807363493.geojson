@@ -1,0 +1,81 @@
+{
+  "id": 807363493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.385937,43.073419,-89.385937,43.073419",
+    "geom:latitude":43.073419,
+    "geom:longitude":-89.385937,
+    "iso:country":"US",
+    "sg:address":"127 W Washington Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/282543-barriques-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 259 9394",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878831,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0COBvp2ui30p0r6GjDxK77_43.073419_-89.385937@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606702,
+    "wof:geomhash":"693735d70d15b98e54899f38a87d59ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878831,
+            "region_id":85688517,
+            "venue_id":807363493
+        }
+    ],
+    "wof:id":807363493,
+    "wof:lastmodified":1462606702,
+    "wof:name":"Barriques Coffee",
+    "wof:parent_id":85878831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -89.385937,
+    43.073419,
+    -89.385937,
+    43.073419
+],
+  "geometry": {"coordinates":[-89.385937,43.073419],"type":"Point"}
+}

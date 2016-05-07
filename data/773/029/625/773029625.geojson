@@ -1,0 +1,80 @@
+{
+  "id": 773029625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.625389,44.961348,-89.625389,44.961348",
+    "geom:latitude":44.961348,
+    "geom:longitude":-89.625389,
+    "iso:country":"US",
+    "sg:address":"526 McClellan St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 845 5000",
+    "sg:postcode":"54403",
+    "sg:province":"WI",
+    "sg:tags":[
+        "residential",
+        "housing",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69WH8Dx5gbRmXLBQnMNMPD_44.961348_-89.625389@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462582563,
+    "wof:geomhash":"eed0c455c21f698762e205fea76b3957",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":773029625
+        }
+    ],
+    "wof:id":773029625,
+    "wof:lastmodified":1462582563,
+    "wof:name":"Crossroads Mental Health Svcs",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "housing",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -89.625389,
+    44.961348,
+    -89.625389,
+    44.961348
+],
+  "geometry": {"coordinates":[-89.625389,44.961348],"type":"Point"}
+}

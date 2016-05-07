@@ -1,0 +1,73 @@
+{
+  "id": 790401761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.415738,42.594715,-88.415738,42.594715",
+    "geom:latitude":42.594715,
+    "geom:longitude":-88.415738,
+    "iso:country":"US",
+    "sg:address":"350 Peller Rd",
+    "sg:city":"Lake Geneva",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 249 0221",
+    "sg:postcode":"53147",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733551,
+        102081883,
+        85812017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lwXJDGKjlz5PchTc005cZ_42.594715_-88.415738@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462595546,
+    "wof:geomhash":"adeed38dbbbd69e7d6f6c95c6dc6ec10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733551,
+            "neighbourhood_id":85812017,
+            "region_id":85688517,
+            "venue_id":790401761
+        }
+    ],
+    "wof:id":790401761,
+    "wof:lastmodified":1462595546,
+    "wof:name":"Mercy Lake Geneva Medical Ctr",
+    "wof:parent_id":85812017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.415738,
+    42.594715,
+    -88.415738,
+    42.594715
+],
+  "geometry": {"coordinates":[-88.415738,42.594715],"type":"Point"}
+}

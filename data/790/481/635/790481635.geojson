@@ -1,0 +1,93 @@
+{
+  "id": 790481635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.008331,42.962303,-88.008331,42.962303",
+    "geom:latitude":42.962303,
+    "geom:longitude":-88.008331,
+    "iso:country":"US",
+    "sg:address":"4505 S 76th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 545 9790",
+    "sg:postcode":"53220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "pet",
+        "food",
+        "supply"
+    ],
+    "sg:website":"www.petsuppliesplus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870865,
+        102191575,
+        404492089,
+        85633793,
+        101733071,
+        102081837,
+        85688517,
+        420558473,
+        404494171,
+        101733073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pQXqqbioQQsRHxmQcsqux_42.962303_-88.008331@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462596207,
+    "wof:geomhash":"a757a64006119515ded5a9d14a54c968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492089,
+            "locality_id":101733071,
+            "neighbourhood_id":85870865,
+            "region_id":85688517,
+            "venue_id":790481635
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494171,
+            "locality_id":101733073,
+            "neighbourhood_id":420558473,
+            "region_id":85688517,
+            "venue_id":790481635
+        }
+    ],
+    "wof:id":790481635,
+    "wof:lastmodified":1462596207,
+    "wof:name":"Pet Supplies Plus",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "supply"
+    ]
+},
+  "bbox": [
+    -88.008331,
+    42.962303,
+    -88.008331,
+    42.962303
+],
+  "geometry": {"coordinates":[-88.008331,42.962303],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 807365823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.086508,44.45151,-88.086508,44.45151",
+    "geom:latitude":44.45151,
+    "geom:longitude":-88.086508,
+    "iso:country":"US",
+    "sg:address":"1025 Main Ave",
+    "sg:city":"De Pere",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/de-pere/77425-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 336 7272",
+    "sg:postcode":"54115",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855345,
+        102191575,
+        404492849,
+        85633793,
+        101732363,
+        102081867,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lr1akabDUQX5LDvlYyUzq_44.451510_-88.086508@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606736,
+    "wof:geomhash":"32eccf8d18d37bb23cc59267b9bd5efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081867,
+            "localadmin_id":404492849,
+            "locality_id":101732363,
+            "neighbourhood_id":85855345,
+            "region_id":85688517,
+            "venue_id":807365823
+        }
+    ],
+    "wof:id":807365823,
+    "wof:lastmodified":1462606736,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85855345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.086508,
+    44.45151,
+    -88.086508,
+    44.45151
+],
+  "geometry": {"coordinates":[-88.08650799999999,44.45151],"type":"Point"}
+}

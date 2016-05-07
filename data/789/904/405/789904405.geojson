@@ -1,0 +1,71 @@
+{
+  "id": 789904405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.179628,43.880441,-91.179628,43.880441",
+    "geom:latitude":43.880441,
+    "geom:longitude":-91.179628,
+    "iso:country":"US",
+    "sg:address":"3133 Market Pl",
+    "sg:city":"Onalaska",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 000 1111",
+    "sg:postcode":"54650",
+    "sg:province":"WI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732663,
+        102081301,
+        85825891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o8HIEUIAo096arP7qONaX_43.880441_-91.179628@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591478,
+    "wof:geomhash":"c99a51690995a713ebb441874c791f07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732663,
+            "neighbourhood_id":85825891,
+            "region_id":85688517,
+            "venue_id":789904405
+        }
+    ],
+    "wof:id":789904405,
+    "wof:lastmodified":1462591478,
+    "wof:name":"Aldi",
+    "wof:parent_id":85825891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.179628,
+    43.880441,
+    -91.179628,
+    43.880441
+],
+  "geometry": {"coordinates":[-91.17962799999999,43.880441],"type":"Point"}
+}

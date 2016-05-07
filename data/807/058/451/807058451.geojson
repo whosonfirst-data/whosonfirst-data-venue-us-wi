@@ -1,0 +1,71 @@
+{
+  "id": 807058451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.455951,44.258325,-88.455951,44.258325",
+    "geom:latitude":44.258325,
+    "geom:longitude":-88.455951,
+    "iso:country":"US",
+    "sg:address":"501 S Bluemound Dr",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 832 6264",
+    "sg:postcode":"54914",
+    "sg:province":"WI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gvZLOY0QL5EQSDsL0ddtz_44.258325_-88.455951@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603359,
+    "wof:geomhash":"4f2678eaa40b0078594c86b0a3207345",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":807058451
+        }
+    ],
+    "wof:id":807058451,
+    "wof:lastmodified":1462603359,
+    "wof:name":"Badger Elementary School",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -88.455951,
+    44.258325,
+    -88.455951,
+    44.258325
+],
+  "geometry": {"coordinates":[-88.455951,44.258325],"type":"Point"}
+}

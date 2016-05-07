@@ -1,0 +1,71 @@
+{
+  "id": 807130033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.508694,44.786766,-91.508694,44.786766",
+    "geom:latitude":44.786766,
+    "geom:longitude":-91.508694,
+    "iso:country":"US",
+    "sg:address":"3203 Stein Blvd",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 834 7882",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H1o66hNwansqpg6hoXm9Q_44.786766_-91.508694@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604048,
+    "wof:geomhash":"4a6373f4df7394ff35315c547cb250a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807130033
+        }
+    ],
+    "wof:id":807130033,
+    "wof:lastmodified":1462604048,
+    "wof:name":"Hearing Care",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -91.508694,
+    44.786766,
+    -91.508694,
+    44.786766
+],
+  "geometry": {"coordinates":[-91.50869400000001,44.786766],"type":"Point"}
+}

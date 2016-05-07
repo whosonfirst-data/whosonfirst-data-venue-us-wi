@@ -1,0 +1,88 @@
+{
+  "id": 807382427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.139282,43.22744,-88.139282,43.22744",
+    "geom:latitude":43.22744,
+    "geom:longitude":-88.139282,
+    "iso:country":"US",
+    "sg:address":"N115w18752 Edison Dr",
+    "sg:city":"Germantown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 502 4701",
+    "sg:postcode":"53022",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department",
+        "township",
+        "protection",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85814463,
+        102191575,
+        404494363,
+        85633793,
+        101732917,
+        102081745,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21KD1bzCUYA9RXxL3pBpX4_43.227440_-88.139282@1303262805"
+    },
+    "wof:country":"US",
+    "wof:created":1462606953,
+    "wof:geomhash":"8c024984244a1984cf188b78d951447e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081745,
+            "localadmin_id":404494363,
+            "locality_id":101732917,
+            "neighbourhood_id":85814463,
+            "region_id":85688517,
+            "venue_id":807382427
+        }
+    ],
+    "wof:id":807382427,
+    "wof:lastmodified":1462606953,
+    "wof:name":"Fire Departments",
+    "wof:parent_id":85814463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "protection",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -88.139282,
+    43.22744,
+    -88.139282,
+    43.22744
+],
+  "geometry": {"coordinates":[-88.13928199999999,43.22744],"type":"Point"}
+}

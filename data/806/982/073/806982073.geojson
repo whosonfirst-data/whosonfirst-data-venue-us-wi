@@ -1,0 +1,83 @@
+{
+  "id": 806982073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.003635,43.072947,-88.003635,43.072947",
+    "geom:latitude":43.072947,
+    "geom:longitude":-88.003635,
+    "iso:country":"US",
+    "sg:address":"2931 N 73rd St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 443 1011",
+    "sg:postcode":"53210",
+    "sg:province":"WI",
+    "sg:tags":[
+        "membership",
+        "volleyball"
+    ],
+    "sg:website":"www.badgervolleyball.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870905,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JQLQxiQQLnHboJqVkaEQ1_43.072947_-88.003635@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602710,
+    "wof:geomhash":"567072c719c794515179e6a342267440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870905,
+            "region_id":85688517,
+            "venue_id":806982073
+        }
+    ],
+    "wof:id":806982073,
+    "wof:lastmodified":1462602710,
+    "wof:name":"Badger Region Volleyball Assn",
+    "wof:parent_id":85870905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership",
+        "volleyball"
+    ]
+},
+  "bbox": [
+    -88.003635,
+    43.072947,
+    -88.003635,
+    43.072947
+],
+  "geometry": {"coordinates":[-88.003635,43.072947],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 807076059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.57897,44.986164,-89.57897,44.986164",
+    "geom:latitude":44.986164,
+    "geom:longitude":-89.57897,
+    "iso:country":"US",
+    "sg:address":"3310 Michael St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 845 4441",
+    "sg:postcode":"54403",
+    "sg:province":"WI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85868293,
+        102081881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SMbOJ3MUqmkq2BY86abuV_44.986164_-89.578970@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603503,
+    "wof:geomhash":"61d01534c2bade1cc2bf321e3925a198",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "neighbourhood_id":85868293,
+            "region_id":85688517,
+            "venue_id":807076059
+        }
+    ],
+    "wof:id":807076059,
+    "wof:lastmodified":1462603503,
+    "wof:name":"Cleaning Floors & More",
+    "wof:parent_id":85868293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -89.57897,
+    44.986164,
+    -89.57897,
+    44.986164
+],
+  "geometry": {"coordinates":[-89.57897,44.986164],"type":"Point"}
+}

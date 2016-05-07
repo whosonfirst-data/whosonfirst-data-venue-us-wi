@@ -1,0 +1,71 @@
+{
+  "id": 789638837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.455331,44.189274,-88.455331,44.189274",
+    "geom:latitude":44.189274,
+    "geom:longitude":-88.455331,
+    "iso:country":"US",
+    "sg:address":"169 N Water St",
+    "sg:city":"Neenah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 969 1493",
+    "sg:postcode":"54956",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85851515,
+        102081801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e8LDAxLQpLlfx5BK95Jvf_44.189274_-88.455331@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589366,
+    "wof:geomhash":"d7ce71316eb86e88b1926e580f5f6bf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "neighbourhood_id":85851515,
+            "region_id":85688517,
+            "venue_id":789638837
+        }
+    ],
+    "wof:id":789638837,
+    "wof:lastmodified":1462589366,
+    "wof:name":"Theda Clark Remote Office",
+    "wof:parent_id":85851515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.455331,
+    44.189274,
+    -88.455331,
+    44.189274
+],
+  "geometry": {"coordinates":[-88.455331,44.189274],"type":"Point"}
+}

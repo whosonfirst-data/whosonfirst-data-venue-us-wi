@@ -1,0 +1,88 @@
+{
+  "id": 807386399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.18946,43.287262,-88.18946,43.287262",
+    "geom:latitude":43.287262,
+    "geom:longitude":-88.18946,
+    "iso:country":"US",
+    "sg:address":"3040 Helsan Dr",
+    "sg:city":"Richfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 677 2200",
+    "sg:postcode":"53076",
+    "sg:province":"WI",
+    "sg:tags":[
+        "steel",
+        "fabricator",
+        "work",
+        "store",
+        "iron"
+    ],
+    "sg:website":"http://www.victorysteel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85846371,
+        102081745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WYjQMUhdmTIjozA6sBm34_43.287262_-88.189460@1303262805"
+    },
+    "wof:country":"US",
+    "wof:created":1462607016,
+    "wof:geomhash":"987fe80ba9a8d13614c4f5bc24128b59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081745,
+            "neighbourhood_id":85846371,
+            "region_id":85688517,
+            "venue_id":807386399
+        }
+    ],
+    "wof:id":807386399,
+    "wof:lastmodified":1462607016,
+    "wof:name":"Victory Steel",
+    "wof:parent_id":85846371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "fabricator",
+        "work",
+        "store",
+        "iron"
+    ]
+},
+  "bbox": [
+    -88.18946,
+    43.287262,
+    -88.18946,
+    43.287262
+],
+  "geometry": {"coordinates":[-88.18946,43.287262],"type":"Point"}
+}

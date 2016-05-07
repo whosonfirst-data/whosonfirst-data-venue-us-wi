@@ -1,0 +1,88 @@
+{
+  "id": 823157079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.938469,42.99131,-87.938469,42.99131",
+    "geom:latitude":42.99131,
+    "geom:longitude":-87.938469,
+    "iso:country":"US",
+    "sg:address":"2906 S 20th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 685 6570",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "blood",
+        "typing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870927,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517,
+        85870955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F8J19p563lNITCG3ZFqX3_42.991310_-87.938469@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607765,
+    "wof:geomhash":"7408840f518854fa82091ab5a48cf232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870927,
+            "region_id":85688517,
+            "venue_id":823157079
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870955,
+            "region_id":85688517,
+            "venue_id":823157079
+        }
+    ],
+    "wof:id":823157079,
+    "wof:lastmodified":1462607765,
+    "wof:name":"Confidential STD Testing - Milwaukee",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blood",
+        "typing"
+    ]
+},
+  "bbox": [
+    -87.938469,
+    42.99131,
+    -87.938469,
+    42.99131
+],
+  "geometry": {"coordinates":[-87.938469,42.99131],"type":"Point"}
+}

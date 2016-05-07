@@ -1,0 +1,73 @@
+{
+  "id": 789752661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.403959,43.131149,-89.403959,43.131149",
+    "geom:latitude":43.131149,
+    "geom:longitude":-89.403959,
+    "iso:country":"US",
+    "sg:address":"3602 Memorial Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 249 2600",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rjzflUd11SmscyaPZJLxt_43.131149_-89.403959@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590272,
+    "wof:geomhash":"0619ee020582eccd9c233dfdf6be1468",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878869,
+            "region_id":85688517,
+            "venue_id":789752661
+        }
+    ],
+    "wof:id":789752661,
+    "wof:lastmodified":1462590272,
+    "wof:name":"North Bay Lodge",
+    "wof:parent_id":85878869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -89.403959,
+    43.131149,
+    -89.403959,
+    43.131149
+],
+  "geometry": {"coordinates":[-89.403959,43.131149],"type":"Point"}
+}

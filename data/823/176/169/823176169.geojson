@@ -1,0 +1,87 @@
+{
+  "id": 823176169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.05668,43.005036,-88.05668,43.005036",
+    "geom:latitude":43.005036,
+    "geom:longitude":-88.05668,
+    "iso:country":"US",
+    "sg:address":"2225 S 116th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 546 3433",
+    "sg:postcode":"53227",
+    "sg:province":"WI",
+    "sg:tags":[
+        "equipment",
+        "equipment-repair",
+        "industrial",
+        "welding"
+    ],
+    "sg:website":"http://www.machinerywelder.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870861,
+        102191575,
+        404494275,
+        85633793,
+        101733091,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c23s0PwbilJ0flgDd743N_43.005036_-88.056680@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608016,
+    "wof:geomhash":"9903718a212b7af55b0f63028cc72e40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494275,
+            "locality_id":101733091,
+            "neighbourhood_id":85870861,
+            "region_id":85688517,
+            "venue_id":823176169
+        }
+    ],
+    "wof:id":823176169,
+    "wof:lastmodified":1462608016,
+    "wof:name":"Machinery & Welder Corporation",
+    "wof:parent_id":85870861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "equipment-repair",
+        "industrial",
+        "welding"
+    ]
+},
+  "bbox": [
+    -88.05668,
+    43.005036,
+    -88.05668,
+    43.005036
+],
+  "geometry": {"coordinates":[-88.05668,43.005036],"type":"Point"}
+}

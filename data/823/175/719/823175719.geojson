@@ -1,0 +1,82 @@
+{
+  "id": 823175719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.047525,42.988012,-88.047525,42.988012",
+    "geom:latitude":42.988012,
+    "geom:longitude":-88.047525,
+    "iso:country":"US",
+    "sg:address":"10827 W Oklahoma Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 395 1927",
+    "sg:postcode":"53227",
+    "sg:province":"WI",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ],
+    "sg:website":"http://milwaukee.citysearch.com/profile/external/603831952/west_allis_wi/vca.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870861,
+        102191575,
+        404494275,
+        85633793,
+        101733091,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_032j8mNi4NslmCUHvIvY5R_42.988012_-88.047525@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608011,
+    "wof:geomhash":"ac0169f2d8a546fd744ef49c47507d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494275,
+            "locality_id":101733091,
+            "neighbourhood_id":85870861,
+            "region_id":85688517,
+            "venue_id":823175719
+        }
+    ],
+    "wof:id":823175719,
+    "wof:lastmodified":1462608011,
+    "wof:name":"VCA",
+    "wof:parent_id":85870861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -88.047525,
+    42.988012,
+    -88.047525,
+    42.988012
+],
+  "geometry": {"coordinates":[-88.04752499999999,42.988012],"type":"Point"}
+}

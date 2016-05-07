@@ -1,0 +1,76 @@
+{
+  "id": 807364481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.411093,43.029573,-89.411093,43.029573",
+    "geom:latitude":43.029573,
+    "geom:longitude":-89.411093,
+    "iso:country":"US",
+    "sg:address":"2858 Fish Hatchery Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/fitchburg/195829-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 274 1319",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tnCT5Akh3gQIwBRLIKtbK_43.029573_-89.411093@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606713,
+    "wof:geomhash":"b040ed67bcce6d16483975227c994ece",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":807364481
+        }
+    ],
+    "wof:id":807364481,
+    "wof:lastmodified":1462606713,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -89.411093,
+    43.029573,
+    -89.411093,
+    43.029573
+],
+  "geometry": {"coordinates":[-89.41109299999999,43.029573],"type":"Point"}
+}

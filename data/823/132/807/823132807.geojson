@@ -1,0 +1,89 @@
+{
+  "id": 823132807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.186741,43.028063,-88.186741,43.028063",
+    "geom:latitude":43.028063,
+    "geom:longitude":-88.186741,
+    "iso:country":"US",
+    "sg:address":"2120 E Moreland Blvd",
+    "sg:city":"Waukesha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 548 0200",
+    "sg:postcode":"53186",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dvd",
+        "video",
+        "tape",
+        "sale",
+        "dvds-rental"
+    ],
+    "sg:website":"http://www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85815589,
+        102191575,
+        404495673,
+        85633793,
+        101733495,
+        102081741,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15mHjSEKw6s68RjR2Oz4wG_43.028063_-88.186741@1303262807"
+    },
+    "wof:country":"US",
+    "wof:created":1462607380,
+    "wof:geomhash":"7bb175f77b104aabfbc6af987831d7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081741,
+            "localadmin_id":404495673,
+            "locality_id":101733495,
+            "neighbourhood_id":85815589,
+            "region_id":85688517,
+            "venue_id":823132807
+        }
+    ],
+    "wof:id":823132807,
+    "wof:lastmodified":1462607380,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85815589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dvd",
+        "video",
+        "tape",
+        "sale",
+        "dvds-rental"
+    ]
+},
+  "bbox": [
+    -88.186741,
+    43.028063,
+    -88.186741,
+    43.028063
+],
+  "geometry": {"coordinates":[-88.186741,43.028063],"type":"Point"}
+}

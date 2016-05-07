@@ -1,0 +1,78 @@
+{
+  "id": 807359565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.948624,42.986796,-87.948624,42.986796",
+    "geom:latitude":42.986796,
+    "geom:longitude":-87.948624,
+    "iso:country":"US",
+    "sg:address":"3179 S 27th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/milwaukee/145630-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 383 4443",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870955,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PACEgmNvWCH011rmJxrgh_42.986796_-87.948624@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606643,
+    "wof:geomhash":"06b0a34093d2127865fa7c97fc470c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870955,
+            "region_id":85688517,
+            "venue_id":807359565
+        }
+    ],
+    "wof:id":807359565,
+    "wof:lastmodified":1462606643,
+    "wof:name":"Subway",
+    "wof:parent_id":85870955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -87.948624,
+    42.986796,
+    -87.948624,
+    42.986796
+],
+  "geometry": {"coordinates":[-87.948624,42.986796],"type":"Point"}
+}

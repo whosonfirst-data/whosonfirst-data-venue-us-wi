@@ -1,0 +1,71 @@
+{
+  "id": 773410587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.398635,43.029985,-89.398635,43.029985",
+    "geom:latitude":43.029985,
+    "geom:longitude":-89.398635,
+    "iso:country":"US",
+    "sg:address":"941 Stewart St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 278 8989",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23787n5iN0TRQDhr5hlKlG_43.029985_-89.398635@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585492,
+    "wof:geomhash":"f84a3e0f2698331eb1c2b33072477323",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":773410587
+        }
+    ],
+    "wof:id":773410587,
+    "wof:lastmodified":1462585492,
+    "wof:name":"Auto Tech",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -89.398635,
+    43.029985,
+    -89.398635,
+    43.029985
+],
+  "geometry": {"coordinates":[-89.398635,43.029985],"type":"Point"}
+}

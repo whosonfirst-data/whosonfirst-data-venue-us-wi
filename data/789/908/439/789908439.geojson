@@ -1,0 +1,75 @@
+{
+  "id": 789908439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.452752,43.068486,-89.452752,43.068486",
+    "geom:latitude":43.068486,
+    "geom:longitude":-89.452752,
+    "iso:country":"US",
+    "sg:address":"4414 Regent St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 231 2424",
+    "sg:postcode":"53705",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868277,
+        102191575,
+        404491679,
+        85633793,
+        101732725,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MkS8SX1upfHw47EmzJxrA_43.068486_-89.452752@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591521,
+    "wof:geomhash":"0dec0da1cf8772226cf743d8796d14bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491679,
+            "locality_id":101732725,
+            "neighbourhood_id":85868277,
+            "region_id":85688517,
+            "venue_id":789908439
+        }
+    ],
+    "wof:id":789908439,
+    "wof:lastmodified":1462591521,
+    "wof:name":"Hilldale Dental Assoc",
+    "wof:parent_id":85868277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -89.452752,
+    43.068486,
+    -89.452752,
+    43.068486
+],
+  "geometry": {"coordinates":[-89.452752,43.068486],"type":"Point"}
+}

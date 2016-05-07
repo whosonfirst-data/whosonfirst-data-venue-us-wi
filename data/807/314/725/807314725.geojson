@@ -1,0 +1,95 @@
+{
+  "id": 807314725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.008492,42.954832,-88.008492,42.954832",
+    "geom:latitude":42.954832,
+    "geom:longitude":-88.008492,
+    "iso:country":"US",
+    "sg:address":"4935 S 76th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 281 8222",
+    "sg:postcode":"53220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "tape",
+        "video",
+        "sale",
+        "dvds-rental"
+    ],
+    "sg:website":"http://store-locator.barnesandnoble.com/store/2594",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870865,
+        102191575,
+        404492089,
+        85633793,
+        101733071,
+        102081837,
+        85688517,
+        420558473,
+        404494171,
+        101733073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0y8DL8pu6cnA4fJcADrJJP_42.954813_-88.008454@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462606006,
+    "wof:geomhash":"6178d6f769c5fe84ed2500e87f655264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492089,
+            "locality_id":101733071,
+            "neighbourhood_id":85870865,
+            "region_id":85688517,
+            "venue_id":807314725
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494171,
+            "locality_id":101733073,
+            "neighbourhood_id":420558473,
+            "region_id":85688517,
+            "venue_id":807314725
+        }
+    ],
+    "wof:id":807314725,
+    "wof:lastmodified":1462606006,
+    "wof:name":"Barnes & Noble Booksellers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tape",
+        "video",
+        "sale",
+        "dvds-rental"
+    ]
+},
+  "bbox": [
+    -88.008492,
+    42.954832,
+    -88.008492,
+    42.954832
+],
+  "geometry": {"coordinates":[-88.008492,42.954832],"type":"Point"}
+}

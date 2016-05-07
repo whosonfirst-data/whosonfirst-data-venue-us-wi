@@ -1,0 +1,70 @@
+{
+  "id": 789727573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.211113,43.182995,-89.211113,43.182995",
+    "geom:latitude":43.182995,
+    "geom:longitude":-89.211113,
+    "iso:country":"US",
+    "sg:address":"300 E Main St",
+    "sg:city":"Sun Prairie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 837 7336",
+    "sg:postcode":"53590",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.cityofsunprairie.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55pK8K2q5e1QZHPDBBJzNR_43.182995_-89.211113@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590087,
+    "wof:geomhash":"ddc37bf074ebe55bef7a94257f88cf5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":789727573
+        }
+    ],
+    "wof:id":789727573,
+    "wof:lastmodified":1462590087,
+    "wof:name":"Sun Prairie Police Dept",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.211113,
+    43.182995,
+    -89.211113,
+    43.182995
+],
+  "geometry": {"coordinates":[-89.211113,43.182995],"type":"Point"}
+}

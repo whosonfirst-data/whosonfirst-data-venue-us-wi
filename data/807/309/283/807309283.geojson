@@ -1,0 +1,88 @@
+{
+  "id": 807309283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.004904,42.966295,-88.004904,42.966295",
+    "geom:latitude":42.966295,
+    "geom:longitude":-88.004904,
+    "iso:country":"US",
+    "sg:address":"7330 W Forest Home Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 546 0606",
+    "sg:postcode":"53220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870865,
+        102191575,
+        404492089,
+        85633793,
+        101733071,
+        102081837,
+        85688517,
+        420558473,
+        404494171,
+        101733073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AcCHuyumgEpQlRuETzfn3_42.965947_-88.005127@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462605951,
+    "wof:geomhash":"23c0832acf5d35af7806aa11f38ffc9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492089,
+            "locality_id":101733071,
+            "neighbourhood_id":85870865,
+            "region_id":85688517,
+            "venue_id":807309283
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494171,
+            "locality_id":101733073,
+            "neighbourhood_id":420558473,
+            "region_id":85688517,
+            "venue_id":807309283
+        }
+    ],
+    "wof:id":807309283,
+    "wof:lastmodified":1462605951,
+    "wof:name":"Alta View Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -88.004904,
+    42.966295,
+    -88.004904,
+    42.966295
+],
+  "geometry": {"coordinates":[-88.004904,42.966295],"type":"Point"}
+}

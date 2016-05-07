@@ -1,0 +1,89 @@
+{
+  "id": 823187055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.324585,43.047117,-89.324585,43.047117",
+    "geom:latitude":43.047117,
+    "geom:longitude":-89.324585,
+    "iso:country":"US",
+    "sg:address":"6512 Monona Dr",
+    "sg:city":"Monona",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 221 9282",
+    "sg:postcode":"53716",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop",
+        "restaurant",
+        "brewing",
+        "espresso",
+        "hotspot",
+        "device",
+        "wi-fi"
+    ],
+    "sg:website":"http://www.starbuckscoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ttiL8QDyw0KUiqbV7xkwG_43.047117_-89.324585@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608156,
+    "wof:geomhash":"f4dfc02f8ae61dda29c51202c0c7fe24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":823187055
+        }
+    ],
+    "wof:id":823187055,
+    "wof:lastmodified":1462608156,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "restaurant",
+        "brewing",
+        "espresso",
+        "hotspot",
+        "device",
+        "wi-fi"
+    ]
+},
+  "bbox": [
+    -89.324585,
+    43.047117,
+    -89.324585,
+    43.047117
+],
+  "geometry": {"coordinates":[-89.324585,43.047117],"type":"Point"}
+}

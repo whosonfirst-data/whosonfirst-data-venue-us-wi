@@ -1,0 +1,71 @@
+{
+  "id": 806844823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.209725,43.182863,-89.209725,43.182863",
+    "geom:latitude":43.182863,
+    "geom:longitude":-89.209725,
+    "iso:country":"US",
+    "sg:address":"402 E Main St",
+    "sg:city":"Sun Prairie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 834 3330",
+    "sg:postcode":"53590",
+    "sg:province":"WI",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qbZx8t0t9AYJdSpVZRtQD_43.182863_-89.209725@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601562,
+    "wof:geomhash":"907656d46068e4503608794f168e579a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":806844823
+        }
+    ],
+    "wof:id":806844823,
+    "wof:lastmodified":1462601562,
+    "wof:name":"Crawley Automotive",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -89.209725,
+    43.182863,
+    -89.209725,
+    43.182863
+],
+  "geometry": {"coordinates":[-89.20972500000001,43.182863],"type":"Point"}
+}

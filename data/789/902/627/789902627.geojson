@@ -1,0 +1,71 @@
+{
+  "id": 789902627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.029218,43.912405,-88.029218,43.912405",
+    "geom:latitude":43.912405,
+    "geom:longitude":-88.029218,
+    "iso:country":"US",
+    "sg:address":"99 Fremont St",
+    "sg:city":"Kiel",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 894 2211",
+    "sg:postcode":"53042",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ePy6yhMEFJ03sQBWzZmVD_43.912405_-88.029218@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591466,
+    "wof:geomhash":"ac45dcc8325b7c9c3c044d216940d65e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":789902627
+        }
+    ],
+    "wof:id":789902627,
+    "wof:lastmodified":1462591466,
+    "wof:name":"Kiel Fire Dept",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.029218,
+    43.912405,
+    -88.029218,
+    43.912405
+],
+  "geometry": {"coordinates":[-88.029218,43.912405],"type":"Point"}
+}

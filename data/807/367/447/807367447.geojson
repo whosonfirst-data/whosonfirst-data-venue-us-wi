@@ -1,0 +1,74 @@
+{
+  "id": 807367447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.666915,44.933279,-89.666915,44.933279",
+    "geom:latitude":44.933279,
+    "geom:longitude":-89.666915,
+    "iso:country":"US",
+    "sg:address":"2501 N Mountain Rd",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/rib-mountain/145810-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 842 7022",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21zHCnvDN2uptwCqZAbf5Y_44.933279_-89.666915@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606758,
+    "wof:geomhash":"5f9b093d554220c5388d02e299565988",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":807367447
+        }
+    ],
+    "wof:id":807367447,
+    "wof:lastmodified":1462606758,
+    "wof:name":"Subway",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.666915,
+    44.933279,
+    -89.666915,
+    44.933279
+],
+  "geometry": {"coordinates":[-89.666915,44.933279],"type":"Point"}
+}

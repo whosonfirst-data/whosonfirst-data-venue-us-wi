@@ -1,0 +1,73 @@
+{
+  "id": 790348801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.564796,44.969463,-89.564796,44.969463",
+    "geom:latitude":44.969463,
+    "geom:longitude":-89.564796,
+    "iso:country":"US",
+    "sg:address":"4701 Co Rd Z",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 849 4000",
+    "sg:postcode":"54403",
+    "sg:province":"WI",
+    "sg:tags":[
+        "local",
+        "except",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85868293,
+        102081881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r5VY1TWesb6xAjIh4yQfi_44.969463_-89.564796@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462595127,
+    "wof:geomhash":"bd52d9c8d7588ab043511874bd9c47a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "neighbourhood_id":85868293,
+            "region_id":85688517,
+            "venue_id":790348801
+        }
+    ],
+    "wof:id":790348801,
+    "wof:lastmodified":1462595127,
+    "wof:name":"ELITE CARRIERS",
+    "wof:parent_id":85868293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "except",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.564796,
+    44.969463,
+    -89.564796,
+    44.969463
+],
+  "geometry": {"coordinates":[-89.564796,44.969463],"type":"Point"}
+}

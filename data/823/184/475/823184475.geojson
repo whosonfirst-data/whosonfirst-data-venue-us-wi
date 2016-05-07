@@ -1,0 +1,83 @@
+{
+  "id": 823184475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.521141,43.098512,-89.521141,43.098512",
+    "geom:latitude":43.098512,
+    "geom:longitude":-89.521141,
+    "iso:country":"US",
+    "sg:address":"2349 Deming Way",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 447 9990",
+    "sg:postcode":"53562",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "reconstructive",
+        "surgeons",
+        "plastic"
+    ],
+    "sg:website":"http://www.uwhealth.org/transformations",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732813,
+        102081795,
+        85841479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LvG60t9ZtozSYBpfEvy82_43.098512_-89.521141@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608126,
+    "wof:geomhash":"357bfd7565148f2c897b1e75907f5cd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732813,
+            "neighbourhood_id":85841479,
+            "region_id":85688517,
+            "venue_id":823184475
+        }
+    ],
+    "wof:id":823184475,
+    "wof:lastmodified":1462608126,
+    "wof:name":"UW Health Transformations",
+    "wof:parent_id":85841479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "reconstructive",
+        "surgeons",
+        "plastic"
+    ]
+},
+  "bbox": [
+    -89.521141,
+    43.098512,
+    -89.521141,
+    43.098512
+],
+  "geometry": {"coordinates":[-89.521141,43.098512],"type":"Point"}
+}

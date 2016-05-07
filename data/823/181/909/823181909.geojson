@@ -1,0 +1,71 @@
+{
+  "id": 823181909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.013173,42.549488,-89.013173,42.549488",
+    "geom:latitude":42.549488,
+    "geom:longitude":-89.013173,
+    "iso:country":"US",
+    "sg:address":"1800 E Huebbe Pkwy",
+    "sg:city":"Beloit",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 362 2911",
+    "sg:postcode":"53511",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dental",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85825897,
+        102081829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_145ImF16l4JlF23fGLaHdT_42.549488_-89.013173@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608086,
+    "wof:geomhash":"da9efc7d2659018a239005a489bcd45a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "neighbourhood_id":85825897,
+            "region_id":85688517,
+            "venue_id":823181909
+        }
+    ],
+    "wof:id":823181909,
+    "wof:lastmodified":1462608086,
+    "wof:name":"Clark, Harry",
+    "wof:parent_id":85825897,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -89.013173,
+    42.549488,
+    -89.013173,
+    42.549488
+],
+  "geometry": {"coordinates":[-89.01317299999999,42.549488],"type":"Point"}
+}

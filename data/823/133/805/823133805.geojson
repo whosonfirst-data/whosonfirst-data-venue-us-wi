@@ -1,0 +1,93 @@
+{
+  "id": 823133805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.247398,42.976351,-88.247398,42.976351",
+    "geom:latitude":42.976351,
+    "geom:longitude":-88.247398,
+    "iso:country":"US",
+    "sg:address":"W250s3567 Center Rd",
+    "sg:city":"Waukesha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 542 5030",
+    "sg:postcode":"53189",
+    "sg:province":"WI",
+    "sg:tags":[
+        "town",
+        "planner",
+        "protection",
+        "village",
+        "department",
+        "township",
+        "government-city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733509,
+        102081741,
+        85868297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oId1p9qICDSrDPmLn2bhc_42.976351_-88.247398@1303262807"
+    },
+    "wof:country":"US",
+    "wof:created":1462607398,
+    "wof:geomhash":"0cf2037bf19c2539bea653f7b26dd614",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081741,
+            "locality_id":101733509,
+            "neighbourhood_id":85868297,
+            "region_id":85688517,
+            "venue_id":823133805
+        }
+    ],
+    "wof:id":823133805,
+    "wof:lastmodified":1462607398,
+    "wof:name":"Town of Waukesha",
+    "wof:parent_id":85868297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town",
+        "planner",
+        "protection",
+        "village",
+        "department",
+        "township",
+        "government-city"
+    ]
+},
+  "bbox": [
+    -88.247398,
+    42.976351,
+    -88.247398,
+    42.976351
+],
+  "geometry": {"coordinates":[-88.247398,42.976351],"type":"Point"}
+}

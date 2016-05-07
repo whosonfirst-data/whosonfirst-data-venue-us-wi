@@ -1,0 +1,85 @@
+{
+  "id": 807389659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.973,43.2771,-87.973,43.2771",
+    "geom:latitude":43.2771,
+    "geom:longitude":-87.973,
+    "iso:country":"US",
+    "sg:address":"5505 Pioneer Rd",
+    "sg:city":"Mequon",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Ice Rink",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Sports Center",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 375 1100",
+    "sg:postcode":"53097",
+    "sg:province":"WI",
+    "sg:tags":[
+        "skating",
+        "amateur",
+        "team"
+    ],
+    "sg:website":"www.ozaukeeicecenter.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823669,
+        102191575,
+        404495099,
+        85633793,
+        101732533,
+        102081873,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uE7mwkiazC5kuF7GNSQAk_43.277100_-87.973000@1303262806"
+    },
+    "wof:country":"US",
+    "wof:created":1462607068,
+    "wof:geomhash":"5bb53dbf8b2a6ddf2fcd46a7f979c431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081873,
+            "localadmin_id":404495099,
+            "locality_id":101732533,
+            "neighbourhood_id":85823669,
+            "region_id":85688517,
+            "venue_id":807389659
+        }
+    ],
+    "wof:id":807389659,
+    "wof:lastmodified":1462607068,
+    "wof:name":"The Ozaukee Ice Center",
+    "wof:parent_id":85823669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skating",
+        "amateur",
+        "team"
+    ]
+},
+  "bbox": [
+    -87.973,
+    43.2771,
+    -87.973,
+    43.2771
+],
+  "geometry": {"coordinates":[-87.973,43.2771],"type":"Point"}
+}

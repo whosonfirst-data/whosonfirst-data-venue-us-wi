@@ -1,0 +1,71 @@
+{
+  "id": 789629279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.245061,43.176826,-89.245061,43.176826",
+    "geom:latitude":43.176826,
+    "geom:longitude":-89.245061,
+    "iso:country":"US",
+    "sg:address":"1901 McCoy Rd",
+    "sg:city":"Sun Prairie",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 837 4548",
+    "sg:postcode":"53590",
+    "sg:province":"WI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sPRWUr4VU8FvfD4TaRP23_43.176826_-89.245061@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589287,
+    "wof:geomhash":"472b00ca3ddd8733707d611ef3197b7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":789629279
+        }
+    ],
+    "wof:id":789629279,
+    "wof:lastmodified":1462589287,
+    "wof:name":"Oil X Change Inc",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -89.245061,
+    43.176826,
+    -89.245061,
+    43.176826
+],
+  "geometry": {"coordinates":[-89.24506100000001,43.176826],"type":"Point"}
+}

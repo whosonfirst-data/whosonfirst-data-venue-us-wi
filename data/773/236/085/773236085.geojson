@@ -1,0 +1,75 @@
+{
+  "id": 773236085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.469521,44.230099,-88.469521,44.230099",
+    "geom:latitude":44.230099,
+    "geom:longitude":-88.469521,
+    "iso:country":"US",
+    "sg:address":"2121 American Dr",
+    "sg:city":"Neenah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 739 4458",
+    "sg:postcode":"54956",
+    "sg:province":"WI",
+    "sg:tags":[
+        "truck",
+        "leasing",
+        "tractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732729,
+        102081801,
+        85807543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61KnKZixsLTr0axojn9fqy_44.230099_-88.469521@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584189,
+    "wof:geomhash":"6ce3dd75565cb67017ff3a3877478e08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101732729,
+            "neighbourhood_id":85807543,
+            "region_id":85688517,
+            "venue_id":773236085
+        }
+    ],
+    "wof:id":773236085,
+    "wof:lastmodified":1462584189,
+    "wof:name":"Penske",
+    "wof:parent_id":85807543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing",
+        "tractor"
+    ]
+},
+  "bbox": [
+    -88.469521,
+    44.230099,
+    -88.469521,
+    44.230099
+],
+  "geometry": {"coordinates":[-88.469521,44.230099],"type":"Point"}
+}

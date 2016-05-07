@@ -1,0 +1,71 @@
+{
+  "id": 773800889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.463481,43.192046,-89.463481,43.192046",
+    "geom:latitude":43.192046,
+    "geom:longitude":-89.463481,
+    "iso:country":"US",
+    "sg:address":"101 Klein Dr",
+    "sg:city":"Waunakee",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 849 7284",
+    "sg:postcode":"53597",
+    "sg:province":"WI",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85868279,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CmkiGzPNKvS6C1EiMz4MU_43.192046_-89.463481@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588473,
+    "wof:geomhash":"2820be4c8fe3216703f58177d1032752",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85868279,
+            "region_id":85688517,
+            "venue_id":773800889
+        }
+    ],
+    "wof:id":773800889,
+    "wof:lastmodified":1462588473,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85868279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -89.463481,
+    43.192046,
+    -89.463481,
+    43.192046
+],
+  "geometry": {"coordinates":[-89.463481,43.192046],"type":"Point"}
+}

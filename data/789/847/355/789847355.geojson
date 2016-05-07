@@ -1,0 +1,71 @@
+{
+  "id": 789847355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.655374,44.949596,-89.655374,44.949596",
+    "geom:latitude":44.949596,
+    "geom:longitude":-89.655374,
+    "iso:country":"US",
+    "sg:address":"1025 S 17th Ave",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 845 1919",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lukvjv89aQz0RKOLqerQc_44.949596_-89.655374@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591008,
+    "wof:geomhash":"319467fa9f323502ff4584998214fdfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":789847355
+        }
+    ],
+    "wof:id":789847355,
+    "wof:lastmodified":1462591008,
+    "wof:name":"Marathon Animal Hospital SC",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -89.655374,
+    44.949596,
+    -89.655374,
+    44.949596
+],
+  "geometry": {"coordinates":[-89.65537399999999,44.949596],"type":"Point"}
+}

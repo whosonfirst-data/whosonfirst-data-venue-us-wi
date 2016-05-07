@@ -1,0 +1,71 @@
+{
+  "id": 773673051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.61941,44.963127,-89.61941,44.963127",
+    "geom:latitude":44.963127,
+    "geom:longitude":-89.61941,
+    "iso:country":"US",
+    "sg:address":"701 N Bellis St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 845 2262",
+    "sg:postcode":"54403",
+    "sg:province":"WI",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iGqR4yQBBji1JGiwBIYPn_44.963127_-89.619410@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462587487,
+    "wof:geomhash":"e7fd7b448707f460332bb55e5822d23a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":773673051
+        }
+    ],
+    "wof:id":773673051,
+    "wof:lastmodified":1462587487,
+    "wof:name":"Badger Care Van Inc",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -89.61941,
+    44.963127,
+    -89.61941,
+    44.963127
+],
+  "geometry": {"coordinates":[-89.61941,44.963127],"type":"Point"}
+}

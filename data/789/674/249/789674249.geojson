@@ -1,0 +1,71 @@
+{
+  "id": 789674249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.247784,43.252818,-88.247784,43.252818",
+    "geom:latitude":43.252818,
+    "geom:longitude":-88.247784,
+    "iso:country":"US",
+    "sg:address":"1766 Swindon Ct",
+    "sg:city":"Richfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 628 4099",
+    "sg:postcode":"53076",
+    "sg:province":"WI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85846371,
+        102081745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GdnbqrSbR7mVUHWcgMivV_43.252818_-88.247784@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589657,
+    "wof:geomhash":"7064406b3cc0020acfb9a14dbb158bef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081745,
+            "neighbourhood_id":85846371,
+            "region_id":85688517,
+            "venue_id":789674249
+        }
+    ],
+    "wof:id":789674249,
+    "wof:lastmodified":1462589657,
+    "wof:name":"Riverbend Apartments",
+    "wof:parent_id":85846371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.247784,
+    43.252818,
+    -88.247784,
+    43.252818
+],
+  "geometry": {"coordinates":[-88.247784,43.252818],"type":"Point"}
+}

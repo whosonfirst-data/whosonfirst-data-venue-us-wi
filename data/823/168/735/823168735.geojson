@@ -1,0 +1,91 @@
+{
+  "id": 823168735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.027616,43.086231,-88.027616,43.086231",
+    "geom:latitude":43.086231,
+    "geom:longitude":-88.027616,
+    "iso:country":"US",
+    "sg:address":"3800 N 92nd St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 463 7570",
+    "sg:postcode":"53222",
+    "sg:province":"WI",
+    "sg:tags":[
+        "living",
+        "nursing",
+        "homes-skilled",
+        "facility",
+        "assisted",
+        "convalescent"
+    ],
+    "sg:website":"http://www.stannessalvatoriancampus.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870997,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6soXWK3lOyu1FhHl1TJuCi_43.086231_-88.027616@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607914,
+    "wof:geomhash":"3f88fb9ee9e55226c055bd3390b8c9aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870997,
+            "region_id":85688517,
+            "venue_id":823168735
+        }
+    ],
+    "wof:id":823168735,
+    "wof:lastmodified":1462607914,
+    "wof:name":"St Anne's Salvatorian Campus",
+    "wof:parent_id":85870997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "living",
+        "nursing",
+        "homes-skilled",
+        "facility",
+        "assisted",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -88.027616,
+    43.086231,
+    -88.027616,
+    43.086231
+],
+  "geometry": {"coordinates":[-88.02761599999999,43.086231],"type":"Point"}
+}

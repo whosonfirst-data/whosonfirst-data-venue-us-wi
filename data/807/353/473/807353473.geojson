@@ -1,0 +1,72 @@
+{
+  "id": 807353473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.736701,43.921469,-87.736701,43.921469",
+    "geom:latitude":43.921469,
+    "geom:longitude":-87.736701,
+    "iso:country":"US",
+    "sg:address":"1519 North Ave",
+    "sg:city":"Cleveland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/centerville/218276-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 693 3910",
+    "sg:postcode":"53015",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vNzsui8rpFjeRiCUl9ODM_43.921469_-87.736701@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606548,
+    "wof:geomhash":"fd244fa9642fd1255bc75c8d8b17bf5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":807353473
+        }
+    ],
+    "wof:id":807353473,
+    "wof:lastmodified":1462606548,
+    "wof:name":"Burger King",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -87.736701,
+    43.921469,
+    -87.736701,
+    43.921469
+],
+  "geometry": {"coordinates":[-87.736701,43.921469],"type":"Point"}
+}

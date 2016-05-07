@@ -1,0 +1,71 @@
+{
+  "id": 790524745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.509039,44.793213,-91.509039,44.793213",
+    "geom:latitude":44.793213,
+    "geom:longitude":-91.509039,
+    "iso:country":"US",
+    "sg:address":"950 W Clairemont Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 839 9339",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b4rOlBZgqsvqwXWHYdYqs_44.793213_-91.509039@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462596581,
+    "wof:geomhash":"1b1fbcb0408471fc576ca5b38f55de71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":790524745
+        }
+    ],
+    "wof:id":790524745,
+    "wof:lastmodified":1462596581,
+    "wof:name":"Sacred Heart Surgery Center",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -91.509039,
+    44.793213,
+    -91.509039,
+    44.793213
+],
+  "geometry": {"coordinates":[-91.509039,44.793213],"type":"Point"}
+}

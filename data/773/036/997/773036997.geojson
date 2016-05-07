@@ -1,0 +1,69 @@
+{
+  "id": 773036997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.323409,44.500825,-88.323409,44.500825",
+    "geom:latitude":44.500825,
+    "geom:longitude":-88.323409,
+    "iso:country":"US",
+    "sg:address":"707 Woodland Plz",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 833 6833",
+    "sg:postcode":"54165",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85803271,
+        102081851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZkTh6fqa0xijabkavJkzj_44.500825_-88.323409@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462582636,
+    "wof:geomhash":"1e3439c6288e96b442b99335155246ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "neighbourhood_id":85803271,
+            "region_id":85688517,
+            "venue_id":773036997
+        }
+    ],
+    "wof:id":773036997,
+    "wof:lastmodified":1462582636,
+    "wof:name":"Valley Veterinary Clinic",
+    "wof:parent_id":85803271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -88.323409,
+    44.500825,
+    -88.323409,
+    44.500825
+],
+  "geometry": {"coordinates":[-88.323409,44.500825],"type":"Point"}
+}

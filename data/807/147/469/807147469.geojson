@@ -1,0 +1,73 @@
+{
+  "id": 807147469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.028397,45.076519,-90.028397,45.076519",
+    "geom:latitude":45.076519,
+    "geom:longitude":-90.028397,
+    "iso:country":"US",
+    "sg:address":"732 E Co Rd F",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 257 9090",
+    "sg:postcode":"54411",
+    "sg:province":"WI",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PiySHkSWCMr4knR2RSAJj_45.076519_-90.028397@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604251,
+    "wof:geomhash":"73e24a19587cd51202c603171275b7b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":807147469
+        }
+    ],
+    "wof:id":807147469,
+    "wof:lastmodified":1462604251,
+    "wof:name":"Joe Dirt Excavating",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.028397,
+    45.076519,
+    -90.028397,
+    45.076519
+],
+  "geometry": {"coordinates":[-90.028397,45.076519],"type":"Point"}
+}

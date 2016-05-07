@@ -1,0 +1,71 @@
+{
+  "id": 806757611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.714688,43.750639,-87.714688,43.750639",
+    "geom:latitude":43.750639,
+    "geom:longitude":-87.714688,
+    "iso:country":"US",
+    "sg:address":"522 N 9th St",
+    "sg:city":"Sheboygan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 458 2490",
+    "sg:postcode":"53081",
+    "sg:province":"WI",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85818209,
+        102081869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K7S06OjvbwkKCdenUsraj_43.750639_-87.714688@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462600826,
+    "wof:geomhash":"2f7bcdfaf1d20c95a1aed8b948f8c263",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "neighbourhood_id":85818209,
+            "region_id":85688517,
+            "venue_id":806757611
+        }
+    ],
+    "wof:id":806757611,
+    "wof:lastmodified":1462600826,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85818209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -87.714688,
+    43.750639,
+    -87.714688,
+    43.750639
+],
+  "geometry": {"coordinates":[-87.714688,43.750639],"type":"Point"}
+}

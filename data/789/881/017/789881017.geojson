@@ -1,0 +1,73 @@
+{
+  "id": 789881017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.622418,44.75658,-91.622418,44.75658",
+    "geom:latitude":44.75658,
+    "geom:longitude":-91.622418,
+    "iso:country":"US",
+    "sg:address":"6140 State Rd 85",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 552 8014",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85848105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oAmWSrf3IUvXa8f8sCs2F_44.756580_-91.622418@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591297,
+    "wof:geomhash":"48bd3c8568ee21ecf47da932c1d3a6c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85848105,
+            "region_id":85688517,
+            "venue_id":789881017
+        }
+    ],
+    "wof:id":789881017,
+    "wof:lastmodified":1462591297,
+    "wof:name":"Technical Video",
+    "wof:parent_id":85848105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -91.622418,
+    44.75658,
+    -91.622418,
+    44.75658
+],
+  "geometry": {"coordinates":[-91.622418,44.75658],"type":"Point"}
+}

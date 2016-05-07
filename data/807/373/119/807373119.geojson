@@ -1,0 +1,85 @@
+{
+  "id": 807373119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.914071,43.038732,-87.914071,43.038732",
+    "geom:latitude":43.038732,
+    "geom:longitude":-87.914071,
+    "iso:country":"US",
+    "sg:address":"275 W Wisconsin Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/milwaukee/41049-stone-creek-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 298 9965",
+    "sg:postcode":"53203",
+    "sg:province":"WI",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870965,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wYbTrkCTEutz5RYzqpjSb_43.038663_-87.913645@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606831,
+    "wof:geomhash":"910f7cb64d549dbac73f61dd3ccd8b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870965,
+            "region_id":85688517,
+            "venue_id":807373119
+        }
+    ],
+    "wof:id":807373119,
+    "wof:lastmodified":1462606831,
+    "wof:name":"Stone Creek Coffee",
+    "wof:parent_id":85870965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ]
+},
+  "bbox": [
+    -87.914071,
+    43.038732,
+    -87.914071,
+    43.038732
+],
+  "geometry": {"coordinates":[-87.91407100000001,43.038732],"type":"Point"}
+}

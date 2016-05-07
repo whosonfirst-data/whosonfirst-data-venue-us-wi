@@ -1,0 +1,76 @@
+{
+  "id": 806369555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.48756,43.090768,-89.48756,43.090768",
+    "geom:latitude":43.090768,
+    "geom:longitude":-89.48756,
+    "iso:country":"US",
+    "sg:address":"6255 University Ave",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 831 8086",
+    "sg:postcode":"53562",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732813,
+        102081795,
+        85841479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Tp6eKoZ1sK1upCxnFzh9j_43.090768_-89.487560@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462597595,
+    "wof:geomhash":"0758b302ebce559665b7414c75b45b4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732813,
+            "neighbourhood_id":85841479,
+            "region_id":85688517,
+            "venue_id":806369555
+        }
+    ],
+    "wof:id":806369555,
+    "wof:lastmodified":1462597595,
+    "wof:name":"University Podiatry Associates",
+    "wof:parent_id":85841479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.48756,
+    43.090768,
+    -89.48756,
+    43.090768
+],
+  "geometry": {"coordinates":[-89.48756,43.090768],"type":"Point"}
+}

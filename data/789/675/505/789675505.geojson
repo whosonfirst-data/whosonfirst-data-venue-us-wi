@@ -1,0 +1,78 @@
+{
+  "id": 789675505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.690346,44.088109,-87.690346,44.088109",
+    "geom:latitude":44.088109,
+    "geom:longitude":-87.690346,
+    "iso:country":"US",
+    "sg:address":"3427 Custer St",
+    "sg:city":"Manitowoc",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 684 7567",
+    "sg:postcode":"54220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "cleaners",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xh0N0p9ti1NzdzCAigLZx_44.088109_-87.690346@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589666,
+    "wof:geomhash":"6f4ec8b6da43ab2521b4c4f845e53540",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":789675505
+        }
+    ],
+    "wof:id":789675505,
+    "wof:lastmodified":1462589666,
+    "wof:name":"United Laundries & Dry Clnrs",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "coin"
+    ]
+},
+  "bbox": [
+    -87.690346,
+    44.088109,
+    -87.690346,
+    44.088109
+],
+  "geometry": {"coordinates":[-87.69034600000001,44.088109],"type":"Point"}
+}

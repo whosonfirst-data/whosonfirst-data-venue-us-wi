@@ -1,0 +1,88 @@
+{
+  "id": 823150789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.887615,43.084269,-87.887615,43.084269",
+    "geom:latitude":43.084269,
+    "geom:longitude":-87.887615,
+    "iso:country":"US",
+    "sg:address":"3610 N Oakland Ave Ste 3",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 962 4010",
+    "sg:postcode":"53211",
+    "sg:province":"WI",
+    "sg:tags":[
+        "nursing",
+        "consultant",
+        "medical",
+        "practice",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870879,
+        102191575,
+        404494183,
+        85633793,
+        101733085,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GZIAE7OPE0lSdUXFhV7GN_43.084269_-87.887615@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607678,
+    "wof:geomhash":"a2c01c3a1f6387dbcb4c1b42ac90f385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494183,
+            "locality_id":101733085,
+            "neighbourhood_id":85870879,
+            "region_id":85688517,
+            "venue_id":823150789
+        }
+    ],
+    "wof:id":823150789,
+    "wof:lastmodified":1462607678,
+    "wof:name":"Health Promotions Services",
+    "wof:parent_id":85870879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursing",
+        "consultant",
+        "medical",
+        "practice",
+        "home"
+    ]
+},
+  "bbox": [
+    -87.887615,
+    43.084269,
+    -87.887615,
+    43.084269
+],
+  "geometry": {"coordinates":[-87.887615,43.084269],"type":"Point"}
+}

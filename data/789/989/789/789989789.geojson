@@ -1,0 +1,78 @@
+{
+  "id": 789989789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.224963,43.856861,-91.224963,43.856861",
+    "geom:latitude":43.856861,
+    "geom:longitude":-91.224963,
+    "iso:country":"US",
+    "sg:address":"2300 Larson St",
+    "sg:city":"La Crosse",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 781 2791",
+    "sg:postcode":"54603",
+    "sg:province":"WI",
+    "sg:tags":[
+        "pallet",
+        "skid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732651,
+        102081301,
+        85833661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EScxvffWrjS64kWNLIiA8_43.856861_-91.224963@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592244,
+    "wof:geomhash":"ff8afd7ccd7a270b42732ea46b5b2f5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732651,
+            "neighbourhood_id":85833661,
+            "region_id":85688517,
+            "venue_id":789989789
+        }
+    ],
+    "wof:id":789989789,
+    "wof:lastmodified":1462592244,
+    "wof:name":"Dick's Pallet Works",
+    "wof:parent_id":85833661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pallet",
+        "skid"
+    ]
+},
+  "bbox": [
+    -91.224963,
+    43.856861,
+    -91.224963,
+    43.856861
+],
+  "geometry": {"coordinates":[-91.224963,43.856861],"type":"Point"}
+}

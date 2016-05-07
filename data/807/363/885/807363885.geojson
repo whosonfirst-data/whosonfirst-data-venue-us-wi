@@ -1,0 +1,89 @@
+{
+  "id": 807363885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.343757,43.103508,-89.343757,43.103508",
+    "geom:latitude":43.103508,
+    "geom:longitude":-89.343757,
+    "iso:country":"US",
+    "sg:address":"2958 E Washington Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/181474-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 249 5664",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878865,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517,
+        85878879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LrwWu2dNeSJo67qhpP3gL_43.103508_-89.343757@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606706,
+    "wof:geomhash":"d96cdedcf319bc92b58b5bee610c3c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878865,
+            "region_id":85688517,
+            "venue_id":807363885
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878879,
+            "region_id":85688517,
+            "venue_id":807363885
+        }
+    ],
+    "wof:id":807363885,
+    "wof:lastmodified":1462606706,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -89.343757,
+    43.103508,
+    -89.343757,
+    43.103508
+],
+  "geometry": {"coordinates":[-89.343757,43.103508],"type":"Point"}
+}

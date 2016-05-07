@@ -1,0 +1,72 @@
+{
+  "id": 807332187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.359612,43.128109,-89.359612,43.128109",
+    "geom:latitude":43.128109,
+    "geom:longitude":-89.359612,
+    "iso:country":"US",
+    "sg:address":"2901 Dryden Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 249 9446",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "eating"
+    ],
+    "sg:website":"http://www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Wb5PPSUZNfv1eQdBx1Lhg_43.128525_-89.359163@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462606222,
+    "wof:geomhash":"b1d1e7b615082787851d0dfbf6c8cf71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878869,
+            "region_id":85688517,
+            "venue_id":807332187
+        }
+    ],
+    "wof:id":807332187,
+    "wof:lastmodified":1462606222,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85878869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -89.359612,
+    43.128109,
+    -89.359612,
+    43.128109
+],
+  "geometry": {"coordinates":[-89.359612,43.128109],"type":"Point"}
+}

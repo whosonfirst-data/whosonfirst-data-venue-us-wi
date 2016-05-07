@@ -1,0 +1,74 @@
+{
+  "id": 807364013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.371123,43.134108,-89.371123,43.134108",
+    "geom:latitude":43.134108,
+    "geom:longitude":-89.371123,
+    "iso:country":"US",
+    "sg:address":"1426 Northport Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/80026-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 244 9099",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gOsdAzVURXY32DAuNovUn_43.134108_-89.371123@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606708,
+    "wof:geomhash":"da652a9201dcff30629468d307326f35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878869,
+            "region_id":85688517,
+            "venue_id":807364013
+        }
+    ],
+    "wof:id":807364013,
+    "wof:lastmodified":1462606708,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85878869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.371123,
+    43.134108,
+    -89.371123,
+    43.134108
+],
+  "geometry": {"coordinates":[-89.371123,43.134108],"type":"Point"}
+}

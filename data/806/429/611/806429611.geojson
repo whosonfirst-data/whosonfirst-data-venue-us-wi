@@ -1,0 +1,93 @@
+{
+  "id": 806429611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.965246,42.91752,-87.965246,42.91752",
+    "geom:latitude":42.91752,
+    "geom:longitude":-87.965246,
+    "iso:country":"US",
+    "sg:address":"7070 Cypress Ct",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 421 4289",
+    "sg:postcode":"53132",
+    "sg:province":"WI",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870857,
+        102191575,
+        404492089,
+        85633793,
+        101733071,
+        102081837,
+        85688517,
+        85870933,
+        404494177,
+        101733079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_509O0GjNBeETtzw6NGeg6z_42.917520_-87.965246@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462598085,
+    "wof:geomhash":"7415d39f20f1c52da99a35972323157b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492089,
+            "locality_id":101733071,
+            "neighbourhood_id":85870857,
+            "region_id":85688517,
+            "venue_id":806429611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494177,
+            "locality_id":101733079,
+            "neighbourhood_id":85870933,
+            "region_id":85688517,
+            "venue_id":806429611
+        }
+    ],
+    "wof:id":806429611,
+    "wof:lastmodified":1462598085,
+    "wof:name":"Milwaukee Inspection Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -87.965246,
+    42.91752,
+    -87.965246,
+    42.91752
+],
+  "geometry": {"coordinates":[-87.96524599999999,42.91752],"type":"Point"}
+}

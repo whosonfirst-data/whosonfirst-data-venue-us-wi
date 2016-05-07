@@ -1,0 +1,73 @@
+{
+  "id": 790439123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.962384,44.921709,-89.962384,44.921709",
+    "geom:latitude":44.921709,
+    "geom:longitude":-89.962384,
+    "iso:country":"US",
+    "sg:address":"199 E Redwood St",
+    "sg:city":"Edgar",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 352 3575",
+    "sg:postcode":"54426",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DyrDf4DE8RcfQl7v63wXh_44.921709_-89.962384@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462595835,
+    "wof:geomhash":"fcb352ffb8f3c16626df64017b3ec433",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":790439123
+        }
+    ],
+    "wof:id":790439123,
+    "wof:lastmodified":1462595835,
+    "wof:name":"Chad's Auto Repair",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.962384,
+    44.921709,
+    -89.962384,
+    44.921709
+],
+  "geometry": {"coordinates":[-89.962384,44.921709],"type":"Point"}
+}

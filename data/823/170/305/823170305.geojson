@@ -1,0 +1,89 @@
+{
+  "id": 823170305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.975395,43.151914,-87.975395,43.151914",
+    "geom:latitude":43.151914,
+    "geom:longitude":-87.975395,
+    "iso:country":"US",
+    "sg:address":"7375 N 51st St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 354 8350",
+    "sg:postcode":"53223",
+    "sg:province":"WI",
+    "sg:tags":[
+        "automobile",
+        "part",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870811,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZS6M1LbE3f7zENwJmXXaB_43.151914_-87.975395@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607932,
+    "wof:geomhash":"b6597b0e62e7ab8fcf12c1c430771c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870811,
+            "region_id":85688517,
+            "venue_id":823170305
+        }
+    ],
+    "wof:id":823170305,
+    "wof:lastmodified":1462607932,
+    "wof:name":"Schieble's Automotive Svc",
+    "wof:parent_id":85870811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -87.975395,
+    43.151914,
+    -87.975395,
+    43.151914
+],
+  "geometry": {"coordinates":[-87.97539500000001,43.151914],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 807118701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.413331,44.558488,-88.413331,44.558488",
+    "geom:latitude":44.558488,
+    "geom:longitude":-88.413331,
+    "iso:country":"US",
+    "sg:address":"8793 Town Hall Rd",
+    "sg:city":"Black Creek",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 833 2458",
+    "sg:postcode":"54106",
+    "sg:province":"WI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85803271,
+        102081851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ljNc4SIsclX1tbsBGo8zq_44.558488_-88.413331@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603925,
+    "wof:geomhash":"da2169728f353b927da2a8234540cfab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "neighbourhood_id":85803271,
+            "region_id":85688517,
+            "venue_id":807118701
+        }
+    ],
+    "wof:id":807118701,
+    "wof:lastmodified":1462603925,
+    "wof:name":"Rozmiarek Electric",
+    "wof:parent_id":85803271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.413331,
+    44.558488,
+    -88.413331,
+    44.558488
+],
+  "geometry": {"coordinates":[-88.413331,44.558488],"type":"Point"}
+}

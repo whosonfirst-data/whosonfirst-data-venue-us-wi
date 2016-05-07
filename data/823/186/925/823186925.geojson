@@ -1,0 +1,87 @@
+{
+  "id": 823186925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.317192,43.04813,-89.317192,43.04813",
+    "geom:latitude":43.04813,
+    "geom:longitude":-89.317192,
+    "iso:country":"US",
+    "sg:address":"800 E Broadway",
+    "sg:city":"Monona",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 222 1515",
+    "sg:postcode":"53716",
+    "sg:province":"WI",
+    "sg:tags":[
+        "hospital",
+        "veterinarian",
+        "clinic",
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44xJjEbA2dMlSyhFONwTFc_43.048130_-89.317192@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608155,
+    "wof:geomhash":"3feec4ba1ef235b3b816fbcc3d2134b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":823186925
+        }
+    ],
+    "wof:id":823186925,
+    "wof:lastmodified":1462608155,
+    "wof:name":"Karlburg Richard T",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "veterinarian",
+        "clinic",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -89.317192,
+    43.04813,
+    -89.317192,
+    43.04813
+],
+  "geometry": {"coordinates":[-89.31719200000001,43.04813],"type":"Point"}
+}

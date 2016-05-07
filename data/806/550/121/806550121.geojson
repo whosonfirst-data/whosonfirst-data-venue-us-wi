@@ -1,0 +1,89 @@
+{
+  "id": 806550121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.362601,43.084351,-89.362601,43.084351",
+    "geom:latitude":43.084351,
+    "geom:longitude":-89.362601,
+    "iso:country":"US",
+    "sg:address":"1209 Williamson St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 255 8041",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "beer",
+        "ale"
+    ],
+    "sg:website":"www.starliquor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878861,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517,
+        85868285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RAIPnbjAGai0KD94lfK3q_43.084351_-89.362601@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462599035,
+    "wof:geomhash":"c11594ccb9e32e231788640f4c9e7ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878861,
+            "region_id":85688517,
+            "venue_id":806550121
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85868285,
+            "region_id":85688517,
+            "venue_id":806550121
+        }
+    ],
+    "wof:id":806550121,
+    "wof:lastmodified":1462599035,
+    "wof:name":"Star Liquor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "ale"
+    ]
+},
+  "bbox": [
+    -89.362601,
+    43.084351,
+    -89.362601,
+    43.084351
+],
+  "geometry": {"coordinates":[-89.362601,43.084351],"type":"Point"}
+}

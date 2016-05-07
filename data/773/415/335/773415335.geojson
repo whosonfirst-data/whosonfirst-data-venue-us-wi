@@ -1,0 +1,86 @@
+{
+  "id": 773415335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.36634,43.081879,-89.36634,43.081879",
+    "geom:latitude":43.081879,
+    "geom:longitude":-89.36634,
+    "iso:country":"US",
+    "sg:address":"1014 Williamson St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 255 1239",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878853,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517,
+        85878861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39eVvmnEynfKnMn7qn8YF1_43.081879_-89.366340@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585537,
+    "wof:geomhash":"15224209b005980543f9628ef041134a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878853,
+            "region_id":85688517,
+            "venue_id":773415335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878861,
+            "region_id":85688517,
+            "venue_id":773415335
+        }
+    ],
+    "wof:id":773415335,
+    "wof:lastmodified":1462585537,
+    "wof:name":"Petinary",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -89.36634,
+    43.081879,
+    -89.36634,
+    43.081879
+],
+  "geometry": {"coordinates":[-89.36633999999999,43.081879],"type":"Point"}
+}

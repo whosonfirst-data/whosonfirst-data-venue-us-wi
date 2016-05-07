@@ -1,0 +1,82 @@
+{
+  "id": 823166725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.92229,42.961625,-87.92229,42.961625",
+    "geom:latitude":42.961625,
+    "geom:longitude":-87.92229,
+    "iso:country":"US",
+    "sg:address":"814 W Armour Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 744 5606",
+    "sg:postcode":"53221",
+    "sg:province":"WI",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85894489,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EzmFv1iza0imJ0ZekIGRU_42.961625_-87.922290@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607889,
+    "wof:geomhash":"0d4f97bdc1b6a5612d0c03fc41dc489e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85894489,
+            "region_id":85688517,
+            "venue_id":823166725
+        }
+    ],
+    "wof:id":823166725,
+    "wof:lastmodified":1462607889,
+    "wof:name":"S T S Trucking",
+    "wof:parent_id":85894489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -87.92229,
+    42.961625,
+    -87.92229,
+    42.961625
+],
+  "geometry": {"coordinates":[-87.92229,42.961625],"type":"Point"}
+}

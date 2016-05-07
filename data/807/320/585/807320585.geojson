@@ -1,0 +1,82 @@
+{
+  "id": 807320585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.905415,43.048165,-87.905415,43.048165",
+    "geom:latitude":43.048165,
+    "geom:longitude":-87.905415,
+    "iso:country":"US",
+    "sg:address":"544 E Ogden Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 291 0909",
+    "sg:postcode":"53202",
+    "sg:province":"WI",
+    "sg:tags":[
+        "tape",
+        "video",
+        "sale",
+        "dvds-rental"
+    ],
+    "sg:website":"http://www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870985,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1US8r5JYusQ7Ev981T2A9Y_43.048230_-87.905214@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462606070,
+    "wof:geomhash":"338b4177fda656131eb760f3d555614c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870985,
+            "region_id":85688517,
+            "venue_id":807320585
+        }
+    ],
+    "wof:id":807320585,
+    "wof:lastmodified":1462606070,
+    "wof:name":"Blockbuster",
+    "wof:parent_id":85870985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tape",
+        "video",
+        "sale",
+        "dvds-rental"
+    ]
+},
+  "bbox": [
+    -87.905415,
+    43.048165,
+    -87.905415,
+    43.048165
+],
+  "geometry": {"coordinates":[-87.905415,43.048165],"type":"Point"}
+}

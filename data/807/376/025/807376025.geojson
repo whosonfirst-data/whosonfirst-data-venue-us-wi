@@ -1,0 +1,83 @@
+{
+  "id": 807376025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.214438,43.870572,-91.214438,43.870572",
+    "geom:latitude":43.870572,
+    "geom:longitude":-91.214438,
+    "iso:country":"US",
+    "sg:address":"1230 Crossing Meadows Dr",
+    "sg:city":"Onalaska",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/onalaska/53988-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 781 9801",
+    "sg:postcode":"54650",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732663,
+        102081301,
+        85825891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AZHLi8EWjAFxlCZhdi1np_43.870091_-91.214422@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606872,
+    "wof:geomhash":"8bf24a451da0722f3a827e7780f97937",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732663,
+            "neighbourhood_id":85825891,
+            "region_id":85688517,
+            "venue_id":807376025
+        }
+    ],
+    "wof:id":807376025,
+    "wof:lastmodified":1462606872,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85825891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -91.214438,
+    43.870572,
+    -91.214438,
+    43.870572
+],
+  "geometry": {"coordinates":[-91.214438,43.870572],"type":"Point"}
+}

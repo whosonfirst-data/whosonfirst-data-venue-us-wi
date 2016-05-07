@@ -1,0 +1,89 @@
+{
+  "id": 807400253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.855745,42.591851,-87.855745,42.591851",
+    "geom:latitude":42.591851,
+    "geom:longitude":-87.855745,
+    "iso:country":"US",
+    "sg:address":"4906 39th Ave",
+    "sg:city":"Kenosha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 657 9390",
+    "sg:postcode":"53144",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "allergy",
+        "surgeons",
+        "immunology",
+        "pediatrics-allergy"
+    ],
+    "sg:website":"http://www.allergyasthmaspecialist.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810813,
+        102191575,
+        404493393,
+        85633793,
+        101732567,
+        102081309,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ianSJ3fiAfcpoc83Z7Jl0_42.591851_-87.855745@1303262806"
+    },
+    "wof:country":"US",
+    "wof:created":1462607287,
+    "wof:geomhash":"af213d421a913adce67e2ae4f4822602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493393,
+            "locality_id":101732567,
+            "neighbourhood_id":85810813,
+            "region_id":85688517,
+            "venue_id":807400253
+        }
+    ],
+    "wof:id":807400253,
+    "wof:lastmodified":1462607287,
+    "wof:name":"Allergy & Asthma Clinic Of Kenosha",
+    "wof:parent_id":85810813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "allergy",
+        "surgeons",
+        "immunology",
+        "pediatrics-allergy"
+    ]
+},
+  "bbox": [
+    -87.855745,
+    42.591851,
+    -87.855745,
+    42.591851
+],
+  "geometry": {"coordinates":[-87.855745,42.591851],"type":"Point"}
+}

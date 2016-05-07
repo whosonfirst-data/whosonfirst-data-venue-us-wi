@@ -1,0 +1,95 @@
+{
+  "id": 823183553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.024712,42.686378,-89.024712,42.686378",
+    "geom:latitude":42.686378,
+    "geom:longitude":-89.024712,
+    "iso:country":"US",
+    "sg:address":"401 N Parker Dr",
+    "sg:city":"Janesville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 758 7272",
+    "sg:postcode":"53545",
+    "sg:province":"WI",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.papajohns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803103,
+        102191575,
+        404492347,
+        85633793,
+        101732837,
+        102081829,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J5Oha0H4Ql6rbLt7vEndz_42.686378_-89.024712@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608110,
+    "wof:geomhash":"e585b37944c6114318cd7da2a631512c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081829,
+            "localadmin_id":404492347,
+            "locality_id":101732837,
+            "neighbourhood_id":85803103,
+            "region_id":85688517,
+            "venue_id":823183553
+        }
+    ],
+    "wof:id":823183553,
+    "wof:lastmodified":1462608110,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85803103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.024712,
+    42.686378,
+    -89.024712,
+    42.686378
+],
+  "geometry": {"coordinates":[-89.02471199999999,42.686378],"type":"Point"}
+}

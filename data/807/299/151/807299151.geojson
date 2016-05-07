@@ -1,0 +1,73 @@
+{
+  "id": 807299151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.380372,43.038389,-89.380372,43.038389",
+    "geom:latitude":43.038389,
+    "geom:longitude":-89.380372,
+    "iso:country":"US",
+    "sg:address":"124 E Badger Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 273 3656",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57sRaZCTMekFFHbdLX23qV_43.038389_-89.380372@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605841,
+    "wof:geomhash":"d55c4dc422b4b714c8d89d1019df8266",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":807299151
+        }
+    ],
+    "wof:id":807299151,
+    "wof:lastmodified":1462605841,
+    "wof:name":"Wright's Auto Svc",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.380372,
+    43.038389,
+    -89.380372,
+    43.038389
+],
+  "geometry": {"coordinates":[-89.38037199999999,43.038389],"type":"Point"}
+}

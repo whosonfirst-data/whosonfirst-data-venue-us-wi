@@ -1,0 +1,71 @@
+{
+  "id": 789830069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.576914,42.761928,-88.576914,42.761928",
+    "geom:latitude":42.761928,
+    "geom:longitude":-88.576914,
+    "iso:country":"US",
+    "sg:address":"5570 Cool Hill Dr",
+    "sg:city":"Elkhorn",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 742 2155",
+    "sg:postcode":"53121",
+    "sg:province":"WI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733541,
+        102081883,
+        85829883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EpGyBpLMNo92YJI4MYzfQ_42.761928_-88.576914@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590871,
+    "wof:geomhash":"7f6801b48b0da250747e7508ef354d6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733541,
+            "neighbourhood_id":85829883,
+            "region_id":85688517,
+            "venue_id":789830069
+        }
+    ],
+    "wof:id":789830069,
+    "wof:lastmodified":1462590871,
+    "wof:name":"Welsch Engineering Inc",
+    "wof:parent_id":85829883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -88.576914,
+    42.761928,
+    -88.576914,
+    42.761928
+],
+  "geometry": {"coordinates":[-88.576914,42.761928],"type":"Point"}
+}

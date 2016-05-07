@@ -1,0 +1,85 @@
+{
+  "id": 823172097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.025818,43.116023,-88.025818,43.116023",
+    "geom:latitude":43.116023,
+    "geom:longitude":-88.025818,
+    "iso:country":"US",
+    "sg:address":"5402 N 91st St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Monument",
+            "type":"Public Place"
+        },
+        {
+            "category":"Cemetery",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 462 3300",
+    "sg:postcode":"53225",
+    "sg:province":"WI",
+    "sg:tags":[
+        "crematory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870869,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VpLkRD8aiYe6HLU6e3xTm_43.116023_-88.025818@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607954,
+    "wof:geomhash":"2fc6bbbc66c81ba04bccd2e6561fd0a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870869,
+            "region_id":85688517,
+            "venue_id":823172097
+        }
+    ],
+    "wof:id":823172097,
+    "wof:lastmodified":1462607954,
+    "wof:name":"The Valhalla Memorial Park Association Inc",
+    "wof:parent_id":85870869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crematory"
+    ]
+},
+  "bbox": [
+    -88.025818,
+    43.116023,
+    -88.025818,
+    43.116023
+],
+  "geometry": {"coordinates":[-88.025818,43.116023],"type":"Point"}
+}

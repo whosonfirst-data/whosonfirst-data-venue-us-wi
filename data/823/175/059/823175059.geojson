@@ -1,0 +1,82 @@
+{
+  "id": 823175059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.018562,43.00629,-88.018562,43.00629",
+    "geom:latitude":43.00629,
+    "geom:longitude":-88.018562,
+    "iso:country":"US",
+    "sg:address":"8501 W Becher St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 541 6647",
+    "sg:postcode":"53227",
+    "sg:province":"WI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870861,
+        102191575,
+        404494275,
+        85633793,
+        101733091,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cpaS1gyvExWiV44HtwvRp_43.006290_-88.018562@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608000,
+    "wof:geomhash":"edaf632610e9bcdf0e6882662bbbb187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494275,
+            "locality_id":101733091,
+            "neighbourhood_id":85870861,
+            "region_id":85688517,
+            "venue_id":823175059
+        }
+    ],
+    "wof:id":823175059,
+    "wof:lastmodified":1462608000,
+    "wof:name":"Anderson's Dental Lab",
+    "wof:parent_id":85870861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -88.018562,
+    43.00629,
+    -88.018562,
+    43.00629
+],
+  "geometry": {"coordinates":[-88.018562,43.00629],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 823160047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.900009,43.113201,-87.900009,43.113201",
+    "geom:latitude":43.113201,
+    "geom:longitude":-87.900009,
+    "iso:country":"US",
+    "sg:address":"5300 N Marlborough Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 962 3830",
+    "sg:postcode":"53217",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.crimestopusa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870821,
+        102191575,
+        404494165,
+        85633793,
+        101733065,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6msqkaRPpNz9T7iIr8lM39_43.113201_-87.900009@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607800,
+    "wof:geomhash":"3a4456f4fbd83dc550fb39d31f370e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494165,
+            "locality_id":101733065,
+            "neighbourhood_id":85870821,
+            "region_id":85688517,
+            "venue_id":823160047
+        }
+    ],
+    "wof:id":823160047,
+    "wof:lastmodified":1462607800,
+    "wof:name":"Whitefish Bay Village of",
+    "wof:parent_id":85870821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -87.900009,
+    43.113201,
+    -87.900009,
+    43.113201
+],
+  "geometry": {"coordinates":[-87.900009,43.113201],"type":"Point"}
+}

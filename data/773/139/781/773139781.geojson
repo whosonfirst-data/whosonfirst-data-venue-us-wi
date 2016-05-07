@@ -1,0 +1,71 @@
+{
+  "id": 773139781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.8203,43.572108,-87.8203,43.572108",
+    "geom:latitude":43.572108,
+    "geom:longitude":-87.8203,
+    "iso:country":"US",
+    "sg:address":"123 S Main St",
+    "sg:city":"Cedar Grove",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 459 8076",
+    "sg:postcode":"53013",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733891,
+        102081869,
+        85821461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wf2ZLDqMTz6Lows2HZRme_43.572108_-87.820300@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583435,
+    "wof:geomhash":"741aacd73d4d4220f89a254bc41072ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "locality_id":101733891,
+            "neighbourhood_id":85821461,
+            "region_id":85688517,
+            "venue_id":773139781
+        }
+    ],
+    "wof:id":773139781,
+    "wof:lastmodified":1462583435,
+    "wof:name":"Resettlers Of Wisconsin",
+    "wof:parent_id":85821461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -87.8203,
+    43.572108,
+    -87.8203,
+    43.572108
+],
+  "geometry": {"coordinates":[-87.8203,43.572108],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773450015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.403891,43.042965,-89.403891,43.042965",
+    "geom:latitude":43.042965,
+    "geom:longitude":-89.403891,
+    "iso:country":"US",
+    "sg:address":"2121 Fish Hatchery Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 257 4774",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878867,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ac5VU1LHtgB0lh8Q6w2AK_43.042965_-89.403891@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585836,
+    "wof:geomhash":"88d6fe2203111584e1137fface8b0b97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878867,
+            "region_id":85688517,
+            "venue_id":773450015
+        }
+    ],
+    "wof:id":773450015,
+    "wof:lastmodified":1462585836,
+    "wof:name":"J & R Auto Svc",
+    "wof:parent_id":85878867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.403891,
+    43.042965,
+    -89.403891,
+    43.042965
+],
+  "geometry": {"coordinates":[-89.403891,43.042965],"type":"Point"}
+}

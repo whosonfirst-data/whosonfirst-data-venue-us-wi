@@ -1,0 +1,71 @@
+{
+  "id": 773130383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.647564,44.959228,-89.647564,44.959228",
+    "geom:latitude":44.959228,
+    "geom:longitude":-89.647564,
+    "iso:country":"US",
+    "sg:address":"311 S 10th Ave",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 845 8809",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Capgh9iutUNY7j9NHX4Fj_44.959228_-89.647564@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583362,
+    "wof:geomhash":"e255f52fede9e33a4119846b54502428",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":773130383
+        }
+    ],
+    "wof:id":773130383,
+    "wof:lastmodified":1462583362,
+    "wof:name":"Augesen Transport LLC",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -89.647564,
+    44.959228,
+    -89.647564,
+    44.959228
+],
+  "geometry": {"coordinates":[-89.647564,44.959228],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 823160165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.915449,43.123113,-87.915449,43.123113",
+    "geom:latitude":43.123113,
+    "geom:longitude":-87.915449,
+    "iso:country":"US",
+    "sg:address":"5900 N Port Washington Rd Ste A9",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 961 8210",
+    "sg:postcode":"53217",
+    "sg:province":"WI",
+    "sg:tags":[
+        "sportswear",
+        "store"
+    ],
+    "sg:website":"http://www.footlocker.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870821,
+        102191575,
+        404494165,
+        85633793,
+        101733065,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w7YuO29A8bexWOsc37ZeP_43.123113_-87.915449@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607801,
+    "wof:geomhash":"a67768a9576f0053808e34a5d8c3e359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494165,
+            "locality_id":101733065,
+            "neighbourhood_id":85870821,
+            "region_id":85688517,
+            "venue_id":823160165
+        }
+    ],
+    "wof:id":823160165,
+    "wof:lastmodified":1462607801,
+    "wof:name":"Foot Locker",
+    "wof:parent_id":85870821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sportswear",
+        "store"
+    ]
+},
+  "bbox": [
+    -87.915449,
+    43.123113,
+    -87.915449,
+    43.123113
+],
+  "geometry": {"coordinates":[-87.915449,43.123113],"type":"Point"}
+}

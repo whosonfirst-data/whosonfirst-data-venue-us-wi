@@ -1,0 +1,88 @@
+{
+  "id": 773252557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.352179,43.097564,-89.352179,43.097564",
+    "geom:latitude":43.097564,
+    "geom:longitude":-89.352179,
+    "iso:country":"US",
+    "sg:address":"2331 E Washington Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 244 2600",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "equipment",
+        "video",
+        "tape",
+        "electronic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878841,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MdEEqfbA8nST2F5CBASWC_43.097564_-89.352179@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584312,
+    "wof:geomhash":"f8f7ccc31af71ed64b5ba5c700ececa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878841,
+            "region_id":85688517,
+            "venue_id":773252557
+        }
+    ],
+    "wof:id":773252557,
+    "wof:lastmodified":1462584312,
+    "wof:name":"Audio Video Restorations",
+    "wof:parent_id":85878841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "video",
+        "tape",
+        "electronic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -89.352179,
+    43.097564,
+    -89.352179,
+    43.097564
+],
+  "geometry": {"coordinates":[-89.35217900000001,43.097564],"type":"Point"}
+}

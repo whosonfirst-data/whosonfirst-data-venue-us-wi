@@ -1,0 +1,73 @@
+{
+  "id": 807114799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.870851,43.388571,-87.870851,43.388571",
+    "geom:latitude":43.388571,
+    "geom:longitude":-87.870851,
+    "iso:country":"US",
+    "sg:address":"104 E Main St",
+    "sg:city":"Port Washington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 284 5526",
+    "sg:postcode":"53074",
+    "sg:province":"WI",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732547,
+        102081873,
+        85828641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KlU236bJbNRh2kV5hFI6v_43.388571_-87.870851@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603887,
+    "wof:geomhash":"4491957fc160a012302ae30f53d23235",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081873,
+            "locality_id":101732547,
+            "neighbourhood_id":85828641,
+            "region_id":85688517,
+            "venue_id":807114799
+        }
+    ],
+    "wof:id":807114799,
+    "wof:lastmodified":1462603887,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85828641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -87.870851,
+    43.388571,
+    -87.870851,
+    43.388571
+],
+  "geometry": {"coordinates":[-87.870851,43.388571],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 773649403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.949301,42.997261,-87.949301,42.997261",
+    "geom:latitude":42.997261,
+    "geom:longitude":-87.949301,
+    "iso:country":"US",
+    "sg:address":"2674 S 28th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 384 8377",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870927,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517,
+        85870955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vANjOQwvh6M4F9B08x4jL_42.997261_-87.949301@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462587323,
+    "wof:geomhash":"ed6971c06ebd14d62dec64f68c312f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870927,
+            "region_id":85688517,
+            "venue_id":773649403
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870955,
+            "region_id":85688517,
+            "venue_id":773649403
+        }
+    ],
+    "wof:id":773649403,
+    "wof:lastmodified":1462587323,
+    "wof:name":"Construction Site Clean Up Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -87.949301,
+    42.997261,
+    -87.949301,
+    42.997261
+],
+  "geometry": {"coordinates":[-87.94930100000001,42.997261],"type":"Point"}
+}

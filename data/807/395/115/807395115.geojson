@@ -1,0 +1,77 @@
+{
+  "id": 807395115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.954201,42.7901,-87.954201,42.7901",
+    "geom:latitude":42.7901,
+    "geom:longitude":-87.954201,
+    "iso:country":"US",
+    "sg:address":"3047 S 27th St",
+    "sg:city":"Franksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 835 4850",
+    "sg:postcode":"53126",
+    "sg:province":"WI",
+    "sg:tags":[
+        "venue"
+    ],
+    "sg:website":"www.southhillscc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732315,
+        102081763,
+        85852195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UFMXbseSK6lmuxpsD6Y2Z_42.790100_-87.954201@1303262806"
+    },
+    "wof:country":"US",
+    "wof:created":1462607165,
+    "wof:geomhash":"3be35c46c79465a0477251ece4a3776c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081763,
+            "locality_id":101732315,
+            "neighbourhood_id":85852195,
+            "region_id":85688517,
+            "venue_id":807395115
+        }
+    ],
+    "wof:id":807395115,
+    "wof:lastmodified":1462607165,
+    "wof:name":"South Hills Country Club",
+    "wof:parent_id":85852195,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue"
+    ]
+},
+  "bbox": [
+    -87.954201,
+    42.7901,
+    -87.954201,
+    42.7901
+],
+  "geometry": {"coordinates":[-87.954201,42.7901],"type":"Point"}
+}

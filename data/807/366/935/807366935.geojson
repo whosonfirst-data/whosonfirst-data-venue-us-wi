@@ -1,0 +1,78 @@
+{
+  "id": 807366935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.061136,44.530362,-88.061136,44.530362",
+    "geom:latitude":44.530362,
+    "geom:longitude":-88.061136,
+    "iso:country":"US",
+    "sg:address":"1606 Shawano Ave",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/green-bay/145491-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 496 1651",
+    "sg:postcode":"54303",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877951,
+        102191575,
+        404491529,
+        85633793,
+        101732365,
+        102081867,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_738TNZaFMWJH4mxgF2S8bX_44.530362_-88.061136@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606752,
+    "wof:geomhash":"97500b6d5c33b934634c36297c405150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081867,
+            "localadmin_id":404491529,
+            "locality_id":101732365,
+            "neighbourhood_id":85877951,
+            "region_id":85688517,
+            "venue_id":807366935
+        }
+    ],
+    "wof:id":807366935,
+    "wof:lastmodified":1462606752,
+    "wof:name":"Subway",
+    "wof:parent_id":85877951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.061136,
+    44.530362,
+    -88.061136,
+    44.530362
+],
+  "geometry": {"coordinates":[-88.061136,44.530362],"type":"Point"}
+}

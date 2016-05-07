@@ -1,0 +1,72 @@
+{
+  "id": 789892253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.405513,43.159209,-89.405513,43.159209",
+    "geom:latitude":43.159209,
+    "geom:longitude":-89.405513,
+    "iso:country":"US",
+    "sg:address":"5341 W River Rd",
+    "sg:city":"Waunakee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 849 5410",
+    "sg:postcode":"53597",
+    "sg:province":"WI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "sg:website":"www.pharoheating.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85868279,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hINtMM4o0vZReMFUrGrEx_43.159209_-89.405513@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591386,
+    "wof:geomhash":"7447eb9f53e65408b18ad6951d9ba10a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85868279,
+            "region_id":85688517,
+            "venue_id":789892253
+        }
+    ],
+    "wof:id":789892253,
+    "wof:lastmodified":1462591386,
+    "wof:name":"Pharo Heating Co Inc",
+    "wof:parent_id":85868279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.405513,
+    43.159209,
+    -89.405513,
+    43.159209
+],
+  "geometry": {"coordinates":[-89.405513,43.159209],"type":"Point"}
+}

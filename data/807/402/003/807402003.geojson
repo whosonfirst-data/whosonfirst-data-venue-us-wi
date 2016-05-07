@@ -1,0 +1,93 @@
+{
+  "id": 807402003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.914497,42.871899,-87.914497,42.871899",
+    "geom:latitude":42.871899,
+    "geom:longitude":-87.914497,
+    "iso:country":"US",
+    "sg:address":"111 W Ryan Rd",
+    "sg:city":"Oak Creek",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 571 8666",
+    "sg:postcode":"53154",
+    "sg:province":"WI",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550071,
+        102191575,
+        404494177,
+        85633793,
+        101733079,
+        102081837,
+        85688517,
+        420550135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ao0h4HleXe7QRMO9RPnm9_42.871899_-87.914497@1303262807"
+    },
+    "wof:country":"US",
+    "wof:created":1462607329,
+    "wof:geomhash":"06794bd33db69cde511bd7917543780d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494177,
+            "locality_id":101733079,
+            "neighbourhood_id":420550071,
+            "region_id":85688517,
+            "venue_id":807402003
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494177,
+            "locality_id":101733079,
+            "neighbourhood_id":420550135,
+            "region_id":85688517,
+            "venue_id":807402003
+        }
+    ],
+    "wof:id":807402003,
+    "wof:lastmodified":1462607329,
+    "wof:name":"Great Lakes Mortgage Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -87.914497,
+    42.871899,
+    -87.914497,
+    42.871899
+],
+  "geometry": {"coordinates":[-87.914497,42.871899],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 807369079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.461178,44.788689,-91.461178,44.788689",
+    "geom:latitude":44.788689,
+    "geom:longitude":-91.461178,
+    "iso:country":"US",
+    "sg:address":"2907 Mall Dr",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/292992-little-ceasars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 830 4040",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dqXYDJKuaikkDgvNIQzQN_44.788689_-91.461178@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606778,
+    "wof:geomhash":"31f0fff55515950350483a8381562860",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807369079
+        }
+    ],
+    "wof:id":807369079,
+    "wof:lastmodified":1462606778,
+    "wof:name":"Little Ceasars Pizza",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.461178,
+    44.788689,
+    -91.461178,
+    44.788689
+],
+  "geometry": {"coordinates":[-91.461178,44.788689],"type":"Point"}
+}

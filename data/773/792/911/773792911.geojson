@@ -1,0 +1,71 @@
+{
+  "id": 773792911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.41592,44.225331,-88.41592,44.225331",
+    "geom:latitude":44.225331,
+    "geom:longitude":-88.41592,
+    "iso:country":"US",
+    "sg:address":"1504 Lucerne Dr",
+    "sg:city":"Menasha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 727 8001",
+    "sg:postcode":"54952",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732729,
+        102081801,
+        85807543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g6xEwCIQ0XcWMRaOPOkC0_44.225331_-88.415920@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588411,
+    "wof:geomhash":"521c87ae5b836b96206518e0bc2c2940",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101732729,
+            "neighbourhood_id":85807543,
+            "region_id":85688517,
+            "venue_id":773792911
+        }
+    ],
+    "wof:id":773792911,
+    "wof:lastmodified":1462588411,
+    "wof:name":"Affinity Medical Group Inc",
+    "wof:parent_id":85807543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.41592,
+    44.225331,
+    -88.41592,
+    44.225331
+],
+  "geometry": {"coordinates":[-88.41592,44.225331],"type":"Point"}
+}

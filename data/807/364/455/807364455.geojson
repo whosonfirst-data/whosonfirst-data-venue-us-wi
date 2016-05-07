@@ -1,0 +1,82 @@
+{
+  "id": 807364455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.407198,43.035308,-89.407198,43.035308",
+    "geom:latitude":43.035308,
+    "geom:longitude":-89.407198,
+    "iso:country":"US",
+    "sg:address":"1410 Damon Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/102358-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 251 7550",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SSopknl1Mh8nIyyPWwSEk_43.035308_-89.407198@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606713,
+    "wof:geomhash":"a36332b94bb081b1850bc23e8ef7efe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":807364455
+        }
+    ],
+    "wof:id":807364455,
+    "wof:lastmodified":1462606713,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -89.407198,
+    43.035308,
+    -89.407198,
+    43.035308
+],
+  "geometry": {"coordinates":[-89.40719799999999,43.035308],"type":"Point"}
+}

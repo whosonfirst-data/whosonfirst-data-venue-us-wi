@@ -1,0 +1,69 @@
+{
+  "id": 789609641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.050785,42.808111,-89.050785,42.808111",
+    "geom:latitude":42.808111,
+    "geom:longitude":-89.050785,
+    "iso:country":"US",
+    "sg:address":"550 E Applewood Rd",
+    "sg:city":"Edgerton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 868 7171",
+    "sg:postcode":"53534",
+    "sg:province":"WI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85836935,
+        102081829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CZfiWCRLi7UtHJcy7yxqf_42.808111_-89.050785@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589136,
+    "wof:geomhash":"a49649e0f0aef7fd530d2789c672ced9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "neighbourhood_id":85836935,
+            "region_id":85688517,
+            "venue_id":789609641
+        }
+    ],
+    "wof:id":789609641,
+    "wof:lastmodified":1462589136,
+    "wof:name":"Tougas Diesel Inc",
+    "wof:parent_id":85836935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -89.050785,
+    42.808111,
+    -89.050785,
+    42.808111
+],
+  "geometry": {"coordinates":[-89.050785,42.808111],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 807355243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.216484,43.42733,-88.216484,43.42733",
+    "geom:latitude":43.42733,
+    "geom:longitude":-88.216484,
+    "iso:country":"US",
+    "sg:address":"2510 W Washington St",
+    "sg:city":"West Bend",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/west-bend/7661-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 306 1068",
+    "sg:postcode":"53095",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859413,
+        102191575,
+        404495617,
+        85633793,
+        101732991,
+        102081745,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wlJlZ44KEHNSOpqWrTLbk_43.427330_-88.216484@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606580,
+    "wof:geomhash":"c1bdd6923d58c999d70fd8fed1b0f8d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081745,
+            "localadmin_id":404495617,
+            "locality_id":101732991,
+            "neighbourhood_id":85859413,
+            "region_id":85688517,
+            "venue_id":807355243
+        }
+    ],
+    "wof:id":807355243,
+    "wof:lastmodified":1462606580,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85859413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -88.216484,
+    43.42733,
+    -88.216484,
+    43.42733
+],
+  "geometry": {"coordinates":[-88.21648399999999,43.42733],"type":"Point"}
+}

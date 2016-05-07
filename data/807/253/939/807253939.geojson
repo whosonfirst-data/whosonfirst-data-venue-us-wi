@@ -1,0 +1,71 @@
+{
+  "id": 807253939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.697455,43.762978,-87.697455,43.762978",
+    "geom:latitude":43.762978,
+    "geom:longitude":-87.697455,
+    "iso:country":"US",
+    "sg:address":"28 N Point Dr",
+    "sg:city":"Sheboygan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 458 5582",
+    "sg:postcode":"53081",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85818209,
+        102081869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KEXOAXRilYXZXChnLh2bL_43.762978_-87.697455@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605368,
+    "wof:geomhash":"c19a07443c716e3675306390d9094272",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "neighbourhood_id":85818209,
+            "region_id":85688517,
+            "venue_id":807253939
+        }
+    ],
+    "wof:id":807253939,
+    "wof:lastmodified":1462605368,
+    "wof:name":"Paul R Bassewitz MD",
+    "wof:parent_id":85818209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.697455,
+    43.762978,
+    -87.697455,
+    43.762978
+],
+  "geometry": {"coordinates":[-87.69745500000001,43.762978],"type":"Point"}
+}

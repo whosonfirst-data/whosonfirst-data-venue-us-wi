@@ -1,0 +1,73 @@
+{
+  "id": 807300721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.220015,43.238806,-89.220015,43.238806",
+    "geom:latitude":43.238806,
+    "geom:longitude":-89.220015,
+    "iso:country":"US",
+    "sg:address":"2856 Vinburn Rd",
+    "sg:city":"Sun Prairie",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 837 5497",
+    "sg:postcode":"53590",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85852311,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GfKl5EBeyqhaIxQYyTcJE_43.238806_-89.220015@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605861,
+    "wof:geomhash":"44ce0ffbb6c636e7b24effd3d2dc4251",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85852311,
+            "region_id":85688517,
+            "venue_id":807300721
+        }
+    ],
+    "wof:id":807300721,
+    "wof:lastmodified":1462605861,
+    "wof:name":"Jacobson Trucking",
+    "wof:parent_id":85852311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.220015,
+    43.238806,
+    -89.220015,
+    43.238806
+],
+  "geometry": {"coordinates":[-89.220015,43.238806],"type":"Point"}
+}

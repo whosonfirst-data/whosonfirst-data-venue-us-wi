@@ -1,0 +1,71 @@
+{
+  "id": 807086779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.222602,43.173922,-89.222602,43.173922",
+    "geom:latitude":43.173922,
+    "geom:longitude":-89.222602,
+    "iso:country":"US",
+    "sg:address":"501 Marshview Dr",
+    "sg:city":"Sun Prairie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 825 6764",
+    "sg:postcode":"53590",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2btVeP49xQlCkUujCoiRLY_43.173922_-89.222602@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603586,
+    "wof:geomhash":"f29bcefaa03a3636b2dd22ad3c6a8ba0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":807086779
+        }
+    ],
+    "wof:id":807086779,
+    "wof:lastmodified":1462603586,
+    "wof:name":"Precision Automotive",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.222602,
+    43.173922,
+    -89.222602,
+    43.173922
+],
+  "geometry": {"coordinates":[-89.22260199999999,43.173922],"type":"Point"}
+}

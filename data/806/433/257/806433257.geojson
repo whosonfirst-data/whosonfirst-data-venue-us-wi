@@ -1,0 +1,71 @@
+{
+  "id": 806433257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.612802,44.02408,-88.612802,44.02408",
+    "geom:latitude":44.02408,
+    "geom:longitude":-88.612802,
+    "iso:country":"US",
+    "sg:address":"349 Forest View Rd",
+    "sg:city":"Oshkosh",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 233 3585",
+    "sg:postcode":"54904",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733459,
+        102081801,
+        85819403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YP82v9GCIc7I6l2flpIyk_44.024080_-88.612802@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462598111,
+    "wof:geomhash":"9f52a01e22a43858083e098765762191",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101733459,
+            "neighbourhood_id":85819403,
+            "region_id":85688517,
+            "venue_id":806433257
+        }
+    ],
+    "wof:id":806433257,
+    "wof:lastmodified":1462598111,
+    "wof:name":"Dr Charles D Morgan MD",
+    "wof:parent_id":85819403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.612802,
+    44.02408,
+    -88.612802,
+    44.02408
+],
+  "geometry": {"coordinates":[-88.612802,44.02408],"type":"Point"}
+}

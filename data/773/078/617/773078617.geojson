@@ -1,0 +1,71 @@
+{
+  "id": 773078617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.078871,45.028578,-90.078871,45.028578",
+    "geom:latitude":45.028578,
+    "geom:longitude":-90.078871,
+    "iso:country":"US",
+    "sg:address":"729 Pine St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 257 7521",
+    "sg:postcode":"54411",
+    "sg:province":"WI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64nWucff05SuB1cFQ2KnyF_45.028578_-90.078871@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462582994,
+    "wof:geomhash":"948f645f71177a0f14485ecb6eac6264",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":773078617
+        }
+    ],
+    "wof:id":773078617,
+    "wof:lastmodified":1462582994,
+    "wof:name":"Marshfield Clinic-Athens Ctr",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -90.078871,
+    45.028578,
+    -90.078871,
+    45.028578
+],
+  "geometry": {"coordinates":[-90.07887100000001,45.028578],"type":"Point"}
+}

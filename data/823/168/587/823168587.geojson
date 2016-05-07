@@ -1,0 +1,83 @@
+{
+  "id": 823168587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.0131,43.089929,-88.0131,43.089929",
+    "geom:latitude":43.089929,
+    "geom:longitude":-88.0131,
+    "iso:country":"US",
+    "sg:address":"8050 W Capitol Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 462 8880",
+    "sg:postcode":"53222",
+    "sg:province":"WI",
+    "sg:tags":[
+        "loan",
+        "mortgage"
+    ],
+    "sg:website":"http://www.bankmutual.proxy.calls.net/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870997,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rnZVmYjHzUVLDCRtr8DFB_43.089929_-88.013100@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607912,
+    "wof:geomhash":"6949d01cc83f5df2455ace09c6ebc2b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870997,
+            "region_id":85688517,
+            "venue_id":823168587
+        }
+    ],
+    "wof:id":823168587,
+    "wof:lastmodified":1462607912,
+    "wof:name":"Bank Mutual - Capitol Drive",
+    "wof:parent_id":85870997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -88.0131,
+    43.089929,
+    -88.0131,
+    43.089929
+],
+  "geometry": {"coordinates":[-88.01309999999999,43.089929],"type":"Point"}
+}

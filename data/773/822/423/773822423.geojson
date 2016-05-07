@@ -1,0 +1,84 @@
+{
+  "id": 773822423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.0423,42.730277,-89.0423,42.730277",
+    "geom:latitude":42.730277,
+    "geom:longitude":-89.0423,
+    "iso:country":"US",
+    "sg:address":"1908 US Hwy 14",
+    "sg:city":"Janesville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Dairy",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 756 1552",
+    "sg:postcode":"53545",
+    "sg:province":"WI",
+    "sg:tags":[
+        "fresh",
+        "grocery",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803103,
+        102191575,
+        404492347,
+        85633793,
+        101732837,
+        102081829,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5szrIdo2YM6BWwKIgIxeGD_42.730277_-89.042300@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588652,
+    "wof:geomhash":"d4c172d05df630f589e93e176818ba4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081829,
+            "localadmin_id":404492347,
+            "locality_id":101732837,
+            "neighbourhood_id":85803103,
+            "region_id":85688517,
+            "venue_id":773822423
+        }
+    ],
+    "wof:id":773822423,
+    "wof:lastmodified":1462588652,
+    "wof:name":"Country Quality Dairy Inc",
+    "wof:parent_id":85803103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fresh",
+        "grocery",
+        "product"
+    ]
+},
+  "bbox": [
+    -89.0423,
+    42.730277,
+    -89.0423,
+    42.730277
+],
+  "geometry": {"coordinates":[-89.0423,42.730277],"type":"Point"}
+}

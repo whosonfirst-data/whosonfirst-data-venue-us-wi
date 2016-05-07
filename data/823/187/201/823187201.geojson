@@ -1,0 +1,76 @@
+{
+  "id": 823187201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.29019,43.131749,-89.29019,43.131749",
+    "geom:latitude":43.131749,
+    "geom:longitude":-89.29019,
+    "iso:country":"US",
+    "sg:address":"2418 Crossroads Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 244 6691",
+    "sg:postcode":"53718",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shuttle",
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CHTKVqtb3dCYwrDzmv0tp_43.131749_-89.290190@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608158,
+    "wof:geomhash":"dabbb18e872a85ebc521a948380aeee8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":823187201
+        }
+    ],
+    "wof:id":823187201,
+    "wof:lastmodified":1462608158,
+    "wof:name":"Kristy's Limousine",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -89.29019,
+    43.131749,
+    -89.29019,
+    43.131749
+],
+  "geometry": {"coordinates":[-89.29019,43.131749],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806900829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.726691,45.092981,-89.726691,45.092981",
+    "geom:latitude":45.092981,
+    "geom:longitude":-89.726691,
+    "iso:country":"US",
+    "sg:address":"14285 72nd Ave",
+    "sg:city":"Merrill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 536 8557",
+    "sg:postcode":"54452",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6z2ybmk78vIJaESqidVXi0_45.092981_-89.726691@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602015,
+    "wof:geomhash":"9cbc4e9c493f2e7f6b70a72e79845205",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":806900829
+        }
+    ],
+    "wof:id":806900829,
+    "wof:lastmodified":1462602015,
+    "wof:name":"Countryside Animal Hospital",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -89.726691,
+    45.092981,
+    -89.726691,
+    45.092981
+],
+  "geometry": {"coordinates":[-89.726691,45.092981],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 807364785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.307095,43.062334,-89.307095,43.062334",
+    "geom:latitude":43.062334,
+    "geom:longitude":-89.307095,
+    "iso:country":"US",
+    "sg:address":"4416 Pflaum Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/145577-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 663 2460",
+    "sg:postcode":"53716",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878847,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DORuHCz6VK2MeMKVR2OFg_43.062334_-89.307095@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606717,
+    "wof:geomhash":"192e4f507a207867a4dd20b176e18c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878847,
+            "region_id":85688517,
+            "venue_id":807364785
+        }
+    ],
+    "wof:id":807364785,
+    "wof:lastmodified":1462606717,
+    "wof:name":"Subway",
+    "wof:parent_id":85878847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.307095,
+    43.062334,
+    -89.307095,
+    43.062334
+],
+  "geometry": {"coordinates":[-89.307095,43.062334],"type":"Point"}
+}

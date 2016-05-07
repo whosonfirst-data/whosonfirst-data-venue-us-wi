@@ -1,0 +1,75 @@
+{
+  "id": 789975561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.060373,42.844391,-89.060373,42.844391",
+    "geom:latitude":42.844391,
+    "geom:longitude":-89.060373,
+    "iso:country":"US",
+    "sg:address":"1020 N Main St",
+    "sg:city":"Edgerton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 884 3697",
+    "sg:postcode":"53534",
+    "sg:province":"WI",
+    "sg:tags":[
+        "automotive",
+        "station",
+        "tire",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85836935,
+        102081829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ygg52gD6cqiHjuvvsmB7l_42.844391_-89.060373@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592133,
+    "wof:geomhash":"96852f67f36c9c067f0d56e523651970",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "neighbourhood_id":85836935,
+            "region_id":85688517,
+            "venue_id":789975561
+        }
+    ],
+    "wof:id":789975561,
+    "wof:lastmodified":1462592133,
+    "wof:name":"Dennys Tire Den Inc",
+    "wof:parent_id":85836935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "station",
+        "tire",
+        "general"
+    ]
+},
+  "bbox": [
+    -89.060373,
+    42.844391,
+    -89.060373,
+    42.844391
+],
+  "geometry": {"coordinates":[-89.060373,42.844391],"type":"Point"}
+}

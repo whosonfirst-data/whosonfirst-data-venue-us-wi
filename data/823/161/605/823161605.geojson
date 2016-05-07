@@ -1,0 +1,83 @@
+{
+  "id": 823161605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.895958,43.103951,-87.895958,43.103951",
+    "geom:latitude":43.103951,
+    "geom:longitude":-87.895958,
+    "iso:country":"US",
+    "sg:address":"1200 E Hampton Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Senior",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 962 9950",
+    "sg:postcode":"53217",
+    "sg:province":"WI",
+    "sg:tags":[
+        "counseling",
+        "citizen"
+    ],
+    "sg:website":"http://www.interfaithmilw.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870821,
+        102191575,
+        404494165,
+        85633793,
+        101733065,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cwxvddGL5EkJB2WGo4l1W_43.103951_-87.895958@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607819,
+    "wof:geomhash":"430dd5f8c156d7acae53849ccb93133f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494165,
+            "locality_id":101733065,
+            "neighbourhood_id":85870821,
+            "region_id":85688517,
+            "venue_id":823161605
+        }
+    ],
+    "wof:id":823161605,
+    "wof:lastmodified":1462607819,
+    "wof:name":"Shoreline Interfaith",
+    "wof:parent_id":85870821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -87.895958,
+    43.103951,
+    -87.895958,
+    43.103951
+],
+  "geometry": {"coordinates":[-87.89595799999999,43.103951],"type":"Point"}
+}

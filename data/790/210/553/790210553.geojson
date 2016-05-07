@@ -1,0 +1,73 @@
+{
+  "id": 790210553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.15432,44.025022,-88.15432,44.025022",
+    "geom:latitude":44.025022,
+    "geom:longitude":-88.15432,
+    "iso:country":"US",
+    "sg:address":"614 Memorial Dr",
+    "sg:city":"Chilton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 727 4200",
+    "sg:postcode":"53014",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732735,
+        102081289,
+        85822647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02zOIevOPTzgKgTjrp3kMa_44.025022_-88.154320@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462594031,
+    "wof:geomhash":"ee32d225468b5664f1d4e139d86187e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081289,
+            "locality_id":101732735,
+            "neighbourhood_id":85822647,
+            "region_id":85688517,
+            "venue_id":790210553
+        }
+    ],
+    "wof:id":790210553,
+    "wof:lastmodified":1462594031,
+    "wof:name":"John Campbell MD",
+    "wof:parent_id":85822647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.15432,
+    44.025022,
+    -88.15432,
+    44.025022
+],
+  "geometry": {"coordinates":[-88.15432,44.025022],"type":"Point"}
+}

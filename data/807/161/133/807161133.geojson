@@ -1,0 +1,73 @@
+{
+  "id": 807161133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.64361,44.107428,-87.64361,44.107428",
+    "geom:latitude":44.107428,
+    "geom:longitude":-87.64361,
+    "iso:country":"US",
+    "sg:address":"930 Maritime Dr",
+    "sg:city":"Manitowoc",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 683 2122",
+    "sg:postcode":"54220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52AcR8bWduGLSpdJLfLqmf_44.107428_-87.643610@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604389,
+    "wof:geomhash":"c23da20f094d2e62fa7f27bfe95f8d00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":807161133
+        }
+    ],
+    "wof:id":807161133,
+    "wof:lastmodified":1462604389,
+    "wof:name":"Manitowoc Foot Health Ctr",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.64361,
+    44.107428,
+    -87.64361,
+    44.107428
+],
+  "geometry": {"coordinates":[-87.64361,44.107428],"type":"Point"}
+}

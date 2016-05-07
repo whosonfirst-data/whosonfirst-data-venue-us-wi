@@ -1,0 +1,86 @@
+{
+  "id": 823153931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.014029,43.053893,-88.014029,43.053893",
+    "geom:latitude":43.053893,
+    "geom:longitude":-88.014029,
+    "iso:country":"US",
+    "sg:address":"8146 Warren Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 258 7961",
+    "sg:postcode":"53213",
+    "sg:province":"WI",
+    "sg:tags":[
+        "forwarding",
+        "trucking",
+        "trucking-motor",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870835,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZMlxwqsuNXgZbbpBYZpK5_43.053893_-88.014029@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607718,
+    "wof:geomhash":"29209f32d2b0eb5908667ec1565d5292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870835,
+            "region_id":85688517,
+            "venue_id":823153931
+        }
+    ],
+    "wof:id":823153931,
+    "wof:lastmodified":1462607718,
+    "wof:name":"Schmidts Freight Consulting Service",
+    "wof:parent_id":85870835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forwarding",
+        "trucking",
+        "trucking-motor",
+        "broker"
+    ]
+},
+  "bbox": [
+    -88.014029,
+    43.053893,
+    -88.014029,
+    43.053893
+],
+  "geometry": {"coordinates":[-88.01402899999999,43.053893],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 807363701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.363274,43.107725,-89.363274,43.107725",
+    "geom:latitude":43.107725,
+    "geom:longitude":-89.363274,
+    "iso:country":"US",
+    "sg:address":"611 N Sherman Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/burke/261403-manna-cafe--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 663 5500",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878841,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f1pgCy1rO5gJax8KpoRNI_43.107725_-89.363274@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606704,
+    "wof:geomhash":"8003cc1184f58a89b2d2b4a82afdd10e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878841,
+            "region_id":85688517,
+            "venue_id":807363701
+        }
+    ],
+    "wof:id":807363701,
+    "wof:lastmodified":1462606704,
+    "wof:name":"Manna Cafe & Bakery",
+    "wof:parent_id":85878841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -89.363274,
+    43.107725,
+    -89.363274,
+    43.107725
+],
+  "geometry": {"coordinates":[-89.363274,43.107725],"type":"Point"}
+}

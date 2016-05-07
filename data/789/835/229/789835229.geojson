@@ -1,0 +1,71 @@
+{
+  "id": 789835229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.703535,44.121599,-87.703535,44.121599",
+    "geom:latitude":44.121599,
+    "geom:longitude":-87.703535,
+    "iso:country":"US",
+    "sg:address":"2023 Sharon Ln",
+    "sg:city":"Manitowoc",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 682 1180",
+    "sg:postcode":"54220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85827947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wBsfrcyPLmuUYVz5cs00H_44.121599_-87.703535@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590908,
+    "wof:geomhash":"6da520ff0a426794fcf4c6c3abf70727",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85827947,
+            "region_id":85688517,
+            "venue_id":789835229
+        }
+    ],
+    "wof:id":789835229,
+    "wof:lastmodified":1462590908,
+    "wof:name":"House of Hair Design",
+    "wof:parent_id":85827947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -87.703535,
+    44.121599,
+    -87.703535,
+    44.121599
+],
+  "geometry": {"coordinates":[-87.703535,44.121599],"type":"Point"}
+}

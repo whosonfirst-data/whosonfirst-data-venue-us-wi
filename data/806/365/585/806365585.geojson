@@ -1,0 +1,71 @@
+{
+  "id": 806365585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.623428,44.964825,-89.623428,44.964825",
+    "geom:latitude":44.964825,
+    "geom:longitude":-89.623428,
+    "iso:country":"US",
+    "sg:address":"512 Fulton St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 848 4049",
+    "sg:postcode":"54403",
+    "sg:province":"WI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SZaIifcSX9i8sOcwIMg1D_44.964825_-89.623428@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462597546,
+    "wof:geomhash":"b0f1757f5e157379d7ec1434f0dac9f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":806365585
+        }
+    ],
+    "wof:id":806365585,
+    "wof:lastmodified":1462597546,
+    "wof:name":"Automotive Images Inc",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -89.623428,
+    44.964825,
+    -89.623428,
+    44.964825
+],
+  "geometry": {"coordinates":[-89.623428,44.964825],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 807380089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.987,43.283401,-87.987,43.283401",
+    "geom:latitude":43.283401,
+    "geom:longitude":-87.987,
+    "iso:country":"US",
+    "sg:address":"W62N218 Washington Ave",
+    "sg:city":"Cedarburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 377 2031",
+    "sg:postcode":"53012",
+    "sg:province":"WI",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823669,
+        102191575,
+        404495099,
+        85633793,
+        101732533,
+        102081873,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1av02E34RlPner9Y6wDG3m_43.283401_-87.987000@1303262805"
+    },
+    "wof:country":"US",
+    "wof:created":1462606921,
+    "wof:geomhash":"5f0a0529decba86519c73568144be90f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081873,
+            "localadmin_id":404495099,
+            "locality_id":101732533,
+            "neighbourhood_id":85823669,
+            "region_id":85688517,
+            "venue_id":807380089
+        }
+    ],
+    "wof:id":807380089,
+    "wof:lastmodified":1462606921,
+    "wof:name":"Children's World Learning Centers",
+    "wof:parent_id":85823669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -87.987,
+    43.283401,
+    -87.987,
+    43.283401
+],
+  "geometry": {"coordinates":[-87.98699999999999,43.283401],"type":"Point"}
+}

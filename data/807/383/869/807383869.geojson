@@ -1,0 +1,91 @@
+{
+  "id": 807383869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.961334,43.308698,-87.961334,43.308698",
+    "geom:latitude":43.308698,
+    "geom:longitude":-87.961334,
+    "iso:country":"US",
+    "sg:address":"301 Falls Rd Stop 1",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 376 5234",
+    "sg:postcode":"53024",
+    "sg:province":"WI",
+    "sg:tags":[
+        "beer",
+        "drugstore",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823669,
+        102191575,
+        404495099,
+        85633793,
+        101732533,
+        102081873,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05K8Tupc0AE67JgkNaaElz_43.308698_-87.961334@1303262805"
+    },
+    "wof:country":"US",
+    "wof:created":1462606983,
+    "wof:geomhash":"2453241c6cbbc5cb10e70e9ae3d568eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081873,
+            "localadmin_id":404495099,
+            "locality_id":101732533,
+            "neighbourhood_id":85823669,
+            "region_id":85688517,
+            "venue_id":807383869
+        }
+    ],
+    "wof:id":807383869,
+    "wof:lastmodified":1462606983,
+    "wof:name":"Pick'n Save",
+    "wof:parent_id":85823669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "drugstore",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -87.961334,
+    43.308698,
+    -87.961334,
+    43.308698
+],
+  "geometry": {"coordinates":[-87.96133399999999,43.308698],"type":"Point"}
+}

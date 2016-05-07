@@ -1,0 +1,73 @@
+{
+  "id": 807065323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.458219,44.797182,-91.458219,44.797182",
+    "geom:latitude":44.797182,
+    "geom:longitude":-91.458219,
+    "iso:country":"US",
+    "sg:address":"1260 Otter Rd",
+    "sg:city":"Altoona",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 834 4515",
+    "sg:postcode":"54720",
+    "sg:province":"WI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xEx9R3wAxJ4adUFTUbJVX_44.797182_-91.458219@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603410,
+    "wof:geomhash":"04946cf26c222d1bb6c83c99edc6264d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807065323
+        }
+    ],
+    "wof:id":807065323,
+    "wof:lastmodified":1462603410,
+    "wof:name":"Aerco Auto Body Inc",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.458219,
+    44.797182,
+    -91.458219,
+    44.797182
+],
+  "geometry": {"coordinates":[-91.458219,44.797182],"type":"Point"}
+}

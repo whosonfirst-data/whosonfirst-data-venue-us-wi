@@ -1,0 +1,72 @@
+{
+  "id": 807369509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.506223,44.80236,-91.506223,44.80236",
+    "geom:latitude":44.80236,
+    "geom:longitude":-91.506223,
+    "iso:country":"US",
+    "sg:address":"320 Water St",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/293004-new-york-pizza--deli/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 835 5000",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bhdKHlrNhpPNYbFnWebfw_44.802360_-91.506223@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606783,
+    "wof:geomhash":"fc58b15065268839d669d3d97ade1ddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807369509
+        }
+    ],
+    "wof:id":807369509,
+    "wof:lastmodified":1462606783,
+    "wof:name":"New York Pizza & Deli",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.506223,
+    44.80236,
+    -91.506223,
+    44.80236
+],
+  "geometry": {"coordinates":[-91.50622300000001,44.80236],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 823143361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.896332,43.016681,-87.896332,43.016681",
+    "geom:latitude":43.016681,
+    "geom:longitude":-87.896332,
+    "iso:country":"US",
+    "sg:address":"1200 S Lincoln Memorial Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 769 2900",
+    "sg:postcode":"53207",
+    "sg:province":"WI",
+    "sg:tags":[
+        "ship",
+        "fueling",
+        "terminals-river"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85870891,
+        102081837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kbduWmvVK83n02onG9bFM_43.016681_-87.896332@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607584,
+    "wof:geomhash":"1f316e838e3046ee673ab81aaa86523f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081837,
+            "neighbourhood_id":85870891,
+            "region_id":85688517,
+            "venue_id":823143361
+        }
+    ],
+    "wof:id":823143361,
+    "wof:lastmodified":1462607584,
+    "wof:name":"Federal Marine Terminals, Inc",
+    "wof:parent_id":85870891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ship",
+        "fueling",
+        "terminals-river"
+    ]
+},
+  "bbox": [
+    -87.896332,
+    43.016681,
+    -87.896332,
+    43.016681
+],
+  "geometry": {"coordinates":[-87.896332,43.016681],"type":"Point"}
+}

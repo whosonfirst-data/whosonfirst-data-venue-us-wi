@@ -1,0 +1,75 @@
+{
+  "id": 789958299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.397318,43.074214,-89.397318,43.074214",
+    "geom:latitude":43.074214,
+    "geom:longitude":-89.397318,
+    "iso:country":"US",
+    "sg:address":"441 N Lake St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 257 1831",
+    "sg:postcode":"53715",
+    "sg:province":"WI",
+    "sg:tags":[
+        "fast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878887,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m9LdeneNxTFTfnC03vMPv_43.074214_-89.397318@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591983,
+    "wof:geomhash":"f86e648d83e5f616e9da1253492a7016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878887,
+            "region_id":85688517,
+            "venue_id":789958299
+        }
+    ],
+    "wof:id":789958299,
+    "wof:lastmodified":1462591983,
+    "wof:name":"McDonalds",
+    "wof:parent_id":85878887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fast"
+    ]
+},
+  "bbox": [
+    -89.397318,
+    43.074214,
+    -89.397318,
+    43.074214
+],
+  "geometry": {"coordinates":[-89.397318,43.074214],"type":"Point"}
+}

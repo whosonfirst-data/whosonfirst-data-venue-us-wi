@@ -1,0 +1,71 @@
+{
+  "id": 790307291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.24712,44.764627,-91.24712,44.764627",
+    "geom:latitude":44.764627,
+    "geom:longitude":-91.24712,
+    "iso:country":"US",
+    "sg:address":"655 E Lincoln Ave",
+    "sg:city":"Fall Creek",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 877 3414",
+    "sg:postcode":"54742",
+    "sg:province":"WI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6frx7jj2wY9SNX1B7KVfAz_44.764627_-91.247120@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462594824,
+    "wof:geomhash":"a2b7add57384e24871ee2b8b626366be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":790307291
+        }
+    ],
+    "wof:id":790307291,
+    "wof:lastmodified":1462594824,
+    "wof:name":"Lincoln Avenue Auto",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -91.24712,
+    44.764627,
+    -91.24712,
+    44.764627
+],
+  "geometry": {"coordinates":[-91.24712,44.764627],"type":"Point"}
+}

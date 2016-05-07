@@ -1,0 +1,72 @@
+{
+  "id": 807362969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.231414,43.186493,-89.231414,43.186493",
+    "geom:latitude":43.186493,
+    "geom:longitude":-89.231414,
+    "iso:country":"US",
+    "sg:address":"1070 Emerald Ter",
+    "sg:city":"Sun Prairie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/sun-prairie/181467-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 923 2321",
+    "sg:postcode":"53590",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XHWSVHA5JBpAbvMQOO7sZ_43.186493_-89.231414@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606695,
+    "wof:geomhash":"9d46de5fd01420d0ce0e71f87a473f92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":807362969
+        }
+    ],
+    "wof:id":807362969,
+    "wof:lastmodified":1462606695,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -89.231414,
+    43.186493,
+    -89.231414,
+    43.186493
+],
+  "geometry": {"coordinates":[-89.231414,43.186493],"type":"Point"}
+}

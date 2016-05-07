@@ -1,0 +1,71 @@
+{
+  "id": 789706181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.291314,43.135912,-89.291314,43.135912",
+    "geom:latitude":43.135912,
+    "geom:longitude":-89.291314,
+    "iso:country":"US",
+    "sg:address":"5202 High Crossing Blvd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 242 2117",
+    "sg:postcode":"53718",
+    "sg:province":"WI",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K5sJt8annaIKiKfGnKcms_43.135912_-89.291314@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589901,
+    "wof:geomhash":"0cf536083dfba1e701a7a39be03c4695",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":789706181
+        }
+    ],
+    "wof:id":789706181,
+    "wof:lastmodified":1462589901,
+    "wof:name":"Eastgate Cinemas",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [
+    -89.291314,
+    43.135912,
+    -89.291314,
+    43.135912
+],
+  "geometry": {"coordinates":[-89.291314,43.135912],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 807367337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.001098,44.471182,-88.001098,44.471182",
+    "geom:latitude":44.471182,
+    "geom:longitude":-88.001098,
+    "iso:country":"US",
+    "sg:address":"1390 Bellevue St",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/bellevue/145489-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 468 8470",
+    "sg:postcode":"54311",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877933,
+        102191575,
+        404492847,
+        85633793,
+        101732359,
+        102081867,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xsLHkrFlTOeLVymywnD9w_44.471182_-88.001098@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606757,
+    "wof:geomhash":"663813dee9f882d6a1cb7f7ab1dafd83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081867,
+            "localadmin_id":404492847,
+            "locality_id":101732359,
+            "neighbourhood_id":85877933,
+            "region_id":85688517,
+            "venue_id":807367337
+        }
+    ],
+    "wof:id":807367337,
+    "wof:lastmodified":1462606757,
+    "wof:name":"Subway",
+    "wof:parent_id":85877933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.001098,
+    44.471182,
+    -88.001098,
+    44.471182
+],
+  "geometry": {"coordinates":[-88.001098,44.471182],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 807380617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.987553,43.297125,-87.987553,43.297125",
+    "geom:latitude":43.297125,
+    "geom:longitude":-87.987553,
+    "iso:country":"US",
+    "sg:address":"W62N630 Washington Ave",
+    "sg:city":"Cedarburg",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bicycle Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 618 4640",
+    "sg:postcode":"53012",
+    "sg:province":"WI",
+    "sg:tags":[
+        "boating",
+        "bike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823669,
+        102191575,
+        404495099,
+        85633793,
+        101732533,
+        102081873,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13FVa2A6oOPRbepGND5Aon_43.297125_-87.987553@1303262805"
+    },
+    "wof:country":"US",
+    "wof:created":1462606927,
+    "wof:geomhash":"9eeb866ccfa9256d6a85c697404205e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081873,
+            "localadmin_id":404495099,
+            "locality_id":101732533,
+            "neighbourhood_id":85823669,
+            "region_id":85688517,
+            "venue_id":807380617
+        }
+    ],
+    "wof:id":807380617,
+    "wof:lastmodified":1462606927,
+    "wof:name":"Local Motion Outfitters",
+    "wof:parent_id":85823669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boating",
+        "bike"
+    ]
+},
+  "bbox": [
+    -87.987553,
+    43.297125,
+    -87.987553,
+    43.297125
+],
+  "geometry": {"coordinates":[-87.98755300000001,43.297125],"type":"Point"}
+}

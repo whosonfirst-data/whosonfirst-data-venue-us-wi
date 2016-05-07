@@ -1,0 +1,81 @@
+{
+  "id": 790110145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.004937,44.510459,-88.004937,44.510459",
+    "geom:latitude":44.510459,
+    "geom:longitude":-88.004937,
+    "iso:country":"US",
+    "sg:address":"915 E Walnut St",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 431 9007",
+    "sg:postcode":"54301",
+    "sg:province":"WI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877947,
+        102191575,
+        404491529,
+        85633793,
+        101732365,
+        102081867,
+        85688517,
+        85877935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WOKQ9lQBnnrzppfHbCbCX_44.510459_-88.004937@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462593220,
+    "wof:geomhash":"e80ced6d388f9f2f52c368ae6408a13a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081867,
+            "localadmin_id":404491529,
+            "locality_id":101732365,
+            "neighbourhood_id":85877947,
+            "region_id":85688517,
+            "venue_id":790110145
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081867,
+            "localadmin_id":404491529,
+            "locality_id":101732365,
+            "neighbourhood_id":85877935,
+            "region_id":85688517,
+            "venue_id":790110145
+        }
+    ],
+    "wof:id":790110145,
+    "wof:lastmodified":1462593220,
+    "wof:name":"Studio Flowers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.004937,
+    44.510459,
+    -88.004937,
+    44.510459
+],
+  "geometry": {"coordinates":[-88.004937,44.510459],"type":"Point"}
+}

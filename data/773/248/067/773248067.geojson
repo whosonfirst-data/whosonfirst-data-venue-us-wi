@@ -1,0 +1,71 @@
+{
+  "id": 773248067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.527192,44.788548,-91.527192,44.788548",
+    "geom:latitude":44.788548,
+    "geom:longitude":-91.527192,
+    "iso:country":"US",
+    "sg:address":"2720 Arbor Ct",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 835 1392",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85848105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NEb5IStCnILozfb9eiM95_44.788548_-91.527192@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584271,
+    "wof:geomhash":"67546eb383b3d7af53f2bcbd36348de1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85848105,
+            "region_id":85688517,
+            "venue_id":773248067
+        }
+    ],
+    "wof:id":773248067,
+    "wof:lastmodified":1462584271,
+    "wof:name":"Single Source Transportation",
+    "wof:parent_id":85848105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.527192,
+    44.788548,
+    -91.527192,
+    44.788548
+],
+  "geometry": {"coordinates":[-91.527192,44.788548],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789980853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.070628,42.640865,-89.070628,42.640865",
+    "geom:latitude":42.640865,
+    "geom:longitude":-89.070628,
+    "iso:country":"US",
+    "sg:address":"2829 S Co Rd D",
+    "sg:city":"Janesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 754 3435",
+    "sg:postcode":"53548",
+    "sg:province":"WI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85825897,
+        102081829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ARiRQjmRfUsG85s5GK4D5_42.640865_-89.070628@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592173,
+    "wof:geomhash":"2b66a0aed8a3fd5a95dfd14dd1782ded",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "neighbourhood_id":85825897,
+            "region_id":85688517,
+            "venue_id":789980853
+        }
+    ],
+    "wof:id":789980853,
+    "wof:lastmodified":1462592173,
+    "wof:name":"Morris Body Shop Inc",
+    "wof:parent_id":85825897,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -89.070628,
+    42.640865,
+    -89.070628,
+    42.640865
+],
+  "geometry": {"coordinates":[-89.070628,42.640865],"type":"Point"}
+}

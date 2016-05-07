@@ -1,0 +1,71 @@
+{
+  "id": 807227113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.338159,44.887378,-89.338159,44.887378",
+    "geom:latitude":44.887378,
+    "geom:longitude":-89.338159,
+    "iso:country":"US",
+    "sg:address":"300 Clark St",
+    "sg:city":"Hatley",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 446 2532",
+    "sg:postcode":"54440",
+    "sg:province":"WI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85854809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0phxS0hoJ6GflYhSoRTXcH_44.887378_-89.338159@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605086,
+    "wof:geomhash":"4890eefe2aae76edcf1795407fb054d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85854809,
+            "region_id":85688517,
+            "venue_id":807227113
+        }
+    ],
+    "wof:id":807227113,
+    "wof:lastmodified":1462605086,
+    "wof:name":"Hatley Area Fire & Ambulance",
+    "wof:parent_id":85854809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -89.338159,
+    44.887378,
+    -89.338159,
+    44.887378
+],
+  "geometry": {"coordinates":[-89.338159,44.887378],"type":"Point"}
+}

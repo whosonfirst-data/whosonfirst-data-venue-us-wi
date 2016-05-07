@@ -1,0 +1,71 @@
+{
+  "id": 789760131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.941522,43.338425,-87.941522,43.338425",
+    "geom:latitude":43.338425,
+    "geom:longitude":-87.941522,
+    "iso:country":"US",
+    "sg:address":"1434 E Cedar Creek Rd",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 375 9173",
+    "sg:postcode":"53024",
+    "sg:province":"WI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85852983,
+        102081873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ewXOx0iIvPkn3A1FmzARV_43.338425_-87.941522@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590329,
+    "wof:geomhash":"0dffa15a1b80739ebfb94c5fdec4ed20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081873,
+            "neighbourhood_id":85852983,
+            "region_id":85688517,
+            "venue_id":789760131
+        }
+    ],
+    "wof:id":789760131,
+    "wof:lastmodified":1462590329,
+    "wof:name":"Jds Properties",
+    "wof:parent_id":85852983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -87.941522,
+    43.338425,
+    -87.941522,
+    43.338425
+],
+  "geometry": {"coordinates":[-87.94152200000001,43.338425],"type":"Point"}
+}

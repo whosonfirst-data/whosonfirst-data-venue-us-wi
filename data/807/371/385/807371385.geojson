@@ -1,0 +1,72 @@
+{
+  "id": 807371385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.376104,44.24398,-88.376104,44.24398",
+    "geom:latitude":44.24398,
+    "geom:longitude":-88.376104,
+    "iso:country":"US",
+    "sg:address":"2700 E Calumet St",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/appleton/77447-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 739 7676",
+    "sg:postcode":"54915",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85813523,
+        102081289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dqC4NasakCnubxBrNEkCv_44.243980_-88.376104@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606809,
+    "wof:geomhash":"6ee5d8bae29ba08d37be8912438b34ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081289,
+            "neighbourhood_id":85813523,
+            "region_id":85688517,
+            "venue_id":807371385
+        }
+    ],
+    "wof:id":807371385,
+    "wof:lastmodified":1462606809,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85813523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.376104,
+    44.24398,
+    -88.376104,
+    44.24398
+],
+  "geometry": {"coordinates":[-88.376104,44.24398],"type":"Point"}
+}

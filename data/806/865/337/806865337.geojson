@@ -1,0 +1,73 @@
+{
+  "id": 806865337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.334022,43.007797,-89.334022,43.007797",
+    "geom:latitude":43.007797,
+    "geom:longitude":-89.334022,
+    "iso:country":"US",
+    "sg:address":"3006 Waubesa Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 221 8242",
+    "sg:postcode":"53711",
+    "sg:province":"WI",
+    "sg:tags":[
+        "pharmaceutical",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QNboNbLzcrDtPOeq07aSB_43.007797_-89.334022@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601736,
+    "wof:geomhash":"b5f8b6221a492506a0d8ba33bb403eb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":806865337
+        }
+    ],
+    "wof:id":806865337,
+    "wof:lastmodified":1462601736,
+    "wof:name":"Roche Laboratory",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -89.334022,
+    43.007797,
+    -89.334022,
+    43.007797
+],
+  "geometry": {"coordinates":[-89.334022,43.007797],"type":"Point"}
+}

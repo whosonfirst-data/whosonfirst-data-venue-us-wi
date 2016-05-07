@@ -1,0 +1,76 @@
+{
+  "id": 807364879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.503433,43.060551,-89.503433,43.060551",
+    "geom:latitude":43.060551,
+    "geom:longitude":-89.503433,
+    "iso:country":"US",
+    "sg:address":"7017 Mineral Point Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/14013-olive-garden-italian-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 829 1158",
+    "sg:postcode":"53717",
+    "sg:province":"WI",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834009,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pfodHDU1ccRVNYWmKHNrP_43.060551_-89.503433@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606718,
+    "wof:geomhash":"1129d88d6b3d0da45eb1ad2acec164dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85834009,
+            "region_id":85688517,
+            "venue_id":807364879
+        }
+    ],
+    "wof:id":807364879,
+    "wof:lastmodified":1462606718,
+    "wof:name":"Olive Garden Italian Restaurant",
+    "wof:parent_id":85834009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -89.503433,
+    43.060551,
+    -89.503433,
+    43.060551
+],
+  "geometry": {"coordinates":[-89.503433,43.060551],"type":"Point"}
+}

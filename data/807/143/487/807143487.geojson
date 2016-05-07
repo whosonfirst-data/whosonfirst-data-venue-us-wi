@@ -1,0 +1,71 @@
+{
+  "id": 807143487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.302786,43.038361,-89.302786,43.038361",
+    "geom:latitude":43.038361,
+    "geom:longitude":-89.302786,
+    "iso:country":"US",
+    "sg:address":"4121 Terminal Dr",
+    "sg:city":"Mc Farland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 255 4990",
+    "sg:postcode":"53558",
+    "sg:province":"WI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H01jNXbloXif8wO9qRtct_43.038361_-89.302786@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604198,
+    "wof:geomhash":"79611f0c7f5c68772b0b57aa14b58e24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":807143487
+        }
+    ],
+    "wof:id":807143487,
+    "wof:lastmodified":1462604198,
+    "wof:name":"Mc Farland Truck & Auto Body",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -89.302786,
+    43.038361,
+    -89.302786,
+    43.038361
+],
+  "geometry": {"coordinates":[-89.302786,43.038361],"type":"Point"}
+}

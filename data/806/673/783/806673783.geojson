@@ -1,0 +1,71 @@
+{
+  "id": 806673783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.508695,44.786857,-91.508695,44.786857",
+    "geom:latitude":44.786857,
+    "geom:longitude":-91.508695,
+    "iso:country":"US",
+    "sg:address":"3213 Stein Blvd",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 832 1700",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QT8huuAhuxzBNPLLX2RvQ_44.786857_-91.508695@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462600114,
+    "wof:geomhash":"33d44c810550b992c7febd22066195fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":806673783
+        }
+    ],
+    "wof:id":806673783,
+    "wof:lastmodified":1462600114,
+    "wof:name":"John P Drawbert MD SC",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -91.508695,
+    44.786857,
+    -91.508695,
+    44.786857
+],
+  "geometry": {"coordinates":[-91.508695,44.786857],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 823146933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.930428,43.118869,-87.930428,43.118869",
+    "geom:latitude":43.118869,
+    "geom:longitude":-87.930428,
+    "iso:country":"US",
+    "sg:address":"1620 W Silver Spring Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 228 1450",
+    "sg:postcode":"53209",
+    "sg:province":"WI",
+    "sg:tags":[
+        "car",
+        "truck",
+        "new"
+    ],
+    "sg:website":"http://www.andrewtoyota.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870821,
+        102191575,
+        404494165,
+        85633793,
+        101733065,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rsmbe6Mqx8dm89McG4gV3_43.118869_-87.930428@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607631,
+    "wof:geomhash":"8753a991f0aa2358953ed66069f3dd1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494165,
+            "locality_id":101733065,
+            "neighbourhood_id":85870821,
+            "region_id":85688517,
+            "venue_id":823146933
+        }
+    ],
+    "wof:id":823146933,
+    "wof:lastmodified":1462607631,
+    "wof:name":"Andrew Toyota",
+    "wof:parent_id":85870821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "truck",
+        "new"
+    ]
+},
+  "bbox": [
+    -87.930428,
+    43.118869,
+    -87.930428,
+    43.118869
+],
+  "geometry": {"coordinates":[-87.93042800000001,43.118869],"type":"Point"}
+}

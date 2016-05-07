@@ -1,0 +1,71 @@
+{
+  "id": 806729309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.43818,44.785569,-91.43818,44.785569",
+    "geom:latitude":44.785569,
+    "geom:longitude":-91.43818,
+    "iso:country":"US",
+    "sg:address":"4601 E Hamilton Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 834 6868",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yveVxnBEluZFxchNgGrJD_44.785569_-91.438180@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462600576,
+    "wof:geomhash":"3dfa6c62eba62a652552734426690d56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":806729309
+        }
+    ],
+    "wof:id":806729309,
+    "wof:lastmodified":1462600576,
+    "wof:name":"Township Fire Dept",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.43818,
+    44.785569,
+    -91.43818,
+    44.785569
+],
+  "geometry": {"coordinates":[-91.43818,44.785569],"type":"Point"}
+}

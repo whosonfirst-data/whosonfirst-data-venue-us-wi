@@ -1,0 +1,71 @@
+{
+  "id": 790521123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.038294,44.951552,-91.038294,44.951552",
+    "geom:latitude":44.951552,
+    "geom:longitude":-91.038294,
+    "iso:country":"US",
+    "sg:address":"608 E Murray St",
+    "sg:city":"Boyd",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 667 3513",
+    "sg:postcode":"54726",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732557,
+        102081787,
+        85837071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mmXCgXsoNMrOCC7s5WU8W_44.951552_-91.038294@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462596551,
+    "wof:geomhash":"fede54c884f007e012a94c23448cbbd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081787,
+            "locality_id":101732557,
+            "neighbourhood_id":85837071,
+            "region_id":85688517,
+            "venue_id":790521123
+        }
+    ],
+    "wof:id":790521123,
+    "wof:lastmodified":1462596551,
+    "wof:name":"Stanley Veterinary Svc",
+    "wof:parent_id":85837071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -91.038294,
+    44.951552,
+    -91.038294,
+    44.951552
+],
+  "geometry": {"coordinates":[-91.03829399999999,44.951552],"type":"Point"}
+}

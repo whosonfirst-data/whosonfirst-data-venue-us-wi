@@ -1,0 +1,71 @@
+{
+  "id": 773827261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.494943,43.095826,-89.494943,43.095826",
+    "geom:latitude":43.095826,
+    "geom:longitude":-89.494943,
+    "iso:country":"US",
+    "sg:address":"6617 University Ave",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 836 8761",
+    "sg:postcode":"53562",
+    "sg:province":"WI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732813,
+        102081795,
+        85841479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11MVoRomgnrmgKV7G0iLPR_43.095826_-89.494943@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588698,
+    "wof:geomhash":"ab9cd1d1d863cf7b30cc06c11959cb94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732813,
+            "neighbourhood_id":85841479,
+            "region_id":85688517,
+            "venue_id":773827261
+        }
+    ],
+    "wof:id":773827261,
+    "wof:lastmodified":1462588698,
+    "wof:name":"Middleton Cleaners",
+    "wof:parent_id":85841479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -89.494943,
+    43.095826,
+    -89.494943,
+    43.095826
+],
+  "geometry": {"coordinates":[-89.49494300000001,43.095826],"type":"Point"}
+}

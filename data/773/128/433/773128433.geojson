@@ -1,0 +1,73 @@
+{
+  "id": 773128433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.203732,43.888404,-91.203732,43.888404",
+    "geom:latitude":43.888404,
+    "geom:longitude":-91.203732,
+    "iso:country":"US",
+    "sg:address":"2110 Evenson Dr",
+    "sg:city":"Onalaska",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 796 8151",
+    "sg:postcode":"54650",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732663,
+        102081301,
+        85825891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q9J1kbaCzZ36dPxAymuX2_43.888404_-91.203732@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583350,
+    "wof:geomhash":"1170ee8bcf25fd87eee4d923947c1fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732663,
+            "neighbourhood_id":85825891,
+            "region_id":85688517,
+            "venue_id":773128433
+        }
+    ],
+    "wof:id":773128433,
+    "wof:lastmodified":1462583350,
+    "wof:name":"Gundersen Lutheran",
+    "wof:parent_id":85825891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.203732,
+    43.888404,
+    -91.203732,
+    43.888404
+],
+  "geometry": {"coordinates":[-91.203732,43.888404],"type":"Point"}
+}

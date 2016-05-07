@@ -1,0 +1,84 @@
+{
+  "id": 773383603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.205527,46.439743,-90.205527,46.439743",
+    "geom:latitude":46.439743,
+    "geom:longitude":-90.205527,
+    "iso:country":"US",
+    "sg:address":"335 Ringle St",
+    "sg:city":"Hurley",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 561 3555",
+    "sg:postcode":"54534",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "concrete",
+        "local",
+        "mixed",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951281,
+        102083009,
+        85837125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tb1BC3puFJNbLZjvKnCs0_46.439743_-90.205527@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585276,
+    "wof:geomhash":"50a4a6195e310792ab8d2a43d80dc251",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083009,
+            "locality_id":85951281,
+            "neighbourhood_id":85837125,
+            "region_id":85688599,
+            "venue_id":773383603
+        }
+    ],
+    "wof:id":773383603,
+    "wof:lastmodified":1462585276,
+    "wof:name":"Northern Lakes Concrete Inc",
+    "wof:parent_id":85837125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "concrete",
+        "local",
+        "mixed",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.205527,
+    46.439743,
+    -90.205527,
+    46.439743
+],
+  "geometry": {"coordinates":[-90.205527,46.439743],"type":"Point"}
+}

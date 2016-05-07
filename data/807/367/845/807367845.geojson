@@ -1,0 +1,76 @@
+{
+  "id": 807367845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.603706,44.910913,-89.603706,44.910913",
+    "geom:latitude":44.910913,
+    "geom:longitude":-89.603706,
+    "iso:country":"US",
+    "sg:address":"1518 Metro Dr",
+    "sg:city":"Schofield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/schofield/85829-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 359 3030",
+    "sg:postcode":"54476",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85854809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6odTDTd86k6cvhEs3WCeRl_44.910913_-89.603706@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606763,
+    "wof:geomhash":"ea1fdfcb8c70ad3f9b1b31b3d67f7434",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85854809,
+            "region_id":85688517,
+            "venue_id":807367845
+        }
+    ],
+    "wof:id":807367845,
+    "wof:lastmodified":1462606763,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85854809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.603706,
+    44.910913,
+    -89.603706,
+    44.910913
+],
+  "geometry": {"coordinates":[-89.603706,44.910913],"type":"Point"}
+}

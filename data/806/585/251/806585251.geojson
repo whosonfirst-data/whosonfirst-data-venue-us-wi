@@ -1,0 +1,71 @@
+{
+  "id": 806585251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.259631,44.729805,-90.259631,44.729805",
+    "geom:latitude":44.729805,
+    "geom:longitude":-90.259631,
+    "iso:country":"US",
+    "sg:address":"3118 State Hwy 13",
+    "sg:city":"Spencer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 659 3884",
+    "sg:postcode":"54479",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85832133,
+        102081881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20eGBNxZOZABgDy8EpcJBU_44.729805_-90.259631@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462599356,
+    "wof:geomhash":"7c40adac3d693cce587bd93bc654a399",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "neighbourhood_id":85832133,
+            "region_id":85688517,
+            "venue_id":806585251
+        }
+    ],
+    "wof:id":806585251,
+    "wof:lastmodified":1462599356,
+    "wof:name":"Jim's Transmission Svc",
+    "wof:parent_id":85832133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.259631,
+    44.729805,
+    -90.259631,
+    44.729805
+],
+  "geometry": {"coordinates":[-90.259631,44.729805],"type":"Point"}
+}

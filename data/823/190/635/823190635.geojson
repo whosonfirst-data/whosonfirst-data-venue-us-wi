@@ -1,0 +1,83 @@
+{
+  "id": 823190635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.641929,44.948391,-89.641929,44.948391",
+    "geom:latitude":44.948391,
+    "geom:longitude":-89.641929,
+    "iso:country":"US",
+    "sg:address":"510 W Thomas St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Ethnic Foods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 849 9639",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "grocers-specialty",
+        "grocers-ethnic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ncdyVc6U0ROJAapFrD7AI_44.948391_-89.641929@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608198,
+    "wof:geomhash":"7523d05854ac7e45904873ca3709c60f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":823190635
+        }
+    ],
+    "wof:id":823190635,
+    "wof:lastmodified":1462608198,
+    "wof:name":"Wausau Super Oriental Market",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-specialty",
+        "grocers-ethnic"
+    ]
+},
+  "bbox": [
+    -89.641929,
+    44.948391,
+    -89.641929,
+    44.948391
+],
+  "geometry": {"coordinates":[-89.641929,44.948391],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 823161315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.914095,43.121578,-87.914095,43.121578",
+    "geom:latitude":43.121578,
+    "geom:longitude":-87.914095,
+    "iso:country":"US",
+    "sg:address":"5735 N Bayshore Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 967 5754",
+    "sg:postcode":"53217",
+    "sg:province":"WI",
+    "sg:tags":[
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870821,
+        102191575,
+        404494165,
+        85633793,
+        101733065,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A9tWh27ymwpFMdjAvErke_43.121578_-87.914095@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607815,
+    "wof:geomhash":"edad668d4c38e0963db0b93776d9da96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494165,
+            "locality_id":101733065,
+            "neighbourhood_id":85870821,
+            "region_id":85688517,
+            "venue_id":823161315
+        }
+    ],
+    "wof:id":823161315,
+    "wof:lastmodified":1462607815,
+    "wof:name":"Alterra Cafe Bayshore Town Ctr",
+    "wof:parent_id":85870821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "espresso"
+    ]
+},
+  "bbox": [
+    -87.914095,
+    43.121578,
+    -87.914095,
+    43.121578
+],
+  "geometry": {"coordinates":[-87.914095,43.121578],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 807401669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.861801,42.877499,-87.861801,42.877499",
+    "geom:latitude":42.877499,
+    "geom:longitude":-87.861801,
+    "iso:country":"US",
+    "sg:address":"9142 S Chicago Rd",
+    "sg:city":"Oak Creek",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 762 3201",
+    "sg:postcode":"53154",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809659,
+        102191575,
+        404494177,
+        85633793,
+        101733079,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22sKVM4sC5Ts9dadvn8HM3_42.877499_-87.861801@1303262807"
+    },
+    "wof:country":"US",
+    "wof:created":1462607320,
+    "wof:geomhash":"43c53c65796c1c1050838d12771e60d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494177,
+            "locality_id":101733079,
+            "neighbourhood_id":85809659,
+            "region_id":85688517,
+            "venue_id":807401669
+        }
+    ],
+    "wof:id":807401669,
+    "wof:lastmodified":1462607320,
+    "wof:name":"Chicago Road Veterinary Clinic",
+    "wof:parent_id":85809659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -87.861801,
+    42.877499,
+    -87.861801,
+    42.877499
+],
+  "geometry": {"coordinates":[-87.861801,42.877499],"type":"Point"}
+}

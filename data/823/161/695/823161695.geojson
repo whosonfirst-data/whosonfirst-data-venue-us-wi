@@ -1,0 +1,95 @@
+{
+  "id": 823161695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.902686,43.118484,-87.902686,43.118484",
+    "geom:latitude":43.118484,
+    "geom:longitude":-87.902686,
+    "iso:country":"US",
+    "sg:address":"629 E Silver Spring Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 967 8072",
+    "sg:postcode":"53217",
+    "sg:province":"WI",
+    "sg:tags":[
+        "washing",
+        "cleaning-exterior",
+        "chemical",
+        "pressure",
+        "systems-pressure",
+        "steam"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870821,
+        102191575,
+        404494165,
+        85633793,
+        101733065,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_155W2voBNSnlLu1xduygCW_43.118484_-87.902686@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607820,
+    "wof:geomhash":"f981c73216be33527a0cd7e01ad2254d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494165,
+            "locality_id":101733065,
+            "neighbourhood_id":85870821,
+            "region_id":85688517,
+            "venue_id":823161695
+        }
+    ],
+    "wof:id":823161695,
+    "wof:lastmodified":1462607820,
+    "wof:name":"Pressure Washing Corp",
+    "wof:parent_id":85870821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "washing",
+        "cleaning-exterior",
+        "chemical",
+        "pressure",
+        "systems-pressure",
+        "steam"
+    ]
+},
+  "bbox": [
+    -87.902686,
+    43.118484,
+    -87.902686,
+    43.118484
+],
+  "geometry": {"coordinates":[-87.902686,43.118484],"type":"Point"}
+}

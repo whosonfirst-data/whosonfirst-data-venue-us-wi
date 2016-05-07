@@ -1,0 +1,73 @@
+{
+  "id": 807262003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.467493,44.807434,-91.467493,44.807434",
+    "geom:latitude":44.807434,
+    "geom:longitude":-91.467493,
+    "iso:country":"US",
+    "sg:address":"3620 Spooner Ave",
+    "sg:city":"Altoona",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 832 5502",
+    "sg:postcode":"54720",
+    "sg:province":"WI",
+    "sg:tags":[
+        "alternator",
+        "starter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3triT1ixeKaoE2Y32waK89_44.807434_-91.467493@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605449,
+    "wof:geomhash":"95ef59469e2dade76b50fd49e8f944ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807262003
+        }
+    ],
+    "wof:id":807262003,
+    "wof:lastmodified":1462605449,
+    "wof:name":"Steves Alternator Starter Svc",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alternator",
+        "starter"
+    ]
+},
+  "bbox": [
+    -91.467493,
+    44.807434,
+    -91.467493,
+    44.807434
+],
+  "geometry": {"coordinates":[-91.467493,44.807434],"type":"Point"}
+}

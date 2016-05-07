@@ -1,0 +1,73 @@
+{
+  "id": 789990339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.229198,43.868119,-91.229198,43.868119",
+    "geom:latitude":43.868119,
+    "geom:longitude":-91.229198,
+    "iso:country":"US",
+    "sg:address":"749 Domke St",
+    "sg:city":"Onalaska",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 783 1403",
+    "sg:postcode":"54650",
+    "sg:province":"WI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732651,
+        102081301,
+        85833661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78HSirtA9zfuydpDPPe9Dk_43.868119_-91.229198@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592248,
+    "wof:geomhash":"4c642fdfca12be82d7236947050ab7d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732651,
+            "neighbourhood_id":85833661,
+            "region_id":85688517,
+            "venue_id":789990339
+        }
+    ],
+    "wof:id":789990339,
+    "wof:lastmodified":1462592248,
+    "wof:name":"Kronberg Heating & Electric",
+    "wof:parent_id":85833661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.229198,
+    43.868119,
+    -91.229198,
+    43.868119
+],
+  "geometry": {"coordinates":[-91.229198,43.868119],"type":"Point"}
+}

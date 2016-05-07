@@ -1,0 +1,89 @@
+{
+  "id": 823154583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.969415,43.019881,-87.969415,43.019881",
+    "geom:latitude":43.019881,
+    "geom:longitude":-87.969415,
+    "iso:country":"US",
+    "sg:address":"1130 Miller Park Way",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 643 5179",
+    "sg:postcode":"53214",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop",
+        "restaurant",
+        "espresso",
+        "hotspot",
+        "wi-fi"
+    ],
+    "sg:website":"http://www.starbuckscoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870923,
+        102191575,
+        404494277,
+        85633793,
+        101733095,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZRUow9HB9bCLrFFzoTmiB_43.019881_-87.969415@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607726,
+    "wof:geomhash":"b36510bd3cc575b0449078fd3e05bc21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494277,
+            "locality_id":101733095,
+            "neighbourhood_id":85870923,
+            "region_id":85688517,
+            "venue_id":823154583
+        }
+    ],
+    "wof:id":823154583,
+    "wof:lastmodified":1462607726,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85870923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "restaurant",
+        "espresso",
+        "hotspot",
+        "wi-fi"
+    ]
+},
+  "bbox": [
+    -87.969415,
+    43.019881,
+    -87.969415,
+    43.019881
+],
+  "geometry": {"coordinates":[-87.969415,43.019881],"type":"Point"}
+}

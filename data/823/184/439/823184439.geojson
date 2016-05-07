@@ -1,0 +1,85 @@
+{
+  "id": 823184439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.525695,43.09023,-89.525695,43.09023",
+    "geom:latitude":43.09023,
+    "geom:longitude":-89.525695,
+    "iso:country":"US",
+    "sg:address":"8310 Greenway Blvd Ste 102",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 831 0080",
+    "sg:postcode":"53562",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ],
+    "sg:website":"http://www.starbuckscoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10ROnXeOaAVbX3NHTAomPa_43.090230_-89.525695@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608125,
+    "wof:geomhash":"bad81a93468a7b0a10a30ea27e19f36a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":823184439
+        }
+    ],
+    "wof:id":823184439,
+    "wof:lastmodified":1462608125,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85878843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -89.525695,
+    43.09023,
+    -89.525695,
+    43.09023
+],
+  "geometry": {"coordinates":[-89.525695,43.09023],"type":"Point"}
+}

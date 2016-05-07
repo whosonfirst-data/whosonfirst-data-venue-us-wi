@@ -1,0 +1,80 @@
+{
+  "id": 773271625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.053014,42.773058,-89.053014,42.773058",
+    "geom:latitude":42.773058,
+    "geom:longitude":-89.053014,
+    "iso:country":"US",
+    "sg:address":"6827 N Consolidated School Rd",
+    "sg:city":"Janesville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 752 5912",
+    "sg:postcode":"53545",
+    "sg:province":"WI",
+    "sg:tags":[
+        "transmission",
+        "pipe",
+        "company",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85836935,
+        102081829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LUkmROmCwv3p0i5KCkLGn_42.773058_-89.053014@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584454,
+    "wof:geomhash":"f73a62ceb2b9c161fcc04e9d83f97410",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "neighbourhood_id":85836935,
+            "region_id":85688517,
+            "venue_id":773271625
+        }
+    ],
+    "wof:id":773271625,
+    "wof:lastmodified":1462584454,
+    "wof:name":"ANR Pipeline Company",
+    "wof:parent_id":85836935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "pipe",
+        "company",
+        "line"
+    ]
+},
+  "bbox": [
+    -89.053014,
+    42.773058,
+    -89.053014,
+    42.773058
+],
+  "geometry": {"coordinates":[-89.053014,42.773058],"type":"Point"}
+}

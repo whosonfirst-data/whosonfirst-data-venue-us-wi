@@ -1,0 +1,85 @@
+{
+  "id": 823163369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.983903,43.004528,-87.983903,43.004528",
+    "geom:latitude":43.004528,
+    "geom:longitude":-87.983903,
+    "iso:country":"US",
+    "sg:address":"2210 S 57th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 321 1856",
+    "sg:postcode":"53219",
+    "sg:province":"WI",
+    "sg:tags":[
+        "herb",
+        "supplement",
+        "vitamin"
+    ],
+    "sg:website":"http://www.mynsp.com/rachelle",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870937,
+        102191575,
+        404494275,
+        85633793,
+        101733091,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lGRABUtStx00F5WnTRlOr_43.004528_-87.983903@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607845,
+    "wof:geomhash":"e64d73473d145f26df7e903e84ba0e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494275,
+            "locality_id":101733091,
+            "neighbourhood_id":85870937,
+            "region_id":85688517,
+            "venue_id":823163369
+        }
+    ],
+    "wof:id":823163369,
+    "wof:lastmodified":1462607845,
+    "wof:name":"Kloth Health House",
+    "wof:parent_id":85870937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "herb",
+        "supplement",
+        "vitamin"
+    ]
+},
+  "bbox": [
+    -87.983903,
+    43.004528,
+    -87.983903,
+    43.004528
+],
+  "geometry": {"coordinates":[-87.983903,43.004528],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790110331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.66566,44.958261,-89.66566,44.958261",
+    "geom:latitude":44.958261,
+    "geom:longitude":-89.66566,
+    "iso:country":"US",
+    "sg:address":"2418 Stewart Ave",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 842 4235",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JOT2j4JCommZoQZK0lLne_44.958261_-89.665660@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462593222,
+    "wof:geomhash":"39c1fc438ce677aea264e389f47181b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":790110331
+        }
+    ],
+    "wof:id":790110331,
+    "wof:lastmodified":1462593222,
+    "wof:name":"John L Felkner DDS",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -89.66566,
+    44.958261,
+    -89.66566,
+    44.958261
+],
+  "geometry": {"coordinates":[-89.66566,44.958261],"type":"Point"}
+}

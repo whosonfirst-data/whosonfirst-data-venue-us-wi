@@ -1,0 +1,85 @@
+{
+  "id": 823156851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.963652,43.021272,-87.963652,43.021272",
+    "geom:latitude":43.021272,
+    "geom:longitude":-87.963652,
+    "iso:country":"US",
+    "sg:address":"4023 W National Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 647 1132",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "packing",
+        "crating",
+        "container"
+    ],
+    "sg:website":"http://www.mastersoncompany.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870841,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37yboPPHo93ZMo94SY6VPY_43.021272_-87.963652@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607762,
+    "wof:geomhash":"002cd02b98232cccdc66c377f4bbebfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870841,
+            "region_id":85688517,
+            "venue_id":823156851
+        }
+    ],
+    "wof:id":823156851,
+    "wof:lastmodified":1462607762,
+    "wof:name":"The Masterson Company Inc",
+    "wof:parent_id":85870841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "crating",
+        "container"
+    ]
+},
+  "bbox": [
+    -87.963652,
+    43.021272,
+    -87.963652,
+    43.021272
+],
+  "geometry": {"coordinates":[-87.963652,43.021272],"type":"Point"}
+}

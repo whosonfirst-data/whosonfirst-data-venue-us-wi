@@ -1,0 +1,71 @@
+{
+  "id": 789592609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.456475,44.715555,-91.456475,44.715555",
+    "geom:latitude":44.715555,
+    "geom:longitude":-91.456475,
+    "iso:country":"US",
+    "sg:address":"3215 Benrud Ln",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 832 8282",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zDpdKQopq6q8PmKuNEFlH_44.715555_-91.456475@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589004,
+    "wof:geomhash":"5bd5a3a2290b90ff41e176cb1d88dee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":789592609
+        }
+    ],
+    "wof:id":789592609,
+    "wof:lastmodified":1462589004,
+    "wof:name":"Christie Heating & Cooling",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.456475,
+    44.715555,
+    -91.456475,
+    44.715555
+],
+  "geometry": {"coordinates":[-91.456475,44.715555],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 806811005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.887475,43.089183,-87.887475,43.089183",
+    "geom:latitude":43.089183,
+    "geom:longitude":-87.887475,
+    "iso:country":"US",
+    "sg:address":"3817 N Oakland Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 444 4585",
+    "sg:postcode":"53211",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870879,
+        102191575,
+        404494183,
+        85633793,
+        101733085,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QVugKC6BZoKTsv37uueMq_43.089183_-87.887475@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601272,
+    "wof:geomhash":"fa49e3e0aa81f35cd77ed861d6d927c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494183,
+            "locality_id":101733085,
+            "neighbourhood_id":85870879,
+            "region_id":85688517,
+            "venue_id":806811005
+        }
+    ],
+    "wof:id":806811005,
+    "wof:lastmodified":1462601272,
+    "wof:name":"Medical Equipment Ctr",
+    "wof:parent_id":85870879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.887475,
+    43.089183,
+    -87.887475,
+    43.089183
+],
+  "geometry": {"coordinates":[-87.88747499999999,43.089183],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 807132729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.299832,43.10327,-89.299832,43.10327",
+    "geom:latitude":43.10327,
+    "geom:longitude":-89.299832,
+    "iso:country":"US",
+    "sg:address":"401 N Thompson Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 244 9311",
+    "sg:postcode":"53714",
+    "sg:province":"WI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15ToqWfbEzB8kFZr9I40ux_43.103270_-89.299832@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604081,
+    "wof:geomhash":"a0259895a333bf2a5f91f93f2b06e588",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":807132729
+        }
+    ],
+    "wof:id":807132729,
+    "wof:lastmodified":1462604081,
+    "wof:name":"Meadows Apartments",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.299832,
+    43.10327,
+    -89.299832,
+    43.10327
+],
+  "geometry": {"coordinates":[-89.29983199999999,43.10327],"type":"Point"}
+}

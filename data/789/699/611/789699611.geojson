@@ -1,0 +1,72 @@
+{
+  "id": 789699611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.396387,43.031508,-89.396387,43.031508",
+    "geom:latitude":43.031508,
+    "geom:longitude":-89.396387,
+    "iso:country":"US",
+    "sg:address":"2921 Perry St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 288 4100",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.cgcinc.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HESmwWgUTbFcQtWK44Tk9_43.031508_-89.396387@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589855,
+    "wof:geomhash":"b32313f3dbffeb4bb57a6d495a2f85ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":789699611
+        }
+    ],
+    "wof:id":789699611,
+    "wof:lastmodified":1462589855,
+    "wof:name":"CGC Inc",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -89.396387,
+    43.031508,
+    -89.396387,
+    43.031508
+],
+  "geometry": {"coordinates":[-89.396387,43.031508],"type":"Point"}
+}

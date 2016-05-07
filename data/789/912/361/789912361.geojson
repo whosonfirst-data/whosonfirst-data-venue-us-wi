@@ -1,0 +1,71 @@
+{
+  "id": 789912361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.403661,43.001779,-89.403661,43.001779",
+    "geom:latitude":43.001779,
+    "geom:longitude":-89.403661,
+    "iso:country":"US",
+    "sg:address":"5267 Lacy Rd",
+    "sg:city":"Fitchburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 298 9999",
+    "sg:postcode":"53711",
+    "sg:province":"WI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aATxqizpx4KylOPkymqO4_43.001779_-89.403661@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591561,
+    "wof:geomhash":"7da64a31d49145e3fc05cd25a90b98b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":789912361
+        }
+    ],
+    "wof:id":789912361,
+    "wof:lastmodified":1462591561,
+    "wof:name":"Noble Earth Technologies",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -89.403661,
+    43.001779,
+    -89.403661,
+    43.001779
+],
+  "geometry": {"coordinates":[-89.403661,43.001779],"type":"Point"}
+}

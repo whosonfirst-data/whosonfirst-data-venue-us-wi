@@ -1,0 +1,71 @@
+{
+  "id": 773366065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.165464,44.030146,-88.165464,44.030146",
+    "geom:latitude":44.030146,
+    "geom:longitude":-88.165464,
+    "iso:country":"US",
+    "sg:address":"60 Washington St",
+    "sg:city":"Chilton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 849 4141",
+    "sg:postcode":"53014",
+    "sg:province":"WI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732735,
+        102081289,
+        85822647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h8vIfKJNjMAuhfI2HKWA2_44.030146_-88.165464@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585153,
+    "wof:geomhash":"de4656adc4bac24e294db28fd0a6172c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081289,
+            "locality_id":101732735,
+            "neighbourhood_id":85822647,
+            "region_id":85688517,
+            "venue_id":773366065
+        }
+    ],
+    "wof:id":773366065,
+    "wof:lastmodified":1462585153,
+    "wof:name":"Chilton Catholic School",
+    "wof:parent_id":85822647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -88.165464,
+    44.030146,
+    -88.165464,
+    44.030146
+],
+  "geometry": {"coordinates":[-88.165464,44.030146],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 807250765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.628475,44.971783,-89.628475,44.971783",
+    "geom:latitude":44.971783,
+    "geom:longitude":-89.628475,
+    "iso:country":"US",
+    "sg:address":"1810 N 2nd St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 848 4884",
+    "sg:postcode":"54403",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DOlaIvErIYYz1l4AMWjEh_44.971783_-89.628475@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605331,
+    "wof:geomhash":"1b2d8beda0a32edfbd127f12dad835cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":807250765
+        }
+    ],
+    "wof:id":807250765,
+    "wof:lastmodified":1462605331,
+    "wof:name":"Primary Connection Healthcare",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.628475,
+    44.971783,
+    -89.628475,
+    44.971783
+],
+  "geometry": {"coordinates":[-89.62847499999999,44.971783],"type":"Point"}
+}

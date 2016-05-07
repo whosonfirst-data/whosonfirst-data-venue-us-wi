@@ -1,0 +1,90 @@
+{
+  "id": 807386839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.959541,43.20529,-87.959541,43.20529",
+    "geom:latitude":43.20529,
+    "geom:longitude":-87.959541,
+    "iso:country":"US",
+    "sg:address":"10309 N Versailles Ct 39W",
+    "sg:city":"Mequon",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 512 9800",
+    "sg:postcode":"53092",
+    "sg:province":"WI",
+    "sg:tags":[
+        "delivery",
+        "labeling",
+        "courier"
+    ],
+    "sg:website":"http://www.dhl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870795,
+        102191575,
+        404491943,
+        85633793,
+        101732545,
+        102081873,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mTSgay1EY6SUdB5Qy8QSP_43.205290_-87.959541@1303262805"
+    },
+    "wof:country":"US",
+    "wof:created":1462607022,
+    "wof:geomhash":"dbbf6335a621be5331dd19c53c6b87d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081873,
+            "localadmin_id":404491943,
+            "locality_id":101732545,
+            "neighbourhood_id":85870795,
+            "region_id":85688517,
+            "venue_id":807386839
+        }
+    ],
+    "wof:id":807386839,
+    "wof:lastmodified":1462607022,
+    "wof:name":"Worldwide Express",
+    "wof:parent_id":85870795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "labeling",
+        "courier"
+    ]
+},
+  "bbox": [
+    -87.959541,
+    43.20529,
+    -87.959541,
+    43.20529
+],
+  "geometry": {"coordinates":[-87.959541,43.20529],"type":"Point"}
+}

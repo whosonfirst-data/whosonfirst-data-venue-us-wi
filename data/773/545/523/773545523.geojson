@@ -1,0 +1,76 @@
+{
+  "id": 773545523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.60595,44.906251,-89.60595,44.906251",
+    "geom:latitude":44.906251,
+    "geom:longitude":-89.60595,
+    "iso:country":"US",
+    "sg:address":"5401 State Hwy 51",
+    "sg:city":"Schofield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 355 7676",
+    "sg:postcode":"54476",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85854809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jV4kmHrWQQCXkj1BzGltq_44.906251_-89.605950@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586531,
+    "wof:geomhash":"b49a45b888e4594cb74bbb7f7de6cc80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85854809,
+            "region_id":85688517,
+            "venue_id":773545523
+        }
+    ],
+    "wof:id":773545523,
+    "wof:lastmodified":1462586531,
+    "wof:name":"Big Lots",
+    "wof:parent_id":85854809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.60595,
+    44.906251,
+    -89.60595,
+    44.906251
+],
+  "geometry": {"coordinates":[-89.60595000000001,44.906251],"type":"Point"}
+}

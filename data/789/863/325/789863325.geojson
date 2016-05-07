@@ -1,0 +1,73 @@
+{
+  "id": 789863325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.773182,45.010698,-89.773182,45.010698",
+    "geom:latitude":45.010698,
+    "geom:longitude":-89.773182,
+    "iso:country":"US",
+    "sg:address":"3708 N 108th Ave",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 675 3188",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "produce",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ujIMO2tYLWYx91Gu2JeJS_45.010698_-89.773182@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591133,
+    "wof:geomhash":"2d65d1eb1d7b2fbc24259c09af95d6e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":789863325
+        }
+    ],
+    "wof:id":789863325,
+    "wof:lastmodified":1462591133,
+    "wof:name":"Mike's Berries",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce",
+        "market"
+    ]
+},
+  "bbox": [
+    -89.773182,
+    45.010698,
+    -89.773182,
+    45.010698
+],
+  "geometry": {"coordinates":[-89.77318200000001,45.010698],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 789766423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.248237,43.83678,-91.248237,43.83678",
+    "geom:latitude":43.83678,
+    "geom:longitude":-91.248237,
+    "iso:country":"US",
+    "sg:address":"811 Rose St",
+    "sg:city":"La Crosse",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 784 3366",
+    "sg:postcode":"54603",
+    "sg:province":"WI",
+    "sg:tags":[
+        "organization",
+        "welfare",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837759,
+        102191575,
+        404493449,
+        85633793,
+        101733691,
+        102081301,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_702inylDdAxTDFWhMUurrO_43.836780_-91.248237@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590376,
+    "wof:geomhash":"661d2b6cb001939c1fb098bef4924cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081301,
+            "localadmin_id":404493449,
+            "locality_id":101733691,
+            "neighbourhood_id":85837759,
+            "region_id":85688517,
+            "venue_id":789766423
+        }
+    ],
+    "wof:id":789766423,
+    "wof:lastmodified":1462590376,
+    "wof:name":"Attic Correctional Services",
+    "wof:parent_id":85837759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -91.248237,
+    43.83678,
+    -91.248237,
+    43.83678
+],
+  "geometry": {"coordinates":[-91.248237,43.83678],"type":"Point"}
+}

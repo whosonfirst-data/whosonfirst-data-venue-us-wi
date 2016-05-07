@@ -1,0 +1,72 @@
+{
+  "id": 807369433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.543904,44.827372,-91.543904,44.827372",
+    "geom:latitude":44.827372,
+    "geom:longitude":-91.543904,
+    "iso:country":"US",
+    "sg:address":"2713 N Clairemont Ave ",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/292914-cancun-mexican-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 830 0211",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85848105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KV0AkmEfvaFTmvRThWAmZ_44.827372_-91.543904@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606782,
+    "wof:geomhash":"dd352d75b52323c6ed01dc5f6876b659",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85848105,
+            "region_id":85688517,
+            "venue_id":807369433
+        }
+    ],
+    "wof:id":807369433,
+    "wof:lastmodified":1462606782,
+    "wof:name":"Cancun Mexican Grill",
+    "wof:parent_id":85848105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -91.543904,
+    44.827372,
+    -91.543904,
+    44.827372
+],
+  "geometry": {"coordinates":[-91.543904,44.827372],"type":"Point"}
+}

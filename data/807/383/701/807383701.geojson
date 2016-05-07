@@ -1,0 +1,71 @@
+{
+  "id": 807383701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.954102,43.32,-87.954102,43.32",
+    "geom:latitude":43.32,
+    "geom:longitude":-87.954102,
+    "iso:country":"US",
+    "sg:address":"1003 Washington St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 375 0290",
+    "sg:postcode":"53024",
+    "sg:province":"WI",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85852983,
+        102081873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Jji0W1qwHcT6J9ga6AMCo_43.320000_-87.954102@1303262805"
+    },
+    "wof:country":"US",
+    "wof:created":1462606980,
+    "wof:geomhash":"c6ff7187dc64b0f1a19bbdd744038a7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081873,
+            "neighbourhood_id":85852983,
+            "region_id":85688517,
+            "venue_id":807383701
+        }
+    ],
+    "wof:id":807383701,
+    "wof:lastmodified":1462606980,
+    "wof:name":"Wag'n Tails",
+    "wof:parent_id":85852983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -87.954102,
+    43.32,
+    -87.954102,
+    43.32
+],
+  "geometry": {"coordinates":[-87.95410200000001,43.32],"type":"Point"}
+}

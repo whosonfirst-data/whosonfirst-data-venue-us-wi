@@ -1,0 +1,77 @@
+{
+  "id": 789589007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.879178,43.089281,-87.879178,43.089281",
+    "geom:latitude":43.089281,
+    "geom:longitude":-87.879178,
+    "iso:country":"US",
+    "sg:address":"2428 E Capitol Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 332 4005",
+    "sg:postcode":"53211",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870911,
+        102191575,
+        404494183,
+        85633793,
+        101733085,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14vH7Z7HhNuBjOxBstu5ge_43.089281_-87.879178@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588979,
+    "wof:geomhash":"b3299b3783771e35ad2fec08b29b68f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494183,
+            "locality_id":101733085,
+            "neighbourhood_id":85870911,
+            "region_id":85688517,
+            "venue_id":789589007
+        }
+    ],
+    "wof:id":789589007,
+    "wof:lastmodified":1462588979,
+    "wof:name":"Haase's Complete Automotive",
+    "wof:parent_id":85870911,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.879178,
+    43.089281,
+    -87.879178,
+    43.089281
+],
+  "geometry": {"coordinates":[-87.879178,43.089281],"type":"Point"}
+}

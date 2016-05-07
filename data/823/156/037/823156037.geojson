@@ -1,0 +1,88 @@
+{
+  "id": 823156037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.050416,43.013503,-88.050416,43.013503",
+    "geom:latitude":43.013503,
+    "geom:longitude":-88.050416,
+    "iso:country":"US",
+    "sg:address":"11214 W Lapham St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 443 0265",
+    "sg:postcode":"53214",
+    "sg:province":"WI",
+    "sg:tags":[
+        "nursing",
+        "consultant",
+        "medical",
+        "practice",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867293,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v04SFZiZJSYI4qXdb9tye_43.013503_-88.050416@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607748,
+    "wof:geomhash":"548730a8b324389b94a5fe5fd489e311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85867293,
+            "region_id":85688517,
+            "venue_id":823156037
+        }
+    ],
+    "wof:id":823156037,
+    "wof:lastmodified":1462607748,
+    "wof:name":"Cardinal Health",
+    "wof:parent_id":85867293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursing",
+        "consultant",
+        "medical",
+        "practice",
+        "home"
+    ]
+},
+  "bbox": [
+    -88.050416,
+    43.013503,
+    -88.050416,
+    43.013503
+],
+  "geometry": {"coordinates":[-88.050416,43.013503],"type":"Point"}
+}

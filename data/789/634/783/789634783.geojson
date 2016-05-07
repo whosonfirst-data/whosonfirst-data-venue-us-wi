@@ -1,0 +1,73 @@
+{
+  "id": 789634783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.611885,44.856401,-91.611885,44.856401",
+    "geom:latitude":44.856401,
+    "geom:longitude":-91.611885,
+    "iso:country":"US",
+    "sg:address":"8213 County Line Rd",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 225 1886",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85848105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oPVdr4uCZLq17Ob43WIB3_44.856401_-91.611885@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589335,
+    "wof:geomhash":"c8af1c082aeca23156630c5a33b6a3aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85848105,
+            "region_id":85688517,
+            "venue_id":789634783
+        }
+    ],
+    "wof:id":789634783,
+    "wof:lastmodified":1462589335,
+    "wof:name":"Sokolowski Underground Systems",
+    "wof:parent_id":85848105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -91.611885,
+    44.856401,
+    -91.611885,
+    44.856401
+],
+  "geometry": {"coordinates":[-91.611885,44.856401],"type":"Point"}
+}

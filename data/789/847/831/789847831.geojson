@@ -1,0 +1,76 @@
+{
+  "id": 789847831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.913147,42.95492,-87.913147,42.95492",
+    "geom:latitude":42.95492,
+    "geom:longitude":-87.913147,
+    "iso:country":"US",
+    "sg:address":"4960 S 2nd St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 769 9400",
+    "sg:postcode":"53207",
+    "sg:province":"WI",
+    "sg:tags":[
+        "delivery"
+    ],
+    "sg:website":"www.customexpressmke.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85894489,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ycYdNA7FlGV0EFNHm7sEZ_42.954920_-87.913147@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591012,
+    "wof:geomhash":"ca42c1b4991a0d75469c616d383ccbeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85894489,
+            "region_id":85688517,
+            "venue_id":789847831
+        }
+    ],
+    "wof:id":789847831,
+    "wof:lastmodified":1462591012,
+    "wof:name":"Custom Express",
+    "wof:parent_id":85894489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -87.913147,
+    42.95492,
+    -87.913147,
+    42.95492
+],
+  "geometry": {"coordinates":[-87.913147,42.95492],"type":"Point"}
+}

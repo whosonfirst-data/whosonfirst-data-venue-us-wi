@@ -1,0 +1,88 @@
+{
+  "id": 807387229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.978348,43.232981,-87.978348,43.232981",
+    "geom:latitude":43.232981,
+    "geom:longitude":-87.978348,
+    "iso:country":"US",
+    "sg:address":"300 Elm St",
+    "sg:city":"Thiensville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 242 8008",
+    "sg:postcode":"53092",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department",
+        "township",
+        "protection",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870795,
+        102191575,
+        404491943,
+        85633793,
+        101732545,
+        102081873,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UBEs8XCXaA7jweq9BRPQe_43.232981_-87.978348@1303262805"
+    },
+    "wof:country":"US",
+    "wof:created":1462607026,
+    "wof:geomhash":"45ed9ee1945a7926fbc478e8afb74e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081873,
+            "localadmin_id":404491943,
+            "locality_id":101732545,
+            "neighbourhood_id":85870795,
+            "region_id":85688517,
+            "venue_id":807387229
+        }
+    ],
+    "wof:id":807387229,
+    "wof:lastmodified":1462607026,
+    "wof:name":"Thiensville Fire Dept Snack Island",
+    "wof:parent_id":85870795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "protection",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -87.978348,
+    43.232981,
+    -87.978348,
+    43.232981
+],
+  "geometry": {"coordinates":[-87.978348,43.232981],"type":"Point"}
+}

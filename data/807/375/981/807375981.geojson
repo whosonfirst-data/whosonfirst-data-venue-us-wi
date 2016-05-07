@@ -1,0 +1,78 @@
+{
+  "id": 807375981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.248281,43.845561,-91.248281,43.845561",
+    "geom:latitude":43.845561,
+    "geom:longitude":-91.248281,
+    "iso:country":"US",
+    "sg:address":"1549 Rose St",
+    "sg:city":"La Crosse",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/la-crosse/145552-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 782 0100",
+    "sg:postcode":"54603",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837759,
+        102191575,
+        404493449,
+        85633793,
+        101733691,
+        102081301,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qilFw3hUrpB42sS1CxEW5_43.845594_-91.248217@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606872,
+    "wof:geomhash":"3cf4377edb8225629437ac51665af88b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081301,
+            "localadmin_id":404493449,
+            "locality_id":101733691,
+            "neighbourhood_id":85837759,
+            "region_id":85688517,
+            "venue_id":807375981
+        }
+    ],
+    "wof:id":807375981,
+    "wof:lastmodified":1462606872,
+    "wof:name":"Subway",
+    "wof:parent_id":85837759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -91.248281,
+    43.845561,
+    -91.248281,
+    43.845561
+],
+  "geometry": {"coordinates":[-91.24828100000001,43.845561],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 789846425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.36521,43.088135,-89.36521,43.088135",
+    "geom:latitude":43.088135,
+    "geom:longitude":-89.36521,
+    "iso:country":"US",
+    "sg:address":"1326 E Washington Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 256 7784",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "carpet",
+        "cleaning",
+        "rug"
+    ],
+    "sg:website":"www.messnerinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878861,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517,
+        85868285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dqzMblDOO7D0N4npN4bNk_43.088135_-89.365210@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591002,
+    "wof:geomhash":"a6444069d799adc9ed007fd5aa7c7cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878861,
+            "region_id":85688517,
+            "venue_id":789846425
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85868285,
+            "region_id":85688517,
+            "venue_id":789846425
+        }
+    ],
+    "wof:id":789846425,
+    "wof:lastmodified":1462591002,
+    "wof:name":"Messner Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpet",
+        "cleaning",
+        "rug"
+    ]
+},
+  "bbox": [
+    -89.36521,
+    43.088135,
+    -89.36521,
+    43.088135
+],
+  "geometry": {"coordinates":[-89.36521,43.088135],"type":"Point"}
+}

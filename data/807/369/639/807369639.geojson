@@ -1,0 +1,72 @@
+{
+  "id": 807369639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.543459,44.832196,-91.543459,44.832196",
+    "geom:latitude":44.832196,
+    "geom:longitude":-91.543459,
+    "iso:country":"US",
+    "sg:address":"2451 Truax Blvd",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/293013-pizza-ranch/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 514 4143",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85848105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_734Ry59v1pvHCbQcycT3W1_44.832196_-91.543459@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606785,
+    "wof:geomhash":"21ffd7c5a55c2980bfa1d65773fc1983",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85848105,
+            "region_id":85688517,
+            "venue_id":807369639
+        }
+    ],
+    "wof:id":807369639,
+    "wof:lastmodified":1462606785,
+    "wof:name":"Pizza Ranch",
+    "wof:parent_id":85848105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.543459,
+    44.832196,
+    -91.543459,
+    44.832196
+],
+  "geometry": {"coordinates":[-91.543459,44.832196],"type":"Point"}
+}

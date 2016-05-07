@@ -1,0 +1,83 @@
+{
+  "id": 823143077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.909828,42.950169,-87.909828,42.950169",
+    "geom:latitude":42.950169,
+    "geom:longitude":-87.909828,
+    "iso:country":"US",
+    "sg:address":"5201 S Howell Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        },
+        {
+            "category":"Parking",
+            "subcategory":"Garage",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 481 0155",
+    "sg:postcode":"53207",
+    "sg:province":"WI",
+    "sg:website":"http://www.cpsairportparking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102530849,
+        85870975,
+        102191575,
+        404494163,
+        85633793,
+        101733063,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QwqcseSzxdQPMBB0wNljT_42.950169_-87.909828@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607575,
+    "wof:geomhash":"b3b5e99b5a4df2d5a0f55a442d53105a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530849,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494163,
+            "locality_id":101733063,
+            "neighbourhood_id":85870975,
+            "region_id":85688517,
+            "venue_id":823143077
+        }
+    ],
+    "wof:id":823143077,
+    "wof:lastmodified":1462607575,
+    "wof:name":"All Right Parking",
+    "wof:parent_id":102530849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.909828,
+    42.950169,
+    -87.909828,
+    42.950169
+],
+  "geometry": {"coordinates":[-87.909828,42.950169],"type":"Point"}
+}

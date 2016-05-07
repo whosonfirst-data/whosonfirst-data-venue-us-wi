@@ -1,0 +1,67 @@
+{
+  "id": 789602835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.501537,44.815369,-91.501537,44.815369",
+    "geom:latitude":44.815369,
+    "geom:longitude":-91.501537,
+    "iso:country":"US",
+    "sg:address":"215 N Barstow St",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 835 4812",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:website":"www.bikedoctor-ec.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U3kfYcgJDyBmIPEW9wlbO_44.815369_-91.501537@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589088,
+    "wof:geomhash":"34bd17b596b23cfe908f850e93412d92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":789602835
+        }
+    ],
+    "wof:id":789602835,
+    "wof:lastmodified":1462589088,
+    "wof:name":"Bike Doctor",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.501537,
+    44.815369,
+    -91.501537,
+    44.815369
+],
+  "geometry": {"coordinates":[-91.501537,44.815369],"type":"Point"}
+}

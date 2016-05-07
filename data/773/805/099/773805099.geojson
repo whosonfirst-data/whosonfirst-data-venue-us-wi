@@ -1,0 +1,73 @@
+{
+  "id": 773805099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.499061,43.096942,-89.499061,43.096942",
+    "geom:latitude":43.096942,
+    "geom:longitude":-89.499061,
+    "iso:country":"US",
+    "sg:address":"6825 University Ave",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 831 7111",
+    "sg:postcode":"53562",
+    "sg:province":"WI",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732813,
+        102081795,
+        85841479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26iKhDhw99Z49iPimHR77k_43.096942_-89.499061@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588514,
+    "wof:geomhash":"469c0c835c95f88bb810119313d8d8a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732813,
+            "neighbourhood_id":85841479,
+            "region_id":85688517,
+            "venue_id":773805099
+        }
+    ],
+    "wof:id":773805099,
+    "wof:lastmodified":1462588514,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85841479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -89.499061,
+    43.096942,
+    -89.499061,
+    43.096942
+],
+  "geometry": {"coordinates":[-89.499061,43.096942],"type":"Point"}
+}

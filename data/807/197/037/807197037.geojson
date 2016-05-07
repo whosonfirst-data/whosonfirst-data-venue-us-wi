@@ -1,0 +1,71 @@
+{
+  "id": 807197037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.343989,43.252727,-89.343989,43.252727",
+    "geom:latitude":43.252727,
+    "geom:longitude":-89.343989,
+    "iso:country":"US",
+    "sg:address":"200 W North St",
+    "sg:city":"De Forest",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 846 3939",
+    "sg:postcode":"53532",
+    "sg:province":"WI",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85852311,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lxEpRM2Zxfur7dVUGSb17_43.252727_-89.343989@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604769,
+    "wof:geomhash":"f498fe6958396962d7b3af388d72c9dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85852311,
+            "region_id":85688517,
+            "venue_id":807197037
+        }
+    ],
+    "wof:id":807197037,
+    "wof:lastmodified":1462604769,
+    "wof:name":"Laidlaw Transit Inc",
+    "wof:parent_id":85852311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -89.343989,
+    43.252727,
+    -89.343989,
+    43.252727
+],
+  "geometry": {"coordinates":[-89.34398899999999,43.252727],"type":"Point"}
+}

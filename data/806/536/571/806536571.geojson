@@ -1,0 +1,71 @@
+{
+  "id": 806536571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.399909,43.030153,-89.399909,43.030153",
+    "geom:latitude":43.030153,
+    "geom:longitude":-89.399909,
+    "iso:country":"US",
+    "sg:address":"1122 Stewart St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 274 9264",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60cmqYnlpVajkaqk7ZMFcR_43.030153_-89.399909@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462598928,
+    "wof:geomhash":"a1d0200aa3192e0314d3dc5b21f571e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":806536571
+        }
+    ],
+    "wof:id":806536571,
+    "wof:lastmodified":1462598928,
+    "wof:name":"E CP of Madison",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -89.399909,
+    43.030153,
+    -89.399909,
+    43.030153
+],
+  "geometry": {"coordinates":[-89.39990899999999,43.030153],"type":"Point"}
+}

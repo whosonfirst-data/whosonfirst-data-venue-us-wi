@@ -1,0 +1,71 @@
+{
+  "id": 790369775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.063677,42.5179,-89.063677,42.5179",
+    "geom:latitude":42.5179,
+    "geom:longitude":-89.063677,
+    "iso:country":"US",
+    "sg:address":"1447 Ritsher St",
+    "sg:city":"Beloit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 362 1035",
+    "sg:postcode":"53511",
+    "sg:province":"WI",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732817,
+        102081829,
+        85810961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iVK6kRsLSsDq89GmBSGUw_42.517900_-89.063677@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462595304,
+    "wof:geomhash":"44ffbada4e0ae4e235da02f7502f8753",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "locality_id":101732817,
+            "neighbourhood_id":85810961,
+            "region_id":85688517,
+            "venue_id":790369775
+        }
+    ],
+    "wof:id":790369775,
+    "wof:lastmodified":1462595304,
+    "wof:name":"Leo's Brake Ctr",
+    "wof:parent_id":85810961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -89.063677,
+    42.5179,
+    -89.063677,
+    42.5179
+],
+  "geometry": {"coordinates":[-89.063677,42.5179],"type":"Point"}
+}

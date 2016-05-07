@@ -1,0 +1,85 @@
+{
+  "id": 823175475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.047214,42.98297,-88.047214,42.98297",
+    "geom:latitude":42.98297,
+    "geom:longitude":-88.047214,
+    "iso:country":"US",
+    "sg:address":"3370 S 108th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 321 4232",
+    "sg:postcode":"53227",
+    "sg:province":"WI",
+    "sg:tags":[
+        "kindergarten",
+        "nursery",
+        "day"
+    ],
+    "sg:website":"http://www.kindercare.com/our-centers/center-details/000317/?cid=YP_KC000317",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870861,
+        102191575,
+        404494275,
+        85633793,
+        101733091,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hfGPo4N48MDytNdht358o_42.982970_-88.047214@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608009,
+    "wof:geomhash":"83de32294adf517f3a239ec8925ade0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494275,
+            "locality_id":101733091,
+            "neighbourhood_id":85870861,
+            "region_id":85688517,
+            "venue_id":823175475
+        }
+    ],
+    "wof:id":823175475,
+    "wof:lastmodified":1462608009,
+    "wof:name":"KinderCare Learning Center",
+    "wof:parent_id":85870861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [
+    -88.047214,
+    42.98297,
+    -88.047214,
+    42.98297
+],
+  "geometry": {"coordinates":[-88.047214,42.98297],"type":"Point"}
+}

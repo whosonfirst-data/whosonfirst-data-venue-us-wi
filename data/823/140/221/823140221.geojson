@@ -1,0 +1,82 @@
+{
+  "id": 823140221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.944976,43.015661,-87.944976,43.015661",
+    "geom:latitude":43.015661,
+    "geom:longitude":-87.944976,
+    "iso:country":"US",
+    "sg:address":"1518 S 25th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 384 5044",
+    "sg:postcode":"53204",
+    "sg:province":"WI",
+    "sg:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870843,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fbnpcsXb3oYfbrGQ6Ex2Q_43.015661_-87.944976@1303262807"
+    },
+    "wof:country":"US",
+    "wof:created":1462607511,
+    "wof:geomhash":"2fb75ffc3ed70be4111fb0d64bb07306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870843,
+            "region_id":85688517,
+            "venue_id":823140221
+        }
+    ],
+    "wof:id":823140221,
+    "wof:lastmodified":1462607511,
+    "wof:name":"Brew City Maintenance",
+    "wof:parent_id":85870843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ]
+},
+  "bbox": [
+    -87.944976,
+    43.015661,
+    -87.944976,
+    43.015661
+],
+  "geometry": {"coordinates":[-87.944976,43.015661],"type":"Point"}
+}

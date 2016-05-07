@@ -1,0 +1,85 @@
+{
+  "id": 773250451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.259958,44.173785,-88.259958,44.173785",
+    "geom:latitude":44.173785,
+    "geom:longitude":-88.259958,
+    "iso:country":"US",
+    "sg:address":"404 Veterans Ave",
+    "sg:city":"Sherwood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 989 1216",
+    "sg:postcode":"54169",
+    "sg:province":"WI",
+    "sg:tags":[
+        "banquet",
+        "rooms"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885337,
+        102191575,
+        404493061,
+        85633793,
+        101732749,
+        102081289,
+        85688517,
+        85846669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PoISetoLK90x1CJTozsNe_44.173785_-88.259958@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584293,
+    "wof:geomhash":"84c907c1e259ab522bf79f903765b378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081289,
+            "localadmin_id":404493061,
+            "locality_id":101732749,
+            "neighbourhood_id":85885337,
+            "region_id":85688517,
+            "venue_id":773250451
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081289,
+            "neighbourhood_id":85846669,
+            "region_id":85688517,
+            "venue_id":773250451
+        }
+    ],
+    "wof:id":773250451,
+    "wof:lastmodified":1462584293,
+    "wof:name":"Sherwood Barber Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banquet",
+        "rooms"
+    ]
+},
+  "bbox": [
+    -88.259958,
+    44.173785,
+    -88.259958,
+    44.173785
+],
+  "geometry": {"coordinates":[-88.259958,44.173785],"type":"Point"}
+}

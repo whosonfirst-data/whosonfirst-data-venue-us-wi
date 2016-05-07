@@ -1,0 +1,71 @@
+{
+  "id": 807225841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.572709,44.154584,-87.572709,44.154584",
+    "geom:latitude":44.154584,
+    "geom:longitude":-87.572709,
+    "iso:country":"US",
+    "sg:address":"2209 Forest Ave",
+    "sg:city":"Two Rivers",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 794 7100",
+    "sg:postcode":"54241",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ratVscRRvPElwR1yJBPxb_44.154584_-87.572709@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605074,
+    "wof:geomhash":"cecd96a45035bb879572aae2b70254da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":807225841
+        }
+    ],
+    "wof:id":807225841,
+    "wof:lastmodified":1462605074,
+    "wof:name":"Michael Furlong DDS",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -87.572709,
+    44.154584,
+    -87.572709,
+    44.154584
+],
+  "geometry": {"coordinates":[-87.572709,44.154584],"type":"Point"}
+}

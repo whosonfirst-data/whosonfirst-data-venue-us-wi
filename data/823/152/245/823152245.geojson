@@ -1,0 +1,88 @@
+{
+  "id": 823152245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.918848,43.047268,-87.918848,43.047268",
+    "geom:latitude":43.047268,
+    "geom:longitude":-87.918848,
+    "iso:country":"US",
+    "sg:address":"1311 N 6th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 713 3607",
+    "sg:postcode":"53212",
+    "sg:province":"WI",
+    "sg:tags":[
+        "college",
+        "business"
+    ],
+    "sg:website":"http://www.everest.edu?dmredirect=YPINSMTP&date=3",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870831,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G6JNX5lJU181aMkht9ts7_43.047268_-87.918848@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607694,
+    "wof:geomhash":"53d87246cc297b9ea222f7aca616e914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870831,
+            "region_id":85688517,
+            "venue_id":823152245
+        }
+    ],
+    "wof:id":823152245,
+    "wof:lastmodified":1462607694,
+    "wof:name":"Everest College",
+    "wof:parent_id":85870831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college",
+        "business"
+    ]
+},
+  "bbox": [
+    -87.918848,
+    43.047268,
+    -87.918848,
+    43.047268
+],
+  "geometry": {"coordinates":[-87.918848,43.047268],"type":"Point"}
+}

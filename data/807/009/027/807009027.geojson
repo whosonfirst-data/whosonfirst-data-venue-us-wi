@@ -1,0 +1,71 @@
+{
+  "id": 807009027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.648461,44.124505,-87.648461,44.124505",
+    "geom:latitude":44.124505,
+    "geom:longitude":-87.648461,
+    "iso:country":"US",
+    "sg:address":"10 E Albert Dr",
+    "sg:city":"Manitowoc",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 652 9867",
+    "sg:postcode":"54220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52MzZB36JmLipMIAhbmWNT_44.124505_-87.648461@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602935,
+    "wof:geomhash":"b8fddaf11a65ce839e193df072d6ffcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":807009027
+        }
+    ],
+    "wof:id":807009027,
+    "wof:lastmodified":1462602935,
+    "wof:name":"Pin Pines Car Wash",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -87.648461,
+    44.124505,
+    -87.648461,
+    44.124505
+],
+  "geometry": {"coordinates":[-87.648461,44.124505],"type":"Point"}
+}

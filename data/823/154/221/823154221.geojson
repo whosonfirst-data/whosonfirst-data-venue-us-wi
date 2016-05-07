@@ -1,0 +1,91 @@
+{
+  "id": 823154221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.005267,43.05124,-88.005267,43.05124",
+    "geom:latitude":43.05124,
+    "geom:longitude":-88.005267,
+    "iso:country":"US",
+    "sg:address":"7430 Harwood Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 453 4672",
+    "sg:postcode":"53213",
+    "sg:province":"WI",
+    "sg:tags":[
+        "hair",
+        "accessory",
+        "stylist",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870835,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w8l8VNtIJqc5CwaRWlDDa_43.051240_-88.005267@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607721,
+    "wof:geomhash":"bad1c2c1cc0f3fbd8c735540bd37ae8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870835,
+            "region_id":85688517,
+            "venue_id":823154221
+        }
+    ],
+    "wof:id":823154221,
+    "wof:lastmodified":1462607721,
+    "wof:name":"Harwood Hair Co",
+    "wof:parent_id":85870835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "accessory",
+        "stylist",
+        "supply"
+    ]
+},
+  "bbox": [
+    -88.005267,
+    43.05124,
+    -88.005267,
+    43.05124
+],
+  "geometry": {"coordinates":[-88.005267,43.05124],"type":"Point"}
+}

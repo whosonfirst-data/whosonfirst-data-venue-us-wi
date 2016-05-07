@@ -1,0 +1,71 @@
+{
+  "id": 773282615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.508848,44.790586,-91.508848,44.790586",
+    "geom:latitude":44.790586,
+    "geom:longitude":-91.508848,
+    "iso:country":"US",
+    "sg:address":"2600 Stein Blvd",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 833 2223",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EHiQQr8sGfNVIUJl5Al4T_44.790586_-91.508848@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584540,
+    "wof:geomhash":"1092b81de5664a468ed4c35bb5f5fa76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":773282615
+        }
+    ],
+    "wof:id":773282615,
+    "wof:lastmodified":1462584540,
+    "wof:name":"Christopher Poss DDS",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -91.508848,
+    44.790586,
+    -91.508848,
+    44.790586
+],
+  "geometry": {"coordinates":[-91.508848,44.790586],"type":"Point"}
+}

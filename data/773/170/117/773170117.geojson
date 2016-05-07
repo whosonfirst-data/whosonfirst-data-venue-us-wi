@@ -1,0 +1,71 @@
+{
+  "id": 773170117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.470552,44.800161,-91.470552,44.800161",
+    "geom:latitude":44.800161,
+    "geom:longitude":-91.470552,
+    "iso:country":"US",
+    "sg:address":"2150 Brackett Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 831 7045",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FN6ytLFlLb7etRE7ixoRv_44.800161_-91.470552@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583668,
+    "wof:geomhash":"898596650e4a8f3edca963ccad79d5d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":773170117
+        }
+    ],
+    "wof:id":773170117,
+    "wof:lastmodified":1462583668,
+    "wof:name":"Corporate Courier Inc",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -91.470552,
+    44.800161,
+    -91.470552,
+    44.800161
+],
+  "geometry": {"coordinates":[-91.470552,44.800161],"type":"Point"}
+}

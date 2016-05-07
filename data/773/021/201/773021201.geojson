@@ -1,0 +1,71 @@
+{
+  "id": 773021201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.50521,43.07544,-89.50521,43.07544",
+    "geom:latitude":43.07544,
+    "geom:longitude":-89.50521,
+    "iso:country":"US",
+    "sg:address":"7001 Old Sauk Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 833 6545",
+    "sg:postcode":"53717",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OsQOc5B1doLnVgdqu8HXY_43.075440_-89.505210@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462582474,
+    "wof:geomhash":"3e64fa09ec177315b57844f08cca58c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":773021201
+        }
+    ],
+    "wof:id":773021201,
+    "wof:lastmodified":1462582474,
+    "wof:name":"Childrens Dental Ctr",
+    "wof:parent_id":85878843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -89.50521,
+    43.07544,
+    -89.50521,
+    43.07544
+],
+  "geometry": {"coordinates":[-89.50521000000001,43.07544],"type":"Point"}
+}

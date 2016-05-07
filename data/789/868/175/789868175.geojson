@@ -1,0 +1,88 @@
+{
+  "id": 789868175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.952339,42.990885,-87.952339,42.990885",
+    "geom:latitude":42.990885,
+    "geom:longitude":-87.952339,
+    "iso:country":"US",
+    "sg:address":"2901 W Kinnickinnic River Pkwy",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 649 3750",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870927,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517,
+        85870955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uwTkxChxvrZHyXHCFZS5h_42.990885_-87.952339@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591169,
+    "wof:geomhash":"25cd41884ab3f664af39959dec7165bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870927,
+            "region_id":85688517,
+            "venue_id":789868175
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870955,
+            "region_id":85688517,
+            "venue_id":789868175
+        }
+    ],
+    "wof:id":789868175,
+    "wof:lastmodified":1462591169,
+    "wof:name":"Milwaukee Digestive Disease",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.952339,
+    42.990885,
+    -87.952339,
+    42.990885
+],
+  "geometry": {"coordinates":[-87.95233899999999,42.990885],"type":"Point"}
+}

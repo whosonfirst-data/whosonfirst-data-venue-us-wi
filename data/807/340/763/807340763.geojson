@@ -1,0 +1,83 @@
+{
+  "id": 807340763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.106644,43.033321,-88.106644,43.033321",
+    "geom:latitude":43.033321,
+    "geom:longitude":-88.106644,
+    "iso:country":"US",
+    "sg:address":"200 N Moorland Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 784 4700",
+    "sg:postcode":"53005",
+    "sg:province":"WI",
+    "sg:tags":[
+        "spa",
+        "day"
+    ],
+    "sg:website":"http://www.azanaspa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808849,
+        102191575,
+        404492511,
+        85633793,
+        101733503,
+        102081741,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JcjSquKpyl5q7RHWVmMuY_43.033096_-88.106564@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462606361,
+    "wof:geomhash":"e4fcaff58172f93cf73ac49c21b9fcf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081741,
+            "localadmin_id":404492511,
+            "locality_id":101733503,
+            "neighbourhood_id":85808849,
+            "region_id":85688517,
+            "venue_id":807340763
+        }
+    ],
+    "wof:id":807340763,
+    "wof:lastmodified":1462606361,
+    "wof:name":"Azana Salon & Spa",
+    "wof:parent_id":85808849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "day"
+    ]
+},
+  "bbox": [
+    -88.106644,
+    43.033321,
+    -88.106644,
+    43.033321
+],
+  "geometry": {"coordinates":[-88.106644,43.033321],"type":"Point"}
+}

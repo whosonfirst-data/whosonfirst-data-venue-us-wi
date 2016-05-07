@@ -1,0 +1,77 @@
+{
+  "id": 790168451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.041743,43.000206,-88.041743,43.000206",
+    "geom:latitude":43.000206,
+    "geom:longitude":-88.041743,
+    "iso:country":"US",
+    "sg:address":"2514 S 102nd St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 777 5200",
+    "sg:postcode":"53227",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870861,
+        102191575,
+        404494275,
+        85633793,
+        101733091,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JoCrLDttYTbQLZP3XyDDJ_43.000206_-88.041743@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462593676,
+    "wof:geomhash":"afad9ca251dff5679b3632d11cacf0e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494275,
+            "locality_id":101733091,
+            "neighbourhood_id":85870861,
+            "region_id":85688517,
+            "venue_id":790168451
+        }
+    ],
+    "wof:id":790168451,
+    "wof:lastmodified":1462593676,
+    "wof:name":"Milwaukee Nephrologists",
+    "wof:parent_id":85870861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.041743,
+    43.000206,
+    -88.041743,
+    43.000206
+],
+  "geometry": {"coordinates":[-88.041743,43.000206],"type":"Point"}
+}

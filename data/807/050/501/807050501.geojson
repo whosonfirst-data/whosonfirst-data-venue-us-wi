@@ -1,0 +1,84 @@
+{
+  "id": 807050501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.154869,43.002655,-88.154869,43.002655",
+    "geom:latitude":43.002655,
+    "geom:longitude":-88.154869,
+    "iso:country":"US",
+    "sg:address":"19700 W Lincoln Ave",
+    "sg:city":"New Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 547 1400",
+    "sg:postcode":"53146",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808849,
+        102191575,
+        404492511,
+        85633793,
+        101733503,
+        102081741,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sYzhPDLT0JG3SvLUtGElN_43.002655_-88.154869@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603291,
+    "wof:geomhash":"267da238e50b710d421fa0f8b232bd1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081741,
+            "localadmin_id":404492511,
+            "locality_id":101733503,
+            "neighbourhood_id":85808849,
+            "region_id":85688517,
+            "venue_id":807050501
+        }
+    ],
+    "wof:id":807050501,
+    "wof:lastmodified":1462603291,
+    "wof:name":"Fredricks Bros Trucking Inc",
+    "wof:parent_id":85808849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.154869,
+    43.002655,
+    -88.154869,
+    43.002655
+],
+  "geometry": {"coordinates":[-88.15486900000001,43.002655],"type":"Point"}
+}

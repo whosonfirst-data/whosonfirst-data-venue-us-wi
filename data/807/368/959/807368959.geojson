@@ -1,0 +1,74 @@
+{
+  "id": 807368959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.51761,44.78948,-91.51761,44.78948",
+    "geom:latitude":44.78948,
+    "geom:longitude":-91.51761,
+    "iso:country":"US",
+    "sg:address":"2821 Hendrickson Dr",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/159414-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 838 7001",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ed01h5bT1qXsz0rqEmebg_44.789480_-91.517610@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606777,
+    "wof:geomhash":"668a2f157ad51233254c6cb5af9e4a6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807368959
+        }
+    ],
+    "wof:id":807368959,
+    "wof:lastmodified":1462606777,
+    "wof:name":"Arby's",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.51761,
+    44.78948,
+    -91.51761,
+    44.78948
+],
+  "geometry": {"coordinates":[-91.51761,44.78948],"type":"Point"}
+}

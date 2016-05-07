@@ -1,0 +1,71 @@
+{
+  "id": 790584711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.656539,44.951909,-89.656539,44.951909",
+    "geom:latitude":44.951909,
+    "geom:longitude":-89.656539,
+    "iso:country":"US",
+    "sg:address":"1700 Sherman St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 842 1587",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XfdJCuWWn5kUVvEAWAx2y_44.951909_-89.656539@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462597082,
+    "wof:geomhash":"41681a4b84ca866e95d08a639b57964c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":790584711
+        }
+    ],
+    "wof:id":790584711,
+    "wof:lastmodified":1462597082,
+    "wof:name":"American Transmission Comp",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -89.656539,
+    44.951909,
+    -89.656539,
+    44.951909
+],
+  "geometry": {"coordinates":[-89.656539,44.951909],"type":"Point"}
+}

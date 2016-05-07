@@ -1,0 +1,71 @@
+{
+  "id": 773652801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.973488,43.748795,-87.973488,43.748795",
+    "geom:latitude":43.748795,
+    "geom:longitude":-87.973488,
+    "iso:country":"US",
+    "sg:address":"402 E Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 893 8284",
+    "sg:postcode":"53073",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733393,
+        102081869,
+        85836705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l16ltmSu0KLdW5aXP742l_43.748795_-87.973488@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462587346,
+    "wof:geomhash":"e287580eaeabfcdd50d73e4ae8e68e7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "locality_id":101733393,
+            "neighbourhood_id":85836705,
+            "region_id":85688517,
+            "venue_id":773652801
+        }
+    ],
+    "wof:id":773652801,
+    "wof:lastmodified":1462587346,
+    "wof:name":"Glass Doctor",
+    "wof:parent_id":85836705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -87.973488,
+    43.748795,
+    -87.973488,
+    43.748795
+],
+  "geometry": {"coordinates":[-87.973488,43.748795],"type":"Point"}
+}

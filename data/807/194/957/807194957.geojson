@@ -1,0 +1,73 @@
+{
+  "id": 807194957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.397466,43.032545,-89.397466,43.032545",
+    "geom:latitude":43.032545,
+    "geom:longitude":-89.397466,
+    "iso:country":"US",
+    "sg:address":"967 Jonathon Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 278 9571",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zL3Pt9Jx44Bd67qBQhzmA_43.032545_-89.397466@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604742,
+    "wof:geomhash":"3215df5322be2805d4d0d41a0f6ec0b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":807194957
+        }
+    ],
+    "wof:id":807194957,
+    "wof:lastmodified":1462604742,
+    "wof:name":"Madison Automotive Tech",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.397466,
+    43.032545,
+    -89.397466,
+    43.032545
+],
+  "geometry": {"coordinates":[-89.39746599999999,43.032545],"type":"Point"}
+}

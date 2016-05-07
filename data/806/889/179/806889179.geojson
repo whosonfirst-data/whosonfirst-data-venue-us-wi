@@ -1,0 +1,71 @@
+{
+  "id": 806889179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.653395,44.926715,-89.653395,44.926715",
+    "geom:latitude":44.926715,
+    "geom:longitude":-89.653395,
+    "iso:country":"US",
+    "sg:address":"3400 Rib Mountain Dr",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 241 6360",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85854809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AQJSg72udad6P2Vok9osk_44.926715_-89.653395@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601923,
+    "wof:geomhash":"dba0326076d29688f627ae1dcb4cb6bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85854809,
+            "region_id":85688517,
+            "venue_id":806889179
+        }
+    ],
+    "wof:id":806889179,
+    "wof:lastmodified":1462601923,
+    "wof:name":"Barnes & Noble Booksellers",
+    "wof:parent_id":85854809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.653395,
+    44.926715,
+    -89.653395,
+    44.926715
+],
+  "geometry": {"coordinates":[-89.653395,44.926715],"type":"Point"}
+}

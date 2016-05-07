@@ -1,0 +1,85 @@
+{
+  "id": 823181305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.030418,42.514851,-89.030418,42.514851",
+    "geom:latitude":42.514851,
+    "geom:longitude":-89.030418,
+    "iso:country":"US",
+    "sg:address":"1 Abc Pkwy",
+    "sg:city":"Beloit",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 362 7777",
+    "sg:postcode":"53511",
+    "sg:province":"WI",
+    "sg:tags":[
+        "equipment",
+        "roofing",
+        "supply"
+    ],
+    "sg:website":"http://www.abc-supply.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85812915,
+        102191575,
+        404492341,
+        85633793,
+        101732817,
+        102081829,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09miRMVtO7O1fSBnFoe0Ye_42.514851_-89.030418@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608078,
+    "wof:geomhash":"13275f735d348fcdf7d2b586a89cc9e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081829,
+            "localadmin_id":404492341,
+            "locality_id":101732817,
+            "neighbourhood_id":85812915,
+            "region_id":85688517,
+            "venue_id":823181305
+        }
+    ],
+    "wof:id":823181305,
+    "wof:lastmodified":1462608078,
+    "wof:name":"ABC Supply Co Inc",
+    "wof:parent_id":85812915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "roofing",
+        "supply"
+    ]
+},
+  "bbox": [
+    -89.030418,
+    42.514851,
+    -89.030418,
+    42.514851
+],
+  "geometry": {"coordinates":[-89.030418,42.514851],"type":"Point"}
+}

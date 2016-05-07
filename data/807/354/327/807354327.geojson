@@ -1,0 +1,74 @@
+{
+  "id": 807354327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.105054,43.954549,-88.105054,43.954549",
+    "geom:latitude":43.954549,
+    "geom:longitude":-88.105054,
+    "iso:country":"US",
+    "sg:address":"2305 Calumet Dr",
+    "sg:city":"New Holstein",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/new-holstein/145672-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 898 1344",
+    "sg:postcode":"53061",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732735,
+        102081289,
+        85822647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2btf6nmqGzOHsJvAL9wo5R_43.954549_-88.105054@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606563,
+    "wof:geomhash":"03d1e656ec0c77c8af8bd75bda5e0ba6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081289,
+            "locality_id":101732735,
+            "neighbourhood_id":85822647,
+            "region_id":85688517,
+            "venue_id":807354327
+        }
+    ],
+    "wof:id":807354327,
+    "wof:lastmodified":1462606563,
+    "wof:name":"Subway",
+    "wof:parent_id":85822647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.105054,
+    43.954549,
+    -88.105054,
+    43.954549
+],
+  "geometry": {"coordinates":[-88.105054,43.954549],"type":"Point"}
+}

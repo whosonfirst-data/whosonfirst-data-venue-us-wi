@@ -1,0 +1,88 @@
+{
+  "id": 823138621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.903465,43.028127,-87.903465,43.028127",
+    "geom:latitude":43.028127,
+    "geom:longitude":-87.903465,
+    "iso:country":"US",
+    "sg:address":"541 E Erie St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 390 0522",
+    "sg:postcode":"53202",
+    "sg:province":"WI",
+    "sg:tags":[
+        "home",
+        "physician",
+        "nurse",
+        "eldercare-home",
+        "assistant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867287,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IdMdH5hg8AbCY7I63LHYS_43.028127_-87.903465@1303262807"
+    },
+    "wof:country":"US",
+    "wof:created":1462607478,
+    "wof:geomhash":"c49af4aa7a95c70ecbb3358d7780312d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85867287,
+            "region_id":85688517,
+            "venue_id":823138621
+        }
+    ],
+    "wof:id":823138621,
+    "wof:lastmodified":1462607478,
+    "wof:name":"Homan, Jan T",
+    "wof:parent_id":85867287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "physician",
+        "nurse",
+        "eldercare-home",
+        "assistant"
+    ]
+},
+  "bbox": [
+    -87.903465,
+    43.028127,
+    -87.903465,
+    43.028127
+],
+  "geometry": {"coordinates":[-87.903465,43.028127],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 807367861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.287058,44.749629,-90.287058,44.749629",
+    "geom:latitude":44.749629,
+    "geom:longitude":-90.287058,
+    "iso:country":"US",
+    "sg:address":"100 S Pacific St",
+    "sg:city":"Spencer",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/spencer/145759-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 659 5419",
+    "sg:postcode":"54479",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85832133,
+        102081881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pMS0vatNJdgqqLoSIvWy5_44.749629_-90.287058@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606763,
+    "wof:geomhash":"c287ce790042fe4b900e5592af239a97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "neighbourhood_id":85832133,
+            "region_id":85688517,
+            "venue_id":807367861
+        }
+    ],
+    "wof:id":807367861,
+    "wof:lastmodified":1462606763,
+    "wof:name":"Subway",
+    "wof:parent_id":85832133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.287058,
+    44.749629,
+    -90.287058,
+    44.749629
+],
+  "geometry": {"coordinates":[-90.287058,44.749629],"type":"Point"}
+}

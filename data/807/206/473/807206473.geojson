@@ -1,0 +1,75 @@
+{
+  "id": 807206473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.968296,43.74386,-87.968296,43.74386",
+    "geom:latitude":43.74386,
+    "geom:longitude":-87.968296,
+    "iso:country":"US",
+    "sg:address":"210 Selma St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 893 0588",
+    "sg:postcode":"53073",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical",
+        "surgical",
+        "emergency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733393,
+        102081869,
+        85836705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fOr8mKNBVbiB6V3oIsHrC_43.743860_-87.968296@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604862,
+    "wof:geomhash":"c793960d620c07bce3ca43ee4f2828b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "locality_id":101733393,
+            "neighbourhood_id":85836705,
+            "region_id":85688517,
+            "venue_id":807206473
+        }
+    ],
+    "wof:id":807206473,
+    "wof:lastmodified":1462604862,
+    "wof:name":"Plymouth Ambulance Svc",
+    "wof:parent_id":85836705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "surgical",
+        "emergency"
+    ]
+},
+  "bbox": [
+    -87.968296,
+    43.74386,
+    -87.968296,
+    43.74386
+],
+  "geometry": {"coordinates":[-87.968296,43.74386],"type":"Point"}
+}

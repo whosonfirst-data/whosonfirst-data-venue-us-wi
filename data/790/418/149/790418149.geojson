@@ -1,0 +1,88 @@
+{
+  "id": 790418149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.364848,43.082932,-89.364848,43.082932",
+    "geom:latitude":43.082932,
+    "geom:longitude":-89.364848,
+    "iso:country":"US",
+    "sg:address":"1130 Williamson St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 251 6835",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878861,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517,
+        85868285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qP8aE23EOIiZaKCfqaYJG_43.082932_-89.364848@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462595667,
+    "wof:geomhash":"cd3ec91322647020d9f635af70c91e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878861,
+            "region_id":85688517,
+            "venue_id":790418149
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85868285,
+            "region_id":85688517,
+            "venue_id":790418149
+        }
+    ],
+    "wof:id":790418149,
+    "wof:lastmodified":1462595667,
+    "wof:name":"MKS Petroleum LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -89.364848,
+    43.082932,
+    -89.364848,
+    43.082932
+],
+  "geometry": {"coordinates":[-89.36484799999999,43.082932],"type":"Point"}
+}

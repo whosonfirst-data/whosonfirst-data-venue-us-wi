@@ -1,0 +1,73 @@
+{
+  "id": 789967203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.594747,43.112552,-89.594747,43.112552",
+    "geom:latitude":43.112552,
+    "geom:longitude":-89.594747,
+    "iso:country":"US",
+    "sg:address":"7843 Big Timber Trl",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 798 0404",
+    "sg:postcode":"53562",
+    "sg:province":"WI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AEMZthYzGQlEmJ4xwkLEm_43.112552_-89.594747@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592061,
+    "wof:geomhash":"95b1602ecf122049744e56e0182dd952",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":789967203
+        }
+    ],
+    "wof:id":789967203,
+    "wof:lastmodified":1462592061,
+    "wof:name":"Big Timber Properties LLC",
+    "wof:parent_id":85878843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -89.594747,
+    43.112552,
+    -89.594747,
+    43.112552
+],
+  "geometry": {"coordinates":[-89.594747,43.112552],"type":"Point"}
+}

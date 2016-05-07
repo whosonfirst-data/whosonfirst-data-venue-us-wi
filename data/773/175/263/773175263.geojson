@@ -1,0 +1,75 @@
+{
+  "id": 773175263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.528427,42.988778,-89.528427,42.988778",
+    "geom:latitude":42.988778,
+    "geom:longitude":-89.528427,
+    "iso:country":"US",
+    "sg:address":"111 Lincoln St",
+    "sg:city":"Verona",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 255 2345",
+    "sg:postcode":"53593",
+    "sg:province":"WI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819513,
+        102191575,
+        404493361,
+        85633793,
+        101732797,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GvS8PUeLFuu59YHXRSDnq_42.988778_-89.528427@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583702,
+    "wof:geomhash":"2f5fe3dea04ce658b7353b8dcec9d051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404493361,
+            "locality_id":101732797,
+            "neighbourhood_id":85819513,
+            "region_id":85688517,
+            "venue_id":773175263
+        }
+    ],
+    "wof:id":773175263,
+    "wof:lastmodified":1462583702,
+    "wof:name":"Dane County Ambulance",
+    "wof:parent_id":85819513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -89.528427,
+    42.988778,
+    -89.528427,
+    42.988778
+],
+  "geometry": {"coordinates":[-89.52842699999999,42.988778],"type":"Point"}
+}

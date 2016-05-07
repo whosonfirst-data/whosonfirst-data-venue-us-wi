@@ -1,0 +1,78 @@
+{
+  "id": 789618089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.402321,43.040509,-89.402321,43.040509",
+    "geom:latitude":43.040509,
+    "geom:longitude":-89.402321,
+    "iso:country":"US",
+    "sg:address":"1021 Sequoia Trl",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 257 9347",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "consultant",
+        "programming",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878867,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IYut70iwgZ7on55mdw2d4_43.040509_-89.402321@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589204,
+    "wof:geomhash":"fe64cc279c5729c1e983240598b6c7ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878867,
+            "region_id":85688517,
+            "venue_id":789618089
+        }
+    ],
+    "wof:id":789618089,
+    "wof:lastmodified":1462589204,
+    "wof:name":"Extra Neurons Inc",
+    "wof:parent_id":85878867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "programming",
+        "software"
+    ]
+},
+  "bbox": [
+    -89.402321,
+    43.040509,
+    -89.402321,
+    43.040509
+],
+  "geometry": {"coordinates":[-89.402321,43.040509],"type":"Point"}
+}

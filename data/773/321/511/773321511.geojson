@@ -1,0 +1,71 @@
+{
+  "id": 773321511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.56409,44.814354,-91.56409,44.814354",
+    "geom:latitude":44.814354,
+    "geom:longitude":-91.56409,
+    "iso:country":"US",
+    "sg:address":"2302 W Cameron St",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 839 1094",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85848105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CieXMn4BDgqUgxbCGVWg5_44.814354_-91.564090@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584853,
+    "wof:geomhash":"91255cb419dae6cccc5fbf78c65673db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85848105,
+            "region_id":85688517,
+            "venue_id":773321511
+        }
+    ],
+    "wof:id":773321511,
+    "wof:lastmodified":1462584853,
+    "wof:name":"TFD3",
+    "wof:parent_id":85848105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.56409,
+    44.814354,
+    -91.56409,
+    44.814354
+],
+  "geometry": {"coordinates":[-91.56408999999999,44.814354],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773330631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.474223,44.856873,-91.474223,44.856873",
+    "geom:latitude":44.856873,
+    "geom:longitude":-91.474223,
+    "iso:country":"US",
+    "sg:address":"3329 Mitchell Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 839 0989",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05uSQtl78JufPBT2EMQRaI_44.856873_-91.474223@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584918,
+    "wof:geomhash":"441563b204d22327e44da34dfcbcad11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":773330631
+        }
+    ],
+    "wof:id":773330631,
+    "wof:lastmodified":1462584918,
+    "wof:name":"Superior Maintenance",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -91.474223,
+    44.856873,
+    -91.474223,
+    44.856873
+],
+  "geometry": {"coordinates":[-91.47422299999999,44.856873],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 773410141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.242336,43.011205,-88.242336,43.011205",
+    "geom:latitude":43.011205,
+    "geom:longitude":-88.242336,
+    "iso:country":"US",
+    "sg:address":"725 American Ave",
+    "sg:city":"Waukesha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 544 2267",
+    "sg:postcode":"53188",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841477,
+        102191575,
+        404492515,
+        85633793,
+        101733483,
+        102081741,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DZwwDT8R9wLFfUnGIKOkT_43.011205_-88.242336@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585489,
+    "wof:geomhash":"de54019736b219e4b6c4d11a07b8652f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081741,
+            "localadmin_id":404492515,
+            "locality_id":101733483,
+            "neighbourhood_id":85841477,
+            "region_id":85688517,
+            "venue_id":773410141
+        }
+    ],
+    "wof:id":773410141,
+    "wof:lastmodified":1462585489,
+    "wof:name":"Emergency Room",
+    "wof:parent_id":85841477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.242336,
+    43.011205,
+    -88.242336,
+    43.011205
+],
+  "geometry": {"coordinates":[-88.24233599999999,43.011205],"type":"Point"}
+}

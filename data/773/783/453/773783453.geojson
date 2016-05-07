@@ -1,0 +1,76 @@
+{
+  "id": 773783453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.330147,44.513909,-88.330147,44.513909",
+    "geom:latitude":44.513909,
+    "geom:longitude":-88.330147,
+    "iso:country":"US",
+    "sg:address":"306 N Main St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 833 2366",
+    "sg:postcode":"54165",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department",
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85803271,
+        102081851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_591pPKNKXRjgMlQnARS5qJ_44.513909_-88.330147@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588343,
+    "wof:geomhash":"dbe662684163d7bf8b99f686bf17c959",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "neighbourhood_id":85803271,
+            "region_id":85688517,
+            "venue_id":773783453
+        }
+    ],
+    "wof:id":773783453,
+    "wof:lastmodified":1462588343,
+    "wof:name":"Seymour Police Department",
+    "wof:parent_id":85803271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "executive"
+    ]
+},
+  "bbox": [
+    -88.330147,
+    44.513909,
+    -88.330147,
+    44.513909
+],
+  "geometry": {"coordinates":[-88.330147,44.513909],"type":"Point"}
+}

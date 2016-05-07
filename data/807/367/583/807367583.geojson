@@ -1,0 +1,72 @@
+{
+  "id": 807367583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.309564,44.945859,-90.309564,44.945859",
+    "geom:latitude":44.945859,
+    "geom:longitude":-90.309564,
+    "iso:country":"US",
+    "sg:address":"801 E Spruce St",
+    "sg:city":"Abbotsford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/abbotsford/79992-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 223 4045",
+    "sg:postcode":"54405",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85832133,
+        102081881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VE3wvXzympERdnNn4NrO3_44.945859_-90.309564@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606759,
+    "wof:geomhash":"b31bca4f87ea25c0b712098168282651",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "neighbourhood_id":85832133,
+            "region_id":85688517,
+            "venue_id":807367583
+        }
+    ],
+    "wof:id":807367583,
+    "wof:lastmodified":1462606759,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85832133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.309564,
+    44.945859,
+    -90.309564,
+    44.945859
+],
+  "geometry": {"coordinates":[-90.30956399999999,44.945859],"type":"Point"}
+}

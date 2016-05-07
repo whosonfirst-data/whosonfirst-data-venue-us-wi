@@ -1,0 +1,86 @@
+{
+  "id": 823159015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.94728,43.081121,-87.94728,43.081121",
+    "geom:latitude":43.081121,
+    "geom:longitude":-87.94728,
+    "iso:country":"US",
+    "sg:address":"2711 W Townsend St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 444 7500",
+    "sg:postcode":"53216",
+    "sg:province":"WI",
+    "sg:tags":[
+        "container",
+        "garbage",
+        "rubbish",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870877,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ceGI7ah4pumEW3aHKmTEk_43.081121_-87.947280@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607786,
+    "wof:geomhash":"2ab1d11361fe365f398fc7bca24db07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870877,
+            "region_id":85688517,
+            "venue_id":823159015
+        }
+    ],
+    "wof:id":823159015,
+    "wof:lastmodified":1462607786,
+    "wof:name":"Excel Disposal Of Wisconsin",
+    "wof:parent_id":85870877,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "garbage",
+        "rubbish",
+        "removal"
+    ]
+},
+  "bbox": [
+    -87.94728,
+    43.081121,
+    -87.94728,
+    43.081121
+],
+  "geometry": {"coordinates":[-87.94728000000001,43.081121],"type":"Point"}
+}

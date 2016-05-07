@@ -1,0 +1,82 @@
+{
+  "id": 823168301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.016218,43.067909,-88.016218,43.067909",
+    "geom:latitude":43.067909,
+    "geom:longitude":-88.016218,
+    "iso:country":"US",
+    "sg:address":"8305 W Center St Apt 3",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 477 6883",
+    "sg:postcode":"53222",
+    "sg:province":"WI",
+    "sg:tags":[
+        "line",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870873,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eVOFZPIthbCLUmAl9xCoK_43.067909_-88.016218@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607909,
+    "wof:geomhash":"68ee14c462d8ebd988e29df21c104d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870873,
+            "region_id":85688517,
+            "venue_id":823168301
+        }
+    ],
+    "wof:id":823168301,
+    "wof:lastmodified":1462607909,
+    "wof:name":"Food In Transit",
+    "wof:parent_id":85870873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line",
+        "public"
+    ]
+},
+  "bbox": [
+    -88.016218,
+    43.067909,
+    -88.016218,
+    43.067909
+],
+  "geometry": {"coordinates":[-88.01621799999999,43.067909],"type":"Point"}
+}

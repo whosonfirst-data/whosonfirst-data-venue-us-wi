@@ -1,0 +1,86 @@
+{
+  "id": 806450001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.344334,43.103111,-89.344334,43.103111",
+    "geom:latitude":43.103111,
+    "geom:longitude":-89.344334,
+    "iso:country":"US",
+    "sg:address":"2805 E Washington Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 242 9190",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878865,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517,
+        85878879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EZvSqhMCDF9Jm5X7HHXEm_43.103111_-89.344334@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462598244,
+    "wof:geomhash":"3ceaedc94d904f5759bebd1d603cdd70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878865,
+            "region_id":85688517,
+            "venue_id":806450001
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878879,
+            "region_id":85688517,
+            "venue_id":806450001
+        }
+    ],
+    "wof:id":806450001,
+    "wof:lastmodified":1462598244,
+    "wof:name":"Diversified Services Inds",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -89.344334,
+    43.103111,
+    -89.344334,
+    43.103111
+],
+  "geometry": {"coordinates":[-89.344334,43.103111],"type":"Point"}
+}

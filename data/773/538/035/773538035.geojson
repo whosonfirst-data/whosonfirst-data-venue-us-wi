@@ -1,0 +1,73 @@
+{
+  "id": 773538035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.629989,44.946177,-89.629989,44.946177",
+    "geom:latitude":44.946177,
+    "geom:longitude":-89.629989,
+    "iso:country":"US",
+    "sg:address":"233 Myron St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 845 3173",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "exchanging",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dYEeBUlRbmy7PLFmtlRlk_44.946177_-89.629989@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586465,
+    "wof:geomhash":"0060428b1f59681e8959b9f92f9b75fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":773538035
+        }
+    ],
+    "wof:id":773538035,
+    "wof:lastmodified":1462586465,
+    "wof:name":"Wausau Engines Inc",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exchanging",
+        "engine"
+    ]
+},
+  "bbox": [
+    -89.629989,
+    44.946177,
+    -89.629989,
+    44.946177
+],
+  "geometry": {"coordinates":[-89.62998899999999,44.946177],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 807000395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.851161,43.739559,-87.851161,43.739559",
+    "geom:latitude":43.739559,
+    "geom:longitude":-87.851161,
+    "iso:country":"US",
+    "sg:address":"3215 Co Rd C",
+    "sg:city":"Sheboygan Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 467 2571",
+    "sg:postcode":"53085",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733891,
+        102081869,
+        85821461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uLC19o0eQWhFbwo7y8FqT_43.739559_-87.851161@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602863,
+    "wof:geomhash":"0c46d495b538f192a6fdb9a02462baf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "locality_id":101733891,
+            "neighbourhood_id":85821461,
+            "region_id":85688517,
+            "venue_id":807000395
+        }
+    ],
+    "wof:id":807000395,
+    "wof:lastmodified":1462602863,
+    "wof:name":"Franzen Trucking LLC",
+    "wof:parent_id":85821461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -87.851161,
+    43.739559,
+    -87.851161,
+    43.739559
+],
+  "geometry": {"coordinates":[-87.851161,43.739559],"type":"Point"}
+}

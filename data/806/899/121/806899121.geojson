@@ -1,0 +1,86 @@
+{
+  "id": 806899121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.939804,42.995662,-87.939804,42.995662",
+    "geom:latitude":42.995662,
+    "geom:longitude":-87.939804,
+    "iso:country":"US",
+    "sg:address":"2615 W Cleveland Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 645 1390",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870927,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517,
+        85870955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GgqKXaOWiOk3FlYz1hDZE_42.995662_-87.939804@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602003,
+    "wof:geomhash":"cee96564354b75449d8f11007a57dcfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870927,
+            "region_id":85688517,
+            "venue_id":806899121
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870955,
+            "region_id":85688517,
+            "venue_id":806899121
+        }
+    ],
+    "wof:id":806899121,
+    "wof:lastmodified":1462602003,
+    "wof:name":"Greenwood Cemetery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -87.939804,
+    42.995662,
+    -87.939804,
+    42.995662
+],
+  "geometry": {"coordinates":[-87.939804,42.995662],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 823159505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.957148,43.086183,-87.957148,43.086183",
+    "geom:latitude":43.086183,
+    "geom:longitude":-87.957148,
+    "iso:country":"US",
+    "sg:address":"3813 N 35th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 444 1000",
+    "sg:postcode":"53216",
+    "sg:province":"WI",
+    "sg:tags":[
+        "lifts-automotive",
+        "industrial",
+        "compressors-repair",
+        "equipment",
+        "truck",
+        "maintenance"
+    ],
+    "sg:website":"http://www.wilkinson-capstran.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870907,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HgkpzEMBM35WBcvg24OkI_43.086183_-87.957148@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607793,
+    "wof:geomhash":"df689f4b298a2eb8a4aea203d969ff5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870907,
+            "region_id":85688517,
+            "venue_id":823159505
+        }
+    ],
+    "wof:id":823159505,
+    "wof:lastmodified":1462607793,
+    "wof:name":"Wilkinson-Capstran",
+    "wof:parent_id":85870907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-automotive",
+        "industrial",
+        "compressors-repair",
+        "equipment",
+        "truck",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -87.957148,
+    43.086183,
+    -87.957148,
+    43.086183
+],
+  "geometry": {"coordinates":[-87.957148,43.086183],"type":"Point"}
+}

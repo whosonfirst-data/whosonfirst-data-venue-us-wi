@@ -1,0 +1,71 @@
+{
+  "id": 773564015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.159095,44.035868,-88.159095,44.035868",
+    "geom:latitude":44.035868,
+    "geom:longitude":-88.159095,
+    "iso:country":"US",
+    "sg:address":"565 Water St",
+    "sg:city":"Chilton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 849 2467",
+    "sg:postcode":"53014",
+    "sg:province":"WI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732735,
+        102081289,
+        85822647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YSeG266wpBVQOAKtBtDUK_44.035868_-88.159095@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586681,
+    "wof:geomhash":"d571af0fad920bfc357357cd209fb020",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081289,
+            "locality_id":101732735,
+            "neighbourhood_id":85822647,
+            "region_id":85688517,
+            "venue_id":773564015
+        }
+    ],
+    "wof:id":773564015,
+    "wof:lastmodified":1462586681,
+    "wof:name":"Genes Repair",
+    "wof:parent_id":85822647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -88.159095,
+    44.035868,
+    -88.159095,
+    44.035868
+],
+  "geometry": {"coordinates":[-88.15909499999999,44.035868],"type":"Point"}
+}

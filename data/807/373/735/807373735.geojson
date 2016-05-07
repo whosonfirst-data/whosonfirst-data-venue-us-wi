@@ -1,0 +1,85 @@
+{
+  "id": 807373735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.902604,43.118195,-87.902604,43.118195",
+    "geom:latitude":43.118195,
+    "geom:longitude":-87.902604,
+    "iso:country":"US",
+    "sg:address":"601 E Silver Spring Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/whitefish-bay/41053-stone-creek-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 332 2285",
+    "sg:postcode":"53217",
+    "sg:province":"WI",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870821,
+        102191575,
+        404494165,
+        85633793,
+        101733065,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CccxZcxhsYWIaDTBaMXjP_43.118456_-87.902244@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462606838,
+    "wof:geomhash":"854d1c90a94a14553a7e069128afdfe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494165,
+            "locality_id":101733065,
+            "neighbourhood_id":85870821,
+            "region_id":85688517,
+            "venue_id":807373735
+        }
+    ],
+    "wof:id":807373735,
+    "wof:lastmodified":1462606838,
+    "wof:name":"Stone Creek Coffee",
+    "wof:parent_id":85870821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ]
+},
+  "bbox": [
+    -87.902604,
+    43.118195,
+    -87.902604,
+    43.118195
+],
+  "geometry": {"coordinates":[-87.902604,43.118195],"type":"Point"}
+}

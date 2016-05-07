@@ -1,0 +1,71 @@
+{
+  "id": 773642867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.433588,42.588795,-88.433588,42.588795",
+    "geom:latitude":42.588795,
+    "geom:longitude":-88.433588,
+    "iso:country":"US",
+    "sg:address":"150 Center St",
+    "sg:city":"Lake Geneva",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 248 8544",
+    "sg:postcode":"53147",
+    "sg:province":"WI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733551,
+        102081883,
+        85812017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BiH03p0QNgdB1NQURP4qL_42.588795_-88.433588@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462587275,
+    "wof:geomhash":"323b9f3f6fd1c6d9c8b08a1bdc60ca2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733551,
+            "neighbourhood_id":85812017,
+            "region_id":85688517,
+            "venue_id":773642867
+        }
+    ],
+    "wof:id":773642867,
+    "wof:lastmodified":1462587275,
+    "wof:name":"Chicago Pizza",
+    "wof:parent_id":85812017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.433588,
+    42.588795,
+    -88.433588,
+    42.588795
+],
+  "geometry": {"coordinates":[-88.433588,42.588795],"type":"Point"}
+}

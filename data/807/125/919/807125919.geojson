@@ -1,0 +1,78 @@
+{
+  "id": 807125919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.442921,44.273161,-88.442921,44.273161",
+    "geom:latitude":44.273161,
+    "geom:longitude":-88.442921,
+    "iso:country":"US",
+    "sg:address":"2339 W Wisconsin Ave",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 734 3356",
+    "sg:postcode":"54914",
+    "sg:province":"WI",
+    "sg:tags":[
+        "field",
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tCtUfvwmymRFbYXvLAIVi_44.273161_-88.442921@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604009,
+    "wof:geomhash":"7e5411849aaf6a8dd6e0ec86b1dc97e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":807125919
+        }
+    ],
+    "wof:id":807125919,
+    "wof:lastmodified":1462604009,
+    "wof:name":"Geo Test",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "establishment"
+    ]
+},
+  "bbox": [
+    -88.442921,
+    44.273161,
+    -88.442921,
+    44.273161
+],
+  "geometry": {"coordinates":[-88.442921,44.273161],"type":"Point"}
+}

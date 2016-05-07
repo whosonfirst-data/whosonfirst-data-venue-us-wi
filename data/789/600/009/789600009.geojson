@@ -1,0 +1,71 @@
+{
+  "id": 789600009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.119655,44.821605,-90.119655,44.821605",
+    "geom:latitude":44.821605,
+    "geom:longitude":-90.119655,
+    "iso:country":"US",
+    "sg:address":"4361 Staadt Ave",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 687 4501",
+    "sg:postcode":"54484",
+    "sg:province":"WI",
+    "sg:tags":[
+        "cleaning",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85832133,
+        102081881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hGWFlWiynZzKg36mpSz0k_44.821605_-90.119655@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589068,
+    "wof:geomhash":"21a1df69a3b11a9f8e2a138e7bb01aaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "neighbourhood_id":85832133,
+            "region_id":85688517,
+            "venue_id":789600009
+        }
+    ],
+    "wof:id":789600009,
+    "wof:lastmodified":1462589068,
+    "wof:name":"Zabler Septic Service",
+    "wof:parent_id":85832133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaning",
+        "septic"
+    ]
+},
+  "bbox": [
+    -90.119655,
+    44.821605,
+    -90.119655,
+    44.821605
+],
+  "geometry": {"coordinates":[-90.11965499999999,44.821605],"type":"Point"}
+}

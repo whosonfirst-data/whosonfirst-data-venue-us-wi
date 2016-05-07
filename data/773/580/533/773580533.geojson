@@ -1,0 +1,76 @@
+{
+  "id": 773580533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.473429,44.265068,-88.473429,44.265068",
+    "geom:latitude":44.265068,
+    "geom:longitude":-88.473429,
+    "iso:country":"US",
+    "sg:address":"322 N Metro Dr",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 749 1717",
+    "sg:postcode":"54913",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z4c3jfqOTR99J6nZOyS1F_44.265068_-88.473429@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586807,
+    "wof:geomhash":"e4c782e6ac10645d4fda920e6a66eb6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":773580533
+        }
+    ],
+    "wof:id":773580533,
+    "wof:lastmodified":1462586807,
+    "wof:name":"Animal Medical Center Appleton",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -88.473429,
+    44.265068,
+    -88.473429,
+    44.265068
+],
+  "geometry": {"coordinates":[-88.473429,44.265068],"type":"Point"}
+}

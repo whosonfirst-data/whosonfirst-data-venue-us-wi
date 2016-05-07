@@ -1,0 +1,77 @@
+{
+  "id": 789600757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.429526,43.018631,-89.429526,43.018631",
+    "geom:latitude":43.018631,
+    "geom:longitude":-89.429526,
+    "iso:country":"US",
+    "sg:address":"3016 Purdy Station Rd",
+    "sg:city":"Fitchburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 219 1239",
+    "sg:postcode":"53711",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "mover",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Dm65ILra0SFxg9MCABsoV_43.018631_-89.429526@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589073,
+    "wof:geomhash":"2b0ad2a44ed1bd8bc0787630afb60fd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":789600757
+        }
+    ],
+    "wof:id":789600757,
+    "wof:lastmodified":1462589073,
+    "wof:name":"A C Transfer",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "mover",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.429526,
+    43.018631,
+    -89.429526,
+    43.018631
+],
+  "geometry": {"coordinates":[-89.429526,43.018631],"type":"Point"}
+}

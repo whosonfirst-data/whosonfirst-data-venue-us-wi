@@ -1,0 +1,71 @@
+{
+  "id": 789693067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.464406,44.801271,-91.464406,44.801271",
+    "geom:latitude":44.801271,
+    "geom:longitude":-91.464406,
+    "iso:country":"US",
+    "sg:address":"911 Princeton St",
+    "sg:city":"Altoona",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 834 0840",
+    "sg:postcode":"54720",
+    "sg:province":"WI",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bO8ofVYFP8vp6qcpE8NIG_44.801271_-91.464406@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589803,
+    "wof:geomhash":"b68227daf761822435acc9d4498edb68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":789693067
+        }
+    ],
+    "wof:id":789693067,
+    "wof:lastmodified":1462589803,
+    "wof:name":"UPS",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -91.464406,
+    44.801271,
+    -91.464406,
+    44.801271
+],
+  "geometry": {"coordinates":[-91.464406,44.801271],"type":"Point"}
+}

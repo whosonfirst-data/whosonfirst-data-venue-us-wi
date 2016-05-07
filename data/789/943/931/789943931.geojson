@@ -1,0 +1,71 @@
+{
+  "id": 789943931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.129951,43.995815,-88.129951,43.995815",
+    "geom:latitude":43.995815,
+    "geom:longitude":-88.129951,
+    "iso:country":"US",
+    "sg:address":"1865 Shady Ln",
+    "sg:city":"New Holstein",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 849 4217",
+    "sg:postcode":"53061",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732735,
+        102081289,
+        85822647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03qlgU73HXprINGqozehPe_43.995815_-88.129951@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591823,
+    "wof:geomhash":"cd40493aa285087c3bd3ccb502b6949b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081289,
+            "locality_id":101732735,
+            "neighbourhood_id":85822647,
+            "region_id":85688517,
+            "venue_id":789943931
+        }
+    ],
+    "wof:id":789943931,
+    "wof:lastmodified":1462591823,
+    "wof:name":"Thomas G Brandt DDS",
+    "wof:parent_id":85822647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.129951,
+    43.995815,
+    -88.129951,
+    43.995815
+],
+  "geometry": {"coordinates":[-88.12995100000001,43.995815],"type":"Point"}
+}

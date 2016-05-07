@@ -1,0 +1,71 @@
+{
+  "id": 807315721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.402946,43.041736,-89.402946,43.041736",
+    "geom:latitude":43.041736,
+    "geom:longitude":-89.402946,
+    "iso:country":"US",
+    "sg:address":"1122 Catalpa Cir",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 251 0005",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "house",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878867,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_162v6mrRuKKc1huCI36IRG_43.041774_-89.403135@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462606016,
+    "wof:geomhash":"d1970fae201733d51214d9590f0c0537",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878867,
+            "region_id":85688517,
+            "venue_id":807315721
+        }
+    ],
+    "wof:id":807315721,
+    "wof:lastmodified":1462606016,
+    "wof:name":"Cathys Cleaning",
+    "wof:parent_id":85878867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -89.402946,
+    43.041736,
+    -89.402946,
+    43.041736
+],
+  "geometry": {"coordinates":[-89.402946,43.041736],"type":"Point"}
+}

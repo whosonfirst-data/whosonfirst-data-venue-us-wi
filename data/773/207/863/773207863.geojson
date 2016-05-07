@@ -1,0 +1,80 @@
+{
+  "id": 773207863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.602754,44.9746,-89.602754,44.9746",
+    "geom:latitude":44.9746,
+    "geom:longitude":-89.602754,
+    "iso:country":"US",
+    "sg:address":"2203 N 18th St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 845 5386",
+    "sg:postcode":"54403",
+    "sg:province":"WI",
+    "sg:tags":[
+        "machine",
+        "industrial",
+        "welding",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85868293,
+        102081881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59DB9xWRkZd3MRqtFnNgPw_44.974600_-89.602754@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583983,
+    "wof:geomhash":"e9829cc2b2c4c54af925bea7dc8dc656",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "neighbourhood_id":85868293,
+            "region_id":85688517,
+            "venue_id":773207863
+        }
+    ],
+    "wof:id":773207863,
+    "wof:lastmodified":1462583983,
+    "wof:name":"Precision Welding & Machining",
+    "wof:parent_id":85868293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industrial",
+        "welding",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -89.602754,
+    44.9746,
+    -89.602754,
+    44.9746
+],
+  "geometry": {"coordinates":[-89.602754,44.9746],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 790347545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.06621,43.10487,-88.06621,43.10487",
+    "geom:latitude":43.10487,
+    "geom:longitude":-88.06621,
+    "iso:country":"US",
+    "sg:address":"12432 Hampton Rd",
+    "sg:city":"Butler",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 781 4676",
+    "sg:postcode":"53007",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870815,
+        102191575,
+        404495623,
+        85633793,
+        101733513,
+        102081741,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n3x9lwxx4mSDsKqXylWmH_43.104870_-88.066210@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462595119,
+    "wof:geomhash":"75331edc5d6d30300c9536de7ee9360a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081741,
+            "localadmin_id":404495623,
+            "locality_id":101733513,
+            "neighbourhood_id":85870815,
+            "region_id":85688517,
+            "venue_id":790347545
+        }
+    ],
+    "wof:id":790347545,
+    "wof:lastmodified":1462595119,
+    "wof:name":"Leissrings' Service Station",
+    "wof:parent_id":85870815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -88.06621,
+    43.10487,
+    -88.06621,
+    43.10487
+],
+  "geometry": {"coordinates":[-88.06621,43.10487],"type":"Point"}
+}

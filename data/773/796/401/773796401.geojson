@@ -1,0 +1,71 @@
+{
+  "id": 773796401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.188274,43.317735,-88.188274,43.317735",
+    "geom:latitude":43.317735,
+    "geom:longitude":-88.188274,
+    "iso:country":"US",
+    "sg:address":"1 Sysco Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 677 1100",
+    "sg:postcode":"53037",
+    "sg:province":"WI",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85846371,
+        102081745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rX4gjP5Eegm60pcajsa8m_43.317735_-88.188274@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588439,
+    "wof:geomhash":"d30259f7f037e18f624ac0039ccf7d2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081745,
+            "neighbourhood_id":85846371,
+            "region_id":85688517,
+            "venue_id":773796401
+        }
+    ],
+    "wof:id":773796401,
+    "wof:lastmodified":1462588439,
+    "wof:name":"Sysco Food Svc Of Eastern WI",
+    "wof:parent_id":85846371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product"
+    ]
+},
+  "bbox": [
+    -88.188274,
+    43.317735,
+    -88.188274,
+    43.317735
+],
+  "geometry": {"coordinates":[-88.18827400000001,43.317735],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 807359365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.987049,43.024307,-87.987049,43.024307",
+    "geom:latitude":43.024307,
+    "geom:longitude":-87.987049,
+    "iso:country":"US",
+    "sg:address":"683 S Hawley Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/milwaukee/145639-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 774 9939",
+    "sg:postcode":"53214",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870837,
+        102191575,
+        404494275,
+        85633793,
+        101733091,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xSd1yNTgg9MDFyNykGPVd_43.024307_-87.987049@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606641,
+    "wof:geomhash":"cbe364d7b1dd3551b57527552b7fdbe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494275,
+            "locality_id":101733091,
+            "neighbourhood_id":85870837,
+            "region_id":85688517,
+            "venue_id":807359365
+        }
+    ],
+    "wof:id":807359365,
+    "wof:lastmodified":1462606641,
+    "wof:name":"Subway",
+    "wof:parent_id":85870837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -87.987049,
+    43.024307,
+    -87.987049,
+    43.024307
+],
+  "geometry": {"coordinates":[-87.987049,43.024307],"type":"Point"}
+}

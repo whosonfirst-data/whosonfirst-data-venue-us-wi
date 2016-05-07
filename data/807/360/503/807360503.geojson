@@ -1,0 +1,88 @@
+{
+  "id": 807360503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.010893,43.177344,-88.010893,43.177344",
+    "geom:latitude":43.177344,
+    "geom:longitude":-88.010893,
+    "iso:country":"US",
+    "sg:address":"8101 W Brown Deer Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/milwaukee/95421-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 371 2356",
+    "sg:postcode":"53223",
+    "sg:province":"WI",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550091,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ixIKvKd5qmTDw9y3ovcIW_43.177344_-88.010893@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606658,
+    "wof:geomhash":"eaf1f03b308932707337b0635d1c8bb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":420550091,
+            "region_id":85688517,
+            "venue_id":807360503
+        }
+    ],
+    "wof:id":807360503,
+    "wof:lastmodified":1462606658,
+    "wof:name":"IHOP",
+    "wof:parent_id":420550091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -88.010893,
+    43.177344,
+    -88.010893,
+    43.177344
+],
+  "geometry": {"coordinates":[-88.010893,43.177344],"type":"Point"}
+}

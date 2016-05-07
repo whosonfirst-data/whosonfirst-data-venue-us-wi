@@ -1,0 +1,71 @@
+{
+  "id": 790601681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.407046,44.28056,-88.407046,44.28056",
+    "geom:latitude":44.28056,
+    "geom:longitude":-88.407046,
+    "iso:country":"US",
+    "sg:address":"123 W Glendale Ave",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 734 7011",
+    "sg:postcode":"54911",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NEMlvns4qYvZAiAZGjnh7_44.280560_-88.407046@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462597239,
+    "wof:geomhash":"e14a336c798729eecf87f345b48a9a98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":790601681
+        }
+    ],
+    "wof:id":790601681,
+    "wof:lastmodified":1462597239,
+    "wof:name":"Bill's Barber Shop",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.407046,
+    44.28056,
+    -88.407046,
+    44.28056
+],
+  "geometry": {"coordinates":[-88.40704599999999,44.28056],"type":"Point"}
+}

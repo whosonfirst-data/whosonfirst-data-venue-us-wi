@@ -1,0 +1,73 @@
+{
+  "id": 807248149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.536427,42.859721,-89.536427,42.859721",
+    "geom:latitude":42.859721,
+    "geom:longitude":-89.536427,
+    "iso:country":"US",
+    "sg:address":"107 W Main St",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 424 6009",
+    "sg:postcode":"53508",
+    "sg:province":"WI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85804673,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ppFnxnQtVgux6w0CQpHhr_42.859721_-89.536427@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605306,
+    "wof:geomhash":"ebda0d09e4c5d1f67bb38815521babd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85804673,
+            "region_id":85688517,
+            "venue_id":807248149
+        }
+    ],
+    "wof:id":807248149,
+    "wof:lastmodified":1462605306,
+    "wof:name":"Belleville Auto Body & Sales",
+    "wof:parent_id":85804673,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -89.536427,
+    42.859721,
+    -89.536427,
+    42.859721
+],
+  "geometry": {"coordinates":[-89.536427,42.859721],"type":"Point"}
+}

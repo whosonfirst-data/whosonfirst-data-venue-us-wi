@@ -1,0 +1,73 @@
+{
+  "id": 806803399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.224163,43.182475,-89.224163,43.182475",
+    "geom:latitude":43.182475,
+    "geom:longitude":-89.224163,
+    "iso:country":"US",
+    "sg:address":"641 W Main St",
+    "sg:city":"Sun Prairie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 825 6457",
+    "sg:postcode":"53590",
+    "sg:province":"WI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05dMzsAXVtIw6QktWAfCA4_43.182475_-89.224163@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601213,
+    "wof:geomhash":"c2c3a41793135f0037c2dfec87d939b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":806803399
+        }
+    ],
+    "wof:id":806803399,
+    "wof:lastmodified":1462601213,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -89.224163,
+    43.182475,
+    -89.224163,
+    43.182475
+],
+  "geometry": {"coordinates":[-89.224163,43.182475],"type":"Point"}
+}

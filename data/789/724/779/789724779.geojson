@@ -1,0 +1,78 @@
+{
+  "id": 789724779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.743414,44.059235,-87.743414,44.059235",
+    "geom:latitude":44.059235,
+    "geom:longitude":-87.743414,
+    "iso:country":"US",
+    "sg:address":"3284 Newtonburg Rd",
+    "sg:city":"Manitowoc",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 758 3199",
+    "sg:postcode":"54220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xWv950uXidYWobKcHwDkA_44.059235_-87.743414@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590063,
+    "wof:geomhash":"1db8df8331560a810ccde4a431a9e140",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":789724779
+        }
+    ],
+    "wof:id":789724779,
+    "wof:lastmodified":1462590063,
+    "wof:name":"Mueller Repair LLC",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.743414,
+    44.059235,
+    -87.743414,
+    44.059235
+],
+  "geometry": {"coordinates":[-87.743414,44.059235],"type":"Point"}
+}

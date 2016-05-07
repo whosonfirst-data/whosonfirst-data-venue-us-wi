@@ -1,0 +1,89 @@
+{
+  "id": 823178051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.933087,43.038737,-87.933087,43.038737",
+    "geom:latitude":43.038737,
+    "geom:longitude":-87.933087,
+    "iso:country":"US",
+    "sg:address":"1610 W Wisconsin Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 933 1233",
+    "sg:postcode":"53233",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ],
+    "sg:website":"http://www.starbuckscoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870977,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55GrZIBd8SOi51cRWfYLAb_43.038737_-87.933087@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608039,
+    "wof:geomhash":"ea288408dea8df37a79dd253cac1a0d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870977,
+            "region_id":85688517,
+            "venue_id":823178051
+        }
+    ],
+    "wof:id":823178051,
+    "wof:lastmodified":1462608039,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85870977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -87.933087,
+    43.038737,
+    -87.933087,
+    43.038737
+],
+  "geometry": {"coordinates":[-87.933087,43.038737],"type":"Point"}
+}

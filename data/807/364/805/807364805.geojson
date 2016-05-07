@@ -1,0 +1,72 @@
+{
+  "id": 807364805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.299989,43.08434,-89.299989,43.08434",
+    "geom:latitude":43.08434,
+    "geom:longitude":-89.299989,
+    "iso:country":"US",
+    "sg:address":"4762 Cottage Grove Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/80031-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 221 0666",
+    "sg:postcode":"53716",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kV0yxcGJ7IY698sqDUGw7_43.084340_-89.299989@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606717,
+    "wof:geomhash":"b95188ad5113b1b2e02c4f0b1dffc9fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":807364805
+        }
+    ],
+    "wof:id":807364805,
+    "wof:lastmodified":1462606717,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.299989,
+    43.08434,
+    -89.299989,
+    43.08434
+],
+  "geometry": {"coordinates":[-89.299989,43.08434],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 823175383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.04128,43.00267,-88.04128,43.00267",
+    "geom:latitude":43.00267,
+    "geom:longitude":-88.04128,
+    "iso:country":"US",
+    "sg:address":"10300 W Lincoln Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 321 6666",
+    "sg:postcode":"53227",
+    "sg:province":"WI",
+    "sg:tags":[
+        "laboratories-medical",
+        "dental",
+        "medical",
+        "x-ray"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870861,
+        102191575,
+        404494275,
+        85633793,
+        101733091,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jkHs34zr6T4Cemnvq8r4x_43.002670_-88.041280@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608007,
+    "wof:geomhash":"1009dc46cbe6c4797af9451a6085a828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494275,
+            "locality_id":101733091,
+            "neighbourhood_id":85870861,
+            "region_id":85688517,
+            "venue_id":823175383
+        }
+    ],
+    "wof:id":823175383,
+    "wof:lastmodified":1462608007,
+    "wof:name":"Mds Digital Portable X-Ray, Inc.",
+    "wof:parent_id":85870861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratories-medical",
+        "dental",
+        "medical",
+        "x-ray"
+    ]
+},
+  "bbox": [
+    -88.04128,
+    43.00267,
+    -88.04128,
+    43.00267
+],
+  "geometry": {"coordinates":[-88.04128,43.00267],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 807372401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.732519,43.771733,-87.732519,43.771733",
+    "geom:latitude":43.771733,
+    "geom:longitude":-87.732519,
+    "iso:country":"US",
+    "sg:address":"2004 Martin Ave",
+    "sg:city":"Sheboygan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/sheboygan/85831-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 452 1199",
+    "sg:postcode":"53083",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85818209,
+        102081869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EBIV9JFcHF9siBRzRPXYX_43.771843_-87.732913@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606822,
+    "wof:geomhash":"71bec7757f75f39c9fff705eb6955136",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "neighbourhood_id":85818209,
+            "region_id":85688517,
+            "venue_id":807372401
+        }
+    ],
+    "wof:id":807372401,
+    "wof:lastmodified":1462606822,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85818209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -87.732519,
+    43.771733,
+    -87.732519,
+    43.771733
+],
+  "geometry": {"coordinates":[-87.732519,43.771733],"type":"Point"}
+}

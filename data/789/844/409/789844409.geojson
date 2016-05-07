@@ -1,0 +1,80 @@
+{
+  "id": 789844409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.80063,42.931419,-89.80063,42.931419",
+    "geom:latitude":42.931419,
+    "geom:longitude":-89.80063,
+    "iso:country":"US",
+    "sg:address":"1386 State Hwy 78",
+    "sg:city":"Mt Horeb",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 437 8714",
+    "sg:postcode":"53572",
+    "sg:province":"WI",
+    "sg:tags":[
+        "automobile",
+        "general",
+        "parking",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85813391,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k6P2aHK74DLIVU86coiKv_42.931419_-89.800630@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590987,
+    "wof:geomhash":"6c5cbac2c26c554057ab5935e2b42658",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85813391,
+            "region_id":85688517,
+            "venue_id":789844409
+        }
+    ],
+    "wof:id":789844409,
+    "wof:lastmodified":1462590987,
+    "wof:name":"Perry Town Garage",
+    "wof:parent_id":85813391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "general",
+        "parking",
+        "village"
+    ]
+},
+  "bbox": [
+    -89.80063,
+    42.931419,
+    -89.80063,
+    42.931419
+],
+  "geometry": {"coordinates":[-89.80063,42.931419],"type":"Point"}
+}

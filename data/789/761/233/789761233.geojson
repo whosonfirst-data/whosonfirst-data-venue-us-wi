@@ -1,0 +1,75 @@
+{
+  "id": 789761233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.524853,43.070132,-89.524853,43.070132",
+    "geom:latitude":43.070132,
+    "geom:longitude":-89.524853,
+    "iso:country":"US",
+    "sg:address":"633 Junction Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 827 6697",
+    "sg:postcode":"53717",
+    "sg:province":"WI",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tnZnSzjHyIpobapm1i5Pc_43.070132_-89.524853@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590342,
+    "wof:geomhash":"209067ee36e0d32b4b4e50cc800d98e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":789761233
+        }
+    ],
+    "wof:id":789761233,
+    "wof:lastmodified":1462590342,
+    "wof:name":"Mobil",
+    "wof:parent_id":85878843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -89.524853,
+    43.070132,
+    -89.524853,
+    43.070132
+],
+  "geometry": {"coordinates":[-89.52485299999999,43.070132],"type":"Point"}
+}

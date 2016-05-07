@@ -1,0 +1,77 @@
+{
+  "id": 807337445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.268097,42.6693,-88.268097,42.6693",
+    "geom:latitude":42.6693,
+    "geom:longitude":-88.268097,
+    "iso:country":"US",
+    "sg:address":"466 S Pine St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 763 7794",
+    "sg:postcode":"53105",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repair",
+        "bike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865439,
+        102191575,
+        404494891,
+        85633793,
+        101733617,
+        102081763,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4weKKAfhfuXHXIQUqJZZ4I_42.669804_-88.268284@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462606314,
+    "wof:geomhash":"899bc6f2fff6a4b3ed6aa48691fff326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494891,
+            "locality_id":101733617,
+            "neighbourhood_id":85865439,
+            "region_id":85688517,
+            "venue_id":807337445
+        }
+    ],
+    "wof:id":807337445,
+    "wof:lastmodified":1462606314,
+    "wof:name":"Bob's Pedal Pusher",
+    "wof:parent_id":85865439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "bike"
+    ]
+},
+  "bbox": [
+    -88.268097,
+    42.6693,
+    -88.268097,
+    42.6693
+],
+  "geometry": {"coordinates":[-88.268097,42.6693],"type":"Point"}
+}

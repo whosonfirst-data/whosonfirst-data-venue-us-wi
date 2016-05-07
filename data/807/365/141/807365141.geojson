@@ -1,0 +1,78 @@
+{
+  "id": 807365141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.455852,43.015337,-89.455852,43.015337",
+    "geom:latitude":43.015337,
+    "geom:longitude":-89.455852,
+    "iso:country":"US",
+    "sg:address":"5957 Mckee Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/fitchburg/145464-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 442 6011",
+    "sg:postcode":"53719",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878885,
+        102191575,
+        404493257,
+        85633793,
+        101732773,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MAxUipN5thCqZ4QHqfVfC_43.015337_-89.455852@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606722,
+    "wof:geomhash":"5634effd382efbb2c2cc30164ff05f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404493257,
+            "locality_id":101732773,
+            "neighbourhood_id":85878885,
+            "region_id":85688517,
+            "venue_id":807365141
+        }
+    ],
+    "wof:id":807365141,
+    "wof:lastmodified":1462606722,
+    "wof:name":"Subway",
+    "wof:parent_id":85878885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.455852,
+    43.015337,
+    -89.455852,
+    43.015337
+],
+  "geometry": {"coordinates":[-89.45585199999999,43.015337],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 773538571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.64335,44.113823,-87.64335,44.113823",
+    "geom:latitude":44.113823,
+    "geom:longitude":-87.64335,
+    "iso:country":"US",
+    "sg:address":"333 E Reed Ave",
+    "sg:city":"Manitowoc",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 683 5411",
+    "sg:postcode":"54220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "outpatient",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ko7e0CorAes4vczImTSR0_44.113823_-87.643350@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586469,
+    "wof:geomhash":"6836e83d18659a9de373c978c20df43b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":773538571
+        }
+    ],
+    "wof:id":773538571,
+    "wof:lastmodified":1462586469,
+    "wof:name":"Dialysis Center",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outpatient",
+        "facility"
+    ]
+},
+  "bbox": [
+    -87.64335,
+    44.113823,
+    -87.64335,
+    44.113823
+],
+  "geometry": {"coordinates":[-87.64335,44.113823],"type":"Point"}
+}

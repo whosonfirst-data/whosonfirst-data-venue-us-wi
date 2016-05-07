@@ -1,0 +1,76 @@
+{
+  "id": 773363109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.51157,43.098158,-89.51157,43.098158",
+    "geom:latitude":43.098158,
+    "geom:longitude":-89.51157,
+    "iso:country":"US",
+    "sg:address":"2002 Parmenter St",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 831 6600",
+    "sg:postcode":"53562",
+    "sg:province":"WI",
+    "sg:tags":[
+        "chain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732813,
+        102081795,
+        85841479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hKYTWG1cuDqMxuifQKSar_43.098158_-89.511570@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585134,
+    "wof:geomhash":"fe7a150f316bd95f1c2a6453c7988d7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732813,
+            "neighbourhood_id":85841479,
+            "region_id":85688517,
+            "venue_id":773363109
+        }
+    ],
+    "wof:id":773363109,
+    "wof:lastmodified":1462585134,
+    "wof:name":"PDQ Food Stores Inc",
+    "wof:parent_id":85841479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chain"
+    ]
+},
+  "bbox": [
+    -89.51157,
+    43.098158,
+    -89.51157,
+    43.098158
+],
+  "geometry": {"coordinates":[-89.51157000000001,43.098158],"type":"Point"}
+}

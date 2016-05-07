@@ -1,0 +1,74 @@
+{
+  "id": 807371421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.418892,44.240901,-88.418892,44.240901",
+    "geom:latitude":44.240901,
+    "geom:longitude":-88.418892,
+    "iso:country":"US",
+    "sg:address":"2205 S Memorial Dr",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/appleton/63973-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 993 7272",
+    "sg:postcode":"54915",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732729,
+        102081801,
+        85807543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QtrGiZf7CgwH8Sq0tln4C_44.240901_-88.418892@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606810,
+    "wof:geomhash":"ec2a82c64df7a2bf14f4bace1bc002cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101732729,
+            "neighbourhood_id":85807543,
+            "region_id":85688517,
+            "venue_id":807371421
+        }
+    ],
+    "wof:id":807371421,
+    "wof:lastmodified":1462606810,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85807543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.418892,
+    44.240901,
+    -88.418892,
+    44.240901
+],
+  "geometry": {"coordinates":[-88.418892,44.240901],"type":"Point"}
+}

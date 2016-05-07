@@ -1,0 +1,71 @@
+{
+  "id": 789878257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.983519,43.354443,-87.983519,43.354443",
+    "geom:latitude":43.354443,
+    "geom:longitude":-87.983519,
+    "iso:country":"US",
+    "sg:address":"5836 Oakdale Ct",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 375 4905",
+    "sg:postcode":"53024",
+    "sg:province":"WI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85826293,
+        102081873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xkh9IstEnDSerN8feyWCK_43.354443_-87.983519@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591272,
+    "wof:geomhash":"178d443efe215c2af6c3e885037735ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081873,
+            "neighbourhood_id":85826293,
+            "region_id":85688517,
+            "venue_id":789878257
+        }
+    ],
+    "wof:id":789878257,
+    "wof:lastmodified":1462591272,
+    "wof:name":"Northwoods Dental Studio",
+    "wof:parent_id":85826293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -87.983519,
+    43.354443,
+    -87.983519,
+    43.354443
+],
+  "geometry": {"coordinates":[-87.983519,43.354443],"type":"Point"}
+}

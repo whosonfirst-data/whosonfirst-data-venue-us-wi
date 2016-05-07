@@ -1,0 +1,83 @@
+{
+  "id": 823152689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.91716,43.093501,-87.91716,43.093501",
+    "geom:latitude":43.093501,
+    "geom:longitude":-87.91716,
+    "iso:country":"US",
+    "sg:address":"4287 N Port Washington Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 906 8800",
+    "sg:postcode":"53212",
+    "sg:province":"WI",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "sg:website":"http://www.maglioproduce.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870875,
+        102191575,
+        404494169,
+        85633793,
+        101733069,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RLAZ8kTm0ovq9lcPJ4d3C_43.093501_-87.917160@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607700,
+    "wof:geomhash":"197b6abd98e78b1e4ad7a31da142c3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494169,
+            "locality_id":101733069,
+            "neighbourhood_id":85870875,
+            "region_id":85688517,
+            "venue_id":823152689
+        }
+    ],
+    "wof:id":823152689,
+    "wof:lastmodified":1462607700,
+    "wof:name":"Maglio & Company",
+    "wof:parent_id":85870875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -87.91716,
+    43.093501,
+    -87.91716,
+    43.093501
+],
+  "geometry": {"coordinates":[-87.91716,43.093501],"type":"Point"}
+}

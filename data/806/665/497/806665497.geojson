@@ -1,0 +1,77 @@
+{
+  "id": 806665497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.353539,43.128825,-89.353539,43.128825",
+    "geom:latitude":43.128825,
+    "geom:longitude":-89.353539,
+    "iso:country":"US",
+    "sg:address":"2205 Darwin Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 249 2999",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525659,
+        85878829,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VRnCztZCf6Wnq8i4TPGNt_43.128825_-89.353539@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462600044,
+    "wof:geomhash":"bc0335fb72e41186618ebaf3fb0e4d27",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525659,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878829,
+            "region_id":85688517,
+            "venue_id":806665497
+        }
+    ],
+    "wof:id":806665497,
+    "wof:lastmodified":1462600044,
+    "wof:name":"TNT Express",
+    "wof:parent_id":102525659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -89.353539,
+    43.128825,
+    -89.353539,
+    43.128825
+],
+  "geometry": {"coordinates":[-89.353539,43.128825],"type":"Point"}
+}

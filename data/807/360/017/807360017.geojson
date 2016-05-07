@@ -1,0 +1,76 @@
+{
+  "id": 807360017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.008229,42.986234,-88.008229,42.986234",
+    "geom:latitude":42.986234,
+    "geom:longitude":-88.008229,
+    "iso:country":"US",
+    "sg:address":"3191 S 76th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/milwaukee/204835-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 727 2226",
+    "sg:postcode":"53219",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870901,
+        102191575,
+        404494275,
+        85633793,
+        101733091,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WgoP8KHKNy9soX1BwKbm9_42.986234_-88.008229@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606650,
+    "wof:geomhash":"c3a6aef700b95a661a07766dfed40f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494275,
+            "locality_id":101733091,
+            "neighbourhood_id":85870901,
+            "region_id":85688517,
+            "venue_id":807360017
+        }
+    ],
+    "wof:id":807360017,
+    "wof:lastmodified":1462606650,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85870901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -88.008229,
+    42.986234,
+    -88.008229,
+    42.986234
+],
+  "geometry": {"coordinates":[-88.008229,42.986234],"type":"Point"}
+}

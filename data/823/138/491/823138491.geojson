@@ -1,0 +1,76 @@
+{
+  "id": 823138491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.900656,43.043983,-87.900656,43.043983",
+    "geom:latitude":43.043983,
+    "geom:longitude":-87.900656,
+    "iso:country":"US",
+    "sg:address":"916 E State St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 272 0892",
+    "sg:postcode":"53202",
+    "sg:province":"WI",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"http://www.avis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870833,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T8fg46vI7TP6XGNarbXdn_43.043983_-87.900656@1303262807"
+    },
+    "wof:country":"US",
+    "wof:created":1462607476,
+    "wof:geomhash":"793a7c68bca05e203741692e61c578e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870833,
+            "region_id":85688517,
+            "venue_id":823138491
+        }
+    ],
+    "wof:id":823138491,
+    "wof:lastmodified":1462607476,
+    "wof:name":"Avis Rent A Car",
+    "wof:parent_id":85870833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -87.900656,
+    43.043983,
+    -87.900656,
+    43.043983
+],
+  "geometry": {"coordinates":[-87.900656,43.043983],"type":"Point"}
+}

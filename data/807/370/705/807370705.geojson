@@ -1,0 +1,72 @@
+{
+  "id": 807370705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.415759,44.27478,-88.415759,44.27478",
+    "geom:latitude":44.27478,
+    "geom:longitude":-88.415759,
+    "iso:country":"US",
+    "sg:address":"1513 N Richmond St",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/appleton/131216-sammys-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 734 4567",
+    "sg:postcode":"54911",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76MWijt937qqNAEPZie3Yi_44.274780_-88.415759@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606797,
+    "wof:geomhash":"695ec90b07231699c53af2a373d6e2da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":807370705
+        }
+    ],
+    "wof:id":807370705,
+    "wof:lastmodified":1462606797,
+    "wof:name":"Sammy's Pizza",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -88.415759,
+    44.27478,
+    -88.415759,
+    44.27478
+],
+  "geometry": {"coordinates":[-88.41575899999999,44.27478],"type":"Point"}
+}

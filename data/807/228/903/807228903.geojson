@@ -1,0 +1,71 @@
+{
+  "id": 807228903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.507975,44.785597,-91.507975,44.785597",
+    "geom:latitude":44.785597,
+    "geom:longitude":-91.507975,
+    "iso:country":"US",
+    "sg:address":"703 W Hamilton Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 836 9806",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ipbNntU8VX8z2bR06i0S4_44.785597_-91.507975@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605107,
+    "wof:geomhash":"4ef3ecc4c261225f42b428477d7a4123",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807228903
+        }
+    ],
+    "wof:id":807228903,
+    "wof:lastmodified":1462605107,
+    "wof:name":"Quest Diagnostics",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -91.507975,
+    44.785597,
+    -91.507975,
+    44.785597
+],
+  "geometry": {"coordinates":[-91.507975,44.785597],"type":"Point"}
+}

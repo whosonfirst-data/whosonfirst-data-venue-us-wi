@@ -1,0 +1,74 @@
+{
+  "id": 807354455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.798012,43.623095,-87.798012,43.623095",
+    "geom:latitude":43.623095,
+    "geom:longitude":-87.798012,
+    "iso:country":"US",
+    "sg:address":"948 Center Ave",
+    "sg:city":"Oostburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/oostburg/145686-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 564 6037",
+    "sg:postcode":"53070",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733891,
+        102081869,
+        85821461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B4r6UL93u0okXpfF9i5UT_43.623095_-87.798012@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606565,
+    "wof:geomhash":"487405dd6c2491e6625ff41f83ca21c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "locality_id":101733891,
+            "neighbourhood_id":85821461,
+            "region_id":85688517,
+            "venue_id":807354455
+        }
+    ],
+    "wof:id":807354455,
+    "wof:lastmodified":1462606565,
+    "wof:name":"Subway",
+    "wof:parent_id":85821461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -87.798012,
+    43.623095,
+    -87.798012,
+    43.623095
+],
+  "geometry": {"coordinates":[-87.798012,43.623095],"type":"Point"}
+}

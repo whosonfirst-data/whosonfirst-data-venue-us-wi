@@ -1,0 +1,85 @@
+{
+  "id": 773381329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.259747,44.173352,-88.259747,44.173352",
+    "geom:latitude":44.173352,
+    "geom:longitude":-88.259747,
+    "iso:country":"US",
+    "sg:address":"394 Military Rd",
+    "sg:city":"Sherwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 989 1421",
+    "sg:postcode":"54129",
+    "sg:province":"WI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885337,
+        102191575,
+        404493061,
+        85633793,
+        101732749,
+        102081289,
+        85688517,
+        85846669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RaJFAFfnrTHaMuqBBbiw6_44.173352_-88.259747@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585261,
+    "wof:geomhash":"3bfb1049d3e5853a28e55e063ae786db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081289,
+            "localadmin_id":404493061,
+            "locality_id":101732749,
+            "neighbourhood_id":85885337,
+            "region_id":85688517,
+            "venue_id":773381329
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081289,
+            "neighbourhood_id":85846669,
+            "region_id":85688517,
+            "venue_id":773381329
+        }
+    ],
+    "wof:id":773381329,
+    "wof:lastmodified":1462585261,
+    "wof:name":"Ken's Plumbing Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.259747,
+    44.173352,
+    -88.259747,
+    44.173352
+],
+  "geometry": {"coordinates":[-88.259747,44.173352],"type":"Point"}
+}

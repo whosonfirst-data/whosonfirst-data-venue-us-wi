@@ -1,0 +1,85 @@
+{
+  "id": 823174825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.047785,43.059245,-88.047785,43.059245",
+    "geom:latitude":43.059245,
+    "geom:longitude":-88.047785,
+    "iso:country":"US",
+    "sg:address":"2265 N Mayfair Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 443 0115",
+    "sg:postcode":"53226",
+    "sg:province":"WI",
+    "sg:tags":[
+        "handbag",
+        "boots-retail",
+        "store"
+    ],
+    "sg:website":"http://www.dsw.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870873,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mhkMQCGvQu5jvgUqQ8fDc_43.059245_-88.047785@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462607997,
+    "wof:geomhash":"4a82ab5bd18888719b6951c5d35202a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870873,
+            "region_id":85688517,
+            "venue_id":823174825
+        }
+    ],
+    "wof:id":823174825,
+    "wof:lastmodified":1462607997,
+    "wof:name":"DSW",
+    "wof:parent_id":85870873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handbag",
+        "boots-retail",
+        "store"
+    ]
+},
+  "bbox": [
+    -88.047785,
+    43.059245,
+    -88.047785,
+    43.059245
+],
+  "geometry": {"coordinates":[-88.047785,43.059245],"type":"Point"}
+}

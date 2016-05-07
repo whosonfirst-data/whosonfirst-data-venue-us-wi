@@ -1,0 +1,71 @@
+{
+  "id": 806905139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.627979,44.960578,-89.627979,44.960578",
+    "geom:latitude":44.960578,
+    "geom:longitude":-89.627979,
+    "iso:country":"US",
+    "sg:address":"221 Scott St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 845 2267",
+    "sg:postcode":"54403",
+    "sg:province":"WI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f4fwp0OKnVKYVVhS6mgRZ_44.960578_-89.627979@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602048,
+    "wof:geomhash":"eb3c9982672e8b39d64657de98406963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":806905139
+        }
+    ],
+    "wof:id":806905139,
+    "wof:lastmodified":1462602048,
+    "wof:name":"Landmark Apartments",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.627979,
+    44.960578,
+    -89.627979,
+    44.960578
+],
+  "geometry": {"coordinates":[-89.627979,44.960578],"type":"Point"}
+}

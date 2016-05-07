@@ -1,0 +1,77 @@
+{
+  "id": 806522573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.88902,43.089264,-87.88902,43.089264",
+    "geom:latitude":43.089264,
+    "geom:longitude":-87.88902,
+    "iso:country":"US",
+    "sg:address":"1620 E Capitol Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 332 2236",
+    "sg:postcode":"53211",
+    "sg:province":"WI",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870879,
+        102191575,
+        404494183,
+        85633793,
+        101733085,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03hEnOVhK9e8L5WvuDDx2z_43.089264_-87.889020@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462598806,
+    "wof:geomhash":"bd709c3a448796dc270c740d60d1003d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494183,
+            "locality_id":101733085,
+            "neighbourhood_id":85870879,
+            "region_id":85688517,
+            "venue_id":806522573
+        }
+    ],
+    "wof:id":806522573,
+    "wof:lastmodified":1462598806,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85870879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -87.88902,
+    43.089264,
+    -87.88902,
+    43.089264
+],
+  "geometry": {"coordinates":[-87.88902,43.089264],"type":"Point"}
+}

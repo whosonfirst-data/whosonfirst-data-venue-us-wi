@@ -1,0 +1,87 @@
+{
+  "id": 807342931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.962156,43.135289,-87.962156,43.135289",
+    "geom:latitude":43.135289,
+    "geom:longitude":-87.962156,
+    "iso:country":"US",
+    "sg:address":"6462 N 40th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 353 5840",
+    "sg:postcode":"53209",
+    "sg:province":"WI",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "shop",
+        "automobile",
+        "truck",
+        "painting",
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870807,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vnBkVuYnzYYjFuLoRStvJ_43.135615_-87.962080@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462606388,
+    "wof:geomhash":"0a613a9d9ab27b11a08ed27db8b0e677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870807,
+            "region_id":85688517,
+            "venue_id":807342931
+        }
+    ],
+    "wof:id":807342931,
+    "wof:lastmodified":1462606388,
+    "wof:name":"Milwaukee Auto Body",
+    "wof:parent_id":85870807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "shop",
+        "automobile",
+        "truck",
+        "painting",
+        "painter"
+    ]
+},
+  "bbox": [
+    -87.962156,
+    43.135289,
+    -87.962156,
+    43.135289
+],
+  "geometry": {"coordinates":[-87.96215599999999,43.135289],"type":"Point"}
+}

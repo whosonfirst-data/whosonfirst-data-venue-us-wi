@@ -1,0 +1,79 @@
+{
+  "id": 789762395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.477876,43.049216,-89.477876,43.049216",
+    "geom:latitude":43.049216,
+    "geom:longitude":-89.477876,
+    "iso:country":"US",
+    "sg:address":"5534 Medical Cir",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 274 0355",
+    "sg:postcode":"53719",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878893,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hBfqgDcJxYYQSLsizXVzY_43.049216_-89.477876@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590349,
+    "wof:geomhash":"dd26321ede01e29fc4c7e00479f10cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878893,
+            "region_id":85688517,
+            "venue_id":789762395
+        }
+    ],
+    "wof:id":789762395,
+    "wof:lastmodified":1462590349,
+    "wof:name":"Madison Psychiatric Associates",
+    "wof:parent_id":85878893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.477876,
+    43.049216,
+    -89.477876,
+    43.049216
+],
+  "geometry": {"coordinates":[-89.47787599999999,43.049216],"type":"Point"}
+}

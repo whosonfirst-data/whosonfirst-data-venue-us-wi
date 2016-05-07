@@ -1,0 +1,78 @@
+{
+  "id": 807359173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.914151,43.059645,-87.914151,43.059645",
+    "geom:latitude":43.059645,
+    "geom:longitude":-87.914151,
+    "iso:country":"US",
+    "sg:address":"2244 N Dr Martin Luther King Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/milwaukee/145627-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 372 9925",
+    "sg:postcode":"53212",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870919,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RVwCrfzFvb1HqZ363trMF_43.059645_-87.914151@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606638,
+    "wof:geomhash":"65bf84bd486a6ec6508426891f106e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870919,
+            "region_id":85688517,
+            "venue_id":807359173
+        }
+    ],
+    "wof:id":807359173,
+    "wof:lastmodified":1462606638,
+    "wof:name":"Subway",
+    "wof:parent_id":85870919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -87.914151,
+    43.059645,
+    -87.914151,
+    43.059645
+],
+  "geometry": {"coordinates":[-87.914151,43.059645],"type":"Point"}
+}

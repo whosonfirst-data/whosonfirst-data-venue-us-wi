@@ -1,0 +1,72 @@
+{
+  "id": 807362565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.53458,43.074865,-89.53458,43.074865",
+    "geom:latitude":43.074865,
+    "geom:longitude":-89.53458,
+    "iso:country":"US",
+    "sg:address":"8712 Old Sauk Rd",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/27761-chipotle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 826 0919",
+    "sg:postcode":"53562",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yXO97OEnWSMmaGwhJrzGZ_43.074865_-89.534580@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606691,
+    "wof:geomhash":"c30b5852269da04057c3bca32ae6f593",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":807362565
+        }
+    ],
+    "wof:id":807362565,
+    "wof:lastmodified":1462606691,
+    "wof:name":"Chipotle",
+    "wof:parent_id":85878843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -89.53458,
+    43.074865,
+    -89.53458,
+    43.074865
+],
+  "geometry": {"coordinates":[-89.53458000000001,43.074865],"type":"Point"}
+}

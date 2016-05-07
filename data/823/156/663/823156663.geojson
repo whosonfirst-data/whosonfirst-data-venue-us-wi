@@ -1,0 +1,82 @@
+{
+  "id": 823156663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.929911,43.002892,-87.929911,43.002892",
+    "geom:latitude":43.002892,
+    "geom:longitude":-87.929911,
+    "iso:country":"US",
+    "sg:address":"1405 W Lincoln Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 383 7071",
+    "sg:postcode":"53215",
+    "sg:province":"WI",
+    "sg:tags":[
+        "tools-renting",
+        "saw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85894491,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ycyaGAVDR4RxE868AsNNH_43.002892_-87.929911@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607759,
+    "wof:geomhash":"5d3fc849ed614696f8f8f354f8b4b506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85894491,
+            "region_id":85688517,
+            "venue_id":823156663
+        }
+    ],
+    "wof:id":823156663,
+    "wof:lastmodified":1462607759,
+    "wof:name":"Housing Resources Inc.",
+    "wof:parent_id":85894491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tools-renting",
+        "saw"
+    ]
+},
+  "bbox": [
+    -87.929911,
+    43.002892,
+    -87.929911,
+    43.002892
+],
+  "geometry": {"coordinates":[-87.929911,43.002892],"type":"Point"}
+}

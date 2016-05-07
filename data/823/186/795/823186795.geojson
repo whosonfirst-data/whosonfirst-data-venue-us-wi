@@ -1,0 +1,88 @@
+{
+  "id": 823186795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.400951,43.06592,-89.400951,43.06592",
+    "geom:latitude":43.06592,
+    "geom:longitude":-89.400951,
+    "iso:country":"US",
+    "sg:address":"202 S PARK ST",
+    "sg:city":"MADISON",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 417 6000",
+    "sg:postcode":"53715",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"http://www.meriter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868283,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ubAWLN5JfaWBFiHqWaOi7_43.065920_-89.400951@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608153,
+    "wof:geomhash":"9c9da27811c419215a65499107571a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85868283,
+            "region_id":85688517,
+            "venue_id":823186795
+        }
+    ],
+    "wof:id":823186795,
+    "wof:lastmodified":1462608153,
+    "wof:name":"Meriter Hospital",
+    "wof:parent_id":85868283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.400951,
+    43.06592,
+    -89.400951,
+    43.06592
+],
+  "geometry": {"coordinates":[-89.40095100000001,43.06592],"type":"Point"}
+}

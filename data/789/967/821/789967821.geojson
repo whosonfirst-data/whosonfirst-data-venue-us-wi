@@ -1,0 +1,67 @@
+{
+  "id": 789967821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.66007,44.932773,-89.66007,44.932773",
+    "geom:latitude":44.932773,
+    "geom:longitude":-89.66007,
+    "iso:country":"US",
+    "sg:address":"1809 N Mountain Rd",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 845 3212",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:website":"www.crisisprime.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YtpKYb98NAehvklAwbD3R_44.932773_-89.660070@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592065,
+    "wof:geomhash":"cd561aa857835045968555bf79f42890",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":789967821
+        }
+    ],
+    "wof:id":789967821,
+    "wof:lastmodified":1462592065,
+    "wof:name":"Mountain Luthiers",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.66007,
+    44.932773,
+    -89.66007,
+    44.932773
+],
+  "geometry": {"coordinates":[-89.66007,44.932773],"type":"Point"}
+}

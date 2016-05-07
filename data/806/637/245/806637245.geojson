@@ -1,0 +1,71 @@
+{
+  "id": 806637245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.473592,43.094632,-88.473592,43.094632",
+    "geom:latitude":43.094632,
+    "geom:longitude":-88.473592,
+    "iso:country":"US",
+    "sg:address":"1234 Newport Dr",
+    "sg:city":"Oconomowoc",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 567 5835",
+    "sg:postcode":"53066",
+    "sg:province":"WI",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85851111,
+        102081741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41fEcivzD9ir27ZysDaImR_43.094632_-88.473592@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462599793,
+    "wof:geomhash":"531dae09b2abc5c1f5d240bc420908a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081741,
+            "neighbourhood_id":85851111,
+            "region_id":85688517,
+            "venue_id":806637245
+        }
+    ],
+    "wof:id":806637245,
+    "wof:lastmodified":1462599793,
+    "wof:name":"Lang Home",
+    "wof:parent_id":85851111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -88.473592,
+    43.094632,
+    -88.473592,
+    43.094632
+],
+  "geometry": {"coordinates":[-88.473592,43.094632],"type":"Point"}
+}

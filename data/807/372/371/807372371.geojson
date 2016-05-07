@@ -1,0 +1,74 @@
+{
+  "id": 807372371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.93046,43.383128,-87.93046,43.383128",
+    "geom:latitude":43.383128,
+    "geom:longitude":-87.93046,
+    "iso:country":"US",
+    "sg:address":"130 S Foster St",
+    "sg:city":"Saukville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/saukville/145742-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 284 2410",
+    "sg:postcode":"53080",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732547,
+        102081873,
+        85828641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g2v0b5bnR4n2H2ZbMT3q9_43.382966_-87.930457@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606821,
+    "wof:geomhash":"de7a72244f31249bb74ece1968677c36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081873,
+            "locality_id":101732547,
+            "neighbourhood_id":85828641,
+            "region_id":85688517,
+            "venue_id":807372371
+        }
+    ],
+    "wof:id":807372371,
+    "wof:lastmodified":1462606821,
+    "wof:name":"Subway",
+    "wof:parent_id":85828641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -87.93046,
+    43.383128,
+    -87.93046,
+    43.383128
+],
+  "geometry": {"coordinates":[-87.93046,43.383128],"type":"Point"}
+}

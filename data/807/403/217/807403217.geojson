@@ -1,0 +1,82 @@
+{
+  "id": 807403217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.12056,42.514609,-88.12056,42.514609",
+    "geom:latitude":42.514609,
+    "geom:longitude":-88.12056,
+    "iso:country":"US",
+    "sg:address":"11200 258th Ave",
+    "sg:city":"Trevor",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 862 6012",
+    "sg:postcode":"53179",
+    "sg:province":"WI",
+    "sg:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85830415,
+        102081309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EK3ZNf0tHFi71FNaJpD7v_42.514609_-88.120560@1303262807"
+    },
+    "wof:country":"US",
+    "wof:created":1462607359,
+    "wof:geomhash":"f95a4810e7d6a4193b0a5d743cea572a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081309,
+            "neighbourhood_id":85830415,
+            "region_id":85688517,
+            "venue_id":807403217
+        }
+    ],
+    "wof:id":807403217,
+    "wof:lastmodified":1462607359,
+    "wof:name":"Salem Township Garage",
+    "wof:parent_id":85830415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -88.12056,
+    42.514609,
+    -88.12056,
+    42.514609
+],
+  "geometry": {"coordinates":[-88.12056,42.514609],"type":"Point"}
+}

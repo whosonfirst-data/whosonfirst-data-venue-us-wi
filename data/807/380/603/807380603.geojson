@@ -1,0 +1,74 @@
+{
+  "id": 807380603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.003799,43.3204,-88.003799,43.3204",
+    "geom:latitude":43.3204,
+    "geom:longitude":-88.003799,
+    "iso:country":"US",
+    "sg:address":"7084 Sycamore Dr",
+    "sg:city":"Cedarburg",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Ice Rink",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 377 7443",
+    "sg:postcode":"53012",
+    "sg:province":"WI",
+    "sg:tags":[
+        "skating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85868895,
+        102081873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HfkWeIKr5XQBewfpQBuxi_43.320400_-88.003799@1303262805"
+    },
+    "wof:country":"US",
+    "wof:created":1462606927,
+    "wof:geomhash":"76c93256d4c777be1a9383b679556c89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081873,
+            "neighbourhood_id":85868895,
+            "region_id":85688517,
+            "venue_id":807380603
+        }
+    ],
+    "wof:id":807380603,
+    "wof:lastmodified":1462606927,
+    "wof:name":"Ozaukee Skateland",
+    "wof:parent_id":85868895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skating"
+    ]
+},
+  "bbox": [
+    -88.003799,
+    43.3204,
+    -88.003799,
+    43.3204
+],
+  "geometry": {"coordinates":[-88.003799,43.3204],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 823155439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.986107,43.017731,-87.986107,43.017731",
+    "geom:latitude":43.017731,
+    "geom:longitude":-87.986107,
+    "iso:country":"US",
+    "sg:address":"5901 W National Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 257 9999",
+    "sg:postcode":"53214",
+    "sg:province":"WI",
+    "sg:tags":[
+        "german",
+        "tavern",
+        "inn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870923,
+        102191575,
+        404494277,
+        85633793,
+        101733095,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sbXkHg0JdcbyVN61aLCrY_43.017731_-87.986107@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607741,
+    "wof:geomhash":"afc455b143dbac3f14c439f75fef0500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494277,
+            "locality_id":101733095,
+            "neighbourhood_id":85870923,
+            "region_id":85688517,
+            "venue_id":823155439
+        }
+    ],
+    "wof:id":823155439,
+    "wof:lastmodified":1462607741,
+    "wof:name":"Kegel's Inn",
+    "wof:parent_id":85870923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "german",
+        "tavern",
+        "inn"
+    ]
+},
+  "bbox": [
+    -87.986107,
+    43.017731,
+    -87.986107,
+    43.017731
+],
+  "geometry": {"coordinates":[-87.986107,43.017731],"type":"Point"}
+}

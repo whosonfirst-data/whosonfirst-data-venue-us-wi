@@ -1,0 +1,71 @@
+{
+  "id": 773544841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.064668,46.1662,-90.064668,46.1662",
+    "geom:latitude":46.1662,
+    "geom:longitude":-90.064668,
+    "iso:country":"US",
+    "sg:address":"5224 US Hwy 51",
+    "sg:city":"Mercer",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 476 3432",
+    "sg:postcode":"54547",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951281,
+        102083009,
+        85837125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qEYPdxCOydgydffrJkmlq_46.166200_-90.064668@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586522,
+    "wof:geomhash":"e9a968aa0a80fe698721517e5c94de57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083009,
+            "locality_id":85951281,
+            "neighbourhood_id":85837125,
+            "region_id":85688599,
+            "venue_id":773544841
+        }
+    ],
+    "wof:id":773544841,
+    "wof:lastmodified":1462586522,
+    "wof:name":"Mercer Dental Office",
+    "wof:parent_id":85837125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.064668,
+    46.1662,
+    -90.064668,
+    46.1662
+],
+  "geometry": {"coordinates":[-90.064668,46.1662],"type":"Point"}
+}

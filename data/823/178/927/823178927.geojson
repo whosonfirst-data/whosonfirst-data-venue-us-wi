@@ -1,0 +1,83 @@
+{
+  "id": 823178927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.794075,42.715465,-87.794075,42.715465",
+    "geom:latitude":42.715465,
+    "geom:longitude":-87.794075,
+    "iso:country":"US",
+    "sg:address":"1225 14th St",
+    "sg:city":"Racine",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 634 3477",
+    "sg:postcode":"53403",
+    "sg:province":"WI",
+    "sg:tags":[
+        "labels-paper",
+        "label"
+    ],
+    "sg:website":"http://www.libertylabelcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827169,
+        102191575,
+        404494985,
+        85633793,
+        101732325,
+        102081763,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pPAN3FQCqOp4ek5d19UVz_42.715465_-87.794075@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608050,
+    "wof:geomhash":"00688b8bc0e7bfc3a0c8c88b7a46576d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494985,
+            "locality_id":101732325,
+            "neighbourhood_id":85827169,
+            "region_id":85688517,
+            "venue_id":823178927
+        }
+    ],
+    "wof:id":823178927,
+    "wof:lastmodified":1462608050,
+    "wof:name":"Liberty Label",
+    "wof:parent_id":85827169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "labels-paper",
+        "label"
+    ]
+},
+  "bbox": [
+    -87.794075,
+    42.715465,
+    -87.794075,
+    42.715465
+],
+  "geometry": {"coordinates":[-87.79407500000001,42.715465],"type":"Point"}
+}

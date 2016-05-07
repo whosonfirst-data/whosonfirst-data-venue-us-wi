@@ -1,0 +1,80 @@
+{
+  "id": 807368475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.253602,43.813222,-91.253602,43.813222",
+    "geom:latitude":43.813222,
+    "geom:longitude":-91.253602,
+    "iso:country":"US",
+    "sg:address":"221 Main St",
+    "sg:city":"La Crosse",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/la-crosse/18502-lindys-subs-and-salads/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 785 7200",
+    "sg:postcode":"54601",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837759,
+        102191575,
+        404493449,
+        85633793,
+        101733691,
+        102081301,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2onRklVHQMzSMD309t9hJh_43.813222_-91.253602@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606770,
+    "wof:geomhash":"43982096636dbfffd0a790f409ffe60f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081301,
+            "localadmin_id":404493449,
+            "locality_id":101733691,
+            "neighbourhood_id":85837759,
+            "region_id":85688517,
+            "venue_id":807368475
+        }
+    ],
+    "wof:id":807368475,
+    "wof:lastmodified":1462606770,
+    "wof:name":"Lindy's Subs and Salads",
+    "wof:parent_id":85837759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -91.253602,
+    43.813222,
+    -91.253602,
+    43.813222
+],
+  "geometry": {"coordinates":[-91.253602,43.813222],"type":"Point"}
+}

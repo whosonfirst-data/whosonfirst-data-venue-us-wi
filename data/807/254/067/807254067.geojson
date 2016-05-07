@@ -1,0 +1,73 @@
+{
+  "id": 807254067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.519284,43.093166,-89.519284,43.093166",
+    "geom:latitude":43.093166,
+    "geom:longitude":-89.519284,
+    "iso:country":"US",
+    "sg:address":"2705 W Beltline Hwy",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 836 8561",
+    "sg:postcode":"53562",
+    "sg:province":"WI",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63az0CnTzIpKMxOmZn9i5d_43.093166_-89.519284@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605370,
+    "wof:geomhash":"6576d9c0c99fef822a0993eaa4497b8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":807254067
+        }
+    ],
+    "wof:id":807254067,
+    "wof:lastmodified":1462605370,
+    "wof:name":"Middleton Veterinary Hospital",
+    "wof:parent_id":85878843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -89.519284,
+    43.093166,
+    -89.519284,
+    43.093166
+],
+  "geometry": {"coordinates":[-89.519284,43.093166],"type":"Point"}
+}

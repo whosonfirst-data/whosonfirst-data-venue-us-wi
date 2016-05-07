@@ -1,0 +1,82 @@
+{
+  "id": 823162983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.985351,43.010174,-87.985351,43.010174",
+    "geom:latitude":43.010174,
+    "geom:longitude":-87.985351,
+    "iso:country":"US",
+    "sg:address":"5832 W Burnham St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 545 4240",
+    "sg:postcode":"53219",
+    "sg:province":"WI",
+    "sg:tags":[
+        "liquors-wholesale",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870923,
+        102191575,
+        404494277,
+        85633793,
+        101733095,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_768XyuZeI1yXIMRxHD93H9_43.010174_-87.985351@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607841,
+    "wof:geomhash":"d1e22a3be79db42b5b3d52e83b6a724f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494277,
+            "locality_id":101733095,
+            "neighbourhood_id":85870923,
+            "region_id":85688517,
+            "venue_id":823162983
+        }
+    ],
+    "wof:id":823162983,
+    "wof:lastmodified":1462607841,
+    "wof:name":"Mohinder Beer & Liquor",
+    "wof:parent_id":85870923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquors-wholesale",
+        "store"
+    ]
+},
+  "bbox": [
+    -87.985351,
+    43.010174,
+    -87.985351,
+    43.010174
+],
+  "geometry": {"coordinates":[-87.98535099999999,43.010174],"type":"Point"}
+}

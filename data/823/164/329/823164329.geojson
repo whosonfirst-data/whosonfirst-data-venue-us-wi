@@ -1,0 +1,85 @@
+{
+  "id": 823164329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.96767,43.00536,-87.96767,43.00536",
+    "geom:latitude":43.00536,
+    "geom:longitude":-87.96767,
+    "iso:country":"US",
+    "sg:address":"2070 Miller Park Way",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 643 1469",
+    "sg:postcode":"53219",
+    "sg:province":"WI",
+    "sg:tags":[
+        "lube",
+        "oil",
+        "tire"
+    ],
+    "sg:website":"http://www.firestonecompleteautocare.com/?s_kwcid=IYP_NTL",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870841,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_072ZcsyemDgGviZbI2UFzn_43.005360_-87.967670@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607858,
+    "wof:geomhash":"9841b2c00ea8958a1734c44d96c1e04b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870841,
+            "region_id":85688517,
+            "venue_id":823164329
+        }
+    ],
+    "wof:id":823164329,
+    "wof:lastmodified":1462607858,
+    "wof:name":"Firestone Complete Auto Care Store",
+    "wof:parent_id":85870841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lube",
+        "oil",
+        "tire"
+    ]
+},
+  "bbox": [
+    -87.96767,
+    43.00536,
+    -87.96767,
+    43.00536
+],
+  "geometry": {"coordinates":[-87.96767,43.00536],"type":"Point"}
+}

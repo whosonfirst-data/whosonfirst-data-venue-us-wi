@@ -1,0 +1,71 @@
+{
+  "id": 806816809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.65921,44.096507,-87.65921,44.096507",
+    "geom:latitude":44.096507,
+    "geom:longitude":-87.65921,
+    "iso:country":"US",
+    "sg:address":"436 N 9th St",
+    "sg:city":"Manitowoc",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 684 3650",
+    "sg:postcode":"54220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XdpLDrrjwluFC6xySKIRH_44.096507_-87.659210@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601316,
+    "wof:geomhash":"ffabb81b06e38c59c7c87c4b76d0c6e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":806816809
+        }
+    ],
+    "wof:id":806816809,
+    "wof:lastmodified":1462601316,
+    "wof:name":"Gallenberger's Bakery",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -87.65921,
+    44.096507,
+    -87.65921,
+    44.096507
+],
+  "geometry": {"coordinates":[-87.65921,44.096507],"type":"Point"}
+}

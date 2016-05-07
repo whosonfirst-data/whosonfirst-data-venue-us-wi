@@ -1,0 +1,73 @@
+{
+  "id": 806608505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.732246,44.38056,-88.732246,44.38056",
+    "geom:latitude":44.38056,
+    "geom:longitude":-88.732246,
+    "iso:country":"US",
+    "sg:address":"1520 Mill St",
+    "sg:city":"New London",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 982 9842",
+    "sg:postcode":"54961",
+    "sg:province":"WI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CXZIgTmysUDMyKNMLVueT_44.380560_-88.732246@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462599554,
+    "wof:geomhash":"1c3c10ca9cf893c9d535f8463efaf3c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":806608505
+        }
+    ],
+    "wof:id":806608505,
+    "wof:lastmodified":1462599554,
+    "wof:name":"London Wash",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -88.732246,
+    44.38056,
+    -88.732246,
+    44.38056
+],
+  "geometry": {"coordinates":[-88.732246,44.38056],"type":"Point"}
+}

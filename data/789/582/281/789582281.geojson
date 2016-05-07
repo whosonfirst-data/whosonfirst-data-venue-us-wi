@@ -1,0 +1,73 @@
+{
+  "id": 789582281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.568883,43.999334,-88.568883,43.999334",
+    "geom:latitude":43.999334,
+    "geom:longitude":-88.568883,
+    "iso:country":"US",
+    "sg:address":"1222 W 18th Ave",
+    "sg:city":"Oshkosh",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 303 1755",
+    "sg:postcode":"54902",
+    "sg:province":"WI",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733459,
+        102081801,
+        85819403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S8TIqmVfE2uqztT3kE0ky_43.999334_-88.568883@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588924,
+    "wof:geomhash":"b676df8bdcddaea144e47adc94141d12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101733459,
+            "neighbourhood_id":85819403,
+            "region_id":85688517,
+            "venue_id":789582281
+        }
+    ],
+    "wof:id":789582281,
+    "wof:lastmodified":1462588924,
+    "wof:name":"Chippewa Valley",
+    "wof:parent_id":85819403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.568883,
+    43.999334,
+    -88.568883,
+    43.999334
+],
+  "geometry": {"coordinates":[-88.568883,43.999334],"type":"Point"}
+}

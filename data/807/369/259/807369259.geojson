@@ -1,0 +1,72 @@
+{
+  "id": 807369259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.458797,44.771029,-91.458797,44.771029",
+    "geom:latitude":44.771029,
+    "geom:longitude":-91.458797,
+    "iso:country":"US",
+    "sg:address":"3005 Golf Rd",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/293017-red-robin/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 834 4438",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CRY3nYeXV7yxe3FMIpQm2_44.771029_-91.458797@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606780,
+    "wof:geomhash":"136d8d10b4d5f3962a3d115a68c4bcdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807369259
+        }
+    ],
+    "wof:id":807369259,
+    "wof:lastmodified":1462606780,
+    "wof:name":"Red Robin",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger"
+    ]
+},
+  "bbox": [
+    -91.458797,
+    44.771029,
+    -91.458797,
+    44.771029
+],
+  "geometry": {"coordinates":[-91.458797,44.771029],"type":"Point"}
+}

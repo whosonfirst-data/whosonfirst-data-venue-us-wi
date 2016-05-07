@@ -1,0 +1,92 @@
+{
+  "id": 807384085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.338324,43.110111,-88.338324,43.110111",
+    "geom:latitude":43.110111,
+    "geom:longitude":-88.338324,
+    "iso:country":"US",
+    "sg:address":"600 Hartbrook Dr",
+    "sg:city":"Hartland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 369 1609",
+    "sg:postcode":"53029",
+    "sg:province":"WI",
+    "sg:tags":[
+        "hospital",
+        "specialty",
+        "dog",
+        "clinic",
+        "veterinarian",
+        "grooming",
+        "cat"
+    ],
+    "sg:website":"http://www.lakecountryvet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85817525,
+        102081741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZUGNshufNuyXBfQj3tLyd_43.110111_-88.338324@1303262805"
+    },
+    "wof:country":"US",
+    "wof:created":1462606987,
+    "wof:geomhash":"05beabe8846b23f2385af6dcd44aac5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081741,
+            "neighbourhood_id":85817525,
+            "region_id":85688517,
+            "venue_id":807384085
+        }
+    ],
+    "wof:id":807384085,
+    "wof:lastmodified":1462606987,
+    "wof:name":"Lake Country Veterinary Care",
+    "wof:parent_id":85817525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "specialty",
+        "dog",
+        "clinic",
+        "veterinarian",
+        "grooming",
+        "cat"
+    ]
+},
+  "bbox": [
+    -88.338324,
+    43.110111,
+    -88.338324,
+    43.110111
+],
+  "geometry": {"coordinates":[-88.338324,43.110111],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 807375443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.105763,44.430902,-88.105763,44.430902",
+    "geom:latitude":44.430902,
+    "geom:longitude":-88.105763,
+    "iso:country":"US",
+    "sg:address":"1500 Scheuring Rd",
+    "sg:city":"De Pere",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/de-pere/192539-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 338 1500",
+    "sg:postcode":"54115",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855345,
+        102191575,
+        404492849,
+        85633793,
+        101732363,
+        102081867,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rpVxZm1DRMrGQlMamvyck_44.430869_-88.105616@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606865,
+    "wof:geomhash":"277e080da1495358104c92d69775c107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081867,
+            "localadmin_id":404492849,
+            "locality_id":101732363,
+            "neighbourhood_id":85855345,
+            "region_id":85688517,
+            "venue_id":807375443
+        }
+    ],
+    "wof:id":807375443,
+    "wof:lastmodified":1462606865,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85855345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -88.105763,
+    44.430902,
+    -88.105763,
+    44.430902
+],
+  "geometry": {"coordinates":[-88.105763,44.430902],"type":"Point"}
+}

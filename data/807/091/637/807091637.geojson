@@ -1,0 +1,71 @@
+{
+  "id": 807091637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.941891,43.380604,-87.941891,43.380604",
+    "geom:latitude":43.380604,
+    "geom:longitude":-87.941891,
+    "iso:country":"US",
+    "sg:address":"222 S Main St",
+    "sg:city":"Saukville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 284 4450",
+    "sg:postcode":"53080",
+    "sg:province":"WI",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732547,
+        102081873,
+        85828641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ijnUsdbJ0Dn0mZZJluJIO_43.380604_-87.941891@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603632,
+    "wof:geomhash":"70df72a306ffece66a33488a5896afc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081873,
+            "locality_id":101732547,
+            "neighbourhood_id":85828641,
+            "region_id":85688517,
+            "venue_id":807091637
+        }
+    ],
+    "wof:id":807091637,
+    "wof:lastmodified":1462603632,
+    "wof:name":"Portrait Gallery",
+    "wof:parent_id":85828641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -87.941891,
+    43.380604,
+    -87.941891,
+    43.380604
+],
+  "geometry": {"coordinates":[-87.941891,43.380604],"type":"Point"}
+}

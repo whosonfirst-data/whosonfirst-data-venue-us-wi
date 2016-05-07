@@ -1,0 +1,71 @@
+{
+  "id": 807294511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.507721,43.060731,-89.507721,43.060731",
+    "geom:latitude":43.060731,
+    "geom:longitude":-89.507721,
+    "iso:country":"US",
+    "sg:address":"7102 Mineral Point Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 828 7601",
+    "sg:postcode":"53717",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m1WSrvtw5PAFZ2YgmM9XC_43.060731_-89.507721@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605794,
+    "wof:geomhash":"f46388c769baf7d07bf6c3370bf1325e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":807294511
+        }
+    ],
+    "wof:id":807294511,
+    "wof:lastmodified":1462605794,
+    "wof:name":"Physicians Plus",
+    "wof:parent_id":85878843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -89.507721,
+    43.060731,
+    -89.507721,
+    43.060731
+],
+  "geometry": {"coordinates":[-89.507721,43.060731],"type":"Point"}
+}

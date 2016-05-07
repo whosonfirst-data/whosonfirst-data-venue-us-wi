@@ -1,0 +1,78 @@
+{
+  "id": 789906345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.101067,44.462392,-88.101067,44.462392",
+    "geom:latitude":44.462392,
+    "geom:longitude":-88.101067,
+    "iso:country":"US",
+    "sg:address":"1201 Contract Dr",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 338 9462",
+    "sg:postcode":"54304",
+    "sg:province":"WI",
+    "sg:tags":[
+        "interstate",
+        "trucking"
+    ],
+    "sg:website":"www.watkins.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855345,
+        102191575,
+        404492849,
+        85633793,
+        101732363,
+        102081867,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZYp4VNI1riKNS7YaCYKeY_44.462392_-88.101067@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591496,
+    "wof:geomhash":"ec75d1dd8b3d8b80fd7839fd9b52c330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081867,
+            "localadmin_id":404492849,
+            "locality_id":101732363,
+            "neighbourhood_id":85855345,
+            "region_id":85688517,
+            "venue_id":789906345
+        }
+    ],
+    "wof:id":789906345,
+    "wof:lastmodified":1462591496,
+    "wof:name":"Watkins Motor Lines Inc",
+    "wof:parent_id":85855345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interstate",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.101067,
+    44.462392,
+    -88.101067,
+    44.462392
+],
+  "geometry": {"coordinates":[-88.101067,44.462392],"type":"Point"}
+}

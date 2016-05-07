@@ -1,0 +1,74 @@
+{
+  "id": 807369155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.471523,44.800092,-91.471523,44.800092",
+    "geom:latitude":44.800092,
+    "geom:longitude":-91.471523,
+    "iso:country":"US",
+    "sg:address":"2123 Brackett Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/77439-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 835 3009",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uoRcLj8IUes1Yc8jIAulW_44.800092_-91.471523@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606779,
+    "wof:geomhash":"47515c4ae8b438506f8acf2e303c89b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807369155
+        }
+    ],
+    "wof:id":807369155,
+    "wof:lastmodified":1462606779,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.471523,
+    44.800092,
+    -91.471523,
+    44.800092
+],
+  "geometry": {"coordinates":[-91.471523,44.800092],"type":"Point"}
+}

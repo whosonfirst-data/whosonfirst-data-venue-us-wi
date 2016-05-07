@@ -1,0 +1,95 @@
+{
+  "id": 823186113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.3462,43.102355,-89.3462,43.102355",
+    "geom:latitude":43.102355,
+    "geom:longitude":-89.3462,
+    "iso:country":"US",
+    "sg:address":"2817 E Washington Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 246 4548",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878865,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517,
+        85878879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36hzZwdze9XWur3flLFwC5_43.102355_-89.346200@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608145,
+    "wof:geomhash":"fe6e50c31e239de7c727a8158f6cd468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878865,
+            "region_id":85688517,
+            "venue_id":823186113
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878879,
+            "region_id":85688517,
+            "venue_id":823186113
+        }
+    ],
+    "wof:id":823186113,
+    "wof:lastmodified":1462608145,
+    "wof:name":"Hawthorne Branch Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -89.3462,
+    43.102355,
+    -89.3462,
+    43.102355
+],
+  "geometry": {"coordinates":[-89.3462,43.102355],"type":"Point"}
+}

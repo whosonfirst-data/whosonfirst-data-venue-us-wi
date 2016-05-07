@@ -1,0 +1,71 @@
+{
+  "id": 823182203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.056442,42.513244,-89.056442,42.513244",
+    "geom:latitude":42.513244,
+    "geom:longitude":-89.056442,
+    "iso:country":"US",
+    "sg:address":"1234 Mckinley Ave",
+    "sg:city":"Beloit",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 362 2960",
+    "sg:postcode":"53511",
+    "sg:province":"WI",
+    "sg:tags":[
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732817,
+        102081829,
+        85810961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w5QR5s4vz8QZhGyRIjrei_42.513244_-89.056442@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608094,
+    "wof:geomhash":"baad7e88cb46b3becfc5201b6f4f9fbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "locality_id":101732817,
+            "neighbourhood_id":85810961,
+            "region_id":85688517,
+            "venue_id":823182203
+        }
+    ],
+    "wof:id":823182203,
+    "wof:lastmodified":1462608094,
+    "wof:name":"Rock Cnty Resources Ride Share",
+    "wof:parent_id":85810961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public"
+    ]
+},
+  "bbox": [
+    -89.056442,
+    42.513244,
+    -89.056442,
+    42.513244
+],
+  "geometry": {"coordinates":[-89.056442,42.513244],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773542687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.87829,43.062105,-87.87829,43.062105",
+    "geom:latitude":43.062105,
+    "geom:longitude":-87.87829,
+    "iso:country":"US",
+    "sg:address":"2320 N Lake Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 961 3850",
+    "sg:postcode":"53211",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85870961,
+        102081837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y91XS5S3WPhdqLB8ZnBiu_43.062105_-87.878290@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586502,
+    "wof:geomhash":"7c8ee316fd8ac4de44674de73a9ddd23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081837,
+            "neighbourhood_id":85870961,
+            "region_id":85688517,
+            "venue_id":773542687
+        }
+    ],
+    "wof:id":773542687,
+    "wof:lastmodified":1462586502,
+    "wof:name":"St Mary's Columbia",
+    "wof:parent_id":85870961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.87829,
+    43.062105,
+    -87.87829,
+    43.062105
+],
+  "geometry": {"coordinates":[-87.87829000000001,43.062105],"type":"Point"}
+}

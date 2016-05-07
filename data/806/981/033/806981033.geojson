@@ -1,0 +1,71 @@
+{
+  "id": 806981033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.671418,44.968129,-89.671418,44.968129",
+    "geom:latitude":44.968129,
+    "geom:longitude":-89.671418,
+    "iso:country":"US",
+    "sg:address":"2800 Westhill Dr",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 845 9445",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2avpTvYa5ljnHgRd9ZYSFp_44.968129_-89.671418@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602698,
+    "wof:geomhash":"cbc10070cceb359c685fc3745f69193a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":806981033
+        }
+    ],
+    "wof:id":806981033,
+    "wof:lastmodified":1462602698,
+    "wof:name":"Christopher Brown MD",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.671418,
+    44.968129,
+    -89.671418,
+    44.968129
+],
+  "geometry": {"coordinates":[-89.671418,44.968129],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 789765571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.422861,43.037808,-89.422861,43.037808",
+    "geom:latitude":43.037808,
+    "geom:longitude":-89.422861,
+    "iso:country":"US",
+    "sg:address":"2600 Todd Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 271 8139",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "baker",
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878867,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W06GyJSvMRRdWqBOGRtOG_43.037808_-89.422861@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590370,
+    "wof:geomhash":"840ef24e155bc3e8472411c8f3c99f46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878867,
+            "region_id":85688517,
+            "venue_id":789765571
+        }
+    ],
+    "wof:id":789765571,
+    "wof:lastmodified":1462590370,
+    "wof:name":"Colonial Bakery LLC",
+    "wof:parent_id":85878867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -89.422861,
+    43.037808,
+    -89.422861,
+    43.037808
+],
+  "geometry": {"coordinates":[-89.422861,43.037808],"type":"Point"}
+}

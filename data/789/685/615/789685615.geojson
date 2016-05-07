@@ -1,0 +1,75 @@
+{
+  "id": 789685615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.639396,44.95612,-89.639396,44.95612",
+    "geom:latitude":44.95612,
+    "geom:longitude":-89.639396,
+    "iso:country":"US",
+    "sg:address":"630 S 3rd Ave",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 848 2924",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "ticket",
+        "agency",
+        "airline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zeIRvc4LoGHsAQL4HuwCR_44.956120_-89.639396@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589747,
+    "wof:geomhash":"7b8f81f16f4d4e40c8a463ccd3f37ccc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":789685615
+        }
+    ],
+    "wof:id":789685615,
+    "wof:lastmodified":1462589747,
+    "wof:name":"Viking Travel Svc",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket",
+        "agency",
+        "airline"
+    ]
+},
+  "bbox": [
+    -89.639396,
+    44.95612,
+    -89.639396,
+    44.95612
+],
+  "geometry": {"coordinates":[-89.639396,44.95612],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 807369225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.473439,44.800094,-91.473439,44.800094",
+    "geom:latitude":44.800094,
+    "geom:longitude":-91.473439,
+    "iso:country":"US",
+    "sg:address":"2001 Brackett Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/96442-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 834 0031",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nV8JjDFnXz4SNp0GF6Otm_44.800094_-91.473439@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606780,
+    "wof:geomhash":"641ffb00aea2ee027ea8218277b53f90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807369225
+        }
+    ],
+    "wof:id":807369225,
+    "wof:lastmodified":1462606780,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -91.473439,
+    44.800094,
+    -91.473439,
+    44.800094
+],
+  "geometry": {"coordinates":[-91.473439,44.800094],"type":"Point"}
+}

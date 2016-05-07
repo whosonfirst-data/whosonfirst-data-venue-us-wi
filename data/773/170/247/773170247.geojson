@@ -1,0 +1,73 @@
+{
+  "id": 773170247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.938815,44.959991,-90.938815,44.959991",
+    "geom:latitude":44.959991,
+    "geom:longitude":-90.938815,
+    "iso:country":"US",
+    "sg:address":"108 W 1st Ave",
+    "sg:city":"Stanley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 644 5945",
+    "sg:postcode":"54768",
+    "sg:province":"WI",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732557,
+        102081787,
+        85837071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o3HW5qgWaT17WdB3UekSq_44.959991_-90.938815@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583669,
+    "wof:geomhash":"b606fc80b3bdb234762acc1fe5e8528f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081787,
+            "locality_id":101732557,
+            "neighbourhood_id":85837071,
+            "region_id":85688517,
+            "venue_id":773170247
+        }
+    ],
+    "wof:id":773170247,
+    "wof:lastmodified":1462583669,
+    "wof:name":"Stanley Veterinary Svc",
+    "wof:parent_id":85837071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -90.938815,
+    44.959991,
+    -90.938815,
+    44.959991
+],
+  "geometry": {"coordinates":[-90.93881500000001,44.959991],"type":"Point"}
+}

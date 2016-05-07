@@ -1,0 +1,71 @@
+{
+  "id": 789620885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.425756,42.591652,-88.425756,42.591652",
+    "geom:latitude":42.591652,
+    "geom:longitude":-88.425756,
+    "iso:country":"US",
+    "sg:address":"250 Havenwood Dr",
+    "sg:city":"Lake Geneva",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 248 9313",
+    "sg:postcode":"53147",
+    "sg:province":"WI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733551,
+        102081883,
+        85812017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36yLs9vbkaMWaBgROVIJ4e_42.591652_-88.425756@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589225,
+    "wof:geomhash":"059a51b8dfd7e48d4fe3b6aa177e1238",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733551,
+            "neighbourhood_id":85812017,
+            "region_id":85688517,
+            "venue_id":789620885
+        }
+    ],
+    "wof:id":789620885,
+    "wof:lastmodified":1462589225,
+    "wof:name":"Havenwood Apts",
+    "wof:parent_id":85812017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.425756,
+    42.591652,
+    -88.425756,
+    42.591652
+],
+  "geometry": {"coordinates":[-88.42575600000001,42.591652],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806412947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.251188,44.51724,-88.251188,44.51724",
+    "geom:latitude":44.51724,
+    "geom:longitude":-88.251188,
+    "iso:country":"US",
+    "sg:address":"1647 Smith Rd",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 833 9576",
+    "sg:postcode":"54165",
+    "sg:province":"WI",
+    "sg:tags":[
+        "terminal",
+        "truck",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85803271,
+        102081851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rGxAEL95zfEWxDsKuCTx8_44.517240_-88.251188@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462597959,
+    "wof:geomhash":"6e4404e0c0e0f93b16d8df61beede71b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "neighbourhood_id":85803271,
+            "region_id":85688517,
+            "venue_id":806412947
+        }
+    ],
+    "wof:id":806412947,
+    "wof:lastmodified":1462597959,
+    "wof:name":"Blohm Trucking LLC",
+    "wof:parent_id":85803271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "truck",
+        "facility"
+    ]
+},
+  "bbox": [
+    -88.251188,
+    44.51724,
+    -88.251188,
+    44.51724
+],
+  "geometry": {"coordinates":[-88.251188,44.51724],"type":"Point"}
+}

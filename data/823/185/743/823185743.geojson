@@ -1,0 +1,91 @@
+{
+  "id": 823185743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.341279,43.21638,-89.341279,43.21638",
+    "geom:latitude":43.21638,
+    "geom:longitude":-89.341279,
+    "iso:country":"US",
+    "sg:address":"4464 Windsor Rd",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 846 3700",
+    "sg:postcode":"53598",
+    "sg:province":"WI",
+    "sg:tags":[
+        "altering",
+        "handyman",
+        "contractor",
+        "fix-it",
+        "maintenance",
+        "improvement",
+        "remodeling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85852311,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pMBfAplI4rbOUs7vI1c2s_43.216380_-89.341279@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608140,
+    "wof:geomhash":"6e67b957308f7e1db3d1062ddbd9406d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85852311,
+            "region_id":85688517,
+            "venue_id":823185743
+        }
+    ],
+    "wof:id":823185743,
+    "wof:lastmodified":1462608140,
+    "wof:name":"Bickels Repair & Remodel",
+    "wof:parent_id":85852311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "altering",
+        "handyman",
+        "contractor",
+        "fix-it",
+        "maintenance",
+        "improvement",
+        "remodeling"
+    ]
+},
+  "bbox": [
+    -89.341279,
+    43.21638,
+    -89.341279,
+    43.21638
+],
+  "geometry": {"coordinates":[-89.341279,43.21638],"type":"Point"}
+}

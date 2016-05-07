@@ -1,0 +1,71 @@
+{
+  "id": 807232303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.508456,43.089129,-89.508456,43.089129",
+    "geom:latitude":43.089129,
+    "geom:longitude":-89.508456,
+    "iso:country":"US",
+    "sg:address":"1219 Middleton St",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 831 8010",
+    "sg:postcode":"53562",
+    "sg:province":"WI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Okf8kaI0Ar2S45bpWwBbu_43.089129_-89.508456@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605138,
+    "wof:geomhash":"f19cb1f1652de6a5713b397911c6a16e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":807232303
+        }
+    ],
+    "wof:id":807232303,
+    "wof:lastmodified":1462605138,
+    "wof:name":"Wes Masonry",
+    "wof:parent_id":85878843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.508456,
+    43.089129,
+    -89.508456,
+    43.089129
+],
+  "geometry": {"coordinates":[-89.508456,43.089129],"type":"Point"}
+}

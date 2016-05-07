@@ -1,0 +1,71 @@
+{
+  "id": 806934599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.840221,44.930457,-89.840221,44.930457",
+    "geom:latitude":44.930457,
+    "geom:longitude":-89.840221,
+    "iso:country":"US",
+    "sg:address":"500 Main St",
+    "sg:city":"Marathon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 443 2200",
+    "sg:postcode":"54448",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_393dcPsNcVhfeeo4ow15Cs_44.930457_-89.840221@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602310,
+    "wof:geomhash":"830c89ec71acda3bcae1bb9629c41453",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":806934599
+        }
+    ],
+    "wof:id":806934599,
+    "wof:lastmodified":1462602310,
+    "wof:name":"Marathon Family Dentistry",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -89.840221,
+    44.930457,
+    -89.840221,
+    44.930457
+],
+  "geometry": {"coordinates":[-89.840221,44.930457],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 773086271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.490196,44.793032,-91.490196,44.793032",
+    "geom:latitude":44.793032,
+    "geom:longitude":-91.490196,
+    "iso:country":"US",
+    "sg:address":"2505 May St",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 833 8401",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "house",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r8wIJDTOCPvPXZMVzItpA_44.793032_-91.490196@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583054,
+    "wof:geomhash":"e5aa549dbe4b207329401c10f96696b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":773086271
+        }
+    ],
+    "wof:id":773086271,
+    "wof:lastmodified":1462583054,
+    "wof:name":"Roger's Hometown Repair",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "house",
+        "engine"
+    ]
+},
+  "bbox": [
+    -91.490196,
+    44.793032,
+    -91.490196,
+    44.793032
+],
+  "geometry": {"coordinates":[-91.490196,44.793032],"type":"Point"}
+}

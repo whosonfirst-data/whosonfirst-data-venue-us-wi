@@ -1,0 +1,71 @@
+{
+  "id": 789983279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.638583,44.236574,-87.638583,44.236574",
+    "geom:latitude":44.236574,
+    "geom:longitude":-87.638583,
+    "iso:country":"US",
+    "sg:address":"214 S Main St",
+    "sg:city":"Mishicot",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 755 2345",
+    "sg:postcode":"54228",
+    "sg:province":"WI",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85827947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z6kkZgji349xczKBaRrLW_44.236574_-87.638583@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592196,
+    "wof:geomhash":"80bc8c4a2e1f9a3211ba94838397f386",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85827947,
+            "region_id":85688517,
+            "venue_id":789983279
+        }
+    ],
+    "wof:id":789983279,
+    "wof:lastmodified":1462592196,
+    "wof:name":"Mishicot Fire Dept",
+    "wof:parent_id":85827947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -87.638583,
+    44.236574,
+    -87.638583,
+    44.236574
+],
+  "geometry": {"coordinates":[-87.638583,44.236574],"type":"Point"}
+}

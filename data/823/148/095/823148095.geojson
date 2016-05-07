@@ -1,0 +1,89 @@
+{
+  "id": 823148095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.963376,43.11209,-87.963376,43.11209",
+    "geom:latitude":43.11209,
+    "geom:longitude":-87.963376,
+    "iso:country":"US",
+    "sg:address":"5219 N Hopkins St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 461 3654",
+    "sg:postcode":"53209",
+    "sg:province":"WI",
+    "sg:tags":[
+        "property",
+        "management",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870907,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22ImGZ2TUcbVDkwNLdRYGn_43.112090_-87.963376@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607645,
+    "wof:geomhash":"dbcf527a83643ae2eb525255dc19e0e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870907,
+            "region_id":85688517,
+            "venue_id":823148095
+        }
+    ],
+    "wof:id":823148095,
+    "wof:lastmodified":1462607645,
+    "wof:name":"Properties R US",
+    "wof:parent_id":85870907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "management",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -87.963376,
+    43.11209,
+    -87.963376,
+    43.11209
+],
+  "geometry": {"coordinates":[-87.963376,43.11209],"type":"Point"}
+}

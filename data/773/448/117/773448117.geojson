@@ -1,0 +1,86 @@
+{
+  "id": 773448117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.02748,42.704605,-89.02748,42.704605",
+    "geom:latitude":42.704605,
+    "geom:longitude":-89.02748,
+    "iso:country":"US",
+    "sg:address":"340 Black Bridge Rd",
+    "sg:city":"Janesville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 756 0001",
+    "sg:postcode":"53545",
+    "sg:province":"WI",
+    "sg:tags":[
+        "recycling",
+        "material",
+        "center",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803103,
+        102191575,
+        404492347,
+        85633793,
+        101732837,
+        102081829,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cNjPFpvFu68UPmutdrgY4_42.704605_-89.027480@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585824,
+    "wof:geomhash":"801e144ffd0985903b769d72ea555aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081829,
+            "localadmin_id":404492347,
+            "locality_id":101732837,
+            "neighbourhood_id":85803103,
+            "region_id":85688517,
+            "venue_id":773448117
+        }
+    ],
+    "wof:id":773448117,
+    "wof:lastmodified":1462585824,
+    "wof:name":"Janesville Recycling Center",
+    "wof:parent_id":85803103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "material",
+        "center",
+        "system"
+    ]
+},
+  "bbox": [
+    -89.02748,
+    42.704605,
+    -89.02748,
+    42.704605
+],
+  "geometry": {"coordinates":[-89.02748,42.704605],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773068665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.430499,44.254898,-88.430499,44.254898",
+    "geom:latitude":44.254898,
+    "geom:longitude":-88.430499,
+    "iso:country":"US",
+    "sg:address":"1607 W 2nd St",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 734 2041",
+    "sg:postcode":"54914",
+    "sg:province":"WI",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QlmT5tTYpskIi4Va6vu5c_44.254898_-88.430499@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462582926,
+    "wof:geomhash":"072eed31202ca1e187208ade9ee00c09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":773068665
+        }
+    ],
+    "wof:id":773068665,
+    "wof:lastmodified":1462582926,
+    "wof:name":"Fox Valley & Western LTD",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -88.430499,
+    44.254898,
+    -88.430499,
+    44.254898
+],
+  "geometry": {"coordinates":[-88.430499,44.254898],"type":"Point"}
+}

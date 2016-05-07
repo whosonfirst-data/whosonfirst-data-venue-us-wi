@@ -1,0 +1,81 @@
+{
+  "id": 789609979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.025558,43.127447,-88.025558,43.127447",
+    "geom:latitude":43.127447,
+    "geom:longitude":-88.025558,
+    "iso:country":"US",
+    "sg:address":"6030 N 91st St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 358 3556",
+    "sg:postcode":"53225",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550015,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jIf79UGqnVafk7Bl438KX_43.127447_-88.025558@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589138,
+    "wof:geomhash":"458972f8fdece5c6176fb5ca30ce5065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":420550015,
+            "region_id":85688517,
+            "venue_id":789609979
+        }
+    ],
+    "wof:id":789609979,
+    "wof:lastmodified":1462589138,
+    "wof:name":"Auto Glass Specialists Inc",
+    "wof:parent_id":420550015,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -88.025558,
+    43.127447,
+    -88.025558,
+    43.127447
+],
+  "geometry": {"coordinates":[-88.025558,43.127447],"type":"Point"}
+}

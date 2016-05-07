@@ -1,0 +1,73 @@
+{
+  "id": 773459497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.752417,43.758349,-87.752417,43.758349",
+    "geom:latitude":43.758349,
+    "geom:longitude":-87.752417,
+    "iso:country":"US",
+    "sg:address":"3422 Wilgus Ave",
+    "sg:city":"Sheboygan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 459 4547",
+    "sg:postcode":"53081",
+    "sg:province":"WI",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85818209,
+        102081869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ky0q3h017jKApJOyhO43w_43.758349_-87.752417@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585908,
+    "wof:geomhash":"ad187fd3bf438d4683021064d8151c2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "neighbourhood_id":85818209,
+            "region_id":85688517,
+            "venue_id":773459497
+        }
+    ],
+    "wof:id":773459497,
+    "wof:lastmodified":1462585908,
+    "wof:name":"Corrections Dept",
+    "wof:parent_id":85818209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -87.752417,
+    43.758349,
+    -87.752417,
+    43.758349
+],
+  "geometry": {"coordinates":[-87.75241699999999,43.758349],"type":"Point"}
+}

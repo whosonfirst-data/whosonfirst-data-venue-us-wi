@@ -1,0 +1,93 @@
+{
+  "id": 823176563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.041718,43.00037,-88.041718,43.00037",
+    "geom:latitude":43.00037,
+    "geom:longitude":-88.041718,
+    "iso:country":"US",
+    "sg:address":"2400 S 102nd St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 847 1763",
+    "sg:postcode":"53227",
+    "sg:province":"WI",
+    "sg:tags":[
+        "maintenance",
+        "welfare"
+    ],
+    "sg:website":"http://www.abrihealthplan.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870861,
+        102191575,
+        404494275,
+        85633793,
+        101733091,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XlfASvo99xFu6EC0HfhNP_43.000370_-88.041718@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608021,
+    "wof:geomhash":"e7787027c820f782221b5884c7ccd081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494275,
+            "locality_id":101733091,
+            "neighbourhood_id":85870861,
+            "region_id":85688517,
+            "venue_id":823176563
+        }
+    ],
+    "wof:id":823176563,
+    "wof:lastmodified":1462608021,
+    "wof:name":"Abri Health Plan",
+    "wof:parent_id":85870861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -88.041718,
+    43.00037,
+    -88.041718,
+    43.00037
+],
+  "geometry": {"coordinates":[-88.041718,43.00037],"type":"Point"}
+}

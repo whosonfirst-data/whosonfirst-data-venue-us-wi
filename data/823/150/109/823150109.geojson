@@ -1,0 +1,88 @@
+{
+  "id": 823150109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.903447,43.101574,-87.903447,43.101574",
+    "geom:latitude":43.101574,
+    "geom:longitude":-87.903447,
+    "iso:country":"US",
+    "sg:address":"4715 N Hollywood Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 962 6402",
+    "sg:postcode":"53211",
+    "sg:province":"WI",
+    "sg:tags":[
+        "information",
+        "family",
+        "control",
+        "planning",
+        "birth"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870875,
+        102191575,
+        404494169,
+        85633793,
+        101733069,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Bg7tZFj08HnxIRZzvab6V_43.101574_-87.903447@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607669,
+    "wof:geomhash":"3b4eacb3718db337f2b07ef9a7fb3b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494169,
+            "locality_id":101733069,
+            "neighbourhood_id":85870875,
+            "region_id":85688517,
+            "venue_id":823150109
+        }
+    ],
+    "wof:id":823150109,
+    "wof:lastmodified":1462607669,
+    "wof:name":"Well Rounded",
+    "wof:parent_id":85870875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "family",
+        "control",
+        "planning",
+        "birth"
+    ]
+},
+  "bbox": [
+    -87.903447,
+    43.101574,
+    -87.903447,
+    43.101574
+],
+  "geometry": {"coordinates":[-87.903447,43.101574],"type":"Point"}
+}

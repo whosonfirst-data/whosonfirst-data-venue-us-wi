@@ -1,0 +1,84 @@
+{
+  "id": 807386943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.923897,43.2299,-87.923897,43.2299",
+    "geom:latitude":43.2299,
+    "geom:longitude":-87.923897,
+    "iso:country":"US",
+    "sg:address":"11622 N Port Washington Rd",
+    "sg:city":"Mequon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 241 4884",
+    "sg:postcode":"53092",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85829269,
+        102191575,
+        404491943,
+        85633793,
+        101732545,
+        102081873,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RWv47THNCz1ZU0FtBHC2j_43.229900_-87.923897@1303262805"
+    },
+    "wof:country":"US",
+    "wof:created":1462607023,
+    "wof:geomhash":"d21591a0e0292d4348d917f0e2277698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081873,
+            "localadmin_id":404491943,
+            "locality_id":101732545,
+            "neighbourhood_id":85829269,
+            "region_id":85688517,
+            "venue_id":807386943
+        }
+    ],
+    "wof:id":807386943,
+    "wof:lastmodified":1462607023,
+    "wof:name":"Tunder David M Dr Vet",
+    "wof:parent_id":85829269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -87.923897,
+    43.2299,
+    -87.923897,
+    43.2299
+],
+  "geometry": {"coordinates":[-87.923897,43.2299],"type":"Point"}
+}

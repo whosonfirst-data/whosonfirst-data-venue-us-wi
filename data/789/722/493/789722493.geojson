@@ -1,0 +1,77 @@
+{
+  "id": 789722493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.952007,43.075698,-87.952007,43.075698",
+    "geom:latitude":43.075698,
+    "geom:longitude":-87.952007,
+    "iso:country":"US",
+    "sg:address":"3172 N 31st St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 444 1988",
+    "sg:postcode":"53216",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870877,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bZ8jfORnmN8WTQb5IY5IS_43.075698_-87.952007@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590043,
+    "wof:geomhash":"a57a2f37bb346f09309cf4c8e5a0cd6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870877,
+            "region_id":85688517,
+            "venue_id":789722493
+        }
+    ],
+    "wof:id":789722493,
+    "wof:lastmodified":1462590043,
+    "wof:name":"AKA Auto Repair",
+    "wof:parent_id":85870877,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.952007,
+    43.075698,
+    -87.952007,
+    43.075698
+],
+  "geometry": {"coordinates":[-87.95200699999999,43.075698],"type":"Point"}
+}

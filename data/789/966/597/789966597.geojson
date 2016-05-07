@@ -1,0 +1,71 @@
+{
+  "id": 789966597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.47586,44.797377,-91.47586,44.797377",
+    "geom:latitude":44.797377,
+    "geom:longitude":-91.47586,
+    "iso:country":"US",
+    "sg:address":"2005 Agnes St",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 832 3663",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RnwJqHbkFr8tDQKzo7ikk_44.797377_-91.475860@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592051,
+    "wof:geomhash":"63d5672ddbdcd67c76abb3ddfef1c7f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":789966597
+        }
+    ],
+    "wof:id":789966597,
+    "wof:lastmodified":1462592051,
+    "wof:name":"Group Home",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -91.47586,
+    44.797377,
+    -91.47586,
+    44.797377
+],
+  "geometry": {"coordinates":[-91.47586,44.797377],"type":"Point"}
+}

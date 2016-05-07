@@ -1,0 +1,91 @@
+{
+  "id": 823181285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.035828,42.498891,-89.035828,42.498891",
+    "geom:latitude":42.498891,
+    "geom:longitude":-89.035828,
+    "iso:country":"US",
+    "sg:address":"319 State St",
+    "sg:city":"Beloit",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 365 8280",
+    "sg:postcode":"53511",
+    "sg:province":"WI",
+    "sg:tags":[
+        "equipment",
+        "perfume",
+        "salons-equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85812915,
+        102191575,
+        404492341,
+        85633793,
+        101732817,
+        102081829,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DRkoyGyET6W8X0rPREDQV_42.498891_-89.035828@1303262811"
+    },
+    "wof:country":"US",
+    "wof:created":1462608077,
+    "wof:geomhash":"4dcadef40a2990b817a1bdd29bbcb45a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081829,
+            "localadmin_id":404492341,
+            "locality_id":101732817,
+            "neighbourhood_id":85812915,
+            "region_id":85688517,
+            "venue_id":823181285
+        }
+    ],
+    "wof:id":823181285,
+    "wof:lastmodified":1462608077,
+    "wof:name":"Beauty Town Beauty Supply",
+    "wof:parent_id":85812915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "perfume",
+        "salons-equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -89.035828,
+    42.498891,
+    -89.035828,
+    42.498891
+],
+  "geometry": {"coordinates":[-89.035828,42.498891],"type":"Point"}
+}

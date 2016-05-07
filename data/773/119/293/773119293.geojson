@@ -1,0 +1,84 @@
+{
+  "id": 773119293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.399001,43.056479,-89.399001,43.056479",
+    "geom:latitude":43.056479,
+    "geom:longitude":-89.399001,
+    "iso:country":"US",
+    "sg:address":"1004 Fish Hatchery Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 251 4042",
+    "sg:postcode":"53715",
+    "sg:province":"WI",
+    "sg:tags":[
+        "body",
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878849,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21rq7RdlOHOsZH9LhVFZqz_43.056479_-89.399001@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462583291,
+    "wof:geomhash":"61057ff245810297f436fc16d0f4edde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878849,
+            "region_id":85688517,
+            "venue_id":773119293
+        }
+    ],
+    "wof:id":773119293,
+    "wof:lastmodified":1462583291,
+    "wof:name":"Toby's Shop",
+    "wof:parent_id":85878849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.399001,
+    43.056479,
+    -89.399001,
+    43.056479
+],
+  "geometry": {"coordinates":[-89.399001,43.056479],"type":"Point"}
+}

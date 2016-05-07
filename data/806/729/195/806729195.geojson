@@ -1,0 +1,75 @@
+{
+  "id": 806729195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.017199,43.024266,-88.017199,43.024266",
+    "geom:latitude":43.024266,
+    "geom:longitude":-88.017199,
+    "iso:country":"US",
+    "sg:address":"632 S 84th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 771 2303",
+    "sg:postcode":"53214",
+    "sg:province":"WI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550045,
+        102191575,
+        404494275,
+        85633793,
+        101733091,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A0p8L7vLwDP3G2vWszZe7_43.024266_-88.017199@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462600576,
+    "wof:geomhash":"f4b8521ec6a63a67016568cea1414c56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494275,
+            "locality_id":101733091,
+            "neighbourhood_id":420550045,
+            "region_id":85688517,
+            "venue_id":806729195
+        }
+    ],
+    "wof:id":806729195,
+    "wof:lastmodified":1462600576,
+    "wof:name":"Commercial Truck Repair",
+    "wof:parent_id":420550045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -88.017199,
+    43.024266,
+    -88.017199,
+    43.024266
+],
+  "geometry": {"coordinates":[-88.01719900000001,43.024266],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 807399985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.83523,42.558591,-87.83523,42.558591",
+    "geom:latitude":42.558591,
+    "geom:longitude":-87.83523,
+    "iso:country":"US",
+    "sg:address":"2207 80th St",
+    "sg:city":"Kenosha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 658 3731",
+    "sg:postcode":"53143",
+    "sg:province":"WI",
+    "sg:tags":[
+        "photo",
+        "finishing",
+        "first",
+        "aid",
+        "supply"
+    ],
+    "sg:website":"http://www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849781,
+        102191575,
+        404493401,
+        85633793,
+        101732575,
+        102081309,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zOE5EfBRt0tdRUPVqA15X_42.558591_-87.835230@1303262806"
+    },
+    "wof:country":"US",
+    "wof:created":1462607281,
+    "wof:geomhash":"e2b6c209a541a0efb75cec22c9f1d998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493401,
+            "locality_id":101732575,
+            "neighbourhood_id":85849781,
+            "region_id":85688517,
+            "venue_id":807399985
+        }
+    ],
+    "wof:id":807399985,
+    "wof:lastmodified":1462607281,
+    "wof:name":"CVS/pharmacy",
+    "wof:parent_id":85849781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing",
+        "first",
+        "aid",
+        "supply"
+    ]
+},
+  "bbox": [
+    -87.83523,
+    42.558591,
+    -87.83523,
+    42.558591
+],
+  "geometry": {"coordinates":[-87.83523,42.558591],"type":"Point"}
+}

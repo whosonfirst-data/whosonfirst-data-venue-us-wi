@@ -1,0 +1,85 @@
+{
+  "id": 807373375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.887099,43.092339,-87.887099,43.092339",
+    "geom:latitude":43.092339,
+    "geom:longitude":-87.887099,
+    "iso:country":"US",
+    "sg:address":"4106 N Oakland Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/shorewood/41051-stone-creek-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 964 1608",
+    "sg:postcode":"53211",
+    "sg:province":"WI",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870879,
+        102191575,
+        404494183,
+        85633793,
+        101733085,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jtrtH6f9kgcmUbluZ3bGM_43.092469_-87.887379@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462606834,
+    "wof:geomhash":"d9234249e8123b426f8f41838d5dd08f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494183,
+            "locality_id":101733085,
+            "neighbourhood_id":85870879,
+            "region_id":85688517,
+            "venue_id":807373375
+        }
+    ],
+    "wof:id":807373375,
+    "wof:lastmodified":1462606834,
+    "wof:name":"Stone Creek Coffee",
+    "wof:parent_id":85870879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ]
+},
+  "bbox": [
+    -87.887099,
+    43.092339,
+    -87.887099,
+    43.092339
+],
+  "geometry": {"coordinates":[-87.88709900000001,43.092339],"type":"Point"}
+}

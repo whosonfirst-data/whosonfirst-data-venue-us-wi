@@ -1,0 +1,83 @@
+{
+  "id": 807375179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.512315,43.060527,-89.512315,43.060527",
+    "geom:latitude":43.060527,
+    "geom:longitude":-89.512315,
+    "iso:country":"US",
+    "sg:address":"7475 Mineral Point Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/27841-hong-kong-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 829 1168",
+    "sg:postcode":"53717",
+    "sg:province":"WI",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834009,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d7wgPcRkbmCKlVjBjLE9t_43.060509_-89.512161@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606862,
+    "wof:geomhash":"06f4fdc31c2fef1555bc4e3892a2691f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85834009,
+            "region_id":85688517,
+            "venue_id":807375179
+        }
+    ],
+    "wof:id":807375179,
+    "wof:lastmodified":1462606862,
+    "wof:name":"Hong Kong Cafe",
+    "wof:parent_id":85834009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -89.512315,
+    43.060527,
+    -89.512315,
+    43.060527
+],
+  "geometry": {"coordinates":[-89.512315,43.060527],"type":"Point"}
+}

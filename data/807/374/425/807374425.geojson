@@ -1,0 +1,74 @@
+{
+  "id": 807374425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.487109,43.103943,-89.487109,43.103943",
+    "geom:latitude":43.103943,
+    "geom:longitude":-89.487109,
+    "iso:country":"US",
+    "sg:address":"2626 Allen Blvd",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/middleton/206608-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 111 111 1111",
+    "sg:postcode":"53562",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732813,
+        102081795,
+        85841479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d2jujpFUbyCtDrDWuociX_43.104257_-89.486792@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606848,
+    "wof:geomhash":"caddc37bffe6fd245981dcee6a7f9fb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732813,
+            "neighbourhood_id":85841479,
+            "region_id":85688517,
+            "venue_id":807374425
+        }
+    ],
+    "wof:id":807374425,
+    "wof:lastmodified":1462606848,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85841479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -89.487109,
+    43.103943,
+    -89.487109,
+    43.103943
+],
+  "geometry": {"coordinates":[-89.487109,43.103943],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789817839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.396457,43.030112,-89.396457,43.030112",
+    "geom:latitude":43.030112,
+    "geom:longitude":-89.396457,
+    "iso:country":"US",
+    "sg:address":"802 Stewart St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 273 8700",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kRIE1f4VEqwoBGGCAKUwt_43.030112_-89.396457@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590771,
+    "wof:geomhash":"65ad14e11ba767e5992c8dcf421bc18f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":789817839
+        }
+    ],
+    "wof:id":789817839,
+    "wof:lastmodified":1462590771,
+    "wof:name":"Fondy Auto Electric",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -89.396457,
+    43.030112,
+    -89.396457,
+    43.030112
+],
+  "geometry": {"coordinates":[-89.396457,43.030112],"type":"Point"}
+}

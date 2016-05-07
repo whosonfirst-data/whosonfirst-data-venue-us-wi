@@ -1,0 +1,87 @@
+{
+  "id": 823171165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.01725,43.155991,-88.01725,43.155991",
+    "geom:latitude":43.155991,
+    "geom:longitude":-88.01725,
+    "iso:country":"US",
+    "sg:address":"8501 W Calumet Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 355 2222",
+    "sg:postcode":"53224",
+    "sg:province":"WI",
+    "sg:tags":[
+        "salvage",
+        "rebuilt",
+        "part",
+        "supplies-used"
+    ],
+    "sg:website":"http://www.calumetautoparts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550079,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uFqpxGE5kQ3nd6uC18bpg_43.155991_-88.017250@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607942,
+    "wof:geomhash":"9155279e5f04e9cf9fd5ee7fb5ec4607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":420550079,
+            "region_id":85688517,
+            "venue_id":823171165
+        }
+    ],
+    "wof:id":823171165,
+    "wof:lastmodified":1462607942,
+    "wof:name":"Calumet Auto Parts Inc",
+    "wof:parent_id":420550079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salvage",
+        "rebuilt",
+        "part",
+        "supplies-used"
+    ]
+},
+  "bbox": [
+    -88.01725,
+    43.155991,
+    -88.01725,
+    43.155991
+],
+  "geometry": {"coordinates":[-88.01725,43.155991],"type":"Point"}
+}

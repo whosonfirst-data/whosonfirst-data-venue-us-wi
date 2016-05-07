@@ -1,0 +1,78 @@
+{
+  "id": 773451323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.390102,43.321185,-88.390102,43.321185",
+    "geom:latitude":43.321185,
+    "geom:longitude":-88.390102,
+    "iso:country":"US",
+    "sg:address":"511 Wacker Dr",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 673 3777",
+    "sg:postcode":"53027",
+    "sg:province":"WI",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "sg:website":"www.sunset-limo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841573,
+        102191575,
+        404494367,
+        85633793,
+        101732919,
+        102081745,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ir0As5N2nKIzUtevwsV4m_43.321185_-88.390102@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585844,
+    "wof:geomhash":"3b81b30c6031bba0e0db1654f97b1fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081745,
+            "localadmin_id":404494367,
+            "locality_id":101732919,
+            "neighbourhood_id":85841573,
+            "region_id":85688517,
+            "venue_id":773451323
+        }
+    ],
+    "wof:id":773451323,
+    "wof:lastmodified":1462585844,
+    "wof:name":"Wittenberger Bus Svc",
+    "wof:parent_id":85841573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -88.390102,
+    43.321185,
+    -88.390102,
+    43.321185
+],
+  "geometry": {"coordinates":[-88.390102,43.321185],"type":"Point"}
+}

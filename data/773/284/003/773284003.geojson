@@ -1,0 +1,71 @@
+{
+  "id": 773284003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.413451,43.025783,-89.413451,43.025783",
+    "geom:latitude":43.025783,
+    "geom:longitude":-89.413451,
+    "iso:country":"US",
+    "sg:address":"3034 Fish Hatchery Rd",
+    "sg:city":"Fitchburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 270 5600",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Eku1tUBIirssMKNwO4XYz_43.025783_-89.413451@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584551,
+    "wof:geomhash":"f6ed46bf504326929a53971f1b7773e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":773284003
+        }
+    ],
+    "wof:id":773284003,
+    "wof:lastmodified":1462584551,
+    "wof:name":"Wisconsin Dialysis",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -89.413451,
+    43.025783,
+    -89.413451,
+    43.025783
+],
+  "geometry": {"coordinates":[-89.41345099999999,43.025783],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 807359423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.026713,43.016482,-88.026713,43.016482",
+    "geom:latitude":43.016482,
+    "geom:longitude":-88.026713,
+    "iso:country":"US",
+    "sg:address":"9135 W Greenfield Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/west-allis/145822-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 607 6170",
+    "sg:postcode":"53214",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550045,
+        102191575,
+        404494275,
+        85633793,
+        101733091,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MJJcsGNSdrBzv7WftX7fl_43.016482_-88.026713@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606641,
+    "wof:geomhash":"0fd65f26d4ab1c4f9f698b90e042d6df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494275,
+            "locality_id":101733091,
+            "neighbourhood_id":420550045,
+            "region_id":85688517,
+            "venue_id":807359423
+        }
+    ],
+    "wof:id":807359423,
+    "wof:lastmodified":1462606641,
+    "wof:name":"Subway",
+    "wof:parent_id":420550045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.026713,
+    43.016482,
+    -88.026713,
+    43.016482
+],
+  "geometry": {"coordinates":[-88.026713,43.016482],"type":"Point"}
+}

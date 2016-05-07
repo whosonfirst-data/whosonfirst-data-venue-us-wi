@@ -1,0 +1,71 @@
+{
+  "id": 789967483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.513626,44.819947,-91.513626,44.819947",
+    "geom:latitude":44.819947,
+    "geom:longitude":-91.513626,
+    "iso:country":"US",
+    "sg:address":"2035 3rd St",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 833 2323",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85848105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pi65M52HA1kKGzUlCAG2K_44.819947_-91.513626@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592063,
+    "wof:geomhash":"01dc6cb9f329ad5261becccdcc92fd4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85848105,
+            "region_id":85688517,
+            "venue_id":789967483
+        }
+    ],
+    "wof:id":789967483,
+    "wof:lastmodified":1462592063,
+    "wof:name":"Metal Building Systems Inc",
+    "wof:parent_id":85848105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -91.513626,
+    44.819947,
+    -91.513626,
+    44.819947
+],
+  "geometry": {"coordinates":[-91.513626,44.819947],"type":"Point"}
+}

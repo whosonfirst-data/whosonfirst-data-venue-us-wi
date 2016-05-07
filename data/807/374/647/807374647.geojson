@@ -1,0 +1,89 @@
+{
+  "id": 807374647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.392656,43.074871,-89.392656,43.074871",
+    "geom:latitude":43.074871,
+    "geom:longitude":-89.392656,
+    "iso:country":"US",
+    "sg:address":"427 State St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/184499-cold-stone-creamery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 441 2372",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878887,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eMv8h41DHAh8pYJD4qspo_43.074742_-89.393036@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606850,
+    "wof:geomhash":"d5faf7dbb34e6394e168c50c7f8ea0d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878887,
+            "region_id":85688517,
+            "venue_id":807374647
+        }
+    ],
+    "wof:id":807374647,
+    "wof:lastmodified":1462606850,
+    "wof:name":"Cold Stone Creamery",
+    "wof:parent_id":85878887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -89.392656,
+    43.074871,
+    -89.392656,
+    43.074871
+],
+  "geometry": {"coordinates":[-89.392656,43.074871],"type":"Point"}
+}

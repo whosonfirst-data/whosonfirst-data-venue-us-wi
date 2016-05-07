@@ -1,0 +1,72 @@
+{
+  "id": 807371365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.366539,44.243873,-88.366539,44.243873",
+    "geom:latitude":44.243873,
+    "geom:longitude":-88.366539,
+    "iso:country":"US",
+    "sg:address":"3701 E Calumet St",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/appleton/145371-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 738 0524",
+    "sg:postcode":"54915",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85813523,
+        102081289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Tw53xgPmpjjQCImbnm8Sp_44.243873_-88.366539@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606809,
+    "wof:geomhash":"1604df27bc49e3c7d58364ffc5f3908d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081289,
+            "neighbourhood_id":85813523,
+            "region_id":85688517,
+            "venue_id":807371365
+        }
+    ],
+    "wof:id":807371365,
+    "wof:lastmodified":1462606809,
+    "wof:name":"Subway",
+    "wof:parent_id":85813523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.366539,
+    44.243873,
+    -88.366539,
+    44.243873
+],
+  "geometry": {"coordinates":[-88.366539,44.243873],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773028759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.699787,44.951595,-89.699787,44.951595",
+    "geom:latitude":44.951595,
+    "geom:longitude":-89.699787,
+    "iso:country":"US",
+    "sg:address":"5103 Sherman St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 845 2399",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZEbpFAmYGJ0XcivAR4ge6_44.951595_-89.699787@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462582555,
+    "wof:geomhash":"5fa70ae7198017fb210663daeec839e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":773028759
+        }
+    ],
+    "wof:id":773028759,
+    "wof:lastmodified":1462582555,
+    "wof:name":"Old Dominion Freight Line",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.699787,
+    44.951595,
+    -89.699787,
+    44.951595
+],
+  "geometry": {"coordinates":[-89.699787,44.951595],"type":"Point"}
+}

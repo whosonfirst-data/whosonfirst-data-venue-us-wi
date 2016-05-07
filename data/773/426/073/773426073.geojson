@@ -1,0 +1,86 @@
+{
+  "id": 773426073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.944654,42.773046,-88.944654,42.773046",
+    "geom:latitude":42.773046,
+    "geom:longitude":-88.944654,
+    "iso:country":"US",
+    "sg:address":"430 E High St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 868 6914",
+    "sg:postcode":"53563",
+    "sg:province":"WI",
+    "sg:tags":[
+        "marking",
+        "parking",
+        "maintenance",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834509,
+        102191575,
+        404495229,
+        85633793,
+        101732843,
+        102081829,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dB6XeyW3ps4a7lqCd1YZG_42.773046_-88.944654@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585628,
+    "wof:geomhash":"1b71ea1283d6b8eb080243e0201f7e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081829,
+            "localadmin_id":404495229,
+            "locality_id":101732843,
+            "neighbourhood_id":85834509,
+            "region_id":85688517,
+            "venue_id":773426073
+        }
+    ],
+    "wof:id":773426073,
+    "wof:lastmodified":1462585628,
+    "wof:name":"Milton Public Works Office",
+    "wof:parent_id":85834509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "parking",
+        "maintenance",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.944654,
+    42.773046,
+    -88.944654,
+    42.773046
+],
+  "geometry": {"coordinates":[-88.944654,42.773046],"type":"Point"}
+}

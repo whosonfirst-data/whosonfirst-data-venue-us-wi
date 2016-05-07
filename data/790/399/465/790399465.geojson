@@ -1,0 +1,71 @@
+{
+  "id": 790399465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.978676,43.748864,-87.978676,43.748864",
+    "geom:latitude":43.748864,
+    "geom:longitude":-87.978676,
+    "iso:country":"US",
+    "sg:address":"212 Smith St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 893 8394",
+    "sg:postcode":"53073",
+    "sg:province":"WI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733393,
+        102081869,
+        85836705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qShrpa1WDWClCtinVSkPe_43.748864_-87.978676@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462595531,
+    "wof:geomhash":"345f9dab17fe79daab99bc000a828997",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "locality_id":101733393,
+            "neighbourhood_id":85836705,
+            "region_id":85688517,
+            "venue_id":790399465
+        }
+    ],
+    "wof:id":790399465,
+    "wof:lastmodified":1462595531,
+    "wof:name":"Mikes Appliance Repair LLC",
+    "wof:parent_id":85836705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -87.978676,
+    43.748864,
+    -87.978676,
+    43.748864
+],
+  "geometry": {"coordinates":[-87.97867599999999,43.748864],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 806878085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.110063,44.50207,-88.110063,44.50207",
+    "geom:latitude":44.50207,
+    "geom:longitude":-88.110063,
+    "iso:country":"US",
+    "sg:address":"2407 S Point Rd",
+    "sg:city":"Green Bay",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"School Buses",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 496 3600",
+    "sg:postcode":"54313",
+    "sg:province":"WI",
+    "sg:tags":[
+        "rental",
+        "passe",
+        "local"
+    ],
+    "sg:website":"www.lamers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877943,
+        102191575,
+        404492845,
+        85633793,
+        101732293,
+        102081867,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rxJIu0LL5nLH5P8qOTxW3_44.502070_-88.110063@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601835,
+    "wof:geomhash":"ceb80bb2efe4cc9c1b0f5736f6be557f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081867,
+            "localadmin_id":404492845,
+            "locality_id":101732293,
+            "neighbourhood_id":85877943,
+            "region_id":85688517,
+            "venue_id":806878085
+        }
+    ],
+    "wof:id":806878085,
+    "wof:lastmodified":1462601835,
+    "wof:name":"Lamers Bus Lines Inc",
+    "wof:parent_id":85877943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "passe",
+        "local"
+    ]
+},
+  "bbox": [
+    -88.110063,
+    44.50207,
+    -88.110063,
+    44.50207
+],
+  "geometry": {"coordinates":[-88.110063,44.50207],"type":"Point"}
+}

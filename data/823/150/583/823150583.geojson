@@ -1,0 +1,88 @@
+{
+  "id": 823150583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.887656,43.067377,-87.887656,43.067377",
+    "geom:latitude":43.067377,
+    "geom:longitude":-87.887656,
+    "iso:country":"US",
+    "sg:address":"1824 E Park Pl",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 963 8712",
+    "sg:postcode":"53211",
+    "sg:province":"WI",
+    "sg:tags":[
+        "vacancy",
+        "buyer",
+        "rental",
+        "broker",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870883,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AU0dNWkEYhHgAdpUV4hZT_43.067377_-87.887656@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607675,
+    "wof:geomhash":"afcb4daf6098a42f619e560430e31e4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870883,
+            "region_id":85688517,
+            "venue_id":823150583
+        }
+    ],
+    "wof:id":823150583,
+    "wof:lastmodified":1462607675,
+    "wof:name":"East Park Place",
+    "wof:parent_id":85870883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "buyer",
+        "rental",
+        "broker",
+        "listing"
+    ]
+},
+  "bbox": [
+    -87.887656,
+    43.067377,
+    -87.887656,
+    43.067377
+],
+  "geometry": {"coordinates":[-87.88765600000001,43.067377],"type":"Point"}
+}

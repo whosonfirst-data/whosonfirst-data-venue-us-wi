@@ -1,0 +1,84 @@
+{
+  "id": 823161403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.90651,43.118546,-87.90651,43.118546",
+    "geom:latitude":43.118546,
+    "geom:longitude":-87.90651,
+    "iso:country":"US",
+    "sg:address":"316 E Silver Spring Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 962 9880",
+    "sg:postcode":"53217",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870821,
+        102191575,
+        404494165,
+        85633793,
+        101733065,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08AOwYgqWxeqmmfpS2YTk2_43.118546_-87.906510@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607817,
+    "wof:geomhash":"7ca4fe6f756ad0a62bc6aba9d9e14f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494165,
+            "locality_id":101733065,
+            "neighbourhood_id":85870821,
+            "region_id":85688517,
+            "venue_id":823161403
+        }
+    ],
+    "wof:id":823161403,
+    "wof:lastmodified":1462607817,
+    "wof:name":"Beguelin Edie DR",
+    "wof:parent_id":85870821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -87.90651,
+    43.118546,
+    -87.90651,
+    43.118546
+],
+  "geometry": {"coordinates":[-87.90651,43.118546],"type":"Point"}
+}

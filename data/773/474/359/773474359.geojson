@@ -1,0 +1,73 @@
+{
+  "id": 773474359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.637943,44.965835,-89.637943,44.965835",
+    "geom:latitude":44.965835,
+    "geom:longitude":-89.637943,
+    "iso:country":"US",
+    "sg:address":"116 Spruce St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 842 1440",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79aAOk2Z4w2QRjI0L0muxA_44.965835_-89.637943@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586018,
+    "wof:geomhash":"544dd5b64fc8c03450d9b1f67ad15e62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":773474359
+        }
+    ],
+    "wof:id":773474359,
+    "wof:lastmodified":1462586018,
+    "wof:name":"Spiecher's Repair Svc",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.637943,
+    44.965835,
+    -89.637943,
+    44.965835
+],
+  "geometry": {"coordinates":[-89.63794300000001,44.965835],"type":"Point"}
+}

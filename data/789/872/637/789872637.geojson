@@ -1,0 +1,73 @@
+{
+  "id": 789872637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.651195,44.943903,-89.651195,44.943903",
+    "geom:latitude":44.943903,
+    "geom:longitude":-89.651195,
+    "iso:country":"US",
+    "sg:address":"1324 S 13th Ave",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 845 7033",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28vkMz401DC734Jnaf3Hv7_44.943903_-89.651195@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591207,
+    "wof:geomhash":"dc1db043999efb1dec6fe67d671bbcd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":789872637
+        }
+    ],
+    "wof:id":789872637,
+    "wof:lastmodified":1462591207,
+    "wof:name":"J W Electric",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.651195,
+    44.943903,
+    -89.651195,
+    44.943903
+],
+  "geometry": {"coordinates":[-89.651195,44.943903],"type":"Point"}
+}

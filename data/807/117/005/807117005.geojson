@@ -1,0 +1,71 @@
+{
+  "id": 807117005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.395673,44.218946,-88.395673,44.218946",
+    "geom:latitude":44.218946,
+    "geom:longitude":-88.395673,
+    "iso:country":"US",
+    "sg:address":"1025 Southfield Dr",
+    "sg:city":"Menasha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 954 5338",
+    "sg:postcode":"54952",
+    "sg:province":"WI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732729,
+        102081289,
+        85854839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lraXCnz1r3f1gNINWuSGH_44.218946_-88.395673@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603908,
+    "wof:geomhash":"1d59715378365cbb856698d1ea168675",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081289,
+            "locality_id":101732729,
+            "neighbourhood_id":85854839,
+            "region_id":85688517,
+            "venue_id":807117005
+        }
+    ],
+    "wof:id":807117005,
+    "wof:lastmodified":1462603908,
+    "wof:name":"Victorywash Car Wash Inc",
+    "wof:parent_id":85854839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -88.395673,
+    44.218946,
+    -88.395673,
+    44.218946
+],
+  "geometry": {"coordinates":[-88.395673,44.218946],"type":"Point"}
+}

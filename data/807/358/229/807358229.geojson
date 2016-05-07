@@ -1,0 +1,87 @@
+{
+  "id": 807358229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.912596,43.020112,-87.912596,43.020112",
+    "geom:latitude":43.020112,
+    "geom:longitude":-87.912596,
+    "iso:country":"US",
+    "sg:address":"1101 S 2nd St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/milwaukee/9681-jacques-french-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 672 1040",
+    "sg:postcode":"53204",
+    "sg:province":"WI",
+    "sg:tags":[
+        "french"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870925,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517,
+        85870951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jyVMeSWTHMFbLmMNNhfzf_43.020112_-87.912596@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606626,
+    "wof:geomhash":"039bbbbddb62df9459c4a46162ac27b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870925,
+            "region_id":85688517,
+            "venue_id":807358229
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870951,
+            "region_id":85688517,
+            "venue_id":807358229
+        }
+    ],
+    "wof:id":807358229,
+    "wof:lastmodified":1462606626,
+    "wof:name":"Jacques French Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "french"
+    ]
+},
+  "bbox": [
+    -87.912596,
+    43.020112,
+    -87.912596,
+    43.020112
+],
+  "geometry": {"coordinates":[-87.91259599999999,43.020112],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 773370671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.191655,43.258197,-88.191655,43.258197",
+    "geom:latitude":43.258197,
+    "geom:longitude":-88.191655,
+    "iso:country":"US",
+    "sg:address":"3030 Polk St",
+    "sg:city":"Richfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 628 1762",
+    "sg:postcode":"53076",
+    "sg:province":"WI",
+    "sg:tags":[
+        "maintenance",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85846371,
+        102081745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hUVEu7d6soUusA8Jn90cK_43.258197_-88.191655@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585186,
+    "wof:geomhash":"e985a6b8a27c1b630b46be937c9a3fce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081745,
+            "neighbourhood_id":85846371,
+            "region_id":85688517,
+            "venue_id":773370671
+        }
+    ],
+    "wof:id":773370671,
+    "wof:lastmodified":1462585186,
+    "wof:name":"Schmitt Sanitation LLC",
+    "wof:parent_id":85846371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "septic"
+    ]
+},
+  "bbox": [
+    -88.191655,
+    43.258197,
+    -88.191655,
+    43.258197
+],
+  "geometry": {"coordinates":[-88.191655,43.258197],"type":"Point"}
+}

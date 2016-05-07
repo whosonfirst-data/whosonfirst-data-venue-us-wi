@@ -1,0 +1,85 @@
+{
+  "id": 807373509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.017176,43.036359,-88.017176,43.036359",
+    "geom:latitude":43.036359,
+    "geom:longitude":-88.017176,
+    "iso:country":"US",
+    "sg:address":"8340 W Bluemound Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/wauwatosa/41052-stone-creek-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 443 1302",
+    "sg:postcode":"53213",
+    "sg:province":"WI",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870835,
+        102191575,
+        404494273,
+        85633793,
+        101733089,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78KoaDH5KE0Ubc0zVql4Sj_43.036079_-88.016954@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606835,
+    "wof:geomhash":"fd0956c73211697fe77e64f85fb69e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494273,
+            "locality_id":101733089,
+            "neighbourhood_id":85870835,
+            "region_id":85688517,
+            "venue_id":807373509
+        }
+    ],
+    "wof:id":807373509,
+    "wof:lastmodified":1462606835,
+    "wof:name":"Stone Creek Coffee",
+    "wof:parent_id":85870835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ]
+},
+  "bbox": [
+    -88.017176,
+    43.036359,
+    -88.017176,
+    43.036359
+],
+  "geometry": {"coordinates":[-88.01717600000001,43.036359],"type":"Point"}
+}

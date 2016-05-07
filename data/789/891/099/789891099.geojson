@@ -1,0 +1,71 @@
+{
+  "id": 789891099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.61056,44.958706,-89.61056,44.958706",
+    "geom:latitude":44.958706,
+    "geom:longitude":-89.61056,
+    "iso:country":"US",
+    "sg:address":"1228 Washington St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 849 2100",
+    "sg:postcode":"54403",
+    "sg:province":"WI",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85868293,
+        102081881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NudojZ9pgDUYiLfCfjaHo_44.958706_-89.610560@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591378,
+    "wof:geomhash":"6593dbba39a9fc1681a4d10f71d48c93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "neighbourhood_id":85868293,
+            "region_id":85688517,
+            "venue_id":789891099
+        }
+    ],
+    "wof:id":789891099,
+    "wof:lastmodified":1462591378,
+    "wof:name":"Acme Graphx",
+    "wof:parent_id":85868293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -89.61056,
+    44.958706,
+    -89.61056,
+    44.958706
+],
+  "geometry": {"coordinates":[-89.61056000000001,44.958706],"type":"Point"}
+}

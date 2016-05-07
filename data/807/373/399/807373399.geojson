@@ -1,0 +1,85 @@
+{
+  "id": 807373399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.878053,43.066836,-87.878053,43.066836",
+    "geom:latitude":43.066836,
+    "geom:longitude":-87.878053,
+    "iso:country":"US",
+    "sg:address":"2632 N Downer Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/milwaukee/220585-breadsmith/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 962 1122",
+    "sg:postcode":"53211",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870945,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ejnn6WUADF8Bd9meJlWV0_43.066921_-87.877992@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606834,
+    "wof:geomhash":"df6772bf05e1fa83982587777f44d822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870945,
+            "region_id":85688517,
+            "venue_id":807373399
+        }
+    ],
+    "wof:id":807373399,
+    "wof:lastmodified":1462606834,
+    "wof:name":"Breadsmith",
+    "wof:parent_id":85870945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -87.878053,
+    43.066836,
+    -87.878053,
+    43.066836
+],
+  "geometry": {"coordinates":[-87.87805299999999,43.066836],"type":"Point"}
+}

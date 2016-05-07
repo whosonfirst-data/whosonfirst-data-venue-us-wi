@@ -1,0 +1,85 @@
+{
+  "id": 823186505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.464851,43.036079,-89.464851,43.036079",
+    "geom:latitude":43.036079,
+    "geom:longitude":-89.464851,
+    "iso:country":"US",
+    "sg:address":"5001 Barton Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 244 7000",
+    "sg:postcode":"53711",
+    "sg:province":"WI",
+    "sg:tags":[
+        "improvement",
+        "painting",
+        "contractor"
+    ],
+    "sg:website":"http://www.apex-painting.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878885,
+        102191575,
+        404493257,
+        85633793,
+        101732773,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m9V9Y2p4FCYStIdwDFGir_43.036079_-89.464851@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608150,
+    "wof:geomhash":"652169c22752bb0d1f3fee2b0b1f75f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404493257,
+            "locality_id":101732773,
+            "neighbourhood_id":85878885,
+            "region_id":85688517,
+            "venue_id":823186505
+        }
+    ],
+    "wof:id":823186505,
+    "wof:lastmodified":1462608150,
+    "wof:name":"Apex Painting",
+    "wof:parent_id":85878885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "improvement",
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.464851,
+    43.036079,
+    -89.464851,
+    43.036079
+],
+  "geometry": {"coordinates":[-89.464851,43.036079],"type":"Point"}
+}

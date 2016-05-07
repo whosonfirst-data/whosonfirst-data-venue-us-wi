@@ -1,0 +1,72 @@
+{
+  "id": 807369087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.462441,44.785518,-91.462441,44.785518",
+    "geom:latitude":44.785518,
+    "geom:longitude":-91.462441,
+    "iso:country":"US",
+    "sg:address":"2823 E Hamilton Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/293031-tacos-juanita-mexican-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 835 3229",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iD9QjQHTJywimbAWlJBxT_44.785518_-91.462441@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606778,
+    "wof:geomhash":"17f2475a5abcdb8a3bcf97f61e40f626",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807369087
+        }
+    ],
+    "wof:id":807369087,
+    "wof:lastmodified":1462606778,
+    "wof:name":"Tacos Juanita Mexican Restaurant",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -91.462441,
+    44.785518,
+    -91.462441,
+    44.785518
+],
+  "geometry": {"coordinates":[-91.462441,44.785518],"type":"Point"}
+}

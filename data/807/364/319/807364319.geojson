@@ -1,0 +1,76 @@
+{
+  "id": 807364319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.422758,43.017122,-89.422758,43.017122",
+    "geom:latitude":43.017122,
+    "geom:longitude":-89.422758,
+    "iso:country":"US",
+    "sg:address":"2960 Cahill Main",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/fitchburg/41099-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 441 8883",
+    "sg:postcode":"53711",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hBaIO8BoOjsaT8DqwZYY8_43.017122_-89.422758@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606712,
+    "wof:geomhash":"c334daacbb8081e381e14601dec32792",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":807364319
+        }
+    ],
+    "wof:id":807364319,
+    "wof:lastmodified":1462606712,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -89.422758,
+    43.017122,
+    -89.422758,
+    43.017122
+],
+  "geometry": {"coordinates":[-89.422758,43.017122],"type":"Point"}
+}

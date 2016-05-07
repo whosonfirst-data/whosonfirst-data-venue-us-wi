@@ -1,0 +1,74 @@
+{
+  "id": 789628529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.218841,43.185856,-89.218841,43.185856",
+    "geom:latitude":43.185856,
+    "geom:longitude":-89.218841,
+    "iso:country":"US",
+    "sg:address":"423 Kelly St",
+    "sg:city":"Sun Prairie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 834 1358",
+    "sg:postcode":"53590",
+    "sg:province":"WI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85878835,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Yw2qlWbWPEdzNvVIN2e5U_43.185856_-89.218841@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589281,
+    "wof:geomhash":"dabf8787a236d14b0137bae2b33d5db4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85878835,
+            "region_id":85688517,
+            "venue_id":789628529
+        }
+    ],
+    "wof:id":789628529,
+    "wof:lastmodified":1462589281,
+    "wof:name":"Dynamic Massage LLC",
+    "wof:parent_id":85878835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -89.218841,
+    43.185856,
+    -89.218841,
+    43.185856
+],
+  "geometry": {"coordinates":[-89.218841,43.185856],"type":"Point"}
+}

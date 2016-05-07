@@ -1,0 +1,73 @@
+{
+  "id": 773498041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.45467,44.767524,-91.45467,44.767524",
+    "geom:latitude":44.767524,
+    "geom:longitude":-91.45467,
+    "iso:country":"US",
+    "sg:address":"3201 Oak Knoll Dr",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 833 1330",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BLw45zBrfpsLjVAXovBIw_44.767524_-91.454670@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586193,
+    "wof:geomhash":"1aaf05824e9d5a699b1a2af95af9f708",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":773498041
+        }
+    ],
+    "wof:id":773498041,
+    "wof:lastmodified":1462586193,
+    "wof:name":"Fedex",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.45467,
+    44.767524,
+    -91.45467,
+    44.767524
+],
+  "geometry": {"coordinates":[-91.45466999999999,44.767524],"type":"Point"}
+}

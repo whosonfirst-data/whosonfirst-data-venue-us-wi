@@ -1,0 +1,71 @@
+{
+  "id": 773667519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.276753,44.763432,-91.276753,44.763432",
+    "geom:latitude":44.763432,
+    "geom:longitude":-91.276753,
+    "iso:country":"US",
+    "sg:address":"122 E Lincoln Ave",
+    "sg:city":"Fall Creek",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 877 3231",
+    "sg:postcode":"54742",
+    "sg:province":"WI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73UYe5xHNaTyRqFQPdW0L9_44.763432_-91.276753@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462587449,
+    "wof:geomhash":"7f76a09b6aa909b03e355d3efe847eaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":773667519
+        }
+    ],
+    "wof:id":773667519,
+    "wof:lastmodified":1462587449,
+    "wof:name":"Fall Creek Village Police Dept",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.276753,
+    44.763432,
+    -91.276753,
+    44.763432
+],
+  "geometry": {"coordinates":[-91.276753,44.763432],"type":"Point"}
+}

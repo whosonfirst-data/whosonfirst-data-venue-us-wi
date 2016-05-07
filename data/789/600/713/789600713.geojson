@@ -1,0 +1,71 @@
+{
+  "id": 789600713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.354614,42.654453,-88.354614,42.654453",
+    "geom:latitude":42.654453,
+    "geom:longitude":-88.354614,
+    "iso:country":"US",
+    "sg:address":"6016 State Hwy 36",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 763 7701",
+    "sg:postcode":"53105",
+    "sg:province":"WI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733599,
+        102081763,
+        85865441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0whuFTb2ABgKDUoMo65Vht_42.654453_-88.354614@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589073,
+    "wof:geomhash":"12e5c508e74ea8a9a329c9cb5414db8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081763,
+            "locality_id":101733599,
+            "neighbourhood_id":85865441,
+            "region_id":85688517,
+            "venue_id":789600713
+        }
+    ],
+    "wof:id":789600713,
+    "wof:lastmodified":1462589073,
+    "wof:name":"R & B Auto",
+    "wof:parent_id":85865441,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -88.354614,
+    42.654453,
+    -88.354614,
+    42.654453
+],
+  "geometry": {"coordinates":[-88.354614,42.654453],"type":"Point"}
+}

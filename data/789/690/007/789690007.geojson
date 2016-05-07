@@ -1,0 +1,71 @@
+{
+  "id": 789690007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.019688,42.586675,-89.019688,42.586675",
+    "geom:latitude":42.586675,
+    "geom:longitude":-89.019688,
+    "iso:country":"US",
+    "sg:address":"6501 US Hwy 51",
+    "sg:city":"Janesville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 373 0013",
+    "sg:postcode":"53546",
+    "sg:province":"WI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85825897,
+        102081829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oQZr92ffzRjUeuizEyXj4_42.586675_-89.019688@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589777,
+    "wof:geomhash":"c2c22ff98bb56a680c80b68b5eb5d622",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "neighbourhood_id":85825897,
+            "region_id":85688517,
+            "venue_id":789690007
+        }
+    ],
+    "wof:id":789690007,
+    "wof:lastmodified":1462589777,
+    "wof:name":"Jakes Mobile",
+    "wof:parent_id":85825897,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -89.019688,
+    42.586675,
+    -89.019688,
+    42.586675
+],
+  "geometry": {"coordinates":[-89.019688,42.586675],"type":"Point"}
+}

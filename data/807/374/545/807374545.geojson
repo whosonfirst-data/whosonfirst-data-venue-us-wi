@@ -1,0 +1,87 @@
+{
+  "id": 807374545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.363752,43.083843,-89.363752,43.083843",
+    "geom:latitude":43.083843,
+    "geom:longitude":-89.363752,
+    "iso:country":"US",
+    "sg:address":"1236 Williamson St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/madison/261228-jamerica-carribean-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 251 6234",
+    "sg:postcode":"53703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "jamaican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878861,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517,
+        85868285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X0DCd5fNtZba3zSN8KfzT_43.084105_-89.363073@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606849,
+    "wof:geomhash":"2106b94b061fc0f739adfb0d792dd7e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878861,
+            "region_id":85688517,
+            "venue_id":807374545
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85868285,
+            "region_id":85688517,
+            "venue_id":807374545
+        }
+    ],
+    "wof:id":807374545,
+    "wof:lastmodified":1462606849,
+    "wof:name":"Jamerica Carribean Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jamaican"
+    ]
+},
+  "bbox": [
+    -89.363752,
+    43.083843,
+    -89.363752,
+    43.083843
+],
+  "geometry": {"coordinates":[-89.36375200000001,43.083843],"type":"Point"}
+}

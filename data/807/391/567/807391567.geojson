@@ -1,0 +1,75 @@
+{
+  "id": 807391567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.357598,42.64815,-88.357598,42.64815",
+    "geom:latitude":42.64815,
+    "geom:longitude":-88.357598,
+    "iso:country":"US",
+    "sg:address":"1622 Mill St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 763 5380",
+    "sg:postcode":"53105",
+    "sg:province":"WI",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733599,
+        102081763,
+        85865441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f9YPvHSKzPIgImD50s1q6_42.648150_-88.357598@1303262806"
+    },
+    "wof:country":"US",
+    "wof:created":1462607091,
+    "wof:geomhash":"97a88c0e8ba9136daf97059371fe5fa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081763,
+            "locality_id":101733599,
+            "neighbourhood_id":85865441,
+            "region_id":85688517,
+            "venue_id":807391567
+        }
+    ],
+    "wof:id":807391567,
+    "wof:lastmodified":1462607091,
+    "wof:name":"Burlington Area School District",
+    "wof:parent_id":85865441,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -88.357598,
+    42.64815,
+    -88.357598,
+    42.64815
+],
+  "geometry": {"coordinates":[-88.357598,42.64815],"type":"Point"}
+}

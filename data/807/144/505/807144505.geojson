@@ -1,0 +1,73 @@
+{
+  "id": 807144505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.428196,44.255772,-88.428196,44.255772",
+    "geom:latitude":44.255772,
+    "geom:longitude":-88.428196,
+    "iso:country":"US",
+    "sg:address":"724 S Outagamie St",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 733 1125",
+    "sg:postcode":"54914",
+    "sg:province":"WI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09CdctJOASp01qqZmdYfiS_44.255772_-88.428196@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604208,
+    "wof:geomhash":"e692633c089f92c807ba09a7dea8ae89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":807144505
+        }
+    ],
+    "wof:id":807144505,
+    "wof:lastmodified":1462604208,
+    "wof:name":"AT&T",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.428196,
+    44.255772,
+    -88.428196,
+    44.255772
+],
+  "geometry": {"coordinates":[-88.428196,44.255772],"type":"Point"}
+}

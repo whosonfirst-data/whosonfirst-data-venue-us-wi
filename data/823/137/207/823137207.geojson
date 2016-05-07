@@ -1,0 +1,82 @@
+{
+  "id": 823137207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.882626,43.052164,-87.882626,43.052164",
+    "geom:latitude":43.052164,
+    "geom:longitude":-87.882626,
+    "iso:country":"US",
+    "sg:address":"333 E Wisconsin Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 287 6450",
+    "sg:postcode":"53202",
+    "sg:province":"WI",
+    "sg:tags":[
+        "trust",
+        "mortgage"
+    ],
+    "sg:website":"http://www.johnsonbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85870961,
+        102081837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TMiaNoHI8totkcB54XJBE_43.052164_-87.882626@1303262807"
+    },
+    "wof:country":"US",
+    "wof:created":1462607459,
+    "wof:geomhash":"b305d2ca1e2491c5f0b23b9268d354b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081837,
+            "neighbourhood_id":85870961,
+            "region_id":85688517,
+            "venue_id":823137207
+        }
+    ],
+    "wof:id":823137207,
+    "wof:lastmodified":1462607459,
+    "wof:name":"Johnson Bank",
+    "wof:parent_id":85870961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trust",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -87.882626,
+    43.052164,
+    -87.882626,
+    43.052164
+],
+  "geometry": {"coordinates":[-87.882626,43.052164],"type":"Point"}
+}

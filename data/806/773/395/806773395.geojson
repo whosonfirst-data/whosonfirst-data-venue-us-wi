@@ -1,0 +1,73 @@
+{
+  "id": 806773395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.488899,45.10129,-91.488899,45.10129",
+    "geom:latitude":45.10129,
+    "geom:longitude":-91.488899,
+    "iso:country":"US",
+    "sg:address":"1503 Main St",
+    "sg:city":"Bloomer",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 568 3331",
+    "sg:postcode":"54724",
+    "sg:province":"WI",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732557,
+        102081787,
+        85837071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YSAetLpNythwSPt3OXnei_45.101290_-91.488899@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462600957,
+    "wof:geomhash":"45aeafcd1857b4828c87782240eea28f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081787,
+            "locality_id":101732557,
+            "neighbourhood_id":85837071,
+            "region_id":85688517,
+            "venue_id":806773395
+        }
+    ],
+    "wof:id":806773395,
+    "wof:lastmodified":1462600957,
+    "wof:name":"Bloomer Utility Office",
+    "wof:parent_id":85837071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -91.488899,
+    45.10129,
+    -91.488899,
+    45.10129
+],
+  "geometry": {"coordinates":[-91.488899,45.10129],"type":"Point"}
+}

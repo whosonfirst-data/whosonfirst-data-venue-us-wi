@@ -1,0 +1,75 @@
+{
+  "id": 789847761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.415355,44.293778,-88.415355,44.293778",
+    "geom:latitude":44.293778,
+    "geom:longitude":-88.415355,
+    "iso:country":"US",
+    "sg:address":"420 W Sunset Ave",
+    "sg:city":"Appleton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 738 9311",
+    "sg:postcode":"54911",
+    "sg:province":"WI",
+    "sg:tags":[
+        "state",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732417,
+        102081851,
+        85805401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02wblmSQYZjTRBWLyl1rtZ_44.293778_-88.415355@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591011,
+    "wof:geomhash":"2acdff4562709c6c41e9a79789d5feab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081851,
+            "locality_id":101732417,
+            "neighbourhood_id":85805401,
+            "region_id":85688517,
+            "venue_id":789847761
+        }
+    ],
+    "wof:id":789847761,
+    "wof:lastmodified":1462591011,
+    "wof:name":"PRN Health Svc",
+    "wof:parent_id":85805401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -88.415355,
+    44.293778,
+    -88.415355,
+    44.293778
+],
+  "geometry": {"coordinates":[-88.41535500000001,44.293778],"type":"Point"}
+}

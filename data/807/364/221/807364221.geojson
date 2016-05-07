@@ -1,0 +1,74 @@
+{
+  "id": 807364221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.423186,43.017732,-89.423186,43.017732",
+    "geom:latitude":43.017732,
+    "geom:longitude":-89.423186,
+    "iso:country":"US",
+    "sg:address":"2980 Cahill Main",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/fitchburg/77414-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 268 4444",
+    "sg:postcode":"53711",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ch3j7V4AI4KNLnHUoNDI3_43.017732_-89.423186@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606711,
+    "wof:geomhash":"5faa392e34ff6eeb47c1d62aa884e0ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":807364221
+        }
+    ],
+    "wof:id":807364221,
+    "wof:lastmodified":1462606711,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.423186,
+    43.017732,
+    -89.423186,
+    43.017732
+],
+  "geometry": {"coordinates":[-89.423186,43.017732],"type":"Point"}
+}

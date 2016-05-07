@@ -1,0 +1,73 @@
+{
+  "id": 789654065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.471498,44.850658,-91.471498,44.850658",
+    "geom:latitude":44.850658,
+    "geom:longitude":-91.471498,
+    "iso:country":"US",
+    "sg:address":"2703 Eddy Ln",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 833 0718",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eRqN77uUUIl6q10LpvOl5_44.850658_-91.471498@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589487,
+    "wof:geomhash":"7faa11e3534d56c4be1287c226e998ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":789654065
+        }
+    ],
+    "wof:id":789654065,
+    "wof:lastmodified":1462589487,
+    "wof:name":"Justin's Small Engine Rep",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "engine"
+    ]
+},
+  "bbox": [
+    -91.471498,
+    44.850658,
+    -91.471498,
+    44.850658
+],
+  "geometry": {"coordinates":[-91.471498,44.850658],"type":"Point"}
+}

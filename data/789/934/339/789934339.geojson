@@ -1,0 +1,75 @@
+{
+  "id": 789934339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.048457,43.769248,-88.048457,43.769248",
+    "geom:latitude":43.769248,
+    "geom:longitude":-88.048457,
+    "iso:country":"US",
+    "sg:address":"6981 State Hwy 23",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 892 2436",
+    "sg:postcode":"53073",
+    "sg:province":"WI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733393,
+        102081869,
+        85836705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30k7Fg31Ax3XLqfa4ZTW5B_43.769248_-88.048457@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591744,
+    "wof:geomhash":"3f4bf3c284d8ffe0fed551b508dbdd2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "locality_id":101733393,
+            "neighbourhood_id":85836705,
+            "region_id":85688517,
+            "venue_id":789934339
+        }
+    ],
+    "wof:id":789934339,
+    "wof:lastmodified":1462591744,
+    "wof:name":"Peg's Dog Grooming",
+    "wof:parent_id":85836705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -88.048457,
+    43.769248,
+    -88.048457,
+    43.769248
+],
+  "geometry": {"coordinates":[-88.048457,43.769248],"type":"Point"}
+}

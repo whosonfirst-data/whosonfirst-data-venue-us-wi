@@ -1,0 +1,75 @@
+{
+  "id": 807131153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.603102,42.53382,-88.603102,42.53382",
+    "geom:latitude":42.53382,
+    "geom:longitude":-88.603102,
+    "iso:country":"US",
+    "sg:address":"490 Madison St",
+    "sg:city":"Walworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 275 6575",
+    "sg:postcode":"53184",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733549,
+        102081883,
+        85814169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OeYVK3626xYCnDGoE2hrT_42.533820_-88.603102@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604060,
+    "wof:geomhash":"dd1ad8926d7c225749d937f356bc668b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733549,
+            "neighbourhood_id":85814169,
+            "region_id":85688517,
+            "venue_id":807131153
+        }
+    ],
+    "wof:id":807131153,
+    "wof:lastmodified":1462604060,
+    "wof:name":"Mark's Motor Mechanics",
+    "wof:parent_id":85814169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.603102,
+    42.53382,
+    -88.603102,
+    42.53382
+],
+  "geometry": {"coordinates":[-88.60310200000001,42.53382],"type":"Point"}
+}

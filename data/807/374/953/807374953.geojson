@@ -1,0 +1,87 @@
+{
+  "id": 807374953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.437672,43.074637,-89.437672,43.074637",
+    "geom:latitude":43.074637,
+    "geom:longitude":-89.437672,
+    "iso:country":"US",
+    "sg:address":"2856 University Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/shorewood-hills/192669-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 238 4511",
+    "sg:postcode":"53705",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868277,
+        102191575,
+        404491679,
+        85633793,
+        101732725,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5I4YOS6fSbCqyoovfB1HbZ_43.074532_-89.437674@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606854,
+    "wof:geomhash":"b69b1271a13b3825771e6496a7d3ec3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491679,
+            "locality_id":101732725,
+            "neighbourhood_id":85868277,
+            "region_id":85688517,
+            "venue_id":807374953
+        }
+    ],
+    "wof:id":807374953,
+    "wof:lastmodified":1462606854,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85868277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -89.437672,
+    43.074637,
+    -89.437672,
+    43.074637
+],
+  "geometry": {"coordinates":[-89.43767200000001,43.074637],"type":"Point"}
+}

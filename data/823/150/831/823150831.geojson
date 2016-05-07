@@ -1,0 +1,79 @@
+{
+  "id": 823150831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.888601,43.094595,-87.888601,43.094595",
+    "geom:latitude":43.094595,
+    "geom:longitude":-87.888601,
+    "iso:country":"US",
+    "sg:address":"1702 E Marion St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 962 8475",
+    "sg:postcode":"53211",
+    "sg:province":"WI",
+    "sg:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870879,
+        102191575,
+        404494183,
+        85633793,
+        101733085,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gpn73ZDbmKnuruxdhK1vq_43.094595_-87.888601@1303262808"
+    },
+    "wof:country":"US",
+    "wof:created":1462607678,
+    "wof:geomhash":"7713c9411b245a20ce5cdd76f6fad0cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494183,
+            "locality_id":101733085,
+            "neighbourhood_id":85870879,
+            "region_id":85688517,
+            "venue_id":823150831
+        }
+    ],
+    "wof:id":823150831,
+    "wof:lastmodified":1462607678,
+    "wof:name":"Lake Michigan Rental",
+    "wof:parent_id":85870879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ]
+},
+  "bbox": [
+    -87.888601,
+    43.094595,
+    -87.888601,
+    43.094595
+],
+  "geometry": {"coordinates":[-87.88860099999999,43.094595],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789794383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.149095,45.164035,-91.149095,45.164035",
+    "geom:latitude":45.164035,
+    "geom:longitude":-91.149095,
+    "iso:country":"US",
+    "sg:address":"412 S 3rd St",
+    "sg:city":"Cornell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 239 0395",
+    "sg:postcode":"54732",
+    "sg:province":"WI",
+    "sg:tags":[
+        "body",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732557,
+        102081787,
+        85837071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TRVcfohktYrWHL7gnLKaz_45.164035_-91.149095@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462590600,
+    "wof:geomhash":"ce939ed43b61e1c2d49d8f35bb47a9d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081787,
+            "locality_id":101732557,
+            "neighbourhood_id":85837071,
+            "region_id":85688517,
+            "venue_id":789794383
+        }
+    ],
+    "wof:id":789794383,
+    "wof:lastmodified":1462590600,
+    "wof:name":"Diamond Service Center",
+    "wof:parent_id":85837071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.149095,
+    45.164035,
+    -91.149095,
+    45.164035
+],
+  "geometry": {"coordinates":[-91.149095,45.164035],"type":"Point"}
+}

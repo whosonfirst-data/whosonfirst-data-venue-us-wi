@@ -1,0 +1,82 @@
+{
+  "id": 823162945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.004691,43.10505,-88.004691,43.10505",
+    "geom:latitude":43.10505,
+    "geom:longitude":-88.004691,
+    "iso:country":"US",
+    "sg:address":"7410 W Hampton Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 464 1760",
+    "sg:postcode":"53218",
+    "sg:province":"WI",
+    "sg:tags":[
+        "liquors-wholesale",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870869,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E1VjzwGx0bOsH3qzAlx4X_43.105050_-88.004691@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607841,
+    "wof:geomhash":"da85e18ed8426b58257fb3692b9e7137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870869,
+            "region_id":85688517,
+            "venue_id":823162945
+        }
+    ],
+    "wof:id":823162945,
+    "wof:lastmodified":1462607841,
+    "wof:name":"Hampton Liquors",
+    "wof:parent_id":85870869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquors-wholesale",
+        "store"
+    ]
+},
+  "bbox": [
+    -88.004691,
+    43.10505,
+    -88.004691,
+    43.10505
+],
+  "geometry": {"coordinates":[-88.00469099999999,43.10505],"type":"Point"}
+}

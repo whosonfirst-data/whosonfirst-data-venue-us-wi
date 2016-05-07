@@ -1,0 +1,80 @@
+{
+  "id": 823186187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.43399,43.076241,-89.43399,43.076241",
+    "geom:latitude":43.076241,
+    "geom:longitude":-89.43399,
+    "iso:country":"US",
+    "sg:address":"1675 Highland Ave",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 460 2324",
+    "sg:postcode":"53705",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868277,
+        102191575,
+        404491679,
+        85633793,
+        101732725,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rNUxs6fu14qeqelBwoT9V_43.076241_-89.433990@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608145,
+    "wof:geomhash":"80074b19358bc2dd3bb595e9f60f76a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491679,
+            "locality_id":101732725,
+            "neighbourhood_id":85868277,
+            "region_id":85688517,
+            "venue_id":823186187
+        }
+    ],
+    "wof:id":823186187,
+    "wof:lastmodified":1462608145,
+    "wof:name":"American Family Childrens Hospital",
+    "wof:parent_id":85868277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.43399,
+    43.076241,
+    -89.43399,
+    43.076241
+],
+  "geometry": {"coordinates":[-89.43398999999999,43.076241],"type":"Point"}
+}

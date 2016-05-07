@@ -1,0 +1,71 @@
+{
+  "id": 789879765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.619497,44.970322,-89.619497,44.970322",
+    "geom:latitude":44.970322,
+    "geom:longitude":-89.619497,
+    "iso:country":"US",
+    "sg:address":"722 Chicago Ave",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 842 2434",
+    "sg:postcode":"54403",
+    "sg:province":"WI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X07eUVpKFcgmMNlnGexY4_44.970322_-89.619497@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462591288,
+    "wof:geomhash":"39229a7ee8232014cb64090eddf8d068",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":789879765
+        }
+    ],
+    "wof:id":789879765,
+    "wof:lastmodified":1462591288,
+    "wof:name":"Down Home Cleaning",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -89.619497,
+    44.970322,
+    -89.619497,
+    44.970322
+],
+  "geometry": {"coordinates":[-89.619497,44.970322],"type":"Point"}
+}

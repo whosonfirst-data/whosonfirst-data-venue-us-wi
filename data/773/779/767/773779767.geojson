@@ -1,0 +1,77 @@
+{
+  "id": 773779767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.923736,43.12958,-87.923736,43.12958",
+    "geom:latitude":43.12958,
+    "geom:longitude":-87.923736,
+    "iso:country":"US",
+    "sg:address":"1101 W Bender Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 281 1253",
+    "sg:postcode":"53217",
+    "sg:province":"WI",
+    "sg:tags":[
+        "test",
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870821,
+        102191575,
+        404494165,
+        85633793,
+        101733065,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XoFEcnYJh8HK4UgdgWU9q_43.129580_-87.923736@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588316,
+    "wof:geomhash":"71b0dc3cbe7ac0587cba866ce91181e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494165,
+            "locality_id":101733065,
+            "neighbourhood_id":85870821,
+            "region_id":85688517,
+            "venue_id":773779767
+        }
+    ],
+    "wof:id":773779767,
+    "wof:lastmodified":1462588316,
+    "wof:name":"Test Station",
+    "wof:parent_id":85870821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "test",
+        "station"
+    ]
+},
+  "bbox": [
+    -87.923736,
+    43.12958,
+    -87.923736,
+    43.12958
+],
+  "geometry": {"coordinates":[-87.92373600000001,43.12958],"type":"Point"}
+}

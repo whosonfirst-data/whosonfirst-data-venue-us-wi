@@ -1,0 +1,70 @@
+{
+  "id": 807383625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.925398,43.322529,-87.925398,43.322529",
+    "geom:latitude":43.322529,
+    "geom:longitude":-87.925398,
+    "iso:country":"US",
+    "sg:address":"1381 Port Washington Rd",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 546 0249",
+    "sg:postcode":"53024",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.wvrc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85852983,
+        102081873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gJsoVsyNVc9XSQeaAgMfm_43.322529_-87.925398@1303262805"
+    },
+    "wof:country":"US",
+    "wof:created":1462606979,
+    "wof:geomhash":"8653cabbf6f0987cec8debae2709f69f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081873,
+            "neighbourhood_id":85852983,
+            "region_id":85688517,
+            "venue_id":807383625
+        }
+    ],
+    "wof:id":807383625,
+    "wof:lastmodified":1462606979,
+    "wof:name":"Wisconsin Veterinary Referral Center",
+    "wof:parent_id":85852983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -87.925398,
+    43.322529,
+    -87.925398,
+    43.322529
+],
+  "geometry": {"coordinates":[-87.925398,43.322529],"type":"Point"}
+}

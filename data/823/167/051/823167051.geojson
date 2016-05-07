@@ -1,0 +1,86 @@
+{
+  "id": 823167051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.92929,42.954452,-87.92929,42.954452",
+    "geom:latitude":42.954452,
+    "geom:longitude":-87.92929,
+    "iso:country":"US",
+    "sg:address":"4960 S 13th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 281 7300",
+    "sg:postcode":"53221",
+    "sg:province":"WI",
+    "sg:tags":[
+        "buses-charter",
+        "line",
+        "rental",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870855,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48dCtyPHTNQ96r9WY2ACFy_42.954452_-87.929290@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607893,
+    "wof:geomhash":"eb5bab4bfa21b5ed2795bde0d5e14a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870855,
+            "region_id":85688517,
+            "venue_id":823167051
+        }
+    ],
+    "wof:id":823167051,
+    "wof:lastmodified":1462607893,
+    "wof:name":"Wisconsin Coach Lines",
+    "wof:parent_id":85870855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buses-charter",
+        "line",
+        "rental",
+        "public"
+    ]
+},
+  "bbox": [
+    -87.92929,
+    42.954452,
+    -87.92929,
+    42.954452
+],
+  "geometry": {"coordinates":[-87.92928999999999,42.954452],"type":"Point"}
+}

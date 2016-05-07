@@ -1,0 +1,95 @@
+{
+  "id": 823159587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.00309,43.09,-88.00309,43.09",
+    "geom:latitude":43.09,
+    "geom:longitude":-88.00309,
+    "iso:country":"US",
+    "sg:address":"7320 W Capitol Dr",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 438 7272",
+    "sg:postcode":"53216",
+    "sg:province":"WI",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.papajohns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870905,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15XfWrBFezfV0ZvHQSsDCk_43.090000_-88.003090@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607795,
+    "wof:geomhash":"552713375f6bfa1faa3940b6225781ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870905,
+            "region_id":85688517,
+            "venue_id":823159587
+        }
+    ],
+    "wof:id":823159587,
+    "wof:lastmodified":1462607795,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85870905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.00309,
+    43.09,
+    -88.00309,
+    43.09
+],
+  "geometry": {"coordinates":[-88.00309,43.09],"type":"Point"}
+}

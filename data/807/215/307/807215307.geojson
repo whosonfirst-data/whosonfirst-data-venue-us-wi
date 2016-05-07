@@ -1,0 +1,71 @@
+{
+  "id": 807215307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.948083,44.155321,-87.948083,44.155321",
+    "geom:latitude":44.155321,
+    "geom:longitude":-87.948083,
+    "iso:country":"US",
+    "sg:address":"106 Mill St",
+    "sg:city":"Reedsville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 754 4337",
+    "sg:postcode":"54230",
+    "sg:province":"WI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85827947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qHxrZlKDCkLllGa7KfYf9_44.155321_-87.948083@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604951,
+    "wof:geomhash":"b5cd064e9336105d29172b297bb3c27e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85827947,
+            "region_id":85688517,
+            "venue_id":807215307
+        }
+    ],
+    "wof:id":807215307,
+    "wof:lastmodified":1462604951,
+    "wof:name":"Aurora Health Ctr",
+    "wof:parent_id":85827947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -87.948083,
+    44.155321,
+    -87.948083,
+    44.155321
+],
+  "geometry": {"coordinates":[-87.948083,44.155321],"type":"Point"}
+}

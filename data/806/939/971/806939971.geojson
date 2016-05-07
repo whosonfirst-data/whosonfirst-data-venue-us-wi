@@ -1,0 +1,71 @@
+{
+  "id": 806939971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.51849,43.092277,-89.51849,43.092277",
+    "geom:latitude":43.092277,
+    "geom:longitude":-89.51849,
+    "iso:country":"US",
+    "sg:address":"1612 N High Point Rd",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 831 1101",
+    "sg:postcode":"53562",
+    "sg:province":"WI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34LvqkLnHz4gswCGybB5Jl_43.092277_-89.518490@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602360,
+    "wof:geomhash":"d2cd71c14d5a054bbd434f9e1b6947f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":806939971
+        }
+    ],
+    "wof:id":806939971,
+    "wof:lastmodified":1462602360,
+    "wof:name":"Veterinary Emergency Service L",
+    "wof:parent_id":85878843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -89.51849,
+    43.092277,
+    -89.51849,
+    43.092277
+],
+  "geometry": {"coordinates":[-89.51849,43.092277],"type":"Point"}
+}

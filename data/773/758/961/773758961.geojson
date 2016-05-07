@@ -1,0 +1,73 @@
+{
+  "id": 773758961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.039281,43.912634,-88.039281,43.912634",
+    "geom:latitude":43.912634,
+    "geom:longitude":-88.039281,
+    "iso:country":"US",
+    "sg:address":"630 Fremont St",
+    "sg:city":"Kiel",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 894 3141",
+    "sg:postcode":"53042",
+    "sg:province":"WI",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49Q5olmfif1xrP26ytUGgp_43.912634_-88.039281@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588160,
+    "wof:geomhash":"ec3e1ce41f57036d9ea05c8b7038403d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":773758961
+        }
+    ],
+    "wof:id":773758961,
+    "wof:lastmodified":1462588160,
+    "wof:name":"Kiel Pharmacy",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -88.039281,
+    43.912634,
+    -88.039281,
+    43.912634
+],
+  "geometry": {"coordinates":[-88.039281,43.912634],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806714569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.429,42.589158,-88.429,42.589158",
+    "geom:latitude":42.589158,
+    "geom:longitude":-88.429,
+    "iso:country":"US",
+    "sg:address":"104 S Wells St",
+    "sg:city":"Lake Geneva",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 248 1144",
+    "sg:postcode":"53147",
+    "sg:province":"WI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733551,
+        102081883,
+        85812017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xIzNZmIsA1bnUSzaxm0qa_42.589158_-88.429000@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462600453,
+    "wof:geomhash":"c5d1edb770839f0cadee3741a2d5aaee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733551,
+            "neighbourhood_id":85812017,
+            "region_id":85688517,
+            "venue_id":806714569
+        }
+    ],
+    "wof:id":806714569,
+    "wof:lastmodified":1462600453,
+    "wof:name":"McDonalds",
+    "wof:parent_id":85812017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -88.429,
+    42.589158,
+    -88.429,
+    42.589158
+],
+  "geometry": {"coordinates":[-88.429,42.589158],"type":"Point"}
+}

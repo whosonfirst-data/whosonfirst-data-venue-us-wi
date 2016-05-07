@@ -1,0 +1,119 @@
+{
+  "id": 823165145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.008251,42.956209,-88.008251,42.956209",
+    "geom:latitude":42.956209,
+    "geom:longitude":-88.008251,
+    "iso:country":"US",
+    "sg:address":"4848 S 76th St Suite 210",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 282 7444",
+    "sg:postcode":"53220",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "oncology",
+        "pediatrics",
+        "cancer",
+        "medical",
+        "surgeons",
+        "orthopedics",
+        "treatment",
+        "medicine",
+        "surgeon",
+        "internal"
+    ],
+    "sg:website":"http://www.ah.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870865,
+        102191575,
+        404492089,
+        85633793,
+        101733071,
+        102081837,
+        85688517,
+        420558473,
+        404494171,
+        101733073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_480q9IywE9qSijUH7SKT8B_42.956209_-88.008251@1303262810"
+    },
+    "wof:country":"US",
+    "wof:created":1462607871,
+    "wof:geomhash":"1a60f9bcf40facf39ecdea3de2bfb701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492089,
+            "locality_id":101733071,
+            "neighbourhood_id":85870865,
+            "region_id":85688517,
+            "venue_id":823165145
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494171,
+            "locality_id":101733073,
+            "neighbourhood_id":420558473,
+            "region_id":85688517,
+            "venue_id":823165145
+        }
+    ],
+    "wof:id":823165145,
+    "wof:lastmodified":1462607871,
+    "wof:name":"Aurora Advanced Healthcare",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "oncology",
+        "pediatrics",
+        "cancer",
+        "medical",
+        "surgeons",
+        "orthopedics",
+        "treatment",
+        "medicine",
+        "surgeon",
+        "internal"
+    ]
+},
+  "bbox": [
+    -88.008251,
+    42.956209,
+    -88.008251,
+    42.956209
+],
+  "geometry": {"coordinates":[-88.008251,42.956209],"type":"Point"}
+}

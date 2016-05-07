@@ -1,0 +1,71 @@
+{
+  "id": 807207181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.572398,44.147526,-87.572398,44.147526",
+    "geom:latitude":44.147526,
+    "geom:longitude":-87.572398,
+    "iso:country":"US",
+    "sg:address":"1611 16th St",
+    "sg:city":"Two Rivers",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 793 4949",
+    "sg:postcode":"54241",
+    "sg:province":"WI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ru9Uh9QcPIyKviX41Hl0z_44.147526_-87.572398@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604869,
+    "wof:geomhash":"5464c87a0a92552f7dade37eebb0fa8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":807207181
+        }
+    ],
+    "wof:id":807207181,
+    "wof:lastmodified":1462604869,
+    "wof:name":"Two Rivers Super Wash",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -87.572398,
+    44.147526,
+    -87.572398,
+    44.147526
+],
+  "geometry": {"coordinates":[-87.57239800000001,44.147526],"type":"Point"}
+}

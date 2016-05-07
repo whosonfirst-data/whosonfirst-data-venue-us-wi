@@ -1,0 +1,75 @@
+{
+  "id": 789608321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.062311,43.757804,-91.062311,43.757804",
+    "geom:latitude":43.757804,
+    "geom:longitude":-91.062311,
+    "iso:country":"US",
+    "sg:address":"1006 Co Rd M",
+    "sg:city":"Coon Valley",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 788 8180",
+    "sg:postcode":"54623",
+    "sg:province":"WI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.leutherlab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85832275,
+        102081301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00DFGPYFQPvTEzHY4ql5AF_43.757804_-91.062311@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589127,
+    "wof:geomhash":"7aab13b86e491f6c69be1e7a56cd1255",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "neighbourhood_id":85832275,
+            "region_id":85688517,
+            "venue_id":789608321
+        }
+    ],
+    "wof:id":789608321,
+    "wof:lastmodified":1462589127,
+    "wof:name":"Leuther Laboratories",
+    "wof:parent_id":85832275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -91.062311,
+    43.757804,
+    -91.062311,
+    43.757804
+],
+  "geometry": {"coordinates":[-91.06231099999999,43.757804],"type":"Point"}
+}

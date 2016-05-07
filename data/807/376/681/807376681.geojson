@@ -1,0 +1,86 @@
+{
+  "id": 807376681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.820122,43.49953,-87.820122,43.49953",
+    "geom:latitude":43.49953,
+    "geom:longitude":-87.820122,
+    "iso:country":"US",
+    "sg:address":"668 County Road D",
+    "sg:city":"Belgium",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 285 3773",
+    "sg:postcode":"53004",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medicines-patent",
+        "manufacturer",
+        "proprietary",
+        "chemicals-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85829065,
+        102191575,
+        404495095,
+        85633793,
+        101732531,
+        102081873,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U56WqirQDt651KMuIRR5V_43.499530_-87.820122@1303262804"
+    },
+    "wof:country":"US",
+    "wof:created":1462606880,
+    "wof:geomhash":"77b3e035a221e8648919de6658728f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081873,
+            "localadmin_id":404495095,
+            "locality_id":101732531,
+            "neighbourhood_id":85829065,
+            "region_id":85688517,
+            "venue_id":807376681
+        }
+    ],
+    "wof:id":807376681,
+    "wof:lastmodified":1462606880,
+    "wof:name":"Mc Conn Inc",
+    "wof:parent_id":85829065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicines-patent",
+        "manufacturer",
+        "proprietary",
+        "chemicals-wholesale"
+    ]
+},
+  "bbox": [
+    -87.820122,
+    43.49953,
+    -87.820122,
+    43.49953
+],
+  "geometry": {"coordinates":[-87.820122,43.49953],"type":"Point"}
+}

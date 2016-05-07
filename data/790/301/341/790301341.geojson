@@ -1,0 +1,71 @@
+{
+  "id": 790301341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.387389,44.919129,-91.387389,44.919129",
+    "geom:latitude":44.919129,
+    "geom:longitude":-91.387389,
+    "iso:country":"US",
+    "sg:address":"609 Chippewa St",
+    "sg:city":"Chippewa Falls",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 720 9529",
+    "sg:postcode":"54729",
+    "sg:province":"WI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732557,
+        102081787,
+        85837071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r6CHkaQnGJxSeJ82RSyfF_44.919129_-91.387389@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462594778,
+    "wof:geomhash":"37b18662f3d5c69355f474533246a5e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081787,
+            "locality_id":101732557,
+            "neighbourhood_id":85837071,
+            "region_id":85688517,
+            "venue_id":790301341
+        }
+    ],
+    "wof:id":790301341,
+    "wof:lastmodified":1462594778,
+    "wof:name":"Courtesy Cab Co",
+    "wof:parent_id":85837071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -91.387389,
+    44.919129,
+    -91.387389,
+    44.919129
+],
+  "geometry": {"coordinates":[-91.387389,44.919129],"type":"Point"}
+}

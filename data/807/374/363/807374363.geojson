@@ -1,0 +1,83 @@
+{
+  "id": 807374363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.992559,42.72862,-88.992559,42.72862",
+    "geom:latitude":42.72862,
+    "geom:longitude":-88.992559,
+    "iso:country":"US",
+    "sg:address":"2430 Fulton St",
+    "sg:city":"Janesville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/janesville/33859-cracker-barrel-old-country-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 752 7750",
+    "sg:postcode":"53546",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "southern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803103,
+        102191575,
+        404492347,
+        85633793,
+        101732837,
+        102081829,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i3mkEKm0wvv5rGZqWZWlJ_42.728512_-88.992466@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606847,
+    "wof:geomhash":"aa2341793a3d79e2c90208df2e9dee28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081829,
+            "localadmin_id":404492347,
+            "locality_id":101732837,
+            "neighbourhood_id":85803103,
+            "region_id":85688517,
+            "venue_id":807374363
+        }
+    ],
+    "wof:id":807374363,
+    "wof:lastmodified":1462606847,
+    "wof:name":"Cracker Barrel Old Country Store",
+    "wof:parent_id":85803103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "southern"
+    ]
+},
+  "bbox": [
+    -88.992559,
+    42.72862,
+    -88.992559,
+    42.72862
+],
+  "geometry": {"coordinates":[-88.992559,42.72862],"type":"Point"}
+}

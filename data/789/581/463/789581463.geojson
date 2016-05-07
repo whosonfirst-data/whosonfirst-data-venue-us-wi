@@ -1,0 +1,71 @@
+{
+  "id": 789581463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.37612,42.955522,-89.37612,42.955522",
+    "geom:latitude":42.955522,
+    "geom:longitude":-89.37612,
+    "iso:country":"US",
+    "sg:address":"1901 Co Rd Mm",
+    "sg:city":"Fitchburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 835 6518",
+    "sg:postcode":"53575",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85829451,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bMlCCbFcMRvfNmnSOSOTH_42.955522_-89.376120@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588914,
+    "wof:geomhash":"2efec0008377f133fdc79d58de661ca3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85829451,
+            "region_id":85688517,
+            "venue_id":789581463
+        }
+    ],
+    "wof:id":789581463,
+    "wof:lastmodified":1462588914,
+    "wof:name":"Dupy Service Ctr",
+    "wof:parent_id":85829451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.37612,
+    42.955522,
+    -89.37612,
+    42.955522
+],
+  "geometry": {"coordinates":[-89.37612,42.955522],"type":"Point"}
+}

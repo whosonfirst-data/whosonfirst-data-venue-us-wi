@@ -1,0 +1,75 @@
+{
+  "id": 806397191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.916085,43.038577,-87.916085,43.038577",
+    "geom:latitude":43.038577,
+    "geom:longitude":-87.916085,
+    "iso:country":"US",
+    "sg:address":"615 N 4th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 347 9068",
+    "sg:postcode":"53212",
+    "sg:province":"WI",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870965,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MlTvXa5E5BbGMmGT13goz_43.038577_-87.916085@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462597810,
+    "wof:geomhash":"e5d010ded1811c4f39652f0fd34bc536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870965,
+            "region_id":85688517,
+            "venue_id":806397191
+        }
+    ],
+    "wof:id":806397191,
+    "wof:lastmodified":1462597810,
+    "wof:name":"CPS Parking Garage",
+    "wof:parent_id":85870965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -87.916085,
+    43.038577,
+    -87.916085,
+    43.038577
+],
+  "geometry": {"coordinates":[-87.916085,43.038577],"type":"Point"}
+}

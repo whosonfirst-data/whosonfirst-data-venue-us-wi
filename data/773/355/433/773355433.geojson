@@ -1,0 +1,71 @@
+{
+  "id": 773355433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.666317,44.963743,-89.666317,44.963743",
+    "geom:latitude":44.963743,
+    "geom:longitude":-89.666317,
+    "iso:country":"US",
+    "sg:address":"2727 Plaza Dr",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 847 3430",
+    "sg:postcode":"54401",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18wXonS5OOpDQSlDHyNJJs_44.963743_-89.666317@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585087,
+    "wof:geomhash":"7334f44682940573c356ea9501948db5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":773355433
+        }
+    ],
+    "wof:id":773355433,
+    "wof:lastmodified":1462585087,
+    "wof:name":"Mark A Huftel MD",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.666317,
+    44.963743,
+    -89.666317,
+    44.963743
+],
+  "geometry": {"coordinates":[-89.66631700000001,44.963743],"type":"Point"}
+}

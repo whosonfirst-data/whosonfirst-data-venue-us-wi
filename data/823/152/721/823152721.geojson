@@ -1,0 +1,75 @@
+{
+  "id": 823152721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.91114,43.057866,-87.91114,43.057866",
+    "geom:latitude":43.057866,
+    "geom:longitude":-87.91114,
+    "iso:country":"US",
+    "sg:address":"2109 N 1st St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 349 1826",
+    "sg:postcode":"53212",
+    "sg:province":"WI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870919,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J9QkfnQX4IwThgN8Umebn_43.057866_-87.911140@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607700,
+    "wof:geomhash":"7a2b5d43c1308a4584aebd8617f00e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870919,
+            "region_id":85688517,
+            "venue_id":823152721
+        }
+    ],
+    "wof:id":823152721,
+    "wof:lastmodified":1462607700,
+    "wof:name":"Wisconsin Utility",
+    "wof:parent_id":85870919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.91114,
+    43.057866,
+    -87.91114,
+    43.057866
+],
+  "geometry": {"coordinates":[-87.91114,43.057866],"type":"Point"}
+}

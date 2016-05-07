@@ -1,0 +1,71 @@
+{
+  "id": 789646551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.288987,43.013888,-89.288987,43.013888",
+    "geom:latitude":43.013888,
+    "geom:longitude":-89.288987,
+    "iso:country":"US",
+    "sg:address":"5902 Main St",
+    "sg:city":"Mc Farland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 838 7474",
+    "sg:postcode":"53558",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XcpPrqBcT5CpX3a6Sinq1_43.013888_-89.288987@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462589420,
+    "wof:geomhash":"6b0d62dc90294b04a07e1807e6f209be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":789646551
+        }
+    ],
+    "wof:id":789646551,
+    "wof:lastmodified":1462589420,
+    "wof:name":"Gordon C Lofgren DDS",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -89.288987,
+    43.013888,
+    -89.288987,
+    43.013888
+],
+  "geometry": {"coordinates":[-89.28898700000001,43.013888],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 807123571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.324337,43.186279,-89.324337,43.186279",
+    "geom:latitude":43.186279,
+    "geom:longitude":-89.324337,
+    "iso:country":"US",
+    "sg:address":"6175 E Metra Dr",
+    "sg:city":"De Forest",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 212 6101",
+    "sg:postcode":"53532",
+    "sg:province":"WI",
+    "sg:tags":[
+        "truck",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85852311,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a9hrGRgmryPfVHt6O4LlU_43.186279_-89.324337@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462603982,
+    "wof:geomhash":"722864797c34ecf2acc794f4ff473c7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85852311,
+            "region_id":85688517,
+            "venue_id":807123571
+        }
+    ],
+    "wof:id":807123571,
+    "wof:lastmodified":1462603982,
+    "wof:name":"Every Little Detail",
+    "wof:parent_id":85852311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -89.324337,
+    43.186279,
+    -89.324337,
+    43.186279
+],
+  "geometry": {"coordinates":[-89.324337,43.186279],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 773507253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.620164,44.123785,-87.620164,44.123785",
+    "geom:latitude":44.123785,
+    "geom:longitude":-87.620164,
+    "iso:country":"US",
+    "sg:address":"5000 Memorial Dr",
+    "sg:city":"Two Rivers",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 794 5000",
+    "sg:postcode":"54241",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732791,
+        102081871,
+        85832123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7X27k1P4K638zq2lW1WXHj_44.123785_-87.620164@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462586254,
+    "wof:geomhash":"92c87c9958bb0607fa8d92d90467d3fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081871,
+            "locality_id":101732791,
+            "neighbourhood_id":85832123,
+            "region_id":85688517,
+            "venue_id":773507253
+        }
+    ],
+    "wof:id":773507253,
+    "wof:lastmodified":1462586254,
+    "wof:name":"Paul Mihalakakos MD",
+    "wof:parent_id":85832123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.620164,
+    44.123785,
+    -87.620164,
+    44.123785
+],
+  "geometry": {"coordinates":[-87.620164,44.123785],"type":"Point"}
+}

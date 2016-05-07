@@ -1,0 +1,81 @@
+{
+  "id": 807153911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.005981,43.111676,-88.005981,43.111676",
+    "geom:latitude":43.111676,
+    "geom:longitude":-88.005981,
+    "iso:country":"US",
+    "sg:address":"5186 N 76th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 462 3050",
+    "sg:postcode":"53218",
+    "sg:province":"WI",
+    "sg:tags":[
+        "car",
+        "used",
+        "sales",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870869,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79IzvouYx1pHB5ZgLuRZfe_43.111676_-88.005981@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604310,
+    "wof:geomhash":"bf7aa268d72631ba8827f5345cfc3e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870869,
+            "region_id":85688517,
+            "venue_id":807153911
+        }
+    ],
+    "wof:id":807153911,
+    "wof:lastmodified":1462604310,
+    "wof:name":"Weigmans Auto Sales",
+    "wof:parent_id":85870869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "sales",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.005981,
+    43.111676,
+    -88.005981,
+    43.111676
+],
+  "geometry": {"coordinates":[-88.00598100000001,43.111676],"type":"Point"}
+}

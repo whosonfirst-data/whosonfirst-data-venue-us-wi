@@ -1,0 +1,71 @@
+{
+  "id": 790552265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.453921,44.195474,-88.453921,44.195474",
+    "geom:latitude":44.195474,
+    "geom:longitude":-88.453921,
+    "iso:country":"US",
+    "sg:address":"222 Washington St",
+    "sg:city":"Menasha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 725 0227",
+    "sg:postcode":"54952",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732729,
+        102081801,
+        85807543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ESNlkuHKmyk1dIV85Pbx5_44.195474_-88.453921@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462596813,
+    "wof:geomhash":"e623b6d56d2c7b20a8d3932a081c68a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081801,
+            "locality_id":101732729,
+            "neighbourhood_id":85807543,
+            "region_id":85688517,
+            "venue_id":790552265
+        }
+    ],
+    "wof:id":790552265,
+    "wof:lastmodified":1462596813,
+    "wof:name":"Scott Behren Dr MD",
+    "wof:parent_id":85807543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.453921,
+    44.195474,
+    -88.453921,
+    44.195474
+],
+  "geometry": {"coordinates":[-88.45392099999999,44.195474],"type":"Point"}
+}

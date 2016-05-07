@@ -1,0 +1,92 @@
+{
+  "id": 823191445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.079128,44.796908,-90.079128,44.796908",
+    "geom:latitude":44.796908,
+    "geom:longitude":-90.079128,
+    "iso:country":"US",
+    "sg:address":"515 S Weber Ave",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 687 3335",
+    "sg:postcode":"54484",
+    "sg:province":"WI",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865437,
+        102191575,
+        404495429,
+        85633793,
+        101732485,
+        102081881,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_088FO0CCvPof9LPMbeGIOO_44.796908_-90.079128@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608208,
+    "wof:geomhash":"ee019c63a1b23cdc9d53a372ae0a85e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081881,
+            "localadmin_id":404495429,
+            "locality_id":101732485,
+            "neighbourhood_id":85865437,
+            "region_id":85688517,
+            "venue_id":823191445
+        }
+    ],
+    "wof:id":823191445,
+    "wof:lastmodified":1462608208,
+    "wof:name":"Subway",
+    "wof:parent_id":85865437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -90.079128,
+    44.796908,
+    -90.079128,
+    44.796908
+],
+  "geometry": {"coordinates":[-90.079128,44.796908],"type":"Point"}
+}

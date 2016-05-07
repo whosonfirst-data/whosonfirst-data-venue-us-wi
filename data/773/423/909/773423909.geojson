@@ -1,0 +1,73 @@
+{
+  "id": 773423909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.46829,44.802086,-91.46829,44.802086",
+    "geom:latitude":44.802086,
+    "geom:longitude":-91.46829,
+    "iso:country":"US",
+    "sg:address":"711 Fairfax St",
+    "sg:city":"Altoona",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 835 3887",
+    "sg:postcode":"54720",
+    "sg:province":"WI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u2YpElCWIyymYVhX5cR45_44.802086_-91.468290@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585608,
+    "wof:geomhash":"33bb4d3fd548ec1bc096ea494a864286",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":773423909
+        }
+    ],
+    "wof:id":773423909,
+    "wof:lastmodified":1462585608,
+    "wof:name":"Mike's Car Wash",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -91.46829,
+    44.802086,
+    -91.46829,
+    44.802086
+],
+  "geometry": {"coordinates":[-91.46829,44.802086],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 807313565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.910753,43.021138,-87.910753,43.021138",
+    "geom:latitude":43.021138,
+    "geom:longitude":-87.910753,
+    "iso:country":"US",
+    "sg:address":"136 E Mineral St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 384 6221",
+    "sg:postcode":"53204",
+    "sg:province":"WI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870925,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517,
+        85870951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sWGiBs6Ap6i8wGwhqtIKw_43.021198_-87.910292@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462605996,
+    "wof:geomhash":"1d534d362ffcaadfaf706a9b323d0091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870925,
+            "region_id":85688517,
+            "venue_id":807313565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870951,
+            "region_id":85688517,
+            "venue_id":807313565
+        }
+    ],
+    "wof:id":807313565,
+    "wof:lastmodified":1462605996,
+    "wof:name":"Quality Truck Service Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -87.910753,
+    43.021138,
+    -87.910753,
+    43.021138
+],
+  "geometry": {"coordinates":[-87.910753,43.021138],"type":"Point"}
+}

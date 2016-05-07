@@ -1,0 +1,75 @@
+{
+  "id": 806982391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.080014,43.899,-91.080014,43.899",
+    "geom:latitude":43.899,
+    "geom:longitude":-91.080014,
+    "iso:country":"US",
+    "sg:address":"204 N Mill St",
+    "sg:city":"West Salem",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 786 9947",
+    "sg:postcode":"54669",
+    "sg:province":"WI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732663,
+        102081301,
+        85825891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2czsCpFT6PR6QpsVbnymoD_43.899000_-91.080014@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602713,
+    "wof:geomhash":"3a7c12be46f2393a39d5dfea22667c70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732663,
+            "neighbourhood_id":85825891,
+            "region_id":85688517,
+            "venue_id":806982391
+        }
+    ],
+    "wof:id":806982391,
+    "wof:lastmodified":1462602713,
+    "wof:name":"Levendoski Trucking Inc",
+    "wof:parent_id":85825891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.080014,
+    43.899,
+    -91.080014,
+    43.899
+],
+  "geometry": {"coordinates":[-91.08001400000001,43.899],"type":"Point"}
+}

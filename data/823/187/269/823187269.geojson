@@ -1,0 +1,80 @@
+{
+  "id": 823187269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.48412,43.055232,-89.48412,43.055232",
+    "geom:latitude":43.055232,
+    "geom:longitude":-89.48412,
+    "iso:country":"US",
+    "sg:address":"6001 Research Park Blvd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 263 6100",
+    "sg:postcode":"53719",
+    "sg:province":"WI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878893,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ed5YNQIdEkK01Ab7jj2Uk_43.055232_-89.484120@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608159,
+    "wof:geomhash":"54d99ce748ff2a0193e78998b1817b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878893,
+            "region_id":85688517,
+            "venue_id":823187269
+        }
+    ],
+    "wof:id":823187269,
+    "wof:lastmodified":1462608159,
+    "wof:name":"Psychiarty Clinic",
+    "wof:parent_id":85878893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.48412,
+    43.055232,
+    -89.48412,
+    43.055232
+],
+  "geometry": {"coordinates":[-89.48412,43.055232],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 807369175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.465488,44.794839,-91.465488,44.794839",
+    "geom:latitude":44.794839,
+    "geom:longitude":-91.465488,
+    "iso:country":"US",
+    "sg:address":"2620 E Clairemont Ave",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/292999-milwaukee-burger-company/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 834 6503",
+    "sg:postcode":"54701",
+    "sg:province":"WI",
+    "sg:tags":[
+        "burger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YpwDsYlITcpHxJ0ZvJzby_44.794839_-91.465488@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606779,
+    "wof:geomhash":"758d93aaa2582a717cae74e2591adc68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807369175
+        }
+    ],
+    "wof:id":807369175,
+    "wof:lastmodified":1462606779,
+    "wof:name":"Milwaukee Burger Company",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger"
+    ]
+},
+  "bbox": [
+    -91.465488,
+    44.794839,
+    -91.465488,
+    44.794839
+],
+  "geometry": {"coordinates":[-91.46548799999999,44.794839],"type":"Point"}
+}

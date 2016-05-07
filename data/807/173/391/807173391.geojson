@@ -1,0 +1,77 @@
+{
+  "id": 807173391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.944598,43.048558,-87.944598,43.048558",
+    "geom:latitude":43.048558,
+    "geom:longitude":-87.944598,
+    "iso:country":"US",
+    "sg:address":"2481 W Vliet St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 431 0152",
+    "sg:postcode":"53205",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420550017,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_123FDjRWGAFhrge9zqtHuW_43.048558_-87.944598@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604520,
+    "wof:geomhash":"9671c5e9d01f0d6c84453a64f236bf5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":420550017,
+            "region_id":85688517,
+            "venue_id":807173391
+        }
+    ],
+    "wof:id":807173391,
+    "wof:lastmodified":1462604520,
+    "wof:name":"Vliet Street Auto",
+    "wof:parent_id":420550017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.944598,
+    43.048558,
+    -87.944598,
+    43.048558
+],
+  "geometry": {"coordinates":[-87.944598,43.048558],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 823186695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.402627,43.03174,-89.402627,43.03174",
+    "geom:latitude":43.03174,
+    "geom:longitude":-89.402627,
+    "iso:country":"US",
+    "sg:address":"2914 Latham Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Farmers Market",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 274 5058",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "restaurant",
+        "freezer",
+        "equipment",
+        "dispensing",
+        "popcorn",
+        "concession",
+        "concessionaire"
+    ],
+    "sg:website":"http://www.badgerpopcorn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56IJYl9uiOSlVc905W2An1_43.031740_-89.402627@1303262812"
+    },
+    "wof:country":"US",
+    "wof:created":1462608152,
+    "wof:geomhash":"890cbe931a8bbad8116774f93991e4f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":823186695
+        }
+    ],
+    "wof:id":823186695,
+    "wof:lastmodified":1462608152,
+    "wof:name":"Badger Popcorn & Concession Supply",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restaurant",
+        "freezer",
+        "equipment",
+        "dispensing",
+        "popcorn",
+        "concession",
+        "concessionaire"
+    ]
+},
+  "bbox": [
+    -89.402627,
+    43.03174,
+    -89.402627,
+    43.03174
+],
+  "geometry": {"coordinates":[-89.402627,43.03174],"type":"Point"}
+}

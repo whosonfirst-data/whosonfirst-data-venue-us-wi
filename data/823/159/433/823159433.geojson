@@ -1,0 +1,86 @@
+{
+  "id": 823159433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.984558,43.096501,-87.984558,43.096501",
+    "geom:latitude":43.096501,
+    "geom:longitude":-87.984558,
+    "iso:country":"US",
+    "sg:address":"5740 W Fond Du Lac Ave",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 393 0666",
+    "sg:postcode":"53216",
+    "sg:province":"WI",
+    "sg:tags":[
+        "cleaner",
+        "supply",
+        "cleaning-industrial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870959,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vDzIKjFoZ3PwTQHoLlTGD_43.096501_-87.984558@1303262809"
+    },
+    "wof:country":"US",
+    "wof:created":1462607792,
+    "wof:geomhash":"3b932ee97e88c286f418351d7dda3586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870959,
+            "region_id":85688517,
+            "venue_id":823159433
+        }
+    ],
+    "wof:id":823159433,
+    "wof:lastmodified":1462607792,
+    "wof:name":"Cypress Cleaners",
+    "wof:parent_id":85870959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "supply",
+        "cleaning-industrial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.984558,
+    43.096501,
+    -87.984558,
+    43.096501
+],
+  "geometry": {"coordinates":[-87.98455800000001,43.096501],"type":"Point"}
+}

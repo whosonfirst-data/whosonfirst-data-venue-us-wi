@@ -1,0 +1,87 @@
+{
+  "id": 807388923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.922302,43.243,-87.922302,43.243",
+    "geom:latitude":43.243,
+    "geom:longitude":-87.922302,
+    "iso:country":"US",
+    "sg:address":"1115 W Liebau Rd Ste 100",
+    "sg:city":"Mequon",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 243 9040",
+    "sg:postcode":"53092",
+    "sg:province":"WI",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85829269,
+        102191575,
+        404491943,
+        85633793,
+        101732545,
+        102081873,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q7Md3qJcpWDQBX6174f6e_43.243000_-87.922302@1303262805"
+    },
+    "wof:country":"US",
+    "wof:created":1462607050,
+    "wof:geomhash":"93904aeccb82cd7995b9ef229602ebdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081873,
+            "localadmin_id":404491943,
+            "locality_id":101732545,
+            "neighbourhood_id":85829269,
+            "region_id":85688517,
+            "venue_id":807388923
+        }
+    ],
+    "wof:id":807388923,
+    "wof:lastmodified":1462607050,
+    "wof:name":"Ozaukee Day Care & Learning Centers",
+    "wof:parent_id":85829269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -87.922302,
+    43.243,
+    -87.922302,
+    43.243
+],
+  "geometry": {"coordinates":[-87.922302,43.243],"type":"Point"}
+}

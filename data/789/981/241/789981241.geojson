@@ -1,0 +1,77 @@
+{
+  "id": 789981241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.370203,43.111255,-89.370203,43.111255",
+    "geom:latitude":43.111255,
+    "geom:longitude":-89.370203,
+    "iso:country":"US",
+    "sg:address":"349 Lakewood Blvd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 246 8088",
+    "sg:postcode":"53704",
+    "sg:province":"WI",
+    "sg:tags":[
+        "scheduled",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878841,
+        102191575,
+        404491669,
+        85633793,
+        101732721,
+        102081795,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76NqukA924Z1LVMgtajWnT_43.111255_-89.370203@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462592175,
+    "wof:geomhash":"5455098372bea4e71834a082c8de36ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878841,
+            "region_id":85688517,
+            "venue_id":789981241
+        }
+    ],
+    "wof:id":789981241,
+    "wof:lastmodified":1462592175,
+    "wof:name":"Kitty Hawk Aviation",
+    "wof:parent_id":85878841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scheduled",
+        "air"
+    ]
+},
+  "bbox": [
+    -89.370203,
+    43.111255,
+    -89.370203,
+    43.111255
+],
+  "geometry": {"coordinates":[-89.370203,43.111255],"type":"Point"}
+}

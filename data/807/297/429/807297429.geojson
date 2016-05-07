@@ -1,0 +1,71 @@
+{
+  "id": 807297429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.61951,44.957517,-89.61951,44.957517",
+    "geom:latitude":44.957517,
+    "geom:longitude":-89.61951,
+    "iso:country":"US",
+    "sg:address":"745 Jackson St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 842 7477",
+    "sg:postcode":"54403",
+    "sg:province":"WI",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09jhWh5tjW7ooQtVuBcBrc_44.957517_-89.619510@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605825,
+    "wof:geomhash":"da481b5b2d2f627a32163cd21c91f37f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":807297429
+        }
+    ],
+    "wof:id":807297429,
+    "wof:lastmodified":1462605825,
+    "wof:name":"Modern Sewer",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -89.61951,
+    44.957517,
+    -89.61951,
+    44.957517
+],
+  "geometry": {"coordinates":[-89.61951000000001,44.957517],"type":"Point"}
+}

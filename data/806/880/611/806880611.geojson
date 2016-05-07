@@ -1,0 +1,71 @@
+{
+  "id": 806880611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.350679,43.242879,-89.350679,43.242879",
+    "geom:latitude":43.242879,
+    "geom:longitude":-89.350679,
+    "iso:country":"US",
+    "sg:address":"413 Hawthorn Ct",
+    "sg:city":"De Forest",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 837 2001",
+    "sg:postcode":"53532",
+    "sg:province":"WI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85852311,
+        102081795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DPtDk3G1tl2nEPZx92QI4_43.242879_-89.350679@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601861,
+    "wof:geomhash":"88f33a5d9f78cb3a411513e811ea119d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "neighbourhood_id":85852311,
+            "region_id":85688517,
+            "venue_id":806880611
+        }
+    ],
+    "wof:id":806880611,
+    "wof:lastmodified":1462601861,
+    "wof:name":"Browns Mobil Service Center",
+    "wof:parent_id":85852311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -89.350679,
+    43.242879,
+    -89.350679,
+    43.242879
+],
+  "geometry": {"coordinates":[-89.350679,43.242879],"type":"Point"}
+}

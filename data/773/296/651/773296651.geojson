@@ -1,0 +1,71 @@
+{
+  "id": 773296651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.580861,42.549156,-88.580861,42.549156",
+    "geom:latitude":42.549156,
+    "geom:longitude":-88.580861,
+    "iso:country":"US",
+    "sg:address":"450 Mill St",
+    "sg:city":"Fontana",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 262 275 8080",
+    "sg:postcode":"53125",
+    "sg:province":"WI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101733549,
+        102081883,
+        85814169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SXmUK5PVal3QUHoNOnMF4_42.549156_-88.580861@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462584649,
+    "wof:geomhash":"75a490518708707e3ff7dc39b31481d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081883,
+            "locality_id":101733549,
+            "neighbourhood_id":85814169,
+            "region_id":85688517,
+            "venue_id":773296651
+        }
+    ],
+    "wof:id":773296651,
+    "wof:lastmodified":1462584649,
+    "wof:name":"Fontana Family Dentistry",
+    "wof:parent_id":85814169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.580861,
+    42.549156,
+    -88.580861,
+    42.549156
+],
+  "geometry": {"coordinates":[-88.580861,42.549156],"type":"Point"}
+}

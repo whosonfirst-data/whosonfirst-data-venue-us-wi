@@ -1,0 +1,73 @@
+{
+  "id": 807269533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.227188,43.873018,-91.227188,43.873018",
+    "geom:latitude":43.873018,
+    "geom:longitude":-91.227188,
+    "iso:country":"US",
+    "sg:address":"910 Oak Forest Dr",
+    "sg:city":"Onalaska",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 789 4600",
+    "sg:postcode":"54650",
+    "sg:province":"WI",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732651,
+        102081301,
+        85833661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NiByCR2mPHO7goK4VA5IS_43.873018_-91.227188@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605540,
+    "wof:geomhash":"fc29c3e9f6fa23e88547961388e51ab9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732651,
+            "neighbourhood_id":85833661,
+            "region_id":85688517,
+            "venue_id":807269533
+        }
+    ],
+    "wof:id":807269533,
+    "wof:lastmodified":1462605540,
+    "wof:name":"National Guard",
+    "wof:parent_id":85833661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -91.227188,
+    43.873018,
+    -91.227188,
+    43.873018
+],
+  "geometry": {"coordinates":[-91.227188,43.873018],"type":"Point"}
+}

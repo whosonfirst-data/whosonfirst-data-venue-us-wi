@@ -1,0 +1,74 @@
+{
+  "id": 807369573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.476078,44.825234,-91.476078,44.825234",
+    "geom:latitude":44.825234,
+    "geom:longitude":-91.476078,
+    "iso:country":"US",
+    "sg:address":"911 N Hastings Way",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/eau-claire/23711-pizza-del-re/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 834 0703",
+    "sg:postcode":"54703",
+    "sg:province":"WI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732375,
+        102081761,
+        85868291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QoPdChcyBTiFLcbkEhFtf_44.825234_-91.476078@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462606784,
+    "wof:geomhash":"a23eb3c8ddce67256a679e1cb2562458",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081761,
+            "locality_id":101732375,
+            "neighbourhood_id":85868291,
+            "region_id":85688517,
+            "venue_id":807369573
+        }
+    ],
+    "wof:id":807369573,
+    "wof:lastmodified":1462606784,
+    "wof:name":"Pizza Del Re",
+    "wof:parent_id":85868291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.476078,
+    44.825234,
+    -91.476078,
+    44.825234
+],
+  "geometry": {"coordinates":[-91.476078,44.825234],"type":"Point"}
+}

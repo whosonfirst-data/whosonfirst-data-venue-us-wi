@@ -1,0 +1,71 @@
+{
+  "id": 807242815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.146426,43.901171,-91.146426,43.901171",
+    "geom:latitude":43.901171,
+    "geom:longitude":-91.146426,
+    "iso:country":"US",
+    "sg:address":"5290 Moos Rd",
+    "sg:city":"West Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 786 0777",
+    "sg:postcode":"54669",
+    "sg:province":"WI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732663,
+        102081301,
+        85825891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QFpCXfV2BYHP01EoDHZeJ_43.901171_-91.146426@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605246,
+    "wof:geomhash":"18eea8de3bb2a8a4a341adf7209985b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081301,
+            "locality_id":101732663,
+            "neighbourhood_id":85825891,
+            "region_id":85688517,
+            "venue_id":807242815
+        }
+    ],
+    "wof:id":807242815,
+    "wof:lastmodified":1462605246,
+    "wof:name":"Bob Nuttlemans Garage",
+    "wof:parent_id":85825891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -91.146426,
+    43.901171,
+    -91.146426,
+    43.901171
+],
+  "geometry": {"coordinates":[-91.14642600000001,43.901171],"type":"Point"}
+}

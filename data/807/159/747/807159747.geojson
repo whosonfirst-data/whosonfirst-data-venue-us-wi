@@ -1,0 +1,71 @@
+{
+  "id": 807159747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.618644,44.997438,-89.618644,44.997438",
+    "geom:latitude":44.997438,
+    "geom:longitude":-89.618644,
+    "iso:country":"US",
+    "sg:address":"3924 N 6th St",
+    "sg:city":"Wausau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 675 1053",
+    "sg:postcode":"54403",
+    "sg:province":"WI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1afsS84U5zjuxMJdA7u5K0_44.997438_-89.618644@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462604377,
+    "wof:geomhash":"dff105550cab7824efba730af9f8c860",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":807159747
+        }
+    ],
+    "wof:id":807159747,
+    "wof:lastmodified":1462604377,
+    "wof:name":"Auto Fixer",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -89.618644,
+    44.997438,
+    -89.618644,
+    44.997438
+],
+  "geometry": {"coordinates":[-89.618644,44.997438],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 807373171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.929169,43.009193,-87.929169,43.009193",
+    "geom:latitude":43.009193,
+    "geom:longitude":-87.929169,
+    "iso:country":"US",
+    "sg:address":"1940 S 14th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wi/milwaukee/204832-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 383 6449",
+    "sg:postcode":"53204",
+    "sg:province":"WI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870893,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02w6xEo8zgZQnxUtKKNMYT_43.009054_-87.929515@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462606831,
+    "wof:geomhash":"c2d04f2427c8d92178e2c88c3644894f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870893,
+            "region_id":85688517,
+            "venue_id":807373171
+        }
+    ],
+    "wof:id":807373171,
+    "wof:lastmodified":1462606831,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85870893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -87.929169,
+    43.009193,
+    -87.929169,
+    43.009193
+],
+  "geometry": {"coordinates":[-87.929169,43.009193],"type":"Point"}
+}

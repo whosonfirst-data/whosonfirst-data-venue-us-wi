@@ -1,0 +1,76 @@
+{
+  "id": 807251777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.757817,43.71756,-87.757817,43.71756",
+    "geom:latitude":43.71756,
+    "geom:longitude":-87.757817,
+    "iso:country":"US",
+    "sg:address":"3626 S Taylor Dr",
+    "sg:city":"Sheboygan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 920 459 5653",
+    "sg:postcode":"53081",
+    "sg:province":"WI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        85854963,
+        102081869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bVUdIUVcnFFI8MX4cHqYg_43.717560_-87.757817@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462605341,
+    "wof:geomhash":"41a585f3bfb53e89fc1ed130af058ee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081869,
+            "neighbourhood_id":85854963,
+            "region_id":85688517,
+            "venue_id":807251777
+        }
+    ],
+    "wof:id":807251777,
+    "wof:lastmodified":1462605341,
+    "wof:name":"Q Mart",
+    "wof:parent_id":85854963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -87.757817,
+    43.71756,
+    -87.757817,
+    43.71756
+],
+  "geometry": {"coordinates":[-87.757817,43.71756],"type":"Point"}
+}

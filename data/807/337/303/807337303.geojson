@@ -1,0 +1,84 @@
+{
+  "id": 807337303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.916949,43.068975,-87.916949,43.068975",
+    "geom:latitude":43.068975,
+    "geom:longitude":-87.916949,
+    "iso:country":"US",
+    "sg:address":"2770 N 5th St",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 286 8882",
+    "sg:postcode":"53212",
+    "sg:province":"WI",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon",
+        "specialty",
+        "government"
+    ],
+    "sg:website":"http://www.ci.mil.wi.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870991,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vBAdL8bYG0SOZGSYjOeKC_43.068903_-87.916918@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462606312,
+    "wof:geomhash":"a0bb51414879274d7c722670e535c11a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870991,
+            "region_id":85688517,
+            "venue_id":807337303
+        }
+    ],
+    "wof:id":807337303,
+    "wof:lastmodified":1462606312,
+    "wof:name":"Isaac Coggs Community Hlth Ctr",
+    "wof:parent_id":85870991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon",
+        "specialty",
+        "government"
+    ]
+},
+  "bbox": [
+    -87.916949,
+    43.068975,
+    -87.916949,
+    43.068975
+],
+  "geometry": {"coordinates":[-87.916949,43.068975],"type":"Point"}
+}

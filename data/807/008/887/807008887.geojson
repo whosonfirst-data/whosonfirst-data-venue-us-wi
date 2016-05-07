@@ -1,0 +1,80 @@
+{
+  "id": 807008887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.066252,42.525431,-89.066252,42.525431",
+    "geom:latitude":42.525431,
+    "geom:longitude":-89.066252,
+    "iso:country":"US",
+    "sg:address":"2200 Burton St",
+    "sg:city":"Beloit",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 363 9246",
+    "sg:postcode":"53511",
+    "sg:province":"WI",
+    "sg:tags":[
+        "building",
+        "residential",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732817,
+        102081829,
+        85810961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TzCN0wG4mrSVWEuRCclyk_42.525431_-89.066252@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462602934,
+    "wof:geomhash":"7dd6994b766b25703f5d1616976ebdc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081829,
+            "locality_id":101732817,
+            "neighbourhood_id":85810961,
+            "region_id":85688517,
+            "venue_id":807008887
+        }
+    ],
+    "wof:id":807008887,
+    "wof:lastmodified":1462602934,
+    "wof:name":"Hillcrest Senior Apartments",
+    "wof:parent_id":85810961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "residential",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.066252,
+    42.525431,
+    -89.066252,
+    42.525431
+],
+  "geometry": {"coordinates":[-89.06625200000001,42.525431],"type":"Point"}
+}

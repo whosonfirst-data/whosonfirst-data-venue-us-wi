@@ -1,0 +1,71 @@
+{
+  "id": 773830185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.406443,43.03145,-89.406443,43.03145",
+    "geom:latitude":43.03145,
+    "geom:longitude":-89.406443,
+    "iso:country":"US",
+    "sg:address":"1516 Greenway Cross",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 608 271 1991",
+    "sg:postcode":"53713",
+    "sg:province":"WI",
+    "sg:tags":[
+        "fast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732721,
+        102081795,
+        85878883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0b9fAzFmpu8GbMHSHHMjcp_43.031450_-89.406443@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462588722,
+    "wof:geomhash":"4d1be0b766bce36d0017b1809d72bcd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081795,
+            "locality_id":101732721,
+            "neighbourhood_id":85878883,
+            "region_id":85688517,
+            "venue_id":773830185
+        }
+    ],
+    "wof:id":773830185,
+    "wof:lastmodified":1462588722,
+    "wof:name":"KFC",
+    "wof:parent_id":85878883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fast"
+    ]
+},
+  "bbox": [
+    -89.406443,
+    43.03145,
+    -89.406443,
+    43.03145
+],
+  "geometry": {"coordinates":[-89.406443,43.03145],"type":"Point"}
+}

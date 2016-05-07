@@ -1,0 +1,71 @@
+{
+  "id": 806832869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.065378,44.977203,-90.065378,44.977203",
+    "geom:latitude":44.977203,
+    "geom:longitude":-90.065378,
+    "iso:country":"US",
+    "sg:address":"5446 Pioneer Rd",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 715 257 1988",
+    "sg:postcode":"54411",
+    "sg:province":"WI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688517,
+        85633793,
+        101732523,
+        102081881,
+        85868295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BxqRPuyvxQsAzIdS5XMhk_44.977203_-90.065378@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462601447,
+    "wof:geomhash":"12b87fc8ad3a731f192f4885e8add158",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081881,
+            "locality_id":101732523,
+            "neighbourhood_id":85868295,
+            "region_id":85688517,
+            "venue_id":806832869
+        }
+    ],
+    "wof:id":806832869,
+    "wof:lastmodified":1462601447,
+    "wof:name":"Country Woodworks",
+    "wof:parent_id":85868295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -90.065378,
+    44.977203,
+    -90.065378,
+    44.977203
+],
+  "geometry": {"coordinates":[-90.065378,44.977203],"type":"Point"}
+}

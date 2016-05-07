@@ -1,0 +1,86 @@
+{
+  "id": 773354139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.911515,43.164054,-87.911515,43.164054",
+    "geom:latitude":43.164054,
+    "geom:longitude":-87.911515,
+    "iso:country":"US",
+    "sg:address":"8000 N Port Washington Rd",
+    "sg:city":"Milwaukee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 414 351 6560",
+    "sg:postcode":"53217",
+    "sg:province":"WI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870821,
+        102191575,
+        404494165,
+        85633793,
+        101733065,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_741INUP1pZ5dxgl5xnYrcK_43.164054_-87.911515@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1462585079,
+    "wof:geomhash":"da61133d648bf3339f61d1257f13459f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494165,
+            "locality_id":101733065,
+            "neighbourhood_id":85870821,
+            "region_id":85688517,
+            "venue_id":773354139
+        }
+    ],
+    "wof:id":773354139,
+    "wof:lastmodified":1462585079,
+    "wof:name":"Northpoint Service Center",
+    "wof:parent_id":85870821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -87.911515,
+    43.164054,
+    -87.911515,
+    43.164054
+],
+  "geometry": {"coordinates":[-87.91151499999999,43.164054],"type":"Point"}
+}
