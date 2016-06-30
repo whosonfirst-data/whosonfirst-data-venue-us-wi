@@ -2,13 +2,14 @@
   "id": 404042179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.559424,44.032324,-88.559424,44.032324",
     "geom:latitude":44.032324,
     "geom:longitude":-88.559424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 Summit Ave",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404042179,
-    "wof:lastmodified":1449040011,
+    "wof:lastmodified":1467089911,
     "wof:name":"Reynolds Wm J Voc Assmnt Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-88.559424,44.032324,-88.559424,44.032324],
-  "geometry": {"coordinates":[-88.559424,44.032324],"type":"Point"}
+  "bbox": [
+    -88.559424,
+    44.032324,
+    -88.559424,
+    44.032324
+],
+  "geometry": {"coordinates":[-88.55942400000001,44.032324],"type":"Point"}
 }

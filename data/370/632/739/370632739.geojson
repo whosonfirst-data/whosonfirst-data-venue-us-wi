@@ -2,13 +2,14 @@
   "id": 370632739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.375054,44.966582,-92.375054,44.966582",
     "geom:latitude":44.966582,
     "geom:longitude":-92.375054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 10th Ave",
     "sg:city":"Baldwin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370632739,
-    "wof:lastmodified":1449031233,
+    "wof:lastmodified":1467089904,
     "wof:name":"Smestad Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-92.375054,44.966582,-92.375054,44.966582],
-  "geometry": {"coordinates":[-92.375054,44.966582],"type":"Point"}
+  "bbox": [
+    -92.375054,
+    44.966582,
+    -92.375054,
+    44.966582
+],
+  "geometry": {"coordinates":[-92.37505400000001,44.966582],"type":"Point"}
 }

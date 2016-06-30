@@ -2,13 +2,14 @@
   "id": 387338799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.445898,44.267941,-88.445898,44.267941",
     "geom:latitude":44.267941,
     "geom:longitude":-88.445898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N Lynndale Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387338799,
-    "wof:lastmodified":1449057413,
+    "wof:lastmodified":1467089925,
     "wof:name":"Executive Office Suites",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parks"
     ]
 },
-  "bbox": [-88.445898,44.267941,-88.445898,44.267941],
+  "bbox": [
+    -88.445898,
+    44.267941,
+    -88.445898,
+    44.267941
+],
   "geometry": {"coordinates":[-88.445898,44.267941],"type":"Point"}
 }

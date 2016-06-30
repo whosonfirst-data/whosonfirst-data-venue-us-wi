@@ -2,13 +2,14 @@
   "id": 370371685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.799479,43.881643,-90.799479,43.881643",
     "geom:latitude":43.881643,
     "geom:longitude":-90.799479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8921 Jancing Ave",
     "sg:city":"Sparta",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370371685,
-    "wof:lastmodified":1449031735,
+    "wof:lastmodified":1467089905,
     "wof:name":"Waege Electric Motor Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "motor"
     ]
 },
-  "bbox": [-90.799479,43.881643,-90.799479,43.881643],
-  "geometry": {"coordinates":[-90.799479,43.881643],"type":"Point"}
+  "bbox": [
+    -90.799479,
+    43.881643,
+    -90.799479,
+    43.881643
+],
+  "geometry": {"coordinates":[-90.79947900000001,43.881643],"type":"Point"}
 }

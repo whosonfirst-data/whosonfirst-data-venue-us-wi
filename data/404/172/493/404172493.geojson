@@ -2,13 +2,14 @@
   "id": 404172493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.540972,44.136405,-88.540972,44.136405",
     "geom:latitude":44.136405,
     "geom:longitude":-88.540972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2861 Kellett Rd",
     "sg:city":"Neenah",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404172493,
-    "wof:lastmodified":1449039519,
+    "wof:lastmodified":1467089910,
     "wof:name":"1st Choice Cleaning Servi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-88.540972,44.136405,-88.540972,44.136405],
+  "bbox": [
+    -88.540972,
+    44.136405,
+    -88.540972,
+    44.136405
+],
   "geometry": {"coordinates":[-88.540972,44.136405],"type":"Point"}
 }

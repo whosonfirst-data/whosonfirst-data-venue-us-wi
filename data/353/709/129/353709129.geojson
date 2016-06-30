@@ -2,13 +2,14 @@
   "id": 353709129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.066191,42.937884,-88.066191,42.937884",
     "geom:latitude":42.937884,
     "geom:longitude":-88.066191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5948 S Kurtz Rd",
     "sg:city":"Hales Corners",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353709129,
-    "wof:lastmodified":1449018765,
+    "wof:lastmodified":1467089887,
     "wof:name":"State Appraisals LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-88.066191,42.937884,-88.066191,42.937884],
+  "bbox": [
+    -88.066191,
+    42.937884,
+    -88.066191,
+    42.937884
+],
   "geometry": {"coordinates":[-88.066191,42.937884],"type":"Point"}
 }

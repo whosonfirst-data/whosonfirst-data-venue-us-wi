@@ -2,13 +2,14 @@
   "id": 370876375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.746589,43.764675,-87.746589,43.764675",
     "geom:latitude":43.764675,
     "geom:longitude":-87.746589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3151 Saemann Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370876375,
-    "wof:lastmodified":1449029776,
+    "wof:lastmodified":1467089899,
     "wof:name":"Lakeshore Mental Health Inc",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "counselor"
     ]
 },
-  "bbox": [-87.746589,43.764675,-87.746589,43.764675],
+  "bbox": [
+    -87.746589,
+    43.764675,
+    -87.746589,
+    43.764675
+],
   "geometry": {"coordinates":[-87.746589,43.764675],"type":"Point"}
 }

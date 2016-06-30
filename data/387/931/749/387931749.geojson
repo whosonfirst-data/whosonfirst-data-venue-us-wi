@@ -2,13 +2,14 @@
   "id": 387931749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.317583,43.797383,-89.317583,43.797383",
     "geom:latitude":43.797383,
     "geom:longitude":-89.317583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"263 Church St",
     "sg:city":"Montello",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387931749,
-    "wof:lastmodified":1449059576,
+    "wof:lastmodified":1467089932,
     "wof:name":"American Wood Working Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [-89.317583,43.797383,-89.317583,43.797383],
+  "bbox": [
+    -89.317583,
+    43.797383,
+    -89.317583,
+    43.797383
+],
   "geometry": {"coordinates":[-89.317583,43.797383],"type":"Point"}
 }

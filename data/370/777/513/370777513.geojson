@@ -2,13 +2,14 @@
   "id": 370777513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.971426,44.486573,-87.971426,44.486573",
     "geom:latitude":44.486573,
     "geom:longitude":-87.971426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2138 Main St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370777513,
-    "wof:lastmodified":1449030862,
+    "wof:lastmodified":1467089903,
     "wof:name":"Carefree Car Wash",
     "wof:parent_id":85877953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-87.971426,44.486573,-87.971426,44.486573],
-  "geometry": {"coordinates":[-87.971426,44.486573],"type":"Point"}
+  "bbox": [
+    -87.971426,
+    44.486573,
+    -87.971426,
+    44.486573
+],
+  "geometry": {"coordinates":[-87.97142599999999,44.486573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387701041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.046224,44.445274,-88.046224,44.445274",
     "geom:latitude":44.445274,
     "geom:longitude":-88.046224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"252 Scout Way",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387701041,
-    "wof:lastmodified":1449059116,
+    "wof:lastmodified":1467089930,
     "wof:name":"L&T Investments LLC",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.046224,44.445274,-88.046224,44.445274],
+  "bbox": [
+    -88.046224,
+    44.445274,
+    -88.046224,
+    44.445274
+],
   "geometry": {"coordinates":[-88.046224,44.445274],"type":"Point"}
 }

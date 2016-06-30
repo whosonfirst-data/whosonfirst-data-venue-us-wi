@@ -2,13 +2,14 @@
   "id": 371079303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.077771,44.80162,-90.077771,44.80162",
     "geom:latitude":44.80162,
     "geom:longitude":-90.077771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 N 2nd Ave",
     "sg:city":"Stratford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371079303,
-    "wof:lastmodified":1449049941,
+    "wof:lastmodified":1467089914,
     "wof:name":"Klemme Sales Inc",
     "wof:parent_id":85865437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-90.077771,44.80162,-90.077771,44.80162],
+  "bbox": [
+    -90.077771,
+    44.80162,
+    -90.077771,
+    44.80162
+],
   "geometry": {"coordinates":[-90.077771,44.80162],"type":"Point"}
 }

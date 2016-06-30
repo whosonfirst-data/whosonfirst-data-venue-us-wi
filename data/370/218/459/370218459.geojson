@@ -2,13 +2,14 @@
   "id": 370218459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.010591,44.49304,-88.010591,44.49304",
     "geom:latitude":44.49304,
     "geom:longitude":-88.010591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 Mc Cormick St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370218459,
-    "wof:lastmodified":1449031217,
+    "wof:lastmodified":1467089904,
     "wof:name":"Green Bay Window Cleaners",
     "wof:parent_id":85877931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-88.010591,44.49304,-88.010591,44.49304],
-  "geometry": {"coordinates":[-88.010591,44.49304],"type":"Point"}
+  "bbox": [
+    -88.010591,
+    44.49304,
+    -88.010591,
+    44.49304
+],
+  "geometry": {"coordinates":[-88.01059100000001,44.49304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185698799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.018545,43.010592,-88.018545,43.010592",
     "geom:latitude":43.010592,
     "geom:longitude":-88.018545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8421 W Maple St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185698799,
-    "wof:lastmodified":1449008112,
+    "wof:lastmodified":1467089885,
     "wof:name":"Butchs Concrete Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "work"
     ]
 },
-  "bbox": [-88.018545,43.010592,-88.018545,43.010592],
+  "bbox": [
+    -88.018545,
+    43.010592,
+    -88.018545,
+    43.010592
+],
   "geometry": {"coordinates":[-88.018545,43.010592],"type":"Point"}
 }

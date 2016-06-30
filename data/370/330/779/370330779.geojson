@@ -2,13 +2,14 @@
   "id": 370330779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.252862,43.20618,-88.252862,43.20618",
     "geom:latitude":43.20618,
     "geom:longitude":-88.252862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4272 Ridge Rd",
     "sg:city":"Colgate",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370330779,
-    "wof:lastmodified":1449030764,
+    "wof:lastmodified":1467089902,
     "wof:name":"Shaska Trucking",
     "wof:parent_id":85829091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-88.252862,43.20618,-88.252862,43.20618],
-  "geometry": {"coordinates":[-88.252862,43.20618],"type":"Point"}
+  "bbox": [
+    -88.252862,
+    43.20618,
+    -88.252862,
+    43.20618
+],
+  "geometry": {"coordinates":[-88.25286199999999,43.20618],"type":"Point"}
 }

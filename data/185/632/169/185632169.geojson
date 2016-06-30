@@ -2,13 +2,14 @@
   "id": 185632169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.989644,43.036253,-87.989644,43.036253",
     "geom:latitude":43.036253,
     "geom:longitude":-87.989644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6125 W Bluemound Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":185632169,
-    "wof:lastmodified":1449007622,
+    "wof:lastmodified":1467089885,
     "wof:name":"Ruby Leather Co Inc",
     "wof:parent_id":85870915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "findings"
     ]
 },
-  "bbox": [-87.989644,43.036253,-87.989644,43.036253],
+  "bbox": [
+    -87.989644,
+    43.036253,
+    -87.989644,
+    43.036253
+],
   "geometry": {"coordinates":[-87.989644,43.036253],"type":"Point"}
 }

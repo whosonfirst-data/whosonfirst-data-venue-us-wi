@@ -2,13 +2,14 @@
   "id": 185880449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.921197,43.235767,-87.921197,43.235767",
     "geom:latitude":43.235767,
     "geom:longitude":-87.921197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 W Glen Oaks Ln",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185880449,
-    "wof:lastmodified":1449008226,
+    "wof:lastmodified":1467089886,
     "wof:name":"Capital Investments Inc",
     "wof:parent_id":85829269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "institution"
     ]
 },
-  "bbox": [-87.921197,43.235767,-87.921197,43.235767],
-  "geometry": {"coordinates":[-87.921197,43.235767],"type":"Point"}
+  "bbox": [
+    -87.921197,
+    43.235767,
+    -87.921197,
+    43.235767
+],
+  "geometry": {"coordinates":[-87.92119700000001,43.235767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371187481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.062073,43.955389,-88.062073,43.955389",
     "geom:latitude":43.955389,
     "geom:longitude":-88.062073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1895 Co Rd T",
     "sg:city":"New Holstein",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371187481,
-    "wof:lastmodified":1449049189,
+    "wof:lastmodified":1467089912,
     "wof:name":"Mc Kay Nursery Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "landscape"
     ]
 },
-  "bbox": [-88.062073,43.955389,-88.062073,43.955389],
+  "bbox": [
+    -88.062073,
+    43.955389,
+    -88.062073,
+    43.955389
+],
   "geometry": {"coordinates":[-88.062073,43.955389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185951083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.422639,44.771797,-91.422639,44.771797",
     "geom:latitude":44.771797,
     "geom:longitude":-91.422639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5623 Gatehouse Ter",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185951083,
-    "wof:lastmodified":1449006644,
+    "wof:lastmodified":1467089883,
     "wof:name":"H & H Packaging Inc",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.422639,44.771797,-91.422639,44.771797],
+  "bbox": [
+    -91.422639,
+    44.771797,
+    -91.422639,
+    44.771797
+],
   "geometry": {"coordinates":[-91.422639,44.771797],"type":"Point"}
 }

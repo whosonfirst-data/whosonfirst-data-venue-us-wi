@@ -2,13 +2,14 @@
   "id": 387714619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.145372,43.05164,-91.145372,43.05164",
     "geom:latitude":43.05164,
     "geom:longitude":-91.145372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 E Blackhawk Ave",
     "sg:city":"Prairie Du Chien",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387714619,
-    "wof:lastmodified":1449057978,
+    "wof:lastmodified":1467089926,
     "wof:name":"Select Realty Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.145372,43.05164,-91.145372,43.05164],
-  "geometry": {"coordinates":[-91.145372,43.05164],"type":"Point"}
+  "bbox": [
+    -91.145372,
+    43.05164,
+    -91.145372,
+    43.05164
+],
+  "geometry": {"coordinates":[-91.14537199999999,43.05164],"type":"Point"}
 }

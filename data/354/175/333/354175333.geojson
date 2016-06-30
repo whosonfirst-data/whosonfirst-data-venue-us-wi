@@ -2,13 +2,14 @@
   "id": 354175333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.451418,43.761363,-88.451418,43.761363",
     "geom:latitude":43.761363,
     "geom:longitude":-88.451418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Woodland Ave",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354175333,
-    "wof:lastmodified":1449067153,
+    "wof:lastmodified":1467089936,
     "wof:name":"Location Change",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-88.451418,43.761363,-88.451418,43.761363],
+  "bbox": [
+    -88.451418,
+    43.761363,
+    -88.451418,
+    43.761363
+],
   "geometry": {"coordinates":[-88.451418,43.761363],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403859189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.718056,45.514845,-90.718056,45.514845",
     "geom:latitude":45.514845,
     "geom:longitude":-90.718056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Ellingson Ave",
     "sg:city":"Hawkins",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403859189,
-    "wof:lastmodified":1449055561,
+    "wof:lastmodified":1467089920,
     "wof:name":"Hawkin's Amoco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-90.718056,45.514845,-90.718056,45.514845],
+  "bbox": [
+    -90.718056,
+    45.514845,
+    -90.718056,
+    45.514845
+],
   "geometry": {"coordinates":[-90.718056,45.514845],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354116965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.633274,44.782336,-88.633274,44.782336",
     "geom:latitude":44.782336,
     "geom:longitude":-88.633274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7937 Co Rd Mmm",
     "sg:city":"Shawano",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354116965,
-    "wof:lastmodified":1449066178,
+    "wof:lastmodified":1467089934,
     "wof:name":"Steve Burr Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-88.633274,44.782336,-88.633274,44.782336],
+  "bbox": [
+    -88.633274,
+    44.782336,
+    -88.633274,
+    44.782336
+],
   "geometry": {"coordinates":[-88.633274,44.782336],"type":"Point"}
 }

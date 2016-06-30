@@ -2,13 +2,14 @@
   "id": 370619425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.044314,43.174989,-88.044314,43.174989",
     "geom:latitude":43.174989,
     "geom:longitude":-88.044314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8687 N 107th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370619425,
-    "wof:lastmodified":1449029700,
+    "wof:lastmodified":1467089899,
     "wof:name":"CSE & Assoc",
     "wof:parent_id":85822589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.044314,43.174989,-88.044314,43.174989],
+  "bbox": [
+    -88.044314,
+    43.174989,
+    -88.044314,
+    43.174989
+],
   "geometry": {"coordinates":[-88.044314,43.174989],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370465397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.749575,43.751579,-87.749575,43.751579",
     "geom:latitude":43.751579,
     "geom:longitude":-87.749575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"537 S Taylor Dr",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370465397,
-    "wof:lastmodified":1449031355,
+    "wof:lastmodified":1467089904,
     "wof:name":"Taylor Heights Shopping Ctr",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.749575,43.751579,-87.749575,43.751579],
-  "geometry": {"coordinates":[-87.749575,43.751579],"type":"Point"}
+  "bbox": [
+    -87.749575,
+    43.751579,
+    -87.749575,
+    43.751579
+],
+  "geometry": {"coordinates":[-87.74957499999999,43.751579],"type":"Point"}
 }

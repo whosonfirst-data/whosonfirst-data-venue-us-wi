@@ -2,13 +2,14 @@
   "id": 387147783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.919569,43.023162,-87.919569,43.023162",
     "geom:latitude":43.023162,
     "geom:longitude":-87.919569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 W National Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387147783,
-    "wof:lastmodified":1449059498,
+    "wof:lastmodified":1467089931,
     "wof:name":"Convenient Banking Ctr",
     "wof:parent_id":85870951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-87.919569,43.023162,-87.919569,43.023162],
+  "bbox": [
+    -87.919569,
+    43.023162,
+    -87.919569,
+    43.023162
+],
   "geometry": {"coordinates":[-87.919569,43.023162],"type":"Point"}
 }

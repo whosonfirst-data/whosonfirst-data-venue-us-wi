@@ -2,13 +2,14 @@
   "id": 353662635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.98875,44.859123,-87.98875,44.859123",
     "geom:latitude":44.859123,
     "geom:longitude":-87.98875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4484 E Rocky Run Rd",
     "sg:city":"Oconto",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353662635,
-    "wof:lastmodified":1449019967,
+    "wof:lastmodified":1467089890,
     "wof:name":"Skymaster LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.98875,44.859123,-87.98875,44.859123],
+  "bbox": [
+    -87.98875,
+    44.859123,
+    -87.98875,
+    44.859123
+],
   "geometry": {"coordinates":[-87.98875,44.859123],"type":"Point"}
 }

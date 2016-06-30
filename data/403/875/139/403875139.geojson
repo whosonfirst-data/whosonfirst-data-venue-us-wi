@@ -2,13 +2,14 @@
   "id": 403875139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.245522,43.92242,-91.245522,43.92242",
     "geom:latitude":43.92242,
     "geom:longitude":-91.245522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5554 Abbey Rd",
     "sg:city":"Onalaska",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403875139,
-    "wof:lastmodified":1449055604,
+    "wof:lastmodified":1467089920,
     "wof:name":"Wettstein's Industrial",
     "wof:parent_id":85825891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "control"
     ]
 },
-  "bbox": [-91.245522,43.92242,-91.245522,43.92242],
-  "geometry": {"coordinates":[-91.245522,43.92242],"type":"Point"}
+  "bbox": [
+    -91.245522,
+    43.92242,
+    -91.245522,
+    43.92242
+],
+  "geometry": {"coordinates":[-91.24552199999999,43.92242],"type":"Point"}
 }

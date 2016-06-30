@@ -2,13 +2,14 @@
   "id": 370956725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.657493,44.09875,-87.657493,44.09875",
     "geom:latitude":44.09875,
     "geom:longitude":-87.657493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 Park St",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370956725,
-    "wof:lastmodified":1449029663,
+    "wof:lastmodified":1467089899,
     "wof:name":"Lutheran Social Services",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.657493,44.09875,-87.657493,44.09875],
+  "bbox": [
+    -87.657493,
+    44.09875,
+    -87.657493,
+    44.09875
+],
   "geometry": {"coordinates":[-87.657493,44.09875],"type":"Point"}
 }

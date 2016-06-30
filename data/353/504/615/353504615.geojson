@@ -2,13 +2,14 @@
   "id": 353504615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.977893,44.512453,-87.977893,44.512453",
     "geom:latitude":44.512453,
     "geom:longitude":-87.977893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1727 University Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353504615,
-    "wof:lastmodified":1449018690,
+    "wof:lastmodified":1467089887,
     "wof:name":"Crossroads",
     "wof:parent_id":85823449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-87.977893,44.512453,-87.977893,44.512453],
-  "geometry": {"coordinates":[-87.977893,44.512453],"type":"Point"}
+  "bbox": [
+    -87.977893,
+    44.512453,
+    -87.977893,
+    44.512453
+],
+  "geometry": {"coordinates":[-87.97789299999999,44.512453],"type":"Point"}
 }

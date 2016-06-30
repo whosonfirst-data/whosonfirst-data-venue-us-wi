@@ -2,13 +2,14 @@
   "id": 387589445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.626159,43.452835,-88.626159,43.452835",
     "geom:latitude":43.452835,
     "geom:longitude":-88.626159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 N Clark St",
     "sg:city":"Horicon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387589445,
-    "wof:lastmodified":1449058140,
+    "wof:lastmodified":1467089927,
     "wof:name":"Certified Personal Trainer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trainer"
     ]
 },
-  "bbox": [-88.626159,43.452835,-88.626159,43.452835],
+  "bbox": [
+    -88.626159,
+    43.452835,
+    -88.626159,
+    43.452835
+],
   "geometry": {"coordinates":[-88.626159,43.452835],"type":"Point"}
 }

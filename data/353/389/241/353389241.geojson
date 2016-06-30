@@ -2,13 +2,14 @@
   "id": 353389241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.20419,45.319405,-90.20419,45.319405",
     "geom:latitude":45.319405,
     "geom:longitude":-90.20419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Mc Comb Ave",
     "sg:city":"Rib Lake",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353389241,
-    "wof:lastmodified":1449020307,
+    "wof:lastmodified":1467089891,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.20419,45.319405,-90.20419,45.319405],
+  "bbox": [
+    -90.20419,
+    45.319405,
+    -90.20419,
+    45.319405
+],
   "geometry": {"coordinates":[-90.20419,45.319405],"type":"Point"}
 }

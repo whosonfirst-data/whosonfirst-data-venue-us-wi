@@ -2,13 +2,14 @@
   "id": 404218705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.73221,43.633174,-88.73221,43.633174",
     "geom:latitude":43.633174,
     "geom:longitude":-88.73221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Main St",
     "sg:city":"Waupun",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404218705,
-    "wof:lastmodified":1449039897,
+    "wof:lastmodified":1467089911,
     "wof:name":"City Engineer Dept Pub Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.73221,43.633174,-88.73221,43.633174],
-  "geometry": {"coordinates":[-88.73221,43.633174],"type":"Point"}
+  "bbox": [
+    -88.73221,
+    43.633174,
+    -88.73221,
+    43.633174
+],
+  "geometry": {"coordinates":[-88.73220999999999,43.633174],"type":"Point"}
 }

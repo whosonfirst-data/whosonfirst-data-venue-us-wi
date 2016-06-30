@@ -2,13 +2,14 @@
   "id": 387289363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.158827,43.026854,-88.158827,43.026854",
     "geom:latitude":43.026854,
     "geom:longitude":-88.158827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 W Ravenswood Hills Cir",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387289363,
-    "wof:lastmodified":1449059294,
+    "wof:lastmodified":1467089931,
     "wof:name":"Building Families Ltd",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.158827,43.026854,-88.158827,43.026854],
+  "bbox": [
+    -88.158827,
+    43.026854,
+    -88.158827,
+    43.026854
+],
   "geometry": {"coordinates":[-88.158827,43.026854],"type":"Point"}
 }

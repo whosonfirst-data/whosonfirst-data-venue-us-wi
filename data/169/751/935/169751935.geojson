@@ -2,13 +2,14 @@
   "id": 169751935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.325274,43.053117,-89.325274,43.053117",
     "geom:latitude":43.053117,
     "geom:longitude":-89.325274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 Monona Dr",
     "sg:city":"Monona",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169751935,
-    "wof:lastmodified":1449032873,
+    "wof:lastmodified":1467089908,
     "wof:name":"Rossario's",
     "wof:parent_id":85878847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-89.325274,43.053117,-89.325274,43.053117],
-  "geometry": {"coordinates":[-89.325274,43.053117],"type":"Point"}
+  "bbox": [
+    -89.325274,
+    43.053117,
+    -89.325274,
+    43.053117
+],
+  "geometry": {"coordinates":[-89.32527399999999,43.053117],"type":"Point"}
 }

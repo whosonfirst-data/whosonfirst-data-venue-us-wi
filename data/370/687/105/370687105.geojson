@@ -2,13 +2,14 @@
   "id": 370687105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.071329,43.111767,-88.071329,43.111767",
     "geom:latitude":43.111767,
     "geom:longitude":-88.071329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5151 N Detrie Ct",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370687105,
-    "wof:lastmodified":1449030054,
+    "wof:lastmodified":1467089900,
     "wof:name":"Mid City Plumbing & Heating",
     "wof:parent_id":85870815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.071329,43.111767,-88.071329,43.111767],
-  "geometry": {"coordinates":[-88.071329,43.111767],"type":"Point"}
+  "bbox": [
+    -88.071329,
+    43.111767,
+    -88.071329,
+    43.111767
+],
+  "geometry": {"coordinates":[-88.07132900000001,43.111767],"type":"Point"}
 }

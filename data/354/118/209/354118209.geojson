@@ -2,13 +2,14 @@
   "id": 354118209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.907061,43.118453,-87.907061,43.118453",
     "geom:latitude":43.118453,
     "geom:longitude":-87.907061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 E Silver Spring Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354118209,
-    "wof:lastmodified":1449067318,
+    "wof:lastmodified":1467089937,
     "wof:name":"Suson Eye Specialists  MD SC",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "medical"
     ]
 },
-  "bbox": [-87.907061,43.118453,-87.907061,43.118453],
+  "bbox": [
+    -87.907061,
+    43.118453,
+    -87.907061,
+    43.118453
+],
   "geometry": {"coordinates":[-87.907061,43.118453],"type":"Point"}
 }

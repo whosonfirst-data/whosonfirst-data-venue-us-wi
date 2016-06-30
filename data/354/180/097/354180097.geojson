@@ -2,13 +2,14 @@
   "id": 354180097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.251789,43.80771,-91.251789,43.80771",
     "geom:latitude":43.80771,
     "geom:longitude":-91.251789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 4th St S",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354180097,
-    "wof:lastmodified":1449066015,
+    "wof:lastmodified":1467089933,
     "wof:name":"Honda Motor Werks",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "related"
     ]
 },
-  "bbox": [-91.251789,43.80771,-91.251789,43.80771],
+  "bbox": [
+    -91.251789,
+    43.80771,
+    -91.251789,
+    43.80771
+],
   "geometry": {"coordinates":[-91.251789,43.80771],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387855959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.714696,43.732996,-87.714696,43.732996",
     "geom:latitude":43.732996,
     "geom:longitude":-87.714696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1922 S 9th St",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387855959,
-    "wof:lastmodified":1449058911,
+    "wof:lastmodified":1467089930,
     "wof:name":"Tsioulos Incorporated",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.714696,43.732996,-87.714696,43.732996],
+  "bbox": [
+    -87.714696,
+    43.732996,
+    -87.714696,
+    43.732996
+],
   "geometry": {"coordinates":[-87.714696,43.732996],"type":"Point"}
 }

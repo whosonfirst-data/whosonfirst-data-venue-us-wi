@@ -2,13 +2,14 @@
   "id": 353509765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.509911,43.075216,-89.509911,43.075216",
     "geom:latitude":43.075216,
     "geom:longitude":-89.509911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7702 Old Sauk Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353509765,
-    "wof:lastmodified":1449018346,
+    "wof:lastmodified":1467089886,
     "wof:name":"High Point Church",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.509911,43.075216,-89.509911,43.075216],
+  "bbox": [
+    -89.509911,
+    43.075216,
+    -89.509911,
+    43.075216
+],
   "geometry": {"coordinates":[-89.509911,43.075216],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337316135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.513824,44.82135,-91.513824,44.82135",
     "geom:latitude":44.82135,
     "geom:longitude":-91.513824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 3rd St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337316135,
-    "wof:lastmodified":1449027504,
+    "wof:lastmodified":1467089895,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85848105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-91.513824,44.82135,-91.513824,44.82135],
+  "bbox": [
+    -91.513824,
+    44.82135,
+    -91.513824,
+    44.82135
+],
   "geometry": {"coordinates":[-91.513824,44.82135],"type":"Point"}
 }

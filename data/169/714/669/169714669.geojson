@@ -2,13 +2,14 @@
   "id": 169714669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.526526,44.760929,-88.526526,44.760929",
     "geom:latitude":44.760929,
     "geom:longitude":-88.526526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5609 Lime Kiln Rd",
     "sg:city":"Shawano",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169714669,
-    "wof:lastmodified":1449034313,
+    "wof:lastmodified":1467089908,
     "wof:name":"Mueller Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.526526,44.760929,-88.526526,44.760929],
+  "bbox": [
+    -88.526526,
+    44.760929,
+    -88.526526,
+    44.760929
+],
   "geometry": {"coordinates":[-88.526526,44.760929],"type":"Point"}
 }

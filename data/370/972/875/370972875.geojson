@@ -2,13 +2,14 @@
   "id": 370972875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.025967,44.478297,-88.025967,44.478297",
     "geom:latitude":44.478297,
     "geom:longitude":-88.025967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2335 S Webster Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370972875,
-    "wof:lastmodified":1449030779,
+    "wof:lastmodified":1467089902,
     "wof:name":"Faith Christian Pre-School",
     "wof:parent_id":85877931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "day"
     ]
 },
-  "bbox": [-88.025967,44.478297,-88.025967,44.478297],
-  "geometry": {"coordinates":[-88.025967,44.478297],"type":"Point"}
+  "bbox": [
+    -88.025967,
+    44.478297,
+    -88.025967,
+    44.478297
+],
+  "geometry": {"coordinates":[-88.02596699999999,44.478297],"type":"Point"}
 }

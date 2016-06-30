@@ -2,13 +2,14 @@
   "id": 353465477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.52808,43.364529,-88.52808,43.364529",
     "geom:latitude":43.364529,
     "geom:longitude":-88.52808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4797 Moss Rd",
     "sg:city":"Iron Ridge",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":353465477,
-    "wof:lastmodified":1449019956,
+    "wof:lastmodified":1467089890,
     "wof:name":"Fur Replicas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.52808,43.364529,-88.52808,43.364529],
+  "bbox": [
+    -88.52808,
+    43.364529,
+    -88.52808,
+    43.364529
+],
   "geometry": {"coordinates":[-88.52808,43.364529],"type":"Point"}
 }

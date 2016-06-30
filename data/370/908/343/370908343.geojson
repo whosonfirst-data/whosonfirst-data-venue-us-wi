@@ -2,13 +2,14 @@
   "id": 370908343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.670507,44.56584,-91.670507,44.56584",
     "geom:latitude":44.56584,
     "geom:longitude":-91.670507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"278 S Eau Claire St",
     "sg:city":"Mondovi",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370908343,
-    "wof:lastmodified":1449030994,
+    "wof:lastmodified":1467089903,
     "wof:name":"LA Duke Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.670507,44.56584,-91.670507,44.56584],
+  "bbox": [
+    -91.670507,
+    44.56584,
+    -91.670507,
+    44.56584
+],
   "geometry": {"coordinates":[-91.670507,44.56584],"type":"Point"}
 }

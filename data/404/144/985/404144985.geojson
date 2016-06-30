@@ -2,13 +2,14 @@
   "id": 404144985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.073842,42.837306,-89.073842,42.837306",
     "geom:latitude":42.837306,
     "geom:longitude":-89.073842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Mechanic St",
     "sg:city":"Edgerton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404144985,
-    "wof:lastmodified":1449039995,
+    "wof:lastmodified":1467089911,
     "wof:name":"Daniel Schaff",
     "wof:parent_id":85836935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-89.073842,42.837306,-89.073842,42.837306],
+  "bbox": [
+    -89.073842,
+    42.837306,
+    -89.073842,
+    42.837306
+],
   "geometry": {"coordinates":[-89.073842,42.837306],"type":"Point"}
 }

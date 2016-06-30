@@ -2,13 +2,14 @@
   "id": 169740825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.894281,42.996339,-87.894281,42.996339",
     "geom:latitude":42.996339,
     "geom:longitude":-87.894281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2656 S Clement Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169740825,
-    "wof:lastmodified":1449034166,
+    "wof:lastmodified":1467089908,
     "wof:name":"Great Lakes Heating and Coolg",
     "wof:parent_id":85870973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.894281,42.996339,-87.894281,42.996339],
-  "geometry": {"coordinates":[-87.894281,42.996339],"type":"Point"}
+  "bbox": [
+    -87.894281,
+    42.996339,
+    -87.894281,
+    42.996339
+],
+  "geometry": {"coordinates":[-87.89428100000001,42.996339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370912067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.303176,43.062385,-89.303176,43.062385",
     "geom:latitude":43.062385,
     "geom:longitude":-89.303176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4605 Pflaum Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370912067,
-    "wof:lastmodified":1449030752,
+    "wof:lastmodified":1467089902,
     "wof:name":"Metro Ride of Wisconsin",
     "wof:parent_id":85878847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elderly"
     ]
 },
-  "bbox": [-89.303176,43.062385,-89.303176,43.062385],
-  "geometry": {"coordinates":[-89.303176,43.062385],"type":"Point"}
+  "bbox": [
+    -89.303176,
+    43.062385,
+    -89.303176,
+    43.062385
+],
+  "geometry": {"coordinates":[-89.30317599999999,43.062385],"type":"Point"}
 }

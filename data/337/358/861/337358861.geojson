@@ -2,13 +2,14 @@
   "id": 337358861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.848564,42.934159,-88.848564,42.934159",
     "geom:latitude":42.934159,
     "geom:longitude":-88.848564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"735 Madison Ave",
     "sg:city":"Fort Atkinson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337358861,
-    "wof:lastmodified":1449027277,
+    "wof:lastmodified":1467089894,
     "wof:name":"Fort Quick Cash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-88.848564,42.934159,-88.848564,42.934159],
+  "bbox": [
+    -88.848564,
+    42.934159,
+    -88.848564,
+    42.934159
+],
   "geometry": {"coordinates":[-88.848564,42.934159],"type":"Point"}
 }

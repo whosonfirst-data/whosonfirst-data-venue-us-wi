@@ -2,13 +2,14 @@
   "id": 185647643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.015948,43.104615,-88.015948,43.104615",
     "geom:latitude":43.104615,
     "geom:longitude":-88.015948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8333 W Appleton Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185647643,
-    "wof:lastmodified":1449007383,
+    "wof:lastmodified":1467089884,
     "wof:name":"Blockbuster",
     "wof:parent_id":85870869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "video"
     ]
 },
-  "bbox": [-88.015948,43.104615,-88.015948,43.104615],
-  "geometry": {"coordinates":[-88.015948,43.104615],"type":"Point"}
+  "bbox": [
+    -88.015948,
+    43.104615,
+    -88.015948,
+    43.104615
+],
+  "geometry": {"coordinates":[-88.01594799999999,43.104615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404086947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.431747,44.891393,-89.431747,44.891393",
     "geom:latitude":44.891393,
     "geom:longitude":-89.431747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15300 Ringle Ave",
     "sg:city":"Ringle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404086947,
-    "wof:lastmodified":1449039936,
+    "wof:lastmodified":1467089911,
     "wof:name":"Northern Repair & Welding",
     "wof:parent_id":85854809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-89.431747,44.891393,-89.431747,44.891393],
+  "bbox": [
+    -89.431747,
+    44.891393,
+    -89.431747,
+    44.891393
+],
   "geometry": {"coordinates":[-89.431747,44.891393],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387116639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.983259,43.082703,-87.983259,43.082703",
     "geom:latitude":43.082703,
     "geom:longitude":-87.983259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5504 W Keefe Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387116639,
-    "wof:lastmodified":1449056661,
+    "wof:lastmodified":1467089923,
     "wof:name":"Boyle Holdings LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "holding"
     ]
 },
-  "bbox": [-87.983259,43.082703,-87.983259,43.082703],
+  "bbox": [
+    -87.983259,
+    43.082703,
+    -87.983259,
+    43.082703
+],
   "geometry": {"coordinates":[-87.983259,43.082703],"type":"Point"}
 }

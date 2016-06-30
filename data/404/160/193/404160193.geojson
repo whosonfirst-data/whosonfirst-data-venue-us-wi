@@ -2,13 +2,14 @@
   "id": 404160193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.398407,44.285624,-88.398407,44.285624",
     "geom:latitude":44.285624,
     "geom:longitude":-88.398407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 N Union St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404160193,
-    "wof:lastmodified":1449040120,
+    "wof:lastmodified":1467089911,
     "wof:name":"Roop Books",
     "wof:parent_id":85857401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.398407,44.285624,-88.398407,44.285624],
-  "geometry": {"coordinates":[-88.398407,44.285624],"type":"Point"}
+  "bbox": [
+    -88.398407,
+    44.285624,
+    -88.398407,
+    44.285624
+],
+  "geometry": {"coordinates":[-88.39840700000001,44.285624],"type":"Point"}
 }

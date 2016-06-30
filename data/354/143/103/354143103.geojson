@@ -2,13 +2,14 @@
   "id": 354143103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.799057,44.182217,-87.799057,44.182217",
     "geom:latitude":44.182217,
     "geom:longitude":-87.799057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10018 Reifs Mills Rd",
     "sg:city":"Whitelaw",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354143103,
-    "wof:lastmodified":1449067360,
+    "wof:lastmodified":1467089937,
     "wof:name":"Bolle Lime & Stone",
     "wof:parent_id":85827947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "lime"
     ]
 },
-  "bbox": [-87.799057,44.182217,-87.799057,44.182217],
+  "bbox": [
+    -87.799057,
+    44.182217,
+    -87.799057,
+    44.182217
+],
   "geometry": {"coordinates":[-87.799057,44.182217],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403716677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.627487,45.10024,-87.627487,45.10024",
     "geom:latitude":45.10024,
     "geom:longitude":-87.627487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Wells St",
     "sg:city":"Marinette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403716677,
-    "wof:lastmodified":1449054814,
+    "wof:lastmodified":1467089918,
     "wof:name":"United States Coast Guard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "coast"
     ]
 },
-  "bbox": [-87.627487,45.10024,-87.627487,45.10024],
+  "bbox": [
+    -87.627487,
+    45.10024,
+    -87.627487,
+    45.10024
+],
   "geometry": {"coordinates":[-87.627487,45.10024],"type":"Point"}
 }

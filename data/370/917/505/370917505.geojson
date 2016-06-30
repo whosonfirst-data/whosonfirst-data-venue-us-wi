@@ -2,13 +2,14 @@
   "id": 370917505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.722786,44.923595,-91.722786,44.923595",
     "geom:latitude":44.923595,
     "geom:longitude":-91.722786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6443 906th St",
     "sg:city":"Elk Mound",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370917505,
-    "wof:lastmodified":1449032025,
+    "wof:lastmodified":1467089906,
     "wof:name":"Varpness Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "residential"
     ]
 },
-  "bbox": [-91.722786,44.923595,-91.722786,44.923595],
+  "bbox": [
+    -91.722786,
+    44.923595,
+    -91.722786,
+    44.923595
+],
   "geometry": {"coordinates":[-91.722786,44.923595],"type":"Point"}
 }

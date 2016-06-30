@@ -2,13 +2,14 @@
   "id": 387732021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.911922,43.088979,-87.911922,43.088979",
     "geom:latitude":43.088979,
     "geom:longitude":-87.911922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3928 N 2nd St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387732021,
-    "wof:lastmodified":1449060034,
+    "wof:lastmodified":1467089933,
     "wof:name":"Frentzel Products Inc",
     "wof:parent_id":85870941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.911922,43.088979,-87.911922,43.088979],
+  "bbox": [
+    -87.911922,
+    43.088979,
+    -87.911922,
+    43.088979
+],
   "geometry": {"coordinates":[-87.911922,43.088979],"type":"Point"}
 }

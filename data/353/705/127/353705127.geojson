@@ -2,13 +2,14 @@
   "id": 353705127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.966869,44.512829,-87.966869,44.512829",
     "geom:latitude":44.512829,
     "geom:longitude":-87.966869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2248 University Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353705127,
-    "wof:lastmodified":1449020815,
+    "wof:lastmodified":1467089892,
     "wof:name":"Guitar Cellar Ltd",
     "wof:parent_id":85823449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-87.966869,44.512829,-87.966869,44.512829],
+  "bbox": [
+    -87.966869,
+    44.512829,
+    -87.966869,
+    44.512829
+],
   "geometry": {"coordinates":[-87.966869,44.512829],"type":"Point"}
 }

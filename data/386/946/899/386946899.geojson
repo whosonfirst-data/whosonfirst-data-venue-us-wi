@@ -2,13 +2,14 @@
   "id": 386946899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.461846,44.799989,-91.461846,44.799989",
     "geom:latitude":44.799989,
     "geom:longitude":-91.461846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3219 Pleasant St",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386946899,
-    "wof:lastmodified":1449028936,
+    "wof:lastmodified":1467089897,
     "wof:name":"Chippewa Valley Starter & Alt",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "generator"
     ]
 },
-  "bbox": [-91.461846,44.799989,-91.461846,44.799989],
-  "geometry": {"coordinates":[-91.461846,44.799989],"type":"Point"}
+  "bbox": [
+    -91.461846,
+    44.799989,
+    -91.461846,
+    44.799989
+],
+  "geometry": {"coordinates":[-91.46184599999999,44.799989],"type":"Point"}
 }

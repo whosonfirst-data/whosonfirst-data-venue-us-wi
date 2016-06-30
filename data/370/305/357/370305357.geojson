@@ -2,13 +2,14 @@
   "id": 370305357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.524419,43.069041,-89.524419,43.069041",
     "geom:latitude":43.069041,
     "geom:longitude":-89.524419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Junction Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370305357,
-    "wof:lastmodified":1449029606,
+    "wof:lastmodified":1467089899,
     "wof:name":"GRN Madison",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "executive"
     ]
 },
-  "bbox": [-89.524419,43.069041,-89.524419,43.069041],
-  "geometry": {"coordinates":[-89.524419,43.069041],"type":"Point"}
+  "bbox": [
+    -89.524419,
+    43.069041,
+    -89.524419,
+    43.069041
+],
+  "geometry": {"coordinates":[-89.52441899999999,43.069041],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387563745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.897073,43.143817,-87.897073,43.143817",
     "geom:latitude":43.143817,
     "geom:longitude":-87.897073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"939 E Green Tree Rd",
     "sg:city":"River Hills",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387563745,
-    "wof:lastmodified":1449056176,
+    "wof:lastmodified":1467089921,
     "wof:name":"Design Plus Interiors",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-87.897073,43.143817,-87.897073,43.143817],
-  "geometry": {"coordinates":[-87.897073,43.143817],"type":"Point"}
+  "bbox": [
+    -87.897073,
+    43.143817,
+    -87.897073,
+    43.143817
+],
+  "geometry": {"coordinates":[-87.89707300000001,43.143817],"type":"Point"}
 }

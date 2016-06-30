@@ -2,13 +2,14 @@
   "id": 337326819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.02107,45.051326,-89.02107,45.051326",
     "geom:latitude":45.051326,
     "geom:longitude":-89.02107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7413 Loop Rd",
     "sg:city":"Antigo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337326819,
-    "wof:lastmodified":1449027280,
+    "wof:lastmodified":1467089894,
     "wof:name":"Benedict Keoppel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.02107,45.051326,-89.02107,45.051326],
-  "geometry": {"coordinates":[-89.02107,45.051326],"type":"Point"}
+  "bbox": [
+    -89.02107,
+    45.051326,
+    -89.02107,
+    45.051326
+],
+  "geometry": {"coordinates":[-89.02106999999999,45.051326],"type":"Point"}
 }

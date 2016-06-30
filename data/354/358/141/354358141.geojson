@@ -2,13 +2,14 @@
   "id": 354358141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.639206,42.635452,-88.639206,42.635452",
     "geom:latitude":42.635452,
     "geom:longitude":-88.639206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 N 7th St",
     "sg:city":"Delavan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354358141,
-    "wof:lastmodified":1449066637,
+    "wof:lastmodified":1467089935,
     "wof:name":"Elegancia Mexican Restaurant",
     "wof:parent_id":85829149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-88.639206,42.635452,-88.639206,42.635452],
+  "bbox": [
+    -88.639206,
+    42.635452,
+    -88.639206,
+    42.635452
+],
   "geometry": {"coordinates":[-88.639206,42.635452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387759323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.917853,43.012388,-87.917853,43.012388",
     "geom:latitude":43.012388,
     "geom:longitude":-87.917853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"546 W Mitchell St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387759323,
-    "wof:lastmodified":1449059974,
+    "wof:lastmodified":1467089933,
     "wof:name":"Milwaukee Temps Inc",
     "wof:parent_id":85870847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "temporary"
     ]
 },
-  "bbox": [-87.917853,43.012388,-87.917853,43.012388],
-  "geometry": {"coordinates":[-87.917853,43.012388],"type":"Point"}
+  "bbox": [
+    -87.917853,
+    43.012388,
+    -87.917853,
+    43.012388
+],
+  "geometry": {"coordinates":[-87.91785299999999,43.012388],"type":"Point"}
 }

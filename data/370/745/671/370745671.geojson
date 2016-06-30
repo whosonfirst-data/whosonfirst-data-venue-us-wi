@@ -2,13 +2,14 @@
   "id": 370745671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.979903,43.156829,-87.979903,43.156829",
     "geom:latitude":43.156829,
     "geom:longitude":-87.979903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5419 W Spring Ln",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370745671,
-    "wof:lastmodified":1449032318,
+    "wof:lastmodified":1467089907,
     "wof:name":"Nor-Mar Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "floor"
     ]
 },
-  "bbox": [-87.979903,43.156829,-87.979903,43.156829],
-  "geometry": {"coordinates":[-87.979903,43.156829],"type":"Point"}
+  "bbox": [
+    -87.979903,
+    43.156829,
+    -87.979903,
+    43.156829
+],
+  "geometry": {"coordinates":[-87.97990299999999,43.156829],"type":"Point"}
 }

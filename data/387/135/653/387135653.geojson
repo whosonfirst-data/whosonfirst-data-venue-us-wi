@@ -2,13 +2,14 @@
   "id": 387135653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.333426,43.108117,-88.333426,43.108117",
     "geom:latitude":43.108117,
     "geom:longitude":-88.333426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Merton Ave",
     "sg:city":"Hartland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387135653,
-    "wof:lastmodified":1449057564,
+    "wof:lastmodified":1467089925,
     "wof:name":"Instructional Media Svc",
     "wof:parent_id":85808383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "amusement"
     ]
 },
-  "bbox": [-88.333426,43.108117,-88.333426,43.108117],
+  "bbox": [
+    -88.333426,
+    43.108117,
+    -88.333426,
+    43.108117
+],
   "geometry": {"coordinates":[-88.333426,43.108117],"type":"Point"}
 }

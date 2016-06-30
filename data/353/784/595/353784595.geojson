@@ -2,13 +2,14 @@
   "id": 353784595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.822186,43.735129,-88.822186,43.735129",
     "geom:latitude":43.735129,
     "geom:longitude":-88.822186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12915 State Hwy 49",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353784595,
-    "wof:lastmodified":1449019950,
+    "wof:lastmodified":1467089890,
     "wof:name":"Larry Mulder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.822186,43.735129,-88.822186,43.735129],
+  "bbox": [
+    -88.822186,
+    43.735129,
+    -88.822186,
+    43.735129
+],
   "geometry": {"coordinates":[-88.822186,43.735129],"type":"Point"}
 }

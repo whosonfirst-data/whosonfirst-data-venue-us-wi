@@ -2,13 +2,14 @@
   "id": 370941067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.160536,44.685233,-90.160536,44.685233",
     "geom:latitude":44.685233,
     "geom:longitude":-90.160536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1635 N Central Ave",
     "sg:city":"Marshfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370941067,
-    "wof:lastmodified":1449031098,
+    "wof:lastmodified":1467089903,
     "wof:name":"Blues Hair & Nail Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-90.160536,44.685233,-90.160536,44.685233],
-  "geometry": {"coordinates":[-90.160536,44.685233],"type":"Point"}
+  "bbox": [
+    -90.160536,
+    44.685233,
+    -90.160536,
+    44.685233
+],
+  "geometry": {"coordinates":[-90.16053599999999,44.685233],"type":"Point"}
 }

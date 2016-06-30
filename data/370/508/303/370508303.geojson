@@ -2,13 +2,14 @@
   "id": 370508303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.140788,45.39535,-92.140788,45.39535",
     "geom:latitude":45.39535,
     "geom:longitude":-92.140788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Martin Ave",
     "sg:city":"Turtle Lake",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370508303,
-    "wof:lastmodified":1449030966,
+    "wof:lastmodified":1467089903,
     "wof:name":"Hermanek Software Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-92.140788,45.39535,-92.140788,45.39535],
+  "bbox": [
+    -92.140788,
+    45.39535,
+    -92.140788,
+    45.39535
+],
   "geometry": {"coordinates":[-92.140788,45.39535],"type":"Point"}
 }

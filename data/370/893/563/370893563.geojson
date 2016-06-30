@@ -2,13 +2,14 @@
   "id": 370893563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.022515,44.515474,-88.022515,44.515474",
     "geom:latitude":44.515474,
     "geom:longitude":-88.022515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Broadway",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370893563,
-    "wof:lastmodified":1449031834,
+    "wof:lastmodified":1467089905,
     "wof:name":"May's Supermarket",
     "wof:parent_id":85877935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "oriental"
     ]
 },
-  "bbox": [-88.022515,44.515474,-88.022515,44.515474],
+  "bbox": [
+    -88.022515,
+    44.515474,
+    -88.022515,
+    44.515474
+],
   "geometry": {"coordinates":[-88.022515,44.515474],"type":"Point"}
 }

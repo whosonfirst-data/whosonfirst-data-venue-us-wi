@@ -2,13 +2,14 @@
   "id": 387842295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.502524,43.071669,-89.502524,43.071669",
     "geom:latitude":43.071669,
     "geom:longitude":-89.502524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 N Gammon Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387842295,
-    "wof:lastmodified":1449056389,
+    "wof:lastmodified":1467089922,
     "wof:name":"S&G Partners LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "except"
     ]
 },
-  "bbox": [-89.502524,43.071669,-89.502524,43.071669],
-  "geometry": {"coordinates":[-89.502524,43.071669],"type":"Point"}
+  "bbox": [
+    -89.502524,
+    43.071669,
+    -89.502524,
+    43.071669
+],
+  "geometry": {"coordinates":[-89.50252399999999,43.071669],"type":"Point"}
 }

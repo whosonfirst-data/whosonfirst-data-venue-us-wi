@@ -2,13 +2,14 @@
   "id": 387251291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.931924,43.409332,-90.931924,43.409332",
     "geom:latitude":43.409332,
     "geom:longitude":-90.931924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53836 Latham Rd",
     "sg:city":"Soldiers Grove",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387251291,
-    "wof:lastmodified":1449056189,
+    "wof:lastmodified":1467089921,
     "wof:name":"Township of Utica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "township"
     ]
 },
-  "bbox": [-90.931924,43.409332,-90.931924,43.409332],
+  "bbox": [
+    -90.931924,
+    43.409332,
+    -90.931924,
+    43.409332
+],
   "geometry": {"coordinates":[-90.931924,43.409332],"type":"Point"}
 }

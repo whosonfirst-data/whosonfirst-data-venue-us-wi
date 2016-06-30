@@ -2,13 +2,14 @@
   "id": 387760691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.236676,43.816172,-91.236676,43.816172",
     "geom:latitude":43.816172,
     "geom:longitude":-91.236676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Badger St",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387760691,
-    "wof:lastmodified":1449059772,
+    "wof:lastmodified":1467089932,
     "wof:name":"LA Crosse Medical Health Scnc",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-91.236676,43.816172,-91.236676,43.816172],
+  "bbox": [
+    -91.236676,
+    43.816172,
+    -91.236676,
+    43.816172
+],
   "geometry": {"coordinates":[-91.236676,43.816172],"type":"Point"}
 }

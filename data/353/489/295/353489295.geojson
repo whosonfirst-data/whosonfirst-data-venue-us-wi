@@ -2,13 +2,14 @@
   "id": 353489295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.665421,45.179044,-89.665421,45.179044",
     "geom:latitude":45.179044,
     "geom:longitude":-89.665421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2606 Sturdevant St",
     "sg:city":"Merrill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353489295,
-    "wof:lastmodified":1449019658,
+    "wof:lastmodified":1467089889,
     "wof:name":"Merrill Sewage Disposal Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-89.665421,45.179044,-89.665421,45.179044],
-  "geometry": {"coordinates":[-89.665421,45.179044],"type":"Point"}
+  "bbox": [
+    -89.665421,
+    45.179044,
+    -89.665421,
+    45.179044
+],
+  "geometry": {"coordinates":[-89.66542099999999,45.179044],"type":"Point"}
 }

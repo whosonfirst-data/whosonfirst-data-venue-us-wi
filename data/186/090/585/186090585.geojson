@@ -2,13 +2,14 @@
   "id": 186090585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.970886,43.235447,-87.970886,43.235447",
     "geom:latitude":43.235447,
     "geom:longitude":-87.970886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 W Alta Loma Cir",
     "sg:city":"Thiensville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186090585,
-    "wof:lastmodified":1449052466,
+    "wof:lastmodified":1467089916,
     "wof:name":"Golf Shark",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.970886,43.235447,-87.970886,43.235447],
-  "geometry": {"coordinates":[-87.970886,43.235447],"type":"Point"}
+  "bbox": [
+    -87.970886,
+    43.235447,
+    -87.970886,
+    43.235447
+],
+  "geometry": {"coordinates":[-87.97088599999999,43.235447],"type":"Point"}
 }

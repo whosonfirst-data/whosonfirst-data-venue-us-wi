@@ -2,13 +2,14 @@
   "id": 354377761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.910498,43.134415,-87.910498,43.134415",
     "geom:latitude":43.134415,
     "geom:longitude":-87.910498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Brentwood Ln",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354377761,
-    "wof:lastmodified":1449066556,
+    "wof:lastmodified":1467089935,
     "wof:name":"Russian Connection Inc",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.910498,43.134415,-87.910498,43.134415],
+  "bbox": [
+    -87.910498,
+    43.134415,
+    -87.910498,
+    43.134415
+],
   "geometry": {"coordinates":[-87.910498,43.134415],"type":"Point"}
 }

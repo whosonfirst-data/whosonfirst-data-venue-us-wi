@@ -2,13 +2,14 @@
   "id": 370315779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.987665,43.098658,-87.987665,43.098658",
     "geom:latitude":43.098658,
     "geom:longitude":-87.987665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6150 W Fond du Lac Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370315779,
-    "wof:lastmodified":1449032289,
+    "wof:lastmodified":1467089907,
     "wof:name":"Disadvantaged Bus Support Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "transportation"
     ]
 },
-  "bbox": [-87.987665,43.098658,-87.987665,43.098658],
-  "geometry": {"coordinates":[-87.987665,43.098658],"type":"Point"}
+  "bbox": [
+    -87.987665,
+    43.098658,
+    -87.987665,
+    43.098658
+],
+  "geometry": {"coordinates":[-87.98766500000001,43.098658],"type":"Point"}
 }

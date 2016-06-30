@@ -2,13 +2,14 @@
   "id": 353768927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.620783,44.946194,-89.620783,44.946194",
     "geom:latitude":44.946194,
     "geom:longitude":-89.620783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 Grand Ave",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353768927,
-    "wof:lastmodified":1449019247,
+    "wof:lastmodified":1467089888,
     "wof:name":"Associated Retirement Planning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-89.620783,44.946194,-89.620783,44.946194],
+  "bbox": [
+    -89.620783,
+    44.946194,
+    -89.620783,
+    44.946194
+],
   "geometry": {"coordinates":[-89.620783,44.946194],"type":"Point"}
 }

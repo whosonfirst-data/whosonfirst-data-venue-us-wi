@@ -2,13 +2,14 @@
   "id": 185633337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.354996,45.114969,-90.354996,45.114969",
     "geom:latitude":45.114969,
     "geom:longitude":-90.354996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2251 Gibson Dr",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185633337,
-    "wof:lastmodified":1449008185,
+    "wof:lastmodified":1467089886,
     "wof:name":"James Peterson & Sons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ready"
     ]
 },
-  "bbox": [-90.354996,45.114969,-90.354996,45.114969],
+  "bbox": [
+    -90.354996,
+    45.114969,
+    -90.354996,
+    45.114969
+],
   "geometry": {"coordinates":[-90.354996,45.114969],"type":"Point"}
 }

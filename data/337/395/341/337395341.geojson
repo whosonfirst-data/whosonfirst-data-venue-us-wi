@@ -2,13 +2,14 @@
   "id": 337395341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.075785,44.579488,-88.075785,44.579488",
     "geom:latitude":44.579488,
     "geom:longitude":-88.075785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1249 Russett Ct",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337395341,
-    "wof:lastmodified":1449027627,
+    "wof:lastmodified":1467089895,
     "wof:name":"Bay Realtors",
     "wof:parent_id":85812321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.075785,44.579488,-88.075785,44.579488],
+  "bbox": [
+    -88.075785,
+    44.579488,
+    -88.075785,
+    44.579488
+],
   "geometry": {"coordinates":[-88.075785,44.579488],"type":"Point"}
 }

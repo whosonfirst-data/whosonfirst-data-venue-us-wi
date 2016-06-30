@@ -2,13 +2,14 @@
   "id": 354307133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.920736,43.411833,-88.920736,43.411833",
     "geom:latitude":43.411833,
     "geom:longitude":-88.920736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10482 Wren Rd",
     "sg:city":"Beaver Dam",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354307133,
-    "wof:lastmodified":1449066356,
+    "wof:lastmodified":1467089934,
     "wof:name":"Much Kneaded Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "massage"
     ]
 },
-  "bbox": [-88.920736,43.411833,-88.920736,43.411833],
-  "geometry": {"coordinates":[-88.920736,43.411833],"type":"Point"}
+  "bbox": [
+    -88.920736,
+    43.411833,
+    -88.920736,
+    43.411833
+],
+  "geometry": {"coordinates":[-88.92073600000001,43.411833],"type":"Point"}
 }

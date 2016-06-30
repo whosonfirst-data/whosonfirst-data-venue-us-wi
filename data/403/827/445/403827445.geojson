@@ -2,13 +2,14 @@
   "id": 403827445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.090944,44.491255,-88.090944,44.491255",
     "geom:latitude":44.491255,
     "geom:longitude":-88.090944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1381 North Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403827445,
-    "wof:lastmodified":1449055103,
+    "wof:lastmodified":1467089918,
     "wof:name":"Scray Enterprises",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "operator"
     ]
 },
-  "bbox": [-88.090944,44.491255,-88.090944,44.491255],
-  "geometry": {"coordinates":[-88.090944,44.491255],"type":"Point"}
+  "bbox": [
+    -88.090944,
+    44.491255,
+    -88.090944,
+    44.491255
+],
+  "geometry": {"coordinates":[-88.09094399999999,44.491255],"type":"Point"}
 }

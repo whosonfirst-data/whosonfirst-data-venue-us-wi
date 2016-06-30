@@ -2,13 +2,14 @@
   "id": 353563229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.313064,43.100484,-89.313064,43.100484",
     "geom:latitude":43.100484,
     "geom:longitude":-89.313064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 N Walbridge Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353563229,
-    "wof:lastmodified":1449018296,
+    "wof:lastmodified":1467089886,
     "wof:name":"Meadow Park Townhomes",
     "wof:parent_id":85878851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-89.313064,43.100484,-89.313064,43.100484],
+  "bbox": [
+    -89.313064,
+    43.100484,
+    -89.313064,
+    43.100484
+],
   "geometry": {"coordinates":[-89.313064,43.100484],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403844171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.103947,46.706001,-92.103947,46.706001",
     "geom:latitude":46.706001,
     "geom:longitude":-92.103947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2822 Tower Ave",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403844171,
-    "wof:lastmodified":1449055202,
+    "wof:lastmodified":1467089919,
     "wof:name":"National Bank Of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.103947,46.706001,-92.103947,46.706001],
-  "geometry": {"coordinates":[-92.103947,46.706001],"type":"Point"}
+  "bbox": [
+    -92.103947,
+    46.706001,
+    -92.103947,
+    46.706001
+],
+  "geometry": {"coordinates":[-92.10394700000001,46.706001],"type":"Point"}
 }

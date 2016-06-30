@@ -2,13 +2,14 @@
   "id": 354014597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.718281,44.953728,-89.718281,44.953728",
     "geom:latitude":44.953728,
     "geom:longitude":-89.718281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6245 Packer Dr",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354014597,
-    "wof:lastmodified":1449066755,
+    "wof:lastmodified":1467089935,
     "wof:name":"Alpha Computer Svc Inc",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-89.718281,44.953728,-89.718281,44.953728],
+  "bbox": [
+    -89.718281,
+    44.953728,
+    -89.718281,
+    44.953728
+],
   "geometry": {"coordinates":[-89.718281,44.953728],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337337303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.401986,43.034132,-89.401986,43.034132",
     "geom:latitude":43.034132,
     "geom:longitude":-89.401986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"995 Applegate Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337337303,
-    "wof:lastmodified":1449027330,
+    "wof:lastmodified":1467089894,
     "wof:name":"J C Mortgage Corp",
     "wof:parent_id":85878883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-89.401986,43.034132,-89.401986,43.034132],
-  "geometry": {"coordinates":[-89.401986,43.034132],"type":"Point"}
+  "bbox": [
+    -89.401986,
+    43.034132,
+    -89.401986,
+    43.034132
+],
+  "geometry": {"coordinates":[-89.40198599999999,43.034132],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387926635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.937689,43.116551,-87.937689,43.116551",
     "geom:latitude":43.116551,
     "geom:longitude":-87.937689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2127 W Neil Pl",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387926635,
-    "wof:lastmodified":1449057426,
+    "wof:lastmodified":1467089925,
     "wof:name":"Carolynes Bookkeeping Service",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.937689,43.116551,-87.937689,43.116551],
-  "geometry": {"coordinates":[-87.937689,43.116551],"type":"Point"}
+  "bbox": [
+    -87.937689,
+    43.116551,
+    -87.937689,
+    43.116551
+],
+  "geometry": {"coordinates":[-87.93768900000001,43.116551],"type":"Point"}
 }

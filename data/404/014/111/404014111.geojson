@@ -2,13 +2,14 @@
   "id": 404014111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.006456,43.050357,-88.006456,43.050357",
     "geom:latitude":43.050357,
     "geom:longitude":-88.006456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7425 Harwood Ave",
     "sg:city":"Wauwatosa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404014111,
-    "wof:lastmodified":1449039629,
+    "wof:lastmodified":1467089910,
     "wof:name":"Anew Driving School",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "driving"
     ]
 },
-  "bbox": [-88.006456,43.050357,-88.006456,43.050357],
+  "bbox": [
+    -88.006456,
+    43.050357,
+    -88.006456,
+    43.050357
+],
   "geometry": {"coordinates":[-88.006456,43.050357],"type":"Point"}
 }

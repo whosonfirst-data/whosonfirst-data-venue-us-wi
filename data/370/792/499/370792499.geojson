@@ -2,13 +2,14 @@
   "id": 370792499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.851396,42.594063,-87.851396,42.594063",
     "geom:latitude":42.594063,
     "geom:longitude":-87.851396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4624 35th Ave",
     "sg:city":"Kenosha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370792499,
-    "wof:lastmodified":1449029818,
+    "wof:lastmodified":1467089900,
     "wof:name":"Duanna's Little Rascals",
     "wof:parent_id":85810813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.851396,42.594063,-87.851396,42.594063],
-  "geometry": {"coordinates":[-87.851396,42.594063],"type":"Point"}
+  "bbox": [
+    -87.851396,
+    42.594063,
+    -87.851396,
+    42.594063
+],
+  "geometry": {"coordinates":[-87.85139599999999,42.594063],"type":"Point"}
 }

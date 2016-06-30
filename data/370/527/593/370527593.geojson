@@ -2,13 +2,14 @@
   "id": 370527593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.004275,43.545667,-89.004275,43.545667",
     "geom:latitude":43.545667,
     "geom:longitude":-89.004275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 E Cambria St",
     "sg:city":"Randolph",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370527593,
-    "wof:lastmodified":1449031786,
+    "wof:lastmodified":1467089905,
     "wof:name":"Faith Christian School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.004275,43.545667,-89.004275,43.545667],
-  "geometry": {"coordinates":[-89.004275,43.545667],"type":"Point"}
+  "bbox": [
+    -89.004275,
+    43.545667,
+    -89.004275,
+    43.545667
+],
+  "geometry": {"coordinates":[-89.00427500000001,43.545667],"type":"Point"}
 }

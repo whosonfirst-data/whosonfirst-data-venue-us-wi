@@ -2,13 +2,14 @@
   "id": 404014867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.012359,43.089803,-88.012359,43.089803",
     "geom:latitude":43.089803,
     "geom:longitude":-88.012359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7903 W Capitol Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404014867,
-    "wof:lastmodified":1449039626,
+    "wof:lastmodified":1467089910,
     "wof:name":"Highest Praise Records",
     "wof:parent_id":85870997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.012359,43.089803,-88.012359,43.089803],
+  "bbox": [
+    -88.012359,
+    43.089803,
+    -88.012359,
+    43.089803
+],
   "geometry": {"coordinates":[-88.012359,43.089803],"type":"Point"}
 }

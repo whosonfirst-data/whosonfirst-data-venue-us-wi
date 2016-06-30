@@ -2,13 +2,14 @@
   "id": 387302305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.75213,42.834749,-88.75213,42.834749",
     "geom:latitude":42.834749,
     "geom:longitude":-88.75213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1173 W Main St",
     "sg:city":"Whitewater",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387302305,
-    "wof:lastmodified":1449057380,
+    "wof:lastmodified":1467089925,
     "wof:name":"ARO Counseling Ctr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-88.75213,42.834749,-88.75213,42.834749],
-  "geometry": {"coordinates":[-88.75213,42.834749],"type":"Point"}
+  "bbox": [
+    -88.75213,
+    42.834749,
+    -88.75213,
+    42.834749
+],
+  "geometry": {"coordinates":[-88.75212999999999,42.834749],"type":"Point"}
 }

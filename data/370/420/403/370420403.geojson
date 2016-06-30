@@ -2,13 +2,14 @@
   "id": 370420403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.251883,45.913987,-89.251883,45.913987",
     "geom:latitude":45.913987,
     "geom:longitude":-89.251883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 W Pine St",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370420403,
-    "wof:lastmodified":1449030714,
+    "wof:lastmodified":1467089902,
     "wof:name":"Oil Depot Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-89.251883,45.913987,-89.251883,45.913987],
-  "geometry": {"coordinates":[-89.251883,45.913987],"type":"Point"}
+  "bbox": [
+    -89.251883,
+    45.913987,
+    -89.251883,
+    45.913987
+],
+  "geometry": {"coordinates":[-89.25188300000001,45.913987],"type":"Point"}
 }

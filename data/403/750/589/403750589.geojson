@@ -2,13 +2,14 @@
   "id": 403750589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.588299,43.013085,-88.588299,43.013085",
     "geom:latitude":43.013085,
     "geom:longitude":-88.588299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Madison Ave",
     "sg:city":"Sullivan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403750589,
-    "wof:lastmodified":1449055465,
+    "wof:lastmodified":1467089919,
     "wof:name":"Gaugert Automotive Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-88.588299,43.013085,-88.588299,43.013085],
-  "geometry": {"coordinates":[-88.588299,43.013085],"type":"Point"}
+  "bbox": [
+    -88.588299,
+    43.013085,
+    -88.588299,
+    43.013085
+],
+  "geometry": {"coordinates":[-88.58829900000001,43.013085],"type":"Point"}
 }

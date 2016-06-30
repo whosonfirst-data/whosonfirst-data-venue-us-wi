@@ -2,13 +2,14 @@
   "id": 337290851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.024807,43.002706,-88.024807,43.002706",
     "geom:latitude":43.002706,
     "geom:longitude":-88.024807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8901 W Lincoln Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337290851,
-    "wof:lastmodified":1449027287,
+    "wof:lastmodified":1467089894,
     "wof:name":"A Cl Inc",
     "wof:parent_id":85870861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-88.024807,43.002706,-88.024807,43.002706],
+  "bbox": [
+    -88.024807,
+    43.002706,
+    -88.024807,
+    43.002706
+],
   "geometry": {"coordinates":[-88.024807,43.002706],"type":"Point"}
 }

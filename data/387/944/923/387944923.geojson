@@ -2,13 +2,14 @@
   "id": 387944923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.850568,44.817413,-91.850568,44.817413",
     "geom:latitude":44.817413,
     "geom:longitude":-91.850568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6162 Co Rd J",
     "sg:city":"Menomonie",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387944923,
-    "wof:lastmodified":1449058013,
+    "wof:lastmodified":1467089926,
     "wof:name":"William Miller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-91.850568,44.817413,-91.850568,44.817413],
+  "bbox": [
+    -91.850568,
+    44.817413,
+    -91.850568,
+    44.817413
+],
   "geometry": {"coordinates":[-91.850568,44.817413],"type":"Point"}
 }

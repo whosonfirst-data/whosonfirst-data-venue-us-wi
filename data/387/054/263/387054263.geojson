@@ -2,13 +2,14 @@
   "id": 387054263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.446009,44.266282,-88.446009,44.266282",
     "geom:latitude":44.266282,
     "geom:longitude":-88.446009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 N Lynndale Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387054263,
-    "wof:lastmodified":1449057897,
+    "wof:lastmodified":1467089926,
     "wof:name":"M S Materials",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-88.446009,44.266282,-88.446009,44.266282],
+  "bbox": [
+    -88.446009,
+    44.266282,
+    -88.446009,
+    44.266282
+],
   "geometry": {"coordinates":[-88.446009,44.266282],"type":"Point"}
 }

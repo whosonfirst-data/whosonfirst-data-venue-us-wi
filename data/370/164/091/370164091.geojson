@@ -2,13 +2,14 @@
   "id": 370164091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.022481,43.177804,-88.022481,43.177804",
     "geom:latitude":43.177804,
     "geom:longitude":-88.022481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8634 W Brown Deer Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370164091,
-    "wof:lastmodified":1449029488,
+    "wof:lastmodified":1467089899,
     "wof:name":"Resurrection Christian Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.022481,43.177804,-88.022481,43.177804],
+  "bbox": [
+    -88.022481,
+    43.177804,
+    -88.022481,
+    43.177804
+],
   "geometry": {"coordinates":[-88.022481,43.177804],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387503439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.427834,43.786721,-88.427834,43.786721",
     "geom:latitude":43.786721,
     "geom:longitude":-88.427834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"289 Weis Ave",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387503439,
-    "wof:lastmodified":1449059930,
+    "wof:lastmodified":1467089933,
     "wof:name":"CBC Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.427834,43.786721,-88.427834,43.786721],
+  "bbox": [
+    -88.427834,
+    43.786721,
+    -88.427834,
+    43.786721
+],
   "geometry": {"coordinates":[-88.427834,43.786721],"type":"Point"}
 }

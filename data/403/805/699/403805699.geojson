@@ -2,13 +2,14 @@
   "id": 403805699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.006826,43.103392,-88.006826,43.103392",
     "geom:latitude":43.103392,
     "geom:longitude":-88.006826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4780 N 76th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403805699,
-    "wof:lastmodified":1449055079,
+    "wof:lastmodified":1467089918,
     "wof:name":"Speedway 4153",
     "wof:parent_id":85870869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-88.006826,43.103392,-88.006826,43.103392],
+  "bbox": [
+    -88.006826,
+    43.103392,
+    -88.006826,
+    43.103392
+],
   "geometry": {"coordinates":[-88.006826,43.103392],"type":"Point"}
 }

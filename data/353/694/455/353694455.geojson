@@ -2,13 +2,14 @@
   "id": 353694455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.599241,42.510533,-88.599241,42.510533",
     "geom:latitude":42.510533,
     "geom:longitude":-88.599241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"758 US Hwy 14",
     "sg:city":"Walworth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353694455,
-    "wof:lastmodified":1449018985,
+    "wof:lastmodified":1467089888,
     "wof:name":"Waggin' Tails",
     "wof:parent_id":85814169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-88.599241,42.510533,-88.599241,42.510533],
-  "geometry": {"coordinates":[-88.599241,42.510533],"type":"Point"}
+  "bbox": [
+    -88.599241,
+    42.510533,
+    -88.599241,
+    42.510533
+],
+  "geometry": {"coordinates":[-88.59924100000001,42.510533],"type":"Point"}
 }

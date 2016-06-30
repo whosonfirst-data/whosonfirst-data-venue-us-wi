@@ -2,13 +2,14 @@
   "id": 403986075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.099305,43.053107,-88.099305,43.053107",
     "geom:latitude":43.053107,
     "geom:longitude":-88.099305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15025 Gebhardt Rd",
     "sg:city":"Elm Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403986075,
-    "wof:lastmodified":1449055702,
+    "wof:lastmodified":1467089920,
     "wof:name":"Anderson Vrginia D Intr Design",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [-88.099305,43.053107,-88.099305,43.053107],
+  "bbox": [
+    -88.099305,
+    43.053107,
+    -88.099305,
+    43.053107
+],
   "geometry": {"coordinates":[-88.099305,43.053107],"type":"Point"}
 }

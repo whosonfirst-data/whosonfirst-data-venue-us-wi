@@ -2,13 +2,14 @@
   "id": 371143871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.192448,43.409812,-88.192448,43.409812",
     "geom:latitude":43.409812,
     "geom:longitude":-88.192448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 S Silverbrook Dr",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371143871,
-    "wof:lastmodified":1449049938,
+    "wof:lastmodified":1467089914,
     "wof:name":"Trailmaster Overseas Mktg",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-88.192448,43.409812,-88.192448,43.409812],
+  "bbox": [
+    -88.192448,
+    43.409812,
+    -88.192448,
+    43.409812
+],
   "geometry": {"coordinates":[-88.192448,43.409812],"type":"Point"}
 }

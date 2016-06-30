@@ -2,13 +2,14 @@
   "id": 403864421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.448064,43.050531,-89.448064,43.050531",
     "geom:latitude":43.050531,
     "geom:longitude":-89.448064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4307 Odana Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":403864421,
-    "wof:lastmodified":1449055983,
+    "wof:lastmodified":1467089921,
     "wof:name":"M Z Buttonz Etc",
     "wof:parent_id":85878833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-89.448064,43.050531,-89.448064,43.050531],
+  "bbox": [
+    -89.448064,
+    43.050531,
+    -89.448064,
+    43.050531
+],
   "geometry": {"coordinates":[-89.448064,43.050531],"type":"Point"}
 }

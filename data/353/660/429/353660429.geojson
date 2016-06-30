@@ -2,13 +2,14 @@
   "id": 353660429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.996897,43.094314,-87.996897,43.094314",
     "geom:latitude":43.094314,
     "geom:longitude":-87.996897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4260 N 68th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353660429,
-    "wof:lastmodified":1449020544,
+    "wof:lastmodified":1467089891,
     "wof:name":"Financial Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "financial"
     ]
 },
-  "bbox": [-87.996897,43.094314,-87.996897,43.094314],
+  "bbox": [
+    -87.996897,
+    43.094314,
+    -87.996897,
+    43.094314
+],
   "geometry": {"coordinates":[-87.996897,43.094314],"type":"Point"}
 }

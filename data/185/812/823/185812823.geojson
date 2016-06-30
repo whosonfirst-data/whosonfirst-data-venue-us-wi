@@ -2,13 +2,14 @@
   "id": 185812823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.524843,44.110271,-88.524843,44.110271",
     "geom:latitude":44.110271,
     "geom:longitude":-88.524843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5821 Green Valley Rd",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185812823,
-    "wof:lastmodified":1449006631,
+    "wof:lastmodified":1467089883,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85827909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leasing"
     ]
 },
-  "bbox": [-88.524843,44.110271,-88.524843,44.110271],
+  "bbox": [
+    -88.524843,
+    44.110271,
+    -88.524843,
+    44.110271
+],
   "geometry": {"coordinates":[-88.524843,44.110271],"type":"Point"}
 }

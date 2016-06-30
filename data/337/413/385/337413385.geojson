@@ -2,13 +2,14 @@
   "id": 337413385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.350699,43.112536,-88.350699,43.112536",
     "geom:latitude":43.112536,
     "geom:longitude":-88.350699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Willow Ct",
     "sg:city":"Hartland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337413385,
-    "wof:lastmodified":1449027053,
+    "wof:lastmodified":1467089893,
     "wof:name":"Gruba Appraisal Svc",
     "wof:parent_id":85808383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-88.350699,43.112536,-88.350699,43.112536],
-  "geometry": {"coordinates":[-88.350699,43.112536],"type":"Point"}
+  "bbox": [
+    -88.350699,
+    43.112536,
+    -88.350699,
+    43.112536
+],
+  "geometry": {"coordinates":[-88.35069900000001,43.112536],"type":"Point"}
 }

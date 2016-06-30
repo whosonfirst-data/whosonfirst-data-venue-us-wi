@@ -2,13 +2,14 @@
   "id": 185819669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.937518,43.043304,-87.937518,43.043304",
     "geom:latitude":43.043304,
     "geom:longitude":-87.937518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1928 W State St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185819669,
-    "wof:lastmodified":1449006989,
+    "wof:lastmodified":1467089884,
     "wof:name":"A-1 Auto Glass",
     "wof:parent_id":85870977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-87.937518,43.043304,-87.937518,43.043304],
+  "bbox": [
+    -87.937518,
+    43.043304,
+    -87.937518,
+    43.043304
+],
   "geometry": {"coordinates":[-87.937518,43.043304],"type":"Point"}
 }

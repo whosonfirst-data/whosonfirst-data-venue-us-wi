@@ -2,13 +2,14 @@
   "id": 387925627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.047227,42.704717,-88.047227,42.704717",
     "geom:latitude":42.704717,
     "geom:longitude":-88.047227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19120 Spring St",
     "sg:city":"Union Grove",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387925627,
-    "wof:lastmodified":1449056146,
+    "wof:lastmodified":1467089921,
     "wof:name":"Belle City Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.047227,42.704717,-88.047227,42.704717],
-  "geometry": {"coordinates":[-88.047227,42.704717],"type":"Point"}
+  "bbox": [
+    -88.047227,
+    42.704717,
+    -88.047227,
+    42.704717
+],
+  "geometry": {"coordinates":[-88.04722700000001,42.704717],"type":"Point"}
 }

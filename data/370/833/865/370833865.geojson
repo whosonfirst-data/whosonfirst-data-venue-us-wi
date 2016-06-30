@@ -2,13 +2,14 @@
   "id": 370833865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.537658,44.02907,-88.537658,44.02907",
     "geom:latitude":44.02907,
     "geom:longitude":-88.537658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"939 N Main St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370833865,
-    "wof:lastmodified":1449029529,
+    "wof:lastmodified":1467089899,
     "wof:name":"Tan Lines",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-88.537658,44.02907,-88.537658,44.02907],
-  "geometry": {"coordinates":[-88.537658,44.02907],"type":"Point"}
+  "bbox": [
+    -88.537658,
+    44.02907,
+    -88.537658,
+    44.02907
+],
+  "geometry": {"coordinates":[-88.53765799999999,44.02907],"type":"Point"}
 }

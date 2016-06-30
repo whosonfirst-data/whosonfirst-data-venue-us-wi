@@ -2,13 +2,14 @@
   "id": 354067451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.037049,43.143624,-88.037049,43.143624",
     "geom:latitude":43.143624,
     "geom:longitude":-88.037049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6949 N 100th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354067451,
-    "wof:lastmodified":1449066044,
+    "wof:lastmodified":1467089933,
     "wof:name":"Metropolitan Milwaukee Chapter",
     "wof:parent_id":85870813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.037049,43.143624,-88.037049,43.143624],
+  "bbox": [
+    -88.037049,
+    43.143624,
+    -88.037049,
+    43.143624
+],
   "geometry": {"coordinates":[-88.037049,43.143624],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370385905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.75905,43.293034,-89.75905,43.293034",
     "geom:latitude":43.293034,
     "geom:longitude":-89.75905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11340 Co Rd Pf",
     "sg:city":"Prairie Du Sac",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370385905,
-    "wof:lastmodified":1449031087,
+    "wof:lastmodified":1467089903,
     "wof:name":"Sauk Prairie Small Animal Hosp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "animal"
     ]
 },
-  "bbox": [-89.75905,43.293034,-89.75905,43.293034],
+  "bbox": [
+    -89.75905,
+    43.293034,
+    -89.75905,
+    43.293034
+],
   "geometry": {"coordinates":[-89.75905,43.293034],"type":"Point"}
 }

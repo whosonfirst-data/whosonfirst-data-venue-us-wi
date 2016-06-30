@@ -2,13 +2,14 @@
   "id": 387968237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.863783,42.864381,-87.863783,42.864381",
     "geom:latitude":42.864381,
     "geom:longitude":-87.863783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3566 E Fitzsimmons Rd",
     "sg:city":"Oak Creek",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387968237,
-    "wof:lastmodified":1449056350,
+    "wof:lastmodified":1467089922,
     "wof:name":"Tent-A-Pen",
     "wof:parent_id":85809659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.863783,42.864381,-87.863783,42.864381],
+  "bbox": [
+    -87.863783,
+    42.864381,
+    -87.863783,
+    42.864381
+],
   "geometry": {"coordinates":[-87.863783,42.864381],"type":"Point"}
 }

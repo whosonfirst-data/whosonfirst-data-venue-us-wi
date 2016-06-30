@@ -2,13 +2,14 @@
   "id": 353826073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.104689,43.089771,-88.104689,43.089771",
     "geom:latitude":43.089771,
     "geom:longitude":-88.104689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14685 W Capitol Dr",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353826073,
-    "wof:lastmodified":1449020091,
+    "wof:lastmodified":1467089890,
     "wof:name":"Eddie Z's Blinds & Drapery",
     "wof:parent_id":85832419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drapery"
     ]
 },
-  "bbox": [-88.104689,43.089771,-88.104689,43.089771],
-  "geometry": {"coordinates":[-88.104689,43.089771],"type":"Point"}
+  "bbox": [
+    -88.104689,
+    43.089771,
+    -88.104689,
+    43.089771
+],
+  "geometry": {"coordinates":[-88.10468899999999,43.089771],"type":"Point"}
 }

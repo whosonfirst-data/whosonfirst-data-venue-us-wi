@@ -2,13 +2,14 @@
   "id": 387096279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.90717,43.103319,-87.90717,43.103319",
     "geom:latitude":43.103319,
     "geom:longitude":-87.90717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4771 N Santa Monica Blvd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387096279,
-    "wof:lastmodified":1449057330,
+    "wof:lastmodified":1467089925,
     "wof:name":"Morning Star Mortgage",
     "wof:parent_id":85870875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-87.90717,43.103319,-87.90717,43.103319],
-  "geometry": {"coordinates":[-87.90717,43.103319],"type":"Point"}
+  "bbox": [
+    -87.90717,
+    43.103319,
+    -87.90717,
+    43.103319
+],
+  "geometry": {"coordinates":[-87.90716999999999,43.103319],"type":"Point"}
 }

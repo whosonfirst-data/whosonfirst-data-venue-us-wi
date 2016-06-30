@@ -2,13 +2,14 @@
   "id": 403909567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.659121,44.586908,-90.659121,44.586908",
     "geom:latitude":44.586908,
     "geom:longitude":-90.659121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4587 Co Rd G",
     "sg:city":"Neillsville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403909567,
-    "wof:lastmodified":1449055628,
+    "wof:lastmodified":1467089920,
     "wof:name":"Michael Poziombke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.659121,44.586908,-90.659121,44.586908],
+  "bbox": [
+    -90.659121,
+    44.586908,
+    -90.659121,
+    44.586908
+],
   "geometry": {"coordinates":[-90.659121,44.586908],"type":"Point"}
 }

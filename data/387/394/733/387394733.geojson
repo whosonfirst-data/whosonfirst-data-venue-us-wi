@@ -2,13 +2,14 @@
   "id": 387394733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.928702,42.989286,-87.928702,42.989286",
     "geom:latitude":42.989286,
     "geom:longitude":-87.928702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3054 S 13th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387394733,
-    "wof:lastmodified":1449056837,
+    "wof:lastmodified":1467089923,
     "wof:name":"Jayne's Hair Care",
     "wof:parent_id":85870849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.928702,42.989286,-87.928702,42.989286],
+  "bbox": [
+    -87.928702,
+    42.989286,
+    -87.928702,
+    42.989286
+],
   "geometry": {"coordinates":[-87.928702,42.989286],"type":"Point"}
 }

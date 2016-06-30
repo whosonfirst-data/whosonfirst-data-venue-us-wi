@@ -2,13 +2,14 @@
   "id": 403822947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.393114,43.075174,-89.393114,43.075174",
     "geom:latitude":43.075174,
     "geom:longitude":-89.393114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"254 W Gilman St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":403822947,
-    "wof:lastmodified":1449055911,
+    "wof:lastmodified":1467089921,
     "wof:name":"Ear Wax",
     "wof:parent_id":85878887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "tape"
     ]
 },
-  "bbox": [-89.393114,43.075174,-89.393114,43.075174],
+  "bbox": [
+    -89.393114,
+    43.075174,
+    -89.393114,
+    43.075174
+],
   "geometry": {"coordinates":[-89.393114,43.075174],"type":"Point"}
 }

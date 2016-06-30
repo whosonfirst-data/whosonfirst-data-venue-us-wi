@@ -2,13 +2,14 @@
   "id": 186360163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.976196,43.749694,-87.976196,43.749694",
     "geom:latitude":43.749694,
     "geom:longitude":-87.976196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Division St",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186360163,
-    "wof:lastmodified":1449052392,
+    "wof:lastmodified":1467089916,
     "wof:name":"Haucke Plumbing & Heating Inc",
     "wof:parent_id":85836705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.976196,43.749694,-87.976196,43.749694],
+  "bbox": [
+    -87.976196,
+    43.749694,
+    -87.976196,
+    43.749694
+],
   "geometry": {"coordinates":[-87.976196,43.749694],"type":"Point"}
 }

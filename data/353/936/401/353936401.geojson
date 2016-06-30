@@ -2,13 +2,14 @@
   "id": 353936401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.44676,42.82149,-90.44676,42.82149",
     "geom:latitude":42.82149,
     "geom:longitude":-90.44676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8717 Mocking Bird Rd",
     "sg:city":"Platteville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353936401,
-    "wof:lastmodified":1449019113,
+    "wof:lastmodified":1467089888,
     "wof:name":"Acorn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "house"
     ]
 },
-  "bbox": [-90.44676,42.82149,-90.44676,42.82149],
+  "bbox": [
+    -90.44676,
+    42.82149,
+    -90.44676,
+    42.82149
+],
   "geometry": {"coordinates":[-90.44676,42.82149],"type":"Point"}
 }

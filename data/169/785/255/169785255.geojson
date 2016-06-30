@@ -2,13 +2,14 @@
   "id": 169785255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.547425,46.302252,-91.547425,46.302252",
     "geom:latitude":46.302252,
     "geom:longitude":-91.547425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1180 Lake Rd",
     "sg:city":"Solon Springs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169785255,
-    "wof:lastmodified":1449035398,
+    "wof:lastmodified":1467089909,
     "wof:name":"Pj S Cabin Store Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.547425,46.302252,-91.547425,46.302252],
+  "bbox": [
+    -91.547425,
+    46.302252,
+    -91.547425,
+    46.302252
+],
   "geometry": {"coordinates":[-91.547425,46.302252],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370640975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.272264,43.084195,-89.272264,43.084195",
     "geom:latitude":43.084195,
     "geom:longitude":-89.272264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Fredericksburg Ct",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370640975,
-    "wof:lastmodified":1449030562,
+    "wof:lastmodified":1467089901,
     "wof:name":"Cedar Mfg - Mch & Design",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "custom"
     ]
 },
-  "bbox": [-89.272264,43.084195,-89.272264,43.084195],
-  "geometry": {"coordinates":[-89.272264,43.084195],"type":"Point"}
+  "bbox": [
+    -89.272264,
+    43.084195,
+    -89.272264,
+    43.084195
+],
+  "geometry": {"coordinates":[-89.27226400000001,43.084195],"type":"Point"}
 }

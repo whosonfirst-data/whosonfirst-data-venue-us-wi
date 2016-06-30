@@ -2,13 +2,14 @@
   "id": 371056415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.469443,44.234007,-88.469443,44.234007",
     "geom:latitude":44.234007,
     "geom:longitude":-88.469443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 American Dr",
     "sg:city":"Neenah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371056415,
-    "wof:lastmodified":1449049299,
+    "wof:lastmodified":1467089912,
     "wof:name":"Acoustical Ceilings-Appleton",
     "wof:parent_id":85807543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.469443,44.234007,-88.469443,44.234007],
+  "bbox": [
+    -88.469443,
+    44.234007,
+    -88.469443,
+    44.234007
+],
   "geometry": {"coordinates":[-88.469443,44.234007],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186171523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.008549,44.033379,-88.008549,44.033379",
     "geom:latitude":44.033379,
     "geom:longitude":-88.008549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22428 Groh Rd",
     "sg:city":"Chilton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186171523,
-    "wof:lastmodified":1449053041,
+    "wof:lastmodified":1467089917,
     "wof:name":"Linzmeier David A/Debra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.008549,44.033379,-88.008549,44.033379],
+  "bbox": [
+    -88.008549,
+    44.033379,
+    -88.008549,
+    44.033379
+],
   "geometry": {"coordinates":[-88.008549,44.033379],"type":"Point"}
 }

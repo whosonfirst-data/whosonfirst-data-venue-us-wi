@@ -2,13 +2,14 @@
   "id": 404182915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.542412,43.981846,-88.542412,43.981846",
     "geom:latitude":43.981846,
     "geom:longitude":-88.542412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3042 Oregon St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404182915,
-    "wof:lastmodified":1449039891,
+    "wof:lastmodified":1467089911,
     "wof:name":"Oshkosh Truck Corp",
     "wof:parent_id":85851167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-88.542412,43.981846,-88.542412,43.981846],
+  "bbox": [
+    -88.542412,
+    43.981846,
+    -88.542412,
+    43.981846
+],
   "geometry": {"coordinates":[-88.542412,43.981846],"type":"Point"}
 }

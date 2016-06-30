@@ -2,13 +2,14 @@
   "id": 371086693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.307617,43.212061,-89.307617,43.212061",
     "geom:latitude":43.212061,
     "geom:longitude":-89.307617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6643 Forest Park Dr",
     "sg:city":"De Forest",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371086693,
-    "wof:lastmodified":1449049759,
+    "wof:lastmodified":1467089913,
     "wof:name":"Dean Associates",
     "wof:parent_id":85852311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "metal"
     ]
 },
-  "bbox": [-89.307617,43.212061,-89.307617,43.212061],
-  "geometry": {"coordinates":[-89.307617,43.212061],"type":"Point"}
+  "bbox": [
+    -89.307617,
+    43.212061,
+    -89.307617,
+    43.212061
+],
+  "geometry": {"coordinates":[-89.30761699999999,43.212061],"type":"Point"}
 }

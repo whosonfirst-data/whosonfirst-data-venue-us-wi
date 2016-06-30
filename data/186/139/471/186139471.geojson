@@ -2,13 +2,14 @@
   "id": 186139471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.740958,44.79416,-92.740958,44.79416",
     "geom:latitude":44.79416,
     "geom:longitude":-92.740958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12096 Co Rd Mm",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186139471,
-    "wof:lastmodified":1449050492,
+    "wof:lastmodified":1467089914,
     "wof:name":"Champlin Accounting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "return"
     ]
 },
-  "bbox": [-92.740958,44.79416,-92.740958,44.79416],
-  "geometry": {"coordinates":[-92.740958,44.79416],"type":"Point"}
+  "bbox": [
+    -92.740958,
+    44.79416,
+    -92.740958,
+    44.79416
+],
+  "geometry": {"coordinates":[-92.74095800000001,44.79416],"type":"Point"}
 }

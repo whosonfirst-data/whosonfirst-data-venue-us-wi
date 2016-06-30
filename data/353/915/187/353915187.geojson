@@ -2,13 +2,14 @@
   "id": 353915187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.986604,44.53365,-87.986604,44.53365",
     "geom:latitude":44.53365,
     "geom:longitude":-87.986604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Lakeside Pl",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353915187,
-    "wof:lastmodified":1449020753,
+    "wof:lastmodified":1467089892,
     "wof:name":"Russo Roofing",
     "wof:parent_id":85877949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.986604,44.53365,-87.986604,44.53365],
+  "bbox": [
+    -87.986604,
+    44.53365,
+    -87.986604,
+    44.53365
+],
   "geometry": {"coordinates":[-87.986604,44.53365],"type":"Point"}
 }

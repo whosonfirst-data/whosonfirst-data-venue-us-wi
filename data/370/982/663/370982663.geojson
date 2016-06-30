@@ -2,13 +2,14 @@
   "id": 370982663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.980502,43.099201,-87.980502,43.099201",
     "geom:latitude":43.099201,
     "geom:longitude":-87.980502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4418 N 54th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370982663,
-    "wof:lastmodified":1449029665,
+    "wof:lastmodified":1467089899,
     "wof:name":"Flawless Metals Inc",
     "wof:parent_id":85870959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.980502,43.099201,-87.980502,43.099201],
+  "bbox": [
+    -87.980502,
+    43.099201,
+    -87.980502,
+    43.099201
+],
   "geometry": {"coordinates":[-87.980502,43.099201],"type":"Point"}
 }

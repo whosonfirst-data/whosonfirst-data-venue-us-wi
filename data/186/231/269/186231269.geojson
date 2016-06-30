@@ -2,13 +2,14 @@
   "id": 186231269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.836408,45.761072,-89.836408,45.761072",
     "geom:latitude":45.761072,
     "geom:longitude":-89.836408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6051 Cedar Falls Rd",
     "sg:city":"Hazelhurst",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186231269,
-    "wof:lastmodified":1449051739,
+    "wof:lastmodified":1467089916,
     "wof:name":"Cedar Falls Camp Ground",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.836408,45.761072,-89.836408,45.761072],
-  "geometry": {"coordinates":[-89.836408,45.761072],"type":"Point"}
+  "bbox": [
+    -89.836408,
+    45.761072,
+    -89.836408,
+    45.761072
+],
+  "geometry": {"coordinates":[-89.83640800000001,45.761072],"type":"Point"}
 }

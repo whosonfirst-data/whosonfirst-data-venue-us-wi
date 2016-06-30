@@ -2,13 +2,14 @@
   "id": 387304581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.261978,43.081963,-88.261978,43.081963",
     "geom:latitude":43.081963,
     "geom:longitude":-88.261978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 E Wisconsin Ave",
     "sg:city":"Pewaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387304581,
-    "wof:lastmodified":1449058939,
+    "wof:lastmodified":1467089930,
     "wof:name":"First Command Financial Plan",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-88.261978,43.081963,-88.261978,43.081963],
+  "bbox": [
+    -88.261978,
+    43.081963,
+    -88.261978,
+    43.081963
+],
   "geometry": {"coordinates":[-88.261978,43.081963],"type":"Point"}
 }

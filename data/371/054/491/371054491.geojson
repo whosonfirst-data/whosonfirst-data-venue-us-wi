@@ -2,13 +2,14 @@
   "id": 371054491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.930794,42.91747,-87.930794,42.91747",
     "geom:latitude":42.91747,
     "geom:longitude":-87.930794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7071 S 13th St",
     "sg:city":"Oak Creek",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":371054491,
-    "wof:lastmodified":1449049494,
+    "wof:lastmodified":1467089913,
     "wof:name":"Mortgage Options",
     "wof:parent_id":85870933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "real estate"
     ]
 },
-  "bbox": [-87.930794,42.91747,-87.930794,42.91747],
-  "geometry": {"coordinates":[-87.930794,42.91747],"type":"Point"}
+  "bbox": [
+    -87.930794,
+    42.91747,
+    -87.930794,
+    42.91747
+],
+  "geometry": {"coordinates":[-87.93079400000001,42.91747],"type":"Point"}
 }

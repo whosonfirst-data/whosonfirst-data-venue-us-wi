@@ -2,13 +2,14 @@
   "id": 354299403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.455081,43.071305,-89.455081,43.071305",
     "geom:latitude":43.071305,
     "geom:longitude":-89.455081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 N Segoe Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354299403,
-    "wof:lastmodified":1449066347,
+    "wof:lastmodified":1467089934,
     "wof:name":"Dane Net",
     "wof:parent_id":85868277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-89.455081,43.071305,-89.455081,43.071305],
-  "geometry": {"coordinates":[-89.455081,43.071305],"type":"Point"}
+  "bbox": [
+    -89.455081,
+    43.071305,
+    -89.455081,
+    43.071305
+],
+  "geometry": {"coordinates":[-89.45508100000001,43.071305],"type":"Point"}
 }

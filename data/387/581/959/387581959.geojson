@@ -2,13 +2,14 @@
   "id": 387581959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.114742,43.032829,-88.114742,43.032829",
     "geom:latitude":43.032829,
     "geom:longitude":-88.114742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Executive Dr",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387581959,
-    "wof:lastmodified":1449056907,
+    "wof:lastmodified":1467089923,
     "wof:name":"HRG Tech Group",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-88.114742,43.032829,-88.114742,43.032829],
-  "geometry": {"coordinates":[-88.114742,43.032829],"type":"Point"}
+  "bbox": [
+    -88.114742,
+    43.032829,
+    -88.114742,
+    43.032829
+],
+  "geometry": {"coordinates":[-88.11474200000001,43.032829],"type":"Point"}
 }

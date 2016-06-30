@@ -2,13 +2,14 @@
   "id": 387031217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.866771,42.719993,-87.866771,42.719993",
     "geom:latitude":42.719993,
     "geom:longitude":-87.866771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1158 Prairie Dr",
     "sg:city":"Racine",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387031217,
-    "wof:lastmodified":1449057516,
+    "wof:lastmodified":1467089925,
     "wof:name":"Country Kitchen",
     "wof:parent_id":85854859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.866771,42.719993,-87.866771,42.719993],
+  "bbox": [
+    -87.866771,
+    42.719993,
+    -87.866771,
+    42.719993
+],
   "geometry": {"coordinates":[-87.866771,42.719993],"type":"Point"}
 }

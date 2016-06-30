@@ -2,13 +2,14 @@
   "id": 371101939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.060012,43.059935,-88.060012,43.059935",
     "geom:latitude":43.059935,
     "geom:longitude":-88.060012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11717 W North Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":371101939,
-    "wof:lastmodified":1449049588,
+    "wof:lastmodified":1467089913,
     "wof:name":"Homesale Realty",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.060012,43.059935,-88.060012,43.059935],
+  "bbox": [
+    -88.060012,
+    43.059935,
+    -88.060012,
+    43.059935
+],
   "geometry": {"coordinates":[-88.060012,43.059935],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185652925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.31677,44.370024,-91.31677,44.370024",
     "geom:latitude":44.370024,
     "geom:longitude":-91.31677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36435 Main St",
     "sg:city":"Whitehall",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185652925,
-    "wof:lastmodified":1449007635,
+    "wof:lastmodified":1467089885,
     "wof:name":"Whitehall Times Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-91.31677,44.370024,-91.31677,44.370024],
-  "geometry": {"coordinates":[-91.31677,44.370024],"type":"Point"}
+  "bbox": [
+    -91.31677,
+    44.370024,
+    -91.31677,
+    44.370024
+],
+  "geometry": {"coordinates":[-91.31677000000001,44.370024],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387027393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.497473,43.077433,-89.497473,43.077433",
     "geom:latitude":43.077433,
     "geom:longitude":-89.497473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6737 Harvest Hill Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387027393,
-    "wof:lastmodified":1449056809,
+    "wof:lastmodified":1467089923,
     "wof:name":"Interstate Pump & Tank Inc",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "storage"
     ]
 },
-  "bbox": [-89.497473,43.077433,-89.497473,43.077433],
+  "bbox": [
+    -89.497473,
+    43.077433,
+    -89.497473,
+    43.077433
+],
   "geometry": {"coordinates":[-89.497473,43.077433],"type":"Point"}
 }

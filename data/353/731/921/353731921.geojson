@@ -2,13 +2,14 @@
   "id": 353731921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.643009,42.559351,-88.643009,42.559351",
     "geom:latitude":42.559351,
     "geom:longitude":-88.643009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 US Hwy 14",
     "sg:city":"Walworth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353731921,
-    "wof:lastmodified":1449020514,
+    "wof:lastmodified":1467089891,
     "wof:name":"Badger Hardwoods of WI Ltd",
     "wof:parent_id":85814169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hardwood"
     ]
 },
-  "bbox": [-88.643009,42.559351,-88.643009,42.559351],
-  "geometry": {"coordinates":[-88.643009,42.559351],"type":"Point"}
+  "bbox": [
+    -88.643009,
+    42.559351,
+    -88.643009,
+    42.559351
+],
+  "geometry": {"coordinates":[-88.64300900000001,42.559351],"type":"Point"}
 }

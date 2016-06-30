@@ -2,13 +2,14 @@
   "id": 403835075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.986802,43.089896,-87.986802,43.089896",
     "geom:latitude":43.089896,
     "geom:longitude":-87.986802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5827 W Capitol Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403835075,
-    "wof:lastmodified":1449054821,
+    "wof:lastmodified":1467089918,
     "wof:name":"Auto Sound & Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "radio"
     ]
 },
-  "bbox": [-87.986802,43.089896,-87.986802,43.089896],
+  "bbox": [
+    -87.986802,
+    43.089896,
+    -87.986802,
+    43.089896
+],
   "geometry": {"coordinates":[-87.986802,43.089896],"type":"Point"}
 }

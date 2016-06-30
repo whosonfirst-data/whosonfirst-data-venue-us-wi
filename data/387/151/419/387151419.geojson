@@ -2,13 +2,14 @@
   "id": 387151419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.335593,43.114535,-88.335593,43.114535",
     "geom:latitude":43.114535,
     "geom:longitude":-88.335593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"760 Marquette Ct",
     "sg:city":"Hartland",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387151419,
-    "wof:lastmodified":1449056160,
+    "wof:lastmodified":1467089921,
     "wof:name":"Mississippi Valley Pump Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "pumping"
     ]
 },
-  "bbox": [-88.335593,43.114535,-88.335593,43.114535],
+  "bbox": [
+    -88.335593,
+    43.114535,
+    -88.335593,
+    43.114535
+],
   "geometry": {"coordinates":[-88.335593,43.114535],"type":"Point"}
 }

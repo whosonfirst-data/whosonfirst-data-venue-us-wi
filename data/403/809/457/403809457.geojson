@@ -2,13 +2,14 @@
   "id": 403809457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.341027,43.252726,-88.341027,43.252726",
     "geom:latitude":43.252726,
     "geom:longitude":-88.341027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1951 Co Rd K",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403809457,
-    "wof:lastmodified":1449055726,
+    "wof:lastmodified":1467089920,
     "wof:name":"Galls Trenching Inc",
     "wof:parent_id":85852177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.341027,43.252726,-88.341027,43.252726],
+  "bbox": [
+    -88.341027,
+    43.252726,
+    -88.341027,
+    43.252726
+],
   "geometry": {"coordinates":[-88.341027,43.252726],"type":"Point"}
 }

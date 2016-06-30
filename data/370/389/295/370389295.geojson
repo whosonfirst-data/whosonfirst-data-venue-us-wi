@@ -2,13 +2,14 @@
   "id": 370389295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.952152,43.126938,-87.952152,43.126938",
     "geom:latitude":43.126938,
     "geom:longitude":-87.952152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6225 N Teutonia Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370389295,
-    "wof:lastmodified":1449031790,
+    "wof:lastmodified":1467089905,
     "wof:name":"Animal Palace",
     "wof:parent_id":85870803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-87.952152,43.126938,-87.952152,43.126938],
+  "bbox": [
+    -87.952152,
+    43.126938,
+    -87.952152,
+    43.126938
+],
   "geometry": {"coordinates":[-87.952152,43.126938],"type":"Point"}
 }

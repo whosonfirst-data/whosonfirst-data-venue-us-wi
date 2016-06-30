@@ -2,13 +2,14 @@
   "id": 353966965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.908823,43.16781,-87.908823,43.16781",
     "geom:latitude":43.16781,
     "geom:longitude":-87.908823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8308 N Indian Creek Pkwy",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353966965,
-    "wof:lastmodified":1449018279,
+    "wof:lastmodified":1467089886,
     "wof:name":"Schermer Enterprises",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-87.908823,43.16781,-87.908823,43.16781],
+  "bbox": [
+    -87.908823,
+    43.16781,
+    -87.908823,
+    43.16781
+],
   "geometry": {"coordinates":[-87.908823,43.16781],"type":"Point"}
 }

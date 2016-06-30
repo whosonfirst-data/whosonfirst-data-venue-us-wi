@@ -2,13 +2,14 @@
   "id": 370801147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.079386,46.706255,-92.079386,46.706255",
     "geom:latitude":46.706255,
     "geom:longitude":-92.079386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 N 28th St",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370801147,
-    "wof:lastmodified":1449031878,
+    "wof:lastmodified":1467089905,
     "wof:name":"Digital Security Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-92.079386,46.706255,-92.079386,46.706255],
+  "bbox": [
+    -92.079386,
+    46.706255,
+    -92.079386,
+    46.706255
+],
   "geometry": {"coordinates":[-92.079386,46.706255],"type":"Point"}
 }

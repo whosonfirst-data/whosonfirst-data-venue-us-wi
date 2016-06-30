@@ -2,13 +2,14 @@
   "id": 403847673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.504849,43.979358,-90.504849,43.979358",
     "geom:latitude":43.979358,
     "geom:longitude":-90.504849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Superior Ave",
     "sg:city":"Tomah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403847673,
-    "wof:lastmodified":1449055113,
+    "wof:lastmodified":1467089918,
     "wof:name":"Tomah Public Works Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parking"
     ]
 },
-  "bbox": [-90.504849,43.979358,-90.504849,43.979358],
-  "geometry": {"coordinates":[-90.504849,43.979358],"type":"Point"}
+  "bbox": [
+    -90.504849,
+    43.979358,
+    -90.504849,
+    43.979358
+],
+  "geometry": {"coordinates":[-90.50484899999999,43.979358],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353590935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.933964,43.252109,-87.933964,43.252109",
     "geom:latitude":43.252109,
     "geom:longitude":-87.933964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12850 Oriole Ln",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353590935,
-    "wof:lastmodified":1449019791,
+    "wof:lastmodified":1467089890,
     "wof:name":"Oriole Lane School",
     "wof:parent_id":85829269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.933964,43.252109,-87.933964,43.252109],
+  "bbox": [
+    -87.933964,
+    43.252109,
+    -87.933964,
+    43.252109
+],
   "geometry": {"coordinates":[-87.933964,43.252109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370512185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.338057,43.217528,-89.338057,43.217528",
     "geom:latitude":43.217528,
     "geom:longitude":-89.338057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6733 Sunset Meadow Dr",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370512185,
-    "wof:lastmodified":1449031553,
+    "wof:lastmodified":1467089904,
     "wof:name":"First Choice Painting",
     "wof:parent_id":85852311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.338057,43.217528,-89.338057,43.217528],
-  "geometry": {"coordinates":[-89.338057,43.217528],"type":"Point"}
+  "bbox": [
+    -89.338057,
+    43.217528,
+    -89.338057,
+    43.217528
+],
+  "geometry": {"coordinates":[-89.33805700000001,43.217528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387752929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.67024,44.566787,-91.67024,44.566787",
     "geom:latitude":44.566787,
     "geom:longitude":-91.67024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 E Hudson St",
     "sg:city":"Mondovi",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387752929,
-    "wof:lastmodified":1449056741,
+    "wof:lastmodified":1467089923,
     "wof:name":"Supervalu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-91.67024,44.566787,-91.67024,44.566787],
-  "geometry": {"coordinates":[-91.67024,44.566787],"type":"Point"}
+  "bbox": [
+    -91.67024,
+    44.566787,
+    -91.67024,
+    44.566787
+],
+  "geometry": {"coordinates":[-91.67024000000001,44.566787],"type":"Point"}
 }

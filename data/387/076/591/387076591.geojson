@@ -2,13 +2,14 @@
   "id": 387076591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.184173,43.436486,-88.184173,43.436486",
     "geom:latitude":43.436486,
     "geom:longitude":-88.184173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 N Main St",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387076591,
-    "wof:lastmodified":1449059091,
+    "wof:lastmodified":1467089930,
     "wof:name":"Vrana Frame & Body Shop Inc",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "painting"
     ]
 },
-  "bbox": [-88.184173,43.436486,-88.184173,43.436486],
+  "bbox": [
+    -88.184173,
+    43.436486,
+    -88.184173,
+    43.436486
+],
   "geometry": {"coordinates":[-88.184173,43.436486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370534453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.48848,44.782343,-91.48848,44.782343",
     "geom:latitude":44.782343,
     "geom:longitude":-91.48848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3348 Nimitz St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370534453,
-    "wof:lastmodified":1449029979,
+    "wof:lastmodified":1467089900,
     "wof:name":"Lindrud Photography Camra Repr",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camera"
     ]
 },
-  "bbox": [-91.48848,44.782343,-91.48848,44.782343],
+  "bbox": [
+    -91.48848,
+    44.782343,
+    -91.48848,
+    44.782343
+],
   "geometry": {"coordinates":[-91.48848,44.782343],"type":"Point"}
 }

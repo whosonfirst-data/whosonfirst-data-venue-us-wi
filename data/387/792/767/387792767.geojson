@@ -2,13 +2,14 @@
   "id": 387792767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.066608,43.074463,-88.066608,43.074463",
     "geom:latitude":43.074463,
     "geom:longitude":-88.066608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12201 W Burleigh St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387792767,
-    "wof:lastmodified":1449056916,
+    "wof:lastmodified":1467089923,
     "wof:name":"Kenneth J Kirchen Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.066608,43.074463,-88.066608,43.074463],
+  "bbox": [
+    -88.066608,
+    43.074463,
+    -88.066608,
+    43.074463
+],
   "geometry": {"coordinates":[-88.066608,43.074463],"type":"Point"}
 }

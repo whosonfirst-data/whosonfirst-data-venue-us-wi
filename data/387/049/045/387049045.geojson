@@ -2,13 +2,14 @@
   "id": 387049045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.371912,44.290464,-88.371912,44.290464",
     "geom:latitude":44.290464,
     "geom:longitude":-88.371912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 E Pensar Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387049045,
-    "wof:lastmodified":1449057992,
+    "wof:lastmodified":1467089926,
     "wof:name":"S M T C Mfg Wisconsin",
     "wof:parent_id":85857401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electric"
     ]
 },
-  "bbox": [-88.371912,44.290464,-88.371912,44.290464],
-  "geometry": {"coordinates":[-88.371912,44.290464],"type":"Point"}
+  "bbox": [
+    -88.371912,
+    44.290464,
+    -88.371912,
+    44.290464
+],
+  "geometry": {"coordinates":[-88.37191199999999,44.290464],"type":"Point"}
 }

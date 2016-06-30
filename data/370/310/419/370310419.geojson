@@ -2,13 +2,14 @@
   "id": 370310419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.480359,43.940757,-88.480359,43.940757",
     "geom:latitude":43.940757,
     "geom:longitude":-88.480359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5305 Lake Rd",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370310419,
-    "wof:lastmodified":1449031174,
+    "wof:lastmodified":1467089903,
     "wof:name":"Kalbus Country Harbor Inc",
     "wof:parent_id":85811999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.480359,43.940757,-88.480359,43.940757],
-  "geometry": {"coordinates":[-88.480359,43.940757],"type":"Point"}
+  "bbox": [
+    -88.480359,
+    43.940757,
+    -88.480359,
+    43.940757
+],
+  "geometry": {"coordinates":[-88.48035900000001,43.940757],"type":"Point"}
 }

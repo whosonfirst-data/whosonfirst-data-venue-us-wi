@@ -2,13 +2,14 @@
   "id": 403988033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.392519,44.549913,-91.392519,44.549913",
     "geom:latitude":44.549913,
     "geom:longitude":-91.392519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 5th Ave S",
     "sg:city":"Strum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403988033,
-    "wof:lastmodified":1449055083,
+    "wof:lastmodified":1467089918,
     "wof:name":"Strum Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-91.392519,44.549913,-91.392519,44.549913],
-  "geometry": {"coordinates":[-91.392519,44.549913],"type":"Point"}
+  "bbox": [
+    -91.392519,
+    44.549913,
+    -91.392519,
+    44.549913
+],
+  "geometry": {"coordinates":[-91.39251899999999,44.549913],"type":"Point"}
 }

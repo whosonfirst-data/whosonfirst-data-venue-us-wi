@@ -2,13 +2,14 @@
   "id": 185629937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.852073,43.49954,-87.852073,43.49954",
     "geom:latitude":43.49954,
     "geom:longitude":-87.852073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"680 Main St",
     "sg:city":"Belgium",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185629937,
-    "wof:lastmodified":1449007853,
+    "wof:lastmodified":1467089885,
     "wof:name":"Plus Group Financial",
     "wof:parent_id":85829065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.852073,43.49954,-87.852073,43.49954],
+  "bbox": [
+    -87.852073,
+    43.49954,
+    -87.852073,
+    43.49954
+],
   "geometry": {"coordinates":[-87.852073,43.49954],"type":"Point"}
 }

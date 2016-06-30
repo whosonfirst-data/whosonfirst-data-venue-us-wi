@@ -2,13 +2,14 @@
   "id": 186181923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.738734,43.476691,-89.738734,43.476691",
     "geom:latitude":43.476691,
     "geom:longitude":-89.738734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 10th St",
     "sg:city":"Baraboo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186181923,
-    "wof:lastmodified":1449052007,
+    "wof:lastmodified":1467089916,
     "wof:name":"Crazy Tonys LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-89.738734,43.476691,-89.738734,43.476691],
-  "geometry": {"coordinates":[-89.738734,43.476691],"type":"Point"}
+  "bbox": [
+    -89.738734,
+    43.476691,
+    -89.738734,
+    43.476691
+],
+  "geometry": {"coordinates":[-89.73873399999999,43.476691],"type":"Point"}
 }

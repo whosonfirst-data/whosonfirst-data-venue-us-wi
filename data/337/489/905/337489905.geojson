@@ -2,13 +2,14 @@
   "id": 337489905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.414845,43.782807,-88.414845,43.782807",
     "geom:latitude":43.782807,
     "geom:longitude":-88.414845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 University Dr",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337489905,
-    "wof:lastmodified":1449027388,
+    "wof:lastmodified":1467089894,
     "wof:name":"Yummy Chinese Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.414845,43.782807,-88.414845,43.782807],
+  "bbox": [
+    -88.414845,
+    43.782807,
+    -88.414845,
+    43.782807
+],
   "geometry": {"coordinates":[-88.414845,43.782807],"type":"Point"}
 }

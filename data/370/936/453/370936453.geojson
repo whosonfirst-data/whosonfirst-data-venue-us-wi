@@ -2,13 +2,14 @@
   "id": 370936453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.362506,45.28409,-91.362506,45.28409",
     "geom:latitude":45.28409,
     "geom:longitude":-91.362506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15664 304th Ave",
     "sg:city":"New Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370936453,
-    "wof:lastmodified":1449030225,
+    "wof:lastmodified":1467089901,
     "wof:name":"Nicholson Custom Homes Inc",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-91.362506,45.28409,-91.362506,45.28409],
+  "bbox": [
+    -91.362506,
+    45.28409,
+    -91.362506,
+    45.28409
+],
   "geometry": {"coordinates":[-91.362506,45.28409],"type":"Point"}
 }

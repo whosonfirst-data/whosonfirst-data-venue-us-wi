@@ -2,13 +2,14 @@
   "id": 387399949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.159778,44.686018,-90.159778,44.686018",
     "geom:latitude":44.686018,
     "geom:longitude":-90.159778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 N Central Ave",
     "sg:city":"Marshfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387399949,
-    "wof:lastmodified":1449056772,
+    "wof:lastmodified":1467089923,
     "wof:name":"Sears Authorized Retail Dealer",
     "wof:parent_id":85832133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.159778,44.686018,-90.159778,44.686018],
+  "bbox": [
+    -90.159778,
+    44.686018,
+    -90.159778,
+    44.686018
+],
   "geometry": {"coordinates":[-90.159778,44.686018],"type":"Point"}
 }

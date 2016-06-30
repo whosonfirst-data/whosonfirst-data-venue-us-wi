@@ -2,13 +2,14 @@
   "id": 387205779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.082381,43.045762,-88.082381,43.045762",
     "geom:latitude":43.045762,
     "geom:longitude":-88.082381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13600 Juneau Blvd",
     "sg:city":"Elm Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387205779,
-    "wof:lastmodified":1449058404,
+    "wof:lastmodified":1467089928,
     "wof:name":"Swimming Pool",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-88.082381,43.045762,-88.082381,43.045762],
+  "bbox": [
+    -88.082381,
+    43.045762,
+    -88.082381,
+    43.045762
+],
   "geometry": {"coordinates":[-88.082381,43.045762],"type":"Point"}
 }

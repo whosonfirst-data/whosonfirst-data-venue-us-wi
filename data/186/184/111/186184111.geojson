@@ -2,13 +2,14 @@
   "id": 186184111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.086888,43.027906,-88.086888,43.027906",
     "geom:latitude":43.027906,
     "geom:longitude":-88.086888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 S Sunny Slope Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186184111,
-    "wof:lastmodified":1449050869,
+    "wof:lastmodified":1467089915,
     "wof:name":"UNUM Life Insurance Co Amer",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-88.086888,43.027906,-88.086888,43.027906],
+  "bbox": [
+    -88.086888,
+    43.027906,
+    -88.086888,
+    43.027906
+],
   "geometry": {"coordinates":[-88.086888,43.027906],"type":"Point"}
 }

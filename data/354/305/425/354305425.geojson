@@ -2,13 +2,14 @@
   "id": 354305425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.709266,43.755159,-87.709266,43.755159",
     "geom:latitude":43.755159,
     "geom:longitude":-87.709266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 Ontario Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354305425,
-    "wof:lastmodified":1449066192,
+    "wof:lastmodified":1467089934,
     "wof:name":"Jacobson Rost Advertising",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-87.709266,43.755159,-87.709266,43.755159],
+  "bbox": [
+    -87.709266,
+    43.755159,
+    -87.709266,
+    43.755159
+],
   "geometry": {"coordinates":[-87.709266,43.755159],"type":"Point"}
 }

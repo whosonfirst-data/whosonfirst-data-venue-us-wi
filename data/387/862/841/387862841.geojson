@@ -2,13 +2,14 @@
   "id": 387862841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.168819,45.058661,-92.168819,45.058661",
     "geom:latitude":45.058661,
     "geom:longitude":-92.168819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 E Oak St",
     "sg:city":"Glenwood City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387862841,
-    "wof:lastmodified":1449060007,
+    "wof:lastmodified":1467089933,
     "wof:name":"Glenwood City Community Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.168819,45.058661,-92.168819,45.058661],
+  "bbox": [
+    -92.168819,
+    45.058661,
+    -92.168819,
+    45.058661
+],
   "geometry": {"coordinates":[-92.168819,45.058661],"type":"Point"}
 }

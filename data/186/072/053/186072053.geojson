@@ -2,13 +2,14 @@
   "id": 186072053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.080418,44.499584,-88.080418,44.499584",
     "geom:latitude":44.499584,
     "geom:longitude":-88.080418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2169 Gilson Ct",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186072053,
-    "wof:lastmodified":1449051789,
+    "wof:lastmodified":1467089916,
     "wof:name":"Wisconsin Water Gardens",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.080418,44.499584,-88.080418,44.499584],
-  "geometry": {"coordinates":[-88.080418,44.499584],"type":"Point"}
+  "bbox": [
+    -88.080418,
+    44.499584,
+    -88.080418,
+    44.499584
+],
+  "geometry": {"coordinates":[-88.08041799999999,44.499584],"type":"Point"}
 }

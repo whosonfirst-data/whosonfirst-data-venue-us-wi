@@ -2,13 +2,14 @@
   "id": 387939379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.938989,43.385015,-87.938989,43.385015",
     "geom:latitude":43.385015,
     "geom:longitude":-87.938989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 N Mill St",
     "sg:city":"Saukville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387939379,
-    "wof:lastmodified":1449057216,
+    "wof:lastmodified":1467089924,
     "wof:name":"Travel Temptations",
     "wof:parent_id":85828641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-87.938989,43.385015,-87.938989,43.385015],
-  "geometry": {"coordinates":[-87.938989,43.385015],"type":"Point"}
+  "bbox": [
+    -87.938989,
+    43.385015,
+    -87.938989,
+    43.385015
+],
+  "geometry": {"coordinates":[-87.93898900000001,43.385015],"type":"Point"}
 }

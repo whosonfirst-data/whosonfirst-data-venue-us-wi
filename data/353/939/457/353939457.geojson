@@ -2,13 +2,14 @@
   "id": 353939457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.558959,44.730379,-92.558959,44.730379",
     "geom:latitude":44.730379,
     "geom:longitude":-92.558959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8546 US Hwy 10",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353939457,
-    "wof:lastmodified":1449019018,
+    "wof:lastmodified":1467089888,
     "wof:name":"NFO Collection Point",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.558959,44.730379,-92.558959,44.730379],
+  "bbox": [
+    -92.558959,
+    44.730379,
+    -92.558959,
+    44.730379
+],
   "geometry": {"coordinates":[-92.558959,44.730379],"type":"Point"}
 }

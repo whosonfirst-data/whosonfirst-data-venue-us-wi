@@ -2,13 +2,14 @@
   "id": 370709743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.181154,43.074486,-88.181154,43.074486",
     "geom:latitude":43.074486,
     "geom:longitude":-88.181154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21605 Gateway Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370709743,
-    "wof:lastmodified":1449029770,
+    "wof:lastmodified":1467089899,
     "wof:name":"Weather-Tek Design Ctr Inc",
     "wof:parent_id":85815589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-88.181154,43.074486,-88.181154,43.074486],
-  "geometry": {"coordinates":[-88.181154,43.074486],"type":"Point"}
+  "bbox": [
+    -88.181154,
+    43.074486,
+    -88.181154,
+    43.074486
+],
+  "geometry": {"coordinates":[-88.18115400000001,43.074486],"type":"Point"}
 }

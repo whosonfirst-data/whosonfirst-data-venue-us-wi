@@ -2,13 +2,14 @@
   "id": 370711765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.061032,43.039671,-88.061032,43.039671",
     "geom:latitude":43.039671,
     "geom:longitude":-88.061032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12002 W Potter Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370711765,
-    "wof:lastmodified":1449031853,
+    "wof:lastmodified":1467089905,
     "wof:name":"Metro Visuals",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "taping"
     ]
 },
-  "bbox": [-88.061032,43.039671,-88.061032,43.039671],
+  "bbox": [
+    -88.061032,
+    43.039671,
+    -88.061032,
+    43.039671
+],
   "geometry": {"coordinates":[-88.061032,43.039671],"type":"Point"}
 }

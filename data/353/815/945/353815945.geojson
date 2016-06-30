@@ -2,13 +2,14 @@
   "id": 353815945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.993576,42.683874,-88.993576,42.683874",
     "geom:latitude":42.683874,
     "geom:longitude":-88.993576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Apache Dr",
     "sg:city":"Janesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353815945,
-    "wof:lastmodified":1449019502,
+    "wof:lastmodified":1467089889,
     "wof:name":"Harlan Edelman MD SC",
     "wof:parent_id":85803103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-88.993576,42.683874,-88.993576,42.683874],
+  "bbox": [
+    -88.993576,
+    42.683874,
+    -88.993576,
+    42.683874
+],
   "geometry": {"coordinates":[-88.993576,42.683874],"type":"Point"}
 }

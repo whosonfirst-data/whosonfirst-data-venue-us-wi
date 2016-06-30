@@ -2,13 +2,14 @@
   "id": 186237955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.08137,43.89766,-91.08137,43.89766",
     "geom:latitude":43.89766,
     "geom:longitude":-91.08137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 N Leonard St",
     "sg:city":"West Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186237955,
-    "wof:lastmodified":1449050332,
+    "wof:lastmodified":1467089914,
     "wof:name":"General Ionics Wtr Trtmnt Cmpn",
     "wof:parent_id":85825891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "purification"
     ]
 },
-  "bbox": [-91.08137,43.89766,-91.08137,43.89766],
-  "geometry": {"coordinates":[-91.08137,43.89766],"type":"Point"}
+  "bbox": [
+    -91.08137,
+    43.89766,
+    -91.08137,
+    43.89766
+],
+  "geometry": {"coordinates":[-91.08137000000001,43.89766],"type":"Point"}
 }

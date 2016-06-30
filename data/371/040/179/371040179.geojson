@@ -2,13 +2,14 @@
   "id": 371040179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.450846,43.776949,-88.450846,43.776949",
     "geom:latitude":43.776949,
     "geom:longitude":-88.450846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Forest Ave",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371040179,
-    "wof:lastmodified":1449050105,
+    "wof:lastmodified":1467089914,
     "wof:name":"Jerry Schuchardt Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.450846,43.776949,-88.450846,43.776949],
+  "bbox": [
+    -88.450846,
+    43.776949,
+    -88.450846,
+    43.776949
+],
   "geometry": {"coordinates":[-88.450846,43.776949],"type":"Point"}
 }

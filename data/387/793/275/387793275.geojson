@@ -2,13 +2,14 @@
   "id": 387793275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.821743,46.568383,-91.821743,46.568383",
     "geom:latitude":46.568383,
     "geom:longitude":-91.821743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9298 E Homestead Rd",
     "sg:city":"Poplar",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387793275,
-    "wof:lastmodified":1449058204,
+    "wof:lastmodified":1467089928,
     "wof:name":"Poplar Acres Dairy Inc",
     "wof:parent_id":85827153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.821743,46.568383,-91.821743,46.568383],
+  "bbox": [
+    -91.821743,
+    46.568383,
+    -91.821743,
+    46.568383
+],
   "geometry": {"coordinates":[-91.821743,46.568383],"type":"Point"}
 }

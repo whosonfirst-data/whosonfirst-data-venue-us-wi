@@ -2,13 +2,14 @@
   "id": 387111433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.656298,44.085499,-87.656298,44.085499",
     "geom:latitude":44.085499,
     "geom:longitude":-87.656298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Hamilton St",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387111433,
-    "wof:lastmodified":1449060035,
+    "wof:lastmodified":1467089933,
     "wof:name":"C&E Properties & Investments",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "insurance"
     ]
 },
-  "bbox": [-87.656298,44.085499,-87.656298,44.085499],
-  "geometry": {"coordinates":[-87.656298,44.085499],"type":"Point"}
+  "bbox": [
+    -87.656298,
+    44.085499,
+    -87.656298,
+    44.085499
+],
+  "geometry": {"coordinates":[-87.65629800000001,44.085499],"type":"Point"}
 }

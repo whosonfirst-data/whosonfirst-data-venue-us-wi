@@ -2,13 +2,14 @@
   "id": 371145093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.884891,45.831452,-91.884891,45.831452",
     "geom:latitude":45.831452,
     "geom:longitude":-91.884891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 N River St",
     "sg:city":"Spooner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371145093,
-    "wof:lastmodified":1449049324,
+    "wof:lastmodified":1467089912,
     "wof:name":"Banana Abstract",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.884891,45.831452,-91.884891,45.831452],
+  "bbox": [
+    -91.884891,
+    45.831452,
+    -91.884891,
+    45.831452
+],
   "geometry": {"coordinates":[-91.884891,45.831452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371134703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.519137,44.795912,-91.519137,44.795912",
     "geom:latitude":44.795912,
     "geom:longitude":-91.519137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2116 Craig Rd",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371134703,
-    "wof:lastmodified":1449050093,
+    "wof:lastmodified":1467089914,
     "wof:name":"Florence David MD MPA",
     "wof:parent_id":85848105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-91.519137,44.795912,-91.519137,44.795912],
+  "bbox": [
+    -91.519137,
+    44.795912,
+    -91.519137,
+    44.795912
+],
   "geometry": {"coordinates":[-91.519137,44.795912],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337634299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.197788,45.534787,-92.197788,45.534787",
     "geom:latitude":45.534787,
     "geom:longitude":-92.197788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2267 20th St",
     "sg:city":"Comstock",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337634299,
-    "wof:lastmodified":1449027338,
+    "wof:lastmodified":1467089894,
     "wof:name":"Edina Realty Home Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.197788,45.534787,-92.197788,45.534787],
+  "bbox": [
+    -92.197788,
+    45.534787,
+    -92.197788,
+    45.534787
+],
   "geometry": {"coordinates":[-92.197788,45.534787],"type":"Point"}
 }

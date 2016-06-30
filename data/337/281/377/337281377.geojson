@@ -2,13 +2,14 @@
   "id": 337281377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.304215,43.056438,-89.304215,43.056438",
     "geom:latitude":43.056438,
     "geom:longitude":-89.304215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2918 Progress Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":337281377,
-    "wof:lastmodified":1449027615,
+    "wof:lastmodified":1467089895,
     "wof:name":"Leisure Features Inc",
     "wof:parent_id":85878847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "facility"
     ]
 },
-  "bbox": [-89.304215,43.056438,-89.304215,43.056438],
+  "bbox": [
+    -89.304215,
+    43.056438,
+    -89.304215,
+    43.056438
+],
   "geometry": {"coordinates":[-89.304215,43.056438],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370860765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.407188,44.26219,-88.407188,44.26219",
     "geom:latitude":44.26219,
     "geom:longitude":-88.407188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 N Appleton St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370860765,
-    "wof:lastmodified":1449030603,
+    "wof:lastmodified":1467089902,
     "wof:name":"Waupaca Storage",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "storage"
     ]
 },
-  "bbox": [-88.407188,44.26219,-88.407188,44.26219],
+  "bbox": [
+    -88.407188,
+    44.26219,
+    -88.407188,
+    44.26219
+],
   "geometry": {"coordinates":[-88.407188,44.26219],"type":"Point"}
 }

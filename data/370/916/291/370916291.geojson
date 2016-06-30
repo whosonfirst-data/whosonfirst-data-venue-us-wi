@@ -2,13 +2,14 @@
   "id": 370916291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.380224,44.835505,-87.380224,44.835505",
     "geom:latitude":44.835505,
     "geom:longitude":-87.380224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 N 1st Ave",
     "sg:city":"Sturgeon Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370916291,
-    "wof:lastmodified":1449030922,
+    "wof:lastmodified":1467089903,
     "wof:name":"Alpina Pacific",
     "wof:parent_id":85851043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-87.380224,44.835505,-87.380224,44.835505],
+  "bbox": [
+    -87.380224,
+    44.835505,
+    -87.380224,
+    44.835505
+],
   "geometry": {"coordinates":[-87.380224,44.835505],"type":"Point"}
 }

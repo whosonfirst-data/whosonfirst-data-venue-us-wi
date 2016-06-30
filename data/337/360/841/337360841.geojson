@@ -2,13 +2,14 @@
   "id": 337360841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.429163,44.22987,-88.429163,44.22987",
     "geom:latitude":44.22987,
     "geom:longitude":-88.429163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1151 Midway Rd",
     "sg:city":"Menasha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337360841,
-    "wof:lastmodified":1449027561,
+    "wof:lastmodified":1467089895,
     "wof:name":"Us Cellular Inc",
     "wof:parent_id":85807543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-88.429163,44.22987,-88.429163,44.22987],
+  "bbox": [
+    -88.429163,
+    44.22987,
+    -88.429163,
+    44.22987
+],
   "geometry": {"coordinates":[-88.429163,44.22987],"type":"Point"}
 }

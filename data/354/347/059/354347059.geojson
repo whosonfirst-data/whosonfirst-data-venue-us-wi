@@ -2,13 +2,14 @@
   "id": 354347059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.929786,44.861086,-91.929786,44.861086",
     "geom:latitude":44.861086,
     "geom:longitude":-91.929786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 State Hwy 25",
     "sg:city":"Menomonie",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":354347059,
-    "wof:lastmodified":1449066735,
+    "wof:lastmodified":1467089935,
     "wof:name":"Speedy Loan Corporation",
     "wof:parent_id":85837813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "business"
     ]
 },
-  "bbox": [-91.929786,44.861086,-91.929786,44.861086],
-  "geometry": {"coordinates":[-91.929786,44.861086],"type":"Point"}
+  "bbox": [
+    -91.929786,
+    44.861086,
+    -91.929786,
+    44.861086
+],
+  "geometry": {"coordinates":[-91.92978599999999,44.861086],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403858267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.414159,44.935213,-91.414159,44.935213",
     "geom:latitude":44.935213,
     "geom:longitude":-91.414159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 Bel Air Blvd",
     "sg:city":"Chippewa Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403858267,
-    "wof:lastmodified":1449054774,
+    "wof:lastmodified":1467089918,
     "wof:name":"Chippewa Area Catholic Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.414159,44.935213,-91.414159,44.935213],
+  "bbox": [
+    -91.414159,
+    44.935213,
+    -91.414159,
+    44.935213
+],
   "geometry": {"coordinates":[-91.414159,44.935213],"type":"Point"}
 }

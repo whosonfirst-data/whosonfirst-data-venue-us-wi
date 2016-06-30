@@ -2,13 +2,14 @@
   "id": 169740299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.047625,43.652434,-88.047625,43.652434",
     "geom:latitude":43.652434,
     "geom:longitude":-88.047625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7126 Co Rd F",
     "sg:city":"Cascade",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169740299,
-    "wof:lastmodified":1449034167,
+    "wof:lastmodified":1467089908,
     "wof:name":"Jim Butters Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpentry"
     ]
 },
-  "bbox": [-88.047625,43.652434,-88.047625,43.652434],
+  "bbox": [
+    -88.047625,
+    43.652434,
+    -88.047625,
+    43.652434
+],
   "geometry": {"coordinates":[-88.047625,43.652434],"type":"Point"}
 }

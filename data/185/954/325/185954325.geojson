@@ -2,13 +2,14 @@
   "id": 185954325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.009822,44.513068,-88.009822,44.513068",
     "geom:latitude":44.513068,
     "geom:longitude":-88.009822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 N Monroe Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185954325,
-    "wof:lastmodified":1449008014,
+    "wof:lastmodified":1467089885,
     "wof:name":"US Post Office",
     "wof:parent_id":85877935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.009822,44.513068,-88.009822,44.513068],
+  "bbox": [
+    -88.009822,
+    44.513068,
+    -88.009822,
+    44.513068
+],
   "geometry": {"coordinates":[-88.009822,44.513068],"type":"Point"}
 }

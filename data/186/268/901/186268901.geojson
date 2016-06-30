@@ -2,13 +2,14 @@
   "id": 186268901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.079124,44.800779,-90.079124,44.800779",
     "geom:latitude":44.800779,
     "geom:longitude":-90.079124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Weber Ave",
     "sg:city":"Stratford",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186268901,
-    "wof:lastmodified":1449051905,
+    "wof:lastmodified":1467089916,
     "wof:name":"Kafka Granite LLC",
     "wof:parent_id":85865437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-90.079124,44.800779,-90.079124,44.800779],
-  "geometry": {"coordinates":[-90.079124,44.800779],"type":"Point"}
+  "bbox": [
+    -90.079124,
+    44.800779,
+    -90.079124,
+    44.800779
+],
+  "geometry": {"coordinates":[-90.07912399999999,44.800779],"type":"Point"}
 }

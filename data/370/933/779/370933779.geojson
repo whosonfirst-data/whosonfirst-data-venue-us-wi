@@ -2,13 +2,14 @@
   "id": 370933779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.145983,43.066762,-88.145983,43.066762",
     "geom:latitude":43.066762,
     "geom:longitude":-88.145983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2635 N Brookfield Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370933779,
-    "wof:lastmodified":1449029785,
+    "wof:lastmodified":1467089899,
     "wof:name":"Little Quilt Co",
     "wof:parent_id":85832419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "fabric"
     ]
 },
-  "bbox": [-88.145983,43.066762,-88.145983,43.066762],
+  "bbox": [
+    -88.145983,
+    43.066762,
+    -88.145983,
+    43.066762
+],
   "geometry": {"coordinates":[-88.145983,43.066762],"type":"Point"}
 }

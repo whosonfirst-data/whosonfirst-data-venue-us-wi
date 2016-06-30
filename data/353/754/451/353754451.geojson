@@ -2,13 +2,14 @@
   "id": 353754451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.661202,45.566621,-91.661202,45.566621",
     "geom:latitude":45.566621,
     "geom:longitude":-91.661202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2409 25th Ave",
     "sg:city":"Rice Lake",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353754451,
-    "wof:lastmodified":1449019915,
+    "wof:lastmodified":1467089890,
     "wof:name":"Flying S Tack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.661202,45.566621,-91.661202,45.566621],
+  "bbox": [
+    -91.661202,
+    45.566621,
+    -91.661202,
+    45.566621
+],
   "geometry": {"coordinates":[-91.661202,45.566621],"type":"Point"}
 }

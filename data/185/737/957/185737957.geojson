@@ -2,13 +2,14 @@
   "id": 185737957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.232875,43.011212,-88.232875,43.011212",
     "geom:latitude":43.011212,
     "geom:longitude":-88.232875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Main St",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185737957,
-    "wof:lastmodified":1449006979,
+    "wof:lastmodified":1467089884,
     "wof:name":"Superior Mechanical Insulation",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.232875,43.011212,-88.232875,43.011212],
-  "geometry": {"coordinates":[-88.232875,43.011212],"type":"Point"}
+  "bbox": [
+    -88.232875,
+    43.011212,
+    -88.232875,
+    43.011212
+],
+  "geometry": {"coordinates":[-88.23287500000001,43.011212],"type":"Point"}
 }

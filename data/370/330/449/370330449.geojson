@@ -2,13 +2,14 @@
   "id": 370330449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.078583,44.526063,-88.078583,44.526063",
     "geom:latitude":44.526063,
     "geom:longitude":-88.078583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 S Taylor St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370330449,
-    "wof:lastmodified":1449030767,
+    "wof:lastmodified":1467089902,
     "wof:name":"Western Lanes",
     "wof:parent_id":85877951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-88.078583,44.526063,-88.078583,44.526063],
-  "geometry": {"coordinates":[-88.078583,44.526063],"type":"Point"}
+  "bbox": [
+    -88.078583,
+    44.526063,
+    -88.078583,
+    44.526063
+],
+  "geometry": {"coordinates":[-88.07858299999999,44.526063],"type":"Point"}
 }

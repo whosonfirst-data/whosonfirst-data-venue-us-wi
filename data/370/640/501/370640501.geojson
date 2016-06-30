@@ -2,13 +2,14 @@
   "id": 370640501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.877627,43.091571,-87.877627,43.091571",
     "geom:latitude":43.091571,
     "geom:longitude":-87.877627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4003 N Downer Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370640501,
-    "wof:lastmodified":1449030562,
+    "wof:lastmodified":1467089902,
     "wof:name":"Comexi America Incorporated",
     "wof:parent_id":85870911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "printing"
     ]
 },
-  "bbox": [-87.877627,43.091571,-87.877627,43.091571],
+  "bbox": [
+    -87.877627,
+    43.091571,
+    -87.877627,
+    43.091571
+],
   "geometry": {"coordinates":[-87.877627,43.091571],"type":"Point"}
 }

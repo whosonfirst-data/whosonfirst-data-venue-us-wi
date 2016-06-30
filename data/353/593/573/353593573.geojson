@@ -2,13 +2,14 @@
   "id": 353593573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.114525,43.031716,-88.114525,43.031716",
     "geom:latitude":43.031716,
     "geom:longitude":-88.114525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 N Executive Dr",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353593573,
-    "wof:lastmodified":1449019935,
+    "wof:lastmodified":1467089890,
     "wof:name":"Booth Zwisler",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "bank"
     ]
 },
-  "bbox": [-88.114525,43.031716,-88.114525,43.031716],
+  "bbox": [
+    -88.114525,
+    43.031716,
+    -88.114525,
+    43.031716
+],
   "geometry": {"coordinates":[-88.114525,43.031716],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387378361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.737282,43.720766,-87.737282,43.720766",
     "geom:latitude":43.720766,
     "geom:longitude":-87.737282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3036 S Business Dr",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387378361,
-    "wof:lastmodified":1449058675,
+    "wof:lastmodified":1467089929,
     "wof:name":"Golden Chop Sticks",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.737282,43.720766,-87.737282,43.720766],
-  "geometry": {"coordinates":[-87.737282,43.720766],"type":"Point"}
+  "bbox": [
+    -87.737282,
+    43.720766,
+    -87.737282,
+    43.720766
+],
+  "geometry": {"coordinates":[-87.73728199999999,43.720766],"type":"Point"}
 }

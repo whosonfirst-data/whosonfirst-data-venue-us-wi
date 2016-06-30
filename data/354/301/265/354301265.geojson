@@ -2,13 +2,14 @@
   "id": 354301265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.404641,44.261741,-88.404641,44.261741",
     "geom:latitude":44.261741,
     "geom:longitude":-88.404641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 E College Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354301265,
-    "wof:lastmodified":1449066350,
+    "wof:lastmodified":1467089934,
     "wof:name":"User Friendly Computer Svc",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-88.404641,44.261741,-88.404641,44.261741],
+  "bbox": [
+    -88.404641,
+    44.261741,
+    -88.404641,
+    44.261741
+],
   "geometry": {"coordinates":[-88.404641,44.261741],"type":"Point"}
 }

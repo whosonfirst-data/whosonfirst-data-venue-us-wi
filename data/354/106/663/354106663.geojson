@@ -2,13 +2,14 @@
   "id": 354106663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.373515,44.243895,-88.373515,44.243895",
     "geom:latitude":44.243895,
     "geom:longitude":-88.373515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 E Calumet St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354106663,
-    "wof:lastmodified":1449065908,
+    "wof:lastmodified":1467089933,
     "wof:name":"R A Hack DDS",
     "wof:parent_id":85813523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.373515,44.243895,-88.373515,44.243895],
+  "bbox": [
+    -88.373515,
+    44.243895,
+    -88.373515,
+    44.243895
+],
   "geometry": {"coordinates":[-88.373515,44.243895],"type":"Point"}
 }

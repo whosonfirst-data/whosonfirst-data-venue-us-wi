@@ -2,13 +2,14 @@
   "id": 371020019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.368544,44.288692,-88.368544,44.288692",
     "geom:latitude":44.288692,
     "geom:longitude":-88.368544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2820 N Roemer Rd",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":371020019,
-    "wof:lastmodified":1449049489,
+    "wof:lastmodified":1467089913,
     "wof:name":"L & S Electric Inc",
     "wof:parent_id":85857401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.368544,44.288692,-88.368544,44.288692],
+  "bbox": [
+    -88.368544,
+    44.288692,
+    -88.368544,
+    44.288692
+],
   "geometry": {"coordinates":[-88.368544,44.288692],"type":"Point"}
 }

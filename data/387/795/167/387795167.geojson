@@ -2,13 +2,14 @@
   "id": 387795167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.164851,42.841883,-88.164851,42.841883",
     "geom:latitude":42.841883,
     "geom:longitude":-88.164851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8829 Hart Dr",
     "sg:city":"Waterford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387795167,
-    "wof:lastmodified":1449058359,
+    "wof:lastmodified":1467089928,
     "wof:name":"Forrest Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-88.164851,42.841883,-88.164851,42.841883],
+  "bbox": [
+    -88.164851,
+    42.841883,
+    -88.164851,
+    42.841883
+],
   "geometry": {"coordinates":[-88.164851,42.841883],"type":"Point"}
 }

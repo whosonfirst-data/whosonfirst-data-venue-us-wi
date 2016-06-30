@@ -2,13 +2,14 @@
   "id": 387384607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.937579,43.193486,-87.937579,43.193486",
     "geom:latitude":43.193486,
     "geom:longitude":-87.937579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9639 N Columbia Creek Ln",
     "sg:city":"Thiensville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387384607,
-    "wof:lastmodified":1449056581,
+    "wof:lastmodified":1467089922,
     "wof:name":"Asset Mgt For Professionals",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-87.937579,43.193486,-87.937579,43.193486],
+  "bbox": [
+    -87.937579,
+    43.193486,
+    -87.937579,
+    43.193486
+],
   "geometry": {"coordinates":[-87.937579,43.193486],"type":"Point"}
 }

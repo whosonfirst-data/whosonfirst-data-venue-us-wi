@@ -2,13 +2,14 @@
   "id": 354063769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.562379,44.011226,-88.562379,44.011226",
     "geom:latitude":44.011226,
     "geom:longitude":-88.562379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Knapp St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354063769,
-    "wof:lastmodified":1449066076,
+    "wof:lastmodified":1467089933,
     "wof:name":"Aquarium Pets LLC",
     "wof:parent_id":85851167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.562379,44.011226,-88.562379,44.011226],
-  "geometry": {"coordinates":[-88.562379,44.011226],"type":"Point"}
+  "bbox": [
+    -88.562379,
+    44.011226,
+    -88.562379,
+    44.011226
+],
+  "geometry": {"coordinates":[-88.56237900000001,44.011226],"type":"Point"}
 }

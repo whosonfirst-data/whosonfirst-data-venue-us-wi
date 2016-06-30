@@ -2,13 +2,14 @@
   "id": 186366667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.737513,43.732448,-90.737513,43.732448",
     "geom:latitude":43.732448,
     "geom:longitude":-90.737513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12651 State Hwy 33",
     "sg:city":"Cashton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186366667,
-    "wof:lastmodified":1449052315,
+    "wof:lastmodified":1467089916,
     "wof:name":"Down A Country Road-Amish Gift",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-90.737513,43.732448,-90.737513,43.732448],
-  "geometry": {"coordinates":[-90.737513,43.732448],"type":"Point"}
+  "bbox": [
+    -90.737513,
+    43.732448,
+    -90.737513,
+    43.732448
+],
+  "geometry": {"coordinates":[-90.73751300000001,43.732448],"type":"Point"}
 }

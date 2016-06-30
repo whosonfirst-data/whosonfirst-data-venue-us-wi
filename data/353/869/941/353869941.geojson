@@ -2,13 +2,14 @@
   "id": 353869941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.94624,43.116756,-87.94624,43.116756",
     "geom:latitude":43.116756,
     "geom:longitude":-87.94624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5530 N 27th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353869941,
-    "wof:lastmodified":1449020604,
+    "wof:lastmodified":1467089891,
     "wof:name":"Vaughn Plumbing LLC",
     "wof:parent_id":85870801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.94624,43.116756,-87.94624,43.116756],
+  "bbox": [
+    -87.94624,
+    43.116756,
+    -87.94624,
+    43.116756
+],
   "geometry": {"coordinates":[-87.94624,43.116756],"type":"Point"}
 }

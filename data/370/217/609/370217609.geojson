@@ -2,13 +2,14 @@
   "id": 370217609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.709545,43.749182,-87.709545,43.749182",
     "geom:latitude":43.749182,
     "geom:longitude":-87.709545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"539 Riverfront Dr",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370217609,
-    "wof:lastmodified":1449032264,
+    "wof:lastmodified":1467089906,
     "wof:name":"Brisco County Wood Grill",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.709545,43.749182,-87.709545,43.749182],
-  "geometry": {"coordinates":[-87.709545,43.749182],"type":"Point"}
+  "bbox": [
+    -87.709545,
+    43.749182,
+    -87.709545,
+    43.749182
+],
+  "geometry": {"coordinates":[-87.70954500000001,43.749182],"type":"Point"}
 }

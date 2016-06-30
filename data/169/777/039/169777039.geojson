@@ -2,13 +2,14 @@
   "id": 169777039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.555182,43.095332,-88.555182,43.095332",
     "geom:latitude":43.095332,
     "geom:longitude":-88.555182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Allen Rd",
     "sg:city":"Oconomowoc",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169777039,
-    "wof:lastmodified":1449034429,
+    "wof:lastmodified":1467089908,
     "wof:name":"In-Country Sharpening",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "tool"
     ]
 },
-  "bbox": [-88.555182,43.095332,-88.555182,43.095332],
+  "bbox": [
+    -88.555182,
+    43.095332,
+    -88.555182,
+    43.095332
+],
   "geometry": {"coordinates":[-88.555182,43.095332],"type":"Point"}
 }

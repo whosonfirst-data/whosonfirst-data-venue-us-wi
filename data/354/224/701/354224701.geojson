@@ -2,13 +2,14 @@
   "id": 354224701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.889252,43.554871,-90.889252,43.554871",
     "geom:latitude":43.554871,
     "geom:longitude":-90.889252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 S Main St",
     "sg:city":"Viroqua",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354224701,
-    "wof:lastmodified":1449067208,
+    "wof:lastmodified":1467089936,
     "wof:name":"American Signs & Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.889252,43.554871,-90.889252,43.554871],
+  "bbox": [
+    -90.889252,
+    43.554871,
+    -90.889252,
+    43.554871
+],
   "geometry": {"coordinates":[-90.889252,43.554871],"type":"Point"}
 }

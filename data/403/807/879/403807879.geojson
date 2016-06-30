@@ -2,13 +2,14 @@
   "id": 403807879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.176937,44.5949,-88.176937,44.5949",
     "geom:latitude":44.5949,
     "geom:longitude":-88.176937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"464 Meadow Dr",
     "sg:city":"Oneida",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":403807879,
-    "wof:lastmodified":1449054982,
+    "wof:lastmodified":1467089918,
     "wof:name":"Engineered Coating Systems Inc",
     "wof:parent_id":85803213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.176937,44.5949,-88.176937,44.5949],
+  "bbox": [
+    -88.176937,
+    44.5949,
+    -88.176937,
+    44.5949
+],
   "geometry": {"coordinates":[-88.176937,44.5949],"type":"Point"}
 }

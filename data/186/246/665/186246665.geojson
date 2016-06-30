@@ -2,13 +2,14 @@
   "id": 186246665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.332074,43.10236,-89.332074,43.10236",
     "geom:latitude":43.10236,
     "geom:longitude":-89.332074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Gannon Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":186246665,
-    "wof:lastmodified":1449050434,
+    "wof:lastmodified":1467089914,
     "wof:name":"All Breed Pet Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.332074,43.10236,-89.332074,43.10236],
-  "geometry": {"coordinates":[-89.332074,43.10236],"type":"Point"}
+  "bbox": [
+    -89.332074,
+    43.10236,
+    -89.332074,
+    43.10236
+],
+  "geometry": {"coordinates":[-89.33207400000001,43.10236],"type":"Point"}
 }

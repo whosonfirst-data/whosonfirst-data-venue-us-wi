@@ -2,13 +2,14 @@
   "id": 371146151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.279648,43.021792,-89.279648,43.021792",
     "geom:latitude":43.021792,
     "geom:longitude":-89.279648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5312 Black Walnut Dr",
     "sg:city":"Mc Farland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371146151,
-    "wof:lastmodified":1449049454,
+    "wof:lastmodified":1467089913,
     "wof:name":"Logan Wikel",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-89.279648,43.021792,-89.279648,43.021792],
-  "geometry": {"coordinates":[-89.279648,43.021792],"type":"Point"}
+  "bbox": [
+    -89.279648,
+    43.021792,
+    -89.279648,
+    43.021792
+],
+  "geometry": {"coordinates":[-89.27964799999999,43.021792],"type":"Point"}
 }

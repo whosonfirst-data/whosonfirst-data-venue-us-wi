@@ -2,13 +2,14 @@
   "id": 370445349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.058972,44.490328,-88.058972,44.490328",
     "geom:latitude":44.490328,
     "geom:longitude":-88.058972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2240 Holmgren Way",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370445349,
-    "wof:lastmodified":1449029547,
+    "wof:lastmodified":1467089899,
     "wof:name":"Green Bay Blueprint Inc",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "digital"
     ]
 },
-  "bbox": [-88.058972,44.490328,-88.058972,44.490328],
+  "bbox": [
+    -88.058972,
+    44.490328,
+    -88.058972,
+    44.490328
+],
   "geometry": {"coordinates":[-88.058972,44.490328],"type":"Point"}
 }

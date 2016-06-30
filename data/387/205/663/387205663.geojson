@@ -2,13 +2,14 @@
   "id": 387205663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.371541,44.258717,-88.371541,44.258717",
     "geom:latitude":44.258717,
     "geom:longitude":-88.371541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 S Buchanan St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387205663,
-    "wof:lastmodified":1449058405,
+    "wof:lastmodified":1467089928,
     "wof:name":"Scott Aldrich",
     "wof:parent_id":85857401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.371541,44.258717,-88.371541,44.258717],
-  "geometry": {"coordinates":[-88.371541,44.258717],"type":"Point"}
+  "bbox": [
+    -88.371541,
+    44.258717,
+    -88.371541,
+    44.258717
+],
+  "geometry": {"coordinates":[-88.37154099999999,44.258717],"type":"Point"}
 }

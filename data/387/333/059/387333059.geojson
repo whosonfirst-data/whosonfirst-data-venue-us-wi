@@ -2,13 +2,14 @@
   "id": 387333059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.380101,42.603463,-89.380101,42.603463",
     "geom:latitude":42.603463,
     "geom:longitude":-89.380101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2696 Whispering Dr",
     "sg:city":"Brodhead",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387333059,
-    "wof:lastmodified":1449059653,
+    "wof:lastmodified":1467089932,
     "wof:name":"DS Supper Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-89.380101,42.603463,-89.380101,42.603463],
+  "bbox": [
+    -89.380101,
+    42.603463,
+    -89.380101,
+    42.603463
+],
   "geometry": {"coordinates":[-89.380101,42.603463],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404012839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.253465,43.804657,-91.253465,43.804657",
     "geom:latitude":43.804657,
     "geom:longitude":-91.253465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 3rd St S",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404012839,
-    "wof:lastmodified":1449040215,
+    "wof:lastmodified":1467089911,
     "wof:name":"Midwest Toyota",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automobile"
     ]
 },
-  "bbox": [-91.253465,43.804657,-91.253465,43.804657],
-  "geometry": {"coordinates":[-91.253465,43.804657],"type":"Point"}
+  "bbox": [
+    -91.253465,
+    43.804657,
+    -91.253465,
+    43.804657
+],
+  "geometry": {"coordinates":[-91.25346500000001,43.804657],"type":"Point"}
 }

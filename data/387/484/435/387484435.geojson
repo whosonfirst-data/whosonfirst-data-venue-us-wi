@@ -2,13 +2,14 @@
   "id": 387484435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.248716,44.303517,-91.248716,44.303517",
     "geom:latitude":44.303517,
     "geom:longitude":-91.248716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31999 Schansberg Rd",
     "sg:city":"Blair",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387484435,
-    "wof:lastmodified":1449059700,
+    "wof:lastmodified":1467089932,
     "wof:name":"Lee Nelson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.248716,44.303517,-91.248716,44.303517],
+  "bbox": [
+    -91.248716,
+    44.303517,
+    -91.248716,
+    44.303517
+],
   "geometry": {"coordinates":[-91.248716,44.303517],"type":"Point"}
 }

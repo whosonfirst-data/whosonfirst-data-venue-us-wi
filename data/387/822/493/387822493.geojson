@@ -2,13 +2,14 @@
   "id": 387822493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.083322,43.089665,-88.083322,43.089665",
     "geom:latitude":43.089665,
     "geom:longitude":-88.083322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13750 W Capitol Dr",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":387822493,
-    "wof:lastmodified":1449059803,
+    "wof:lastmodified":1467089932,
     "wof:name":"Augustine Financial",
     "wof:parent_id":85870871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.083322,43.089665,-88.083322,43.089665],
+  "bbox": [
+    -88.083322,
+    43.089665,
+    -88.083322,
+    43.089665
+],
   "geometry": {"coordinates":[-88.083322,43.089665],"type":"Point"}
 }

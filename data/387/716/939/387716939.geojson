@@ -2,13 +2,14 @@
   "id": 387716939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.189284,43.243183,-88.189284,43.243183",
     "geom:latitude":43.243183,
     "geom:longitude":-88.189284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 State Hwy 175",
     "sg:city":"Hubertus",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387716939,
-    "wof:lastmodified":1449056641,
+    "wof:lastmodified":1467089923,
     "wof:name":"Weissman Motorcars LLC",
     "wof:parent_id":85814463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-88.189284,43.243183,-88.189284,43.243183],
+  "bbox": [
+    -88.189284,
+    43.243183,
+    -88.189284,
+    43.243183
+],
   "geometry": {"coordinates":[-88.189284,43.243183],"type":"Point"}
 }

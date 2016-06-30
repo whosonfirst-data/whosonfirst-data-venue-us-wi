@@ -2,13 +2,14 @@
   "id": 186153213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.976187,43.063625,-87.976187,43.063625",
     "geom:latitude":43.063625,
     "geom:longitude":-87.976187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2436 N 50th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186153213,
-    "wof:lastmodified":1449052217,
+    "wof:lastmodified":1467089916,
     "wof:name":"Canteen Correctional Food Svc",
     "wof:parent_id":85870829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [-87.976187,43.063625,-87.976187,43.063625],
+  "bbox": [
+    -87.976187,
+    43.063625,
+    -87.976187,
+    43.063625
+],
   "geometry": {"coordinates":[-87.976187,43.063625],"type":"Point"}
 }

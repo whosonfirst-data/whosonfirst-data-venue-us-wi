@@ -2,13 +2,14 @@
   "id": 370823431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.077149,44.185396,-88.077149,44.185396",
     "geom:latitude":44.185396,
     "geom:longitude":-88.077149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Northway Dr",
     "sg:city":"Brillion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370823431,
-    "wof:lastmodified":1449032433,
+    "wof:lastmodified":1467089907,
     "wof:name":"Wenzel Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-88.077149,44.185396,-88.077149,44.185396],
-  "geometry": {"coordinates":[-88.077149,44.185396],"type":"Point"}
+  "bbox": [
+    -88.077149,
+    44.185396,
+    -88.077149,
+    44.185396
+],
+  "geometry": {"coordinates":[-88.07714900000001,44.185396],"type":"Point"}
 }

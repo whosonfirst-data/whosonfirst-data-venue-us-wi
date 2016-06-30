@@ -2,13 +2,14 @@
   "id": 387686219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.007981,43.03508,-88.007981,43.03508",
     "geom:latitude":43.03508,
     "geom:longitude":-88.007981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7635 W Bluemound Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387686219,
-    "wof:lastmodified":1449058986,
+    "wof:lastmodified":1467089930,
     "wof:name":"Wisconsin Council On Economic",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.007981,43.03508,-88.007981,43.03508],
+  "bbox": [
+    -88.007981,
+    43.03508,
+    -88.007981,
+    43.03508
+],
   "geometry": {"coordinates":[-88.007981,43.03508],"type":"Point"}
 }

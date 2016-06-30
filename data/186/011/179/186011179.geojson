@@ -2,13 +2,14 @@
   "id": 186011179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.448537,44.759847,-91.448537,44.759847",
     "geom:latitude":44.759847,
     "geom:longitude":-91.448537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5026 Sheeder Rd",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186011179,
-    "wof:lastmodified":1449052522,
+    "wof:lastmodified":1467089916,
     "wof:name":"Grills Family Daycare",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-91.448537,44.759847,-91.448537,44.759847],
+  "bbox": [
+    -91.448537,
+    44.759847,
+    -91.448537,
+    44.759847
+],
   "geometry": {"coordinates":[-91.448537,44.759847],"type":"Point"}
 }

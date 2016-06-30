@@ -2,13 +2,14 @@
   "id": 185925345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.95124,43.063694,-87.95124,43.063694",
     "geom:latitude":43.063694,
     "geom:longitude":-87.95124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2431 N 30th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185925345,
-    "wof:lastmodified":1449006611,
+    "wof:lastmodified":1467089883,
     "wof:name":"Mid City Auto Salvage",
     "wof:parent_id":85894495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "repair"
     ]
 },
-  "bbox": [-87.95124,43.063694,-87.95124,43.063694],
+  "bbox": [
+    -87.95124,
+    43.063694,
+    -87.95124,
+    43.063694
+],
   "geometry": {"coordinates":[-87.95124,43.063694],"type":"Point"}
 }

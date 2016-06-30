@@ -2,13 +2,14 @@
   "id": 353804053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.758063,45.052789,-87.758063,45.052789",
     "geom:latitude":45.052789,
     "geom:longitude":-87.758063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Thompson St",
     "sg:city":"Peshtigo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353804053,
-    "wof:lastmodified":1449020016,
+    "wof:lastmodified":1467089890,
     "wof:name":"St Mary Parish Rectory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.758063,45.052789,-87.758063,45.052789],
-  "geometry": {"coordinates":[-87.758063,45.052789],"type":"Point"}
+  "bbox": [
+    -87.758063,
+    45.052789,
+    -87.758063,
+    45.052789
+],
+  "geometry": {"coordinates":[-87.75806300000001,45.052789],"type":"Point"}
 }

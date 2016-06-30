@@ -2,13 +2,14 @@
   "id": 186326395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.500719,44.816474,-91.500719,44.816474",
     "geom:latitude":44.816474,
     "geom:longitude":-91.500719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 E Madison St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186326395,
-    "wof:lastmodified":1449051517,
+    "wof:lastmodified":1467089915,
     "wof:name":"Johns Sewing Center",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-91.500719,44.816474,-91.500719,44.816474],
+  "bbox": [
+    -91.500719,
+    44.816474,
+    -91.500719,
+    44.816474
+],
   "geometry": {"coordinates":[-91.500719,44.816474],"type":"Point"}
 }

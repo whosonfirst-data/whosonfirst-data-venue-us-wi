@@ -2,13 +2,14 @@
   "id": 353998049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.485012,43.617643,-88.485012,43.617643",
     "geom:latitude":43.617643,
     "geom:longitude":-88.485012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Oakdale Dr",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353998049,
-    "wof:lastmodified":1449019101,
+    "wof:lastmodified":1467089888,
     "wof:name":"Lexus Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-88.485012,43.617643,-88.485012,43.617643],
+  "bbox": [
+    -88.485012,
+    43.617643,
+    -88.485012,
+    43.617643
+],
   "geometry": {"coordinates":[-88.485012,43.617643],"type":"Point"}
 }

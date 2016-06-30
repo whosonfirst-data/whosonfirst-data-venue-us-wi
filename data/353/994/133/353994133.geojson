@@ -2,13 +2,14 @@
   "id": 353994133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.150319,44.434563,-88.150319,44.434563",
     "geom:latitude":44.434563,
     "geom:longitude":-88.150319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1183 S Pine Tree Rd",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353994133,
-    "wof:lastmodified":1449018371,
+    "wof:lastmodified":1467089886,
     "wof:name":"Best Machine & Repair Inc",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.150319,44.434563,-88.150319,44.434563],
+  "bbox": [
+    -88.150319,
+    44.434563,
+    -88.150319,
+    44.434563
+],
   "geometry": {"coordinates":[-88.150319,44.434563],"type":"Point"}
 }

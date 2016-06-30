@@ -2,13 +2,14 @@
   "id": 371092039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.640284,44.969763,-89.640284,44.969763",
     "geom:latitude":44.969763,
     "geom:longitude":-89.640284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 N 4th Ave",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371092039,
-    "wof:lastmodified":1449049904,
+    "wof:lastmodified":1467089913,
     "wof:name":"Sheila Tang Agency One Ins",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.640284,44.969763,-89.640284,44.969763],
-  "geometry": {"coordinates":[-89.640284,44.969763],"type":"Point"}
+  "bbox": [
+    -89.640284,
+    44.969763,
+    -89.640284,
+    44.969763
+],
+  "geometry": {"coordinates":[-89.64028399999999,44.969763],"type":"Point"}
 }

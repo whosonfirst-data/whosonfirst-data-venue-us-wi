@@ -2,13 +2,14 @@
   "id": 404066515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.030023,42.985089,-88.030023,42.985089",
     "geom:latitude":42.985089,
     "geom:longitude":-88.030023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9431 W Beloit Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":404066515,
-    "wof:lastmodified":1449039368,
+    "wof:lastmodified":1467089909,
     "wof:name":"H J Maney Building & Rentals",
     "wof:parent_id":85870861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "space"
     ]
 },
-  "bbox": [-88.030023,42.985089,-88.030023,42.985089],
+  "bbox": [
+    -88.030023,
+    42.985089,
+    -88.030023,
+    42.985089
+],
   "geometry": {"coordinates":[-88.030023,42.985089],"type":"Point"}
 }

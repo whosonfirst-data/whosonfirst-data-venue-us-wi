@@ -2,13 +2,14 @@
   "id": 353740109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.076662,44.463649,-88.076662,44.463649",
     "geom:latitude":44.463649,
     "geom:longitude":-88.076662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 Parkview Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353740109,
-    "wof:lastmodified":1449019419,
+    "wof:lastmodified":1467089889,
     "wof:name":"Refrigration Svcs of Green Bay",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [-88.076662,44.463649,-88.076662,44.463649],
+  "bbox": [
+    -88.076662,
+    44.463649,
+    -88.076662,
+    44.463649
+],
   "geometry": {"coordinates":[-88.076662,44.463649],"type":"Point"}
 }

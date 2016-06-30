@@ -2,13 +2,14 @@
   "id": 370288995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.720999,43.75629,-87.720999,43.75629",
     "geom:latitude":43.75629,
     "geom:longitude":-87.720999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 Erie Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370288995,
-    "wof:lastmodified":1449029444,
+    "wof:lastmodified":1467089899,
     "wof:name":"C & M Specialty Sales",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-87.720999,43.75629,-87.720999,43.75629],
-  "geometry": {"coordinates":[-87.720999,43.75629],"type":"Point"}
+  "bbox": [
+    -87.720999,
+    43.75629,
+    -87.720999,
+    43.75629
+],
+  "geometry": {"coordinates":[-87.72099900000001,43.75629],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353887021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.69067,44.108918,-87.69067,44.108918",
     "geom:latitude":44.108918,
     "geom:longitude":-87.69067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3606 Waldo Blvd",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353887021,
-    "wof:lastmodified":1449020315,
+    "wof:lastmodified":1467089891,
     "wof:name":"Brandts Garden Center & Ldscpg",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nursery"
     ]
 },
-  "bbox": [-87.69067,44.108918,-87.69067,44.108918],
+  "bbox": [
+    -87.69067,
+    44.108918,
+    -87.69067,
+    44.108918
+],
   "geometry": {"coordinates":[-87.69067,44.108918],"type":"Point"}
 }

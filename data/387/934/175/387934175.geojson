@@ -2,13 +2,14 @@
   "id": 387934175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.249578,44.301616,-88.249578,44.301616",
     "geom:latitude":44.301616,
     "geom:longitude":-88.249578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1543 Co Rd J",
     "sg:city":"Kaukauna",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387934175,
-    "wof:lastmodified":1449056303,
+    "wof:lastmodified":1467089922,
     "wof:name":"B A Web Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "design"
     ]
 },
-  "bbox": [-88.249578,44.301616,-88.249578,44.301616],
+  "bbox": [
+    -88.249578,
+    44.301616,
+    -88.249578,
+    44.301616
+],
   "geometry": {"coordinates":[-88.249578,44.301616],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370536371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.496901,44.809949,-91.496901,44.809949",
     "geom:latitude":44.809949,
     "geom:longitude":-91.496901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 S Farwell St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370536371,
-    "wof:lastmodified":1449031096,
+    "wof:lastmodified":1467089903,
     "wof:name":"Midwest Professional Planners",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "financial"
     ]
 },
-  "bbox": [-91.496901,44.809949,-91.496901,44.809949],
-  "geometry": {"coordinates":[-91.496901,44.809949],"type":"Point"}
+  "bbox": [
+    -91.496901,
+    44.809949,
+    -91.496901,
+    44.809949
+],
+  "geometry": {"coordinates":[-91.49690099999999,44.809949],"type":"Point"}
 }

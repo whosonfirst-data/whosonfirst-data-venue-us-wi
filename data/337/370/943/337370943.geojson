@@ -2,13 +2,14 @@
   "id": 337370943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.364207,43.102911,-89.364207,43.102911",
     "geom:latitude":43.102911,
     "geom:longitude":-89.364207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2250 Sherman Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337370943,
-    "wof:lastmodified":1449027386,
+    "wof:lastmodified":1467089894,
     "wof:name":"Kappel's Clock Shop",
     "wof:parent_id":85878841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clocks"
     ]
 },
-  "bbox": [-89.364207,43.102911,-89.364207,43.102911],
-  "geometry": {"coordinates":[-89.364207,43.102911],"type":"Point"}
+  "bbox": [
+    -89.364207,
+    43.102911,
+    -89.364207,
+    43.102911
+],
+  "geometry": {"coordinates":[-89.36420699999999,43.102911],"type":"Point"}
 }

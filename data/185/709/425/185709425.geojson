@@ -2,13 +2,14 @@
   "id": 185709425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.390789,43.327373,-88.390789,43.327373",
     "geom:latitude":43.327373,
     "geom:longitude":-88.390789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"857 W State St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185709425,
-    "wof:lastmodified":1449006934,
+    "wof:lastmodified":1467089884,
     "wof:name":"Triton Corp",
     "wof:parent_id":85841573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.390789,43.327373,-88.390789,43.327373],
+  "bbox": [
+    -88.390789,
+    43.327373,
+    -88.390789,
+    43.327373
+],
   "geometry": {"coordinates":[-88.390789,43.327373],"type":"Point"}
 }

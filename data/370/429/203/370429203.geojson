@@ -2,13 +2,14 @@
   "id": 370429203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.485265,45.097065,-91.485265,45.097065",
     "geom:latitude":45.097065,
     "geom:longitude":-91.485265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 19th Ave",
     "sg:city":"Bloomer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370429203,
-    "wof:lastmodified":1449032284,
+    "wof:lastmodified":1467089907,
     "wof:name":"Construction Soluitions",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-91.485265,45.097065,-91.485265,45.097065],
+  "bbox": [
+    -91.485265,
+    45.097065,
+    -91.485265,
+    45.097065
+],
   "geometry": {"coordinates":[-91.485265,45.097065],"type":"Point"}
 }

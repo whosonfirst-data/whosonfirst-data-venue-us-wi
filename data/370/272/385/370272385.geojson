@@ -2,13 +2,14 @@
   "id": 370272385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.006446,43.139617,-88.006446,43.139617",
     "geom:latitude":43.139617,
     "geom:longitude":-88.006446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6646 N 77th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370272385,
-    "wof:lastmodified":1449032231,
+    "wof:lastmodified":1467089906,
     "wof:name":"Carl's Day Care",
     "wof:parent_id":85870805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.006446,43.139617,-88.006446,43.139617],
+  "bbox": [
+    -88.006446,
+    43.139617,
+    -88.006446,
+    43.139617
+],
   "geometry": {"coordinates":[-88.006446,43.139617],"type":"Point"}
 }

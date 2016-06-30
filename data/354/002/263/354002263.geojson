@@ -2,13 +2,14 @@
   "id": 354002263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.65878,44.171342,-87.65878,44.171342",
     "geom:latitude":44.171342,
     "geom:longitude":-87.65878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5900 Co Rd B",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354002263,
-    "wof:lastmodified":1449067336,
+    "wof:lastmodified":1467089937,
     "wof:name":"Quality Aire Duct Cleaning",
     "wof:parent_id":85827947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-87.65878,44.171342,-87.65878,44.171342],
-  "geometry": {"coordinates":[-87.65878,44.171342],"type":"Point"}
+  "bbox": [
+    -87.65878,
+    44.171342,
+    -87.65878,
+    44.171342
+],
+  "geometry": {"coordinates":[-87.65877999999999,44.171342],"type":"Point"}
 }

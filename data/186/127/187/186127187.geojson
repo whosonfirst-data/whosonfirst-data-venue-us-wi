@@ -2,13 +2,14 @@
   "id": 186127187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.179689,43.417437,-88.179689,43.417437",
     "geom:latitude":43.417437,
     "geom:longitude":-88.179689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 S 3rd Ave",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186127187,
-    "wof:lastmodified":1449052806,
+    "wof:lastmodified":1467089917,
     "wof:name":"Fay S Haven Trucking LLC",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.179689,43.417437,-88.179689,43.417437],
+  "bbox": [
+    -88.179689,
+    43.417437,
+    -88.179689,
+    43.417437
+],
   "geometry": {"coordinates":[-88.179689,43.417437],"type":"Point"}
 }

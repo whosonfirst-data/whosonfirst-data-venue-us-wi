@@ -2,13 +2,14 @@
   "id": 186248165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.477297,43.064808,-89.477297,43.064808",
     "geom:latitude":43.064808,
     "geom:longitude":-89.477297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5618 Trempealeau Trl",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186248165,
-    "wof:lastmodified":1449051856,
+    "wof:lastmodified":1467089916,
     "wof:name":"Eurocloset Systems LLC",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.477297,43.064808,-89.477297,43.064808],
-  "geometry": {"coordinates":[-89.477297,43.064808],"type":"Point"}
+  "bbox": [
+    -89.477297,
+    43.064808,
+    -89.477297,
+    43.064808
+],
+  "geometry": {"coordinates":[-89.47729699999999,43.064808],"type":"Point"}
 }

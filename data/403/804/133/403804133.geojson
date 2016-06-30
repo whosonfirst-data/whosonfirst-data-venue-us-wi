@@ -2,13 +2,14 @@
   "id": 403804133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.537468,44.020689,-88.537468,44.020689",
     "geom:latitude":44.020689,
     "geom:longitude":-88.537468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"558 N Main St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":403804133,
-    "wof:lastmodified":1449055536,
+    "wof:lastmodified":1467089920,
     "wof:name":"STS Consultants LTD",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "engineer"
     ]
 },
-  "bbox": [-88.537468,44.020689,-88.537468,44.020689],
+  "bbox": [
+    -88.537468,
+    44.020689,
+    -88.537468,
+    44.020689
+],
   "geometry": {"coordinates":[-88.537468,44.020689],"type":"Point"}
 }

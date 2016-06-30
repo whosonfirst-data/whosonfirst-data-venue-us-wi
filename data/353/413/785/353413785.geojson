@@ -2,13 +2,14 @@
   "id": 353413785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.453207,43.777003,-88.453207,43.777003",
     "geom:latitude":43.777003,
     "geom:longitude":-88.453207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Forest Ave",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353413785,
-    "wof:lastmodified":1449018661,
+    "wof:lastmodified":1467089887,
     "wof:name":"Historic El Dorado Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-88.453207,43.777003,-88.453207,43.777003],
-  "geometry": {"coordinates":[-88.453207,43.777003],"type":"Point"}
+  "bbox": [
+    -88.453207,
+    43.777003,
+    -88.453207,
+    43.777003
+],
+  "geometry": {"coordinates":[-88.45320700000001,43.777003],"type":"Point"}
 }

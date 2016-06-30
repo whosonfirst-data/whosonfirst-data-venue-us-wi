@@ -2,13 +2,14 @@
   "id": 404144089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.079386,46.706255,-92.079386,46.706255",
     "geom:latitude":46.706255,
     "geom:longitude":-92.079386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 N 28th St",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404144089,
-    "wof:lastmodified":1449039994,
+    "wof:lastmodified":1467089911,
     "wof:name":"Angel Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-92.079386,46.706255,-92.079386,46.706255],
+  "bbox": [
+    -92.079386,
+    46.706255,
+    -92.079386,
+    46.706255
+],
   "geometry": {"coordinates":[-92.079386,46.706255],"type":"Point"}
 }

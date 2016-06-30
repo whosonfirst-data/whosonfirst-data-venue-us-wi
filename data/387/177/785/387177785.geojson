@@ -2,13 +2,14 @@
   "id": 387177785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.01069,44.514613,-88.01069,44.514613",
     "geom:latitude":44.514613,
     "geom:longitude":-88.01069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 N Madison St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387177785,
-    "wof:lastmodified":1449059919,
+    "wof:lastmodified":1467089933,
     "wof:name":"Cooperative Eductl Svc Agcy 7",
     "wof:parent_id":85877935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "provides"
     ]
 },
-  "bbox": [-88.01069,44.514613,-88.01069,44.514613],
+  "bbox": [
+    -88.01069,
+    44.514613,
+    -88.01069,
+    44.514613
+],
   "geometry": {"coordinates":[-88.01069,44.514613],"type":"Point"}
 }

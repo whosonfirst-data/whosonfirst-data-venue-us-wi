@@ -2,13 +2,14 @@
   "id": 353562335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.410756,44.363386,-91.410756,44.363386",
     "geom:latitude":44.363386,
     "geom:longitude":-91.410756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23150 Whitehall Rd",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353562335,
-    "wof:lastmodified":1449019609,
+    "wof:lastmodified":1467089889,
     "wof:name":"Independence BP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.410756,44.363386,-91.410756,44.363386],
-  "geometry": {"coordinates":[-91.410756,44.363386],"type":"Point"}
+  "bbox": [
+    -91.410756,
+    44.363386,
+    -91.410756,
+    44.363386
+],
+  "geometry": {"coordinates":[-91.41075600000001,44.363386],"type":"Point"}
 }

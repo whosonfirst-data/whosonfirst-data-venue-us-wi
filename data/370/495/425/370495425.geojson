@@ -2,13 +2,14 @@
   "id": 370495425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.690144,45.180629,-89.690144,45.180629",
     "geom:latitude":45.180629,
     "geom:longitude":-89.690144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"726 E 2nd St",
     "sg:city":"Merrill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370495425,
-    "wof:lastmodified":1449030586,
+    "wof:lastmodified":1467089902,
     "wof:name":"Central Wisconsin Psychlgcl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-89.690144,45.180629,-89.690144,45.180629],
+  "bbox": [
+    -89.690144,
+    45.180629,
+    -89.690144,
+    45.180629
+],
   "geometry": {"coordinates":[-89.690144,45.180629],"type":"Point"}
 }

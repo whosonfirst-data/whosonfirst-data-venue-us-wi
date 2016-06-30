@@ -2,13 +2,14 @@
   "id": 370693097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.900143,44.327745,-87.900143,44.327745",
     "geom:latitude":44.327745,
     "geom:longitude":-87.900143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4527 Cooperstown Rd",
     "sg:city":"Denmark",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370693097,
-    "wof:lastmodified":1449029272,
+    "wof:lastmodified":1467089898,
     "wof:name":"Krahn Dairy Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.900143,44.327745,-87.900143,44.327745],
+  "bbox": [
+    -87.900143,
+    44.327745,
+    -87.900143,
+    44.327745
+],
   "geometry": {"coordinates":[-87.900143,44.327745],"type":"Point"}
 }

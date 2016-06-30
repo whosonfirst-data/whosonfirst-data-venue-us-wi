@@ -2,13 +2,14 @@
   "id": 370540331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.241588,43.176658,-89.241588,43.176658",
     "geom:latitude":43.176658,
     "geom:longitude":-89.241588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Clarmar Dr",
     "sg:city":"Sun Prairie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370540331,
-    "wof:lastmodified":1449030418,
+    "wof:lastmodified":1467089901,
     "wof:name":"Holmes Custom Construction",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.241588,43.176658,-89.241588,43.176658],
-  "geometry": {"coordinates":[-89.241588,43.176658],"type":"Point"}
+  "bbox": [
+    -89.241588,
+    43.176658,
+    -89.241588,
+    43.176658
+],
+  "geometry": {"coordinates":[-89.24158799999999,43.176658],"type":"Point"}
 }

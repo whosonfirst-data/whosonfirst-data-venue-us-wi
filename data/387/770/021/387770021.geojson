@@ -2,13 +2,14 @@
   "id": 387770021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.927088,43.04221,-87.927088,43.04221",
     "geom:latitude":43.04221,
     "geom:longitude":-87.927088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"960 N 12th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387770021,
-    "wof:lastmodified":1449059993,
+    "wof:lastmodified":1467089933,
     "wof:name":"Cardiocascular Disease Cnsltnt",
     "wof:parent_id":85870839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.927088,43.04221,-87.927088,43.04221],
+  "bbox": [
+    -87.927088,
+    43.04221,
+    -87.927088,
+    43.04221
+],
   "geometry": {"coordinates":[-87.927088,43.04221],"type":"Point"}
 }

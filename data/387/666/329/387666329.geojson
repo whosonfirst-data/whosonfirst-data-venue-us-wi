@@ -2,13 +2,14 @@
   "id": 387666329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.74529,45.502338,-91.74529,45.502338",
     "geom:latitude":45.502338,
     "geom:longitude":-91.74529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 W Newton St",
     "sg:city":"Rice Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387666329,
-    "wof:lastmodified":1449057494,
+    "wof:lastmodified":1467089925,
     "wof:name":"Joannes Hair & Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-91.74529,45.502338,-91.74529,45.502338],
+  "bbox": [
+    -91.74529,
+    45.502338,
+    -91.74529,
+    45.502338
+],
   "geometry": {"coordinates":[-91.74529,45.502338],"type":"Point"}
 }

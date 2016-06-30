@@ -2,13 +2,14 @@
   "id": 370843333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.060051,43.060084,-88.060051,43.060084",
     "geom:latitude":43.060084,
     "geom:longitude":-88.060051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11712 W North Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370843333,
-    "wof:lastmodified":1449029385,
+    "wof:lastmodified":1467089898,
     "wof:name":"Signature Nails",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manicuring"
     ]
 },
-  "bbox": [-88.060051,43.060084,-88.060051,43.060084],
+  "bbox": [
+    -88.060051,
+    43.060084,
+    -88.060051,
+    43.060084
+],
   "geometry": {"coordinates":[-88.060051,43.060084],"type":"Point"}
 }

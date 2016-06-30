@@ -2,13 +2,14 @@
   "id": 403805441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.19553,43.200973,-88.19553,43.200973",
     "geom:latitude":43.200973,
     "geom:longitude":-88.19553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Loftwood Ter",
     "sg:city":"Colgate",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403805441,
-    "wof:lastmodified":1449055080,
+    "wof:lastmodified":1467089918,
     "wof:name":"MD Tool & Machining",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.19553,43.200973,-88.19553,43.200973],
-  "geometry": {"coordinates":[-88.19553,43.200973],"type":"Point"}
+  "bbox": [
+    -88.19553,
+    43.200973,
+    -88.19553,
+    43.200973
+],
+  "geometry": {"coordinates":[-88.19553000000001,43.200973],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185993423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.911967,43.039598,-87.911967,43.039598",
     "geom:latitude":43.039598,
     "geom:longitude":-87.911967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 N Plankinton Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185993423,
-    "wof:lastmodified":1449007323,
+    "wof:lastmodified":1467089884,
     "wof:name":"River Bank Plaza",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-87.911967,43.039598,-87.911967,43.039598],
+  "bbox": [
+    -87.911967,
+    43.039598,
+    -87.911967,
+    43.039598
+],
   "geometry": {"coordinates":[-87.911967,43.039598],"type":"Point"}
 }

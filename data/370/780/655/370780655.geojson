@@ -2,13 +2,14 @@
   "id": 370780655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.288597,43.047068,-89.288597,43.047068",
     "geom:latitude":43.047068,
     "geom:longitude":-89.288597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3620 Marsh Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370780655,
-    "wof:lastmodified":1449031627,
+    "wof:lastmodified":1467089905,
     "wof:name":"Westside Cabinet & Millwork",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-89.288597,43.047068,-89.288597,43.047068],
+  "bbox": [
+    -89.288597,
+    43.047068,
+    -89.288597,
+    43.047068
+],
   "geometry": {"coordinates":[-89.288597,43.047068],"type":"Point"}
 }

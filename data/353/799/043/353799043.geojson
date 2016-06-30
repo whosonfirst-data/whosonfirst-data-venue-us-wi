@@ -2,13 +2,14 @@
   "id": 353799043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.885646,43.061895,-87.885646,43.061895",
     "geom:latitude":43.061895,
     "geom:longitude":-87.885646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2423 N Murray Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353799043,
-    "wof:lastmodified":1449020805,
+    "wof:lastmodified":1467089892,
     "wof:name":"Estate",
     "wof:parent_id":85870883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-87.885646,43.061895,-87.885646,43.061895],
-  "geometry": {"coordinates":[-87.885646,43.061895],"type":"Point"}
+  "bbox": [
+    -87.885646,
+    43.061895,
+    -87.885646,
+    43.061895
+],
+  "geometry": {"coordinates":[-87.88564599999999,43.061895],"type":"Point"}
 }

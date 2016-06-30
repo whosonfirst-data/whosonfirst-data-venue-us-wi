@@ -2,13 +2,14 @@
   "id": 185963573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.031878,44.447426,-88.031878,44.447426",
     "geom:latitude":44.447426,
     "geom:longitude":-88.031878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 Eau Claire Pl",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185963573,
-    "wof:lastmodified":1449006769,
+    "wof:lastmodified":1467089883,
     "wof:name":"Fitness America of Green Bay",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-88.031878,44.447426,-88.031878,44.447426],
-  "geometry": {"coordinates":[-88.031878,44.447426],"type":"Point"}
+  "bbox": [
+    -88.031878,
+    44.447426,
+    -88.031878,
+    44.447426
+],
+  "geometry": {"coordinates":[-88.03187800000001,44.447426],"type":"Point"}
 }

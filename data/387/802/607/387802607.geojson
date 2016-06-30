@@ -2,13 +2,14 @@
   "id": 387802607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.058983,43.12251,-88.058983,43.12251",
     "geom:latitude":43.12251,
     "geom:longitude":-88.058983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11905 W Carmen Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387802607,
-    "wof:lastmodified":1449059207,
+    "wof:lastmodified":1467089931,
     "wof:name":"American Distributors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.058983,43.12251,-88.058983,43.12251],
+  "bbox": [
+    -88.058983,
+    43.12251,
+    -88.058983,
+    43.12251
+],
   "geometry": {"coordinates":[-88.058983,43.12251],"type":"Point"}
 }

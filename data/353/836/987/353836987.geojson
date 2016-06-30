@@ -2,13 +2,14 @@
   "id": 353836987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.458706,43.01666,-89.458706,43.01666",
     "geom:latitude":43.01666,
     "geom:longitude":-89.458706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3009 Pine Way Trl",
     "sg:city":"Fitchburg",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353836987,
-    "wof:lastmodified":1449019928,
+    "wof:lastmodified":1467089890,
     "wof:name":"On Location Photography LLC",
     "wof:parent_id":85878885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "commercial"
     ]
 },
-  "bbox": [-89.458706,43.01666,-89.458706,43.01666],
-  "geometry": {"coordinates":[-89.458706,43.01666],"type":"Point"}
+  "bbox": [
+    -89.458706,
+    43.01666,
+    -89.458706,
+    43.01666
+],
+  "geometry": {"coordinates":[-89.45870600000001,43.01666],"type":"Point"}
 }

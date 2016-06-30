@@ -2,13 +2,14 @@
   "id": 387944085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.397545,44.749188,-91.397545,44.749188",
     "geom:latitude":44.749188,
     "geom:longitude":-91.397545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5811 US Hwy 53",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387944085,
-    "wof:lastmodified":1449058010,
+    "wof:lastmodified":1467089926,
     "wof:name":"Chippewa Septic Svc",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-91.397545,44.749188,-91.397545,44.749188],
-  "geometry": {"coordinates":[-91.397545,44.749188],"type":"Point"}
+  "bbox": [
+    -91.397545,
+    44.749188,
+    -91.397545,
+    44.749188
+],
+  "geometry": {"coordinates":[-91.39754499999999,44.749188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371188203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.645289,45.326051,-91.645289,45.326051",
     "geom:latitude":45.326051,
     "geom:longitude":-91.645289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Chichester Dr",
     "sg:city":"Chetek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371188203,
-    "wof:lastmodified":1449049551,
+    "wof:lastmodified":1467089913,
     "wof:name":"Buhrow Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-91.645289,45.326051,-91.645289,45.326051],
-  "geometry": {"coordinates":[-91.645289,45.326051],"type":"Point"}
+  "bbox": [
+    -91.645289,
+    45.326051,
+    -91.645289,
+    45.326051
+],
+  "geometry": {"coordinates":[-91.64528900000001,45.326051],"type":"Point"}
 }

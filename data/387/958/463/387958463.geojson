@@ -2,13 +2,14 @@
   "id": 387958463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.5833,43.985,-88.5833,43.985",
     "geom:latitude":43.985,
     "geom:longitude":-88.5833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 S Washburn St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387958463,
-    "wof:lastmodified":1449059073,
+    "wof:lastmodified":1467089930,
     "wof:name":"Zale Jewelery Outlet",
     "wof:parent_id":85819403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-88.5833,43.985,-88.5833,43.985],
-  "geometry": {"coordinates":[-88.5833,43.985],"type":"Point"}
+  "bbox": [
+    -88.5833,
+    43.985,
+    -88.5833,
+    43.985
+],
+  "geometry": {"coordinates":[-88.58329999999999,43.985],"type":"Point"}
 }

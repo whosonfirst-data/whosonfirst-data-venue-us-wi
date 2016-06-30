@@ -2,13 +2,14 @@
   "id": 354217107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.06948,44.560109,-88.06948,44.560109",
     "geom:latitude":44.560109,
     "geom:longitude":-88.06948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2149 Velp Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354217107,
-    "wof:lastmodified":1449067571,
+    "wof:lastmodified":1467089937,
     "wof:name":"Maye John Associates Inc",
     "wof:parent_id":85815317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "handling"
     ]
 },
-  "bbox": [-88.06948,44.560109,-88.06948,44.560109],
+  "bbox": [
+    -88.06948,
+    44.560109,
+    -88.06948,
+    44.560109
+],
   "geometry": {"coordinates":[-88.06948,44.560109],"type":"Point"}
 }

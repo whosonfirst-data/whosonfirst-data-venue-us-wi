@@ -2,13 +2,14 @@
   "id": 404157165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.164227,44.444099,-92.164227,44.444099",
     "geom:latitude":44.444099,
     "geom:longitude":-92.164227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 3rd St",
     "sg:city":"Pepin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404157165,
-    "wof:lastmodified":1449040152,
+    "wof:lastmodified":1467089911,
     "wof:name":"Lake Pepin Players Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.164227,44.444099,-92.164227,44.444099],
+  "bbox": [
+    -92.164227,
+    44.444099,
+    -92.164227,
+    44.444099
+],
   "geometry": {"coordinates":[-92.164227,44.444099],"type":"Point"}
 }

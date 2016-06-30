@@ -2,13 +2,14 @@
   "id": 371179947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.485916,43.095094,-89.485916,43.095094",
     "geom:latitude":43.095094,
     "geom:longitude":-89.485916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2114 Allen Blvd",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371179947,
-    "wof:lastmodified":1449050028,
+    "wof:lastmodified":1467089914,
     "wof:name":"Klean Metals & Steel Inc",
     "wof:parent_id":85841479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.485916,43.095094,-89.485916,43.095094],
+  "bbox": [
+    -89.485916,
+    43.095094,
+    -89.485916,
+    43.095094
+],
   "geometry": {"coordinates":[-89.485916,43.095094],"type":"Point"}
 }

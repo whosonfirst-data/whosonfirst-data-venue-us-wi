@@ -2,13 +2,14 @@
   "id": 353539945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.070102,44.474415,-88.070102,44.474415",
     "geom:latitude":44.474415,
     "geom:longitude":-88.070102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2707 Holmgren Way",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353539945,
-    "wof:lastmodified":1449020858,
+    "wof:lastmodified":1467089892,
     "wof:name":"Broadway Suzuki",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-88.070102,44.474415,-88.070102,44.474415],
-  "geometry": {"coordinates":[-88.070102,44.474415],"type":"Point"}
+  "bbox": [
+    -88.070102,
+    44.474415,
+    -88.070102,
+    44.474415
+],
+  "geometry": {"coordinates":[-88.07010200000001,44.474415],"type":"Point"}
 }

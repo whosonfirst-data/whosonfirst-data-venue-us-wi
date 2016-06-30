@@ -2,13 +2,14 @@
   "id": 353556771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.404245,43.043147,-89.404245,43.043147",
     "geom:latitude":43.043147,
     "geom:longitude":-89.404245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1490 Martin St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353556771,
-    "wof:lastmodified":1449018895,
+    "wof:lastmodified":1467089888,
     "wof:name":"Hospitality House",
     "wof:parent_id":85878867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-89.404245,43.043147,-89.404245,43.043147],
+  "bbox": [
+    -89.404245,
+    43.043147,
+    -89.404245,
+    43.043147
+],
   "geometry": {"coordinates":[-89.404245,43.043147],"type":"Point"}
 }

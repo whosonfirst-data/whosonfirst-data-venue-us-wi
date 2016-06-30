@@ -2,13 +2,14 @@
   "id": 371077679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.187385,43.159072,-89.187385,43.159072",
     "geom:latitude":43.159072,
     "geom:longitude":-89.187385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5781 Town Hall Rd",
     "sg:city":"Sun Prairie",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371077679,
-    "wof:lastmodified":1449049194,
+    "wof:lastmodified":1467089912,
     "wof:name":"Sylvia E Drunasky Family LP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-89.187385,43.159072,-89.187385,43.159072],
-  "geometry": {"coordinates":[-89.187385,43.159072],"type":"Point"}
+  "bbox": [
+    -89.187385,
+    43.159072,
+    -89.187385,
+    43.159072
+],
+  "geometry": {"coordinates":[-89.18738500000001,43.159072],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353839139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.988107,43.092834,-87.988107,43.092834",
     "geom:latitude":43.092834,
     "geom:longitude":-87.988107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4144 N 61st St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353839139,
-    "wof:lastmodified":1449019810,
+    "wof:lastmodified":1467089890,
     "wof:name":"Avon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.988107,43.092834,-87.988107,43.092834],
+  "bbox": [
+    -87.988107,
+    43.092834,
+    -87.988107,
+    43.092834
+],
   "geometry": {"coordinates":[-87.988107,43.092834],"type":"Point"}
 }

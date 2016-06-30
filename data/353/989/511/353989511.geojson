@@ -2,13 +2,14 @@
   "id": 353989511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.990386,43.209623,-87.990386,43.209623",
     "geom:latitude":43.209623,
     "geom:longitude":-87.990386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6140 W Executive Dr",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353989511,
-    "wof:lastmodified":1449020109,
+    "wof:lastmodified":1467089890,
     "wof:name":"Schwarz Pharma Inc",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.990386,43.209623,-87.990386,43.209623],
+  "bbox": [
+    -87.990386,
+    43.209623,
+    -87.990386,
+    43.209623
+],
   "geometry": {"coordinates":[-87.990386,43.209623],"type":"Point"}
 }

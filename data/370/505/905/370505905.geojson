@@ -2,13 +2,14 @@
   "id": 370505905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.03001,46.686183,-92.03001,46.686183",
     "geom:latitude":46.686183,
     "geom:longitude":-92.03001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 39th Ave E",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370505905,
-    "wof:lastmodified":1449031906,
+    "wof:lastmodified":1467089905,
     "wof:name":"R & R Transport",
     "wof:parent_id":85802865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-92.03001,46.686183,-92.03001,46.686183],
+  "bbox": [
+    -92.03001,
+    46.686183,
+    -92.03001,
+    46.686183
+],
   "geometry": {"coordinates":[-92.03001,46.686183],"type":"Point"}
 }

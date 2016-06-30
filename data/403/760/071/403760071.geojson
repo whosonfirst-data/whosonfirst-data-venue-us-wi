@@ -2,13 +2,14 @@
   "id": 403760071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.232156,45.525559,-92.232156,45.525559",
     "geom:latitude":45.525559,
     "geom:longitude":-92.232156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"337 220th Ave",
     "sg:city":"Comstock",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403760071,
-    "wof:lastmodified":1449055896,
+    "wof:lastmodified":1467089921,
     "wof:name":"James Jay Rennicke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.232156,45.525559,-92.232156,45.525559],
+  "bbox": [
+    -92.232156,
+    45.525559,
+    -92.232156,
+    45.525559
+],
   "geometry": {"coordinates":[-92.232156,45.525559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370928867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.435394,43.79144,-88.435394,43.79144",
     "geom:latitude":43.79144,
     "geom:longitude":-88.435394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"292 E Scott St",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370928867,
-    "wof:lastmodified":1449031997,
+    "wof:lastmodified":1467089906,
     "wof:name":"Lynn K Immel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.435394,43.79144,-88.435394,43.79144],
+  "bbox": [
+    -88.435394,
+    43.79144,
+    -88.435394,
+    43.79144
+],
   "geometry": {"coordinates":[-88.435394,43.79144],"type":"Point"}
 }

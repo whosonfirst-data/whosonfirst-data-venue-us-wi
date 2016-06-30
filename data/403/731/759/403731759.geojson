@@ -2,13 +2,14 @@
   "id": 403731759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.438376,44.628763,-87.438376,44.628763",
     "geom:latitude":44.628763,
     "geom:longitude":-87.438376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8424 Wolf River Dr",
     "sg:city":"Algoma",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403731759,
-    "wof:lastmodified":1449055823,
+    "wof:lastmodified":1467089920,
     "wof:name":"Krause Tree Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "christmas"
     ]
 },
-  "bbox": [-87.438376,44.628763,-87.438376,44.628763],
-  "geometry": {"coordinates":[-87.438376,44.628763],"type":"Point"}
+  "bbox": [
+    -87.438376,
+    44.628763,
+    -87.438376,
+    44.628763
+],
+  "geometry": {"coordinates":[-87.43837600000001,44.628763],"type":"Point"}
 }

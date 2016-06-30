@@ -2,13 +2,14 @@
   "id": 403721909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.231775,43.032368,-88.231775,43.032368",
     "geom:latitude":43.032368,
     "geom:longitude":-88.231775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"684 Northview Rd",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403721909,
-    "wof:lastmodified":1449055963,
+    "wof:lastmodified":1467089921,
     "wof:name":"Blue Sky Leasing Corp",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airplane"
     ]
 },
-  "bbox": [-88.231775,43.032368,-88.231775,43.032368],
+  "bbox": [
+    -88.231775,
+    43.032368,
+    -88.231775,
+    43.032368
+],
   "geometry": {"coordinates":[-88.231775,43.032368],"type":"Point"}
 }

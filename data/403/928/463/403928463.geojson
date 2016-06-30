@@ -2,13 +2,14 @@
   "id": 403928463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.081704,44.46242,-88.081704,44.46242",
     "geom:latitude":44.46242,
     "geom:longitude":-88.081704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3190 Coronet Way",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403928463,
-    "wof:lastmodified":1449055780,
+    "wof:lastmodified":1467089920,
     "wof:name":"K & K Material Handling Inc",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "handling"
     ]
 },
-  "bbox": [-88.081704,44.46242,-88.081704,44.46242],
+  "bbox": [
+    -88.081704,
+    44.46242,
+    -88.081704,
+    44.46242
+],
   "geometry": {"coordinates":[-88.081704,44.46242],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370858807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.278344,44.762516,-91.278344,44.762516",
     "geom:latitude":44.762516,
     "geom:longitude":-91.278344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 S Liberty St",
     "sg:city":"Thorp",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370858807,
-    "wof:lastmodified":1449029422,
+    "wof:lastmodified":1467089898,
     "wof:name":"Farm Credit Svc",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-91.278344,44.762516,-91.278344,44.762516],
+  "bbox": [
+    -91.278344,
+    44.762516,
+    -91.278344,
+    44.762516
+],
   "geometry": {"coordinates":[-91.278344,44.762516],"type":"Point"}
 }

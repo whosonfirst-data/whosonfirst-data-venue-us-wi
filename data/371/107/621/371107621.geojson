@@ -2,13 +2,14 @@
   "id": 371107621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.767887,44.561022,-88.767887,44.561022",
     "geom:latitude":44.561022,
     "geom:longitude":-88.767887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9090 Bear Creek Rd",
     "sg:city":"Clintonville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371107621,
-    "wof:lastmodified":1449049077,
+    "wof:lastmodified":1467089912,
     "wof:name":"Double-Take Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.767887,44.561022,-88.767887,44.561022],
+  "bbox": [
+    -88.767887,
+    44.561022,
+    -88.767887,
+    44.561022
+],
   "geometry": {"coordinates":[-88.767887,44.561022],"type":"Point"}
 }

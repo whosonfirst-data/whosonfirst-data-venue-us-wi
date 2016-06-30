@@ -2,13 +2,14 @@
   "id": 353868105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.145615,46.033101,-89.145615,46.033101",
     "geom:latitude":46.033101,
     "geom:longitude":-89.145615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3243 State Hwy 17",
     "sg:city":"Phelps",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353868105,
-    "wof:lastmodified":1449018358,
+    "wof:lastmodified":1467089886,
     "wof:name":"Twin Lakes Bible Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.145615,46.033101,-89.145615,46.033101],
-  "geometry": {"coordinates":[-89.145615,46.033101],"type":"Point"}
+  "bbox": [
+    -89.145615,
+    46.033101,
+    -89.145615,
+    46.033101
+],
+  "geometry": {"coordinates":[-89.14561500000001,46.033101],"type":"Point"}
 }

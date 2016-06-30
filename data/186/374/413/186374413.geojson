@@ -2,13 +2,14 @@
   "id": 186374413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.095259,44.514852,-88.095259,44.514852",
     "geom:latitude":44.514852,
     "geom:longitude":-88.095259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2471 Valiant Ln",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186374413,
-    "wof:lastmodified":1449051537,
+    "wof:lastmodified":1467089915,
     "wof:name":"Town & Country Interiors LTD",
     "wof:parent_id":85877951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-88.095259,44.514852,-88.095259,44.514852],
+  "bbox": [
+    -88.095259,
+    44.514852,
+    -88.095259,
+    44.514852
+],
   "geometry": {"coordinates":[-88.095259,44.514852],"type":"Point"}
 }

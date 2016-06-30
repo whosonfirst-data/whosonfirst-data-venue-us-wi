@@ -2,13 +2,14 @@
   "id": 186030021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.590054,43.479568,-88.590054,43.479568",
     "geom:latitude":43.479568,
     "geom:longitude":-88.590054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7725 State Hwy 28",
     "sg:city":"Horicon",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186030021,
-    "wof:lastmodified":1449051368,
+    "wof:lastmodified":1467089915,
     "wof:name":"Natural Resources Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-88.590054,43.479568,-88.590054,43.479568],
-  "geometry": {"coordinates":[-88.590054,43.479568],"type":"Point"}
+  "bbox": [
+    -88.590054,
+    43.479568,
+    -88.590054,
+    43.479568
+],
+  "geometry": {"coordinates":[-88.59005399999999,43.479568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387590223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.532641,44.026837,-88.532641,44.026837",
     "geom:latitude":44.026837,
     "geom:longitude":-88.532641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 E Lincoln Ave",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387590223,
-    "wof:lastmodified":1449058368,
+    "wof:lastmodified":1467089928,
     "wof:name":"Helen Grimm",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "doll"
     ]
 },
-  "bbox": [-88.532641,44.026837,-88.532641,44.026837],
+  "bbox": [
+    -88.532641,
+    44.026837,
+    -88.532641,
+    44.026837
+],
   "geometry": {"coordinates":[-88.532641,44.026837],"type":"Point"}
 }

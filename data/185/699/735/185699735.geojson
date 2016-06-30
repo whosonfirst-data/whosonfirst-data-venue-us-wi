@@ -2,13 +2,14 @@
   "id": 185699735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.988285,44.282727,-87.988285,44.282727",
     "geom:latitude":44.282727,
     "geom:longitude":-87.988285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7359 Morrison Rd",
     "sg:city":"Greenleaf",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185699735,
-    "wof:lastmodified":1449006824,
+    "wof:lastmodified":1467089883,
     "wof:name":"James Blashka",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-87.988285,44.282727,-87.988285,44.282727],
+  "bbox": [
+    -87.988285,
+    44.282727,
+    -87.988285,
+    44.282727
+],
   "geometry": {"coordinates":[-87.988285,44.282727],"type":"Point"}
 }

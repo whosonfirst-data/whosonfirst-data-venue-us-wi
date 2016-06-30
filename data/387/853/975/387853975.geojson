@@ -2,13 +2,14 @@
   "id": 387853975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.884048,43.059746,-87.884048,43.059746",
     "geom:latitude":43.059746,
     "geom:longitude":-87.884048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2266 N Prospect Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387853975,
-    "wof:lastmodified":1449057643,
+    "wof:lastmodified":1467089925,
     "wof:name":"Acorn Financial Group Inc",
     "wof:parent_id":85870961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-87.884048,43.059746,-87.884048,43.059746],
-  "geometry": {"coordinates":[-87.884048,43.059746],"type":"Point"}
+  "bbox": [
+    -87.884048,
+    43.059746,
+    -87.884048,
+    43.059746
+],
+  "geometry": {"coordinates":[-87.88404800000001,43.059746],"type":"Point"}
 }

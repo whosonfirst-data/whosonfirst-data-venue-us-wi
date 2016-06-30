@@ -2,13 +2,14 @@
   "id": 354194609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.829843,46.098358,-91.829843,46.098358",
     "geom:latitude":46.098358,
     "geom:longitude":-91.829843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 B St",
     "sg:city":"Minong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354194609,
-    "wof:lastmodified":1449067412,
+    "wof:lastmodified":1467089937,
     "wof:name":"Senior Citizens Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "citizen"
     ]
 },
-  "bbox": [-91.829843,46.098358,-91.829843,46.098358],
+  "bbox": [
+    -91.829843,
+    46.098358,
+    -91.829843,
+    46.098358
+],
   "geometry": {"coordinates":[-91.829843,46.098358],"type":"Point"}
 }

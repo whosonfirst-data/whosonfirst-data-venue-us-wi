@@ -2,13 +2,14 @@
   "id": 371126841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.428221,44.207864,-88.428221,44.207864",
     "geom:latitude":44.207864,
     "geom:longitude":-88.428221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 Baldwin St",
     "sg:city":"Menasha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371126841,
-    "wof:lastmodified":1449049403,
+    "wof:lastmodified":1467089912,
     "wof:name":"Park Garage",
     "wof:parent_id":85807543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-88.428221,44.207864,-88.428221,44.207864],
-  "geometry": {"coordinates":[-88.428221,44.207864],"type":"Point"}
+  "bbox": [
+    -88.428221,
+    44.207864,
+    -88.428221,
+    44.207864
+],
+  "geometry": {"coordinates":[-88.42822099999999,44.207864],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371055589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.530817,44.013794,-88.530817,44.013794",
     "geom:latitude":44.013794,
     "geom:longitude":-88.530817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 Ceape Ave",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":371055589,
-    "wof:lastmodified":1449049269,
+    "wof:lastmodified":1467089912,
     "wof:name":"Bedding Specialists",
     "wof:parent_id":85851167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "mattress"
     ]
 },
-  "bbox": [-88.530817,44.013794,-88.530817,44.013794],
+  "bbox": [
+    -88.530817,
+    44.013794,
+    -88.530817,
+    44.013794
+],
   "geometry": {"coordinates":[-88.530817,44.013794],"type":"Point"}
 }

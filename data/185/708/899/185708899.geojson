@@ -2,13 +2,14 @@
   "id": 185708899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.472694,43.017214,-88.472694,43.017214",
     "geom:latitude":43.017214,
     "geom:longitude":-88.472694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 N Main St",
     "sg:city":"Dousman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185708899,
-    "wof:lastmodified":1449006872,
+    "wof:lastmodified":1467089883,
     "wof:name":"Herrington Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-88.472694,43.017214,-88.472694,43.017214],
+  "bbox": [
+    -88.472694,
+    43.017214,
+    -88.472694,
+    43.017214
+],
   "geometry": {"coordinates":[-88.472694,43.017214],"type":"Point"}
 }

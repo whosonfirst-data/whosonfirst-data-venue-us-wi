@@ -2,13 +2,14 @@
   "id": 403761383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.495848,44.741334,-90.495848,44.741334",
     "geom:latitude":44.741334,
     "geom:longitude":-90.495848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 N Main St",
     "sg:city":"Loyal",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403761383,
-    "wof:lastmodified":1449055643,
+    "wof:lastmodified":1467089920,
     "wof:name":"Loyal Foods LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-90.495848,44.741334,-90.495848,44.741334],
+  "bbox": [
+    -90.495848,
+    44.741334,
+    -90.495848,
+    44.741334
+],
   "geometry": {"coordinates":[-90.495848,44.741334],"type":"Point"}
 }

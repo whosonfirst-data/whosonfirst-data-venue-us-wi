@@ -2,13 +2,14 @@
   "id": 353445625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.404245,43.060704,-88.404245,43.060704",
     "geom:latitude":43.060704,
     "geom:longitude":-88.404245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 N Genesee St",
     "sg:city":"Delafield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353445625,
-    "wof:lastmodified":1449018596,
+    "wof:lastmodified":1467089887,
     "wof:name":"Avant Garden Florist Inc",
     "wof:parent_id":85808383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.404245,43.060704,-88.404245,43.060704],
+  "bbox": [
+    -88.404245,
+    43.060704,
+    -88.404245,
+    43.060704
+],
   "geometry": {"coordinates":[-88.404245,43.060704],"type":"Point"}
 }

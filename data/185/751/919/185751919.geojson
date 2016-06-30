@@ -2,13 +2,14 @@
   "id": 185751919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.903126,43.141211,-87.903126,43.141211",
     "geom:latitude":43.141211,
     "geom:longitude":-87.903126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6834 N Santa Monica Blvd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185751919,
-    "wof:lastmodified":1449006681,
+    "wof:lastmodified":1467089883,
     "wof:name":"Sampson Investments",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "apt"
     ]
 },
-  "bbox": [-87.903126,43.141211,-87.903126,43.141211],
+  "bbox": [
+    -87.903126,
+    43.141211,
+    -87.903126,
+    43.141211
+],
   "geometry": {"coordinates":[-87.903126,43.141211],"type":"Point"}
 }

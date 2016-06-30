@@ -2,13 +2,14 @@
   "id": 354015143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.329901,45.113085,-90.329901,45.113085",
     "geom:latitude":45.113085,
     "geom:longitude":-90.329901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2269 State Hwy 13",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354015143,
-    "wof:lastmodified":1449066319,
+    "wof:lastmodified":1467089934,
     "wof:name":"Timberline Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "special"
     ]
 },
-  "bbox": [-90.329901,45.113085,-90.329901,45.113085],
-  "geometry": {"coordinates":[-90.329901,45.113085],"type":"Point"}
+  "bbox": [
+    -90.329901,
+    45.113085,
+    -90.329901,
+    45.113085
+],
+  "geometry": {"coordinates":[-90.32990100000001,45.113085],"type":"Point"}
 }

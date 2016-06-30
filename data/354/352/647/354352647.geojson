@@ -2,13 +2,14 @@
   "id": 354352647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.916765,43.020223,-87.916765,43.020223",
     "geom:latitude":43.020223,
     "geom:longitude":-87.916765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 S 5th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354352647,
-    "wof:lastmodified":1449066982,
+    "wof:lastmodified":1467089936,
     "wof:name":"Cieslik Celek Interior Design",
     "wof:parent_id":85870951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-87.916765,43.020223,-87.916765,43.020223],
+  "bbox": [
+    -87.916765,
+    43.020223,
+    -87.916765,
+    43.020223
+],
   "geometry": {"coordinates":[-87.916765,43.020223],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353988327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.976165,43.065107,-87.976165,43.065107",
     "geom:latitude":43.065107,
     "geom:longitude":-87.976165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2554 N 50th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353988327,
-    "wof:lastmodified":1449019137,
+    "wof:lastmodified":1467089888,
     "wof:name":"Good Shepherd Funeral Home",
     "wof:parent_id":85870829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-87.976165,43.065107,-87.976165,43.065107],
-  "geometry": {"coordinates":[-87.976165,43.065107],"type":"Point"}
+  "bbox": [
+    -87.976165,
+    43.065107,
+    -87.976165,
+    43.065107
+],
+  "geometry": {"coordinates":[-87.97616499999999,43.065107],"type":"Point"}
 }

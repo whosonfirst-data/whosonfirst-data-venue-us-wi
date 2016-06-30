@@ -2,13 +2,14 @@
   "id": 186100267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.102269,43.351836,-88.102269,43.351836",
     "geom:latitude":43.351836,
     "geom:longitude":-88.102269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1288 W Pleasant Valley Rd",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186100267,
-    "wof:lastmodified":1449052337,
+    "wof:lastmodified":1467089916,
     "wof:name":"K V Schmidt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.102269,43.351836,-88.102269,43.351836],
-  "geometry": {"coordinates":[-88.102269,43.351836],"type":"Point"}
+  "bbox": [
+    -88.102269,
+    43.351836,
+    -88.102269,
+    43.351836
+],
+  "geometry": {"coordinates":[-88.10226900000001,43.351836],"type":"Point"}
 }

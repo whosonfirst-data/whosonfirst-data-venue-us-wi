@@ -2,13 +2,14 @@
   "id": 354239107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.908109,43.042014,-87.908109,43.042014",
     "geom:latitude":43.042014,
     "geom:longitude":-87.908109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"828 N Broadway St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354239107,
-    "wof:lastmodified":1449066088,
+    "wof:lastmodified":1467089934,
     "wof:name":"Summit Financial LLC",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "real estate"
     ]
 },
-  "bbox": [-87.908109,43.042014,-87.908109,43.042014],
+  "bbox": [
+    -87.908109,
+    43.042014,
+    -87.908109,
+    43.042014
+],
   "geometry": {"coordinates":[-87.908109,43.042014],"type":"Point"}
 }

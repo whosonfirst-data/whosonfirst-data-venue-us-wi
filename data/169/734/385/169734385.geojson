@@ -2,13 +2,14 @@
   "id": 169734385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.127447,43.004602,-88.127447,43.004602",
     "geom:latitude":43.004602,
     "geom:longitude":-88.127447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2140 S Calhoun Rd",
     "sg:city":"New Berlin",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":169734385,
-    "wof:lastmodified":1449035534,
+    "wof:lastmodified":1467089909,
     "wof:name":"Ament Industrial Truck",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cart"
     ]
 },
-  "bbox": [-88.127447,43.004602,-88.127447,43.004602],
+  "bbox": [
+    -88.127447,
+    43.004602,
+    -88.127447,
+    43.004602
+],
   "geometry": {"coordinates":[-88.127447,43.004602],"type":"Point"}
 }

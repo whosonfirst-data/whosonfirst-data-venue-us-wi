@@ -2,13 +2,14 @@
   "id": 353937287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.057874,43.811452,-90.057874,43.811452",
     "geom:latitude":43.811452,
     "geom:longitude":-90.057874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5822 50th Ct",
     "sg:city":"Mauston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353937287,
-    "wof:lastmodified":1449018733,
+    "wof:lastmodified":1467089887,
     "wof:name":"Kountry Cut N Style",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-90.057874,43.811452,-90.057874,43.811452],
+  "bbox": [
+    -90.057874,
+    43.811452,
+    -90.057874,
+    43.811452
+],
   "geometry": {"coordinates":[-90.057874,43.811452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354137071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.078393,44.504783,-88.078393,44.504783",
     "geom:latitude":44.504783,
     "geom:longitude":-88.078393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1249 Valley View Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354137071,
-    "wof:lastmodified":1449067429,
+    "wof:lastmodified":1467089937,
     "wof:name":"1 Stop Home Shopping LLC",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-88.078393,44.504783,-88.078393,44.504783],
-  "geometry": {"coordinates":[-88.078393,44.504783],"type":"Point"}
+  "bbox": [
+    -88.078393,
+    44.504783,
+    -88.078393,
+    44.504783
+],
+  "geometry": {"coordinates":[-88.07839300000001,44.504783],"type":"Point"}
 }

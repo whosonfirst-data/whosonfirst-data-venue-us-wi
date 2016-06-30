@@ -2,13 +2,14 @@
   "id": 337298149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.571584,44.154576,-87.571584,44.154576",
     "geom:latitude":44.154576,
     "geom:longitude":-87.571584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 23rd St",
     "sg:city":"Two Rivers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337298149,
-    "wof:lastmodified":1449027151,
+    "wof:lastmodified":1467089893,
     "wof:name":"Don A Belz Gunsmithing",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-87.571584,44.154576,-87.571584,44.154576],
+  "bbox": [
+    -87.571584,
+    44.154576,
+    -87.571584,
+    44.154576
+],
   "geometry": {"coordinates":[-87.571584,44.154576],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404215897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.952787,43.038659,-87.952787,43.038659",
     "geom:latitude":43.038659,
     "geom:longitude":-87.952787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3127 W Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404215897,
-    "wof:lastmodified":1449040092,
+    "wof:lastmodified":1467089911,
     "wof:name":"Michael S Maistelman",
     "wof:parent_id":85870967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-87.952787,43.038659,-87.952787,43.038659],
+  "bbox": [
+    -87.952787,
+    43.038659,
+    -87.952787,
+    43.038659
+],
   "geometry": {"coordinates":[-87.952787,43.038659],"type":"Point"}
 }

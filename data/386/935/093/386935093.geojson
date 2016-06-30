@@ -2,13 +2,14 @@
   "id": 386935093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.035692,43.120418,-88.035692,43.120418",
     "geom:latitude":43.120418,
     "geom:longitude":-88.035692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5674 N 99th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386935093,
-    "wof:lastmodified":1449028894,
+    "wof:lastmodified":1467089897,
     "wof:name":"Amerisoft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-88.035692,43.120418,-88.035692,43.120418],
+  "bbox": [
+    -88.035692,
+    43.120418,
+    -88.035692,
+    43.120418
+],
   "geometry": {"coordinates":[-88.035692,43.120418],"type":"Point"}
 }

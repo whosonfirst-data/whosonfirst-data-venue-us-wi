@@ -2,13 +2,14 @@
   "id": 403873663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.069906,43.060166,-88.069906,43.060166",
     "geom:latitude":43.060166,
     "geom:longitude":-88.069906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12720 W North Ave",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403873663,
-    "wof:lastmodified":1449054916,
+    "wof:lastmodified":1467089918,
     "wof:name":"Tran Wertz Kim Dr",
     "wof:parent_id":85870871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.069906,43.060166,-88.069906,43.060166],
+  "bbox": [
+    -88.069906,
+    43.060166,
+    -88.069906,
+    43.060166
+],
   "geometry": {"coordinates":[-88.069906,43.060166],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371178417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.998136,43.089867,-87.998136,43.089867",
     "geom:latitude":43.089867,
     "geom:longitude":-87.998136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6815 W Capitol Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371178417,
-    "wof:lastmodified":1449049807,
+    "wof:lastmodified":1467089913,
     "wof:name":"Aggressive Pitbull Detective",
     "wof:parent_id":85870905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "patrol"
     ]
 },
-  "bbox": [-87.998136,43.089867,-87.998136,43.089867],
+  "bbox": [
+    -87.998136,
+    43.089867,
+    -87.998136,
+    43.089867
+],
   "geometry": {"coordinates":[-87.998136,43.089867],"type":"Point"}
 }

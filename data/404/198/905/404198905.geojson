@@ -2,13 +2,14 @@
   "id": 404198905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.814923,43.300283,-89.814923,43.300283",
     "geom:latitude":43.300283,
     "geom:longitude":-89.814923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9875 Co Rd Pf",
     "sg:city":"Prairie Du Sac",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404198905,
-    "wof:lastmodified":1449039458,
+    "wof:lastmodified":1467089910,
     "wof:name":"Frosch Construction LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-89.814923,43.300283,-89.814923,43.300283],
-  "geometry": {"coordinates":[-89.814923,43.300283],"type":"Point"}
+  "bbox": [
+    -89.814923,
+    43.300283,
+    -89.814923,
+    43.300283
+],
+  "geometry": {"coordinates":[-89.81492299999999,43.300283],"type":"Point"}
 }

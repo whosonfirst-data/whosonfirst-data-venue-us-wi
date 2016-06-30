@@ -2,13 +2,14 @@
   "id": 354237433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.223993,43.111537,-89.223993,43.111537",
     "geom:latitude":43.111537,
     "geom:longitude":-89.223993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4430 Co Rd Tt",
     "sg:city":"Sun Prairie",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":354237433,
-    "wof:lastmodified":1449065979,
+    "wof:lastmodified":1467089933,
     "wof:name":"Shackelford Heating & AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.223993,43.111537,-89.223993,43.111537],
-  "geometry": {"coordinates":[-89.223993,43.111537],"type":"Point"}
+  "bbox": [
+    -89.223993,
+    43.111537,
+    -89.223993,
+    43.111537
+],
+  "geometry": {"coordinates":[-89.22399299999999,43.111537],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387218739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.012849,44.49876,-88.012849,44.49876",
     "geom:latitude":44.49876,
     "geom:longitude":-88.012849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 S Webster Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387218739,
-    "wof:lastmodified":1449058519,
+    "wof:lastmodified":1467089929,
     "wof:name":"Anthony J Cousineau MD",
     "wof:parent_id":85877931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-88.012849,44.49876,-88.012849,44.49876],
+  "bbox": [
+    -88.012849,
+    44.49876,
+    -88.012849,
+    44.49876
+],
   "geometry": {"coordinates":[-88.012849,44.49876],"type":"Point"}
 }

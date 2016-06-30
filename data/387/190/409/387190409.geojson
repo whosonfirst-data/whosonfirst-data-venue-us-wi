@@ -2,13 +2,14 @@
   "id": 387190409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.145083,43.053592,-91.145083,43.053592",
     "geom:latitude":43.053592,
     "geom:longitude":-91.145083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 N Wacouta Ave",
     "sg:city":"Prairie Du Chien",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387190409,
-    "wof:lastmodified":1449059678,
+    "wof:lastmodified":1467089932,
     "wof:name":"Thornburg-Hanson Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-91.145083,43.053592,-91.145083,43.053592],
+  "bbox": [
+    -91.145083,
+    43.053592,
+    -91.145083,
+    43.053592
+],
   "geometry": {"coordinates":[-91.145083,43.053592],"type":"Point"}
 }

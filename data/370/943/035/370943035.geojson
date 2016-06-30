@@ -2,13 +2,14 @@
   "id": 370943035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.983878,43.192615,-87.983878,43.192615",
     "geom:latitude":43.192615,
     "geom:longitude":-87.983878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5406 W County Line Rd",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370943035,
-    "wof:lastmodified":1449029995,
+    "wof:lastmodified":1467089900,
     "wof:name":"Rose Mequon Gardens",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "ornamental"
     ]
 },
-  "bbox": [-87.983878,43.192615,-87.983878,43.192615],
+  "bbox": [
+    -87.983878,
+    43.192615,
+    -87.983878,
+    43.192615
+],
   "geometry": {"coordinates":[-87.983878,43.192615],"type":"Point"}
 }

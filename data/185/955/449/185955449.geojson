@@ -2,13 +2,14 @@
   "id": 185955449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.816473,43.807672,-88.816473,43.807672",
     "geom:latitude":43.807672,
     "geom:longitude":-88.816473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13134 Co Rd Kk",
     "sg:city":"Ripon",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185955449,
-    "wof:lastmodified":1449007706,
+    "wof:lastmodified":1467089885,
     "wof:name":"Agri-Land Co-Op",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-88.816473,43.807672,-88.816473,43.807672],
+  "bbox": [
+    -88.816473,
+    43.807672,
+    -88.816473,
+    43.807672
+],
   "geometry": {"coordinates":[-88.816473,43.807672],"type":"Point"}
 }

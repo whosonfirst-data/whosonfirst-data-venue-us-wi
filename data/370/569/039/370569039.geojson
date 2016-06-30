@@ -2,13 +2,14 @@
   "id": 370569039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.093362,44.448532,-88.093362,44.448532",
     "geom:latitude":44.448532,
     "geom:longitude":-88.093362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 Mid Valley Dr",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370569039,
-    "wof:lastmodified":1449032337,
+    "wof:lastmodified":1467089907,
     "wof:name":"S C Grand",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rooms"
     ]
 },
-  "bbox": [-88.093362,44.448532,-88.093362,44.448532],
+  "bbox": [
+    -88.093362,
+    44.448532,
+    -88.093362,
+    44.448532
+],
   "geometry": {"coordinates":[-88.093362,44.448532],"type":"Point"}
 }

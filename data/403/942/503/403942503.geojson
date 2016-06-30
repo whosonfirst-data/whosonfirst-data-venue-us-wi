@@ -2,13 +2,14 @@
   "id": 403942503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.11086,45.46026,-91.11086,45.46026",
     "geom:latitude":45.46026,
     "geom:longitude":-91.11086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W 9th St S",
     "sg:city":"Ladysmith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403942503,
-    "wof:lastmodified":1449055251,
+    "wof:lastmodified":1467089919,
     "wof:name":"B J Wood Products Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-91.11086,45.46026,-91.11086,45.46026],
+  "bbox": [
+    -91.11086,
+    45.46026,
+    -91.11086,
+    45.46026
+],
   "geometry": {"coordinates":[-91.11086,45.46026],"type":"Point"}
 }

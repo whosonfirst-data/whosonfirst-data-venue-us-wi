@@ -2,13 +2,14 @@
   "id": 387241985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.912936,42.870392,-87.912936,42.870392",
     "geom:latitude":42.870392,
     "geom:longitude":-87.912936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9555 S Howell Ave",
     "sg:city":"Oak Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387241985,
-    "wof:lastmodified":1449059818,
+    "wof:lastmodified":1467089932,
     "wof:name":"Wisconsin Lutheran Christian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-87.912936,42.870392,-87.912936,42.870392],
+  "bbox": [
+    -87.912936,
+    42.870392,
+    -87.912936,
+    42.870392
+],
   "geometry": {"coordinates":[-87.912936,42.870392],"type":"Point"}
 }

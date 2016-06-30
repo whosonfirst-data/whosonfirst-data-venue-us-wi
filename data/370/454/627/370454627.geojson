@@ -2,13 +2,14 @@
   "id": 370454627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.87106,43.407161,-87.87106,43.407161",
     "geom:latitude":43.407161,
     "geom:longitude":-87.87106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 N Wisconsin St",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370454627,
-    "wof:lastmodified":1449032158,
+    "wof:lastmodified":1467089906,
     "wof:name":"St Peter's Catholic Church",
     "wof:parent_id":85828641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.87106,43.407161,-87.87106,43.407161],
+  "bbox": [
+    -87.87106,
+    43.407161,
+    -87.87106,
+    43.407161
+],
   "geometry": {"coordinates":[-87.87106,43.407161],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386978709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.906,44.614641,-89.906,44.614641",
     "geom:latitude":44.614641,
     "geom:longitude":-89.906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10498 Mayflower Rd",
     "sg:city":"Milladore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":386978709,
-    "wof:lastmodified":1449028804,
+    "wof:lastmodified":1467089896,
     "wof:name":"Maple Grove Cheese Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-89.906,44.614641,-89.906,44.614641],
-  "geometry": {"coordinates":[-89.906,44.614641],"type":"Point"}
+  "bbox": [
+    -89.906,
+    44.614641,
+    -89.906,
+    44.614641
+],
+  "geometry": {"coordinates":[-89.90600000000001,44.614641],"type":"Point"}
 }

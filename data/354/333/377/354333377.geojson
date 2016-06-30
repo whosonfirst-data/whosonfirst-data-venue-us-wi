@@ -2,13 +2,14 @@
   "id": 354333377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.009198,44.342929,-88.009198,44.342929",
     "geom:latitude":44.342929,
     "geom:longitude":-88.009198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2771 School Rd",
     "sg:city":"Greenleaf",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":354333377,
-    "wof:lastmodified":1449067559,
+    "wof:lastmodified":1467089937,
     "wof:name":"Bucks Hoof Trimming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cow"
     ]
 },
-  "bbox": [-88.009198,44.342929,-88.009198,44.342929],
+  "bbox": [
+    -88.009198,
+    44.342929,
+    -88.009198,
+    44.342929
+],
   "geometry": {"coordinates":[-88.009198,44.342929],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371030033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.973169,43.242835,-87.973169,43.242835",
     "geom:latitude":43.242835,
     "geom:longitude":-87.973169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Park Crest Dr",
     "sg:city":"Thiensville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371030033,
-    "wof:lastmodified":1449049397,
+    "wof:lastmodified":1467089912,
     "wof:name":"Tom Wanvig Consulting Co",
     "wof:parent_id":85823669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.973169,43.242835,-87.973169,43.242835],
+  "bbox": [
+    -87.973169,
+    43.242835,
+    -87.973169,
+    43.242835
+],
   "geometry": {"coordinates":[-87.973169,43.242835],"type":"Point"}
 }

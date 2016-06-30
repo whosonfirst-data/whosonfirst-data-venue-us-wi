@@ -2,13 +2,14 @@
   "id": 387568481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.95727,43.082352,-87.95727,43.082352",
     "geom:latitude":43.082352,
     "geom:longitude":-87.95727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3413 N 35th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387568481,
-    "wof:lastmodified":1449056027,
+    "wof:lastmodified":1467089921,
     "wof:name":"Greater Freewill Baptist Chr",
     "wof:parent_id":85870825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.95727,43.082352,-87.95727,43.082352],
-  "geometry": {"coordinates":[-87.95727,43.082352],"type":"Point"}
+  "bbox": [
+    -87.95727,
+    43.082352,
+    -87.95727,
+    43.082352
+],
+  "geometry": {"coordinates":[-87.95726999999999,43.082352],"type":"Point"}
 }

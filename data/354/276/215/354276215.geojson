@@ -2,13 +2,14 @@
   "id": 354276215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.302151,45.803906,-89.302151,45.803906",
     "geom:latitude":45.803906,
     "geom:longitude":-89.302151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7014 Virgin Timber Dr",
     "sg:city":"Rhinelander",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354276215,
-    "wof:lastmodified":1449066009,
+    "wof:lastmodified":1467089933,
     "wof:name":"Robinson Trucking LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-89.302151,45.803906,-89.302151,45.803906],
-  "geometry": {"coordinates":[-89.302151,45.803906],"type":"Point"}
+  "bbox": [
+    -89.302151,
+    45.803906,
+    -89.302151,
+    45.803906
+],
+  "geometry": {"coordinates":[-89.30215099999999,45.803906],"type":"Point"}
 }

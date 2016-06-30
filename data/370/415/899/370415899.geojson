@@ -2,13 +2,14 @@
   "id": 370415899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.719531,43.737502,-87.719531,43.737502",
     "geom:latitude":43.737502,
     "geom:longitude":-87.719531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 S 12th St",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370415899,
-    "wof:lastmodified":1449031537,
+    "wof:lastmodified":1467089904,
     "wof:name":"Special Operations Detective",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "patrol"
     ]
 },
-  "bbox": [-87.719531,43.737502,-87.719531,43.737502],
+  "bbox": [
+    -87.719531,
+    43.737502,
+    -87.719531,
+    43.737502
+],
   "geometry": {"coordinates":[-87.719531,43.737502],"type":"Point"}
 }

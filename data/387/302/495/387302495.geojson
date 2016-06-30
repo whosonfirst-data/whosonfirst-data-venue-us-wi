@@ -2,13 +2,14 @@
   "id": 387302495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.589398,43.991826,-88.589398,43.991826",
     "geom:latitude":43.991826,
     "geom:longitude":-88.589398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2695 Badger Ave",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387302495,
-    "wof:lastmodified":1449057382,
+    "wof:lastmodified":1467089925,
     "wof:name":"W W Electric Motors Inc",
     "wof:parent_id":85819403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "motor"
     ]
 },
-  "bbox": [-88.589398,43.991826,-88.589398,43.991826],
+  "bbox": [
+    -88.589398,
+    43.991826,
+    -88.589398,
+    43.991826
+],
   "geometry": {"coordinates":[-88.589398,43.991826],"type":"Point"}
 }

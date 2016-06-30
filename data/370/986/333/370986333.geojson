@@ -2,13 +2,14 @@
   "id": 370986333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.724005,42.846873,-90.724005,42.846873",
     "geom:latitude":42.846873,
     "geom:longitude":-90.724005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S McKinley St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370986333,
-    "wof:lastmodified":1449031824,
+    "wof:lastmodified":1467089905,
     "wof:name":"Luceys Pit Stop & Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-90.724005,42.846873,-90.724005,42.846873],
-  "geometry": {"coordinates":[-90.724005,42.846873],"type":"Point"}
+  "bbox": [
+    -90.724005,
+    42.846873,
+    -90.724005,
+    42.846873
+],
+  "geometry": {"coordinates":[-90.72400500000001,42.846873],"type":"Point"}
 }

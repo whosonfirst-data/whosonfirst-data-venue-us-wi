@@ -2,13 +2,14 @@
   "id": 353712503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.017349,43.024265,-88.017349,43.024265",
     "geom:latitude":43.024265,
     "geom:longitude":-88.017349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 S 84th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353712503,
-    "wof:lastmodified":1449019347,
+    "wof:lastmodified":1467089889,
     "wof:name":"Meyer Material Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "concrete"
     ]
 },
-  "bbox": [-88.017349,43.024265,-88.017349,43.024265],
+  "bbox": [
+    -88.017349,
+    43.024265,
+    -88.017349,
+    43.024265
+],
   "geometry": {"coordinates":[-88.017349,43.024265],"type":"Point"}
 }

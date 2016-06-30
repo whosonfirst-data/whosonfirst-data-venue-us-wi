@@ -2,13 +2,14 @@
   "id": 185864273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.56575,44.01058,-88.56575,44.01058",
     "geom:latitude":44.01058,
     "geom:longitude":-88.56575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 W 9th Ave",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185864273,
-    "wof:lastmodified":1449008231,
+    "wof:lastmodified":1467089886,
     "wof:name":"Crown Trophy",
     "wof:parent_id":85851167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "award"
     ]
 },
-  "bbox": [-88.56575,44.01058,-88.56575,44.01058],
-  "geometry": {"coordinates":[-88.56575,44.01058],"type":"Point"}
+  "bbox": [
+    -88.56575,
+    44.01058,
+    -88.56575,
+    44.01058
+],
+  "geometry": {"coordinates":[-88.56574999999999,44.01058],"type":"Point"}
 }

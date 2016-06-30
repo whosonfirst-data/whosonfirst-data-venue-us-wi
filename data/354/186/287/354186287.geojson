@@ -2,13 +2,14 @@
   "id": 354186287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.5049,43.965795,-90.5049,43.965795",
     "geom:latitude":43.965795,
     "geom:longitude":-90.5049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2223 Superior Ave",
     "sg:city":"Tomah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354186287,
-    "wof:lastmodified":1449067266,
+    "wof:lastmodified":1467089937,
     "wof:name":"David Marten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "floor"
     ]
 },
-  "bbox": [-90.5049,43.965795,-90.5049,43.965795],
-  "geometry": {"coordinates":[-90.5049,43.965795],"type":"Point"}
+  "bbox": [
+    -90.5049,
+    43.965795,
+    -90.5049,
+    43.965795
+],
+  "geometry": {"coordinates":[-90.50490000000001,43.965795],"type":"Point"}
 }

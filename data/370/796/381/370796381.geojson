@@ -2,13 +2,14 @@
   "id": 370796381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.453894,43.027025,-89.453894,43.027025",
     "geom:latitude":43.027025,
     "geom:longitude":-89.453894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4526 Pawnee Pass",
     "sg:city":"Fitchburg",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370796381,
-    "wof:lastmodified":1449030690,
+    "wof:lastmodified":1467089902,
     "wof:name":"Sight & Sound Productions LLC",
     "wof:parent_id":85878885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "wedding"
     ]
 },
-  "bbox": [-89.453894,43.027025,-89.453894,43.027025],
-  "geometry": {"coordinates":[-89.453894,43.027025],"type":"Point"}
+  "bbox": [
+    -89.453894,
+    43.027025,
+    -89.453894,
+    43.027025
+],
+  "geometry": {"coordinates":[-89.45389400000001,43.027025],"type":"Point"}
 }

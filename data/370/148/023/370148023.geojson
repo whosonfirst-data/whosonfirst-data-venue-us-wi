@@ -2,13 +2,14 @@
   "id": 370148023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.959238,43.148811,-87.959238,43.148811",
     "geom:latitude":43.148811,
     "geom:longitude":-87.959238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7233 N 38th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370148023,
-    "wof:lastmodified":1449031940,
+    "wof:lastmodified":1467089906,
     "wof:name":"A Mixture of Fun and Learning",
     "wof:parent_id":85870811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-87.959238,43.148811,-87.959238,43.148811],
+  "bbox": [
+    -87.959238,
+    43.148811,
+    -87.959238,
+    43.148811
+],
   "geometry": {"coordinates":[-87.959238,43.148811],"type":"Point"}
 }

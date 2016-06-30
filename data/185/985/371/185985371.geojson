@@ -2,13 +2,14 @@
   "id": 185985371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.930094,43.050661,-87.930094,43.050661",
     "geom:latitude":43.050661,
     "geom:longitude":-87.930094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1547 N 14th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185985371,
-    "wof:lastmodified":1449007427,
+    "wof:lastmodified":1467089884,
     "wof:name":"Boys & Girls Club Safe",
     "wof:parent_id":85870921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-87.930094,43.050661,-87.930094,43.050661],
+  "bbox": [
+    -87.930094,
+    43.050661,
+    -87.930094,
+    43.050661
+],
   "geometry": {"coordinates":[-87.930094,43.050661],"type":"Point"}
 }

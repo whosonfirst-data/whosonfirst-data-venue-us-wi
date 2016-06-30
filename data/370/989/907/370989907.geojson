@@ -2,13 +2,14 @@
   "id": 370989907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.418684,44.281405,-88.418684,44.281405",
     "geom:latitude":44.281405,
     "geom:longitude":-88.418684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"834 W Frances St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370989907,
-    "wof:lastmodified":1449031578,
+    "wof:lastmodified":1467089905,
     "wof:name":"Real American Pizza LLC",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-88.418684,44.281405,-88.418684,44.281405],
+  "bbox": [
+    -88.418684,
+    44.281405,
+    -88.418684,
+    44.281405
+],
   "geometry": {"coordinates":[-88.418684,44.281405],"type":"Point"}
 }

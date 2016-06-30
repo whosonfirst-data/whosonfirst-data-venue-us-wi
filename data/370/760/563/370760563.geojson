@@ -2,13 +2,14 @@
   "id": 370760563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.413316,44.287361,-88.413316,44.287361",
     "geom:latitude":44.287361,
     "geom:longitude":-88.413316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 W Northland Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370760563,
-    "wof:lastmodified":1449032343,
+    "wof:lastmodified":1467089907,
     "wof:name":"Northern Inn",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-88.413316,44.287361,-88.413316,44.287361],
-  "geometry": {"coordinates":[-88.413316,44.287361],"type":"Point"}
+  "bbox": [
+    -88.413316,
+    44.287361,
+    -88.413316,
+    44.287361
+],
+  "geometry": {"coordinates":[-88.41331599999999,44.287361],"type":"Point"}
 }

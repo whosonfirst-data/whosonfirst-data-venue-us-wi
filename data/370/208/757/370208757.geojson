@@ -2,13 +2,14 @@
   "id": 370208757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.952698,43.003179,-87.952698,43.003179",
     "geom:latitude":43.003179,
     "geom:longitude":-87.952698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3022 W Lincoln Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":370208757,
-    "wof:lastmodified":1449029482,
+    "wof:lastmodified":1467089899,
     "wof:name":"Southwest Barbering Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.952698,43.003179,-87.952698,43.003179],
+  "bbox": [
+    -87.952698,
+    43.003179,
+    -87.952698,
+    43.003179
+],
   "geometry": {"coordinates":[-87.952698,43.003179],"type":"Point"}
 }

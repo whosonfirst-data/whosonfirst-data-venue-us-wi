@@ -2,13 +2,14 @@
   "id": 370335635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.747178,44.980295,-89.747178,44.980295",
     "geom:latitude":44.980295,
     "geom:longitude":-89.747178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1417 N 88th Ave",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370335635,
-    "wof:lastmodified":1449031308,
+    "wof:lastmodified":1467089904,
     "wof:name":"Amway Products Distributor",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.747178,44.980295,-89.747178,44.980295],
-  "geometry": {"coordinates":[-89.747178,44.980295],"type":"Point"}
+  "bbox": [
+    -89.747178,
+    44.980295,
+    -89.747178,
+    44.980295
+],
+  "geometry": {"coordinates":[-89.74717800000001,44.980295],"type":"Point"}
 }

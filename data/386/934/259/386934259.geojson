@@ -2,13 +2,14 @@
   "id": 386934259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.829615,43.886166,-87.829615,43.886166",
     "geom:latitude":43.886166,
     "geom:longitude":-87.829615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9502 State Hwy 42",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":386934259,
-    "wof:lastmodified":1449028639,
+    "wof:lastmodified":1467089896,
     "wof:name":"Bender Robert Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.829615,43.886166,-87.829615,43.886166],
+  "bbox": [
+    -87.829615,
+    43.886166,
+    -87.829615,
+    43.886166
+],
   "geometry": {"coordinates":[-87.829615,43.886166],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370235829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.05223,42.749025,-88.05223,42.749025",
     "geom:latitude":42.749025,
     "geom:longitude":-88.05223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2936 N Colony Ave",
     "sg:city":"Franksville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370235829,
-    "wof:lastmodified":1449029674,
+    "wof:lastmodified":1467089899,
     "wof:name":"Gulbrand Farm LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-88.05223,42.749025,-88.05223,42.749025],
-  "geometry": {"coordinates":[-88.05223,42.749025],"type":"Point"}
+  "bbox": [
+    -88.05223,
+    42.749025,
+    -88.05223,
+    42.749025
+],
+  "geometry": {"coordinates":[-88.05222999999999,42.749025],"type":"Point"}
 }

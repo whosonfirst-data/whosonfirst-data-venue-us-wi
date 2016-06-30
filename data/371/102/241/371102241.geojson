@@ -2,13 +2,14 @@
   "id": 371102241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.98777,43.706472,-88.98777,43.706472",
     "geom:latitude":43.706472,
     "geom:longitude":-88.98777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 S Bridge St",
     "sg:city":"Markesan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371102241,
-    "wof:lastmodified":1449050077,
+    "wof:lastmodified":1467089914,
     "wof:name":"Sunshine Nursery School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-88.98777,43.706472,-88.98777,43.706472],
+  "bbox": [
+    -88.98777,
+    43.706472,
+    -88.98777,
+    43.706472
+],
   "geometry": {"coordinates":[-88.98777,43.706472],"type":"Point"}
 }

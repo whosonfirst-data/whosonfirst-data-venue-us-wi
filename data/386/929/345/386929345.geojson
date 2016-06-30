@@ -2,13 +2,14 @@
   "id": 386929345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.49599,43.058471,-89.49599,43.058471",
     "geom:latitude":43.058471,
     "geom:longitude":-89.49599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"433 Grand Canyon Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386929345,
-    "wof:lastmodified":1449028747,
+    "wof:lastmodified":1467089896,
     "wof:name":"Extreme Pizza Corp",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-89.49599,43.058471,-89.49599,43.058471],
-  "geometry": {"coordinates":[-89.49599,43.058471],"type":"Point"}
+  "bbox": [
+    -89.49599,
+    43.058471,
+    -89.49599,
+    43.058471
+],
+  "geometry": {"coordinates":[-89.49599000000001,43.058471],"type":"Point"}
 }

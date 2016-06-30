@@ -2,13 +2,14 @@
   "id": 186155639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.473581,45.742107,-92.473581,45.742107",
     "geom:latitude":45.742107,
     "geom:longitude":-92.473581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9475 Elbow Lake Rd",
     "sg:city":"Siren",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186155639,
-    "wof:lastmodified":1449052539,
+    "wof:lastmodified":1467089916,
     "wof:name":"Marek Harold D Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-92.473581,45.742107,-92.473581,45.742107],
+  "bbox": [
+    -92.473581,
+    45.742107,
+    -92.473581,
+    45.742107
+],
   "geometry": {"coordinates":[-92.473581,45.742107],"type":"Point"}
 }

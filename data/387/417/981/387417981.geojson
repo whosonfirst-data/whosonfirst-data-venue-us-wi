@@ -2,13 +2,14 @@
   "id": 387417981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.694416,44.874445,-91.694416,44.874445",
     "geom:latitude":44.874445,
     "geom:longitude":-91.694416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Menomonie St",
     "sg:city":"Elk Mound",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387417981,
-    "wof:lastmodified":1449057663,
+    "wof:lastmodified":1467089926,
     "wof:name":"Quality Geeks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "quality"
     ]
 },
-  "bbox": [-91.694416,44.874445,-91.694416,44.874445],
+  "bbox": [
+    -91.694416,
+    44.874445,
+    -91.694416,
+    44.874445
+],
   "geometry": {"coordinates":[-91.694416,44.874445],"type":"Point"}
 }

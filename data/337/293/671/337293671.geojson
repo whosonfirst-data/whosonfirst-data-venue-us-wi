@@ -2,13 +2,14 @@
   "id": 337293671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.962131,43.550015,-87.962131,43.550015",
     "geom:latitude":43.550015,
     "geom:longitude":-87.962131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 1st St",
     "sg:city":"Random Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337293671,
-    "wof:lastmodified":1449027083,
+    "wof:lastmodified":1467089893,
     "wof:name":"Kettle-Lakes Cooperative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-87.962131,43.550015,-87.962131,43.550015],
+  "bbox": [
+    -87.962131,
+    43.550015,
+    -87.962131,
+    43.550015
+],
   "geometry": {"coordinates":[-87.962131,43.550015],"type":"Point"}
 }

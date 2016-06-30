@@ -2,13 +2,14 @@
   "id": 337598187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.539955,44.016492,-88.539955,44.016492",
     "geom:latitude":44.016492,
     "geom:longitude":-88.539955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"375 City Center",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337598187,
-    "wof:lastmodified":1449026984,
+    "wof:lastmodified":1467089892,
     "wof:name":"Guest Info-Link Of Wisconsin",
     "wof:parent_id":85851167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [-88.539955,44.016492,-88.539955,44.016492],
-  "geometry": {"coordinates":[-88.539955,44.016492],"type":"Point"}
+  "bbox": [
+    -88.539955,
+    44.016492,
+    -88.539955,
+    44.016492
+],
+  "geometry": {"coordinates":[-88.53995500000001,44.016492],"type":"Point"}
 }

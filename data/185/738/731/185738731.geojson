@@ -2,13 +2,14 @@
   "id": 185738731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.805901,44.303262,-89.805901,44.303262",
     "geom:latitude":44.303262,
     "geom:longitude":-89.805901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 State Hwy 73 S",
     "sg:city":"Wisconsin Rapids",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185738731,
-    "wof:lastmodified":1449007766,
+    "wof:lastmodified":1467089885,
     "wof:name":"Palm & Sons Trucking Excavate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.805901,44.303262,-89.805901,44.303262],
-  "geometry": {"coordinates":[-89.805901,44.303262],"type":"Point"}
+  "bbox": [
+    -89.805901,
+    44.303262,
+    -89.805901,
+    44.303262
+],
+  "geometry": {"coordinates":[-89.80590100000001,44.303262],"type":"Point"}
 }

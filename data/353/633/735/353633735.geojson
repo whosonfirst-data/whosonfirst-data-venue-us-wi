@@ -2,13 +2,14 @@
   "id": 353633735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.913247,43.145233,-87.913247,43.145233",
     "geom:latitude":43.145233,
     "geom:longitude":-87.913247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7080 N Port Washington Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353633735,
-    "wof:lastmodified":1449020764,
+    "wof:lastmodified":1467089892,
     "wof:name":"Rheumatic Disease Ctr",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.913247,43.145233,-87.913247,43.145233],
+  "bbox": [
+    -87.913247,
+    43.145233,
+    -87.913247,
+    43.145233
+],
   "geometry": {"coordinates":[-87.913247,43.145233],"type":"Point"}
 }

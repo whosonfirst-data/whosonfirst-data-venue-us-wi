@@ -2,13 +2,14 @@
   "id": 387470249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.902414,43.193872,-87.902414,43.193872",
     "geom:latitude":43.193872,
     "geom:longitude":-87.902414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9612 N Juniper Cir",
     "sg:city":"Thiensville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387470249,
-    "wof:lastmodified":1449057022,
+    "wof:lastmodified":1467089924,
     "wof:name":"Asmuth Interiors",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-87.902414,43.193872,-87.902414,43.193872],
-  "geometry": {"coordinates":[-87.902414,43.193872],"type":"Point"}
+  "bbox": [
+    -87.902414,
+    43.193872,
+    -87.902414,
+    43.193872
+],
+  "geometry": {"coordinates":[-87.90241399999999,43.193872],"type":"Point"}
 }

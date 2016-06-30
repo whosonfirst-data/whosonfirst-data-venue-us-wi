@@ -2,13 +2,14 @@
   "id": 337334623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.256083,43.033026,-88.256083,43.033026",
     "geom:latitude":43.033026,
     "geom:longitude":-88.256083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2312 N Grandview Blvd",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337334623,
-    "wof:lastmodified":1449027180,
+    "wof:lastmodified":1467089893,
     "wof:name":"Team 1 Sales & Marketing Inc",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sanitary"
     ]
 },
-  "bbox": [-88.256083,43.033026,-88.256083,43.033026],
+  "bbox": [
+    -88.256083,
+    43.033026,
+    -88.256083,
+    43.033026
+],
   "geometry": {"coordinates":[-88.256083,43.033026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186220347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.912055,43.079633,-88.912055,43.079633",
     "geom:latitude":43.079633,
     "geom:longitude":-88.912055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 E Lake St",
     "sg:city":"Lake Mills",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186220347,
-    "wof:lastmodified":1449052940,
+    "wof:lastmodified":1467089917,
     "wof:name":"Richard J Roots Sc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-88.912055,43.079633,-88.912055,43.079633],
+  "bbox": [
+    -88.912055,
+    43.079633,
+    -88.912055,
+    43.079633
+],
   "geometry": {"coordinates":[-88.912055,43.079633],"type":"Point"}
 }

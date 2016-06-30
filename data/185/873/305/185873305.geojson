@@ -2,13 +2,14 @@
   "id": 185873305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.890524,43.060215,-87.890524,43.060215",
     "geom:latitude":43.060215,
     "geom:longitude":-87.890524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 E North Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185873305,
-    "wof:lastmodified":1449006949,
+    "wof:lastmodified":1467089884,
     "wof:name":"Tier X Solutions Inc",
     "wof:parent_id":85867291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "information"
     ]
 },
-  "bbox": [-87.890524,43.060215,-87.890524,43.060215],
+  "bbox": [
+    -87.890524,
+    43.060215,
+    -87.890524,
+    43.060215
+],
   "geometry": {"coordinates":[-87.890524,43.060215],"type":"Point"}
 }

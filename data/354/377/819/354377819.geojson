@@ -2,13 +2,14 @@
   "id": 354377819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.273469,45.45681,-91.273469,45.45681",
     "geom:latitude":45.45681,
     "geom:longitude":-91.273469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 N Main St",
     "sg:city":"Bruce",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354377819,
-    "wof:lastmodified":1449066555,
+    "wof:lastmodified":1467089935,
     "wof:name":"Victorian Lady Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-91.273469,45.45681,-91.273469,45.45681],
-  "geometry": {"coordinates":[-91.273469,45.45681],"type":"Point"}
+  "bbox": [
+    -91.273469,
+    45.45681,
+    -91.273469,
+    45.45681
+],
+  "geometry": {"coordinates":[-91.27346900000001,45.45681],"type":"Point"}
 }

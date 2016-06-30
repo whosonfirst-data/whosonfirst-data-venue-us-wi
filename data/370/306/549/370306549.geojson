@@ -2,13 +2,14 @@
   "id": 370306549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.945782,42.980601,-87.945782,42.980601",
     "geom:latitude":42.980601,
     "geom:longitude":-87.945782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3562 S 25th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370306549,
-    "wof:lastmodified":1449032313,
+    "wof:lastmodified":1467089907,
     "wof:name":"Artforms Wood Flooring",
     "wof:parent_id":85870955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.945782,42.980601,-87.945782,42.980601],
-  "geometry": {"coordinates":[-87.945782,42.980601],"type":"Point"}
+  "bbox": [
+    -87.945782,
+    42.980601,
+    -87.945782,
+    42.980601
+],
+  "geometry": {"coordinates":[-87.94578199999999,42.980601],"type":"Point"}
 }

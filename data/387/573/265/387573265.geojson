@@ -2,13 +2,14 @@
   "id": 387573265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.714529,45.816821,-89.714529,45.816821",
     "geom:latitude":45.816821,
     "geom:longitude":-89.714529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9648 Oakwood Dr",
     "sg:city":"Minocqua",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387573265,
-    "wof:lastmodified":1449058914,
+    "wof:lastmodified":1467089930,
     "wof:name":"Randy Gebert Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.714529,45.816821,-89.714529,45.816821],
+  "bbox": [
+    -89.714529,
+    45.816821,
+    -89.714529,
+    45.816821
+],
   "geometry": {"coordinates":[-89.714529,45.816821],"type":"Point"}
 }

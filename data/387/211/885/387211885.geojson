@@ -2,13 +2,14 @@
   "id": 387211885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.612833,44.897636,-89.612833,44.897636",
     "geom:latitude":44.897636,
     "geom:longitude":-89.612833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1133 E Grand Ave",
     "sg:city":"Rothschild",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387211885,
-    "wof:lastmodified":1449057042,
+    "wof:lastmodified":1467089924,
     "wof:name":"Eagle Express",
     "wof:parent_id":85854809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-89.612833,44.897636,-89.612833,44.897636],
-  "geometry": {"coordinates":[-89.612833,44.897636],"type":"Point"}
+  "bbox": [
+    -89.612833,
+    44.897636,
+    -89.612833,
+    44.897636
+],
+  "geometry": {"coordinates":[-89.61283299999999,44.897636],"type":"Point"}
 }

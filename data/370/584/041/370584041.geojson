@@ -2,13 +2,14 @@
   "id": 370584041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.741013,45.071065,-87.741013,45.071065",
     "geom:latitude":45.071065,
     "geom:longitude":-87.741013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3606 Right of Way Rd",
     "sg:city":"Peshtigo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370584041,
-    "wof:lastmodified":1449029460,
+    "wof:lastmodified":1467089899,
     "wof:name":"Mary's Country Curl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.741013,45.071065,-87.741013,45.071065],
+  "bbox": [
+    -87.741013,
+    45.071065,
+    -87.741013,
+    45.071065
+],
   "geometry": {"coordinates":[-87.741013,45.071065],"type":"Point"}
 }

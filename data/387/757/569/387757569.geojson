@@ -2,13 +2,14 @@
   "id": 387757569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.245868,43.807937,-91.245868,43.807937",
     "geom:latitude":43.807937,
     "geom:longitude":-91.245868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 8th St S",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387757569,
-    "wof:lastmodified":1449058254,
+    "wof:lastmodified":1467089928,
     "wof:name":"Grandma's Favorite Recipes",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "eating"
     ]
 },
-  "bbox": [-91.245868,43.807937,-91.245868,43.807937],
+  "bbox": [
+    -91.245868,
+    43.807937,
+    -91.245868,
+    43.807937
+],
   "geometry": {"coordinates":[-91.245868,43.807937],"type":"Point"}
 }

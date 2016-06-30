@@ -2,13 +2,14 @@
   "id": 403776703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.689318,45.017165,-89.689318,45.017165",
     "geom:latitude":45.017165,
     "geom:longitude":-89.689318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4101 Falcon Dr",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403776703,
-    "wof:lastmodified":1449054937,
+    "wof:lastmodified":1467089918,
     "wof:name":"Productive Management Inc",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.689318,45.017165,-89.689318,45.017165],
+  "bbox": [
+    -89.689318,
+    45.017165,
+    -89.689318,
+    45.017165
+],
   "geometry": {"coordinates":[-89.689318,45.017165],"type":"Point"}
 }

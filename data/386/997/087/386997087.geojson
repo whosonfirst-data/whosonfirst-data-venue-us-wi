@@ -2,13 +2,14 @@
   "id": 386997087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.080362,44.494763,-88.080362,44.494763",
     "geom:latitude":44.494763,
     "geom:longitude":-88.080362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1189 Cormier Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":386997087,
-    "wof:lastmodified":1449028899,
+    "wof:lastmodified":1467089897,
     "wof:name":"A & D Sewer Cleaning",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sewer"
     ]
 },
-  "bbox": [-88.080362,44.494763,-88.080362,44.494763],
-  "geometry": {"coordinates":[-88.080362,44.494763],"type":"Point"}
+  "bbox": [
+    -88.080362,
+    44.494763,
+    -88.080362,
+    44.494763
+],
+  "geometry": {"coordinates":[-88.08036199999999,44.494763],"type":"Point"}
 }

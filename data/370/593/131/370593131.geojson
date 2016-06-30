@@ -2,13 +2,14 @@
   "id": 370593131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.105044,44.492541,-88.105044,44.492541",
     "geom:latitude":44.492541,
     "geom:longitude":-88.105044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1639 Commanche Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370593131,
-    "wof:lastmodified":1449031321,
+    "wof:lastmodified":1467089904,
     "wof:name":"Extended Stay Airports",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "apartment"
     ]
 },
-  "bbox": [-88.105044,44.492541,-88.105044,44.492541],
-  "geometry": {"coordinates":[-88.105044,44.492541],"type":"Point"}
+  "bbox": [
+    -88.105044,
+    44.492541,
+    -88.105044,
+    44.492541
+],
+  "geometry": {"coordinates":[-88.10504400000001,44.492541],"type":"Point"}
 }

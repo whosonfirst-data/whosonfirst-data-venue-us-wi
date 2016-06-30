@@ -2,13 +2,14 @@
   "id": 403816249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.82574,42.615049,-87.82574,42.615049",
     "geom:latitude":42.615049,
     "geom:longitude":-87.82574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Sheridan Rd",
     "sg:city":"Kenosha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403816249,
-    "wof:lastmodified":1449055411,
+    "wof:lastmodified":1467089919,
     "wof:name":"Zizzos Trucking Company Inc",
     "wof:parent_id":85810813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.82574,42.615049,-87.82574,42.615049],
+  "bbox": [
+    -87.82574,
+    42.615049,
+    -87.82574,
+    42.615049
+],
   "geometry": {"coordinates":[-87.82574,42.615049],"type":"Point"}
 }

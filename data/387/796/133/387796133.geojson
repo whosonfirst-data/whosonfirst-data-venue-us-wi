@@ -2,13 +2,14 @@
   "id": 387796133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.927556,43.097571,-87.927556,43.097571",
     "geom:latitude":43.097571,
     "geom:longitude":-87.927556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 N Green Bay Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":387796133,
-    "wof:lastmodified":1449057902,
+    "wof:lastmodified":1467089926,
     "wof:name":"Best Lumber & Fuel Co",
     "wof:parent_id":85870823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-87.927556,43.097571,-87.927556,43.097571],
+  "bbox": [
+    -87.927556,
+    43.097571,
+    -87.927556,
+    43.097571
+],
   "geometry": {"coordinates":[-87.927556,43.097571],"type":"Point"}
 }

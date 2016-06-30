@@ -2,13 +2,14 @@
   "id": 185976959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.945029,42.856029,-87.945029,42.856029",
     "geom:latitude":42.856029,
     "geom:longitude":-87.945029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 W Heaven View Ln",
     "sg:city":"Oak Creek",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185976959,
-    "wof:lastmodified":1449007270,
+    "wof:lastmodified":1467089884,
     "wof:name":"Dynamic Duct Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-87.945029,42.856029,-87.945029,42.856029],
-  "geometry": {"coordinates":[-87.945029,42.856029],"type":"Point"}
+  "bbox": [
+    -87.945029,
+    42.856029,
+    -87.945029,
+    42.856029
+],
+  "geometry": {"coordinates":[-87.94502900000001,42.856029],"type":"Point"}
 }

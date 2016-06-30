@@ -2,13 +2,14 @@
   "id": 403842911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.400833,44.940548,-91.400833,44.940548",
     "geom:latitude":44.940548,
     "geom:longitude":-91.400833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 W Elm St",
     "sg:city":"Chippewa Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403842911,
-    "wof:lastmodified":1449054736,
+    "wof:lastmodified":1467089918,
     "wof:name":"Glass By Phyllis",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-91.400833,44.940548,-91.400833,44.940548],
-  "geometry": {"coordinates":[-91.400833,44.940548],"type":"Point"}
+  "bbox": [
+    -91.400833,
+    44.940548,
+    -91.400833,
+    44.940548
+],
+  "geometry": {"coordinates":[-91.40083300000001,44.940548],"type":"Point"}
 }

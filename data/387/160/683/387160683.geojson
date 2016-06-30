@@ -2,13 +2,14 @@
   "id": 387160683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.957719,43.318355,-87.957719,43.318355",
     "geom:latitude":43.318355,
     "geom:longitude":-87.957719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Bridge St",
     "sg:city":"Grafton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387160683,
-    "wof:lastmodified":1449059321,
+    "wof:lastmodified":1467089931,
     "wof:name":"V E Casting & Svc",
     "wof:parent_id":85823669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "work"
     ]
 },
-  "bbox": [-87.957719,43.318355,-87.957719,43.318355],
+  "bbox": [
+    -87.957719,
+    43.318355,
+    -87.957719,
+    43.318355
+],
   "geometry": {"coordinates":[-87.957719,43.318355],"type":"Point"}
 }

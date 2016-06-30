@@ -2,13 +2,14 @@
   "id": 387905807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.135363,43.120473,-88.135363,43.120473",
     "geom:latitude":43.120473,
     "geom:longitude":-88.135363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18026 Evergreen Ln",
     "sg:city":"Menomonee Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387905807,
-    "wof:lastmodified":1449057591,
+    "wof:lastmodified":1467089925,
     "wof:name":"C&C Recruiting Consulting LLC",
     "wof:parent_id":85832419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.135363,43.120473,-88.135363,43.120473],
+  "bbox": [
+    -88.135363,
+    43.120473,
+    -88.135363,
+    43.120473
+],
   "geometry": {"coordinates":[-88.135363,43.120473],"type":"Point"}
 }

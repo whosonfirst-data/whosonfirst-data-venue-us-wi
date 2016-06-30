@@ -2,13 +2,14 @@
   "id": 387703551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.012412,43.016668,-88.012412,43.016668",
     "geom:latitude":43.016668,
     "geom:longitude":-88.012412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8100 W Greenfield Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387703551,
-    "wof:lastmodified":1449057252,
+    "wof:lastmodified":1467089924,
     "wof:name":"Oriental Bazaar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.012412,43.016668,-88.012412,43.016668],
+  "bbox": [
+    -88.012412,
+    43.016668,
+    -88.012412,
+    43.016668
+],
   "geometry": {"coordinates":[-88.012412,43.016668],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370856823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.454207,44.599762,-87.454207,44.599762",
     "geom:latitude":44.599762,
     "geom:longitude":-87.454207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1528 Sunset Ave",
     "sg:city":"Algoma",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370856823,
-    "wof:lastmodified":1449030070,
+    "wof:lastmodified":1467089900,
     "wof:name":"Lakeshore Cap",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "family"
     ]
 },
-  "bbox": [-87.454207,44.599762,-87.454207,44.599762],
+  "bbox": [
+    -87.454207,
+    44.599762,
+    -87.454207,
+    44.599762
+],
   "geometry": {"coordinates":[-87.454207,44.599762],"type":"Point"}
 }

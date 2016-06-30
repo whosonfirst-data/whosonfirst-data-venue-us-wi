@@ -2,13 +2,14 @@
   "id": 387493791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.368696,45.812432,-92.368696,45.812432",
     "geom:latitude":45.812432,
     "geom:longitude":-92.368696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24680 State Rd 35 70",
     "sg:city":"Siren",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387493791,
-    "wof:lastmodified":1449057308,
+    "wof:lastmodified":1467089924,
     "wof:name":"North Country Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.368696,45.812432,-92.368696,45.812432],
+  "bbox": [
+    -92.368696,
+    45.812432,
+    -92.368696,
+    45.812432
+],
   "geometry": {"coordinates":[-92.368696,45.812432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370958435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.652169,45.472755,-92.652169,45.472755",
     "geom:latitude":45.472755,
     "geom:longitude":-92.652169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1896 State Hwy 87",
     "sg:city":"Saint Croix Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370958435,
-    "wof:lastmodified":1449031740,
+    "wof:lastmodified":1467089905,
     "wof:name":"Beyl Waren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-92.652169,45.472755,-92.652169,45.472755],
+  "bbox": [
+    -92.652169,
+    45.472755,
+    -92.652169,
+    45.472755
+],
   "geometry": {"coordinates":[-92.652169,45.472755],"type":"Point"}
 }

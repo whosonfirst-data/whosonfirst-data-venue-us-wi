@@ -2,13 +2,14 @@
   "id": 387591675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.901913,43.110224,-87.901913,43.110224",
     "geom:latitude":43.110224,
     "geom:longitude":-87.901913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5154 N Idlewild Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387591675,
-    "wof:lastmodified":1449058143,
+    "wof:lastmodified":1467089927,
     "wof:name":"Phyllis Weiland Meml Schlrshp",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "scholarship"
     ]
 },
-  "bbox": [-87.901913,43.110224,-87.901913,43.110224],
-  "geometry": {"coordinates":[-87.901913,43.110224],"type":"Point"}
+  "bbox": [
+    -87.901913,
+    43.110224,
+    -87.901913,
+    43.110224
+],
+  "geometry": {"coordinates":[-87.90191299999999,43.110224],"type":"Point"}
 }

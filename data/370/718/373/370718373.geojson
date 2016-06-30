@@ -2,13 +2,14 @@
   "id": 370718373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.623382,44.961171,-89.623382,44.961171",
     "geom:latitude":44.961171,
     "geom:longitude":-89.623382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 N 6th St",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370718373,
-    "wof:lastmodified":1449029825,
+    "wof:lastmodified":1467089900,
     "wof:name":"Community Support Svc",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.623382,44.961171,-89.623382,44.961171],
-  "geometry": {"coordinates":[-89.623382,44.961171],"type":"Point"}
+  "bbox": [
+    -89.623382,
+    44.961171,
+    -89.623382,
+    44.961171
+],
+  "geometry": {"coordinates":[-89.62338200000001,44.961171],"type":"Point"}
 }

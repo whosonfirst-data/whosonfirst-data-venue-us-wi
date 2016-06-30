@@ -2,13 +2,14 @@
   "id": 371023247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.073633,43.050588,-88.073633,43.050588",
     "geom:latitude":43.050588,
     "geom:longitude":-88.073633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1640 Blue Ridge Blvd",
     "sg:city":"Elm Grove",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371023247,
-    "wof:lastmodified":1449050036,
+    "wof:lastmodified":1467089914,
     "wof:name":"Design & Carpentry By Richwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.073633,43.050588,-88.073633,43.050588],
+  "bbox": [
+    -88.073633,
+    43.050588,
+    -88.073633,
+    43.050588
+],
   "geometry": {"coordinates":[-88.073633,43.050588],"type":"Point"}
 }

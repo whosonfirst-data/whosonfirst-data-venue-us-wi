@@ -2,13 +2,14 @@
   "id": 354329439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.005959,43.114563,-88.005959,43.114563",
     "geom:latitude":43.114563,
     "geom:longitude":-88.005959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5268 N 76th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354329439,
-    "wof:lastmodified":1449066376,
+    "wof:lastmodified":1467089934,
     "wof:name":"Revelations Hair Salon",
     "wof:parent_id":85870903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-88.005959,43.114563,-88.005959,43.114563],
+  "bbox": [
+    -88.005959,
+    43.114563,
+    -88.005959,
+    43.114563
+],
   "geometry": {"coordinates":[-88.005959,43.114563],"type":"Point"}
 }

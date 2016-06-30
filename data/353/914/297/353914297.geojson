@@ -2,13 +2,14 @@
   "id": 353914297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.644536,44.251134,-87.644536,44.251134",
     "geom:latitude":44.251134,
     "geom:longitude":-87.644536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12931 Co Rd B",
     "sg:city":"Mishicot",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353914297,
-    "wof:lastmodified":1449019236,
+    "wof:lastmodified":1467089888,
     "wof:name":"R JS",
     "wof:parent_id":85827947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-87.644536,44.251134,-87.644536,44.251134],
+  "bbox": [
+    -87.644536,
+    44.251134,
+    -87.644536,
+    44.251134
+],
   "geometry": {"coordinates":[-87.644536,44.251134],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353854789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.361517,45.308957,-92.361517,45.308957",
     "geom:latitude":45.308957,
     "geom:longitude":-92.361517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Elm St E",
     "sg:city":"Amery",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353854789,
-    "wof:lastmodified":1449020690,
+    "wof:lastmodified":1467089892,
     "wof:name":"Northen Lakes Ctr-The Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "center"
     ]
 },
-  "bbox": [-92.361517,45.308957,-92.361517,45.308957],
-  "geometry": {"coordinates":[-92.361517,45.308957],"type":"Point"}
+  "bbox": [
+    -92.361517,
+    45.308957,
+    -92.361517,
+    45.308957
+],
+  "geometry": {"coordinates":[-92.36151700000001,45.308957],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370849397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.633474,44.859677,-92.633474,44.859677",
     "geom:latitude":44.859677,
     "geom:longitude":-92.633474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N Falls St",
     "sg:city":"River Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370849397,
-    "wof:lastmodified":1449029718,
+    "wof:lastmodified":1467089899,
     "wof:name":"Ken Hinz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-92.633474,44.859677,-92.633474,44.859677],
-  "geometry": {"coordinates":[-92.633474,44.859677],"type":"Point"}
+  "bbox": [
+    -92.633474,
+    44.859677,
+    -92.633474,
+    44.859677
+],
+  "geometry": {"coordinates":[-92.63347400000001,44.859677],"type":"Point"}
 }

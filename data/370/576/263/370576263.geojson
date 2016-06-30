@@ -2,13 +2,14 @@
   "id": 370576263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.673961,44.566635,-91.673961,44.566635",
     "geom:latitude":44.566635,
     "geom:longitude":-91.673961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 W Hudson St",
     "sg:city":"Mondovi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370576263,
-    "wof:lastmodified":1449031704,
+    "wof:lastmodified":1467089905,
     "wof:name":"JMR Hayden Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-91.673961,44.566635,-91.673961,44.566635],
-  "geometry": {"coordinates":[-91.673961,44.566635],"type":"Point"}
+  "bbox": [
+    -91.673961,
+    44.566635,
+    -91.673961,
+    44.566635
+],
+  "geometry": {"coordinates":[-91.67396100000001,44.566635],"type":"Point"}
 }

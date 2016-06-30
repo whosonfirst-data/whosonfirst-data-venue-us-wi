@@ -2,13 +2,14 @@
   "id": 169714657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.271627,43.80391,-90.271627,43.80391",
     "geom:latitude":43.80391,
     "geom:longitude":-90.271627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4585 Lee Rd",
     "sg:city":"Elroy",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169714657,
-    "wof:lastmodified":1449034313,
+    "wof:lastmodified":1467089908,
     "wof:name":"Lee Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.271627,43.80391,-90.271627,43.80391],
+  "bbox": [
+    -90.271627,
+    43.80391,
+    -90.271627,
+    43.80391
+],
   "geometry": {"coordinates":[-90.271627,43.80391],"type":"Point"}
 }

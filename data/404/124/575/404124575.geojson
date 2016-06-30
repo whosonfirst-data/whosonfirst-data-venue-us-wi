@@ -2,13 +2,14 @@
   "id": 404124575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.047487,44.491488,-88.047487,44.491488",
     "geom:latitude":44.491488,
     "geom:longitude":-88.047487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2074 S Ashland Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":404124575,
-    "wof:lastmodified":1449040247,
+    "wof:lastmodified":1467089911,
     "wof:name":"Shady Creations",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "radio"
     ]
 },
-  "bbox": [-88.047487,44.491488,-88.047487,44.491488],
+  "bbox": [
+    -88.047487,
+    44.491488,
+    -88.047487,
+    44.491488
+],
   "geometry": {"coordinates":[-88.047487,44.491488],"type":"Point"}
 }

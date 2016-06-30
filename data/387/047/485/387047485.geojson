@@ -2,13 +2,14 @@
   "id": 387047485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.817082,43.339366,-88.817082,43.339366",
     "geom:latitude":43.339366,
     "geom:longitude":-88.817082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Beaver Dam Rd",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387047485,
-    "wof:lastmodified":1449058566,
+    "wof:lastmodified":1467089929,
     "wof:name":"Caine Transfer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-88.817082,43.339366,-88.817082,43.339366],
+  "bbox": [
+    -88.817082,
+    43.339366,
+    -88.817082,
+    43.339366
+],
   "geometry": {"coordinates":[-88.817082,43.339366],"type":"Point"}
 }

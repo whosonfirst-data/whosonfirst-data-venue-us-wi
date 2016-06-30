@@ -2,13 +2,14 @@
   "id": 354194071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.381142,43.073995,-89.381142,43.073995",
     "geom:latitude":43.073995,
     "geom:longitude":-89.381142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 E Doty St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354194071,
-    "wof:lastmodified":1449067411,
+    "wof:lastmodified":1467089937,
     "wof:name":"Susan B King",
     "wof:parent_id":85878845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.381142,43.073995,-89.381142,43.073995],
+  "bbox": [
+    -89.381142,
+    43.073995,
+    -89.381142,
+    43.073995
+],
   "geometry": {"coordinates":[-89.381142,43.073995],"type":"Point"}
 }

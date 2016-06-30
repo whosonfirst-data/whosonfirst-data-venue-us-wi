@@ -2,13 +2,14 @@
   "id": 403756511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.1248,44.824647,-91.1248,44.824647",
     "geom:latitude":44.824647,
     "geom:longitude":-91.1248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 State Rd 27",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403756511,
-    "wof:lastmodified":1449055444,
+    "wof:lastmodified":1467089919,
     "wof:name":"Custom Wire Harness",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wire"
     ]
 },
-  "bbox": [-91.1248,44.824647,-91.1248,44.824647],
-  "geometry": {"coordinates":[-91.1248,44.824647],"type":"Point"}
+  "bbox": [
+    -91.1248,
+    44.824647,
+    -91.1248,
+    44.824647
+],
+  "geometry": {"coordinates":[-91.12479999999999,44.824647],"type":"Point"}
 }

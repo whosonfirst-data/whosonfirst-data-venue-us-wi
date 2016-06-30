@@ -2,13 +2,14 @@
   "id": 354364481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.148476,44.934697,-91.148476,44.934697",
     "geom:latitude":44.934697,
     "geom:longitude":-91.148476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 Lavorata Rd",
     "sg:city":"Cadott",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354364481,
-    "wof:lastmodified":1449066905,
+    "wof:lastmodified":1467089936,
     "wof:name":"Countryside Motel",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-91.148476,44.934697,-91.148476,44.934697],
+  "bbox": [
+    -91.148476,
+    44.934697,
+    -91.148476,
+    44.934697
+],
   "geometry": {"coordinates":[-91.148476,44.934697],"type":"Point"}
 }

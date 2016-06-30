@@ -2,13 +2,14 @@
   "id": 370629569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.881741,46.589757,-90.881741,46.589757",
     "geom:latitude":46.589757,
     "geom:longitude":-90.881741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Ellis Ave",
     "sg:city":"Ashland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370629569,
-    "wof:lastmodified":1449031692,
+    "wof:lastmodified":1467089905,
     "wof:name":"CEP Northwest Wisconsin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-90.881741,46.589757,-90.881741,46.589757],
-  "geometry": {"coordinates":[-90.881741,46.589757],"type":"Point"}
+  "bbox": [
+    -90.881741,
+    46.589757,
+    -90.881741,
+    46.589757
+],
+  "geometry": {"coordinates":[-90.88174100000001,46.589757],"type":"Point"}
 }

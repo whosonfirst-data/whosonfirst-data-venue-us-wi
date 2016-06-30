@@ -2,13 +2,14 @@
   "id": 337283521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.969686,43.133127,-87.969686,43.133127",
     "geom:latitude":43.133127,
     "geom:longitude":-87.969686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4425 W Woolworth Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337283521,
-    "wof:lastmodified":1449027185,
+    "wof:lastmodified":1467089893,
     "wof:name":"Eisenhower Center Inc",
     "wof:parent_id":85870807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-87.969686,43.133127,-87.969686,43.133127],
+  "bbox": [
+    -87.969686,
+    43.133127,
+    -87.969686,
+    43.133127
+],
   "geometry": {"coordinates":[-87.969686,43.133127],"type":"Point"}
 }

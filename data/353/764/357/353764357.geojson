@@ -2,13 +2,14 @@
   "id": 353764357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.055819,43.035851,-88.055819,43.035851",
     "geom:latitude":43.035851,
     "geom:longitude":-88.055819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11430 W Bluemound Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353764357,
-    "wof:lastmodified":1449020667,
+    "wof:lastmodified":1467089892,
     "wof:name":"Eduardo M Borda",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-88.055819,43.035851,-88.055819,43.035851],
+  "bbox": [
+    -88.055819,
+    43.035851,
+    -88.055819,
+    43.035851
+],
   "geometry": {"coordinates":[-88.055819,43.035851],"type":"Point"}
 }

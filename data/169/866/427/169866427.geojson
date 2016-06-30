@@ -2,13 +2,14 @@
   "id": 169866427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.04563,43.005698,-88.04563,43.005698",
     "geom:latitude":43.005698,
     "geom:longitude":-88.04563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2171 S 107th St",
     "sg:city":"West Allis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169866427,
-    "wof:lastmodified":1449034248,
+    "wof:lastmodified":1467089908,
     "wof:name":"Airport Town Car",
     "wof:parent_id":85870861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-88.04563,43.005698,-88.04563,43.005698],
+  "bbox": [
+    -88.04563,
+    43.005698,
+    -88.04563,
+    43.005698
+],
   "geometry": {"coordinates":[-88.04563,43.005698],"type":"Point"}
 }

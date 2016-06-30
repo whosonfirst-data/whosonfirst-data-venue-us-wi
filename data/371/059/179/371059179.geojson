@@ -2,13 +2,14 @@
   "id": 371059179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.089608,43.057409,-88.089608,43.057409",
     "geom:latitude":43.057409,
     "geom:longitude":-88.089608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14250 Applewood Ct",
     "sg:city":"Elm Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371059179,
-    "wof:lastmodified":1449049295,
+    "wof:lastmodified":1467089912,
     "wof:name":"Fr Consulting LLC",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.089608,43.057409,-88.089608,43.057409],
+  "bbox": [
+    -88.089608,
+    43.057409,
+    -88.089608,
+    43.057409
+],
   "geometry": {"coordinates":[-88.089608,43.057409],"type":"Point"}
 }

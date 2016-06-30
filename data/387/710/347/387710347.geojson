@@ -2,13 +2,14 @@
   "id": 387710347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.09022,45.465245,-91.09022,45.465245",
     "geom:latitude":45.465245,
     "geom:longitude":-91.09022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"922 Lake Ave E",
     "sg:city":"Ladysmith",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387710347,
-    "wof:lastmodified":1449056348,
+    "wof:lastmodified":1467089922,
     "wof:name":"Building Blocks Child Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.09022,45.465245,-91.09022,45.465245],
+  "bbox": [
+    -91.09022,
+    45.465245,
+    -91.09022,
+    45.465245
+],
   "geometry": {"coordinates":[-91.09022,45.465245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353910437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.04583,44.461129,-88.04583,44.461129",
     "geom:latitude":44.461129,
     "geom:longitude":-88.04583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"381 Rose Lawn Blvd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353910437,
-    "wof:lastmodified":1449019311,
+    "wof:lastmodified":1467089888,
     "wof:name":"Henry Zimmern",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "livestock"
     ]
 },
-  "bbox": [-88.04583,44.461129,-88.04583,44.461129],
+  "bbox": [
+    -88.04583,
+    44.461129,
+    -88.04583,
+    44.461129
+],
   "geometry": {"coordinates":[-88.04583,44.461129],"type":"Point"}
 }

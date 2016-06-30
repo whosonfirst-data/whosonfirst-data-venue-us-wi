@@ -2,13 +2,14 @@
   "id": 387583099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.280579,43.329639,-88.280579,43.329639",
     "geom:latitude":43.329639,
     "geom:longitude":-88.280579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Slinger Rd",
     "sg:city":"Slinger",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387583099,
-    "wof:lastmodified":1449059112,
+    "wof:lastmodified":1467089930,
     "wof:name":"Brandt Truck Line Inc",
     "wof:parent_id":85810007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-88.280579,43.329639,-88.280579,43.329639],
+  "bbox": [
+    -88.280579,
+    43.329639,
+    -88.280579,
+    43.329639
+],
   "geometry": {"coordinates":[-88.280579,43.329639],"type":"Point"}
 }

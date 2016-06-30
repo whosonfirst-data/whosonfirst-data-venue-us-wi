@@ -2,13 +2,14 @@
   "id": 387851029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.1873,43.283902,-88.1873,43.283902",
     "geom:latitude":43.283902,
     "geom:longitude":-88.1873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3026 State Hwy 145",
     "sg:city":"Richfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387851029,
-    "wof:lastmodified":1449058616,
+    "wof:lastmodified":1467089929,
     "wof:name":"Carlson Manufacturing Co",
     "wof:parent_id":85846371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "job"
     ]
 },
-  "bbox": [-88.1873,43.283902,-88.1873,43.283902],
-  "geometry": {"coordinates":[-88.1873,43.283902],"type":"Point"}
+  "bbox": [
+    -88.1873,
+    43.283902,
+    -88.1873,
+    43.283902
+],
+  "geometry": {"coordinates":[-88.18729999999999,43.283902],"type":"Point"}
 }

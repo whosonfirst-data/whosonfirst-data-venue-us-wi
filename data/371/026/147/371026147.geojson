@@ -2,13 +2,14 @@
   "id": 371026147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.663239,44.088964,-87.663239,44.088964",
     "geom:latitude":44.088964,
     "geom:longitude":-87.663239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 Washington St",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371026147,
-    "wof:lastmodified":1449049660,
+    "wof:lastmodified":1467089913,
     "wof:name":"Rhondas Studio",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-87.663239,44.088964,-87.663239,44.088964],
+  "bbox": [
+    -87.663239,
+    44.088964,
+    -87.663239,
+    44.088964
+],
   "geometry": {"coordinates":[-87.663239,44.088964],"type":"Point"}
 }

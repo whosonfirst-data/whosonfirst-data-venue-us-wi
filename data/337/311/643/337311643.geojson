@@ -2,13 +2,14 @@
   "id": 337311643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.71792,43.197602,-88.71792,43.197602",
     "geom:latitude":43.197602,
     "geom:longitude":-88.71792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 E Division St",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337311643,
-    "wof:lastmodified":1449027113,
+    "wof:lastmodified":1467089893,
     "wof:name":"J Ds Mobile Pressure Washing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-88.71792,43.197602,-88.71792,43.197602],
-  "geometry": {"coordinates":[-88.71792,43.197602],"type":"Point"}
+  "bbox": [
+    -88.71792,
+    43.197602,
+    -88.71792,
+    43.197602
+],
+  "geometry": {"coordinates":[-88.71792000000001,43.197602],"type":"Point"}
 }

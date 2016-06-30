@@ -2,13 +2,14 @@
   "id": 387082831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.029419,43.104871,-88.029419,43.104871",
     "geom:latitude":43.104871,
     "geom:longitude":-88.029419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9925 W Hampton Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387082831,
-    "wof:lastmodified":1449056217,
+    "wof:lastmodified":1467089921,
     "wof:name":"Dan Dan Window Man LLC",
     "wof:parent_id":85870997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.029419,43.104871,-88.029419,43.104871],
+  "bbox": [
+    -88.029419,
+    43.104871,
+    -88.029419,
+    43.104871
+],
   "geometry": {"coordinates":[-88.029419,43.104871],"type":"Point"}
 }

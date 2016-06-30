@@ -2,13 +2,14 @@
   "id": 387568109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.021143,43.055216,-88.021143,43.055216",
     "geom:latitude":43.055216,
     "geom:longitude":-88.021143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1935 River Park Ct",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387568109,
-    "wof:lastmodified":1449056025,
+    "wof:lastmodified":1467089921,
     "wof:name":"DCS Market Svc",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-88.021143,43.055216,-88.021143,43.055216],
+  "bbox": [
+    -88.021143,
+    43.055216,
+    -88.021143,
+    43.055216
+],
   "geometry": {"coordinates":[-88.021143,43.055216],"type":"Point"}
 }

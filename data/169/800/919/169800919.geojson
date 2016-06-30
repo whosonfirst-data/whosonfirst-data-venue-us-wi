@@ -2,13 +2,14 @@
   "id": 169800919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.923092,43.235926,-87.923092,43.235926",
     "geom:latitude":43.235926,
     "geom:longitude":-87.923092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 W Glen Oaks Ln",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169800919,
-    "wof:lastmodified":1449032939,
+    "wof:lastmodified":1467089908,
     "wof:name":"Charter Manufacturing Co",
     "wof:parent_id":85829269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fabricated"
     ]
 },
-  "bbox": [-87.923092,43.235926,-87.923092,43.235926],
+  "bbox": [
+    -87.923092,
+    43.235926,
+    -87.923092,
+    43.235926
+],
   "geometry": {"coordinates":[-87.923092,43.235926],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353531955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.071962,46.19695,-91.071962,46.19695",
     "geom:latitude":46.19695,
     "geom:longitude":-91.071962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42730 Birch Bend Rd",
     "sg:city":"Cable",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353531955,
-    "wof:lastmodified":1449018853,
+    "wof:lastmodified":1467089887,
     "wof:name":"Screamin Steves At Chinas Pl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.071962,46.19695,-91.071962,46.19695],
+  "bbox": [
+    -91.071962,
+    46.19695,
+    -91.071962,
+    46.19695
+],
   "geometry": {"coordinates":[-91.071962,46.19695],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370686311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.912178,42.889171,-87.912178,42.889171",
     "geom:latitude":42.889171,
     "geom:longitude":-87.912178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8645 S Howell Ave",
     "sg:city":"Oak Creek",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370686311,
-    "wof:lastmodified":1449031657,
+    "wof:lastmodified":1467089905,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-87.912178,42.889171,-87.912178,42.889171],
+  "bbox": [
+    -87.912178,
+    42.889171,
+    -87.912178,
+    42.889171
+],
   "geometry": {"coordinates":[-87.912178,42.889171],"type":"Point"}
 }

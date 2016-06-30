@@ -2,13 +2,14 @@
   "id": 169730419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.3405,43.098223,-89.3405,43.098223",
     "geom:latitude":43.098223,
     "geom:longitude":-89.3405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Dixon St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":169730419,
-    "wof:lastmodified":1449035433,
+    "wof:lastmodified":1467089909,
     "wof:name":"Spectrum Lighting Ltd",
     "wof:parent_id":85878879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-89.3405,43.098223,-89.3405,43.098223],
-  "geometry": {"coordinates":[-89.3405,43.098223],"type":"Point"}
+  "bbox": [
+    -89.3405,
+    43.098223,
+    -89.3405,
+    43.098223
+],
+  "geometry": {"coordinates":[-89.34050000000001,43.098223],"type":"Point"}
 }

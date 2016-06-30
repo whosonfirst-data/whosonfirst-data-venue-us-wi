@@ -2,13 +2,14 @@
   "id": 354385245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.045593,43.007187,-88.045593,43.007187",
     "geom:latitude":43.007187,
     "geom:longitude":-88.045593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2047 S 107th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354385245,
-    "wof:lastmodified":1449066960,
+    "wof:lastmodified":1467089936,
     "wof:name":"B&B Communications LLC",
     "wof:parent_id":85870861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-88.045593,43.007187,-88.045593,43.007187],
+  "bbox": [
+    -88.045593,
+    43.007187,
+    -88.045593,
+    43.007187
+],
   "geometry": {"coordinates":[-88.045593,43.007187],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353426911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.117361,43.020371,-88.117361,43.020371",
     "geom:latitude":43.020371,
     "geom:longitude":-88.117361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16445 Pepper Ln",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353426911,
-    "wof:lastmodified":1449018810,
+    "wof:lastmodified":1467089887,
     "wof:name":"J D Design & Build",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-88.117361,43.020371,-88.117361,43.020371],
+  "bbox": [
+    -88.117361,
+    43.020371,
+    -88.117361,
+    43.020371
+],
   "geometry": {"coordinates":[-88.117361,43.020371],"type":"Point"}
 }

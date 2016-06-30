@@ -2,13 +2,14 @@
   "id": 186108641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.45252,43.067332,-89.45252,43.067332",
     "geom:latitude":43.067332,
     "geom:longitude":-89.45252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Merlham Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186108641,
-    "wof:lastmodified":1449050310,
+    "wof:lastmodified":1467089914,
     "wof:name":"Keldog Consulting",
     "wof:parent_id":85868277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-89.45252,43.067332,-89.45252,43.067332],
-  "geometry": {"coordinates":[-89.45252,43.067332],"type":"Point"}
+  "bbox": [
+    -89.45252,
+    43.067332,
+    -89.45252,
+    43.067332
+],
+  "geometry": {"coordinates":[-89.45252000000001,43.067332],"type":"Point"}
 }

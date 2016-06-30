@@ -2,13 +2,14 @@
   "id": 370908173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.995584,45.622763,-87.995584,45.622763",
     "geom:latitude":45.622763,
     "geom:longitude":-87.995584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18380 US Hwy 141",
     "sg:city":"Pembine",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370908173,
-    "wof:lastmodified":1449030991,
+    "wof:lastmodified":1467089903,
     "wof:name":"North Woods Metal Works Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.995584,45.622763,-87.995584,45.622763],
-  "geometry": {"coordinates":[-87.995584,45.622763],"type":"Point"}
+  "bbox": [
+    -87.995584,
+    45.622763,
+    -87.995584,
+    45.622763
+],
+  "geometry": {"coordinates":[-87.99558399999999,45.622763],"type":"Point"}
 }

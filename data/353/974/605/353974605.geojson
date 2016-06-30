@@ -2,13 +2,14 @@
   "id": 353974605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.061529,43.031742,-88.061529,43.031742",
     "geom:latitude":43.031742,
     "geom:longitude":-88.061529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 N 120th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353974605,
-    "wof:lastmodified":1449020474,
+    "wof:lastmodified":1467089891,
     "wof:name":"Kusch's Automotive & Snow Plwg",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "removal"
     ]
 },
-  "bbox": [-88.061529,43.031742,-88.061529,43.031742],
-  "geometry": {"coordinates":[-88.061529,43.031742],"type":"Point"}
+  "bbox": [
+    -88.061529,
+    43.031742,
+    -88.061529,
+    43.031742
+],
+  "geometry": {"coordinates":[-88.06152899999999,43.031742],"type":"Point"}
 }

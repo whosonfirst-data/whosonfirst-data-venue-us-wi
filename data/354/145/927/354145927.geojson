@@ -2,13 +2,14 @@
   "id": 354145927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.005947,43.033077,-88.005947,43.033077",
     "geom:latitude":43.033077,
     "geom:longitude":-88.005947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N 75th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354145927,
-    "wof:lastmodified":1449066425,
+    "wof:lastmodified":1467089934,
     "wof:name":"Where Heart Is LLC",
     "wof:parent_id":85870887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.005947,43.033077,-88.005947,43.033077],
-  "geometry": {"coordinates":[-88.005947,43.033077],"type":"Point"}
+  "bbox": [
+    -88.005947,
+    43.033077,
+    -88.005947,
+    43.033077
+],
+  "geometry": {"coordinates":[-88.00594700000001,43.033077],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186374573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.632495,43.454142,-88.632495,43.454142",
     "geom:latitude":43.454142,
     "geom:longitude":-88.632495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 N Vine St",
     "sg:city":"Horicon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186374573,
-    "wof:lastmodified":1449051538,
+    "wof:lastmodified":1467089915,
     "wof:name":"John Deere Horicon Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.632495,43.454142,-88.632495,43.454142],
-  "geometry": {"coordinates":[-88.632495,43.454142],"type":"Point"}
+  "bbox": [
+    -88.632495,
+    43.454142,
+    -88.632495,
+    43.454142
+],
+  "geometry": {"coordinates":[-88.63249500000001,43.454142],"type":"Point"}
 }

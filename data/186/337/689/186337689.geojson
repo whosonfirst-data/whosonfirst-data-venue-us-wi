@@ -2,13 +2,14 @@
   "id": 186337689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.069134,44.488471,-88.069134,44.488471",
     "geom:latitude":44.488471,
     "geom:longitude":-88.069134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2305 San Luis Pl",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186337689,
-    "wof:lastmodified":1449051642,
+    "wof:lastmodified":1467089915,
     "wof:name":"San Luis Med Rhabilitation Ctr",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "long"
     ]
 },
-  "bbox": [-88.069134,44.488471,-88.069134,44.488471],
-  "geometry": {"coordinates":[-88.069134,44.488471],"type":"Point"}
+  "bbox": [
+    -88.069134,
+    44.488471,
+    -88.069134,
+    44.488471
+],
+  "geometry": {"coordinates":[-88.06913400000001,44.488471],"type":"Point"}
 }

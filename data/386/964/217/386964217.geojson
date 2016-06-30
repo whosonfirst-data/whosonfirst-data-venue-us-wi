@@ -2,13 +2,14 @@
   "id": 386964217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.507673,46.107075,-91.507673,46.107075",
     "geom:latitude":46.107075,
     "geom:longitude":-91.507673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16269 W Jolly Fisherman Rd",
     "sg:city":"Hayward",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":386964217,
-    "wof:lastmodified":1449028875,
+    "wof:lastmodified":1467089897,
     "wof:name":"Sunrise Bay Campground",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-91.507673,46.107075,-91.507673,46.107075],
+  "bbox": [
+    -91.507673,
+    46.107075,
+    -91.507673,
+    46.107075
+],
   "geometry": {"coordinates":[-91.507673,46.107075],"type":"Point"}
 }

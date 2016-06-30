@@ -2,13 +2,14 @@
   "id": 354260377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.735225,45.481735,-91.735225,45.481735",
     "geom:latitude":45.481735,
     "geom:longitude":-91.735225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1704 Macauley Ave",
     "sg:city":"Rice Lake",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354260377,
-    "wof:lastmodified":1449066220,
+    "wof:lastmodified":1467089934,
     "wof:name":"Rice Lake Diesel Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-91.735225,45.481735,-91.735225,45.481735],
+  "bbox": [
+    -91.735225,
+    45.481735,
+    -91.735225,
+    45.481735
+],
   "geometry": {"coordinates":[-91.735225,45.481735],"type":"Point"}
 }

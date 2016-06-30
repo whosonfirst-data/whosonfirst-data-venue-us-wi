@@ -2,13 +2,14 @@
   "id": 387153839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.895197,43.089686,-87.895197,43.089686",
     "geom:latitude":43.089686,
     "geom:longitude":-87.895197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4057 N Wilson Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387153839,
-    "wof:lastmodified":1449058731,
+    "wof:lastmodified":1467089929,
     "wof:name":"A B Data Ltd",
     "wof:parent_id":85870879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "marketing"
     ]
 },
-  "bbox": [-87.895197,43.089686,-87.895197,43.089686],
+  "bbox": [
+    -87.895197,
+    43.089686,
+    -87.895197,
+    43.089686
+],
   "geometry": {"coordinates":[-87.895197,43.089686],"type":"Point"}
 }

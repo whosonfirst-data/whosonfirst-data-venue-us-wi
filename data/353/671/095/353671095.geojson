@@ -2,13 +2,14 @@
   "id": 353671095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.969802,43.086995,-87.969802,43.086995",
     "geom:latitude":43.086995,
     "geom:longitude":-87.969802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4525 W Ridge Ct",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353671095,
-    "wof:lastmodified":1449018840,
+    "wof:lastmodified":1467089887,
     "wof:name":"Jacks Drop Inn",
     "wof:parent_id":85870825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-87.969802,43.086995,-87.969802,43.086995],
+  "bbox": [
+    -87.969802,
+    43.086995,
+    -87.969802,
+    43.086995
+],
   "geometry": {"coordinates":[-87.969802,43.086995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370764803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.876391,43.387447,-87.876391,43.387447",
     "geom:latitude":43.387447,
     "geom:longitude":-87.876391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"434 W Grand Ave",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370764803,
-    "wof:lastmodified":1449032313,
+    "wof:lastmodified":1467089907,
     "wof:name":"Gruen Gerald A Real Estate",
     "wof:parent_id":85828641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.876391,43.387447,-87.876391,43.387447],
+  "bbox": [
+    -87.876391,
+    43.387447,
+    -87.876391,
+    43.387447
+],
   "geometry": {"coordinates":[-87.876391,43.387447],"type":"Point"}
 }

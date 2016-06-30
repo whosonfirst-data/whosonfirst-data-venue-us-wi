@@ -2,13 +2,14 @@
   "id": 387307093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.094521,44.475129,-88.094521,44.475129",
     "geom:latitude":44.475129,
     "geom:longitude":-88.094521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2940 Lumber Ln",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387307093,
-    "wof:lastmodified":1449057084,
+    "wof:lastmodified":1467089924,
     "wof:name":"Michael Medich MD",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-88.094521,44.475129,-88.094521,44.475129],
+  "bbox": [
+    -88.094521,
+    44.475129,
+    -88.094521,
+    44.475129
+],
   "geometry": {"coordinates":[-88.094521,44.475129],"type":"Point"}
 }

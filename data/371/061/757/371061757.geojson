@@ -2,13 +2,14 @@
   "id": 371061757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.525592,44.455498,-87.525592,44.455498",
     "geom:latitude":44.455498,
     "geom:longitude":-87.525592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1614 Center St",
     "sg:city":"Kewaunee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371061757,
-    "wof:lastmodified":1449049810,
+    "wof:lastmodified":1467089913,
     "wof:name":"Jon's Creative Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-87.525592,44.455498,-87.525592,44.455498],
+  "bbox": [
+    -87.525592,
+    44.455498,
+    -87.525592,
+    44.455498
+],
   "geometry": {"coordinates":[-87.525592,44.455498],"type":"Point"}
 }

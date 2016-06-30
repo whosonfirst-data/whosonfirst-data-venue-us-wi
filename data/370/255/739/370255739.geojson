@@ -2,13 +2,14 @@
   "id": 370255739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.746983,44.042811,-88.746983,44.042811",
     "geom:latitude":44.042811,
     "geom:longitude":-88.746983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Spruce St",
     "sg:city":"Omro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370255739,
-    "wof:lastmodified":1449030637,
+    "wof:lastmodified":1467089902,
     "wof:name":"All Ways Concrete LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.746983,44.042811,-88.746983,44.042811],
+  "bbox": [
+    -88.746983,
+    44.042811,
+    -88.746983,
+    44.042811
+],
   "geometry": {"coordinates":[-88.746983,44.042811],"type":"Point"}
 }

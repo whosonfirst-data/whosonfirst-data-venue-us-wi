@@ -2,13 +2,14 @@
   "id": 354285725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.408665,44.272867,-88.408665,44.272867",
     "geom:latitude":44.272867,
     "geom:longitude":-88.408665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 W Wisconsin Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354285725,
-    "wof:lastmodified":1449065989,
+    "wof:lastmodified":1467089933,
     "wof:name":"Appleton Electronic Distrs",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "component"
     ]
 },
-  "bbox": [-88.408665,44.272867,-88.408665,44.272867],
+  "bbox": [
+    -88.408665,
+    44.272867,
+    -88.408665,
+    44.272867
+],
   "geometry": {"coordinates":[-88.408665,44.272867],"type":"Point"}
 }

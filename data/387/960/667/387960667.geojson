@@ -2,13 +2,14 @@
   "id": 387960667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.085327,44.508932,-88.085327,44.508932",
     "geom:latitude":44.508932,
     "geom:longitude":-88.085327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1543 Park Pl",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387960667,
-    "wof:lastmodified":1449058845,
+    "wof:lastmodified":1467089930,
     "wof:name":"Standard Register Company",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "form"
     ]
 },
-  "bbox": [-88.085327,44.508932,-88.085327,44.508932],
-  "geometry": {"coordinates":[-88.085327,44.508932],"type":"Point"}
+  "bbox": [
+    -88.085327,
+    44.508932,
+    -88.085327,
+    44.508932
+],
+  "geometry": {"coordinates":[-88.08532700000001,44.508932],"type":"Point"}
 }

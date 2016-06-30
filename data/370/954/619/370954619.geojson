@@ -2,13 +2,14 @@
   "id": 370954619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.144826,43.043819,-91.144826,43.043819",
     "geom:latitude":43.043819,
     "geom:longitude":-91.144826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 S Wacouta Ave",
     "sg:city":"Prairie Du Chien",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370954619,
-    "wof:lastmodified":1449032034,
+    "wof:lastmodified":1467089906,
     "wof:name":"St John's Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-91.144826,43.043819,-91.144826,43.043819],
-  "geometry": {"coordinates":[-91.144826,43.043819],"type":"Point"}
+  "bbox": [
+    -91.144826,
+    43.043819,
+    -91.144826,
+    43.043819
+],
+  "geometry": {"coordinates":[-91.14482599999999,43.043819],"type":"Point"}
 }

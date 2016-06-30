@@ -2,13 +2,14 @@
   "id": 387770529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.453923,44.195355,-88.453923,44.195355",
     "geom:latitude":44.195355,
     "geom:longitude":-88.453923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Washington St",
     "sg:city":"Menasha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387770529,
-    "wof:lastmodified":1449059992,
+    "wof:lastmodified":1467089933,
     "wof:name":"Abraham Sunshine Dry Basement",
     "wof:parent_id":85807543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.453923,44.195355,-88.453923,44.195355],
+  "bbox": [
+    -88.453923,
+    44.195355,
+    -88.453923,
+    44.195355
+],
   "geometry": {"coordinates":[-88.453923,44.195355],"type":"Point"}
 }

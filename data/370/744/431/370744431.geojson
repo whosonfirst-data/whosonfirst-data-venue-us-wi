@@ -2,13 +2,14 @@
   "id": 370744431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.358365,43.087897,-89.358365,43.087897",
     "geom:latitude":43.087897,
     "geom:longitude":-89.358365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 Williamson St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -63,16 +64,22 @@
         }
     ],
     "wof:id":370744431,
-    "wof:lastmodified":1449030309,
+    "wof:lastmodified":1467089901,
     "wof:name":"Gayfeather Fabrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing"
     ]
 },
-  "bbox": [-89.358365,43.087897,-89.358365,43.087897],
-  "geometry": {"coordinates":[-89.358365,43.087897],"type":"Point"}
+  "bbox": [
+    -89.358365,
+    43.087897,
+    -89.358365,
+    43.087897
+],
+  "geometry": {"coordinates":[-89.35836500000001,43.087897],"type":"Point"}
 }

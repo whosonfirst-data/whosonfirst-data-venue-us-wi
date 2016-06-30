@@ -2,13 +2,14 @@
   "id": 387709541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.629412,44.846206,-92.629412,44.846206",
     "geom:latitude":44.846206,
     "geom:longitude":-92.629412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 S Main St",
     "sg:city":"River Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387709541,
-    "wof:lastmodified":1449056857,
+    "wof:lastmodified":1467089923,
     "wof:name":"Dick's MARKET",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-92.629412,44.846206,-92.629412,44.846206],
+  "bbox": [
+    -92.629412,
+    44.846206,
+    -92.629412,
+    44.846206
+],
   "geometry": {"coordinates":[-92.629412,44.846206],"type":"Point"}
 }

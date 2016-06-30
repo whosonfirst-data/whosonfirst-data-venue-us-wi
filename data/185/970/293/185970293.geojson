@@ -2,13 +2,14 @@
   "id": 185970293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.988267,44.13863,-87.988267,44.13863",
     "geom:latitude":44.13863,
     "geom:longitude":-87.988267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21913 W Goodwin Rd",
     "sg:city":"Reedsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185970293,
-    "wof:lastmodified":1449008160,
+    "wof:lastmodified":1467089886,
     "wof:name":"Krepline Harvesting Inc",
     "wof:parent_id":85827947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "harvesting"
     ]
 },
-  "bbox": [-87.988267,44.13863,-87.988267,44.13863],
-  "geometry": {"coordinates":[-87.988267,44.13863],"type":"Point"}
+  "bbox": [
+    -87.988267,
+    44.13863,
+    -87.988267,
+    44.13863
+],
+  "geometry": {"coordinates":[-87.98826699999999,44.13863],"type":"Point"}
 }

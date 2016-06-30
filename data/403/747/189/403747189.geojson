@@ -2,13 +2,14 @@
   "id": 403747189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.920434,44.89742,-91.920434,44.89742",
     "geom:latitude":44.89742,
     "geom:longitude":-91.920434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 Elm Ave E",
     "sg:city":"Menomonie",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":403747189,
-    "wof:lastmodified":1449054872,
+    "wof:lastmodified":1467089918,
     "wof:name":"Autumn Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "intermediate"
     ]
 },
-  "bbox": [-91.920434,44.89742,-91.920434,44.89742],
+  "bbox": [
+    -91.920434,
+    44.89742,
+    -91.920434,
+    44.89742
+],
   "geometry": {"coordinates":[-91.920434,44.89742],"type":"Point"}
 }

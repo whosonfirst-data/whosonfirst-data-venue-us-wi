@@ -2,13 +2,14 @@
   "id": 185828999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.368243,44.84423,-87.368243,44.84423",
     "geom:latitude":44.84423,
     "geom:longitude":-87.368243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 Egg Harbor Rd",
     "sg:city":"Sturgeon Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185828999,
-    "wof:lastmodified":1449007452,
+    "wof:lastmodified":1467089884,
     "wof:name":"Door County Glass & Mirror",
     "wof:parent_id":85851043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-87.368243,44.84423,-87.368243,44.84423],
-  "geometry": {"coordinates":[-87.368243,44.84423],"type":"Point"}
+  "bbox": [
+    -87.368243,
+    44.84423,
+    -87.368243,
+    44.84423
+],
+  "geometry": {"coordinates":[-87.36824300000001,44.84423],"type":"Point"}
 }

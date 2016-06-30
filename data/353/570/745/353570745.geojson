@@ -2,13 +2,14 @@
   "id": 353570745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.935308,43.120353,-87.935308,43.120353",
     "geom:latitude":43.120353,
     "geom:longitude":-87.935308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5645 N Green Bay Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353570745,
-    "wof:lastmodified":1449019782,
+    "wof:lastmodified":1467089890,
     "wof:name":"Mortgage Co",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-87.935308,43.120353,-87.935308,43.120353],
-  "geometry": {"coordinates":[-87.935308,43.120353],"type":"Point"}
+  "bbox": [
+    -87.935308,
+    43.120353,
+    -87.935308,
+    43.120353
+],
+  "geometry": {"coordinates":[-87.93530800000001,43.120353],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403860271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.91271,43.022566,-87.91271,43.022566",
     "geom:latitude":43.022566,
     "geom:longitude":-87.91271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"839 S 2nd St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403860271,
-    "wof:lastmodified":1449055222,
+    "wof:lastmodified":1467089919,
     "wof:name":"Gasthaus Zur Krone LLC",
     "wof:parent_id":85870951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-87.91271,43.022566,-87.91271,43.022566],
+  "bbox": [
+    -87.91271,
+    43.022566,
+    -87.91271,
+    43.022566
+],
   "geometry": {"coordinates":[-87.91271,43.022566],"type":"Point"}
 }

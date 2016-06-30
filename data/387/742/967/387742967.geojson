@@ -2,13 +2,14 @@
   "id": 387742967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.05847,43.122512,-88.05847,43.122512",
     "geom:latitude":43.122512,
     "geom:longitude":-88.05847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11925 W Carmen Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387742967,
-    "wof:lastmodified":1449056366,
+    "wof:lastmodified":1467089922,
     "wof:name":"Building Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.05847,43.122512,-88.05847,43.122512],
+  "bbox": [
+    -88.05847,
+    43.122512,
+    -88.05847,
+    43.122512
+],
   "geometry": {"coordinates":[-88.05847,43.122512],"type":"Point"}
 }

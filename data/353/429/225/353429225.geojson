@@ -2,13 +2,14 @@
   "id": 353429225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.052234,44.427978,-88.052234,44.427978",
     "geom:latitude":44.427978,
     "geom:longitude":-88.052234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3852 Heritage Rd",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353429225,
-    "wof:lastmodified":1449020654,
+    "wof:lastmodified":1467089891,
     "wof:name":"Sexton John Sand & Gravel Corp",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-88.052234,44.427978,-88.052234,44.427978],
+  "bbox": [
+    -88.052234,
+    44.427978,
+    -88.052234,
+    44.427978
+],
   "geometry": {"coordinates":[-88.052234,44.427978],"type":"Point"}
 }

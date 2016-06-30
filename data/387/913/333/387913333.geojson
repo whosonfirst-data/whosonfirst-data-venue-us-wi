@@ -2,13 +2,14 @@
   "id": 387913333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.869802,43.392351,-87.869802,43.392351",
     "geom:latitude":43.392351,
     "geom:longitude":-87.869802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Johnson St",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387913333,
-    "wof:lastmodified":1449057578,
+    "wof:lastmodified":1467089925,
     "wof:name":"Port Washington Historical Soc",
     "wof:parent_id":85828641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "historical"
     ]
 },
-  "bbox": [-87.869802,43.392351,-87.869802,43.392351],
-  "geometry": {"coordinates":[-87.869802,43.392351],"type":"Point"}
+  "bbox": [
+    -87.869802,
+    43.392351,
+    -87.869802,
+    43.392351
+],
+  "geometry": {"coordinates":[-87.86980200000001,43.392351],"type":"Point"}
 }

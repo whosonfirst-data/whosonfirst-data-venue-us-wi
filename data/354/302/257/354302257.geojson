@@ -2,13 +2,14 @@
   "id": 354302257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.645321,44.856688,-89.645321,44.856688",
     "geom:latitude":44.856688,
     "geom:longitude":-89.645321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2342 Old Hwy 51",
     "sg:city":"Mosinee",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":354302257,
-    "wof:lastmodified":1449066482,
+    "wof:lastmodified":1467089935,
     "wof:name":"Golembiewski Trucking & Bull",
     "wof:parent_id":85865437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "trucking"
     ]
 },
-  "bbox": [-89.645321,44.856688,-89.645321,44.856688],
+  "bbox": [
+    -89.645321,
+    44.856688,
+    -89.645321,
+    44.856688
+],
   "geometry": {"coordinates":[-89.645321,44.856688],"type":"Point"}
 }

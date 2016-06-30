@@ -2,13 +2,14 @@
   "id": 185810397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.019852,42.679577,-89.019852,42.679577",
     "geom:latitude":42.679577,
     "geom:longitude":-89.019852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Water St",
     "sg:city":"Janesville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":185810397,
-    "wof:lastmodified":1449007081,
+    "wof:lastmodified":1467089884,
     "wof:name":"Northrop Awning Co",
     "wof:parent_id":85803103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.019852,42.679577,-89.019852,42.679577],
+  "bbox": [
+    -89.019852,
+    42.679577,
+    -89.019852,
+    42.679577
+],
   "geometry": {"coordinates":[-89.019852,42.679577],"type":"Point"}
 }

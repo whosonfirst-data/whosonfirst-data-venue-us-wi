@@ -2,13 +2,14 @@
   "id": 387440975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.18969,45.471321,-92.18969,45.471321",
     "geom:latitude":45.471321,
     "geom:longitude":-92.18969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"196 183rd Ave",
     "sg:city":"Turtle Lake",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387440975,
-    "wof:lastmodified":1449057446,
+    "wof:lastmodified":1467089925,
     "wof:name":"Jansen Farm Account",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-92.18969,45.471321,-92.18969,45.471321],
+  "bbox": [
+    -92.18969,
+    45.471321,
+    -92.18969,
+    45.471321
+],
   "geometry": {"coordinates":[-92.18969,45.471321],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353833483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.147051,43.002535,-88.147051,43.002535",
     "geom:latitude":43.002535,
     "geom:longitude":-88.147051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19000 W Lincoln Ave",
     "sg:city":"New Berlin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353833483,
-    "wof:lastmodified":1449018578,
+    "wof:lastmodified":1467089887,
     "wof:name":"Certified Products Inc",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mine"
     ]
 },
-  "bbox": [-88.147051,43.002535,-88.147051,43.002535],
+  "bbox": [
+    -88.147051,
+    43.002535,
+    -88.147051,
+    43.002535
+],
   "geometry": {"coordinates":[-88.147051,43.002535],"type":"Point"}
 }

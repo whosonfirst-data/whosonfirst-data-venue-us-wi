@@ -2,13 +2,14 @@
   "id": 337283629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.947701,43.041647,-87.947701,43.041647",
     "geom:latitude":43.041647,
     "geom:longitude":-87.947701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"829 N 27th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337283629,
-    "wof:lastmodified":1449027183,
+    "wof:lastmodified":1467089893,
     "wof:name":"Aisha African Hair",
     "wof:parent_id":85870967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-87.947701,43.041647,-87.947701,43.041647],
+  "bbox": [
+    -87.947701,
+    43.041647,
+    -87.947701,
+    43.041647
+],
   "geometry": {"coordinates":[-87.947701,43.041647],"type":"Point"}
 }

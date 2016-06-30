@@ -2,13 +2,14 @@
   "id": 387489443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.409147,45.633804,-89.409147,45.633804",
     "geom:latitude":45.633804,
     "geom:longitude":-89.409147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 E Anderson St",
     "sg:city":"Rhinelander",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387489443,
-    "wof:lastmodified":1449058191,
+    "wof:lastmodified":1467089928,
     "wof:name":"Country Seed Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-89.409147,45.633804,-89.409147,45.633804],
+  "bbox": [
+    -89.409147,
+    45.633804,
+    -89.409147,
+    45.633804
+],
   "geometry": {"coordinates":[-89.409147,45.633804],"type":"Point"}
 }

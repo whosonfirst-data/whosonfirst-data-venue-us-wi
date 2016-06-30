@@ -2,13 +2,14 @@
   "id": 387653101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.905921,43.111182,-87.905921,43.111182",
     "geom:latitude":43.111182,
     "geom:longitude":-87.905921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 E Henry Clay St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387653101,
-    "wof:lastmodified":1449056385,
+    "wof:lastmodified":1467089922,
     "wof:name":"Five Star Fish",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-87.905921,43.111182,-87.905921,43.111182],
-  "geometry": {"coordinates":[-87.905921,43.111182],"type":"Point"}
+  "bbox": [
+    -87.905921,
+    43.111182,
+    -87.905921,
+    43.111182
+],
+  "geometry": {"coordinates":[-87.90592100000001,43.111182],"type":"Point"}
 }

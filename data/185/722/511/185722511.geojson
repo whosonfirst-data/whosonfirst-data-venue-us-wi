@@ -2,13 +2,14 @@
   "id": 185722511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.631346,44.987266,-91.631346,44.987266",
     "geom:latitude":44.987266,
     "geom:longitude":-91.631346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10176 20th St",
     "sg:city":"Colfax",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185722511,
-    "wof:lastmodified":1449007155,
+    "wof:lastmodified":1467089884,
     "wof:name":"Abi Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-91.631346,44.987266,-91.631346,44.987266],
-  "geometry": {"coordinates":[-91.631346,44.987266],"type":"Point"}
+  "bbox": [
+    -91.631346,
+    44.987266,
+    -91.631346,
+    44.987266
+],
+  "geometry": {"coordinates":[-91.63134599999999,44.987266],"type":"Point"}
 }

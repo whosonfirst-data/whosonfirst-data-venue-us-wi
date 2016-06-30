@@ -2,13 +2,14 @@
   "id": 370983611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.946803,43.997435,-88.946803,43.997435",
     "geom:latitude":43.997435,
     "geom:longitude":-88.946803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"395 Co Rd Xx",
     "sg:city":"Berlin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370983611,
-    "wof:lastmodified":1449032195,
+    "wof:lastmodified":1467089906,
     "wof:name":"Robert Przybl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-88.946803,43.997435,-88.946803,43.997435],
+  "bbox": [
+    -88.946803,
+    43.997435,
+    -88.946803,
+    43.997435
+],
   "geometry": {"coordinates":[-88.946803,43.997435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370594343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.193747,43.028747,-89.193747,43.028747",
     "geom:latitude":43.028747,
     "geom:longitude":-89.193747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2476 Ofsthun Rd",
     "sg:city":"Cottage Grove",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370594343,
-    "wof:lastmodified":1449029583,
+    "wof:lastmodified":1467089899,
     "wof:name":"John P Ofsthun",
     "wof:parent_id":85814911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.193747,43.028747,-89.193747,43.028747],
+  "bbox": [
+    -89.193747,
+    43.028747,
+    -89.193747,
+    43.028747
+],
   "geometry": {"coordinates":[-89.193747,43.028747],"type":"Point"}
 }

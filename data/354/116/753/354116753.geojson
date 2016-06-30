@@ -2,13 +2,14 @@
   "id": 354116753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.946273,43.038771,-87.946273,43.038771",
     "geom:latitude":43.038771,
     "geom:longitude":-87.946273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2502 W Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354116753,
-    "wof:lastmodified":1449066174,
+    "wof:lastmodified":1467089934,
     "wof:name":"D & B Petroleum",
     "wof:parent_id":85870967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-87.946273,43.038771,-87.946273,43.038771],
-  "geometry": {"coordinates":[-87.946273,43.038771],"type":"Point"}
+  "bbox": [
+    -87.946273,
+    43.038771,
+    -87.946273,
+    43.038771
+],
+  "geometry": {"coordinates":[-87.94627300000001,43.038771],"type":"Point"}
 }

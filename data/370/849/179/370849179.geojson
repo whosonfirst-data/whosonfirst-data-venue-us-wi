@@ -2,13 +2,14 @@
   "id": 370849179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.493229,46.020685,-91.493229,46.020685",
     "geom:latitude":46.020685,
     "geom:longitude":-91.493229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15809 N 1st St",
     "sg:city":"Hayward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370849179,
-    "wof:lastmodified":1449029721,
+    "wof:lastmodified":1467089899,
     "wof:name":"A Razor's Edge-Shirley's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.493229,46.020685,-91.493229,46.020685],
+  "bbox": [
+    -91.493229,
+    46.020685,
+    -91.493229,
+    46.020685
+],
   "geometry": {"coordinates":[-91.493229,46.020685],"type":"Point"}
 }

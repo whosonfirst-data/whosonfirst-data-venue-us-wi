@@ -2,13 +2,14 @@
   "id": 185972963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.91271,43.022351,-87.91271,43.022351",
     "geom:latitude":43.022351,
     "geom:longitude":-87.91271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 S 2nd St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185972963,
-    "wof:lastmodified":1449007439,
+    "wof:lastmodified":1467089884,
     "wof:name":"Zippers",
     "wof:parent_id":85870951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-87.91271,43.022351,-87.91271,43.022351],
+  "bbox": [
+    -87.91271,
+    43.022351,
+    -87.91271,
+    43.022351
+],
   "geometry": {"coordinates":[-87.91271,43.022351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403744967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.486646,43.561237,-89.486646,43.561237",
     "geom:latitude":43.561237,
     "geom:longitude":-89.486646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Northport Rd",
     "sg:city":"Portage",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403744967,
-    "wof:lastmodified":1449055111,
+    "wof:lastmodified":1467089918,
     "wof:name":"Matrex Mold & Tool Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mold"
     ]
 },
-  "bbox": [-89.486646,43.561237,-89.486646,43.561237],
-  "geometry": {"coordinates":[-89.486646,43.561237],"type":"Point"}
+  "bbox": [
+    -89.486646,
+    43.561237,
+    -89.486646,
+    43.561237
+],
+  "geometry": {"coordinates":[-89.48664599999999,43.561237],"type":"Point"}
 }

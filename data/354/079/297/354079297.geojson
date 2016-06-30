@@ -2,13 +2,14 @@
   "id": 354079297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.504718,43.969348,-90.504718,43.969348",
     "geom:latitude":43.969348,
     "geom:longitude":-90.504718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1844 Superior Ave",
     "sg:city":"Tomah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354079297,
-    "wof:lastmodified":1449067366,
+    "wof:lastmodified":1467089937,
     "wof:name":"Aldi Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.504718,43.969348,-90.504718,43.969348],
+  "bbox": [
+    -90.504718,
+    43.969348,
+    -90.504718,
+    43.969348
+],
   "geometry": {"coordinates":[-90.504718,43.969348],"type":"Point"}
 }

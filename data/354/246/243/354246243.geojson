@@ -2,13 +2,14 @@
   "id": 354246243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.975766,43.133167,-87.975766,43.133167",
     "geom:latitude":43.133167,
     "geom:longitude":-87.975766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 W Woolworth Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354246243,
-    "wof:lastmodified":1449066048,
+    "wof:lastmodified":1467089933,
     "wof:name":"Ryan Elderidge Management Svcs",
     "wof:parent_id":85870807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "business"
     ]
 },
-  "bbox": [-87.975766,43.133167,-87.975766,43.133167],
-  "geometry": {"coordinates":[-87.975766,43.133167],"type":"Point"}
+  "bbox": [
+    -87.975766,
+    43.133167,
+    -87.975766,
+    43.133167
+],
+  "geometry": {"coordinates":[-87.97576599999999,43.133167],"type":"Point"}
 }

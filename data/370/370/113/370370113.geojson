@@ -2,13 +2,14 @@
   "id": 370370113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.37896,44.246728,-88.37896,44.246728",
     "geom:latitude":44.246728,
     "geom:longitude":-88.37896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 S Lee St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370370113,
-    "wof:lastmodified":1449030918,
+    "wof:lastmodified":1467089903,
     "wof:name":"Roost Bed & Breakfast LLC",
     "wof:parent_id":85857401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "accommodation"
     ]
 },
-  "bbox": [-88.37896,44.246728,-88.37896,44.246728],
-  "geometry": {"coordinates":[-88.37896,44.246728],"type":"Point"}
+  "bbox": [
+    -88.37896,
+    44.246728,
+    -88.37896,
+    44.246728
+],
+  "geometry": {"coordinates":[-88.37896000000001,44.246728],"type":"Point"}
 }

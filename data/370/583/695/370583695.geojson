@@ -2,13 +2,14 @@
   "id": 370583695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.473952,44.226929,-88.473952,44.226929",
     "geom:latitude":44.226929,
     "geom:longitude":-88.473952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Millbrook Dr",
     "sg:city":"Neenah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370583695,
-    "wof:lastmodified":1449031768,
+    "wof:lastmodified":1467089905,
     "wof:name":"Market America Ind Distr",
     "wof:parent_id":85807543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-88.473952,44.226929,-88.473952,44.226929],
+  "bbox": [
+    -88.473952,
+    44.226929,
+    -88.473952,
+    44.226929
+],
   "geometry": {"coordinates":[-88.473952,44.226929],"type":"Point"}
 }

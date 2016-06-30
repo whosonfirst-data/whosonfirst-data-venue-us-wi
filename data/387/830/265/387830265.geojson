@@ -2,13 +2,14 @@
   "id": 387830265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.981446,43.008294,-87.981446,43.008294",
     "geom:latitude":43.008294,
     "geom:longitude":-87.981446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2096 S 55th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387830265,
-    "wof:lastmodified":1449056908,
+    "wof:lastmodified":1467089923,
     "wof:name":"Bakers Service Unlimited Inc",
     "wof:parent_id":85870937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "baker"
     ]
 },
-  "bbox": [-87.981446,43.008294,-87.981446,43.008294],
-  "geometry": {"coordinates":[-87.981446,43.008294],"type":"Point"}
+  "bbox": [
+    -87.981446,
+    43.008294,
+    -87.981446,
+    43.008294
+],
+  "geometry": {"coordinates":[-87.98144600000001,43.008294],"type":"Point"}
 }

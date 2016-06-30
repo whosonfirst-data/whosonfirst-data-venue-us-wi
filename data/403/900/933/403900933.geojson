@@ -2,13 +2,14 @@
   "id": 403900933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.562141,44.001496,-88.562141,44.001496",
     "geom:latitude":44.001496,
     "geom:longitude":-88.562141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"868 W 17th Ave",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403900933,
-    "wof:lastmodified":1449055207,
+    "wof:lastmodified":1467089919,
     "wof:name":"Custom Upholstery",
     "wof:parent_id":85851167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-88.562141,44.001496,-88.562141,44.001496],
+  "bbox": [
+    -88.562141,
+    44.001496,
+    -88.562141,
+    44.001496
+],
   "geometry": {"coordinates":[-88.562141,44.001496],"type":"Point"}
 }

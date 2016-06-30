@@ -2,13 +2,14 @@
   "id": 403892935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.599282,45.329424,-88.599282,45.329424",
     "geom:latitude":45.329424,
     "geom:longitude":-88.599282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17965 W Sunset Bay Rd",
     "sg:city":"Townsend",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403892935,
-    "wof:lastmodified":1449054824,
+    "wof:lastmodified":1467089918,
     "wof:name":"Anderson Custom Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.599282,45.329424,-88.599282,45.329424],
+  "bbox": [
+    -88.599282,
+    45.329424,
+    -88.599282,
+    45.329424
+],
   "geometry": {"coordinates":[-88.599282,45.329424],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337355545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.126847,43.018587,-88.126847,43.018587",
     "geom:latitude":43.018587,
     "geom:longitude":-88.126847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 S Calhoun Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337355545,
-    "wof:lastmodified":1449027168,
+    "wof:lastmodified":1467089893,
     "wof:name":"Kevin J Kuffel DDS",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-88.126847,43.018587,-88.126847,43.018587],
+  "bbox": [
+    -88.126847,
+    43.018587,
+    -88.126847,
+    43.018587
+],
   "geometry": {"coordinates":[-88.126847,43.018587],"type":"Point"}
 }

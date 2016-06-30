@@ -2,13 +2,14 @@
   "id": 370651703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.911164,43.021314,-87.911164,43.021314",
     "geom:latitude":43.021314,
     "geom:longitude":-87.911164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 S 1st St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":370651703,
-    "wof:lastmodified":1449029761,
+    "wof:lastmodified":1467089899,
     "wof:name":"Schulte Poultry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.911164,43.021314,-87.911164,43.021314],
+  "bbox": [
+    -87.911164,
+    43.021314,
+    -87.911164,
+    43.021314
+],
   "geometry": {"coordinates":[-87.911164,43.021314],"type":"Point"}
 }

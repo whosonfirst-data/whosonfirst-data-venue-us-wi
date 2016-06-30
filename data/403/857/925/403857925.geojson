@@ -2,13 +2,14 @@
   "id": 403857925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.536454,45.289965,-92.536454,45.289965",
     "geom:latitude":45.289965,
     "geom:longitude":-92.536454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"565 180th St",
     "sg:city":"Osceola",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403857925,
-    "wof:lastmodified":1449055479,
+    "wof:lastmodified":1467089919,
     "wof:name":"Green Acres Lawn & Land Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sanitary"
     ]
 },
-  "bbox": [-92.536454,45.289965,-92.536454,45.289965],
-  "geometry": {"coordinates":[-92.536454,45.289965],"type":"Point"}
+  "bbox": [
+    -92.536454,
+    45.289965,
+    -92.536454,
+    45.289965
+],
+  "geometry": {"coordinates":[-92.53645400000001,45.289965],"type":"Point"}
 }

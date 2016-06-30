@@ -2,13 +2,14 @@
   "id": 370596885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.660116,44.943329,-92.660116,44.943329",
     "geom:latitude":44.943329,
     "geom:longitude":-92.660116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"657 Deerwood Dr",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370596885,
-    "wof:lastmodified":1449030818,
+    "wof:lastmodified":1467089902,
     "wof:name":"Casallis Produce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.660116,44.943329,-92.660116,44.943329],
+  "bbox": [
+    -92.660116,
+    44.943329,
+    -92.660116,
+    44.943329
+],
   "geometry": {"coordinates":[-92.660116,44.943329],"type":"Point"}
 }

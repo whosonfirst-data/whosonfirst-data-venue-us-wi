@@ -2,13 +2,14 @@
   "id": 370386717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.943492,43.97773,-88.943492,43.97773",
     "geom:latitude":43.97773,
     "geom:longitude":-88.943492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Memorial Dr",
     "sg:city":"Berlin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370386717,
-    "wof:lastmodified":1449030857,
+    "wof:lastmodified":1467089903,
     "wof:name":"Berlin Memorial Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nursing"
     ]
 },
-  "bbox": [-88.943492,43.97773,-88.943492,43.97773],
-  "geometry": {"coordinates":[-88.943492,43.97773],"type":"Point"}
+  "bbox": [
+    -88.943492,
+    43.97773,
+    -88.943492,
+    43.97773
+],
+  "geometry": {"coordinates":[-88.94349200000001,43.97773],"type":"Point"}
 }

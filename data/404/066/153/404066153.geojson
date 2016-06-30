@@ -2,13 +2,14 @@
   "id": 404066153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.562501,45.147411,-91.562501,45.147411",
     "geom:latitude":45.147411,
     "geom:longitude":-91.562501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20133 Co Hwy Q",
     "sg:city":"Bloomer",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404066153,
-    "wof:lastmodified":1449039370,
+    "wof:lastmodified":1467089910,
     "wof:name":"Neil Rasmussen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-91.562501,45.147411,-91.562501,45.147411],
+  "bbox": [
+    -91.562501,
+    45.147411,
+    -91.562501,
+    45.147411
+],
   "geometry": {"coordinates":[-91.562501,45.147411],"type":"Point"}
 }

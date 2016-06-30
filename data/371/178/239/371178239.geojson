@@ -2,13 +2,14 @@
   "id": 371178239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.679743,44.282134,-87.679743,44.282134",
     "geom:latitude":44.282134,
     "geom:longitude":-87.679743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15104 Jambo Creek Rd",
     "sg:city":"Mishicot",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371178239,
-    "wof:lastmodified":1449049802,
+    "wof:lastmodified":1467089913,
     "wof:name":"Merlin Schieis",
     "wof:parent_id":85827947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.679743,44.282134,-87.679743,44.282134],
+  "bbox": [
+    -87.679743,
+    44.282134,
+    -87.679743,
+    44.282134
+],
   "geometry": {"coordinates":[-87.679743,44.282134],"type":"Point"}
 }

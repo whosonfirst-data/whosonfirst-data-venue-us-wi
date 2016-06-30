@@ -2,13 +2,14 @@
   "id": 387636697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.979879,43.00828,-87.979879,43.00828",
     "geom:latitude":43.00828,
     "geom:longitude":-87.979879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5325 W Rogers St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387636697,
-    "wof:lastmodified":1449057618,
+    "wof:lastmodified":1467089925,
     "wof:name":"Baird Display Inc",
     "wof:parent_id":85870937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "point"
     ]
 },
-  "bbox": [-87.979879,43.00828,-87.979879,43.00828],
+  "bbox": [
+    -87.979879,
+    43.00828,
+    -87.979879,
+    43.00828
+],
   "geometry": {"coordinates":[-87.979879,43.00828],"type":"Point"}
 }

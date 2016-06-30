@@ -2,13 +2,14 @@
   "id": 371099541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.953961,43.137642,-87.953961,43.137642",
     "geom:latitude":43.137642,
     "geom:longitude":-87.953961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6551 N Teutonia Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371099541,
-    "wof:lastmodified":1449049735,
+    "wof:lastmodified":1467089913,
     "wof:name":"Spectrum Interiors Inc",
     "wof:parent_id":85870811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.953961,43.137642,-87.953961,43.137642],
-  "geometry": {"coordinates":[-87.953961,43.137642],"type":"Point"}
+  "bbox": [
+    -87.953961,
+    43.137642,
+    -87.953961,
+    43.137642
+],
+  "geometry": {"coordinates":[-87.95396100000001,43.137642],"type":"Point"}
 }

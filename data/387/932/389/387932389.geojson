@@ -2,13 +2,14 @@
   "id": 387932389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.021747,42.682264,-89.021747,42.682264",
     "geom:latitude":42.682264,
     "geom:longitude":-89.021747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 S Main St",
     "sg:city":"Janesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387932389,
-    "wof:lastmodified":1449057520,
+    "wof:lastmodified":1467089925,
     "wof:name":"Atrium Gallery & Paintin Place",
     "wof:parent_id":85803103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-89.021747,42.682264,-89.021747,42.682264],
+  "bbox": [
+    -89.021747,
+    42.682264,
+    -89.021747,
+    42.682264
+],
   "geometry": {"coordinates":[-89.021747,42.682264],"type":"Point"}
 }

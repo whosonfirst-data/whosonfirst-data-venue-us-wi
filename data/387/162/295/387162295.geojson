@@ -2,13 +2,14 @@
   "id": 387162295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.342381,44.984466,-91.342381,44.984466",
     "geom:latitude":44.984466,
     "geom:longitude":-91.342381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16108 97th Ave",
     "sg:city":"Chippewa Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387162295,
-    "wof:lastmodified":1449059371,
+    "wof:lastmodified":1467089931,
     "wof:name":"Lake Wissota Golf Course",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-91.342381,44.984466,-91.342381,44.984466],
+  "bbox": [
+    -91.342381,
+    44.984466,
+    -91.342381,
+    44.984466
+],
   "geometry": {"coordinates":[-91.342381,44.984466],"type":"Point"}
 }

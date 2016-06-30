@@ -2,13 +2,14 @@
   "id": 353442147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.148079,44.330254,-89.148079,44.330254",
     "geom:latitude":44.330254,
     "geom:longitude":-89.148079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1247 Co Rd Q",
     "sg:city":"Waupaca",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353442147,
-    "wof:lastmodified":1449019378,
+    "wof:lastmodified":1467089889,
     "wof:name":"Mudd Pies Pottery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pottery"
     ]
 },
-  "bbox": [-89.148079,44.330254,-89.148079,44.330254],
+  "bbox": [
+    -89.148079,
+    44.330254,
+    -89.148079,
+    44.330254
+],
   "geometry": {"coordinates":[-89.148079,44.330254],"type":"Point"}
 }

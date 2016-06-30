@@ -2,13 +2,14 @@
   "id": 370646927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.128633,43.038244,-91.128633,43.038244",
     "geom:latitude":43.038244,
     "geom:longitude":-91.128633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 E Brunson St",
     "sg:city":"Fennimore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370646927,
-    "wof:lastmodified":1449028984,
+    "wof:lastmodified":1467089897,
     "wof:name":"Agriliance Agronomy Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-91.128633,43.038244,-91.128633,43.038244],
-  "geometry": {"coordinates":[-91.128633,43.038244],"type":"Point"}
+  "bbox": [
+    -91.128633,
+    43.038244,
+    -91.128633,
+    43.038244
+],
+  "geometry": {"coordinates":[-91.12863299999999,43.038244],"type":"Point"}
 }

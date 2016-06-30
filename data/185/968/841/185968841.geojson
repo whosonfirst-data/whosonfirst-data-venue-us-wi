@@ -2,13 +2,14 @@
   "id": 185968841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.532745,44.012911,-88.532745,44.012911",
     "geom:latitude":44.012911,
     "geom:longitude":-88.532745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Broad St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185968841,
-    "wof:lastmodified":1449006698,
+    "wof:lastmodified":1467089883,
     "wof:name":"Big Brothers/Sistrs Oshkosh",
     "wof:parent_id":85851167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.532745,44.012911,-88.532745,44.012911],
-  "geometry": {"coordinates":[-88.532745,44.012911],"type":"Point"}
+  "bbox": [
+    -88.532745,
+    44.012911,
+    -88.532745,
+    44.012911
+],
+  "geometry": {"coordinates":[-88.53274500000001,44.012911],"type":"Point"}
 }

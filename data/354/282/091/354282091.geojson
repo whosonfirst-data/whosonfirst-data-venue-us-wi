@@ -2,13 +2,14 @@
   "id": 354282091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.183248,43.074654,-88.183248,43.074654",
     "geom:latitude":43.074654,
     "geom:longitude":-88.183248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21905 Gateway Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":354282091,
-    "wof:lastmodified":1449067016,
+    "wof:lastmodified":1467089936,
     "wof:name":"Meeco Investments",
     "wof:parent_id":85815589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "heating"
     ]
 },
-  "bbox": [-88.183248,43.074654,-88.183248,43.074654],
-  "geometry": {"coordinates":[-88.183248,43.074654],"type":"Point"}
+  "bbox": [
+    -88.183248,
+    43.074654,
+    -88.183248,
+    43.074654
+],
+  "geometry": {"coordinates":[-88.18324800000001,43.074654],"type":"Point"}
 }

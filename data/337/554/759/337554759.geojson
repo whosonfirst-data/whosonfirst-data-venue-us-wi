@@ -2,13 +2,14 @@
   "id": 337554759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.490085,43.085033,-89.490085,43.085033",
     "geom:latitude":43.085033,
     "geom:longitude":-89.490085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 E Skyline Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337554759,
-    "wof:lastmodified":1449027093,
+    "wof:lastmodified":1467089893,
     "wof:name":"Donald Novotny",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-89.490085,43.085033,-89.490085,43.085033],
-  "geometry": {"coordinates":[-89.490085,43.085033],"type":"Point"}
+  "bbox": [
+    -89.490085,
+    43.085033,
+    -89.490085,
+    43.085033
+],
+  "geometry": {"coordinates":[-89.49008499999999,43.085033],"type":"Point"}
 }

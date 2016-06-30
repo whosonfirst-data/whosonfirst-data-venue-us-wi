@@ -2,13 +2,14 @@
   "id": 387233543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.536305,44.039219,-88.536305,44.039219",
     "geom:latitude":44.039219,
     "geom:longitude":-88.536305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1718 Jefferson St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387233543,
-    "wof:lastmodified":1449059983,
+    "wof:lastmodified":1467089933,
     "wof:name":"Crystal Clear Water Company",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "salt"
     ]
 },
-  "bbox": [-88.536305,44.039219,-88.536305,44.039219],
+  "bbox": [
+    -88.536305,
+    44.039219,
+    -88.536305,
+    44.039219
+],
   "geometry": {"coordinates":[-88.536305,44.039219],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387511599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.306647,44.29275,-88.306647,44.29275",
     "geom:latitude":44.29275,
     "geom:longitude":-88.306647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1724 Franklin St",
     "sg:city":"Little Chute",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387511599,
-    "wof:lastmodified":1449057857,
+    "wof:lastmodified":1467089926,
     "wof:name":"Little Chute Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dwelling"
     ]
 },
-  "bbox": [-88.306647,44.29275,-88.306647,44.29275],
+  "bbox": [
+    -88.306647,
+    44.29275,
+    -88.306647,
+    44.29275
+],
   "geometry": {"coordinates":[-88.306647,44.29275],"type":"Point"}
 }

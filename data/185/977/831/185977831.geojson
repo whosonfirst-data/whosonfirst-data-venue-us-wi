@@ -2,13 +2,14 @@
   "id": 185977831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.673952,44.54507,-87.673952,44.54507",
     "geom:latitude":44.54507,
     "geom:longitude":-87.673952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1949 Rockledge Rd",
     "sg:city":"Luxemburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185977831,
-    "wof:lastmodified":1449008261,
+    "wof:lastmodified":1467089886,
     "wof:name":"R Michalski",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-87.673952,44.54507,-87.673952,44.54507],
+  "bbox": [
+    -87.673952,
+    44.54507,
+    -87.673952,
+    44.54507
+],
   "geometry": {"coordinates":[-87.673952,44.54507],"type":"Point"}
 }

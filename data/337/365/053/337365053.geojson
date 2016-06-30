@@ -2,13 +2,14 @@
   "id": 337365053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.962235,43.06054,-87.962235,43.06054",
     "geom:latitude":43.06054,
     "geom:longitude":-87.962235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3809 W North Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337365053,
-    "wof:lastmodified":1449027054,
+    "wof:lastmodified":1467089893,
     "wof:name":"North Avenue Cmnty Dev Corp",
     "wof:parent_id":85894495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-87.962235,43.06054,-87.962235,43.06054],
-  "geometry": {"coordinates":[-87.962235,43.06054],"type":"Point"}
+  "bbox": [
+    -87.962235,
+    43.06054,
+    -87.962235,
+    43.06054
+],
+  "geometry": {"coordinates":[-87.96223500000001,43.06054],"type":"Point"}
 }

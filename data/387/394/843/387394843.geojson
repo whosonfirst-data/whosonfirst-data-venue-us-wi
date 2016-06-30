@@ -2,13 +2,14 @@
   "id": 387394843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.11846,42.97335,-88.11846,42.97335",
     "geom:latitude":42.97335,
     "geom:longitude":-88.11846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3805 S Casper Dr",
     "sg:city":"New Berlin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387394843,
-    "wof:lastmodified":1449056836,
+    "wof:lastmodified":1467089923,
     "wof:name":"New Berlin Community Dev Auth",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dev"
     ]
 },
-  "bbox": [-88.11846,42.97335,-88.11846,42.97335],
+  "bbox": [
+    -88.11846,
+    42.97335,
+    -88.11846,
+    42.97335
+],
   "geometry": {"coordinates":[-88.11846,42.97335],"type":"Point"}
 }

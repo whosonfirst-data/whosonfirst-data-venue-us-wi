@@ -2,13 +2,14 @@
   "id": 387023629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.485616,46.013647,-91.485616,46.013647",
     "geom:latitude":46.013647,
     "geom:longitude":-91.485616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15865 W 2nd St",
     "sg:city":"Hayward",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387023629,
-    "wof:lastmodified":1449059546,
+    "wof:lastmodified":1467089932,
     "wof:name":"Tri-R Realty Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.485616,46.013647,-91.485616,46.013647],
-  "geometry": {"coordinates":[-91.485616,46.013647],"type":"Point"}
+  "bbox": [
+    -91.485616,
+    46.013647,
+    -91.485616,
+    46.013647
+],
+  "geometry": {"coordinates":[-91.48561599999999,46.013647],"type":"Point"}
 }

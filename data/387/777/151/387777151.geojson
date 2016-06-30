@@ -2,13 +2,14 @@
   "id": 387777151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.952714,43.110824,-87.952714,43.110824",
     "geom:latitude":43.110824,
     "geom:longitude":-87.952714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5150 N 32nd St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387777151,
-    "wof:lastmodified":1449058115,
+    "wof:lastmodified":1467089927,
     "wof:name":"E R Abernathy Ind Inc",
     "wof:parent_id":85870907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.952714,43.110824,-87.952714,43.110824],
+  "bbox": [
+    -87.952714,
+    43.110824,
+    -87.952714,
+    43.110824
+],
   "geometry": {"coordinates":[-87.952714,43.110824],"type":"Point"}
 }

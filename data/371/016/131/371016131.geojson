@@ -2,13 +2,14 @@
   "id": 371016131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.980128,44.919786,-89.980128,44.919786",
     "geom:latitude":44.919786,
     "geom:longitude":-89.980128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"199 Redwood St",
     "sg:city":"Edgar",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371016131,
-    "wof:lastmodified":1449049221,
+    "wof:lastmodified":1467089912,
     "wof:name":"Chads Auto Repair",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-89.980128,44.919786,-89.980128,44.919786],
-  "geometry": {"coordinates":[-89.980128,44.919786],"type":"Point"}
+  "bbox": [
+    -89.980128,
+    44.919786,
+    -89.980128,
+    44.919786
+],
+  "geometry": {"coordinates":[-89.98012799999999,44.919786],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186334005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.908223,45.816362,-91.908223,45.816362",
     "geom:latitude":45.816362,
     "geom:longitude":-91.908223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"751 W Beaverbrook Ave",
     "sg:city":"Spooner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186334005,
-    "wof:lastmodified":1449051162,
+    "wof:lastmodified":1467089915,
     "wof:name":"Bush & Gilles Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-91.908223,45.816362,-91.908223,45.816362],
-  "geometry": {"coordinates":[-91.908223,45.816362],"type":"Point"}
+  "bbox": [
+    -91.908223,
+    45.816362,
+    -91.908223,
+    45.816362
+],
+  "geometry": {"coordinates":[-91.90822300000001,45.816362],"type":"Point"}
 }

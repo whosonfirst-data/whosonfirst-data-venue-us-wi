@@ -2,13 +2,14 @@
   "id": 371086309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.126094,42.959937,-88.126094,42.959937",
     "geom:latitude":42.959937,
     "geom:longitude":-88.126094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16880 W Salentine Dr",
     "sg:city":"New Berlin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":371086309,
-    "wof:lastmodified":1449049758,
+    "wof:lastmodified":1467089913,
     "wof:name":"Anjo Manufacturing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.126094,42.959937,-88.126094,42.959937],
-  "geometry": {"coordinates":[-88.126094,42.959937],"type":"Point"}
+  "bbox": [
+    -88.126094,
+    42.959937,
+    -88.126094,
+    42.959937
+],
+  "geometry": {"coordinates":[-88.12609399999999,42.959937],"type":"Point"}
 }

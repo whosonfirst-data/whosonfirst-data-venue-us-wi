@@ -2,13 +2,14 @@
   "id": 185702111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.938862,43.038757,-87.938862,43.038757",
     "geom:latitude":43.038757,
     "geom:longitude":-87.938862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2040 W Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185702111,
-    "wof:lastmodified":1449007433,
+    "wof:lastmodified":1467089884,
     "wof:name":"Chua David Bonke MD SC",
     "wof:parent_id":85870977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-87.938862,43.038757,-87.938862,43.038757],
+  "bbox": [
+    -87.938862,
+    43.038757,
+    -87.938862,
+    43.038757
+],
   "geometry": {"coordinates":[-87.938862,43.038757],"type":"Point"}
 }

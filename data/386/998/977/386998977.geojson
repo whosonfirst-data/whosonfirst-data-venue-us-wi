@@ -2,13 +2,14 @@
   "id": 386998977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.817057,44.374819,-89.817057,44.374819",
     "geom:latitude":44.374819,
     "geom:longitude":-89.817057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 8th St S",
     "sg:city":"Wisconsin Rapids",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":386998977,
-    "wof:lastmodified":1449028725,
+    "wof:lastmodified":1467089896,
     "wof:name":"Central Wisconsin Tire & Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automobile"
     ]
 },
-  "bbox": [-89.817057,44.374819,-89.817057,44.374819],
-  "geometry": {"coordinates":[-89.817057,44.374819],"type":"Point"}
+  "bbox": [
+    -89.817057,
+    44.374819,
+    -89.817057,
+    44.374819
+],
+  "geometry": {"coordinates":[-89.81705700000001,44.374819],"type":"Point"}
 }

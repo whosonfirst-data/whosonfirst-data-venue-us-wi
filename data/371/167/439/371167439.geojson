@@ -2,13 +2,14 @@
   "id": 371167439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.99164,44.534389,-87.99164,44.534389",
     "geom:latitude":44.534389,
     "geom:longitude":-87.99164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Bay Beach Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371167439,
-    "wof:lastmodified":1449049570,
+    "wof:lastmodified":1467089913,
     "wof:name":"Fox Valley Canvas",
     "wof:parent_id":85877949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cover"
     ]
 },
-  "bbox": [-87.99164,44.534389,-87.99164,44.534389],
+  "bbox": [
+    -87.99164,
+    44.534389,
+    -87.99164,
+    44.534389
+],
   "geometry": {"coordinates":[-87.99164,44.534389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337397947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.970908,44.45468,-87.970908,44.45468",
     "geom:latitude":44.45468,
     "geom:longitude":-87.970908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2565 Faldo Ln",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337397947,
-    "wof:lastmodified":1449027253,
+    "wof:lastmodified":1467089894,
     "wof:name":"Concept One Design & Dvlpmnt",
     "wof:parent_id":85877933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "registry"
     ]
 },
-  "bbox": [-87.970908,44.45468,-87.970908,44.45468],
-  "geometry": {"coordinates":[-87.970908,44.45468],"type":"Point"}
+  "bbox": [
+    -87.970908,
+    44.45468,
+    -87.970908,
+    44.45468
+],
+  "geometry": {"coordinates":[-87.97090799999999,44.45468],"type":"Point"}
 }

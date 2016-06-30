@@ -2,13 +2,14 @@
   "id": 370560171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.972929,42.92113,-87.972929,42.92113",
     "geom:latitude":42.92113,
     "geom:longitude":-87.972929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 Xavier Dr",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":370560171,
-    "wof:lastmodified":1449031681,
+    "wof:lastmodified":1467089905,
     "wof:name":"Xaverian Missionary Fathers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mission"
     ]
 },
-  "bbox": [-87.972929,42.92113,-87.972929,42.92113],
-  "geometry": {"coordinates":[-87.972929,42.92113],"type":"Point"}
+  "bbox": [
+    -87.972929,
+    42.92113,
+    -87.972929,
+    42.92113
+],
+  "geometry": {"coordinates":[-87.97292899999999,42.92113],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387457971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.168386,44.029628,-88.168386,44.029628",
     "geom:latitude":44.029628,
     "geom:longitude":-88.168386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Court St",
     "sg:city":"Chilton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387457971,
-    "wof:lastmodified":1449058664,
+    "wof:lastmodified":1467089929,
     "wof:name":"County Victim/Witness",
     "wof:parent_id":85822647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.168386,44.029628,-88.168386,44.029628],
+  "bbox": [
+    -88.168386,
+    44.029628,
+    -88.168386,
+    44.029628
+],
   "geometry": {"coordinates":[-88.168386,44.029628],"type":"Point"}
 }

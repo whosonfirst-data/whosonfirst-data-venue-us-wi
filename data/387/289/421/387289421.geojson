@@ -2,13 +2,14 @@
   "id": 387289421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.270499,42.680198,-88.270499,42.680198",
     "geom:latitude":42.680198,
     "geom:longitude":-88.270499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 E Jefferson St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387289421,
-    "wof:lastmodified":1449059292,
+    "wof:lastmodified":1467089931,
     "wof:name":"Bob's Banners & Flagpoles",
     "wof:parent_id":85865439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-88.270499,42.680198,-88.270499,42.680198],
+  "bbox": [
+    -88.270499,
+    42.680198,
+    -88.270499,
+    42.680198
+],
   "geometry": {"coordinates":[-88.270499,42.680198],"type":"Point"}
 }

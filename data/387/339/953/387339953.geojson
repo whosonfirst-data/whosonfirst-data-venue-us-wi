@@ -2,13 +2,14 @@
   "id": 387339953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.695025,44.120508,-87.695025,44.120508",
     "geom:latitude":44.120508,
     "geom:longitude":-87.695025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3704 Platt View Ct",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387339953,
-    "wof:lastmodified":1449057804,
+    "wof:lastmodified":1467089926,
     "wof:name":"Wismarq",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-87.695025,44.120508,-87.695025,44.120508],
+  "bbox": [
+    -87.695025,
+    44.120508,
+    -87.695025,
+    44.120508
+],
   "geometry": {"coordinates":[-87.695025,44.120508],"type":"Point"}
 }

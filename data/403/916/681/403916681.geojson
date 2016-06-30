@@ -2,13 +2,14 @@
   "id": 403916681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.110025,43.070933,-88.110025,43.070933",
     "geom:latitude":43.070933,
     "geom:longitude":-88.110025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2810 Meadowside Ct",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403916681,
-    "wof:lastmodified":1449055364,
+    "wof:lastmodified":1467089919,
     "wof:name":"Game Time LLC",
     "wof:parent_id":85832419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "amusement"
     ]
 },
-  "bbox": [-88.110025,43.070933,-88.110025,43.070933],
-  "geometry": {"coordinates":[-88.110025,43.070933],"type":"Point"}
+  "bbox": [
+    -88.110025,
+    43.070933,
+    -88.110025,
+    43.070933
+],
+  "geometry": {"coordinates":[-88.11002499999999,43.070933],"type":"Point"}
 }

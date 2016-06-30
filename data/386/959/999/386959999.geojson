@@ -2,13 +2,14 @@
   "id": 386959999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.808448,46.124765,-91.808448,46.124765",
     "geom:latitude":46.124765,
     "geom:longitude":-91.808448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13384 Bear Tree Rd",
     "sg:city":"Minong",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":386959999,
-    "wof:lastmodified":1449028949,
+    "wof:lastmodified":1467089897,
     "wof:name":"Hopkins Sand & Gravel-Ready",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "concrete"
     ]
 },
-  "bbox": [-91.808448,46.124765,-91.808448,46.124765],
+  "bbox": [
+    -91.808448,
+    46.124765,
+    -91.808448,
+    46.124765
+],
   "geometry": {"coordinates":[-91.808448,46.124765],"type":"Point"}
 }

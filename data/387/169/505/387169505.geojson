@@ -2,13 +2,14 @@
   "id": 387169505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.970745,43.01234,-87.970745,43.01234",
     "geom:latitude":43.01234,
     "geom:longitude":-87.970745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 W Mitchell St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387169505,
-    "wof:lastmodified":1449058452,
+    "wof:lastmodified":1467089928,
     "wof:name":"Spray-O-Bond Company",
     "wof:parent_id":85870841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "preservation"
     ]
 },
-  "bbox": [-87.970745,43.01234,-87.970745,43.01234],
-  "geometry": {"coordinates":[-87.970745,43.01234],"type":"Point"}
+  "bbox": [
+    -87.970745,
+    43.01234,
+    -87.970745,
+    43.01234
+],
+  "geometry": {"coordinates":[-87.97074499999999,43.01234],"type":"Point"}
 }

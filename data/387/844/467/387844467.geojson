@@ -2,13 +2,14 @@
   "id": 387844467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.238373,43.004371,-88.238373,43.004371",
     "geom:latitude":43.004371,
     "geom:longitude":-88.238373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Elizabeth St",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387844467,
-    "wof:lastmodified":1449057730,
+    "wof:lastmodified":1467089926,
     "wof:name":"Fred Portz Jr & Associates",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "consultant"
     ]
 },
-  "bbox": [-88.238373,43.004371,-88.238373,43.004371],
+  "bbox": [
+    -88.238373,
+    43.004371,
+    -88.238373,
+    43.004371
+],
   "geometry": {"coordinates":[-88.238373,43.004371],"type":"Point"}
 }

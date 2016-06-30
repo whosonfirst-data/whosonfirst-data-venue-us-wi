@@ -2,13 +2,14 @@
   "id": 186356111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.572105,43.936333,-88.572105,43.936333",
     "geom:latitude":43.936333,
     "geom:longitude":-88.572105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1268 Glane Ct",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186356111,
-    "wof:lastmodified":1449052535,
+    "wof:lastmodified":1467089916,
     "wof:name":"Ruck Machining Service",
     "wof:parent_id":85819403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.572105,43.936333,-88.572105,43.936333],
-  "geometry": {"coordinates":[-88.572105,43.936333],"type":"Point"}
+  "bbox": [
+    -88.572105,
+    43.936333,
+    -88.572105,
+    43.936333
+],
+  "geometry": {"coordinates":[-88.57210499999999,43.936333],"type":"Point"}
 }

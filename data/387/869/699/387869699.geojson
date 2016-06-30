@@ -2,13 +2,14 @@
   "id": 387869699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.912848,44.048762,-90.912848,44.048762",
     "geom:latitude":44.048762,
     "geom:longitude":-90.912848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4220 Dallas Ave",
     "sg:city":"Sparta",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387869699,
-    "wof:lastmodified":1449059611,
+    "wof:lastmodified":1467089932,
     "wof:name":"Jim Pfaff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mill"
     ]
 },
-  "bbox": [-90.912848,44.048762,-90.912848,44.048762],
+  "bbox": [
+    -90.912848,
+    44.048762,
+    -90.912848,
+    44.048762
+],
   "geometry": {"coordinates":[-90.912848,44.048762],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370344769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.223846,44.577449,-91.223846,44.577449",
     "geom:latitude":44.577449,
     "geom:longitude":-91.223846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50612 Harmony St",
     "sg:city":"Osseo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370344769,
-    "wof:lastmodified":1449029247,
+    "wof:lastmodified":1467089898,
     "wof:name":"Oasis Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-91.223846,44.577449,-91.223846,44.577449],
-  "geometry": {"coordinates":[-91.223846,44.577449],"type":"Point"}
+  "bbox": [
+    -91.223846,
+    44.577449,
+    -91.223846,
+    44.577449
+],
+  "geometry": {"coordinates":[-91.22384599999999,44.577449],"type":"Point"}
 }

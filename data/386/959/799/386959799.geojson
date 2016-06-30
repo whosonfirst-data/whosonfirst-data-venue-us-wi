@@ -2,13 +2,14 @@
   "id": 386959799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.995744,43.097726,-87.995744,43.097726",
     "geom:latitude":43.097726,
     "geom:longitude":-87.995744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4475 N 67th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386959799,
-    "wof:lastmodified":1449028949,
+    "wof:lastmodified":1467089897,
     "wof:name":"Alcamy Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "financial"
     ]
 },
-  "bbox": [-87.995744,43.097726,-87.995744,43.097726],
+  "bbox": [
+    -87.995744,
+    43.097726,
+    -87.995744,
+    43.097726
+],
   "geometry": {"coordinates":[-87.995744,43.097726],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370269311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.428294,43.164169,-89.428294,43.164169",
     "geom:latitude":43.164169,
     "geom:longitude":-89.428294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5653 Steeplechase Dr",
     "sg:city":"Waunakee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370269311,
-    "wof:lastmodified":1449031204,
+    "wof:lastmodified":1467089904,
     "wof:name":"Straus Printing Co Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-89.428294,43.164169,-89.428294,43.164169],
-  "geometry": {"coordinates":[-89.428294,43.164169],"type":"Point"}
+  "bbox": [
+    -89.428294,
+    43.164169,
+    -89.428294,
+    43.164169
+],
+  "geometry": {"coordinates":[-89.42829399999999,43.164169],"type":"Point"}
 }

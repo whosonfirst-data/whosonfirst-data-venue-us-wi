@@ -2,13 +2,14 @@
   "id": 186076267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.061605,44.494752,-88.061605,44.494752",
     "geom:latitude":44.494752,
     "geom:longitude":-88.061605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 S Oneida St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186076267,
-    "wof:lastmodified":1449052430,
+    "wof:lastmodified":1467089916,
     "wof:name":"Hearing Health Assoc LLC",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "impaired"
     ]
 },
-  "bbox": [-88.061605,44.494752,-88.061605,44.494752],
+  "bbox": [
+    -88.061605,
+    44.494752,
+    -88.061605,
+    44.494752
+],
   "geometry": {"coordinates":[-88.061605,44.494752],"type":"Point"}
 }

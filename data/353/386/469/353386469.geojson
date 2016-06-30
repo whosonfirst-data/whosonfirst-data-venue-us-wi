@@ -2,13 +2,14 @@
   "id": 353386469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.234933,43.869861,-91.234933,43.869861",
     "geom:latitude":43.869861,
     "geom:longitude":-91.234933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1043 Lauderdale Pl N",
     "sg:city":"Onalaska",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353386469,
-    "wof:lastmodified":1449019598,
+    "wof:lastmodified":1467089889,
     "wof:name":"Wirkus T E L A Trust 12 2095",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "management"
     ]
 },
-  "bbox": [-91.234933,43.869861,-91.234933,43.869861],
+  "bbox": [
+    -91.234933,
+    43.869861,
+    -91.234933,
+    43.869861
+],
   "geometry": {"coordinates":[-91.234933,43.869861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186274667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.444424,44.194946,-88.444424,44.194946",
     "geom:latitude":44.194946,
     "geom:longitude":-88.444424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"354 Naymut St",
     "sg:city":"Menasha",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":186274667,
-    "wof:lastmodified":1449050594,
+    "wof:lastmodified":1467089914,
     "wof:name":"Sound Side Restoration By Inga",
     "wof:parent_id":85807543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-88.444424,44.194946,-88.444424,44.194946],
+  "bbox": [
+    -88.444424,
+    44.194946,
+    -88.444424,
+    44.194946
+],
   "geometry": {"coordinates":[-88.444424,44.194946],"type":"Point"}
 }

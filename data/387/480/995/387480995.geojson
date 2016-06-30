@@ -2,13 +2,14 @@
   "id": 387480995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.152787,44.779294,-92.152787,44.779294",
     "geom:latitude":44.779294,
     "geom:longitude":-92.152787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 S Scott St",
     "sg:city":"Elmwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387480995,
-    "wof:lastmodified":1449057340,
+    "wof:lastmodified":1467089925,
     "wof:name":"Marsons Handyman Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "se"
     ]
 },
-  "bbox": [-92.152787,44.779294,-92.152787,44.779294],
+  "bbox": [
+    -92.152787,
+    44.779294,
+    -92.152787,
+    44.779294
+],
   "geometry": {"coordinates":[-92.152787,44.779294],"type":"Point"}
 }

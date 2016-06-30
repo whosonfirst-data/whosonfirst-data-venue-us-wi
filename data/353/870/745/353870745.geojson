@@ -2,13 +2,14 @@
   "id": 353870745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.253212,43.193344,-88.253212,43.193344",
     "geom:latitude":43.193344,
     "geom:longitude":-88.253212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4346 Co Rd Q",
     "sg:city":"Colgate",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353870745,
-    "wof:lastmodified":1449018937,
+    "wof:lastmodified":1467089888,
     "wof:name":"PWR Inc",
     "wof:parent_id":85829091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "purification"
     ]
 },
-  "bbox": [-88.253212,43.193344,-88.253212,43.193344],
+  "bbox": [
+    -88.253212,
+    43.193344,
+    -88.253212,
+    43.193344
+],
   "geometry": {"coordinates":[-88.253212,43.193344],"type":"Point"}
 }

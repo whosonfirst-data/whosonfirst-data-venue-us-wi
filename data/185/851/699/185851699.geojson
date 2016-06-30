@@ -2,13 +2,14 @@
   "id": 185851699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.07244,43.374654,-88.07244,43.374654",
     "geom:latitude":43.374654,
     "geom:longitude":-88.07244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"831 Washington Dr",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185851699,
-    "wof:lastmodified":1449007659,
+    "wof:lastmodified":1467089885,
     "wof:name":"Sunset Senior Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "retirement"
     ]
 },
-  "bbox": [-88.07244,43.374654,-88.07244,43.374654],
+  "bbox": [
+    -88.07244,
+    43.374654,
+    -88.07244,
+    43.374654
+],
   "geometry": {"coordinates":[-88.07244,43.374654],"type":"Point"}
 }

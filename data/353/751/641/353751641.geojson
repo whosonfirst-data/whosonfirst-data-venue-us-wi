@@ -2,13 +2,14 @@
   "id": 353751641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.982554,44.471821,-87.982554,44.471821",
     "geom:latitude":44.471821,
     "geom:longitude":-87.982554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1644 Lime Kiln Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353751641,
-    "wof:lastmodified":1449018395,
+    "wof:lastmodified":1467089886,
     "wof:name":"Hansen Family Funeral & Crmtn",
     "wof:parent_id":85877933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-87.982554,44.471821,-87.982554,44.471821],
-  "geometry": {"coordinates":[-87.982554,44.471821],"type":"Point"}
+  "bbox": [
+    -87.982554,
+    44.471821,
+    -87.982554,
+    44.471821
+],
+  "geometry": {"coordinates":[-87.98255399999999,44.471821],"type":"Point"}
 }

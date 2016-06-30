@@ -2,13 +2,14 @@
   "id": 370231243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.33751,45.343318,-92.33751,45.343318",
     "geom:latitude":45.343318,
     "geom:longitude":-92.33751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"926 Highland Dr",
     "sg:city":"Amery",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370231243,
-    "wof:lastmodified":1449030812,
+    "wof:lastmodified":1467089902,
     "wof:name":"Valley Trucking & Excavating L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.33751,45.343318,-92.33751,45.343318],
-  "geometry": {"coordinates":[-92.33751,45.343318],"type":"Point"}
+  "bbox": [
+    -92.33751,
+    45.343318,
+    -92.33751,
+    45.343318
+],
+  "geometry": {"coordinates":[-92.33750999999999,45.343318],"type":"Point"}
 }

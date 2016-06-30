@@ -2,13 +2,14 @@
   "id": 386985053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.984169,43.243312,-87.984169,43.243312",
     "geom:latitude":43.243312,
     "geom:longitude":-87.984169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Concord Pl",
     "sg:city":"Thiensville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386985053,
-    "wof:lastmodified":1449028775,
+    "wof:lastmodified":1467089896,
     "wof:name":"Jpl & Assoc",
     "wof:parent_id":85823669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.984169,43.243312,-87.984169,43.243312],
-  "geometry": {"coordinates":[-87.984169,43.243312],"type":"Point"}
+  "bbox": [
+    -87.984169,
+    43.243312,
+    -87.984169,
+    43.243312
+],
+  "geometry": {"coordinates":[-87.98416899999999,43.243312],"type":"Point"}
 }

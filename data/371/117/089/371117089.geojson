@@ -2,13 +2,14 @@
   "id": 371117089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.003638,44.502416,-88.003638,44.502416",
     "geom:latitude":44.502416,
     "geom:longitude":-88.003638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1279 E Mason St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":371117089,
-    "wof:lastmodified":1449049770,
+    "wof:lastmodified":1467089913,
     "wof:name":"Wildwood Gallery",
     "wof:parent_id":85877933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "framing"
     ]
 },
-  "bbox": [-88.003638,44.502416,-88.003638,44.502416],
+  "bbox": [
+    -88.003638,
+    44.502416,
+    -88.003638,
+    44.502416
+],
   "geometry": {"coordinates":[-88.003638,44.502416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370751119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.938571,43.090801,-88.938571,43.090801",
     "geom:latitude":43.090801,
     "geom:longitude":-88.938571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6776 Woodfield Ln",
     "sg:city":"Lake Mills",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370751119,
-    "wof:lastmodified":1449029270,
+    "wof:lastmodified":1467089898,
     "wof:name":"Kingkraft Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.938571,43.090801,-88.938571,43.090801],
+  "bbox": [
+    -88.938571,
+    43.090801,
+    -88.938571,
+    43.090801
+],
   "geometry": {"coordinates":[-88.938571,43.090801],"type":"Point"}
 }

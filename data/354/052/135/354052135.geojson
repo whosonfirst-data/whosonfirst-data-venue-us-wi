@@ -2,13 +2,14 @@
   "id": 354052135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.363725,43.112296,-89.363725,43.112296",
     "geom:latitude":43.112296,
     "geom:longitude":-89.363725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 N Sherman Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354052135,
-    "wof:lastmodified":1449066680,
+    "wof:lastmodified":1467089935,
     "wof:name":"Lamis Art-Frame Intr Design",
     "wof:parent_id":85878829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "interior"
     ]
 },
-  "bbox": [-89.363725,43.112296,-89.363725,43.112296],
+  "bbox": [
+    -89.363725,
+    43.112296,
+    -89.363725,
+    43.112296
+],
   "geometry": {"coordinates":[-89.363725,43.112296],"type":"Point"}
 }

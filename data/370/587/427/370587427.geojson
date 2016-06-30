@@ -2,13 +2,14 @@
   "id": 370587427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.012412,43.016668,-88.012412,43.016668",
     "geom:latitude":43.016668,
     "geom:longitude":-88.012412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8100 W Greenfield Ave",
     "sg:city":"West Allis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370587427,
-    "wof:lastmodified":1449030260,
+    "wof:lastmodified":1467089901,
     "wof:name":"WLZR State Fair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carnival"
     ]
 },
-  "bbox": [-88.012412,43.016668,-88.012412,43.016668],
+  "bbox": [
+    -88.012412,
+    43.016668,
+    -88.012412,
+    43.016668
+],
   "geometry": {"coordinates":[-88.012412,43.016668],"type":"Point"}
 }

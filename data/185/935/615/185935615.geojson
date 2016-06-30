@@ -2,13 +2,14 @@
   "id": 185935615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.956974,44.370066,-88.956974,44.370066",
     "geom:latitude":44.370066,
     "geom:longitude":-88.956974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3681 State Hwy 110",
     "sg:city":"Weyauwega",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185935615,
-    "wof:lastmodified":1449007943,
+    "wof:lastmodified":1467089885,
     "wof:name":"Bob's North Shore Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.956974,44.370066,-88.956974,44.370066],
+  "bbox": [
+    -88.956974,
+    44.370066,
+    -88.956974,
+    44.370066
+],
   "geometry": {"coordinates":[-88.956974,44.370066],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185859723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.822653,42.733482,-87.822653,42.733482",
     "geom:latitude":42.733482,
     "geom:longitude":-87.822653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 N Osborne Blvd",
     "sg:city":"Racine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185859723,
-    "wof:lastmodified":1449007745,
+    "wof:lastmodified":1467089885,
     "wof:name":"Imagehaus",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-87.822653,42.733482,-87.822653,42.733482],
+  "bbox": [
+    -87.822653,
+    42.733482,
+    -87.822653,
+    42.733482
+],
   "geometry": {"coordinates":[-87.822653,42.733482],"type":"Point"}
 }

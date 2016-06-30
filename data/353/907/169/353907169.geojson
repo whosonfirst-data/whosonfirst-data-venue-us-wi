@@ -2,13 +2,14 @@
   "id": 353907169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.326014,43.069897,-89.326014,43.069897",
     "geom:latitude":43.069897,
     "geom:longitude":-89.326014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4602 Monona Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353907169,
-    "wof:lastmodified":1449020610,
+    "wof:lastmodified":1467089891,
     "wof:name":"A Step Above Dance Studio LLC",
     "wof:parent_id":85878857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "dancing"
     ]
 },
-  "bbox": [-89.326014,43.069897,-89.326014,43.069897],
+  "bbox": [
+    -89.326014,
+    43.069897,
+    -89.326014,
+    43.069897
+],
   "geometry": {"coordinates":[-89.326014,43.069897],"type":"Point"}
 }

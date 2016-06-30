@@ -2,13 +2,14 @@
   "id": 370934563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.99824,43.016762,-87.99824,43.016762",
     "geom:latitude":43.016762,
     "geom:longitude":-87.99824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6682 W Greenfield Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370934563,
-    "wof:lastmodified":1449029241,
+    "wof:lastmodified":1467089898,
     "wof:name":"Siemens Energy & Automation",
     "wof:parent_id":85870837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.99824,43.016762,-87.99824,43.016762],
+  "bbox": [
+    -87.99824,
+    43.016762,
+    -87.99824,
+    43.016762
+],
   "geometry": {"coordinates":[-87.99824,43.016762],"type":"Point"}
 }

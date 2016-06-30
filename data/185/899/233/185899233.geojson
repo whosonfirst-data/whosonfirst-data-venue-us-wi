@@ -2,13 +2,14 @@
   "id": 185899233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.729993,45.462185,-89.729993,45.462185",
     "geom:latitude":45.462185,
     "geom:longitude":-89.729993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 Southgate Dr",
     "sg:city":"Tomahawk",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185899233,
-    "wof:lastmodified":1449008119,
+    "wof:lastmodified":1467089885,
     "wof:name":"Daigle Brothers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "structural"
     ]
 },
-  "bbox": [-89.729993,45.462185,-89.729993,45.462185],
-  "geometry": {"coordinates":[-89.729993,45.462185],"type":"Point"}
+  "bbox": [
+    -89.729993,
+    45.462185,
+    -89.729993,
+    45.462185
+],
+  "geometry": {"coordinates":[-89.72999299999999,45.462185],"type":"Point"}
 }

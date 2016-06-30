@@ -2,13 +2,14 @@
   "id": 337636805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.482878,46.014809,-91.482878,46.014809",
     "geom:latitude":46.014809,
     "geom:longitude":-91.482878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10576 Kansas Ave",
     "sg:city":"Hayward",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337636805,
-    "wof:lastmodified":1449027247,
+    "wof:lastmodified":1467089894,
     "wof:name":"Nationwide Supply Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-91.482878,46.014809,-91.482878,46.014809],
+  "bbox": [
+    -91.482878,
+    46.014809,
+    -91.482878,
+    46.014809
+],
   "geometry": {"coordinates":[-91.482878,46.014809],"type":"Point"}
 }

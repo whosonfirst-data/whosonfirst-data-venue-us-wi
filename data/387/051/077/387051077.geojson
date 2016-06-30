@@ -2,13 +2,14 @@
   "id": 387051077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.294634,44.953207,-92.294634,44.953207",
     "geom:latitude":44.953207,
     "geom:longitude":-92.294634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Mathison St",
     "sg:city":"Woodville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387051077,
-    "wof:lastmodified":1449058452,
+    "wof:lastmodified":1467089928,
     "wof:name":"D & K Snowplowing & Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-92.294634,44.953207,-92.294634,44.953207],
+  "bbox": [
+    -92.294634,
+    44.953207,
+    -92.294634,
+    44.953207
+],
   "geometry": {"coordinates":[-92.294634,44.953207],"type":"Point"}
 }

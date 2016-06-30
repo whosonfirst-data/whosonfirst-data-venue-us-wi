@@ -2,13 +2,14 @@
   "id": 403769899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.705453,45.321573,-92.705453,45.321573",
     "geom:latitude":45.321573,
     "geom:longitude":-92.705453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N Cascade St",
     "sg:city":"Osceola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403769899,
-    "wof:lastmodified":1449055074,
+    "wof:lastmodified":1467089918,
     "wof:name":"Steven B Schletty DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-92.705453,45.321573,-92.705453,45.321573],
-  "geometry": {"coordinates":[-92.705453,45.321573],"type":"Point"}
+  "bbox": [
+    -92.705453,
+    45.321573,
+    -92.705453,
+    45.321573
+],
+  "geometry": {"coordinates":[-92.70545300000001,45.321573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353930307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.377726,44.835576,-87.377726,44.835576",
     "geom:latitude":44.835576,
     "geom:longitude":-87.377726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 N 3rd Ave",
     "sg:city":"Sturgeon Bay",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353930307,
-    "wof:lastmodified":1449019075,
+    "wof:lastmodified":1467089888,
     "wof:name":"Brick Alley",
     "wof:parent_id":85851043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-87.377726,44.835576,-87.377726,44.835576],
+  "bbox": [
+    -87.377726,
+    44.835576,
+    -87.377726,
+    44.835576
+],
   "geometry": {"coordinates":[-87.377726,44.835576],"type":"Point"}
 }

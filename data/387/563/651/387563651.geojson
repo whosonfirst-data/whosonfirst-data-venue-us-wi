@@ -2,13 +2,14 @@
   "id": 387563651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.196743,43.424198,-88.196743,43.424198",
     "geom:latitude":43.424198,
     "geom:longitude":-88.196743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 N 15th Ave",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387563651,
-    "wof:lastmodified":1449056175,
+    "wof:lastmodified":1467089921,
     "wof:name":"Roemer's Custom Draperies",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drapery"
     ]
 },
-  "bbox": [-88.196743,43.424198,-88.196743,43.424198],
+  "bbox": [
+    -88.196743,
+    43.424198,
+    -88.196743,
+    43.424198
+],
   "geometry": {"coordinates":[-88.196743,43.424198],"type":"Point"}
 }

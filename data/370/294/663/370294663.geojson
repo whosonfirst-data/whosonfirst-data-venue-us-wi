@@ -2,13 +2,14 @@
   "id": 370294663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.474707,44.153532,-88.474707,44.153532",
     "geom:latitude":44.153532,
     "geom:longitude":-88.474707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2362 Industrial Dr",
     "sg:city":"Neenah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370294663,
-    "wof:lastmodified":1449031503,
+    "wof:lastmodified":1467089904,
     "wof:name":"Hitech Control System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "computer"
     ]
 },
-  "bbox": [-88.474707,44.153532,-88.474707,44.153532],
+  "bbox": [
+    -88.474707,
+    44.153532,
+    -88.474707,
+    44.153532
+],
   "geometry": {"coordinates":[-88.474707,44.153532],"type":"Point"}
 }

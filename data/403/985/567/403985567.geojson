@@ -2,13 +2,14 @@
   "id": 403985567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.640725,46.111784,-89.640725,46.111784",
     "geom:latitude":46.111784,
     "geom:longitude":-89.640725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10346 Main St",
     "sg:city":"Boulder Junction",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403985567,
-    "wof:lastmodified":1449055299,
+    "wof:lastmodified":1467089919,
     "wof:name":"Alpine Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-89.640725,46.111784,-89.640725,46.111784],
+  "bbox": [
+    -89.640725,
+    46.111784,
+    -89.640725,
+    46.111784
+],
   "geometry": {"coordinates":[-89.640725,46.111784],"type":"Point"}
 }

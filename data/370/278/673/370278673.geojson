@@ -2,13 +2,14 @@
   "id": 370278673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.406026,43.073344,-89.406026,43.073344",
     "geom:latitude":43.073344,
     "geom:longitude":-89.406026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 University Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370278673,
-    "wof:lastmodified":1449030936,
+    "wof:lastmodified":1467089903,
     "wof:name":"University Wisconsin-Madison",
     "wof:parent_id":85878881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "chemistry"
     ]
 },
-  "bbox": [-89.406026,43.073344,-89.406026,43.073344],
+  "bbox": [
+    -89.406026,
+    43.073344,
+    -89.406026,
+    43.073344
+],
   "geometry": {"coordinates":[-89.406026,43.073344],"type":"Point"}
 }

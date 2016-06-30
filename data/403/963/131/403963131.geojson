@@ -2,13 +2,14 @@
   "id": 403963131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.329302,44.091761,-89.329302,44.091761",
     "geom:latitude":44.091761,
     "geom:longitude":-89.329302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8923 Brown Deer Dr",
     "sg:city":"Wautoma",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403963131,
-    "wof:lastmodified":1449054767,
+    "wof:lastmodified":1467089918,
     "wof:name":"Keith Zellmer Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.329302,44.091761,-89.329302,44.091761],
+  "bbox": [
+    -89.329302,
+    44.091761,
+    -89.329302,
+    44.091761
+],
   "geometry": {"coordinates":[-89.329302,44.091761],"type":"Point"}
 }

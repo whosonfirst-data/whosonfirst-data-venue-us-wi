@@ -2,13 +2,14 @@
   "id": 354027849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.376899,44.747836,-87.376899,44.747836",
     "geom:latitude":44.747836,
     "geom:longitude":-87.376899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1456 Shiloh Rd",
     "sg:city":"Sturgeon Bay",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354027849,
-    "wof:lastmodified":1449066244,
+    "wof:lastmodified":1467089934,
     "wof:name":"Sturgeon Bay Iron & Metal Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "center"
     ]
 },
-  "bbox": [-87.376899,44.747836,-87.376899,44.747836],
-  "geometry": {"coordinates":[-87.376899,44.747836],"type":"Point"}
+  "bbox": [
+    -87.376899,
+    44.747836,
+    -87.376899,
+    44.747836
+],
+  "geometry": {"coordinates":[-87.37689899999999,44.747836],"type":"Point"}
 }

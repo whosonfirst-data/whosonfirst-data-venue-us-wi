@@ -2,13 +2,14 @@
   "id": 370923123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.684555,43.177928,-88.684555,43.177928",
     "geom:latitude":43.177928,
     "geom:longitude":-88.684555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9167 Donald Ln",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370923123,
-    "wof:lastmodified":1449032354,
+    "wof:lastmodified":1467089907,
     "wof:name":"Preferred Flooring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.684555,43.177928,-88.684555,43.177928],
+  "bbox": [
+    -88.684555,
+    43.177928,
+    -88.684555,
+    43.177928
+],
   "geometry": {"coordinates":[-88.684555,43.177928],"type":"Point"}
 }

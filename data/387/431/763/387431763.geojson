@@ -2,13 +2,14 @@
   "id": 387431763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.365406,43.106241,-89.365406,43.106241",
     "geom:latitude":43.106241,
     "geom:longitude":-89.365406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Kensington Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387431763,
-    "wof:lastmodified":1449056619,
+    "wof:lastmodified":1467089923,
     "wof:name":"Kathleen Mc Neil",
     "wof:parent_id":85878841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-89.365406,43.106241,-89.365406,43.106241],
-  "geometry": {"coordinates":[-89.365406,43.106241],"type":"Point"}
+  "bbox": [
+    -89.365406,
+    43.106241,
+    -89.365406,
+    43.106241
+],
+  "geometry": {"coordinates":[-89.36540599999999,43.106241],"type":"Point"}
 }

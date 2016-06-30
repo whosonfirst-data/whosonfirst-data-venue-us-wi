@@ -2,13 +2,14 @@
   "id": 337302075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.496079,44.804941,-91.496079,44.804941",
     "geom:latitude":44.804941,
     "geom:longitude":-91.496079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"822 Porter Ave",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":337302075,
-    "wof:lastmodified":1449027215,
+    "wof:lastmodified":1467089894,
     "wof:name":"Grace Lutheran Foundation Inc",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.496079,44.804941,-91.496079,44.804941],
-  "geometry": {"coordinates":[-91.496079,44.804941],"type":"Point"}
+  "bbox": [
+    -91.496079,
+    44.804941,
+    -91.496079,
+    44.804941
+],
+  "geometry": {"coordinates":[-91.49607899999999,44.804941],"type":"Point"}
 }

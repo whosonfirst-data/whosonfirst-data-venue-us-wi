@@ -2,13 +2,14 @@
   "id": 353908887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.474466,45.569584,-92.474466,45.569584",
     "geom:latitude":45.569584,
     "geom:longitude":-92.474466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 E Butternut Ave",
     "sg:city":"Luck",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353908887,
-    "wof:lastmodified":1449019706,
+    "wof:lastmodified":1467089889,
     "wof:name":"B & B Discounts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-92.474466,45.569584,-92.474466,45.569584],
-  "geometry": {"coordinates":[-92.474466,45.569584],"type":"Point"}
+  "bbox": [
+    -92.474466,
+    45.569584,
+    -92.474466,
+    45.569584
+],
+  "geometry": {"coordinates":[-92.47446600000001,45.569584],"type":"Point"}
 }

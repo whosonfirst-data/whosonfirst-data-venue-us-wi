@@ -2,13 +2,14 @@
   "id": 387102045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.974911,42.730328,-87.974911,42.730328",
     "geom:latitude":42.730328,
     "geom:longitude":-87.974911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14909 Washington Ave",
     "sg:city":"Union Grove",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387102045,
-    "wof:lastmodified":1449059635,
+    "wof:lastmodified":1467089932,
     "wof:name":"Jehovah's Witnesses",
     "wof:parent_id":85827175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.974911,42.730328,-87.974911,42.730328],
-  "geometry": {"coordinates":[-87.974911,42.730328],"type":"Point"}
+  "bbox": [
+    -87.974911,
+    42.730328,
+    -87.974911,
+    42.730328
+],
+  "geometry": {"coordinates":[-87.97491100000001,42.730328],"type":"Point"}
 }

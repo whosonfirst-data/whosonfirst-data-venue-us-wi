@@ -2,13 +2,14 @@
   "id": 353904205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.70037,44.46391,-91.70037,44.46391",
     "geom:latitude":44.46391,
     "geom:longitude":-91.70037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 State Hwy 88",
     "sg:city":"Mondovi",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353904205,
-    "wof:lastmodified":1449020868,
+    "wof:lastmodified":1467089892,
     "wof:name":"Roger Jaquish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-91.70037,44.46391,-91.70037,44.46391],
-  "geometry": {"coordinates":[-91.70037,44.46391],"type":"Point"}
+  "bbox": [
+    -91.70037,
+    44.46391,
+    -91.70037,
+    44.46391
+],
+  "geometry": {"coordinates":[-91.70037000000001,44.46391],"type":"Point"}
 }

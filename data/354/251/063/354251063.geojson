@@ -2,13 +2,14 @@
   "id": 354251063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.984555,44.504254,-87.984555,44.504254",
     "geom:latitude":44.504254,
     "geom:longitude":-87.984555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1623 Main St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354251063,
-    "wof:lastmodified":1449065969,
+    "wof:lastmodified":1467089933,
     "wof:name":"AABC Driving School",
     "wof:parent_id":85877953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "driving"
     ]
 },
-  "bbox": [-87.984555,44.504254,-87.984555,44.504254],
+  "bbox": [
+    -87.984555,
+    44.504254,
+    -87.984555,
+    44.504254
+],
   "geometry": {"coordinates":[-87.984555,44.504254],"type":"Point"}
 }

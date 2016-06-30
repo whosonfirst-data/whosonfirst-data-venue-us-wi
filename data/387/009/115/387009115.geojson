@@ -2,13 +2,14 @@
   "id": 387009115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.912819,43.175567,-87.912819,43.175567",
     "geom:latitude":43.175567,
     "geom:longitude":-87.912819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8689 N Port Washington Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387009115,
-    "wof:lastmodified":1449059841,
+    "wof:lastmodified":1467089932,
     "wof:name":"Organization By Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.912819,43.175567,-87.912819,43.175567],
+  "bbox": [
+    -87.912819,
+    43.175567,
+    -87.912819,
+    43.175567
+],
   "geometry": {"coordinates":[-87.912819,43.175567],"type":"Point"}
 }

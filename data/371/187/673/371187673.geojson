@@ -2,13 +2,14 @@
   "id": 371187673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.483663,45.449026,-92.483663,45.449026",
     "geom:latitude":45.449026,
     "geom:longitude":-92.483663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Eagle Dr",
     "sg:city":"Balsam Lake",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371187673,
-    "wof:lastmodified":1449049188,
+    "wof:lastmodified":1467089912,
     "wof:name":"Hills Super Valu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.483663,45.449026,-92.483663,45.449026],
-  "geometry": {"coordinates":[-92.483663,45.449026],"type":"Point"}
+  "bbox": [
+    -92.483663,
+    45.449026,
+    -92.483663,
+    45.449026
+],
+  "geometry": {"coordinates":[-92.48366300000001,45.449026],"type":"Point"}
 }

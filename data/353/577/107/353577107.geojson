@@ -2,13 +2,14 @@
   "id": 353577107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.835279,44.552992,-87.835279,44.552992",
     "geom:latitude":44.552992,
     "geom:longitude":-87.835279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4904 Church Rd",
     "sg:city":"New Franken",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353577107,
-    "wof:lastmodified":1449020889,
+    "wof:lastmodified":1467089892,
     "wof:name":"Ervin J Heim Well Drilling",
     "wof:parent_id":85855119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drilling"
     ]
 },
-  "bbox": [-87.835279,44.552992,-87.835279,44.552992],
+  "bbox": [
+    -87.835279,
+    44.552992,
+    -87.835279,
+    44.552992
+],
   "geometry": {"coordinates":[-87.835279,44.552992],"type":"Point"}
 }

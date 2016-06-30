@@ -2,13 +2,14 @@
   "id": 370690811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.964814,43.186367,-87.964814,43.186367",
     "geom:latitude":43.186367,
     "geom:longitude":-87.964814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4701 W Schroeder Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370690811,
-    "wof:lastmodified":1449030866,
+    "wof:lastmodified":1467089903,
     "wof:name":"First Data",
     "wof:parent_id":85894487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "card"
     ]
 },
-  "bbox": [-87.964814,43.186367,-87.964814,43.186367],
+  "bbox": [
+    -87.964814,
+    43.186367,
+    -87.964814,
+    43.186367
+],
   "geometry": {"coordinates":[-87.964814,43.186367],"type":"Point"}
 }

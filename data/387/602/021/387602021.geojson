@@ -2,13 +2,14 @@
   "id": 387602021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.810853,43.942629,-90.810853,43.942629",
     "geom:latitude":43.942629,
     "geom:longitude":-90.810853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Water St",
     "sg:city":"Sparta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387602021,
-    "wof:lastmodified":1449057892,
+    "wof:lastmodified":1467089926,
     "wof:name":"Sparta Co Op Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cooperative"
     ]
 },
-  "bbox": [-90.810853,43.942629,-90.810853,43.942629],
-  "geometry": {"coordinates":[-90.810853,43.942629],"type":"Point"}
+  "bbox": [
+    -90.810853,
+    43.942629,
+    -90.810853,
+    43.942629
+],
+  "geometry": {"coordinates":[-90.81085299999999,43.942629],"type":"Point"}
 }

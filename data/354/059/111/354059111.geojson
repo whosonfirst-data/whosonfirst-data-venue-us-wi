@@ -2,13 +2,14 @@
   "id": 354059111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.911409,42.902427,-87.911409,42.902427",
     "geom:latitude":42.902427,
     "geom:longitude":-87.911409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7840 S Howell Ave",
     "sg:city":"Oak Creek",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354059111,
-    "wof:lastmodified":1449066374,
+    "wof:lastmodified":1467089934,
     "wof:name":"Milwaukee Personnel World Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "help"
     ]
 },
-  "bbox": [-87.911409,42.902427,-87.911409,42.902427],
-  "geometry": {"coordinates":[-87.911409,42.902427],"type":"Point"}
+  "bbox": [
+    -87.911409,
+    42.902427,
+    -87.911409,
+    42.902427
+],
+  "geometry": {"coordinates":[-87.91140900000001,42.902427],"type":"Point"}
 }

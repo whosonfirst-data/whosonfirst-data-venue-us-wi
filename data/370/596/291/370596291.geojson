@@ -2,13 +2,14 @@
   "id": 370596291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.648791,44.696779,-90.648791,44.696779",
     "geom:latitude":44.696779,
     "geom:longitude":-90.648791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7633 Thomas Ave",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370596291,
-    "wof:lastmodified":1449030817,
+    "wof:lastmodified":1467089902,
     "wof:name":"David L Nielsen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.648791,44.696779,-90.648791,44.696779],
+  "bbox": [
+    -90.648791,
+    44.696779,
+    -90.648791,
+    44.696779
+],
   "geometry": {"coordinates":[-90.648791,44.696779],"type":"Point"}
 }

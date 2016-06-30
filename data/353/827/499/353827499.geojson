@@ -2,13 +2,14 @@
   "id": 353827499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.24135,43.08188,-88.24135,43.08188",
     "geom:latitude":43.08188,
     "geom:longitude":-88.24135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1133 Quail Ct",
     "sg:city":"Pewaukee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353827499,
-    "wof:lastmodified":1449019166,
+    "wof:lastmodified":1467089888,
     "wof:name":"Distribution MGT Systems",
     "wof:parent_id":85815589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "software"
     ]
 },
-  "bbox": [-88.24135,43.08188,-88.24135,43.08188],
+  "bbox": [
+    -88.24135,
+    43.08188,
+    -88.24135,
+    43.08188
+],
   "geometry": {"coordinates":[-88.24135,43.08188],"type":"Point"}
 }

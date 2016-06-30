@@ -2,13 +2,14 @@
   "id": 387900913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.953387,44.505893,-89.953387,44.505893",
     "geom:latitude":44.505893,
     "geom:longitude":-89.953387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7097 Swetz Rd",
     "sg:city":"Vesper",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387900913,
-    "wof:lastmodified":1449057747,
+    "wof:lastmodified":1467089926,
     "wof:name":"James Chaffin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-89.953387,44.505893,-89.953387,44.505893],
-  "geometry": {"coordinates":[-89.953387,44.505893],"type":"Point"}
+  "bbox": [
+    -89.953387,
+    44.505893,
+    -89.953387,
+    44.505893
+],
+  "geometry": {"coordinates":[-89.95338700000001,44.505893],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387417931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.968192,44.479746,-87.968192,44.479746",
     "geom:latitude":44.479746,
     "geom:longitude":-87.968192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1281 Brosig St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387417931,
-    "wof:lastmodified":1449057661,
+    "wof:lastmodified":1467089926,
     "wof:name":"Cyclo Vac Wisconsin",
     "wof:parent_id":85877953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-87.968192,44.479746,-87.968192,44.479746],
+  "bbox": [
+    -87.968192,
+    44.479746,
+    -87.968192,
+    44.479746
+],
   "geometry": {"coordinates":[-87.968192,44.479746],"type":"Point"}
 }

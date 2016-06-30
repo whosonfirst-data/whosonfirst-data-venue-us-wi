@@ -2,13 +2,14 @@
   "id": 354392673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.302028,43.530666,-89.302028,43.530666",
     "geom:latitude":43.530666,
     "geom:longitude":-89.302028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 S Main St",
     "sg:city":"Pardeeville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354392673,
-    "wof:lastmodified":1449067298,
+    "wof:lastmodified":1467089937,
     "wof:name":"Rite-Way Home Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.302028,43.530666,-89.302028,43.530666],
-  "geometry": {"coordinates":[-89.302028,43.530666],"type":"Point"}
+  "bbox": [
+    -89.302028,
+    43.530666,
+    -89.302028,
+    43.530666
+],
+  "geometry": {"coordinates":[-89.30202800000001,43.530666],"type":"Point"}
 }

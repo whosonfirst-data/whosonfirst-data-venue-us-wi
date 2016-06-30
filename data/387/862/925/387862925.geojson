@@ -2,13 +2,14 @@
   "id": 387862925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.539603,44.82042,-91.539603,44.82042",
     "geom:latitude":44.82042,
     "geom:longitude":-91.539603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Vine Ct",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387862925,
-    "wof:lastmodified":1449060007,
+    "wof:lastmodified":1467089933,
     "wof:name":"Eau Claire Natl Little League",
     "wof:parent_id":85848105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-91.539603,44.82042,-91.539603,44.82042],
+  "bbox": [
+    -91.539603,
+    44.82042,
+    -91.539603,
+    44.82042
+],
   "geometry": {"coordinates":[-91.539603,44.82042],"type":"Point"}
 }

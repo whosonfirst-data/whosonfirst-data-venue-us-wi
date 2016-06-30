@@ -2,13 +2,14 @@
   "id": 404006165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.040603,43.430266,-88.040603,43.430266",
     "geom:latitude":43.430266,
     "geom:longitude":-88.040603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3558 Municipal Dr",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404006165,
-    "wof:lastmodified":1449040050,
+    "wof:lastmodified":1467089911,
     "wof:name":"Newburg Public Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parking"
     ]
 },
-  "bbox": [-88.040603,43.430266,-88.040603,43.430266],
+  "bbox": [
+    -88.040603,
+    43.430266,
+    -88.040603,
+    43.430266
+],
   "geometry": {"coordinates":[-88.040603,43.430266],"type":"Point"}
 }

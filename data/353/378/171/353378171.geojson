@@ -2,13 +2,14 @@
   "id": 353378171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.951049,45.527721,-88.951049,45.527721",
     "geom:latitude":45.527721,
     "geom:longitude":-88.951049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4244 State Hwy 55",
     "sg:city":"Crandon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353378171,
-    "wof:lastmodified":1449019964,
+    "wof:lastmodified":1467089890,
     "wof:name":"Schnappup Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.951049,45.527721,-88.951049,45.527721],
+  "bbox": [
+    -88.951049,
+    45.527721,
+    -88.951049,
+    45.527721
+],
   "geometry": {"coordinates":[-88.951049,45.527721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185650085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.48522,44.191053,-88.48522,44.191053",
     "geom:latitude":44.191053,
     "geom:longitude":-88.48522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 N Green Bay Rd",
     "sg:city":"Neenah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185650085,
-    "wof:lastmodified":1449007593,
+    "wof:lastmodified":1467089885,
     "wof:name":"Bergstrom Chevrolet Buick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-88.48522,44.191053,-88.48522,44.191053],
+  "bbox": [
+    -88.48522,
+    44.191053,
+    -88.48522,
+    44.191053
+],
   "geometry": {"coordinates":[-88.48522,44.191053],"type":"Point"}
 }

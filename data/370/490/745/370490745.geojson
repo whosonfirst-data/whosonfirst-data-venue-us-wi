@@ -2,13 +2,14 @@
   "id": 370490745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.198929,43.191403,-90.198929,43.191403",
     "geom:latitude":43.191403,
     "geom:longitude":-90.198929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 US Hwy 14",
     "sg:city":"Lone Rock",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370490745,
-    "wof:lastmodified":1449032135,
+    "wof:lastmodified":1467089906,
     "wof:name":"Layton Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.198929,43.191403,-90.198929,43.191403],
-  "geometry": {"coordinates":[-90.198929,43.191403],"type":"Point"}
+  "bbox": [
+    -90.198929,
+    43.191403,
+    -90.198929,
+    43.191403
+],
+  "geometry": {"coordinates":[-90.19892900000001,43.191403],"type":"Point"}
 }

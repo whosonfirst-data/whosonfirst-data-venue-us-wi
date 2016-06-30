@@ -2,13 +2,14 @@
   "id": 387826591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.3421,44.971096,-91.3421,44.971096",
     "geom:latitude":44.971096,
     "geom:longitude":-91.3421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8883 164th St",
     "sg:city":"Chippewa Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387826591,
-    "wof:lastmodified":1449058874,
+    "wof:lastmodified":1467089930,
     "wof:name":"Woodford Consulting LLC",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-91.3421,44.971096,-91.3421,44.971096],
+  "bbox": [
+    -91.3421,
+    44.971096,
+    -91.3421,
+    44.971096
+],
   "geometry": {"coordinates":[-91.3421,44.971096],"type":"Point"}
 }

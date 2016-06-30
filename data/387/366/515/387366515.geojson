@@ -2,13 +2,14 @@
   "id": 387366515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.721286,43.193949,-88.721286,43.193949",
     "geom:latitude":43.193949,
     "geom:longitude":-88.721286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 S 4th St",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387366515,
-    "wof:lastmodified":1449058886,
+    "wof:lastmodified":1467089930,
     "wof:name":"Access 13 TV Channel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "village"
     ]
 },
-  "bbox": [-88.721286,43.193949,-88.721286,43.193949],
-  "geometry": {"coordinates":[-88.721286,43.193949],"type":"Point"}
+  "bbox": [
+    -88.721286,
+    43.193949,
+    -88.721286,
+    43.193949
+],
+  "geometry": {"coordinates":[-88.72128600000001,43.193949],"type":"Point"}
 }

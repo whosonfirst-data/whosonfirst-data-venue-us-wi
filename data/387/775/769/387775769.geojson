@@ -2,13 +2,14 @@
   "id": 387775769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.95508,43.075213,-87.95508,43.075213",
     "geom:latitude":43.075213,
     "geom:longitude":-87.95508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3150 W Burleigh St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":387775769,
-    "wof:lastmodified":1449058919,
+    "wof:lastmodified":1467089930,
     "wof:name":"Logemann Brothers Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "establishment"
     ]
 },
-  "bbox": [-87.95508,43.075213,-87.95508,43.075213],
+  "bbox": [
+    -87.95508,
+    43.075213,
+    -87.95508,
+    43.075213
+],
   "geometry": {"coordinates":[-87.95508,43.075213],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371102489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.953018,45.37168,-87.953018,45.37168",
     "geom:latitude":45.37168,
     "geom:longitude":-87.953018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 1st St",
     "sg:city":"Wausaukee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371102489,
-    "wof:lastmodified":1449050073,
+    "wof:lastmodified":1467089914,
     "wof:name":"Country Tots Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.953018,45.37168,-87.953018,45.37168],
+  "bbox": [
+    -87.953018,
+    45.37168,
+    -87.953018,
+    45.37168
+],
   "geometry": {"coordinates":[-87.953018,45.37168],"type":"Point"}
 }

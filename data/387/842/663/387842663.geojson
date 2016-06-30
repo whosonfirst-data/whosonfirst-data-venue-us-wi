@@ -2,13 +2,14 @@
   "id": 387842663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.38498,43.303688,-88.38498,43.303688",
     "geom:latitude":43.303688,
     "geom:longitude":-88.38498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"533 Fairview Dr",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387842663,
-    "wof:lastmodified":1449056390,
+    "wof:lastmodified":1467089922,
     "wof:name":"Flex Infromation Systems",
     "wof:parent_id":85841573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.38498,43.303688,-88.38498,43.303688],
+  "bbox": [
+    -88.38498,
+    43.303688,
+    -88.38498,
+    43.303688
+],
   "geometry": {"coordinates":[-88.38498,43.303688],"type":"Point"}
 }

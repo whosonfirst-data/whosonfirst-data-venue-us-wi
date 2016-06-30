@@ -2,13 +2,14 @@
   "id": 185849075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.032434,43.038357,-88.032434,43.038357",
     "geom:latitude":43.038357,
     "geom:longitude":-88.032434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9200 W Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185849075,
-    "wof:lastmodified":1449006914,
+    "wof:lastmodified":1467089883,
     "wof:name":"Jamie L Baisden MD",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-88.032434,43.038357,-88.032434,43.038357],
-  "geometry": {"coordinates":[-88.032434,43.038357],"type":"Point"}
+  "bbox": [
+    -88.032434,
+    43.038357,
+    -88.032434,
+    43.038357
+],
+  "geometry": {"coordinates":[-88.03243399999999,43.038357],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370193135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.400671,43.065085,-89.400671,43.065085",
     "geom:latitude":43.065085,
     "geom:longitude":-89.400671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 S Park St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370193135,
-    "wof:lastmodified":1449029633,
+    "wof:lastmodified":1467089899,
     "wof:name":"Joel Walters Comm Inc",
     "wof:parent_id":85868283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.400671,43.065085,-89.400671,43.065085],
+  "bbox": [
+    -89.400671,
+    43.065085,
+    -89.400671,
+    43.065085
+],
   "geometry": {"coordinates":[-89.400671,43.065085],"type":"Point"}
 }

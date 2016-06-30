@@ -2,13 +2,14 @@
   "id": 353688899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.674154,45.565961,-88.674154,45.565961",
     "geom:latitude":45.565961,
     "geom:longitude":-88.674154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5324 Linden St",
     "sg:city":"Laona",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353688899,
-    "wof:lastmodified":1449019218,
+    "wof:lastmodified":1467089888,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.674154,45.565961,-88.674154,45.565961],
+  "bbox": [
+    -88.674154,
+    45.565961,
+    -88.674154,
+    45.565961
+],
   "geometry": {"coordinates":[-88.674154,45.565961],"type":"Point"}
 }

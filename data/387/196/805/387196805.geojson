@@ -2,13 +2,14 @@
   "id": 387196805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.301917,43.211614,-89.301917,43.211614",
     "geom:latitude":43.211614,
     "geom:longitude":-89.301917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3906 Sunnyvale Dr",
     "sg:city":"De Forest",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387196805,
-    "wof:lastmodified":1449056964,
+    "wof:lastmodified":1467089924,
     "wof:name":"Home Care Day Care",
     "wof:parent_id":85852311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-89.301917,43.211614,-89.301917,43.211614],
+  "bbox": [
+    -89.301917,
+    43.211614,
+    -89.301917,
+    43.211614
+],
   "geometry": {"coordinates":[-89.301917,43.211614],"type":"Point"}
 }

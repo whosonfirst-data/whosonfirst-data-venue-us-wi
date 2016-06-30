@@ -2,13 +2,14 @@
   "id": 186331917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.478101,44.148428,-88.478101,44.148428",
     "geom:latitude":44.148428,
     "geom:longitude":-88.478101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2438 Progress Dr",
     "sg:city":"Neenah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186331917,
-    "wof:lastmodified":1449051995,
+    "wof:lastmodified":1467089916,
     "wof:name":"Schwan's Sales Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "frozen"
     ]
 },
-  "bbox": [-88.478101,44.148428,-88.478101,44.148428],
+  "bbox": [
+    -88.478101,
+    44.148428,
+    -88.478101,
+    44.148428
+],
   "geometry": {"coordinates":[-88.478101,44.148428],"type":"Point"}
 }

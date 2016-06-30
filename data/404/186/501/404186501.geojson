@@ -2,13 +2,14 @@
   "id": 404186501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.297711,43.063842,-89.297711,43.063842",
     "geom:latitude":43.063842,
     "geom:longitude":-89.297711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2326 Daniels St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404186501,
-    "wof:lastmodified":1449040035,
+    "wof:lastmodified":1467089911,
     "wof:name":"Detail Depot",
     "wof:parent_id":85878847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-89.297711,43.063842,-89.297711,43.063842],
-  "geometry": {"coordinates":[-89.297711,43.063842],"type":"Point"}
+  "bbox": [
+    -89.297711,
+    43.063842,
+    -89.297711,
+    43.063842
+],
+  "geometry": {"coordinates":[-89.29771100000001,43.063842],"type":"Point"}
 }

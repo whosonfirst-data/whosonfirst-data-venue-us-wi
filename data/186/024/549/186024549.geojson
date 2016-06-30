@@ -2,13 +2,14 @@
   "id": 186024549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.49412,43.059251,-89.49412,43.059251",
     "geom:latitude":43.059251,
     "geom:longitude":-89.49412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6601 Grand Teton Plz",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186024549,
-    "wof:lastmodified":1449051669,
+    "wof:lastmodified":1467089915,
     "wof:name":"Barrientos Spanish Academy",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.49412,43.059251,-89.49412,43.059251],
+  "bbox": [
+    -89.49412,
+    43.059251,
+    -89.49412,
+    43.059251
+],
   "geometry": {"coordinates":[-89.49412,43.059251],"type":"Point"}
 }

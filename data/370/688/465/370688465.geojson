@@ -2,13 +2,14 @@
   "id": 370688465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.459446,43.028259,-89.459446,43.028259",
     "geom:latitude":43.028259,
     "geom:longitude":-89.459446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2349 Allied Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370688465,
-    "wof:lastmodified":1449030348,
+    "wof:lastmodified":1467089901,
     "wof:name":"Meyer Realty & Management Inc",
     "wof:parent_id":85878885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-89.459446,43.028259,-89.459446,43.028259],
+  "bbox": [
+    -89.459446,
+    43.028259,
+    -89.459446,
+    43.028259
+],
   "geometry": {"coordinates":[-89.459446,43.028259],"type":"Point"}
 }

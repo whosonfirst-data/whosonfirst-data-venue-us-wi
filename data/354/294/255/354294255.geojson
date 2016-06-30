@@ -2,13 +2,14 @@
   "id": 354294255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.904818,43.00341,-87.904818,43.00341",
     "geom:latitude":43.00341,
     "geom:longitude":-87.904818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2277 S Howell Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354294255,
-    "wof:lastmodified":1449067171,
+    "wof:lastmodified":1467089936,
     "wof:name":"Hub Super Market",
     "wof:parent_id":85870847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-87.904818,43.00341,-87.904818,43.00341],
-  "geometry": {"coordinates":[-87.904818,43.00341],"type":"Point"}
+  "bbox": [
+    -87.904818,
+    43.00341,
+    -87.904818,
+    43.00341
+],
+  "geometry": {"coordinates":[-87.90481800000001,43.00341],"type":"Point"}
 }

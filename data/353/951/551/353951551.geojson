@@ -2,13 +2,14 @@
   "id": 353951551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.236829,44.291388,-91.236829,44.291388",
     "geom:latitude":44.291388,
     "geom:longitude":-91.236829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 S Peterson Ave",
     "sg:city":"Blair",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353951551,
-    "wof:lastmodified":1449018350,
+    "wof:lastmodified":1467089886,
     "wof:name":"Gundersen Lutheran",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-91.236829,44.291388,-91.236829,44.291388],
+  "bbox": [
+    -91.236829,
+    44.291388,
+    -91.236829,
+    44.291388
+],
   "geometry": {"coordinates":[-91.236829,44.291388],"type":"Point"}
 }

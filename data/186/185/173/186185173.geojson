@@ -2,13 +2,14 @@
   "id": 186185173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.790012,43.633063,-88.790012,43.633063",
     "geom:latitude":43.633063,
     "geom:longitude":-88.790012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7435 Co Rd Aw",
     "sg:city":"Waupun",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186185173,
-    "wof:lastmodified":1449050852,
+    "wof:lastmodified":1467089915,
     "wof:name":"Central Cable Contractors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.790012,43.633063,-88.790012,43.633063],
+  "bbox": [
+    -88.790012,
+    43.633063,
+    -88.790012,
+    43.633063
+],
   "geometry": {"coordinates":[-88.790012,43.633063],"type":"Point"}
 }

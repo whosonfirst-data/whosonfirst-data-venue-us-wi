@@ -2,13 +2,14 @@
   "id": 370721767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.58928,44.785312,-91.58928,44.785312",
     "geom:latitude":44.785312,
     "geom:longitude":-91.58928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7018 Crescent Ave",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370721767,
-    "wof:lastmodified":1449032459,
+    "wof:lastmodified":1467089907,
     "wof:name":"Northern Lites Property Mgmt",
     "wof:parent_id":85848105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.58928,44.785312,-91.58928,44.785312],
+  "bbox": [
+    -91.58928,
+    44.785312,
+    -91.58928,
+    44.785312
+],
   "geometry": {"coordinates":[-91.58928,44.785312],"type":"Point"}
 }

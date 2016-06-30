@@ -2,13 +2,14 @@
   "id": 354296747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.962162,43.038869,-87.962162,43.038869",
     "geom:latitude":43.038869,
     "geom:longitude":-87.962162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3846 W Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354296747,
-    "wof:lastmodified":1449067324,
+    "wof:lastmodified":1467089937,
     "wof:name":"Enz Manor Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-87.962162,43.038869,-87.962162,43.038869],
-  "geometry": {"coordinates":[-87.962162,43.038869],"type":"Point"}
+  "bbox": [
+    -87.962162,
+    43.038869,
+    -87.962162,
+    43.038869
+],
+  "geometry": {"coordinates":[-87.96216200000001,43.038869],"type":"Point"}
 }

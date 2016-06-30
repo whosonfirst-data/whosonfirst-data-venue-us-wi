@@ -2,13 +2,14 @@
   "id": 387769137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.807023,44.276216,-87.807023,44.276216",
     "geom:latitude":44.276216,
     "geom:longitude":-87.807023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10409 W Belmar Ave",
     "sg:city":"Maribel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387769137,
-    "wof:lastmodified":1449057365,
+    "wof:lastmodified":1467089925,
     "wof:name":"Central Transport Of Wisconsin",
     "wof:parent_id":85827947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-87.807023,44.276216,-87.807023,44.276216],
+  "bbox": [
+    -87.807023,
+    44.276216,
+    -87.807023,
+    44.276216
+],
   "geometry": {"coordinates":[-87.807023,44.276216],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403801181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.625491,44.960498,-89.625491,44.960498",
     "geom:latitude":44.960498,
     "geom:longitude":-89.625491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N 5th St",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403801181,
-    "wof:lastmodified":1449055745,
+    "wof:lastmodified":1467089920,
     "wof:name":"Piehler & Strande S C",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-89.625491,44.960498,-89.625491,44.960498],
+  "bbox": [
+    -89.625491,
+    44.960498,
+    -89.625491,
+    44.960498
+],
   "geometry": {"coordinates":[-89.625491,44.960498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370214337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.108832,43.019328,-88.108832,43.019328",
     "geom:latitude":43.019328,
     "geom:longitude":-88.108832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 Greenway Ter",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370214337,
-    "wof:lastmodified":1449032363,
+    "wof:lastmodified":1467089907,
     "wof:name":"S Hall",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-88.108832,43.019328,-88.108832,43.019328],
-  "geometry": {"coordinates":[-88.108832,43.019328],"type":"Point"}
+  "bbox": [
+    -88.108832,
+    43.019328,
+    -88.108832,
+    43.019328
+],
+  "geometry": {"coordinates":[-88.10883200000001,43.019328],"type":"Point"}
 }

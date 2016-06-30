@@ -2,13 +2,14 @@
   "id": 354289385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.424068,44.23242,-88.424068,44.23242",
     "geom:latitude":44.23242,
     "geom:longitude":-88.424068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 Appleton Rd",
     "sg:city":"Menasha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354289385,
-    "wof:lastmodified":1449067369,
+    "wof:lastmodified":1467089937,
     "wof:name":"Happy Nails",
     "wof:parent_id":85807543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-88.424068,44.23242,-88.424068,44.23242],
-  "geometry": {"coordinates":[-88.424068,44.23242],"type":"Point"}
+  "bbox": [
+    -88.424068,
+    44.23242,
+    -88.424068,
+    44.23242
+],
+  "geometry": {"coordinates":[-88.42406800000001,44.23242],"type":"Point"}
 }

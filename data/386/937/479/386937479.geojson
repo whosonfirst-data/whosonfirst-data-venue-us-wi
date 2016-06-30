@@ -2,13 +2,14 @@
   "id": 386937479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.197195,46.018999,-91.197195,46.018999",
     "geom:latitude":46.018999,
     "geom:longitude":-91.197195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10941 N Co Rd A",
     "sg:city":"Hayward",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":386937479,
-    "wof:lastmodified":1449028678,
+    "wof:lastmodified":1467089896,
     "wof:name":"Screw Machine Engineering Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-91.197195,46.018999,-91.197195,46.018999],
-  "geometry": {"coordinates":[-91.197195,46.018999],"type":"Point"}
+  "bbox": [
+    -91.197195,
+    46.018999,
+    -91.197195,
+    46.018999
+],
+  "geometry": {"coordinates":[-91.19719499999999,46.018999],"type":"Point"}
 }

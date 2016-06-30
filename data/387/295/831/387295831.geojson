@@ -2,13 +2,14 @@
   "id": 387295831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.906841,43.040977,-87.906841,43.040977",
     "geom:latitude":43.040977,
     "geom:longitude":-87.906841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"759 N Milwaukee St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387295831,
-    "wof:lastmodified":1449057651,
+    "wof:lastmodified":1467089925,
     "wof:name":"Colby-Abbot Building Co",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-87.906841,43.040977,-87.906841,43.040977],
+  "bbox": [
+    -87.906841,
+    43.040977,
+    -87.906841,
+    43.040977
+],
   "geometry": {"coordinates":[-87.906841,43.040977],"type":"Point"}
 }

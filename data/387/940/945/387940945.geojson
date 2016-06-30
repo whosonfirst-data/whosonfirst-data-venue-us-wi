@@ -2,13 +2,14 @@
   "id": 387940945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.05627,43.008438,-88.05627,43.008438",
     "geom:latitude":43.008438,
     "geom:longitude":-88.05627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11316 W Rogers St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387940945,
-    "wof:lastmodified":1449057030,
+    "wof:lastmodified":1467089924,
     "wof:name":"P P G Flat & Auto Glass Dist",
     "wof:parent_id":85870861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.05627,43.008438,-88.05627,43.008438],
+  "bbox": [
+    -88.05627,
+    43.008438,
+    -88.05627,
+    43.008438
+],
   "geometry": {"coordinates":[-88.05627,43.008438],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186352409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.940897,43.965561,-88.940897,43.965561",
     "geom:latitude":43.965561,
     "geom:longitude":-88.940897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Junction St",
     "sg:city":"Berlin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186352409,
-    "wof:lastmodified":1449052009,
+    "wof:lastmodified":1467089916,
     "wof:name":"Fritz Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "musical"
     ]
 },
-  "bbox": [-88.940897,43.965561,-88.940897,43.965561],
-  "geometry": {"coordinates":[-88.940897,43.965561],"type":"Point"}
+  "bbox": [
+    -88.940897,
+    43.965561,
+    -88.940897,
+    43.965561
+],
+  "geometry": {"coordinates":[-88.94089700000001,43.965561],"type":"Point"}
 }

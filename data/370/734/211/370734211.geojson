@@ -2,13 +2,14 @@
   "id": 370734211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.917026,43.065757,-87.917026,43.065757",
     "geom:latitude":43.065757,
     "geom:longitude":-87.917026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 N 5th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370734211,
-    "wof:lastmodified":1449032044,
+    "wof:lastmodified":1467089906,
     "wof:name":"Fit-Rite Tailors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tailor"
     ]
 },
-  "bbox": [-87.917026,43.065757,-87.917026,43.065757],
-  "geometry": {"coordinates":[-87.917026,43.065757],"type":"Point"}
+  "bbox": [
+    -87.917026,
+    43.065757,
+    -87.917026,
+    43.065757
+],
+  "geometry": {"coordinates":[-87.91702600000001,43.065757],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403817033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.49,43.131756,-88.49,43.131756",
     "geom:latitude":43.131756,
     "geom:longitude":-88.49,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1426 Crystal Lake Dr",
     "sg:city":"Oconomowoc",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403817033,
-    "wof:lastmodified":1449055695,
+    "wof:lastmodified":1467089920,
     "wof:name":"J R Wittkopp Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.49,43.131756,-88.49,43.131756],
-  "geometry": {"coordinates":[-88.49,43.131756],"type":"Point"}
+  "bbox": [
+    -88.49,
+    43.131756,
+    -88.49,
+    43.131756
+],
+  "geometry": {"coordinates":[-88.48999999999999,43.131756],"type":"Point"}
 }

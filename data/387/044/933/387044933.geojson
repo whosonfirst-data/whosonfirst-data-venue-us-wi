@@ -2,13 +2,14 @@
   "id": 387044933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.534685,44.479631,-89.534685,44.479631",
     "geom:latitude":44.479631,
     "geom:longitude":-89.534685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2321 Ashwood Ct",
     "sg:city":"Plover",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387044933,
-    "wof:lastmodified":1449058088,
+    "wof:lastmodified":1467089927,
     "wof:name":"Rainbow Time",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "watch"
     ]
 },
-  "bbox": [-89.534685,44.479631,-89.534685,44.479631],
+  "bbox": [
+    -89.534685,
+    44.479631,
+    -89.534685,
+    44.479631
+],
   "geometry": {"coordinates":[-89.534685,44.479631],"type":"Point"}
 }

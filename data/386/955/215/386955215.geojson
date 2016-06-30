@@ -2,13 +2,14 @@
   "id": 386955215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.188792,45.454492,-90.188792,45.454492",
     "geom:latitude":45.454492,
     "geom:longitude":-90.188792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2990 Ring School Rd",
     "sg:city":"Ogema",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":386955215,
-    "wof:lastmodified":1449028841,
+    "wof:lastmodified":1467089896,
     "wof:name":"Shangco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nursery"
     ]
 },
-  "bbox": [-90.188792,45.454492,-90.188792,45.454492],
-  "geometry": {"coordinates":[-90.188792,45.454492],"type":"Point"}
+  "bbox": [
+    -90.188792,
+    45.454492,
+    -90.188792,
+    45.454492
+],
+  "geometry": {"coordinates":[-90.18879200000001,45.454492],"type":"Point"}
 }

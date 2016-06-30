@@ -2,13 +2,14 @@
   "id": 185662925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.871862,44.968199,-91.871862,44.968199",
     "geom:latitude":44.968199,
     "geom:longitude":-91.871862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5841 800th Ave",
     "sg:city":"Menomonie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185662925,
-    "wof:lastmodified":1449007672,
+    "wof:lastmodified":1467089885,
     "wof:name":"Lake Hurst Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-91.871862,44.968199,-91.871862,44.968199],
-  "geometry": {"coordinates":[-91.871862,44.968199],"type":"Point"}
+  "bbox": [
+    -91.871862,
+    44.968199,
+    -91.871862,
+    44.968199
+],
+  "geometry": {"coordinates":[-91.87186199999999,44.968199],"type":"Point"}
 }

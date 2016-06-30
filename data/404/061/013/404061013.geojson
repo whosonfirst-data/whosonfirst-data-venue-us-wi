@@ -2,13 +2,14 @@
   "id": 404061013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.430747,44.261981,-88.430747,44.261981",
     "geom:latitude":44.261981,
     "geom:longitude":-88.430747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 N Douglas St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404061013,
-    "wof:lastmodified":1449039991,
+    "wof:lastmodified":1467089911,
     "wof:name":"First Edition Hair Center",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-88.430747,44.261981,-88.430747,44.261981],
+  "bbox": [
+    -88.430747,
+    44.261981,
+    -88.430747,
+    44.261981
+],
   "geometry": {"coordinates":[-88.430747,44.261981],"type":"Point"}
 }

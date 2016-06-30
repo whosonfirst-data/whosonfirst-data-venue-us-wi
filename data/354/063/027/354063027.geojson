@@ -2,13 +2,14 @@
   "id": 354063027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.470059,43.772013,-88.470059,43.772013",
     "geom:latitude":43.772013,
     "geom:longitude":-88.470059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"595 Sunset Ln",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354063027,
-    "wof:lastmodified":1449066078,
+    "wof:lastmodified":1467089933,
     "wof:name":"Towne Realestate Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manager"
     ]
 },
-  "bbox": [-88.470059,43.772013,-88.470059,43.772013],
-  "geometry": {"coordinates":[-88.470059,43.772013],"type":"Point"}
+  "bbox": [
+    -88.470059,
+    43.772013,
+    -88.470059,
+    43.772013
+],
+  "geometry": {"coordinates":[-88.47005900000001,43.772013],"type":"Point"}
 }

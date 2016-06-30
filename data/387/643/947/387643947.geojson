@@ -2,13 +2,14 @@
   "id": 387643947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.107357,43.015488,-88.107357,43.015488",
     "geom:latitude":43.015488,
     "geom:longitude":-88.107357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1579 S Moorland Rd",
     "sg:city":"New Berlin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387643947,
-    "wof:lastmodified":1449059418,
+    "wof:lastmodified":1467089931,
     "wof:name":"Rupals Investments",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-88.107357,43.015488,-88.107357,43.015488],
-  "geometry": {"coordinates":[-88.107357,43.015488],"type":"Point"}
+  "bbox": [
+    -88.107357,
+    43.015488,
+    -88.107357,
+    43.015488
+],
+  "geometry": {"coordinates":[-88.10735699999999,43.015488],"type":"Point"}
 }

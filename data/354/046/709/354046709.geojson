@@ -2,13 +2,14 @@
   "id": 354046709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.907563,42.904402,-87.907563,42.904402",
     "geom:latitude":42.904402,
     "geom:longitude":-87.907563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 E Pine Hollow Ln",
     "sg:city":"Oak Creek",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354046709,
-    "wof:lastmodified":1449066885,
+    "wof:lastmodified":1467089936,
     "wof:name":"American Aiport Limo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-87.907563,42.904402,-87.907563,42.904402],
+  "bbox": [
+    -87.907563,
+    42.904402,
+    -87.907563,
+    42.904402
+],
   "geometry": {"coordinates":[-87.907563,42.904402],"type":"Point"}
 }

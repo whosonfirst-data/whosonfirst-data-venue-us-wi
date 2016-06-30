@@ -2,13 +2,14 @@
   "id": 353681295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.314067,44.281988,-88.314067,44.281988",
     "geom:latitude":44.281988,
     "geom:longitude":-88.314067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Depot St",
     "sg:city":"Little Chute",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353681295,
-    "wof:lastmodified":1449019843,
+    "wof:lastmodified":1467089890,
     "wof:name":"Gonnering Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.314067,44.281988,-88.314067,44.281988],
-  "geometry": {"coordinates":[-88.314067,44.281988],"type":"Point"}
+  "bbox": [
+    -88.314067,
+    44.281988,
+    -88.314067,
+    44.281988
+],
+  "geometry": {"coordinates":[-88.31406699999999,44.281988],"type":"Point"}
 }

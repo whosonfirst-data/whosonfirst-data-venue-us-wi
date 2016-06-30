@@ -2,13 +2,14 @@
   "id": 387599675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.78433,44.75076,-92.78433,44.75076",
     "geom:latitude":44.75076,
     "geom:longitude":-92.78433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 Tower Heights Ct",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387599675,
-    "wof:lastmodified":1449057870,
+    "wof:lastmodified":1467089926,
     "wof:name":"Croix Construction Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.78433,44.75076,-92.78433,44.75076],
+  "bbox": [
+    -92.78433,
+    44.75076,
+    -92.78433,
+    44.75076
+],
   "geometry": {"coordinates":[-92.78433,44.75076],"type":"Point"}
 }

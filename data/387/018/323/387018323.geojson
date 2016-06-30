@@ -2,13 +2,14 @@
   "id": 387018323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.907773,43.038862,-87.907773,43.038862",
     "geom:latitude":43.038862,
     "geom:longitude":-87.907773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 N Broadway St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387018323,
-    "wof:lastmodified":1449057997,
+    "wof:lastmodified":1467089926,
     "wof:name":"Affordable Insurance",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.907773,43.038862,-87.907773,43.038862],
-  "geometry": {"coordinates":[-87.907773,43.038862],"type":"Point"}
+  "bbox": [
+    -87.907773,
+    43.038862,
+    -87.907773,
+    43.038862
+],
+  "geometry": {"coordinates":[-87.90777300000001,43.038862],"type":"Point"}
 }

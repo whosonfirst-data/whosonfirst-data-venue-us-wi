@@ -2,13 +2,14 @@
   "id": 354187037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.577012,43.996277,-88.577012,43.996277",
     "geom:latitude":43.996277,
     "geom:longitude":-88.577012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 W 20th Ave",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354187037,
-    "wof:lastmodified":1449066188,
+    "wof:lastmodified":1467089934,
     "wof:name":"R&R Best Car Wash",
     "wof:parent_id":85819403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-88.577012,43.996277,-88.577012,43.996277],
+  "bbox": [
+    -88.577012,
+    43.996277,
+    -88.577012,
+    43.996277
+],
   "geometry": {"coordinates":[-88.577012,43.996277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337439137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.905717,45.088484,-89.905717,45.088484",
     "geom:latitude":45.088484,
     "geom:longitude":-89.905717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11640 7th Ln",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337439137,
-    "wof:lastmodified":1449027162,
+    "wof:lastmodified":1467089893,
     "wof:name":"Steidinger Bulldozing",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.905717,45.088484,-89.905717,45.088484],
+  "bbox": [
+    -89.905717,
+    45.088484,
+    -89.905717,
+    45.088484
+],
   "geometry": {"coordinates":[-89.905717,45.088484],"type":"Point"}
 }

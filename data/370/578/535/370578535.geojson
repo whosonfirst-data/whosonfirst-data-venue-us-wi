@@ -2,13 +2,14 @@
   "id": 370578535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.173959,43.040079,-88.173959,43.040079",
     "geom:latitude":43.040079,
     "geom:longitude":-88.173959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20670 Watertown Rd",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370578535,
-    "wof:lastmodified":1449029947,
+    "wof:lastmodified":1467089900,
     "wof:name":"EWH Small Business Acctg",
     "wof:parent_id":85815589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-88.173959,43.040079,-88.173959,43.040079],
+  "bbox": [
+    -88.173959,
+    43.040079,
+    -88.173959,
+    43.040079
+],
   "geometry": {"coordinates":[-88.173959,43.040079],"type":"Point"}
 }

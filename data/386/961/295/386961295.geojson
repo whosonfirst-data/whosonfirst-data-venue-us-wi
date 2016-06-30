@@ -2,13 +2,14 @@
   "id": 386961295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.937536,43.038595,-87.937536,43.038595",
     "geom:latitude":43.038595,
     "geom:longitude":-87.937536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1933 W Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":386961295,
-    "wof:lastmodified":1449028964,
+    "wof:lastmodified":1467089897,
     "wof:name":"Professional Bus Collegiates",
     "wof:parent_id":85870977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "monthly"
     ]
 },
-  "bbox": [-87.937536,43.038595,-87.937536,43.038595],
-  "geometry": {"coordinates":[-87.937536,43.038595],"type":"Point"}
+  "bbox": [
+    -87.937536,
+    43.038595,
+    -87.937536,
+    43.038595
+],
+  "geometry": {"coordinates":[-87.93753599999999,43.038595],"type":"Point"}
 }

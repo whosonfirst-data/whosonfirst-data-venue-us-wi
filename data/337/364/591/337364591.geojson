@@ -2,13 +2,14 @@
   "id": 337364591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.016798,44.513271,-88.016798,44.513271",
     "geom:latitude":44.513271,
     "geom:longitude":-88.016798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 S Washington St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337364591,
-    "wof:lastmodified":1449027405,
+    "wof:lastmodified":1467089894,
     "wof:name":"29 Steps",
     "wof:parent_id":85877935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-88.016798,44.513271,-88.016798,44.513271],
-  "geometry": {"coordinates":[-88.016798,44.513271],"type":"Point"}
+  "bbox": [
+    -88.016798,
+    44.513271,
+    -88.016798,
+    44.513271
+],
+  "geometry": {"coordinates":[-88.01679799999999,44.513271],"type":"Point"}
 }

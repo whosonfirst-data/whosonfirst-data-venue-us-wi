@@ -2,13 +2,14 @@
   "id": 403815803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.908473,43.086313,-87.908473,43.086313",
     "geom:latitude":43.086313,
     "geom:longitude":-87.908473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3832 N Hubbard St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":403815803,
-    "wof:lastmodified":1449055280,
+    "wof:lastmodified":1467089919,
     "wof:name":"Another Display Inc",
     "wof:parent_id":85870941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "producer"
     ]
 },
-  "bbox": [-87.908473,43.086313,-87.908473,43.086313],
+  "bbox": [
+    -87.908473,
+    43.086313,
+    -87.908473,
+    43.086313
+],
   "geometry": {"coordinates":[-87.908473,43.086313],"type":"Point"}
 }

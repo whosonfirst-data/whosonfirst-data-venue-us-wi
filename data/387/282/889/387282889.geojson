@@ -2,13 +2,14 @@
   "id": 387282889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.499249,44.252446,-91.499249,44.252446",
     "geom:latitude":44.252446,
     "geom:longitude":-91.499249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 E Main St",
     "sg:city":"Arcadia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387282889,
-    "wof:lastmodified":1449058486,
+    "wof:lastmodified":1467089928,
     "wof:name":"Long Chen Chinese Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.499249,44.252446,-91.499249,44.252446],
-  "geometry": {"coordinates":[-91.499249,44.252446],"type":"Point"}
+  "bbox": [
+    -91.499249,
+    44.252446,
+    -91.499249,
+    44.252446
+],
+  "geometry": {"coordinates":[-91.49924900000001,44.252446],"type":"Point"}
 }

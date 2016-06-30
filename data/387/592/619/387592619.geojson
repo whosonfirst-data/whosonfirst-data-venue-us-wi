@@ -2,13 +2,14 @@
   "id": 387592619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.352826,43.871227,-88.352826,43.871227",
     "geom:latitude":43.871227,
     "geom:longitude":-88.352826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9176 US Hwy 151",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387592619,
-    "wof:lastmodified":1449058290,
+    "wof:lastmodified":1467089928,
     "wof:name":"Fishermans Cove",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-88.352826,43.871227,-88.352826,43.871227],
-  "geometry": {"coordinates":[-88.352826,43.871227],"type":"Point"}
+  "bbox": [
+    -88.352826,
+    43.871227,
+    -88.352826,
+    43.871227
+],
+  "geometry": {"coordinates":[-88.35282599999999,43.871227],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186369409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.451666,43.01672,-89.451666,43.01672",
     "geom:latitude":43.01672,
     "geom:longitude":-89.451666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3056 Woods Edge Way",
     "sg:city":"Fitchburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186369409,
-    "wof:lastmodified":1449052904,
+    "wof:lastmodified":1467089917,
     "wof:name":"Seminole Village Condominium",
     "wof:parent_id":85878885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-89.451666,43.01672,-89.451666,43.01672],
+  "bbox": [
+    -89.451666,
+    43.01672,
+    -89.451666,
+    43.01672
+],
   "geometry": {"coordinates":[-89.451666,43.01672],"type":"Point"}
 }

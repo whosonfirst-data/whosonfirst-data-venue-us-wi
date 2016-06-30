@@ -2,13 +2,14 @@
   "id": 370394557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.980728,43.067917,-87.980728,43.067917",
     "geom:latitude":43.067917,
     "geom:longitude":-87.980728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5325 W Center St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370394557,
-    "wof:lastmodified":1449029749,
+    "wof:lastmodified":1467089899,
     "wof:name":"Center St Cmpt Training Ctr",
     "wof:parent_id":85870829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "computer"
     ]
 },
-  "bbox": [-87.980728,43.067917,-87.980728,43.067917],
+  "bbox": [
+    -87.980728,
+    43.067917,
+    -87.980728,
+    43.067917
+],
   "geometry": {"coordinates":[-87.980728,43.067917],"type":"Point"}
 }

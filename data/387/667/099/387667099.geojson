@@ -2,13 +2,14 @@
   "id": 387667099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.475347,43.784391,-88.475347,43.784391",
     "geom:latitude":43.784391,
     "geom:longitude":-88.475347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 W Johnson St",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387667099,
-    "wof:lastmodified":1449058599,
+    "wof:lastmodified":1467089929,
     "wof:name":"Chase",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.475347,43.784391,-88.475347,43.784391],
+  "bbox": [
+    -88.475347,
+    43.784391,
+    -88.475347,
+    43.784391
+],
   "geometry": {"coordinates":[-88.475347,43.784391],"type":"Point"}
 }

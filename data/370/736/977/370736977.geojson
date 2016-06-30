@@ -2,13 +2,14 @@
   "id": 370736977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.256061,43.807832,-91.256061,43.807832",
     "geom:latitude":43.807832,
     "geom:longitude":-91.256061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Cross St",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370736977,
-    "wof:lastmodified":1449032429,
+    "wof:lastmodified":1467089907,
     "wof:name":"Women's Clothes Closet",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "institution"
     ]
 },
-  "bbox": [-91.256061,43.807832,-91.256061,43.807832],
+  "bbox": [
+    -91.256061,
+    43.807832,
+    -91.256061,
+    43.807832
+],
   "geometry": {"coordinates":[-91.256061,43.807832],"type":"Point"}
 }

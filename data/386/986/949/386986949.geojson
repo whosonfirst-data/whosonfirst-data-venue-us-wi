@@ -2,13 +2,14 @@
   "id": 386986949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.371542,43.311804,-88.371542,43.311804",
     "geom:latitude":43.311804,
     "geom:longitude":-88.371542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Wheelock Ave",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386986949,
-    "wof:lastmodified":1449028889,
+    "wof:lastmodified":1467089897,
     "wof:name":"Noahs Ark Baby Accessories",
     "wof:parent_id":85841573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturing"
     ]
 },
-  "bbox": [-88.371542,43.311804,-88.371542,43.311804],
-  "geometry": {"coordinates":[-88.371542,43.311804],"type":"Point"}
+  "bbox": [
+    -88.371542,
+    43.311804,
+    -88.371542,
+    43.311804
+],
+  "geometry": {"coordinates":[-88.37154200000001,43.311804],"type":"Point"}
 }

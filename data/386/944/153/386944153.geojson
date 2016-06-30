@@ -2,13 +2,14 @@
   "id": 386944153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.784967,42.726726,-87.784967,42.726726",
     "geom:latitude":42.726726,
     "geom:longitude":-87.784967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 6th St",
     "sg:city":"Racine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386944153,
-    "wof:lastmodified":1449028779,
+    "wof:lastmodified":1467089896,
     "wof:name":"Blue Rock Lounge",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-87.784967,42.726726,-87.784967,42.726726],
-  "geometry": {"coordinates":[-87.784967,42.726726],"type":"Point"}
+  "bbox": [
+    -87.784967,
+    42.726726,
+    -87.784967,
+    42.726726
+],
+  "geometry": {"coordinates":[-87.78496699999999,42.726726],"type":"Point"}
 }

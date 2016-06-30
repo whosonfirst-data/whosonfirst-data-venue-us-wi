@@ -2,13 +2,14 @@
   "id": 370471817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.085052,44.508881,-88.085052,44.508881",
     "geom:latitude":44.508881,
     "geom:longitude":-88.085052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1537 Park Pl",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370471817,
-    "wof:lastmodified":1449030444,
+    "wof:lastmodified":1467089901,
     "wof:name":"Mc Canna Dudas Kewley",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-88.085052,44.508881,-88.085052,44.508881],
+  "bbox": [
+    -88.085052,
+    44.508881,
+    -88.085052,
+    44.508881
+],
   "geometry": {"coordinates":[-88.085052,44.508881],"type":"Point"}
 }

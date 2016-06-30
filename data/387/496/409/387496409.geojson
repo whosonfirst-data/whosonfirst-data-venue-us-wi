@@ -2,13 +2,14 @@
   "id": 387496409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.185947,43.42937,-88.185947,43.42937",
     "geom:latitude":43.42937,
     "geom:longitude":-88.185947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"451 N Main St",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387496409,
-    "wof:lastmodified":1449059349,
+    "wof:lastmodified":1467089931,
     "wof:name":"R T Speed Shop",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-88.185947,43.42937,-88.185947,43.42937],
+  "bbox": [
+    -88.185947,
+    43.42937,
+    -88.185947,
+    43.42937
+],
   "geometry": {"coordinates":[-88.185947,43.42937],"type":"Point"}
 }

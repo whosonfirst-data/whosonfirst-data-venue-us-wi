@@ -2,13 +2,14 @@
   "id": 337538845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.494983,43.062088,-89.494983,43.062088",
     "geom:latitude":43.062088,
     "geom:longitude":-89.494983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Coronado Ct",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337538845,
-    "wof:lastmodified":1449027038,
+    "wof:lastmodified":1467089893,
     "wof:name":"ISR Infoway",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.494983,43.062088,-89.494983,43.062088],
+  "bbox": [
+    -89.494983,
+    43.062088,
+    -89.494983,
+    43.062088
+],
   "geometry": {"coordinates":[-89.494983,43.062088],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353484815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.954883,45.379646,-87.954883,45.379646",
     "geom:latitude":45.379646,
     "geom:longitude":-87.954883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 US Hwy 141",
     "sg:city":"Wausaukee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353484815,
-    "wof:lastmodified":1449020648,
+    "wof:lastmodified":1467089891,
     "wof:name":"Roger's Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-87.954883,45.379646,-87.954883,45.379646],
+  "bbox": [
+    -87.954883,
+    45.379646,
+    -87.954883,
+    45.379646
+],
   "geometry": {"coordinates":[-87.954883,45.379646],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186297267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.747999,43.136286,-89.747999,43.136286",
     "geom:latitude":43.136286,
     "geom:longitude":-89.747999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1345 Mills St",
     "sg:city":"Black Earth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186297267,
-    "wof:lastmodified":1449052084,
+    "wof:lastmodified":1467089916,
     "wof:name":"Black Earth Meats",
     "wof:parent_id":85830985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "packer"
     ]
 },
-  "bbox": [-89.747999,43.136286,-89.747999,43.136286],
-  "geometry": {"coordinates":[-89.747999,43.136286],"type":"Point"}
+  "bbox": [
+    -89.747999,
+    43.136286,
+    -89.747999,
+    43.136286
+],
+  "geometry": {"coordinates":[-89.74799899999999,43.136286],"type":"Point"}
 }

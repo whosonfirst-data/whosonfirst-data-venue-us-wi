@@ -2,13 +2,14 @@
   "id": 185779049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.991925,45.430557,-91.991925,45.430557",
     "geom:latitude":45.430557,
     "geom:longitude":-91.991925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 8th St",
     "sg:city":"Almena",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185779049,
-    "wof:lastmodified":1449006856,
+    "wof:lastmodified":1467089883,
     "wof:name":"Peterson Farm Larry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.991925,45.430557,-91.991925,45.430557],
-  "geometry": {"coordinates":[-91.991925,45.430557],"type":"Point"}
+  "bbox": [
+    -91.991925,
+    45.430557,
+    -91.991925,
+    45.430557
+],
+  "geometry": {"coordinates":[-91.99192499999999,45.430557],"type":"Point"}
 }

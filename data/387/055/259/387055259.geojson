@@ -2,13 +2,14 @@
   "id": 387055259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.906026,43.035052,-87.906026,43.035052",
     "geom:latitude":43.035052,
     "geom:longitude":-87.906026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 N Milwaukee St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387055259,
-    "wof:lastmodified":1449056959,
+    "wof:lastmodified":1467089924,
     "wof:name":"Omotion Service & Advg Cons",
     "wof:parent_id":85871001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "advertising"
     ]
 },
-  "bbox": [-87.906026,43.035052,-87.906026,43.035052],
+  "bbox": [
+    -87.906026,
+    43.035052,
+    -87.906026,
+    43.035052
+],
   "geometry": {"coordinates":[-87.906026,43.035052],"type":"Point"}
 }

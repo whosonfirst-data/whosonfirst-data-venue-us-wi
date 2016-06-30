@@ -2,13 +2,14 @@
   "id": 169801123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.108681,42.975852,-88.108681,42.975852",
     "geom:latitude":42.975852,
     "geom:longitude":-88.108681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3855 S Moorland Rd",
     "sg:city":"New Berlin",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":169801123,
-    "wof:lastmodified":1449035377,
+    "wof:lastmodified":1467089909,
     "wof:name":"Goodyear",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "automotive"
     ]
 },
-  "bbox": [-88.108681,42.975852,-88.108681,42.975852],
+  "bbox": [
+    -88.108681,
+    42.975852,
+    -88.108681,
+    42.975852
+],
   "geometry": {"coordinates":[-88.108681,42.975852],"type":"Point"}
 }

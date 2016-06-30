@@ -2,13 +2,14 @@
   "id": 387719115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.955141,43.14353,-87.955141,43.14353",
     "geom:latitude":43.14353,
     "geom:longitude":-87.955141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6900 N Teutonia Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387719115,
-    "wof:lastmodified":1449056597,
+    "wof:lastmodified":1467089923,
     "wof:name":"Holming Company",
     "wof:parent_id":85870811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "stampings"
     ]
 },
-  "bbox": [-87.955141,43.14353,-87.955141,43.14353],
+  "bbox": [
+    -87.955141,
+    43.14353,
+    -87.955141,
+    43.14353
+],
   "geometry": {"coordinates":[-87.955141,43.14353],"type":"Point"}
 }

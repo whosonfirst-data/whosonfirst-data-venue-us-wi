@@ -2,13 +2,14 @@
   "id": 404049827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.624932,44.860462,-92.624932,44.860462",
     "geom:latitude":44.860462,
     "geom:longitude":-92.624932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 N Main St",
     "sg:city":"River Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404049827,
-    "wof:lastmodified":1449039663,
+    "wof:lastmodified":1467089910,
     "wof:name":"BMC Mortgage Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-92.624932,44.860462,-92.624932,44.860462],
+  "bbox": [
+    -92.624932,
+    44.860462,
+    -92.624932,
+    44.860462
+],
   "geometry": {"coordinates":[-92.624932,44.860462],"type":"Point"}
 }

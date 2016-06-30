@@ -2,13 +2,14 @@
   "id": 353834447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.431502,45.348248,-90.431502,45.348248",
     "geom:latitude":45.348248,
     "geom:longitude":-90.431502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7978 Co Hwy D",
     "sg:city":"Westboro",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353834447,
-    "wof:lastmodified":1449018500,
+    "wof:lastmodified":1467089887,
     "wof:name":"Vozka Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.431502,45.348248,-90.431502,45.348248],
-  "geometry": {"coordinates":[-90.431502,45.348248],"type":"Point"}
+  "bbox": [
+    -90.431502,
+    45.348248,
+    -90.431502,
+    45.348248
+],
+  "geometry": {"coordinates":[-90.43150199999999,45.348248],"type":"Point"}
 }

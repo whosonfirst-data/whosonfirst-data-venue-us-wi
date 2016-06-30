@@ -2,13 +2,14 @@
   "id": 404100903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.385321,44.830113,-87.385321,44.830113",
     "geom:latitude":44.830113,
     "geom:longitude":-87.385321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 W Larch St",
     "sg:city":"Sturgeon Bay",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":404100903,
-    "wof:lastmodified":1449040001,
+    "wof:lastmodified":1467089911,
     "wof:name":"Bridgeport Waterfront Resort",
     "wof:parent_id":85851043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "condominium"
     ]
 },
-  "bbox": [-87.385321,44.830113,-87.385321,44.830113],
+  "bbox": [
+    -87.385321,
+    44.830113,
+    -87.385321,
+    44.830113
+],
   "geometry": {"coordinates":[-87.385321,44.830113],"type":"Point"}
 }

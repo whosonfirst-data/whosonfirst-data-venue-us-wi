@@ -2,13 +2,14 @@
   "id": 370601155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.210145,43.777449,-91.210145,43.777449",
     "geom:latitude":43.777449,
     "geom:longitude":-91.210145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3049 31st St S",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370601155,
-    "wof:lastmodified":1449030611,
+    "wof:lastmodified":1467089902,
     "wof:name":"Kenneth Koehn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.210145,43.777449,-91.210145,43.777449],
+  "bbox": [
+    -91.210145,
+    43.777449,
+    -91.210145,
+    43.777449
+],
   "geometry": {"coordinates":[-91.210145,43.777449],"type":"Point"}
 }

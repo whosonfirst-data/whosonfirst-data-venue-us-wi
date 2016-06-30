@@ -2,13 +2,14 @@
   "id": 185702665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.52193,43.96874,-88.52193,43.96874",
     "geom:latitude":43.96874,
     "geom:longitude":-88.52193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3720 Pau-Ko-Tuk Ln",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185702665,
-    "wof:lastmodified":1449007430,
+    "wof:lastmodified":1467089884,
     "wof:name":"Au Courant Systems",
     "wof:parent_id":85840915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.52193,43.96874,-88.52193,43.96874],
+  "bbox": [
+    -88.52193,
+    43.96874,
+    -88.52193,
+    43.96874
+],
   "geometry": {"coordinates":[-88.52193,43.96874],"type":"Point"}
 }

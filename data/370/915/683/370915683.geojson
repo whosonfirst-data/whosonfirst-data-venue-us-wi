@@ -2,13 +2,14 @@
   "id": 370915683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.905984,43.034659,-87.905984,43.034659",
     "geom:latitude":43.034659,
     "geom:longitude":-87.905984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"338 N Milwaukee St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370915683,
-    "wof:lastmodified":1449032430,
+    "wof:lastmodified":1467089907,
     "wof:name":"Executive Recruitment Sltns",
     "wof:parent_id":85871001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "executive"
     ]
 },
-  "bbox": [-87.905984,43.034659,-87.905984,43.034659],
+  "bbox": [
+    -87.905984,
+    43.034659,
+    -87.905984,
+    43.034659
+],
   "geometry": {"coordinates":[-87.905984,43.034659],"type":"Point"}
 }

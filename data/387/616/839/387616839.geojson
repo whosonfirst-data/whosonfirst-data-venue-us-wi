@@ -2,13 +2,14 @@
   "id": 387616839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.445456,44.776725,-91.445456,44.776725",
     "geom:latitude":44.776725,
     "geom:longitude":-91.445456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3430 Oakwood Mall Dr",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387616839,
-    "wof:lastmodified":1449058902,
+    "wof:lastmodified":1467089930,
     "wof:name":"Parroni Siedow & Jackson",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-91.445456,44.776725,-91.445456,44.776725],
-  "geometry": {"coordinates":[-91.445456,44.776725],"type":"Point"}
+  "bbox": [
+    -91.445456,
+    44.776725,
+    -91.445456,
+    44.776725
+],
+  "geometry": {"coordinates":[-91.44545599999999,44.776725],"type":"Point"}
 }

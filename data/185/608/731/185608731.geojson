@@ -2,13 +2,14 @@
   "id": 185608731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.544936,44.002592,-88.544936,44.002592",
     "geom:latitude":44.002592,
     "geom:longitude":-88.544936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1658 Minnesota St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185608731,
-    "wof:lastmodified":1449007297,
+    "wof:lastmodified":1467089884,
     "wof:name":"Vienola Brothers",
     "wof:parent_id":85851167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.544936,44.002592,-88.544936,44.002592],
-  "geometry": {"coordinates":[-88.544936,44.002592],"type":"Point"}
+  "bbox": [
+    -88.544936,
+    44.002592,
+    -88.544936,
+    44.002592
+],
+  "geometry": {"coordinates":[-88.54493600000001,44.002592],"type":"Point"}
 }

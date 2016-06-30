@@ -2,13 +2,14 @@
   "id": 337615387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.619636,44.929567,-89.619636,44.929567",
     "geom:latitude":44.929567,
     "geom:longitude":-89.619636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 Emerson St",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337615387,
-    "wof:lastmodified":1449027204,
+    "wof:lastmodified":1467089893,
     "wof:name":"Home Direct Technologies LLC",
     "wof:parent_id":85854809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.619636,44.929567,-89.619636,44.929567],
+  "bbox": [
+    -89.619636,
+    44.929567,
+    -89.619636,
+    44.929567
+],
   "geometry": {"coordinates":[-89.619636,44.929567],"type":"Point"}
 }

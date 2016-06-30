@@ -2,13 +2,14 @@
   "id": 370156003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.488673,45.514636,-92.488673,45.514636",
     "geom:latitude":45.514636,
     "geom:longitude":-92.488673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2196 160th St",
     "sg:city":"Milltown",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370156003,
-    "wof:lastmodified":1449029762,
+    "wof:lastmodified":1467089899,
     "wof:name":"Valley Moulding Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "wood"
     ]
 },
-  "bbox": [-92.488673,45.514636,-92.488673,45.514636],
-  "geometry": {"coordinates":[-92.488673,45.514636],"type":"Point"}
+  "bbox": [
+    -92.488673,
+    45.514636,
+    -92.488673,
+    45.514636
+],
+  "geometry": {"coordinates":[-92.48867300000001,45.514636],"type":"Point"}
 }

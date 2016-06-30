@@ -2,13 +2,14 @@
   "id": 353622827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.836638,43.455227,-88.836638,43.455227",
     "geom:latitude":43.455227,
     "geom:longitude":-88.836638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Washington St",
     "sg:city":"Wyocena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353622827,
-    "wof:lastmodified":1449020361,
+    "wof:lastmodified":1467089891,
     "wof:name":"Wyocena Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-88.836638,43.455227,-88.836638,43.455227],
-  "geometry": {"coordinates":[-88.836638,43.455227],"type":"Point"}
+  "bbox": [
+    -88.836638,
+    43.455227,
+    -88.836638,
+    43.455227
+],
+  "geometry": {"coordinates":[-88.83663799999999,43.455227],"type":"Point"}
 }

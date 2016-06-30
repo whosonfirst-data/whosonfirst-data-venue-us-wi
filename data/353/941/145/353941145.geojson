@@ -2,13 +2,14 @@
   "id": 353941145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.726375,43.193323,-88.726375,43.193323",
     "geom:latitude":43.193323,
     "geom:longitude":-88.726375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 S Water St",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353941145,
-    "wof:lastmodified":1449019795,
+    "wof:lastmodified":1467089890,
     "wof:name":"Taste Of Yesterday",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.726375,43.193323,-88.726375,43.193323],
+  "bbox": [
+    -88.726375,
+    43.193323,
+    -88.726375,
+    43.193323
+],
   "geometry": {"coordinates":[-88.726375,43.193323],"type":"Point"}
 }

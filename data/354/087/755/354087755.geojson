@@ -2,13 +2,14 @@
   "id": 354087755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.150328,43.808368,-91.150328,43.808368",
     "geom:latitude":43.808368,
     "geom:longitude":-91.150328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4947 Troy Rd",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354087755,
-    "wof:lastmodified":1449066702,
+    "wof:lastmodified":1467089935,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.150328,43.808368,-91.150328,43.808368],
+  "bbox": [
+    -91.150328,
+    43.808368,
+    -91.150328,
+    43.808368
+],
   "geometry": {"coordinates":[-91.150328,43.808368],"type":"Point"}
 }

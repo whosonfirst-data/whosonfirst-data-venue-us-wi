@@ -2,13 +2,14 @@
   "id": 387687839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.894455,43.015403,-89.894455,43.015403",
     "geom:latitude":43.015403,
     "geom:longitude":-89.894455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 E Orbison St",
     "sg:city":"Barneveld",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387687839,
-    "wof:lastmodified":1449057164,
+    "wof:lastmodified":1467089924,
     "wof:name":"Quantum Devices Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-89.894455,43.015403,-89.894455,43.015403],
-  "geometry": {"coordinates":[-89.894455,43.015403],"type":"Point"}
+  "bbox": [
+    -89.894455,
+    43.015403,
+    -89.894455,
+    43.015403
+],
+  "geometry": {"coordinates":[-89.89445499999999,43.015403],"type":"Point"}
 }

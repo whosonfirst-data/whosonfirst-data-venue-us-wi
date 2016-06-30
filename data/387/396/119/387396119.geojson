@@ -2,13 +2,14 @@
   "id": 387396119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.496787,43.033796,-89.496787,43.033796",
     "geom:latitude":43.033796,
     "geom:longitude":-89.496787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Mc Kenna Blvd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387396119,
-    "wof:lastmodified":1449058607,
+    "wof:lastmodified":1467089929,
     "wof:name":"Our Redeemer Lutheran School",
     "wof:parent_id":85878885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.496787,43.033796,-89.496787,43.033796],
+  "bbox": [
+    -89.496787,
+    43.033796,
+    -89.496787,
+    43.033796
+],
   "geometry": {"coordinates":[-89.496787,43.033796],"type":"Point"}
 }

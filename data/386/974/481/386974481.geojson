@@ -2,13 +2,14 @@
   "id": 386974481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.186476,43.443014,-88.186476,43.443014",
     "geom:latitude":43.443014,
     "geom:longitude":-88.186476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 School Pl",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":386974481,
-    "wof:lastmodified":1449028919,
+    "wof:lastmodified":1467089897,
     "wof:name":"Barton Elementary School",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.186476,43.443014,-88.186476,43.443014],
+  "bbox": [
+    -88.186476,
+    43.443014,
+    -88.186476,
+    43.443014
+],
   "geometry": {"coordinates":[-88.186476,43.443014],"type":"Point"}
 }

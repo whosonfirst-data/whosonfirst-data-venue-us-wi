@@ -2,13 +2,14 @@
   "id": 169758509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.61279,44.019628,-88.61279,44.019628",
     "geom:latitude":44.019628,
     "geom:longitude":-88.61279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Overland Trl",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169758509,
-    "wof:lastmodified":1449033682,
+    "wof:lastmodified":1467089908,
     "wof:name":"LA Plant Financial Group",
     "wof:parent_id":85819403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-88.61279,44.019628,-88.61279,44.019628],
+  "bbox": [
+    -88.61279,
+    44.019628,
+    -88.61279,
+    44.019628
+],
   "geometry": {"coordinates":[-88.61279,44.019628],"type":"Point"}
 }

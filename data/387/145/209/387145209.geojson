@@ -2,13 +2,14 @@
   "id": 387145209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.952454,43.130521,-87.952454,43.130521",
     "geom:latitude":43.130521,
     "geom:longitude":-87.952454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6043 N Teutonia Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387145209,
-    "wof:lastmodified":1449057261,
+    "wof:lastmodified":1467089924,
     "wof:name":"Sidekicks Taekwondo Academy",
     "wof:parent_id":85870803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-87.952454,43.130521,-87.952454,43.130521],
+  "bbox": [
+    -87.952454,
+    43.130521,
+    -87.952454,
+    43.130521
+],
   "geometry": {"coordinates":[-87.952454,43.130521],"type":"Point"}
 }

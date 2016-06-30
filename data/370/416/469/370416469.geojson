@@ -2,13 +2,14 @@
   "id": 370416469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.252854,44.668618,-88.252854,44.668618",
     "geom:latitude":44.668618,
     "geom:longitude":-88.252854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 Steno Trl",
     "sg:city":"Pulaski",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370416469,
-    "wof:lastmodified":1449030620,
+    "wof:lastmodified":1467089902,
     "wof:name":"Gwidt Electric LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.252854,44.668618,-88.252854,44.668618],
+  "bbox": [
+    -88.252854,
+    44.668618,
+    -88.252854,
+    44.668618
+],
   "geometry": {"coordinates":[-88.252854,44.668618],"type":"Point"}
 }

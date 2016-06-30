@@ -2,13 +2,14 @@
   "id": 337460375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.062345,42.9365,-88.062345,42.9365",
     "geom:latitude":42.9365,
     "geom:longitude":-88.062345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12065 W Janesville Rd",
     "sg:city":"Hales Corners",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337460375,
-    "wof:lastmodified":1449027693,
+    "wof:lastmodified":1467089895,
     "wof:name":"Eugene E Detert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.062345,42.9365,-88.062345,42.9365],
-  "geometry": {"coordinates":[-88.062345,42.9365],"type":"Point"}
+  "bbox": [
+    -88.062345,
+    42.9365,
+    -88.062345,
+    42.9365
+],
+  "geometry": {"coordinates":[-88.06234499999999,42.9365],"type":"Point"}
 }

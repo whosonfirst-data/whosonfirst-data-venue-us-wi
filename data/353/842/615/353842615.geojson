@@ -2,13 +2,14 @@
   "id": 353842615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.981307,44.492482,-87.981307,44.492482",
     "geom:latitude":44.492482,
     "geom:longitude":-87.981307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1734 E Mason St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353842615,
-    "wof:lastmodified":1449018446,
+    "wof:lastmodified":1467089887,
     "wof:name":"Feature Fitness Plus",
     "wof:parent_id":85877953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-87.981307,44.492482,-87.981307,44.492482],
+  "bbox": [
+    -87.981307,
+    44.492482,
+    -87.981307,
+    44.492482
+],
   "geometry": {"coordinates":[-87.981307,44.492482],"type":"Point"}
 }

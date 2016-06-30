@@ -2,13 +2,14 @@
   "id": 354041785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.058361,42.681368,-88.058361,42.681368",
     "geom:latitude":42.681368,
     "geom:longitude":-88.058361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 15th Ave",
     "sg:city":"Union Grove",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354041785,
-    "wof:lastmodified":1449066525,
+    "wof:lastmodified":1467089935,
     "wof:name":"Old Settlers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-88.058361,42.681368,-88.058361,42.681368],
+  "bbox": [
+    -88.058361,
+    42.681368,
+    -88.058361,
+    42.681368
+],
   "geometry": {"coordinates":[-88.058361,42.681368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354094715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.923251,43.486584,-90.923251,43.486584",
     "geom:latitude":43.486584,
     "geom:longitude":-90.923251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6305 Hornby Hollow Rd",
     "sg:city":"Viroqua",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354094715,
-    "wof:lastmodified":1449067022,
+    "wof:lastmodified":1467089936,
     "wof:name":"Furnace Room",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.923251,43.486584,-90.923251,43.486584],
-  "geometry": {"coordinates":[-90.923251,43.486584],"type":"Point"}
+  "bbox": [
+    -90.923251,
+    43.486584,
+    -90.923251,
+    43.486584
+],
+  "geometry": {"coordinates":[-90.92325099999999,43.486584],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185987767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.168706,43.426757,-88.168706,43.426757",
     "geom:latitude":43.426757,
     "geom:longitude":-88.168706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"770 State Rd 33 E",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185987767,
-    "wof:lastmodified":1449007506,
+    "wof:lastmodified":1467089884,
     "wof:name":"Hembel Improvements",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "improvement"
     ]
 },
-  "bbox": [-88.168706,43.426757,-88.168706,43.426757],
+  "bbox": [
+    -88.168706,
+    43.426757,
+    -88.168706,
+    43.426757
+],
   "geometry": {"coordinates":[-88.168706,43.426757],"type":"Point"}
 }

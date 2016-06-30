@@ -2,13 +2,14 @@
   "id": 185845449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.052085,44.608261,-89.052085,44.608261",
     "geom:latitude":44.608261,
     "geom:longitude":-89.052085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3636 Kitzman Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185845449,
-    "wof:lastmodified":1449006876,
+    "wof:lastmodified":1467089883,
     "wof:name":"Forrest View Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-89.052085,44.608261,-89.052085,44.608261],
-  "geometry": {"coordinates":[-89.052085,44.608261],"type":"Point"}
+  "bbox": [
+    -89.052085,
+    44.608261,
+    -89.052085,
+    44.608261
+],
+  "geometry": {"coordinates":[-89.05208500000001,44.608261],"type":"Point"}
 }

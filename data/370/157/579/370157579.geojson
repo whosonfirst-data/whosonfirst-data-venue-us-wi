@@ -2,13 +2,14 @@
   "id": 370157579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.984833,43.126696,-87.984833,43.126696",
     "geom:latitude":43.126696,
     "geom:longitude":-87.984833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5610 W Florist Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370157579,
-    "wof:lastmodified":1449031989,
+    "wof:lastmodified":1467089906,
     "wof:name":"Furnace Control Corp",
     "wof:parent_id":85870807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.984833,43.126696,-87.984833,43.126696],
-  "geometry": {"coordinates":[-87.984833,43.126696],"type":"Point"}
+  "bbox": [
+    -87.984833,
+    43.126696,
+    -87.984833,
+    43.126696
+],
+  "geometry": {"coordinates":[-87.98483299999999,43.126696],"type":"Point"}
 }

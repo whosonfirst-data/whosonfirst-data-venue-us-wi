@@ -2,13 +2,14 @@
   "id": 370775693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.138051,43.060522,-88.138051,43.060522",
     "geom:latitude":43.060522,
     "geom:longitude":-88.138051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18350 Colline Vue Blvd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370775693,
-    "wof:lastmodified":1449031597,
+    "wof:lastmodified":1467089905,
     "wof:name":"Net Techlgy Svcs",
     "wof:parent_id":85832419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.138051,43.060522,-88.138051,43.060522],
+  "bbox": [
+    -88.138051,
+    43.060522,
+    -88.138051,
+    43.060522
+],
   "geometry": {"coordinates":[-88.138051,43.060522],"type":"Point"}
 }

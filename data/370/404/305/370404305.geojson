@@ -2,13 +2,14 @@
   "id": 370404305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.68748,43.798587,-90.68748,43.798587",
     "geom:latitude":43.798587,
     "geom:longitude":-90.68748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26375 Co Hwy U",
     "sg:city":"Cashton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370404305,
-    "wof:lastmodified":1449031323,
+    "wof:lastmodified":1467089904,
     "wof:name":"Mel's Trucking LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-90.68748,43.798587,-90.68748,43.798587],
-  "geometry": {"coordinates":[-90.68748,43.798587],"type":"Point"}
+  "bbox": [
+    -90.68748,
+    43.798587,
+    -90.68748,
+    43.798587
+],
+  "geometry": {"coordinates":[-90.68747999999999,43.798587],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404217897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.941888,43.004775,-87.941888,43.004775",
     "geom:latitude":43.004775,
     "geom:longitude":-87.941888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 W Forest Home Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":404217897,
-    "wof:lastmodified":1449040271,
+    "wof:lastmodified":1467089911,
     "wof:name":"Class Reunion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-87.941888,43.004775,-87.941888,43.004775],
-  "geometry": {"coordinates":[-87.941888,43.004775],"type":"Point"}
+  "bbox": [
+    -87.941888,
+    43.004775,
+    -87.941888,
+    43.004775
+],
+  "geometry": {"coordinates":[-87.94188800000001,43.004775],"type":"Point"}
 }

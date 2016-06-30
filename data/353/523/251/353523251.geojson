@@ -2,13 +2,14 @@
   "id": 353523251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.914515,44.874398,-91.914515,44.874398",
     "geom:latitude":44.874398,
     "geom:longitude":-91.914515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 13th St SE",
     "sg:city":"Menomonie",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353523251,
-    "wof:lastmodified":1449019727,
+    "wof:lastmodified":1467089889,
     "wof:name":"Hansen Heritage House Inn The",
     "wof:parent_id":85837813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "accommodation"
     ]
 },
-  "bbox": [-91.914515,44.874398,-91.914515,44.874398],
-  "geometry": {"coordinates":[-91.914515,44.874398],"type":"Point"}
+  "bbox": [
+    -91.914515,
+    44.874398,
+    -91.914515,
+    44.874398
+],
+  "geometry": {"coordinates":[-91.91451499999999,44.874398],"type":"Point"}
 }

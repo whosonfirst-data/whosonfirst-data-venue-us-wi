@@ -2,13 +2,14 @@
   "id": 387448343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.283563,44.920348,-92.283563,44.920348",
     "geom:latitude":44.920348,
     "geom:longitude":-92.283563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2531 42nd Ave",
     "sg:city":"Woodville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387448343,
-    "wof:lastmodified":1449059737,
+    "wof:lastmodified":1467089932,
     "wof:name":"Donald Zignego Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.283563,44.920348,-92.283563,44.920348],
+  "bbox": [
+    -92.283563,
+    44.920348,
+    -92.283563,
+    44.920348
+],
   "geometry": {"coordinates":[-92.283563,44.920348],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185598031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.015554,42.963181,-88.015554,42.963181",
     "geom:latitude":42.963181,
     "geom:longitude":-88.015554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8101 W Allerton Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185598031,
-    "wof:lastmodified":1449006664,
+    "wof:lastmodified":1467089883,
     "wof:name":"Drapes Landscaping",
     "wof:parent_id":85870865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.015554,42.963181,-88.015554,42.963181],
-  "geometry": {"coordinates":[-88.015554,42.963181],"type":"Point"}
+  "bbox": [
+    -88.015554,
+    42.963181,
+    -88.015554,
+    42.963181
+],
+  "geometry": {"coordinates":[-88.01555399999999,42.963181],"type":"Point"}
 }

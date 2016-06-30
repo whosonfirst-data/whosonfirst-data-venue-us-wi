@@ -2,13 +2,14 @@
   "id": 337404397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.616901,44.864551,-92.616901,44.864551",
     "geom:latitude":44.864551,
     "geom:longitude":-92.616901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 Union St",
     "sg:city":"River Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337404397,
-    "wof:lastmodified":1449027495,
+    "wof:lastmodified":1467089895,
     "wof:name":"Kinnic Storage & Invstmnt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-92.616901,44.864551,-92.616901,44.864551],
+  "bbox": [
+    -92.616901,
+    44.864551,
+    -92.616901,
+    44.864551
+],
   "geometry": {"coordinates":[-92.616901,44.864551],"type":"Point"}
 }

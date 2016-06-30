@@ -2,13 +2,14 @@
   "id": 404098877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.012056,44.512818,-88.012056,44.512818",
     "geom:latitude":44.512818,
     "geom:longitude":-88.012056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 E Walnut St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404098877,
-    "wof:lastmodified":1449040205,
+    "wof:lastmodified":1467089911,
     "wof:name":"Weber Financial Svc",
     "wof:parent_id":85877935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-88.012056,44.512818,-88.012056,44.512818],
+  "bbox": [
+    -88.012056,
+    44.512818,
+    -88.012056,
+    44.512818
+],
   "geometry": {"coordinates":[-88.012056,44.512818],"type":"Point"}
 }

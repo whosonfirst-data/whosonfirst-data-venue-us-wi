@@ -2,13 +2,14 @@
   "id": 370347863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.250362,42.538236,-88.250362,42.538236",
     "geom:latitude":42.538236,
     "geom:longitude":-88.250362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"339 Holy Hill Rd",
     "sg:city":"Twin Lakes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370347863,
-    "wof:lastmodified":1449030731,
+    "wof:lastmodified":1467089902,
     "wof:name":"Mjk Industries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fastener"
     ]
 },
-  "bbox": [-88.250362,42.538236,-88.250362,42.538236],
+  "bbox": [
+    -88.250362,
+    42.538236,
+    -88.250362,
+    42.538236
+],
   "geometry": {"coordinates":[-88.250362,42.538236],"type":"Point"}
 }

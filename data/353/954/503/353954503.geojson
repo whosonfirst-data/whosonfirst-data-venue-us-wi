@@ -2,13 +2,14 @@
   "id": 353954503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.054694,44.629493,-88.054694,44.629493",
     "geom:latitude":44.629493,
     "geom:longitude":-88.054694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3083 Bowling Green Ln",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353954503,
-    "wof:lastmodified":1449020480,
+    "wof:lastmodified":1467089891,
     "wof:name":"Ray's Welding & Custom Steel",
     "wof:parent_id":85852587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "structural"
     ]
 },
-  "bbox": [-88.054694,44.629493,-88.054694,44.629493],
+  "bbox": [
+    -88.054694,
+    44.629493,
+    -88.054694,
+    44.629493
+],
   "geometry": {"coordinates":[-88.054694,44.629493],"type":"Point"}
 }

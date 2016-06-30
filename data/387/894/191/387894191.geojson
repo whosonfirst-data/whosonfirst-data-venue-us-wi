@@ -2,13 +2,14 @@
   "id": 387894191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.001219,42.99546,-90.001219,42.99546",
     "geom:latitude":42.99546,
     "geom:longitude":-90.001219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Lorraine Ct",
     "sg:city":"Ridgeway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387894191,
-    "wof:lastmodified":1449057673,
+    "wof:lastmodified":1467089926,
     "wof:name":"Cornerstone Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-90.001219,42.99546,-90.001219,42.99546],
-  "geometry": {"coordinates":[-90.001219,42.99546],"type":"Point"}
+  "bbox": [
+    -90.001219,
+    42.99546,
+    -90.001219,
+    42.99546
+],
+  "geometry": {"coordinates":[-90.00121900000001,42.99546],"type":"Point"}
 }

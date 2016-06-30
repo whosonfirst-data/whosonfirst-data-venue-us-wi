@@ -2,13 +2,14 @@
   "id": 370971825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.00735,43.835015,-88.00735,43.835015",
     "geom:latitude":43.835015,
     "geom:longitude":-88.00735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Crestwood Dr",
     "sg:city":"Elkhart Lake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370971825,
-    "wof:lastmodified":1449030793,
+    "wof:lastmodified":1467089902,
     "wof:name":"J&A Builders",
     "wof:parent_id":85836705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.00735,43.835015,-88.00735,43.835015],
+  "bbox": [
+    -88.00735,
+    43.835015,
+    -88.00735,
+    43.835015
+],
   "geometry": {"coordinates":[-88.00735,43.835015],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387069631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.013822,42.959168,-88.013822,42.959168",
     "geom:latitude":42.959168,
     "geom:longitude":-88.013822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7631 W Layton Ave",
     "sg:city":"Greenfield",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387069631,
-    "wof:lastmodified":1449058514,
+    "wof:lastmodified":1467089928,
     "wof:name":"Kohart Inc",
     "wof:parent_id":85870865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.013822,42.959168,-88.013822,42.959168],
+  "bbox": [
+    -88.013822,
+    42.959168,
+    -88.013822,
+    42.959168
+],
   "geometry": {"coordinates":[-88.013822,42.959168],"type":"Point"}
 }

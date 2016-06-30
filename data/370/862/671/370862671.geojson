@@ -2,13 +2,14 @@
   "id": 370862671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.335977,43.093107,-88.335977,43.093107",
     "geom:latitude":43.093107,
     "geom:longitude":-88.335977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 Coventry Ln",
     "sg:city":"Hartland",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370862671,
-    "wof:lastmodified":1449032563,
+    "wof:lastmodified":1467089907,
     "wof:name":"Bacon Mobility Inc",
     "wof:parent_id":85808383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "ramp"
     ]
 },
-  "bbox": [-88.335977,43.093107,-88.335977,43.093107],
+  "bbox": [
+    -88.335977,
+    43.093107,
+    -88.335977,
+    43.093107
+],
   "geometry": {"coordinates":[-88.335977,43.093107],"type":"Point"}
 }

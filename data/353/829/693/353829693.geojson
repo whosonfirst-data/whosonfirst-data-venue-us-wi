@@ -2,13 +2,14 @@
   "id": 353829693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.034461,44.503913,-88.034461,44.503913",
     "geom:latitude":44.503913,
     "geom:longitude":-88.034461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 9th St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353829693,
-    "wof:lastmodified":1449020625,
+    "wof:lastmodified":1467089891,
     "wof:name":"Maintenance Associates",
     "wof:parent_id":85877931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-88.034461,44.503913,-88.034461,44.503913],
-  "geometry": {"coordinates":[-88.034461,44.503913],"type":"Point"}
+  "bbox": [
+    -88.034461,
+    44.503913,
+    -88.034461,
+    44.503913
+],
+  "geometry": {"coordinates":[-88.03446099999999,44.503913],"type":"Point"}
 }

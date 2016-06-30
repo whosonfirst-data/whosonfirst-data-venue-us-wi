@@ -2,13 +2,14 @@
   "id": 337309267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.064049,44.523665,-88.064049,44.523665",
     "geom:latitude":44.523665,
     "geom:longitude":-88.064049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 S Military Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337309267,
-    "wof:lastmodified":1449027109,
+    "wof:lastmodified":1467089893,
     "wof:name":"Party Perfect",
     "wof:parent_id":85877951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "licensed"
     ]
 },
-  "bbox": [-88.064049,44.523665,-88.064049,44.523665],
+  "bbox": [
+    -88.064049,
+    44.523665,
+    -88.064049,
+    44.523665
+],
   "geometry": {"coordinates":[-88.064049,44.523665],"type":"Point"}
 }

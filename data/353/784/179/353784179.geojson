@@ -2,13 +2,14 @@
   "id": 353784179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.44756,44.796781,-91.44756,44.796781",
     "geom:latitude":44.796781,
     "geom:longitude":-91.44756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2228 N Hillcrest Pkwy",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353784179,
-    "wof:lastmodified":1449019952,
+    "wof:lastmodified":1467089890,
     "wof:name":"Federated Insurance",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-91.44756,44.796781,-91.44756,44.796781],
+  "bbox": [
+    -91.44756,
+    44.796781,
+    -91.44756,
+    44.796781
+],
   "geometry": {"coordinates":[-91.44756,44.796781],"type":"Point"}
 }

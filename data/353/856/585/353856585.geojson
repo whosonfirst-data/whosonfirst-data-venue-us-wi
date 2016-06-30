@@ -2,13 +2,14 @@
   "id": 353856585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.863092,42.734573,-87.863092,42.734573",
     "geom:latitude":42.734573,
     "geom:longitude":-87.863092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 N Sunnyslope Dr",
     "sg:city":"Racine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353856585,
-    "wof:lastmodified":1449018994,
+    "wof:lastmodified":1467089888,
     "wof:name":"Spring Creek Condominiums",
     "wof:parent_id":85854859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-87.863092,42.734573,-87.863092,42.734573],
-  "geometry": {"coordinates":[-87.863092,42.734573],"type":"Point"}
+  "bbox": [
+    -87.863092,
+    42.734573,
+    -87.863092,
+    42.734573
+],
+  "geometry": {"coordinates":[-87.86309199999999,42.734573],"type":"Point"}
 }

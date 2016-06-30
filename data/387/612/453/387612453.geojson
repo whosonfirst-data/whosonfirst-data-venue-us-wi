@@ -2,13 +2,14 @@
   "id": 387612453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.268855,44.167343,-91.268855,44.167343",
     "geom:latitude":44.167343,
     "geom:longitude":-91.268855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22653 S Main St",
     "sg:city":"Ettrick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387612453,
-    "wof:lastmodified":1449057789,
+    "wof:lastmodified":1467089926,
     "wof:name":"John Ashland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-91.268855,44.167343,-91.268855,44.167343],
+  "bbox": [
+    -91.268855,
+    44.167343,
+    -91.268855,
+    44.167343
+],
   "geometry": {"coordinates":[-91.268855,44.167343],"type":"Point"}
 }

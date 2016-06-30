@@ -2,13 +2,14 @@
   "id": 354319795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.518801,44.244959,-87.518801,44.244959",
     "geom:latitude":44.244959,
     "geom:longitude":-87.518801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11931 Sand Bay Rd",
     "sg:city":"Two Rivers",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354319795,
-    "wof:lastmodified":1449066612,
+    "wof:lastmodified":1467089935,
     "wof:name":"Kilarski Enterprises",
     "wof:parent_id":85827947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.518801,44.244959,-87.518801,44.244959],
+  "bbox": [
+    -87.518801,
+    44.244959,
+    -87.518801,
+    44.244959
+],
   "geometry": {"coordinates":[-87.518801,44.244959],"type":"Point"}
 }

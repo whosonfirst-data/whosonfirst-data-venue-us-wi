@@ -2,13 +2,14 @@
   "id": 387681107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.343141,43.114222,-88.343141,43.114222",
     "geom:latitude":43.114222,
     "geom:longitude":-88.343141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"651 North Ave",
     "sg:city":"Hartland",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387681107,
-    "wof:lastmodified":1449058429,
+    "wof:lastmodified":1467089928,
     "wof:name":"B & P Sheet Metal Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.343141,43.114222,-88.343141,43.114222],
+  "bbox": [
+    -88.343141,
+    43.114222,
+    -88.343141,
+    43.114222
+],
   "geometry": {"coordinates":[-88.343141,43.114222],"type":"Point"}
 }

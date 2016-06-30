@@ -2,13 +2,14 @@
   "id": 403901331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.790428,42.78941,-87.790428,42.78941",
     "geom:latitude":42.78941,
     "geom:longitude":-87.790428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 Hialeah Dr",
     "sg:city":"Racine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403901331,
-    "wof:lastmodified":1449055186,
+    "wof:lastmodified":1467089919,
     "wof:name":"Cosmo International Corp",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "export"
     ]
 },
-  "bbox": [-87.790428,42.78941,-87.790428,42.78941],
-  "geometry": {"coordinates":[-87.790428,42.78941],"type":"Point"}
+  "bbox": [
+    -87.790428,
+    42.78941,
+    -87.790428,
+    42.78941
+],
+  "geometry": {"coordinates":[-87.79042800000001,42.78941],"type":"Point"}
 }

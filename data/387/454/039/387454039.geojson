@@ -2,13 +2,14 @@
   "id": 387454039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.057201,43.02959,-88.057201,43.02959",
     "geom:latitude":43.02959,
     "geom:longitude":-88.057201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 S 116th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387454039,
-    "wof:lastmodified":1449059557,
+    "wof:lastmodified":1467089932,
     "wof:name":"Gutter Store The",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.057201,43.02959,-88.057201,43.02959],
-  "geometry": {"coordinates":[-88.057201,43.02959],"type":"Point"}
+  "bbox": [
+    -88.057201,
+    43.02959,
+    -88.057201,
+    43.02959
+],
+  "geometry": {"coordinates":[-88.05720100000001,43.02959],"type":"Point"}
 }

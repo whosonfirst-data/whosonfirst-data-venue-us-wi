@@ -2,13 +2,14 @@
   "id": 169844051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.492211,43.0591,-89.492211,43.0591",
     "geom:latitude":43.0591,
     "geom:longitude":-89.492211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6515 Grand Teton Plz",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169844051,
-    "wof:lastmodified":1449034077,
+    "wof:lastmodified":1467089908,
     "wof:name":"Corporate Plans & Svc",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.492211,43.0591,-89.492211,43.0591],
+  "bbox": [
+    -89.492211,
+    43.0591,
+    -89.492211,
+    43.0591
+],
   "geometry": {"coordinates":[-89.492211,43.0591],"type":"Point"}
 }

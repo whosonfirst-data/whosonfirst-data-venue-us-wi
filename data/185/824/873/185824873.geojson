@@ -2,13 +2,14 @@
   "id": 185824873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.00942,44.488196,-88.00942,44.488196",
     "geom:latitude":44.488196,
     "geom:longitude":-88.00942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Kalb Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185824873,
-    "wof:lastmodified":1449007157,
+    "wof:lastmodified":1467089884,
     "wof:name":"B & D Water Meter Test-Repair",
     "wof:parent_id":85877931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instrument"
     ]
 },
-  "bbox": [-88.00942,44.488196,-88.00942,44.488196],
-  "geometry": {"coordinates":[-88.00942,44.488196],"type":"Point"}
+  "bbox": [
+    -88.00942,
+    44.488196,
+    -88.00942,
+    44.488196
+],
+  "geometry": {"coordinates":[-88.00942000000001,44.488196],"type":"Point"}
 }

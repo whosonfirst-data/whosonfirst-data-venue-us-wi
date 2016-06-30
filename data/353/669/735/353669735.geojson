@@ -2,13 +2,14 @@
   "id": 353669735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.910175,43.105532,-87.910175,43.105532",
     "geom:latitude":43.105532,
     "geom:longitude":-87.910175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4891 N Anita Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353669735,
-    "wof:lastmodified":1449018546,
+    "wof:lastmodified":1467089887,
     "wof:name":"Annies Baskets",
     "wof:parent_id":85870875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.910175,43.105532,-87.910175,43.105532],
+  "bbox": [
+    -87.910175,
+    43.105532,
+    -87.910175,
+    43.105532
+],
   "geometry": {"coordinates":[-87.910175,43.105532],"type":"Point"}
 }

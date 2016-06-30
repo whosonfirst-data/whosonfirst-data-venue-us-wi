@@ -2,13 +2,14 @@
   "id": 354417031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.99648,44.357571,-87.99648,44.357571",
     "geom:latitude":44.357571,
     "geom:longitude":-87.99648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3735 Shirley Rd",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354417031,
-    "wof:lastmodified":1449066616,
+    "wof:lastmodified":1467089935,
     "wof:name":"Immanuel Lthran Church-W E L S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.99648,44.357571,-87.99648,44.357571],
-  "geometry": {"coordinates":[-87.99648,44.357571],"type":"Point"}
+  "bbox": [
+    -87.99648,
+    44.357571,
+    -87.99648,
+    44.357571
+],
+  "geometry": {"coordinates":[-87.99648000000001,44.357571],"type":"Point"}
 }

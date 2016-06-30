@@ -2,13 +2,14 @@
   "id": 370753397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.489496,44.791252,-91.489496,44.791252",
     "geom:latitude":44.791252,
     "geom:longitude":-91.489496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2605 May St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370753397,
-    "wof:lastmodified":1449029486,
+    "wof:lastmodified":1467089899,
     "wof:name":"Harmon Concrete & Constr Inc",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "residential"
     ]
 },
-  "bbox": [-91.489496,44.791252,-91.489496,44.791252],
+  "bbox": [
+    -91.489496,
+    44.791252,
+    -91.489496,
+    44.791252
+],
   "geometry": {"coordinates":[-91.489496,44.791252],"type":"Point"}
 }

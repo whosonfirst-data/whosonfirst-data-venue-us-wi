@@ -2,13 +2,14 @@
   "id": 186139021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.949239,43.001812,-87.949239,43.001812",
     "geom:latitude":43.001812,
     "geom:longitude":-87.949239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2326 S 28th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186139021,
-    "wof:lastmodified":1449050496,
+    "wof:lastmodified":1467089914,
     "wof:name":"BNT Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-87.949239,43.001812,-87.949239,43.001812],
-  "geometry": {"coordinates":[-87.949239,43.001812],"type":"Point"}
+  "bbox": [
+    -87.949239,
+    43.001812,
+    -87.949239,
+    43.001812
+],
+  "geometry": {"coordinates":[-87.94923900000001,43.001812],"type":"Point"}
 }

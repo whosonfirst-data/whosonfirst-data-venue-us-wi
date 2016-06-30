@@ -2,13 +2,14 @@
   "id": 370601103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.911169,43.020418,-87.911169,43.020418",
     "geom:latitude":43.020418,
     "geom:longitude":-87.911169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 S 1st St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":370601103,
-    "wof:lastmodified":1449030611,
+    "wof:lastmodified":1467089902,
     "wof:name":"Midwest Food Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [-87.911169,43.020418,-87.911169,43.020418],
+  "bbox": [
+    -87.911169,
+    43.020418,
+    -87.911169,
+    43.020418
+],
   "geometry": {"coordinates":[-87.911169,43.020418],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370229595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.691786,45.03058,-89.691786,45.03058",
     "geom:latitude":45.03058,
     "geom:longitude":-89.691786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6585 Co Rd K",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370229595,
-    "wof:lastmodified":1449031798,
+    "wof:lastmodified":1467089905,
     "wof:name":"Helke/Rakow Builders",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-89.691786,45.03058,-89.691786,45.03058],
-  "geometry": {"coordinates":[-89.691786,45.03058],"type":"Point"}
+  "bbox": [
+    -89.691786,
+    45.03058,
+    -89.691786,
+    45.03058
+],
+  "geometry": {"coordinates":[-89.69178599999999,45.03058],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387460345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.857372,44.343865,-89.857372,44.343865",
     "geom:latitude":44.343865,
     "geom:longitude":-89.857372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Wisconsin River Dr",
     "sg:city":"Port Edwards",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387460345,
-    "wof:lastmodified":1449059704,
+    "wof:lastmodified":1467089932,
     "wof:name":"Port Edwrds Untd Mthdst Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.857372,44.343865,-89.857372,44.343865],
+  "bbox": [
+    -89.857372,
+    44.343865,
+    -89.857372,
+    44.343865
+],
   "geometry": {"coordinates":[-89.857372,44.343865],"type":"Point"}
 }

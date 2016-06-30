@@ -2,13 +2,14 @@
   "id": 370639121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.908383,43.038684,-87.908383,43.038684",
     "geom:latitude":43.038684,
     "geom:longitude":-87.908383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 E Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370639121,
-    "wof:lastmodified":1449032451,
+    "wof:lastmodified":1467089907,
     "wof:name":"Ziegler Companies Inc",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "banker"
     ]
 },
-  "bbox": [-87.908383,43.038684,-87.908383,43.038684],
+  "bbox": [
+    -87.908383,
+    43.038684,
+    -87.908383,
+    43.038684
+],
   "geometry": {"coordinates":[-87.908383,43.038684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371177783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.458404,44.269014,-88.458404,44.269014",
     "geom:latitude":44.269014,
     "geom:longitude":-88.458404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3441 W Highview Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371177783,
-    "wof:lastmodified":1449050136,
+    "wof:lastmodified":1467089914,
     "wof:name":"Wire Tech Inc",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-88.458404,44.269014,-88.458404,44.269014],
+  "bbox": [
+    -88.458404,
+    44.269014,
+    -88.458404,
+    44.269014
+],
   "geometry": {"coordinates":[-88.458404,44.269014],"type":"Point"}
 }

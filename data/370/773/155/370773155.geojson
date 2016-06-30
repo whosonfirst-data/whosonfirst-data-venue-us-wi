@@ -2,13 +2,14 @@
   "id": 370773155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.952396,45.375634,-87.952396,45.375634",
     "geom:latitude":45.375634,
     "geom:longitude":-87.952396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"629 Main St",
     "sg:city":"Wausaukee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370773155,
-    "wof:lastmodified":1449029521,
+    "wof:lastmodified":1467089899,
     "wof:name":"Variety Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.952396,45.375634,-87.952396,45.375634],
-  "geometry": {"coordinates":[-87.952396,45.375634],"type":"Point"}
+  "bbox": [
+    -87.952396,
+    45.375634,
+    -87.952396,
+    45.375634
+],
+  "geometry": {"coordinates":[-87.95239599999999,45.375634],"type":"Point"}
 }

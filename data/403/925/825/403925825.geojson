@@ -2,13 +2,14 @@
   "id": 403925825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.537556,44.022151,-88.537556,44.022151",
     "geom:latitude":44.022151,
     "geom:longitude":-88.537556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"683 N Main St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403925825,
-    "wof:lastmodified":1449054640,
+    "wof:lastmodified":1467089917,
     "wof:name":"Community Corrections",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "community"
     ]
 },
-  "bbox": [-88.537556,44.022151,-88.537556,44.022151],
+  "bbox": [
+    -88.537556,
+    44.022151,
+    -88.537556,
+    44.022151
+],
   "geometry": {"coordinates":[-88.537556,44.022151],"type":"Point"}
 }

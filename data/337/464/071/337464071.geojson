@@ -2,13 +2,14 @@
   "id": 337464071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.496353,44.805294,-91.496353,44.805294",
     "geom:latitude":44.805294,
     "geom:longitude":-91.496353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 Porter Ave",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337464071,
-    "wof:lastmodified":1449027151,
+    "wof:lastmodified":1467089893,
     "wof:name":"Infinity Software Solutions",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "custom"
     ]
 },
-  "bbox": [-91.496353,44.805294,-91.496353,44.805294],
+  "bbox": [
+    -91.496353,
+    44.805294,
+    -91.496353,
+    44.805294
+],
   "geometry": {"coordinates":[-91.496353,44.805294],"type":"Point"}
 }

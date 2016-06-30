@@ -2,13 +2,14 @@
   "id": 404146613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.255516,45.925053,-89.255516,45.925053",
     "geom:latitude":45.925053,
     "geom:longitude":-89.255516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 N Railroad St",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404146613,
-    "wof:lastmodified":1449039531,
+    "wof:lastmodified":1467089910,
     "wof:name":"Gardener's Gate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-89.255516,45.925053,-89.255516,45.925053],
+  "bbox": [
+    -89.255516,
+    45.925053,
+    -89.255516,
+    45.925053
+],
   "geometry": {"coordinates":[-89.255516,45.925053],"type":"Point"}
 }

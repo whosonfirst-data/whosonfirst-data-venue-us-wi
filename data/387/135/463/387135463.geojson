@@ -2,13 +2,14 @@
   "id": 387135463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.956522,43.111554,-87.956522,43.111554",
     "geom:latitude":43.111554,
     "geom:longitude":-87.956522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5173 N 35th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387135463,
-    "wof:lastmodified":1449057567,
+    "wof:lastmodified":1467089925,
     "wof:name":"Tomato Patch",
     "wof:parent_id":85870907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-87.956522,43.111554,-87.956522,43.111554],
-  "geometry": {"coordinates":[-87.956522,43.111554],"type":"Point"}
+  "bbox": [
+    -87.956522,
+    43.111554,
+    -87.956522,
+    43.111554
+],
+  "geometry": {"coordinates":[-87.95652200000001,43.111554],"type":"Point"}
 }

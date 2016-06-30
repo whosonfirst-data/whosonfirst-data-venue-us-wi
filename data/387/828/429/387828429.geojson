@@ -2,13 +2,14 @@
   "id": 387828429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.06146,44.495052,-88.06146,44.495052",
     "geom:latitude":44.495052,
     "geom:longitude":-88.06146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2129 S Oneida St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387828429,
-    "wof:lastmodified":1449058039,
+    "wof:lastmodified":1467089927,
     "wof:name":"Add Clinic",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.06146,44.495052,-88.06146,44.495052],
+  "bbox": [
+    -88.06146,
+    44.495052,
+    -88.06146,
+    44.495052
+],
   "geometry": {"coordinates":[-88.06146,44.495052],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353942347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.060412,44.448181,-88.060412,44.448181",
     "geom:latitude":44.448181,
     "geom:longitude":-88.060412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 S Broadway",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353942347,
-    "wof:lastmodified":1449019423,
+    "wof:lastmodified":1467089889,
     "wof:name":"Onterra",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-88.060412,44.448181,-88.060412,44.448181],
+  "bbox": [
+    -88.060412,
+    44.448181,
+    -88.060412,
+    44.448181
+],
   "geometry": {"coordinates":[-88.060412,44.448181],"type":"Point"}
 }

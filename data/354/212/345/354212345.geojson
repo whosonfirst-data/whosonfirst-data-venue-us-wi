@@ -2,13 +2,14 @@
   "id": 354212345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.751709,44.972686,-92.751709,44.972686",
     "geom:latitude":44.972686,
     "geom:longitude":-92.751709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Wisconsin St",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354212345,
-    "wof:lastmodified":1449067075,
+    "wof:lastmodified":1467089936,
     "wof:name":"Kari M Campbell MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-92.751709,44.972686,-92.751709,44.972686],
-  "geometry": {"coordinates":[-92.751709,44.972686],"type":"Point"}
+  "bbox": [
+    -92.751709,
+    44.972686,
+    -92.751709,
+    44.972686
+],
+  "geometry": {"coordinates":[-92.75170900000001,44.972686],"type":"Point"}
 }

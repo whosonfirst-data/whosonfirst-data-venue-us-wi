@@ -2,13 +2,14 @@
   "id": 387546083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.320909,43.112868,-88.320909,43.112868",
     "geom:latitude":43.112868,
     "geom:longitude":-88.320909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Arlene Dr",
     "sg:city":"Hartland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387546083,
-    "wof:lastmodified":1449056105,
+    "wof:lastmodified":1467089921,
     "wof:name":"Malec Holdings II Ltd",
     "wof:parent_id":85817525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "public"
     ]
 },
-  "bbox": [-88.320909,43.112868,-88.320909,43.112868],
+  "bbox": [
+    -88.320909,
+    43.112868,
+    -88.320909,
+    43.112868
+],
   "geometry": {"coordinates":[-88.320909,43.112868],"type":"Point"}
 }

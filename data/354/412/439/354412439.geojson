@@ -2,13 +2,14 @@
   "id": 354412439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.146688,43.454757,-88.146688,43.454757",
     "geom:latitude":43.454757,
     "geom:longitude":-88.146688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2174 E Newark Dr",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354412439,
-    "wof:lastmodified":1449066275,
+    "wof:lastmodified":1467089934,
     "wof:name":"Meadow Wood Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "apartment"
     ]
 },
-  "bbox": [-88.146688,43.454757,-88.146688,43.454757],
+  "bbox": [
+    -88.146688,
+    43.454757,
+    -88.146688,
+    43.454757
+],
   "geometry": {"coordinates":[-88.146688,43.454757],"type":"Point"}
 }

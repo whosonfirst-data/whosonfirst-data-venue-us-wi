@@ -2,13 +2,14 @@
   "id": 354205013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.304915,43.574577,-88.304915,43.574577",
     "geom:latitude":43.574577,
     "geom:longitude":-88.304915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2981 Main St",
     "sg:city":"Campbellsport",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354205013,
-    "wof:lastmodified":1449066962,
+    "wof:lastmodified":1467089936,
     "wof:name":"Dale's Yard Care & Handyman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "grounds"
     ]
 },
-  "bbox": [-88.304915,43.574577,-88.304915,43.574577],
-  "geometry": {"coordinates":[-88.304915,43.574577],"type":"Point"}
+  "bbox": [
+    -88.304915,
+    43.574577,
+    -88.304915,
+    43.574577
+],
+  "geometry": {"coordinates":[-88.30491499999999,43.574577],"type":"Point"}
 }

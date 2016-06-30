@@ -2,13 +2,14 @@
   "id": 354357937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.476288,44.275928,-88.476288,44.275928",
     "geom:latitude":44.275928,
     "geom:longitude":-88.476288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4845 W Greenville Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354357937,
-    "wof:lastmodified":1449067459,
+    "wof:lastmodified":1467089937,
     "wof:name":"Bee J Enterprises Inc",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "material"
     ]
 },
-  "bbox": [-88.476288,44.275928,-88.476288,44.275928],
+  "bbox": [
+    -88.476288,
+    44.275928,
+    -88.476288,
+    44.275928
+],
   "geometry": {"coordinates":[-88.476288,44.275928],"type":"Point"}
 }

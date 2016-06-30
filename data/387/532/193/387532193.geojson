@@ -2,13 +2,14 @@
   "id": 387532193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.729457,45.410793,-91.729457,45.410793",
     "geom:latitude":45.410793,
     "geom:longitude":-91.729457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Poplar Ave",
     "sg:city":"Cameron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387532193,
-    "wof:lastmodified":1449057377,
+    "wof:lastmodified":1467089925,
     "wof:name":"C & S Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-91.729457,45.410793,-91.729457,45.410793],
+  "bbox": [
+    -91.729457,
+    45.410793,
+    -91.729457,
+    45.410793
+],
   "geometry": {"coordinates":[-91.729457,45.410793],"type":"Point"}
 }

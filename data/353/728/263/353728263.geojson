@@ -2,13 +2,14 @@
   "id": 353728263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.057969,44.495506,-88.057969,44.495506",
     "geom:latitude":44.495506,
     "geom:longitude":-88.057969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"838 Borvan Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353728263,
-    "wof:lastmodified":1449018849,
+    "wof:lastmodified":1467089887,
     "wof:name":"John's Refrigeration Inc",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.057969,44.495506,-88.057969,44.495506],
+  "bbox": [
+    -88.057969,
+    44.495506,
+    -88.057969,
+    44.495506
+],
   "geometry": {"coordinates":[-88.057969,44.495506],"type":"Point"}
 }

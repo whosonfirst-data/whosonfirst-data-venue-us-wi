@@ -2,13 +2,14 @@
   "id": 386948641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.188486,43.207198,-88.188486,43.207198",
     "geom:latitude":43.207198,
     "geom:longitude":-88.188486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3036 Willow Creek Rd",
     "sg:city":"Colgate",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386948641,
-    "wof:lastmodified":1449028886,
+    "wof:lastmodified":1467089897,
     "wof:name":"Voss Trenching",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.188486,43.207198,-88.188486,43.207198],
+  "bbox": [
+    -88.188486,
+    43.207198,
+    -88.188486,
+    43.207198
+],
   "geometry": {"coordinates":[-88.188486,43.207198],"type":"Point"}
 }

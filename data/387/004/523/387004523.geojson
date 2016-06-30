@@ -2,13 +2,14 @@
   "id": 387004523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.733391,45.503148,-91.733391,45.503148",
     "geom:latitude":45.503148,
     "geom:longitude":-91.733391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 N Main St",
     "sg:city":"Rice Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387004523,
-    "wof:lastmodified":1449057488,
+    "wof:lastmodified":1467089925,
     "wof:name":"King Edward Inn Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-91.733391,45.503148,-91.733391,45.503148],
+  "bbox": [
+    -91.733391,
+    45.503148,
+    -91.733391,
+    45.503148
+],
   "geometry": {"coordinates":[-91.733391,45.503148],"type":"Point"}
 }

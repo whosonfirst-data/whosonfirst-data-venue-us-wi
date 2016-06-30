@@ -2,13 +2,14 @@
   "id": 186301633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.925878,43.218051,-87.925878,43.218051",
     "geom:latitude":43.218051,
     "geom:longitude":-87.925878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1355 W Towne Square Rd",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186301633,
-    "wof:lastmodified":1449051082,
+    "wof:lastmodified":1467089915,
     "wof:name":"Vollrath Associates Inc",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "communications"
     ]
 },
-  "bbox": [-87.925878,43.218051,-87.925878,43.218051],
+  "bbox": [
+    -87.925878,
+    43.218051,
+    -87.925878,
+    43.218051
+],
   "geometry": {"coordinates":[-87.925878,43.218051],"type":"Point"}
 }

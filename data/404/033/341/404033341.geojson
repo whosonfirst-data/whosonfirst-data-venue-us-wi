@@ -2,13 +2,14 @@
   "id": 404033341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.908686,43.170851,-87.908686,43.170851",
     "geom:latitude":43.170851,
     "geom:longitude":-87.908686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 W Indian Creek Ct",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404033341,
-    "wof:lastmodified":1449039308,
+    "wof:lastmodified":1467089909,
     "wof:name":"Globe International Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trade"
     ]
 },
-  "bbox": [-87.908686,43.170851,-87.908686,43.170851],
+  "bbox": [
+    -87.908686,
+    43.170851,
+    -87.908686,
+    43.170851
+],
   "geometry": {"coordinates":[-87.908686,43.170851],"type":"Point"}
 }

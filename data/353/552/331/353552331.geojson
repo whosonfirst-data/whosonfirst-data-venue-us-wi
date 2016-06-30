@@ -2,13 +2,14 @@
   "id": 353552331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.085214,44.898459,-91.085214,44.898459",
     "geom:latitude":44.898459,
     "geom:longitude":-91.085214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3356 290th St",
     "sg:city":"Cadott",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353552331,
-    "wof:lastmodified":1449019314,
+    "wof:lastmodified":1467089888,
     "wof:name":"Lorenz Construction",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-91.085214,44.898459,-91.085214,44.898459],
-  "geometry": {"coordinates":[-91.085214,44.898459],"type":"Point"}
+  "bbox": [
+    -91.085214,
+    44.898459,
+    -91.085214,
+    44.898459
+],
+  "geometry": {"coordinates":[-91.08521399999999,44.898459],"type":"Point"}
 }

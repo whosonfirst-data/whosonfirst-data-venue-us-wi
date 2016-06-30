@@ -2,13 +2,14 @@
   "id": 370581103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.744577,43.759663,-87.744577,43.759663",
     "geom:latitude":43.759663,
     "geom:longitude":-87.744577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 N 29th St",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370581103,
-    "wof:lastmodified":1449029808,
+    "wof:lastmodified":1467089900,
     "wof:name":"Grube Decorating Inc",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.744577,43.759663,-87.744577,43.759663],
-  "geometry": {"coordinates":[-87.744577,43.759663],"type":"Point"}
+  "bbox": [
+    -87.744577,
+    43.759663,
+    -87.744577,
+    43.759663
+],
+  "geometry": {"coordinates":[-87.74457700000001,43.759663],"type":"Point"}
 }

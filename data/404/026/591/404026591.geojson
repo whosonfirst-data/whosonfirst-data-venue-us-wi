@@ -2,13 +2,14 @@
   "id": 404026591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.764809,44.641315,-87.764809,44.641315",
     "geom:latitude":44.641315,
     "geom:longitude":-87.764809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6449 Sturgeon Bay Rd",
     "sg:city":"Luxemburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404026591,
-    "wof:lastmodified":1449039825,
+    "wof:lastmodified":1467089910,
     "wof:name":"Lipsky's Firebaked Pizza",
     "wof:parent_id":85817445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.764809,44.641315,-87.764809,44.641315],
+  "bbox": [
+    -87.764809,
+    44.641315,
+    -87.764809,
+    44.641315
+],
   "geometry": {"coordinates":[-87.764809,44.641315],"type":"Point"}
 }

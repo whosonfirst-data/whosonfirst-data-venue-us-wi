@@ -2,13 +2,14 @@
   "id": 404063915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.707865,43.772155,-87.707865,43.772155",
     "geom:latitude":43.772155,
     "geom:longitude":-87.707865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Clement Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404063915,
-    "wof:lastmodified":1449039126,
+    "wof:lastmodified":1467089909,
     "wof:name":"Discovery Community Church",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.707865,43.772155,-87.707865,43.772155],
+  "bbox": [
+    -87.707865,
+    43.772155,
+    -87.707865,
+    43.772155
+],
   "geometry": {"coordinates":[-87.707865,43.772155],"type":"Point"}
 }

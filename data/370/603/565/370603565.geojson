@@ -2,13 +2,14 @@
   "id": 370603565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.949763,43.968286,-88.949763,43.968286",
     "geom:latitude":43.968286,
     "geom:longitude":-88.949763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 W Huron St",
     "sg:city":"Berlin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370603565,
-    "wof:lastmodified":1449031943,
+    "wof:lastmodified":1467089906,
     "wof:name":"Print Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-88.949763,43.968286,-88.949763,43.968286],
+  "bbox": [
+    -88.949763,
+    43.968286,
+    -88.949763,
+    43.968286
+],
   "geometry": {"coordinates":[-88.949763,43.968286],"type":"Point"}
 }

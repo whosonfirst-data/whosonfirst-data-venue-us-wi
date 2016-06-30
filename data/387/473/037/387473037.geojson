@@ -2,13 +2,14 @@
   "id": 387473037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.053314,43.018463,-88.053314,43.018463",
     "geom:latitude":43.018463,
     "geom:longitude":-88.053314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1126 S 113th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387473037,
-    "wof:lastmodified":1449056893,
+    "wof:lastmodified":1467089923,
     "wof:name":"Bullock & Bullock",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-88.053314,43.018463,-88.053314,43.018463],
+  "bbox": [
+    -88.053314,
+    43.018463,
+    -88.053314,
+    43.018463
+],
   "geometry": {"coordinates":[-88.053314,43.018463],"type":"Point"}
 }

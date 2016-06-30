@@ -2,13 +2,14 @@
   "id": 354094225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.881896,44.064622,-87.881896,44.064622",
     "geom:latitude":44.064622,
     "geom:longitude":-87.881896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 S Liberty St",
     "sg:city":"Valders",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354094225,
-    "wof:lastmodified":1449067023,
+    "wof:lastmodified":1467089936,
     "wof:name":"Valders Village Office",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-87.881896,44.064622,-87.881896,44.064622],
+  "bbox": [
+    -87.881896,
+    44.064622,
+    -87.881896,
+    44.064622
+],
   "geometry": {"coordinates":[-87.881896,44.064622],"type":"Point"}
 }

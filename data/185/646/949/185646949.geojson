@@ -2,13 +2,14 @@
   "id": 185646949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.912156,43.074857,-87.912156,43.074857",
     "geom:latitude":43.074857,
     "geom:longitude":-87.912156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Burleigh St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185646949,
-    "wof:lastmodified":1449006560,
+    "wof:lastmodified":1467089883,
     "wof:name":"Harambee School Development",
     "wof:parent_id":85870991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.912156,43.074857,-87.912156,43.074857],
+  "bbox": [
+    -87.912156,
+    43.074857,
+    -87.912156,
+    43.074857
+],
   "geometry": {"coordinates":[-87.912156,43.074857],"type":"Point"}
 }

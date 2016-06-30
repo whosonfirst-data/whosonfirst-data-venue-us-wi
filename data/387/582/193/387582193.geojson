@@ -2,13 +2,14 @@
   "id": 387582193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.100858,45.462125,-91.100858,45.462125",
     "geom:latitude":45.462125,
     "geom:longitude":-91.100858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 1st St S",
     "sg:city":"Ladysmith",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387582193,
-    "wof:lastmodified":1449058158,
+    "wof:lastmodified":1467089927,
     "wof:name":"Hope Lutheran Church-ELCA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-91.100858,45.462125,-91.100858,45.462125],
+  "bbox": [
+    -91.100858,
+    45.462125,
+    -91.100858,
+    45.462125
+],
   "geometry": {"coordinates":[-91.100858,45.462125],"type":"Point"}
 }

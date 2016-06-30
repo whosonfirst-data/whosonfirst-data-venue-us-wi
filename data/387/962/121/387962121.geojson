@@ -2,13 +2,14 @@
   "id": 387962121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.715036,43.046626,-90.715036,43.046626",
     "geom:latitude":43.046626,
     "geom:longitude":-90.715036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5906 Co Rd T",
     "sg:city":"Woodman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387962121,
-    "wof:lastmodified":1449058340,
+    "wof:lastmodified":1467089928,
     "wof:name":"Alvin V Maag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.715036,43.046626,-90.715036,43.046626],
+  "bbox": [
+    -90.715036,
+    43.046626,
+    -90.715036,
+    43.046626
+],
   "geometry": {"coordinates":[-90.715036,43.046626],"type":"Point"}
 }

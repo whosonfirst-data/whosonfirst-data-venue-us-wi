@@ -2,13 +2,14 @@
   "id": 354246833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.439466,44.239007,-88.439466,44.239007",
     "geom:latitude":44.239007,
     "geom:longitude":-88.439466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2142 Larkspur Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354246833,
-    "wof:lastmodified":1449066047,
+    "wof:lastmodified":1467089933,
     "wof:name":"Thyme Savor Personal Chef Serv",
     "wof:parent_id":85807543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-88.439466,44.239007,-88.439466,44.239007],
+  "bbox": [
+    -88.439466,
+    44.239007,
+    -88.439466,
+    44.239007
+],
   "geometry": {"coordinates":[-88.439466,44.239007],"type":"Point"}
 }

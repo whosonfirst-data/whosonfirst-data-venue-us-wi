@@ -2,13 +2,14 @@
   "id": 403783279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.247614,44.928927,-91.247614,44.928927",
     "geom:latitude":44.928927,
     "geom:longitude":-91.247614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5939 210th St",
     "sg:city":"Cadott",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403783279,
-    "wof:lastmodified":1449054664,
+    "wof:lastmodified":1467089917,
     "wof:name":"Cars Auto Body",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-91.247614,44.928927,-91.247614,44.928927],
+  "bbox": [
+    -91.247614,
+    44.928927,
+    -91.247614,
+    44.928927
+],
   "geometry": {"coordinates":[-91.247614,44.928927],"type":"Point"}
 }

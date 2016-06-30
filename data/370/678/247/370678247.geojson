@@ -2,13 +2,14 @@
   "id": 370678247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.405295,43.061739,-88.405295,43.061739",
     "geom:latitude":43.061739,
     "geom:longitude":-88.405295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 Milwaukee St",
     "sg:city":"Delafield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370678247,
-    "wof:lastmodified":1449030725,
+    "wof:lastmodified":1467089902,
     "wof:name":"Beausoleil Psychiatric Assoc",
     "wof:parent_id":85808383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-88.405295,43.061739,-88.405295,43.061739],
+  "bbox": [
+    -88.405295,
+    43.061739,
+    -88.405295,
+    43.061739
+],
   "geometry": {"coordinates":[-88.405295,43.061739],"type":"Point"}
 }

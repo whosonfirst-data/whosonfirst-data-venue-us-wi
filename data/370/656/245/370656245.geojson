@@ -2,13 +2,14 @@
   "id": 370656245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.386411,43.007328,-88.386411,43.007328",
     "geom:latitude":43.007328,
     "geom:longitude":-88.386411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 N Taliesin Rd",
     "sg:city":"Wales",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370656245,
-    "wof:lastmodified":1449031282,
+    "wof:lastmodified":1467089904,
     "wof:name":"Pericles Realty",
     "wof:parent_id":85854741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-88.386411,43.007328,-88.386411,43.007328],
+  "bbox": [
+    -88.386411,
+    43.007328,
+    -88.386411,
+    43.007328
+],
   "geometry": {"coordinates":[-88.386411,43.007328],"type":"Point"}
 }

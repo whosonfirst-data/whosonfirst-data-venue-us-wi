@@ -2,13 +2,14 @@
   "id": 337298937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.004749,43.016569,-88.004749,43.016569",
     "geom:latitude":43.016569,
     "geom:longitude":-88.004749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7311 W Greenfield Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337298937,
-    "wof:lastmodified":1449027155,
+    "wof:lastmodified":1467089893,
     "wof:name":"7311 Optical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.004749,43.016569,-88.004749,43.016569],
+  "bbox": [
+    -88.004749,
+    43.016569,
+    -88.004749,
+    43.016569
+],
   "geometry": {"coordinates":[-88.004749,43.016569],"type":"Point"}
 }

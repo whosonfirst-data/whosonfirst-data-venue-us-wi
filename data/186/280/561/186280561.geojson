@@ -2,13 +2,14 @@
   "id": 186280561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.904232,43.002908,-87.904232,43.002908",
     "geom:latitude":43.002908,
     "geom:longitude":-87.904232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 E Lincoln Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186280561,
-    "wof:lastmodified":1449051699,
+    "wof:lastmodified":1467089915,
     "wof:name":"Tammi A Bruce",
     "wof:parent_id":85870973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-87.904232,43.002908,-87.904232,43.002908],
-  "geometry": {"coordinates":[-87.904232,43.002908],"type":"Point"}
+  "bbox": [
+    -87.904232,
+    43.002908,
+    -87.904232,
+    43.002908
+],
+  "geometry": {"coordinates":[-87.90423199999999,43.002908],"type":"Point"}
 }

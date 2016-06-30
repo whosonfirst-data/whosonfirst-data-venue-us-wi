@@ -2,13 +2,14 @@
   "id": 370505549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.494103,44.516223,-87.494103,44.516223",
     "geom:latitude":44.516223,
     "geom:longitude":-87.494103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5438 2nd Rd",
     "sg:city":"Kewaunee",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370505549,
-    "wof:lastmodified":1449031906,
+    "wof:lastmodified":1467089905,
     "wof:name":"Joski Carpets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.494103,44.516223,-87.494103,44.516223],
+  "bbox": [
+    -87.494103,
+    44.516223,
+    -87.494103,
+    44.516223
+],
   "geometry": {"coordinates":[-87.494103,44.516223],"type":"Point"}
 }

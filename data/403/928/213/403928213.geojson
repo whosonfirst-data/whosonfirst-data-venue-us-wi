@@ -2,13 +2,14 @@
   "id": 403928213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.027401,43.057479,-88.027401,43.057479",
     "geom:latitude":43.057479,
     "geom:longitude":-88.027401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2104 N Swan Blvd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403928213,
-    "wof:lastmodified":1449055778,
+    "wof:lastmodified":1467089920,
     "wof:name":"T L Price Custom Remodeling",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-88.027401,43.057479,-88.027401,43.057479],
+  "bbox": [
+    -88.027401,
+    43.057479,
+    -88.027401,
+    43.057479
+],
   "geometry": {"coordinates":[-88.027401,43.057479],"type":"Point"}
 }

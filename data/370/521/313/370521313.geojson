@@ -2,13 +2,14 @@
   "id": 370521313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.972041,42.699888,-88.972041,42.699888",
     "geom:latitude":42.699888,
     "geom:longitude":-88.972041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3636 E Milwaukee St",
     "sg:city":"Janesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370521313,
-    "wof:lastmodified":1449032301,
+    "wof:lastmodified":1467089907,
     "wof:name":"Rock County Honda",
     "wof:parent_id":85803103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "provides"
     ]
 },
-  "bbox": [-88.972041,42.699888,-88.972041,42.699888],
+  "bbox": [
+    -88.972041,
+    42.699888,
+    -88.972041,
+    42.699888
+],
   "geometry": {"coordinates":[-88.972041,42.699888],"type":"Point"}
 }

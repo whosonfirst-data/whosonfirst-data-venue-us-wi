@@ -2,13 +2,14 @@
   "id": 387667367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.544765,43.497455,-88.544765,43.497455",
     "geom:latitude":43.497455,
     "geom:longitude":-88.544765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 N Main St",
     "sg:city":"Mayville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387667367,
-    "wof:lastmodified":1449058599,
+    "wof:lastmodified":1467089929,
     "wof:name":"Daily Citizen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-88.544765,43.497455,-88.544765,43.497455],
+  "bbox": [
+    -88.544765,
+    43.497455,
+    -88.544765,
+    43.497455
+],
   "geometry": {"coordinates":[-88.544765,43.497455],"type":"Point"}
 }

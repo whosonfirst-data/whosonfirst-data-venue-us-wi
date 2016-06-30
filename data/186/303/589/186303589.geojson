@@ -2,13 +2,14 @@
   "id": 186303589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.975101,42.699608,-88.975101,42.699608",
     "geom:latitude":42.699608,
     "geom:longitude":-88.975101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3515 E Milwaukee St",
     "sg:city":"Janesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186303589,
-    "wof:lastmodified":1449050277,
+    "wof:lastmodified":1467089914,
     "wof:name":"Stop-N-Go 263",
     "wof:parent_id":85803103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-88.975101,42.699608,-88.975101,42.699608],
+  "bbox": [
+    -88.975101,
+    42.699608,
+    -88.975101,
+    42.699608
+],
   "geometry": {"coordinates":[-88.975101,42.699608],"type":"Point"}
 }

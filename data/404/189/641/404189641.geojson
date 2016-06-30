@@ -2,13 +2,14 @@
   "id": 404189641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.369413,44.248457,-88.369413,44.248457",
     "geom:latitude":44.248457,
     "geom:longitude":-88.369413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 S Fidelis St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404189641,
-    "wof:lastmodified":1449039971,
+    "wof:lastmodified":1467089911,
     "wof:name":"Parker Hannifin Corporation",
     "wof:parent_id":85857401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.369413,44.248457,-88.369413,44.248457],
-  "geometry": {"coordinates":[-88.369413,44.248457],"type":"Point"}
+  "bbox": [
+    -88.369413,
+    44.248457,
+    -88.369413,
+    44.248457
+],
+  "geometry": {"coordinates":[-88.36941299999999,44.248457],"type":"Point"}
 }

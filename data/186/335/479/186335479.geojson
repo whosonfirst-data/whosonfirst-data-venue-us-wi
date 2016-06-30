@@ -2,13 +2,14 @@
   "id": 186335479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.335619,45.449336,-92.335619,45.449336",
     "geom:latitude":45.449336,
     "geom:longitude":-92.335619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"851 165th Ave",
     "sg:city":"Balsam Lake",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186335479,
-    "wof:lastmodified":1449052136,
+    "wof:lastmodified":1467089916,
     "wof:name":"Knight Accounting Services For",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.335619,45.449336,-92.335619,45.449336],
-  "geometry": {"coordinates":[-92.335619,45.449336],"type":"Point"}
+  "bbox": [
+    -92.335619,
+    45.449336,
+    -92.335619,
+    45.449336
+],
+  "geometry": {"coordinates":[-92.33561899999999,45.449336],"type":"Point"}
 }

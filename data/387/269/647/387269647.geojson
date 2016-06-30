@@ -2,13 +2,14 @@
   "id": 387269647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.257239,44.176294,-88.257239,44.176294",
     "geom:latitude":44.176294,
     "geom:longitude":-88.257239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Military Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":387269647,
-    "wof:lastmodified":1449058498,
+    "wof:lastmodified":1467089928,
     "wof:name":"Kress Real Estate LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.257239,44.176294,-88.257239,44.176294],
+  "bbox": [
+    -88.257239,
+    44.176294,
+    -88.257239,
+    44.176294
+],
   "geometry": {"coordinates":[-88.257239,44.176294],"type":"Point"}
 }

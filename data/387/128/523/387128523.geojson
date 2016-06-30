@@ -2,13 +2,14 @@
   "id": 387128523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.002458,43.231044,-88.002458,43.231044",
     "geom:latitude":43.231044,
     "geom:longitude":-88.002458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11707 N Bridgewater Dr",
     "sg:city":"Thiensville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387128523,
-    "wof:lastmodified":1449057597,
+    "wof:lastmodified":1467089925,
     "wof:name":"Maulee Corp",
     "wof:parent_id":85820667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.002458,43.231044,-88.002458,43.231044],
+  "bbox": [
+    -88.002458,
+    43.231044,
+    -88.002458,
+    43.231044
+],
   "geometry": {"coordinates":[-88.002458,43.231044],"type":"Point"}
 }

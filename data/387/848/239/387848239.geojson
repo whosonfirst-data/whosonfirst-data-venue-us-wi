@@ -2,13 +2,14 @@
   "id": 387848239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.62229,45.092655,-87.62229,45.092655",
     "geom:latitude":45.092655,
     "geom:longitude":-87.62229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 Carney Blvd",
     "sg:city":"Marinette",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387848239,
-    "wof:lastmodified":1449056636,
+    "wof:lastmodified":1467089923,
     "wof:name":"Clay F Teasdale Lawyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-87.62229,45.092655,-87.62229,45.092655],
-  "geometry": {"coordinates":[-87.62229,45.092655],"type":"Point"}
+  "bbox": [
+    -87.62229,
+    45.092655,
+    -87.62229,
+    45.092655
+],
+  "geometry": {"coordinates":[-87.62229000000001,45.092655],"type":"Point"}
 }

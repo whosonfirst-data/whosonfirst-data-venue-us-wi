@@ -2,13 +2,14 @@
   "id": 354305563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.919887,44.543968,-87.919887,44.543968",
     "geom:latitude":44.543968,
     "geom:longitude":-87.919887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2771 Nicolet Dr",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354305563,
-    "wof:lastmodified":1449066188,
+    "wof:lastmodified":1467089934,
     "wof:name":"Fete LLC",
     "wof:parent_id":85877939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "retailer"
     ]
 },
-  "bbox": [-87.919887,44.543968,-87.919887,44.543968],
+  "bbox": [
+    -87.919887,
+    44.543968,
+    -87.919887,
+    44.543968
+],
   "geometry": {"coordinates":[-87.919887,44.543968],"type":"Point"}
 }

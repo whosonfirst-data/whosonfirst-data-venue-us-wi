@@ -2,13 +2,14 @@
   "id": 185832139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.271704,43.324292,-88.271704,43.324292",
     "geom:latitude":43.324292,
     "geom:longitude":-88.271704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3620 State Rd 175",
     "sg:city":"Slinger",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185832139,
-    "wof:lastmodified":1449006599,
+    "wof:lastmodified":1467089883,
     "wof:name":"Rh Grass Cutting",
     "wof:parent_id":85802369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.271704,43.324292,-88.271704,43.324292],
+  "bbox": [
+    -88.271704,
+    43.324292,
+    -88.271704,
+    43.324292
+],
   "geometry": {"coordinates":[-88.271704,43.324292],"type":"Point"}
 }

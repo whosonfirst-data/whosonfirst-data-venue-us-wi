@@ -2,13 +2,14 @@
   "id": 370688327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.197038,43.204633,-89.197038,43.204633",
     "geom:latitude":43.204633,
     "geom:longitude":-89.197038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"686 Progress Way",
     "sg:city":"Sun Prairie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370688327,
-    "wof:lastmodified":1449030345,
+    "wof:lastmodified":1467089901,
     "wof:name":"New Crossing Church",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.197038,43.204633,-89.197038,43.204633],
-  "geometry": {"coordinates":[-89.197038,43.204633],"type":"Point"}
+  "bbox": [
+    -89.197038,
+    43.204633,
+    -89.197038,
+    43.204633
+],
+  "geometry": {"coordinates":[-89.19703800000001,43.204633],"type":"Point"}
 }

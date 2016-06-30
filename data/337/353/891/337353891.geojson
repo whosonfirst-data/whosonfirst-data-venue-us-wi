@@ -2,13 +2,14 @@
   "id": 337353891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.919021,43.041257,-87.919021,43.041257",
     "geom:latitude":43.041257,
     "geom:longitude":-87.919021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 N 6th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":337353891,
-    "wof:lastmodified":1449027174,
+    "wof:lastmodified":1467089893,
     "wof:name":"Division Community Corrections",
     "wof:parent_id":85870965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "supervision"
     ]
 },
-  "bbox": [-87.919021,43.041257,-87.919021,43.041257],
+  "bbox": [
+    -87.919021,
+    43.041257,
+    -87.919021,
+    43.041257
+],
   "geometry": {"coordinates":[-87.919021,43.041257],"type":"Point"}
 }

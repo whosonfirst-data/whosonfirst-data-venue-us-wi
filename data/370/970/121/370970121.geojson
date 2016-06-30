@@ -2,13 +2,14 @@
   "id": 370970121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.712855,43.770284,-87.712855,43.770284",
     "geom:latitude":43.770284,
     "geom:longitude":-87.712855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2305 N 8th St",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370970121,
-    "wof:lastmodified":1449032410,
+    "wof:lastmodified":1467089907,
     "wof:name":"Remys Diane School of Dance",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.712855,43.770284,-87.712855,43.770284],
+  "bbox": [
+    -87.712855,
+    43.770284,
+    -87.712855,
+    43.770284
+],
   "geometry": {"coordinates":[-87.712855,43.770284],"type":"Point"}
 }

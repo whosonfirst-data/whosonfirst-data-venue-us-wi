@@ -2,13 +2,14 @@
   "id": 353467857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.009203,43.050049,-88.009203,43.050049",
     "geom:latitude":43.050049,
     "geom:longitude":-88.009203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7707 W Menomonee River Pkwy",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353467857,
-    "wof:lastmodified":1449020273,
+    "wof:lastmodified":1467089891,
     "wof:name":"Myco USA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-88.009203,43.050049,-88.009203,43.050049],
+  "bbox": [
+    -88.009203,
+    43.050049,
+    -88.009203,
+    43.050049
+],
   "geometry": {"coordinates":[-88.009203,43.050049],"type":"Point"}
 }

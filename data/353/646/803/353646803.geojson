@@ -2,13 +2,14 @@
   "id": 353646803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.901578,44.882048,-91.901578,44.882048",
     "geom:latitude":44.882048,
     "geom:longitude":-91.901578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2321 Stout Rd",
     "sg:city":"Menomonie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353646803,
-    "wof:lastmodified":1449018192,
+    "wof:lastmodified":1467089886,
     "wof:name":"David B Ketroser MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-91.901578,44.882048,-91.901578,44.882048],
+  "bbox": [
+    -91.901578,
+    44.882048,
+    -91.901578,
+    44.882048
+],
   "geometry": {"coordinates":[-91.901578,44.882048],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370251543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.468012,44.646665,-88.468012,44.646665",
     "geom:latitude":44.646665,
     "geom:longitude":-88.468012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4707 E Branch Ln",
     "sg:city":"Bonduel",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370251543,
-    "wof:lastmodified":1449029126,
+    "wof:lastmodified":1467089898,
     "wof:name":"Dennis Jarek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.468012,44.646665,-88.468012,44.646665],
+  "bbox": [
+    -88.468012,
+    44.646665,
+    -88.468012,
+    44.646665
+],
   "geometry": {"coordinates":[-88.468012,44.646665],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403760309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.006919,43.050096,-88.006919,43.050096",
     "geom:latitude":43.050096,
     "geom:longitude":-88.006919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7400 Harwood Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403760309,
-    "wof:lastmodified":1449055894,
+    "wof:lastmodified":1467089921,
     "wof:name":"Covenant Medical Group Harwood",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-88.006919,43.050096,-88.006919,43.050096],
+  "bbox": [
+    -88.006919,
+    43.050096,
+    -88.006919,
+    43.050096
+],
   "geometry": {"coordinates":[-88.006919,43.050096],"type":"Point"}
 }

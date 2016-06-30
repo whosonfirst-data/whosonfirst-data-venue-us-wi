@@ -2,13 +2,14 @@
   "id": 387865157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.024628,43.023908,-88.024628,43.023908",
     "geom:latitude":43.023908,
     "geom:longitude":-88.024628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8944 W Schlinger Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387865157,
-    "wof:lastmodified":1449058980,
+    "wof:lastmodified":1467089930,
     "wof:name":"Peter Carter Photography Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "portrait"
     ]
 },
-  "bbox": [-88.024628,43.023908,-88.024628,43.023908],
-  "geometry": {"coordinates":[-88.024628,43.023908],"type":"Point"}
+  "bbox": [
+    -88.024628,
+    43.023908,
+    -88.024628,
+    43.023908
+],
+  "geometry": {"coordinates":[-88.02462800000001,43.023908],"type":"Point"}
 }

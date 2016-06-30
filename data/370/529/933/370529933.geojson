@@ -2,13 +2,14 @@
   "id": 370529933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.869068,43.389357,-87.869068,43.389357",
     "geom:latitude":43.389357,
     "geom:longitude":-87.869068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 E Washington St",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370529933,
-    "wof:lastmodified":1449030570,
+    "wof:lastmodified":1467089902,
     "wof:name":"Bait Box",
     "wof:parent_id":85828641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fishing"
     ]
 },
-  "bbox": [-87.869068,43.389357,-87.869068,43.389357],
+  "bbox": [
+    -87.869068,
+    43.389357,
+    -87.869068,
+    43.389357
+],
   "geometry": {"coordinates":[-87.869068,43.389357],"type":"Point"}
 }

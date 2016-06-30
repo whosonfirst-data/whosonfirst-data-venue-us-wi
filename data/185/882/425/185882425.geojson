@@ -2,13 +2,14 @@
   "id": 185882425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.325331,45.087431,-89.325331,45.087431",
     "geom:latitude":45.087431,
     "geom:longitude":-89.325331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3904 Co Rd G",
     "sg:city":"Antigo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185882425,
-    "wof:lastmodified":1449006896,
+    "wof:lastmodified":1467089883,
     "wof:name":"Daniel Brandow Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.325331,45.087431,-89.325331,45.087431],
-  "geometry": {"coordinates":[-89.325331,45.087431],"type":"Point"}
+  "bbox": [
+    -89.325331,
+    45.087431,
+    -89.325331,
+    45.087431
+],
+  "geometry": {"coordinates":[-89.32533100000001,45.087431],"type":"Point"}
 }

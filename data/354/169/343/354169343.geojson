@@ -2,13 +2,14 @@
   "id": 354169343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.933839,43.050357,-87.933839,43.050357",
     "geom:latitude":43.050357,
     "geom:longitude":-87.933839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1470 N 17th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354169343,
-    "wof:lastmodified":1449066993,
+    "wof:lastmodified":1467089936,
     "wof:name":"Meadow Village Complex",
     "wof:parent_id":85870921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-87.933839,43.050357,-87.933839,43.050357],
-  "geometry": {"coordinates":[-87.933839,43.050357],"type":"Point"}
+  "bbox": [
+    -87.933839,
+    43.050357,
+    -87.933839,
+    43.050357
+],
+  "geometry": {"coordinates":[-87.93383900000001,43.050357],"type":"Point"}
 }

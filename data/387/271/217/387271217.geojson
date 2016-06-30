@@ -2,13 +2,14 @@
   "id": 387271217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.04727,43.032474,-88.04727,43.032474",
     "geom:latitude":43.032474,
     "geom:longitude":-88.04727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Mayfair Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387271217,
-    "wof:lastmodified":1449058102,
+    "wof:lastmodified":1467089927,
     "wof:name":"Health Dynamics",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.04727,43.032474,-88.04727,43.032474],
+  "bbox": [
+    -88.04727,
+    43.032474,
+    -88.04727,
+    43.032474
+],
   "geometry": {"coordinates":[-88.04727,43.032474],"type":"Point"}
 }

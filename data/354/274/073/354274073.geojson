@@ -2,13 +2,14 @@
   "id": 354274073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.74479,44.514615,-87.74479,44.514615",
     "geom:latitude":44.514615,
     "geom:longitude":-87.74479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5131 Gasche Rd",
     "sg:city":"Luxemburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354274073,
-    "wof:lastmodified":1449066144,
+    "wof:lastmodified":1467089934,
     "wof:name":"R Vesser Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.74479,44.514615,-87.74479,44.514615],
-  "geometry": {"coordinates":[-87.74479,44.514615],"type":"Point"}
+  "bbox": [
+    -87.74479,
+    44.514615,
+    -87.74479,
+    44.514615
+],
+  "geometry": {"coordinates":[-87.74478999999999,44.514615],"type":"Point"}
 }

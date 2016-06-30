@@ -2,13 +2,14 @@
   "id": 353735481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.341731,43.314344,-88.341731,43.314344",
     "geom:latitude":43.314344,
     "geom:longitude":-88.341731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3392 Lake Dr",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353735481,
-    "wof:lastmodified":1449020713,
+    "wof:lastmodified":1467089892,
     "wof:name":"Light Steel Frmng Design Assoc",
     "wof:parent_id":85841573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.341731,43.314344,-88.341731,43.314344],
+  "bbox": [
+    -88.341731,
+    43.314344,
+    -88.341731,
+    43.314344
+],
   "geometry": {"coordinates":[-88.341731,43.314344],"type":"Point"}
 }

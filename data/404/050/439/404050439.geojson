@@ -2,13 +2,14 @@
   "id": 404050439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.076283,44.803848,-90.076283,44.803848",
     "geom:latitude":44.803848,
     "geom:longitude":-90.076283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 N 3rd Ave",
     "sg:city":"Stratford",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404050439,
-    "wof:lastmodified":1449039793,
+    "wof:lastmodified":1467089910,
     "wof:name":"US Post Office",
     "wof:parent_id":85865437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.076283,44.803848,-90.076283,44.803848],
+  "bbox": [
+    -90.076283,
+    44.803848,
+    -90.076283,
+    44.803848
+],
   "geometry": {"coordinates":[-90.076283,44.803848],"type":"Point"}
 }

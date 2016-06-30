@@ -2,13 +2,14 @@
   "id": 371174947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.045705,43.803426,-90.045705,43.803426",
     "geom:latitude":43.803426,
     "geom:longitude":-90.045705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5501 Co Rd G",
     "sg:city":"Endeavor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371174947,
-    "wof:lastmodified":1449049157,
+    "wof:lastmodified":1467089912,
     "wof:name":"Moundville Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.045705,43.803426,-90.045705,43.803426],
+  "bbox": [
+    -90.045705,
+    43.803426,
+    -90.045705,
+    43.803426
+],
   "geometry": {"coordinates":[-90.045705,43.803426],"type":"Point"}
 }

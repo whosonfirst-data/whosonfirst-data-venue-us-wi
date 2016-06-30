@@ -2,13 +2,14 @@
   "id": 387616227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.624506,45.091544,-87.624506,45.091544",
     "geom:latitude":45.091544,
     "geom:longitude":-87.624506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1417 Elizabeth Ave",
     "sg:city":"Marinette",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387616227,
-    "wof:lastmodified":1449058902,
+    "wof:lastmodified":1467089930,
     "wof:name":"K Max Mellenthin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-87.624506,45.091544,-87.624506,45.091544],
+  "bbox": [
+    -87.624506,
+    45.091544,
+    -87.624506,
+    45.091544
+],
   "geometry": {"coordinates":[-87.624506,45.091544],"type":"Point"}
 }

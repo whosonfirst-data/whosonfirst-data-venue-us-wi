@@ -2,13 +2,14 @@
   "id": 387107733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.268519,43.326282,-88.268519,43.326282",
     "geom:latitude":43.326282,
     "geom:longitude":-88.268519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1027 E Woodview Ct",
     "sg:city":"Slinger",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387107733,
-    "wof:lastmodified":1449056126,
+    "wof:lastmodified":1467089921,
     "wof:name":"Homeowners Concept",
     "wof:parent_id":85802369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.268519,43.326282,-88.268519,43.326282],
+  "bbox": [
+    -88.268519,
+    43.326282,
+    -88.268519,
+    43.326282
+],
   "geometry": {"coordinates":[-88.268519,43.326282],"type":"Point"}
 }

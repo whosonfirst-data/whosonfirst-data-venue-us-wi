@@ -2,13 +2,14 @@
   "id": 404165771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.03567,43.123234,-88.03567,43.123234",
     "geom:latitude":43.123234,
     "geom:longitude":-88.03567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9804 W Carmen Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404165771,
-    "wof:lastmodified":1449040330,
+    "wof:lastmodified":1467089912,
     "wof:name":"Heritage Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-88.03567,43.123234,-88.03567,43.123234],
+  "bbox": [
+    -88.03567,
+    43.123234,
+    -88.03567,
+    43.123234
+],
   "geometry": {"coordinates":[-88.03567,43.123234],"type":"Point"}
 }

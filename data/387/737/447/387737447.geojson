@@ -2,13 +2,14 @@
   "id": 387737447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.762237,44.616917,-88.762237,44.616917",
     "geom:latitude":44.616917,
     "geom:longitude":-88.762237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 S Main St",
     "sg:city":"Clintonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387737447,
-    "wof:lastmodified":1449056952,
+    "wof:lastmodified":1467089924,
     "wof:name":"Sun City Tanning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-88.762237,44.616917,-88.762237,44.616917],
+  "bbox": [
+    -88.762237,
+    44.616917,
+    -88.762237,
+    44.616917
+],
   "geometry": {"coordinates":[-88.762237,44.616917],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403958769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.930681,44.459867,-87.930681,44.459867",
     "geom:latitude":44.459867,
     "geom:longitude":-87.930681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2220 Warm Springs Ct",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403958769,
-    "wof:lastmodified":1449055680,
+    "wof:lastmodified":1467089920,
     "wof:name":"Goerdt Forest Products",
     "wof:parent_id":85828807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.930681,44.459867,-87.930681,44.459867],
-  "geometry": {"coordinates":[-87.930681,44.459867],"type":"Point"}
+  "bbox": [
+    -87.930681,
+    44.459867,
+    -87.930681,
+    44.459867
+],
+  "geometry": {"coordinates":[-87.93068100000001,44.459867],"type":"Point"}
 }

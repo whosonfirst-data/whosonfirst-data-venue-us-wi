@@ -2,13 +2,14 @@
   "id": 337342253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.471875,43.751747,-88.471875,43.751747",
     "geom:latitude":43.751747,
     "geom:longitude":-88.471875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Trowbridge Dr",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337342253,
-    "wof:lastmodified":1449027678,
+    "wof:lastmodified":1467089895,
     "wof:name":"Natural Stone Veneer Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-88.471875,43.751747,-88.471875,43.751747],
+  "bbox": [
+    -88.471875,
+    43.751747,
+    -88.471875,
+    43.751747
+],
   "geometry": {"coordinates":[-88.471875,43.751747],"type":"Point"}
 }

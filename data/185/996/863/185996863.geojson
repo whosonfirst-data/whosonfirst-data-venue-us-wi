@@ -2,13 +2,14 @@
   "id": 185996863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.4929,43.041464,-89.4929,43.041464",
     "geom:latitude":43.041464,
     "geom:longitude":-89.4929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1126 Frisch Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":185996863,
-    "wof:lastmodified":1449007047,
+    "wof:lastmodified":1467089884,
     "wof:name":"Deb Corning Interiors",
     "wof:parent_id":85878885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "decorator"
     ]
 },
-  "bbox": [-89.4929,43.041464,-89.4929,43.041464],
-  "geometry": {"coordinates":[-89.4929,43.041464],"type":"Point"}
+  "bbox": [
+    -89.4929,
+    43.041464,
+    -89.4929,
+    43.041464
+],
+  "geometry": {"coordinates":[-89.49290000000001,43.041464],"type":"Point"}
 }

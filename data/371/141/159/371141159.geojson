@@ -2,13 +2,14 @@
   "id": 371141159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.948474,42.969008,-87.948474,42.969008",
     "geom:latitude":42.969008,
     "geom:longitude":-87.948474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3906 S 27th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371141159,
-    "wof:lastmodified":1449049375,
+    "wof:lastmodified":1467089912,
     "wof:name":"Video Savings",
     "wof:parent_id":85870853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tape"
     ]
 },
-  "bbox": [-87.948474,42.969008,-87.948474,42.969008],
+  "bbox": [
+    -87.948474,
+    42.969008,
+    -87.948474,
+    42.969008
+],
   "geometry": {"coordinates":[-87.948474,42.969008],"type":"Point"}
 }

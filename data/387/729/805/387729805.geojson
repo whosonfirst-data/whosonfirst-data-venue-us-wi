@@ -2,13 +2,14 @@
   "id": 387729805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.211058,43.965346,-88.211058,43.965346",
     "geom:latitude":43.965346,
     "geom:longitude":-88.211058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Paradise Rd",
     "sg:city":"Chilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387729805,
-    "wof:lastmodified":1449058024,
+    "wof:lastmodified":1467089927,
     "wof:name":"Halquist Stone Co Inc",
     "wof:parent_id":85822647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-88.211058,43.965346,-88.211058,43.965346],
-  "geometry": {"coordinates":[-88.211058,43.965346],"type":"Point"}
+  "bbox": [
+    -88.211058,
+    43.965346,
+    -88.211058,
+    43.965346
+],
+  "geometry": {"coordinates":[-88.21105799999999,43.965346],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337395603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.672508,44.964338,-89.672508,44.964338",
     "geom:latitude":44.964338,
     "geom:longitude":-89.672508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2806 Polzer Dr",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337395603,
-    "wof:lastmodified":1449027626,
+    "wof:lastmodified":1467089895,
     "wof:name":"Tommy Oshanes LLC",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-89.672508,44.964338,-89.672508,44.964338],
-  "geometry": {"coordinates":[-89.672508,44.964338],"type":"Point"}
+  "bbox": [
+    -89.672508,
+    44.964338,
+    -89.672508,
+    44.964338
+],
+  "geometry": {"coordinates":[-89.67250799999999,44.964338],"type":"Point"}
 }

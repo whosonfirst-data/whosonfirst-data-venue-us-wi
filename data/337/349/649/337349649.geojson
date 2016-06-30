@@ -2,13 +2,14 @@
   "id": 337349649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.504548,44.457137,-87.504548,44.457137",
     "geom:latitude":44.457137,
     "geom:longitude":-87.504548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 Dodge St",
     "sg:city":"Kewaunee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337349649,
-    "wof:lastmodified":1449027240,
+    "wof:lastmodified":1467089894,
     "wof:name":"Kewaunee County WIC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "resource"
     ]
 },
-  "bbox": [-87.504548,44.457137,-87.504548,44.457137],
+  "bbox": [
+    -87.504548,
+    44.457137,
+    -87.504548,
+    44.457137
+],
   "geometry": {"coordinates":[-87.504548,44.457137],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370276635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.951515,43.010443,-87.951515,43.010443",
     "geom:latitude":43.010443,
     "geom:longitude":-87.951515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2912 W Burnham St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370276635,
-    "wof:lastmodified":1449029191,
+    "wof:lastmodified":1467089898,
     "wof:name":"Einstein Signs",
     "wof:parent_id":85870843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "commercial"
     ]
 },
-  "bbox": [-87.951515,43.010443,-87.951515,43.010443],
+  "bbox": [
+    -87.951515,
+    43.010443,
+    -87.951515,
+    43.010443
+],
   "geometry": {"coordinates":[-87.951515,43.010443],"type":"Point"}
 }

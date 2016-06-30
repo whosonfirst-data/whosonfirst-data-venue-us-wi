@@ -2,13 +2,14 @@
   "id": 354303427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.017342,43.702389,-91.017342,43.702389",
     "geom:latitude":43.702389,
     "geom:longitude":-91.017342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Central Ave",
     "sg:city":"Coon Valley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354303427,
-    "wof:lastmodified":1449065939,
+    "wof:lastmodified":1467089933,
     "wof:name":"Coon Valley Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.017342,43.702389,-91.017342,43.702389],
+  "bbox": [
+    -91.017342,
+    43.702389,
+    -91.017342,
+    43.702389
+],
   "geometry": {"coordinates":[-91.017342,43.702389],"type":"Point"}
 }

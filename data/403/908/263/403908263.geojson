@@ -2,13 +2,14 @@
   "id": 403908263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.541073,44.021254,-88.541073,44.021254",
     "geom:latitude":44.021254,
     "geom:longitude":-88.541073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Church Ave",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403908263,
-    "wof:lastmodified":1449055394,
+    "wof:lastmodified":1467089919,
     "wof:name":"Labor Of Love Inc",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "abortion"
     ]
 },
-  "bbox": [-88.541073,44.021254,-88.541073,44.021254],
+  "bbox": [
+    -88.541073,
+    44.021254,
+    -88.541073,
+    44.021254
+],
   "geometry": {"coordinates":[-88.541073,44.021254],"type":"Point"}
 }

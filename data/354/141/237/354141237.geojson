@@ -2,13 +2,14 @@
   "id": 354141237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.192169,45.141568,-87.192169,45.141568",
     "geom:latitude":45.141568,
     "geom:longitude":-87.192169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3397 State Hwy 42",
     "sg:city":"Fish Creek",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":354141237,
-    "wof:lastmodified":1449066516,
+    "wof:lastmodified":1467089935,
     "wof:name":"Peninsula Park-View Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-87.192169,45.141568,-87.192169,45.141568],
-  "geometry": {"coordinates":[-87.192169,45.141568],"type":"Point"}
+  "bbox": [
+    -87.192169,
+    45.141568,
+    -87.192169,
+    45.141568
+],
+  "geometry": {"coordinates":[-87.19216900000001,45.141568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387138361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.962193,42.782983,-88.962193,42.782983",
     "geom:latitude":42.782983,
     "geom:longitude":-88.962193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Merchant Row",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387138361,
-    "wof:lastmodified":1449057198,
+    "wof:lastmodified":1467089924,
     "wof:name":"Hull & Wright Agency",
     "wof:parent_id":85834509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.962193,42.782983,-88.962193,42.782983],
+  "bbox": [
+    -88.962193,
+    42.782983,
+    -88.962193,
+    42.782983
+],
   "geometry": {"coordinates":[-88.962193,42.782983],"type":"Point"}
 }

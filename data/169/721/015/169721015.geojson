@@ -2,13 +2,14 @@
   "id": 169721015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.229942,45.124841,-87.229942,45.124841",
     "geom:latitude":45.124841,
     "geom:longitude":-87.229942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9341 Spring Rd",
     "sg:city":"Fish Creek",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169721015,
-    "wof:lastmodified":1449035957,
+    "wof:lastmodified":1467089909,
     "wof:name":"Magic Jacket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-87.229942,45.124841,-87.229942,45.124841],
-  "geometry": {"coordinates":[-87.229942,45.124841],"type":"Point"}
+  "bbox": [
+    -87.229942,
+    45.124841,
+    -87.229942,
+    45.124841
+],
+  "geometry": {"coordinates":[-87.22994199999999,45.124841],"type":"Point"}
 }

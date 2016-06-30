@@ -2,13 +2,14 @@
   "id": 404011873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.394129,43.046727,-89.394129,43.046727",
     "geom:latitude":43.046727,
     "geom:longitude":-89.394129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1818 S Park St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404011873,
-    "wof:lastmodified":1449040073,
+    "wof:lastmodified":1467089911,
     "wof:name":"Free Wheel",
     "wof:parent_id":85878849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bicycle"
     ]
 },
-  "bbox": [-89.394129,43.046727,-89.394129,43.046727],
-  "geometry": {"coordinates":[-89.394129,43.046727],"type":"Point"}
+  "bbox": [
+    -89.394129,
+    43.046727,
+    -89.394129,
+    43.046727
+],
+  "geometry": {"coordinates":[-89.39412900000001,43.046727],"type":"Point"}
 }

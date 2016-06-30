@@ -2,13 +2,14 @@
   "id": 386991321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.248307,43.811711,-91.248307,43.811711",
     "geom:latitude":43.811711,
     "geom:longitude":-91.248307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Main St",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386991321,
-    "wof:lastmodified":1449028712,
+    "wof:lastmodified":1467089896,
     "wof:name":"American Purchasing Svc",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-91.248307,43.811711,-91.248307,43.811711],
+  "bbox": [
+    -91.248307,
+    43.811711,
+    -91.248307,
+    43.811711
+],
   "geometry": {"coordinates":[-91.248307,43.811711],"type":"Point"}
 }

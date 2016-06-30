@@ -2,13 +2,14 @@
   "id": 387886675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.980801,43.077039,-87.980801,43.077039",
     "geom:latitude":43.077039,
     "geom:longitude":-87.980801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5305 W Auer Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387886675,
-    "wof:lastmodified":1449058215,
+    "wof:lastmodified":1467089928,
     "wof:name":"Toddle Town Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.980801,43.077039,-87.980801,43.077039],
+  "bbox": [
+    -87.980801,
+    43.077039,
+    -87.980801,
+    43.077039
+],
   "geometry": {"coordinates":[-87.980801,43.077039],"type":"Point"}
 }

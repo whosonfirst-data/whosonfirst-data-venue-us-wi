@@ -2,13 +2,14 @@
   "id": 387342191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.227274,43.009883,-88.227274,43.009883",
     "geom:latitude":43.009883,
     "geom:longitude":-88.227274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W Broadway St",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387342191,
-    "wof:lastmodified":1449059650,
+    "wof:lastmodified":1467089932,
     "wof:name":"Tarot Card Shop",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medium"
     ]
 },
-  "bbox": [-88.227274,43.009883,-88.227274,43.009883],
-  "geometry": {"coordinates":[-88.227274,43.009883],"type":"Point"}
+  "bbox": [
+    -88.227274,
+    43.009883,
+    -88.227274,
+    43.009883
+],
+  "geometry": {"coordinates":[-88.22727399999999,43.009883],"type":"Point"}
 }

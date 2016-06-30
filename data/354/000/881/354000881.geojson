@@ -2,13 +2,14 @@
   "id": 354000881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.100093,44.428424,-88.100093,44.428424",
     "geom:latitude":44.428424,
     "geom:longitude":-88.100093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 American Blvd",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":354000881,
-    "wof:lastmodified":1449066203,
+    "wof:lastmodified":1467089934,
     "wof:name":"Green Bay Packaging Inc",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "box"
     ]
 },
-  "bbox": [-88.100093,44.428424,-88.100093,44.428424],
+  "bbox": [
+    -88.100093,
+    44.428424,
+    -88.100093,
+    44.428424
+],
   "geometry": {"coordinates":[-88.100093,44.428424],"type":"Point"}
 }

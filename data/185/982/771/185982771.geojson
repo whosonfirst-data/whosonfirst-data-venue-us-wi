@@ -2,13 +2,14 @@
   "id": 185982771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.684786,44.117515,-87.684786,44.117515",
     "geom:latitude":44.117515,
     "geom:longitude":-87.684786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3020 Menasha Ave",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185982771,
-    "wof:lastmodified":1449006887,
+    "wof:lastmodified":1467089883,
     "wof:name":"Novaks Golf Shop",
     "wof:parent_id":85827947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.684786,44.117515,-87.684786,44.117515],
+  "bbox": [
+    -87.684786,
+    44.117515,
+    -87.684786,
+    44.117515
+],
   "geometry": {"coordinates":[-87.684786,44.117515],"type":"Point"}
 }

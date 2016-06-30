@@ -2,13 +2,14 @@
   "id": 370286999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.412835,45.638179,-89.412835,45.638179",
     "geom:latitude":45.638179,
     "geom:longitude":-89.412835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 N Brown St",
     "sg:city":"Rhinelander",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370286999,
-    "wof:lastmodified":1449029988,
+    "wof:lastmodified":1467089900,
     "wof:name":"Wittocks House of Spirits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "packaged"
     ]
 },
-  "bbox": [-89.412835,45.638179,-89.412835,45.638179],
+  "bbox": [
+    -89.412835,
+    45.638179,
+    -89.412835,
+    45.638179
+],
   "geometry": {"coordinates":[-89.412835,45.638179],"type":"Point"}
 }

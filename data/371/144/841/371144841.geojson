@@ -2,13 +2,14 @@
   "id": 371144841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.315812,43.641657,-88.315812,43.641657",
     "geom:latitude":43.641657,
     "geom:longitude":-88.315812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3169 Meadow Rd",
     "sg:city":"Campbellsport",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371144841,
-    "wof:lastmodified":1449049816,
+    "wof:lastmodified":1467089913,
     "wof:name":"P&P Baumann Farms LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.315812,43.641657,-88.315812,43.641657],
-  "geometry": {"coordinates":[-88.315812,43.641657],"type":"Point"}
+  "bbox": [
+    -88.315812,
+    43.641657,
+    -88.315812,
+    43.641657
+],
+  "geometry": {"coordinates":[-88.31581199999999,43.641657],"type":"Point"}
 }

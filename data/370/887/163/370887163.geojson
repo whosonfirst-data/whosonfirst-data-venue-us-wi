@@ -2,13 +2,14 @@
   "id": 370887163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.032207,44.466248,-88.032207,44.466248",
     "geom:latitude":44.466248,
     "geom:longitude":-88.032207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3012 S Clay St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370887163,
-    "wof:lastmodified":1449031810,
+    "wof:lastmodified":1467089905,
     "wof:name":"Hill Molecular Products Inc",
     "wof:parent_id":85877931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "floor"
     ]
 },
-  "bbox": [-88.032207,44.466248,-88.032207,44.466248],
+  "bbox": [
+    -88.032207,
+    44.466248,
+    -88.032207,
+    44.466248
+],
   "geometry": {"coordinates":[-88.032207,44.466248],"type":"Point"}
 }

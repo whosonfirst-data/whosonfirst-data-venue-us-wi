@@ -2,13 +2,14 @@
   "id": 353574343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.900149,42.887843,-87.900149,42.887843",
     "geom:latitude":42.887843,
     "geom:longitude":-87.900149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8655 S Golden Fields Dr",
     "sg:city":"Oak Creek",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353574343,
-    "wof:lastmodified":1449018240,
+    "wof:lastmodified":1467089886,
     "wof:name":"American Eagle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.900149,42.887843,-87.900149,42.887843],
+  "bbox": [
+    -87.900149,
+    42.887843,
+    -87.900149,
+    42.887843
+],
   "geometry": {"coordinates":[-87.900149,42.887843],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403942135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.064634,44.566113,-88.064634,44.566113",
     "geom:latitude":44.566113,
     "geom:longitude":-88.064634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"978 Lakeview Dr",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403942135,
-    "wof:lastmodified":1449055248,
+    "wof:lastmodified":1467089919,
     "wof:name":"New Tab of Green Bay Inc",
     "wof:parent_id":85815317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "air"
     ]
 },
-  "bbox": [-88.064634,44.566113,-88.064634,44.566113],
+  "bbox": [
+    -88.064634,
+    44.566113,
+    -88.064634,
+    44.566113
+],
   "geometry": {"coordinates":[-88.064634,44.566113],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370754963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.367263,45.365787,-92.367263,45.365787",
     "geom:latitude":45.365787,
     "geom:longitude":-92.367263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 100th St",
     "sg:city":"Amery",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370754963,
-    "wof:lastmodified":1449031289,
+    "wof:lastmodified":1467089904,
     "wof:name":"Daniel's Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.367263,45.365787,-92.367263,45.365787],
-  "geometry": {"coordinates":[-92.367263,45.365787],"type":"Point"}
+  "bbox": [
+    -92.367263,
+    45.365787,
+    -92.367263,
+    45.365787
+],
+  "geometry": {"coordinates":[-92.36726299999999,45.365787],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354351073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.545864,44.46729,-89.545864,44.46729",
     "geom:latitude":44.46729,
     "geom:longitude":-89.545864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2951 Bea Jay Ln",
     "sg:city":"Plover",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354351073,
-    "wof:lastmodified":1449067392,
+    "wof:lastmodified":1467089937,
     "wof:name":"Absolute Image Window Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-89.545864,44.46729,-89.545864,44.46729],
-  "geometry": {"coordinates":[-89.545864,44.46729],"type":"Point"}
+  "bbox": [
+    -89.545864,
+    44.46729,
+    -89.545864,
+    44.46729
+],
+  "geometry": {"coordinates":[-89.54586399999999,44.46729],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403962127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.677513,44.06956,-87.677513,44.06956",
     "geom:latitude":44.06956,
     "geom:longitude":-87.677513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2350 S 23rd St",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403962127,
-    "wof:lastmodified":1449055432,
+    "wof:lastmodified":1467089919,
     "wof:name":"University Village Heights",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-87.677513,44.06956,-87.677513,44.06956],
+  "bbox": [
+    -87.677513,
+    44.06956,
+    -87.677513,
+    44.06956
+],
   "geometry": {"coordinates":[-87.677513,44.06956],"type":"Point"}
 }

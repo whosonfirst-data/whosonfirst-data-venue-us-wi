@@ -2,13 +2,14 @@
   "id": 371107667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.916816,43.019085,-87.916816,43.019085",
     "geom:latitude":43.019085,
     "geom:longitude":-87.916816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 S 5th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371107667,
-    "wof:lastmodified":1449049077,
+    "wof:lastmodified":1467089912,
     "wof:name":"So-Lite Neon Sign Co Inc",
     "wof:parent_id":85870951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "illuminated"
     ]
 },
-  "bbox": [-87.916816,43.019085,-87.916816,43.019085],
+  "bbox": [
+    -87.916816,
+    43.019085,
+    -87.916816,
+    43.019085
+],
   "geometry": {"coordinates":[-87.916816,43.019085],"type":"Point"}
 }

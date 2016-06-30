@@ -2,13 +2,14 @@
   "id": 354364993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.583628,44.271579,-87.583628,44.271579",
     "geom:latitude":44.271579,
     "geom:longitude":-87.583628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14810 Tannery Rd",
     "sg:city":"Mishicot",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354364993,
-    "wof:lastmodified":1449066906,
+    "wof:lastmodified":1467089936,
     "wof:name":"Roys Radio TV",
     "wof:parent_id":85827947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.583628,44.271579,-87.583628,44.271579],
+  "bbox": [
+    -87.583628,
+    44.271579,
+    -87.583628,
+    44.271579
+],
   "geometry": {"coordinates":[-87.583628,44.271579],"type":"Point"}
 }

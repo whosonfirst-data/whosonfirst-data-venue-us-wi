@@ -2,13 +2,14 @@
   "id": 404117315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.392795,43.328571,-88.392795,43.328571",
     "geom:latitude":43.328571,
     "geom:longitude":-88.392795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1023 W State St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404117315,
-    "wof:lastmodified":1449039946,
+    "wof:lastmodified":1467089911,
     "wof:name":"Mantz Automation Inc",
     "wof:parent_id":85841573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "plastic"
     ]
 },
-  "bbox": [-88.392795,43.328571,-88.392795,43.328571],
-  "geometry": {"coordinates":[-88.392795,43.328571],"type":"Point"}
+  "bbox": [
+    -88.392795,
+    43.328571,
+    -88.392795,
+    43.328571
+],
+  "geometry": {"coordinates":[-88.39279500000001,43.328571],"type":"Point"}
 }

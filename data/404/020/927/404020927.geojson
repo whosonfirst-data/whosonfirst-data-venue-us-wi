@@ -2,13 +2,14 @@
   "id": 404020927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.931205,43.010459,-87.931205,43.010459",
     "geom:latitude":43.010459,
     "geom:longitude":-87.931205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1516 W Forest Home Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404020927,
-    "wof:lastmodified":1449039573,
+    "wof:lastmodified":1467089910,
     "wof:name":"Forrest Ave HM Elementary Schl",
     "wof:parent_id":85870893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-87.931205,43.010459,-87.931205,43.010459],
-  "geometry": {"coordinates":[-87.931205,43.010459],"type":"Point"}
+  "bbox": [
+    -87.931205,
+    43.010459,
+    -87.931205,
+    43.010459
+],
+  "geometry": {"coordinates":[-87.93120500000001,43.010459],"type":"Point"}
 }

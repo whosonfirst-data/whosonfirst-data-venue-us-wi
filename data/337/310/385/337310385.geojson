@@ -2,13 +2,14 @@
   "id": 337310385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.033487,44.448741,-89.033487,44.448741",
     "geom:latitude":44.448741,
     "geom:longitude":-89.033487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Spring St",
     "sg:city":"Ogdensburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337310385,
-    "wof:lastmodified":1449027452,
+    "wof:lastmodified":1467089895,
     "wof:name":"Onsite Waste Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "waste"
     ]
 },
-  "bbox": [-89.033487,44.448741,-89.033487,44.448741],
-  "geometry": {"coordinates":[-89.033487,44.448741],"type":"Point"}
+  "bbox": [
+    -89.033487,
+    44.448741,
+    -89.033487,
+    44.448741
+],
+  "geometry": {"coordinates":[-89.03348699999999,44.448741],"type":"Point"}
 }

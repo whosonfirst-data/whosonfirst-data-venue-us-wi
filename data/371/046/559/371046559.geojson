@@ -2,13 +2,14 @@
   "id": 371046559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.02295,45.532443,-92.02295,45.532443",
     "geom:latitude":45.532443,
     "geom:longitude":-92.02295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2760 US Hwy 63",
     "sg:city":"Cumberland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371046559,
-    "wof:lastmodified":1449049637,
+    "wof:lastmodified":1467089913,
     "wof:name":"Longbow Wildlife Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.02295,45.532443,-92.02295,45.532443],
-  "geometry": {"coordinates":[-92.02295,45.532443],"type":"Point"}
+  "bbox": [
+    -92.02295,
+    45.532443,
+    -92.02295,
+    45.532443
+],
+  "geometry": {"coordinates":[-92.02294999999999,45.532443],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403883591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.256162,43.048461,-88.256162,43.048461",
     "geom:latitude":43.048461,
     "geom:longitude":-88.256162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3114 N Grandview Blvd",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403883591,
-    "wof:lastmodified":1449055650,
+    "wof:lastmodified":1467089920,
     "wof:name":"GE",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehouse"
     ]
 },
-  "bbox": [-88.256162,43.048461,-88.256162,43.048461],
+  "bbox": [
+    -88.256162,
+    43.048461,
+    -88.256162,
+    43.048461
+],
   "geometry": {"coordinates":[-88.256162,43.048461],"type":"Point"}
 }

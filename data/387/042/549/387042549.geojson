@@ -2,13 +2,14 @@
   "id": 387042549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.455053,43.19032,-89.455053,43.19032",
     "geom:latitude":43.19032,
     "geom:longitude":-89.455053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 South St",
     "sg:city":"Waunakee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387042549,
-    "wof:lastmodified":1449058993,
+    "wof:lastmodified":1467089930,
     "wof:name":"Saint John Church & School",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.455053,43.19032,-89.455053,43.19032],
-  "geometry": {"coordinates":[-89.455053,43.19032],"type":"Point"}
+  "bbox": [
+    -89.455053,
+    43.19032,
+    -89.455053,
+    43.19032
+],
+  "geometry": {"coordinates":[-89.45505300000001,43.19032],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353926779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.911309,43.022284,-87.911309,43.022284",
     "geom:latitude":43.022284,
     "geom:longitude":-87.911309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 S 1st St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":353926779,
-    "wof:lastmodified":1449019142,
+    "wof:lastmodified":1467089888,
     "wof:name":"Club Paradise Gentlemen's Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "entertainer"
     ]
 },
-  "bbox": [-87.911309,43.022284,-87.911309,43.022284],
+  "bbox": [
+    -87.911309,
+    43.022284,
+    -87.911309,
+    43.022284
+],
   "geometry": {"coordinates":[-87.911309,43.022284],"type":"Point"}
 }

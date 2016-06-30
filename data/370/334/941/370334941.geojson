@@ -2,13 +2,14 @@
   "id": 370334941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.063479,42.93176,-88.063479,42.93176",
     "geom:latitude":42.93176,
     "geom:longitude":-88.063479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11801 Indian Trl",
     "sg:city":"Hales Corners",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370334941,
-    "wof:lastmodified":1449030095,
+    "wof:lastmodified":1467089900,
     "wof:name":"Muenchow Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "management"
     ]
 },
-  "bbox": [-88.063479,42.93176,-88.063479,42.93176],
+  "bbox": [
+    -88.063479,
+    42.93176,
+    -88.063479,
+    42.93176
+],
   "geometry": {"coordinates":[-88.063479,42.93176],"type":"Point"}
 }

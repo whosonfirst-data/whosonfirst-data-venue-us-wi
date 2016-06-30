@@ -2,13 +2,14 @@
   "id": 354119343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.889403,43.507741,-88.889403,43.507741",
     "geom:latitude":43.507741,
     "geom:longitude":-88.889403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9772 Mallard Ct",
     "sg:city":"Beaver Dam",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354119343,
-    "wof:lastmodified":1449067176,
+    "wof:lastmodified":1467089936,
     "wof:name":"Avon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mail"
     ]
 },
-  "bbox": [-88.889403,43.507741,-88.889403,43.507741],
+  "bbox": [
+    -88.889403,
+    43.507741,
+    -88.889403,
+    43.507741
+],
   "geometry": {"coordinates":[-88.889403,43.507741],"type":"Point"}
 }

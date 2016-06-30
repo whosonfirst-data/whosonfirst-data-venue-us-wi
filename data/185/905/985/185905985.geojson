@@ -2,13 +2,14 @@
   "id": 185905985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.956691,42.726389,-87.956691,42.726389",
     "geom:latitude":42.726389,
     "geom:longitude":-87.956691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14001 Washington Ave",
     "sg:city":"Sturtevant",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185905985,
-    "wof:lastmodified":1449007251,
+    "wof:lastmodified":1467089884,
     "wof:name":"Spokes Restaurant and Bar",
     "wof:parent_id":85827175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "eating"
     ]
 },
-  "bbox": [-87.956691,42.726389,-87.956691,42.726389],
-  "geometry": {"coordinates":[-87.956691,42.726389],"type":"Point"}
+  "bbox": [
+    -87.956691,
+    42.726389,
+    -87.956691,
+    42.726389
+],
+  "geometry": {"coordinates":[-87.95669100000001,42.726389],"type":"Point"}
 }

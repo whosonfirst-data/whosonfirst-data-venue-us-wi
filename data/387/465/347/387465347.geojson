@@ -2,13 +2,14 @@
   "id": 387465347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.513461,44.813356,-91.513461,44.813356",
     "geom:latitude":44.813356,
     "geom:longitude":-91.513461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 Whipple St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387465347,
-    "wof:lastmodified":1449058667,
+    "wof:lastmodified":1467089929,
     "wof:name":"Midelfort Clinic",
     "wof:parent_id":85848105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-91.513461,44.813356,-91.513461,44.813356],
-  "geometry": {"coordinates":[-91.513461,44.813356],"type":"Point"}
+  "bbox": [
+    -91.513461,
+    44.813356,
+    -91.513461,
+    44.813356
+],
+  "geometry": {"coordinates":[-91.51346100000001,44.813356],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337318855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.453924,45.450677,-92.453924,45.450677",
     "geom:latitude":45.450677,
     "geom:longitude":-92.453924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Main St",
     "sg:city":"Balsam Lake",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337318855,
-    "wof:lastmodified":1449027103,
+    "wof:lastmodified":1467089893,
     "wof:name":"Re/Max At The Lake",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.453924,45.450677,-92.453924,45.450677],
+  "bbox": [
+    -92.453924,
+    45.450677,
+    -92.453924,
+    45.450677
+],
   "geometry": {"coordinates":[-92.453924,45.450677],"type":"Point"}
 }

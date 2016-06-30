@@ -2,13 +2,14 @@
   "id": 387531181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.016222,44.1841,-90.016222,44.1841",
     "geom:latitude":44.1841,
     "geom:longitude":-90.016222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14558 Co Rd G",
     "sg:city":"Withee",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387531181,
-    "wof:lastmodified":1449057005,
+    "wof:lastmodified":1467089924,
     "wof:name":"Martin Meat Processing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "packing"
     ]
 },
-  "bbox": [-90.016222,44.1841,-90.016222,44.1841],
+  "bbox": [
+    -90.016222,
+    44.1841,
+    -90.016222,
+    44.1841
+],
   "geometry": {"coordinates":[-90.016222,44.1841],"type":"Point"}
 }

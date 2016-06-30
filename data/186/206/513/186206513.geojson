@@ -2,13 +2,14 @@
   "id": 186206513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.00662,44.490271,-88.00662,44.490271",
     "geom:latitude":44.490271,
     "geom:longitude":-88.00662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Garland St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186206513,
-    "wof:lastmodified":1449052200,
+    "wof:lastmodified":1467089916,
     "wof:name":"Junkermann Studios",
     "wof:parent_id":85877933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "tile"
     ]
 },
-  "bbox": [-88.00662,44.490271,-88.00662,44.490271],
+  "bbox": [
+    -88.00662,
+    44.490271,
+    -88.00662,
+    44.490271
+],
   "geometry": {"coordinates":[-88.00662,44.490271],"type":"Point"}
 }

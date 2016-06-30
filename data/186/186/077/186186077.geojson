@@ -2,13 +2,14 @@
   "id": 186186077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.455529,44.710221,-90.455529,44.710221",
     "geom:latitude":44.710221,
     "geom:longitude":-90.455529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7758 Romadka Ave",
     "sg:city":"Loyal",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186186077,
-    "wof:lastmodified":1449052419,
+    "wof:lastmodified":1467089916,
     "wof:name":"Schultz John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.455529,44.710221,-90.455529,44.710221],
+  "bbox": [
+    -90.455529,
+    44.710221,
+    -90.455529,
+    44.710221
+],
   "geometry": {"coordinates":[-90.455529,44.710221],"type":"Point"}
 }

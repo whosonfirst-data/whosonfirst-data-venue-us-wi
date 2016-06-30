@@ -2,13 +2,14 @@
   "id": 370941245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.461205,43.751337,-89.461205,43.751337",
     "geom:latitude":43.751337,
     "geom:longitude":-89.461205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 8th Ln",
     "sg:city":"Montello",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370941245,
-    "wof:lastmodified":1449031101,
+    "wof:lastmodified":1467089903,
     "wof:name":"Treasure Zone Uptown Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.461205,43.751337,-89.461205,43.751337],
-  "geometry": {"coordinates":[-89.461205,43.751337],"type":"Point"}
+  "bbox": [
+    -89.461205,
+    43.751337,
+    -89.461205,
+    43.751337
+],
+  "geometry": {"coordinates":[-89.46120500000001,43.751337],"type":"Point"}
 }

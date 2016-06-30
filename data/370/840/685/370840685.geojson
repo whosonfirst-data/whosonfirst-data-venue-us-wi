@@ -2,13 +2,14 @@
   "id": 370840685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.905921,43.047814,-87.905921,43.047814",
     "geom:latitude":43.047814,
     "geom:longitude":-87.905921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1328 N Jefferson St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370840685,
-    "wof:lastmodified":1449031723,
+    "wof:lastmodified":1467089905,
     "wof:name":"Ornek Geddam Information Tech",
     "wof:parent_id":85870985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-87.905921,43.047814,-87.905921,43.047814],
-  "geometry": {"coordinates":[-87.905921,43.047814],"type":"Point"}
+  "bbox": [
+    -87.905921,
+    43.047814,
+    -87.905921,
+    43.047814
+],
+  "geometry": {"coordinates":[-87.90592100000001,43.047814],"type":"Point"}
 }

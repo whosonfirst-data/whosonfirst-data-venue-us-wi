@@ -2,13 +2,14 @@
   "id": 403832243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.993425,43.295237,-88.993425,43.295237",
     "geom:latitude":43.295237,
     "geom:longitude":-88.993425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12061 Pergande Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403832243,
-    "wof:lastmodified":1449054631,
+    "wof:lastmodified":1467089917,
     "wof:name":"Total Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.993425,43.295237,-88.993425,43.295237],
+  "bbox": [
+    -88.993425,
+    43.295237,
+    -88.993425,
+    43.295237
+],
   "geometry": {"coordinates":[-88.993425,43.295237],"type":"Point"}
 }

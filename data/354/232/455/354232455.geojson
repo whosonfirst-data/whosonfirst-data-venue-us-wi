@@ -2,13 +2,14 @@
   "id": 354232455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.926842,43.012363,-87.926842,43.012363",
     "geom:latitude":43.012363,
     "geom:longitude":-87.926842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 W Historic Mitchell St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354232455,
-    "wof:lastmodified":1449066463,
+    "wof:lastmodified":1467089935,
     "wof:name":"Azteca Jewelers",
     "wof:parent_id":85870893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "silversmith"
     ]
 },
-  "bbox": [-87.926842,43.012363,-87.926842,43.012363],
-  "geometry": {"coordinates":[-87.926842,43.012363],"type":"Point"}
+  "bbox": [
+    -87.926842,
+    43.012363,
+    -87.926842,
+    43.012363
+],
+  "geometry": {"coordinates":[-87.92684199999999,43.012363],"type":"Point"}
 }

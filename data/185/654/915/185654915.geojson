@@ -2,13 +2,14 @@
   "id": 185654915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.540634,44.07046,-88.540634,44.07046",
     "geom:latitude":44.07046,
     "geom:longitude":-88.540634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Chateau Ter",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185654915,
-    "wof:lastmodified":1449007143,
+    "wof:lastmodified":1467089884,
     "wof:name":"Silver Lake Builders",
     "wof:parent_id":85827909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.540634,44.07046,-88.540634,44.07046],
+  "bbox": [
+    -88.540634,
+    44.07046,
+    -88.540634,
+    44.07046
+],
   "geometry": {"coordinates":[-88.540634,44.07046],"type":"Point"}
 }

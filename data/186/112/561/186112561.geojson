@@ -2,13 +2,14 @@
   "id": 186112561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.91212,43.078494,-87.91212,43.078494",
     "geom:latitude":43.078494,
     "geom:longitude":-87.91212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 W Concordia Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186112561,
-    "wof:lastmodified":1449051606,
+    "wof:lastmodified":1467089915,
     "wof:name":"Ieesha's Home Hair Care & More",
     "wof:parent_id":85870941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.91212,43.078494,-87.91212,43.078494],
+  "bbox": [
+    -87.91212,
+    43.078494,
+    -87.91212,
+    43.078494
+],
   "geometry": {"coordinates":[-87.91212,43.078494],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353531777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.00598,43.128947,-88.00598,43.128947",
     "geom:latitude":43.128947,
     "geom:longitude":-88.00598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6005 N 76th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353531777,
-    "wof:lastmodified":1449018853,
+    "wof:lastmodified":1467089887,
     "wof:name":"Mr PS Tires",
     "wof:parent_id":85870903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "truck"
     ]
 },
-  "bbox": [-88.00598,43.128947,-88.00598,43.128947],
-  "geometry": {"coordinates":[-88.00598,43.128947],"type":"Point"}
+  "bbox": [
+    -88.00598,
+    43.128947,
+    -88.00598,
+    43.128947
+],
+  "geometry": {"coordinates":[-88.00597999999999,43.128947],"type":"Point"}
 }

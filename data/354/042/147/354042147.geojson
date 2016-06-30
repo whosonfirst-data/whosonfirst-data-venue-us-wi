@@ -2,13 +2,14 @@
   "id": 354042147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.003727,43.010134,-88.003727,43.010134",
     "geom:latitude":43.010134,
     "geom:longitude":-88.003727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 S 73rd St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354042147,
-    "wof:lastmodified":1449067234,
+    "wof:lastmodified":1467089937,
     "wof:name":"Kempsmith Machine Co",
     "wof:parent_id":85870937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "paper"
     ]
 },
-  "bbox": [-88.003727,43.010134,-88.003727,43.010134],
+  "bbox": [
+    -88.003727,
+    43.010134,
+    -88.003727,
+    43.010134
+],
   "geometry": {"coordinates":[-88.003727,43.010134],"type":"Point"}
 }

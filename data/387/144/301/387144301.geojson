@@ -2,13 +2,14 @@
   "id": 387144301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.187043,43.018601,-88.187043,43.018601",
     "geom:latitude":43.018601,
     "geom:longitude":-88.187043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1195 W Ridge Rd",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387144301,
-    "wof:lastmodified":1449058894,
+    "wof:lastmodified":1467089930,
     "wof:name":"Jt & Associates LLC",
     "wof:parent_id":85815589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-88.187043,43.018601,-88.187043,43.018601],
+  "bbox": [
+    -88.187043,
+    43.018601,
+    -88.187043,
+    43.018601
+],
   "geometry": {"coordinates":[-88.187043,43.018601],"type":"Point"}
 }

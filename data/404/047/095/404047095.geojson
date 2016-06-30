@@ -2,13 +2,14 @@
   "id": 404047095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.000294,44.299102,-88.000294,44.299102",
     "geom:latitude":44.299102,
     "geom:longitude":-88.000294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3092 Mill Rd",
     "sg:city":"Greenleaf",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404047095,
-    "wof:lastmodified":1449039905,
+    "wof:lastmodified":1467089911,
     "wof:name":"Theodore Lemke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-88.000294,44.299102,-88.000294,44.299102],
+  "bbox": [
+    -88.000294,
+    44.299102,
+    -88.000294,
+    44.299102
+],
   "geometry": {"coordinates":[-88.000294,44.299102],"type":"Point"}
 }

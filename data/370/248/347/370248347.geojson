@@ -2,13 +2,14 @@
   "id": 370248347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.485459,44.239059,-88.485459,44.239059",
     "geom:latitude":44.239059,
     "geom:longitude":-88.485459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 Cold Spring Rd",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370248347,
-    "wof:lastmodified":1449030930,
+    "wof:lastmodified":1467089903,
     "wof:name":"J C Taylor & Co Organ Builders",
     "wof:parent_id":85807543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "organs"
     ]
 },
-  "bbox": [-88.485459,44.239059,-88.485459,44.239059],
-  "geometry": {"coordinates":[-88.485459,44.239059],"type":"Point"}
+  "bbox": [
+    -88.485459,
+    44.239059,
+    -88.485459,
+    44.239059
+],
+  "geometry": {"coordinates":[-88.48545900000001,44.239059],"type":"Point"}
 }

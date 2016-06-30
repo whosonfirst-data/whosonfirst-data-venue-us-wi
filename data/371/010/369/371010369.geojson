@@ -2,13 +2,14 @@
   "id": 371010369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.439168,45.935276,-90.439168,45.935276",
     "geom:latitude":45.935276,
     "geom:longitude":-90.439168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Paddock Ave",
     "sg:city":"Park Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371010369,
-    "wof:lastmodified":1449049687,
+    "wof:lastmodified":1467089913,
     "wof:name":"Faith Baptist Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.439168,45.935276,-90.439168,45.935276],
+  "bbox": [
+    -90.439168,
+    45.935276,
+    -90.439168,
+    45.935276
+],
   "geometry": {"coordinates":[-90.439168,45.935276],"type":"Point"}
 }

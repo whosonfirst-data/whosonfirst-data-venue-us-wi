@@ -2,13 +2,14 @@
   "id": 403833495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.33149,43.36963,-88.33149,43.36963",
     "geom:latitude":43.36963,
     "geom:longitude":-88.33149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5909 Co Hwy K",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403833495,
-    "wof:lastmodified":1449054790,
+    "wof:lastmodified":1467089918,
     "wof:name":"St Lawrnce 4 Yr Child Look Ctr",
     "wof:parent_id":85846691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "preschool"
     ]
 },
-  "bbox": [-88.33149,43.36963,-88.33149,43.36963],
+  "bbox": [
+    -88.33149,
+    43.36963,
+    -88.33149,
+    43.36963
+],
   "geometry": {"coordinates":[-88.33149,43.36963],"type":"Point"}
 }

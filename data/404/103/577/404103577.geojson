@@ -2,13 +2,14 @@
   "id": 404103577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.956839,42.995321,-87.956839,42.995321",
     "geom:latitude":42.995321,
     "geom:longitude":-87.956839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2779 S 34th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404103577,
-    "wof:lastmodified":1449039868,
+    "wof:lastmodified":1467089910,
     "wof:name":"Doran Enterprises Inc",
     "wof:parent_id":85870927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.956839,42.995321,-87.956839,42.995321],
+  "bbox": [
+    -87.956839,
+    42.995321,
+    -87.956839,
+    42.995321
+],
   "geometry": {"coordinates":[-87.956839,42.995321],"type":"Point"}
 }

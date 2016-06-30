@@ -2,13 +2,14 @@
   "id": 404217277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.017334,43.030939,-88.017334,43.030939",
     "geom:latitude":43.030939,
     "geom:longitude":-88.017334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 S 84th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404217277,
-    "wof:lastmodified":1449040266,
+    "wof:lastmodified":1467089911,
     "wof:name":"Honey Sazs Creek Deli",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.017334,43.030939,-88.017334,43.030939],
-  "geometry": {"coordinates":[-88.017334,43.030939],"type":"Point"}
+  "bbox": [
+    -88.017334,
+    43.030939,
+    -88.017334,
+    43.030939
+],
+  "geometry": {"coordinates":[-88.01733400000001,43.030939],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404096867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.181974,45.932881,-92.181974,45.932881",
     "geom:latitude":45.932881,
     "geom:longitude":-92.181974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3896 Co Rd A",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404096867,
-    "wof:lastmodified":1449039401,
+    "wof:lastmodified":1467089910,
     "wof:name":"Voyager Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.181974,45.932881,-92.181974,45.932881],
+  "bbox": [
+    -92.181974,
+    45.932881,
+    -92.181974,
+    45.932881
+],
   "geometry": {"coordinates":[-92.181974,45.932881],"type":"Point"}
 }

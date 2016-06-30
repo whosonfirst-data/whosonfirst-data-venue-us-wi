@@ -2,13 +2,14 @@
   "id": 353853849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.012118,43.161237,-88.012118,43.161237",
     "geom:latitude":43.161237,
     "geom:longitude":-88.012118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8309 W Parkland Ct",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353853849,
-    "wof:lastmodified":1449019286,
+    "wof:lastmodified":1467089888,
     "wof:name":"Carlisle Tire & Wheel Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tire"
     ]
 },
-  "bbox": [-88.012118,43.161237,-88.012118,43.161237],
+  "bbox": [
+    -88.012118,
+    43.161237,
+    -88.012118,
+    43.161237
+],
   "geometry": {"coordinates":[-88.012118,43.161237],"type":"Point"}
 }

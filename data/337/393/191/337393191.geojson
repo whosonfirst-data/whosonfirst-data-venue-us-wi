@@ -2,13 +2,14 @@
   "id": 337393191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.161105,44.677148,-90.161105,44.677148",
     "geom:latitude":44.677148,
     "geom:longitude":-90.161105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 E Ives St",
     "sg:city":"Marshfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337393191,
-    "wof:lastmodified":1449027198,
+    "wof:lastmodified":1467089893,
     "wof:name":"Radio Shack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-90.161105,44.677148,-90.161105,44.677148],
-  "geometry": {"coordinates":[-90.161105,44.677148],"type":"Point"}
+  "bbox": [
+    -90.161105,
+    44.677148,
+    -90.161105,
+    44.677148
+],
+  "geometry": {"coordinates":[-90.16110500000001,44.677148],"type":"Point"}
 }

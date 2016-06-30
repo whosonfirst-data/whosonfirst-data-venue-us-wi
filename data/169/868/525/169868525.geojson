@@ -2,13 +2,14 @@
   "id": 169868525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.384033,43.076236,-89.384033,43.076236",
     "geom:latitude":43.076236,
     "geom:longitude":-89.384033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 N Pinckney St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169868525,
-    "wof:lastmodified":1449032841,
+    "wof:lastmodified":1467089908,
     "wof:name":"Friends of The Great Green Mac",
     "wof:parent_id":85878845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "habitat"
     ]
 },
-  "bbox": [-89.384033,43.076236,-89.384033,43.076236],
+  "bbox": [
+    -89.384033,
+    43.076236,
+    -89.384033,
+    43.076236
+],
   "geometry": {"coordinates":[-89.384033,43.076236],"type":"Point"}
 }

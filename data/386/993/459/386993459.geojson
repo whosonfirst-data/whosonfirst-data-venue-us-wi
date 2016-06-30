@@ -2,13 +2,14 @@
   "id": 386993459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.408783,44.272841,-88.408783,44.272841",
     "geom:latitude":44.272841,
     "geom:longitude":-88.408783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 N Superior St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386993459,
-    "wof:lastmodified":1449028759,
+    "wof:lastmodified":1467089896,
     "wof:name":"Hoffman Financial Svc",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-88.408783,44.272841,-88.408783,44.272841],
+  "bbox": [
+    -88.408783,
+    44.272841,
+    -88.408783,
+    44.272841
+],
   "geometry": {"coordinates":[-88.408783,44.272841],"type":"Point"}
 }

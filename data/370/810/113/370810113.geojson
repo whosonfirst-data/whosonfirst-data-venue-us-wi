@@ -2,13 +2,14 @@
   "id": 370810113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.944854,43.221459,-87.944854,43.221459",
     "geom:latitude":43.221459,
     "geom:longitude":-87.944854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2909 W Mequon Rd",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370810113,
-    "wof:lastmodified":1449030093,
+    "wof:lastmodified":1467089900,
     "wof:name":"Jcc Beth El Nursery School",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "day"
     ]
 },
-  "bbox": [-87.944854,43.221459,-87.944854,43.221459],
-  "geometry": {"coordinates":[-87.944854,43.221459],"type":"Point"}
+  "bbox": [
+    -87.944854,
+    43.221459,
+    -87.944854,
+    43.221459
+],
+  "geometry": {"coordinates":[-87.94485400000001,43.221459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370370189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.187463,43.021931,-88.187463,43.021931",
     "geom:latitude":43.021931,
     "geom:longitude":-88.187463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 W Ridge Rd",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370370189,
-    "wof:lastmodified":1449030918,
+    "wof:lastmodified":1467089903,
     "wof:name":"Imagingtech Inc",
     "wof:parent_id":85815589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "research"
     ]
 },
-  "bbox": [-88.187463,43.021931,-88.187463,43.021931],
-  "geometry": {"coordinates":[-88.187463,43.021931],"type":"Point"}
+  "bbox": [
+    -88.187463,
+    43.021931,
+    -88.187463,
+    43.021931
+],
+  "geometry": {"coordinates":[-88.18746299999999,43.021931],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403911307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.929985,43.069711,-87.929985,43.069711",
     "geom:latitude":43.069711,
     "geom:longitude":-87.929985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2809 N Teutonia Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403911307,
-    "wof:lastmodified":1449055754,
+    "wof:lastmodified":1467089920,
     "wof:name":"Christian Devine Childcare",
     "wof:parent_id":85870993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-87.929985,43.069711,-87.929985,43.069711],
+  "bbox": [
+    -87.929985,
+    43.069711,
+    -87.929985,
+    43.069711
+],
   "geometry": {"coordinates":[-87.929985,43.069711],"type":"Point"}
 }

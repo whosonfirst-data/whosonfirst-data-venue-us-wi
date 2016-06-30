@@ -2,13 +2,14 @@
   "id": 387299455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.29883,42.946833,-89.29883,42.946833",
     "geom:latitude":42.946833,
     "geom:longitude":-89.29883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3786 Halverson Rd",
     "sg:city":"Stoughton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387299455,
-    "wof:lastmodified":1449057071,
+    "wof:lastmodified":1467089924,
     "wof:name":"Acker Small Agent",
     "wof:parent_id":85868281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.29883,42.946833,-89.29883,42.946833],
+  "bbox": [
+    -89.29883,
+    42.946833,
+    -89.29883,
+    42.946833
+],
   "geometry": {"coordinates":[-89.29883,42.946833],"type":"Point"}
 }

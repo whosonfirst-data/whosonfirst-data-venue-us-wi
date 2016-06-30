@@ -2,13 +2,14 @@
   "id": 353743595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.513697,43.912265,-88.513697,43.912265",
     "geom:latitude":43.912265,
     "geom:longitude":-88.513697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6820 Swiss Rd",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353743595,
-    "wof:lastmodified":1449020773,
+    "wof:lastmodified":1467089892,
     "wof:name":"Trenhaile & Associates",
     "wof:parent_id":85840915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.513697,43.912265,-88.513697,43.912265],
-  "geometry": {"coordinates":[-88.513697,43.912265],"type":"Point"}
+  "bbox": [
+    -88.513697,
+    43.912265,
+    -88.513697,
+    43.912265
+],
+  "geometry": {"coordinates":[-88.51369699999999,43.912265],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403737073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.951897,44.512907,-87.951897,44.512907",
     "geom:latitude":44.512907,
     "geom:longitude":-87.951897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"588 Baird Creek Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403737073,
-    "wof:lastmodified":1449054945,
+    "wof:lastmodified":1467089918,
     "wof:name":"Zimonick Properties",
     "wof:parent_id":85877939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.951897,44.512907,-87.951897,44.512907],
+  "bbox": [
+    -87.951897,
+    44.512907,
+    -87.951897,
+    44.512907
+],
   "geometry": {"coordinates":[-87.951897,44.512907],"type":"Point"}
 }

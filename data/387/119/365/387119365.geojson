@@ -2,13 +2,14 @@
   "id": 387119365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.960111,45.384086,-87.960111,45.384086",
     "geom:latitude":45.384086,
     "geom:longitude":-87.960111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 Poplar St",
     "sg:city":"Wausaukee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387119365,
-    "wof:lastmodified":1449058825,
+    "wof:lastmodified":1467089930,
     "wof:name":"Blondie's House Of Beauty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-87.960111,45.384086,-87.960111,45.384086],
+  "bbox": [
+    -87.960111,
+    45.384086,
+    -87.960111,
+    45.384086
+],
   "geometry": {"coordinates":[-87.960111,45.384086],"type":"Point"}
 }

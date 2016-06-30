@@ -2,13 +2,14 @@
   "id": 185992239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.900352,43.067463,-87.900352,43.067463",
     "geom:latitude":43.067463,
     "geom:longitude":-87.900352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 E Center St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185992239,
-    "wof:lastmodified":1449007371,
+    "wof:lastmodified":1467089884,
     "wof:name":"Lotus Land",
     "wof:parent_id":85867295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-87.900352,43.067463,-87.900352,43.067463],
+  "bbox": [
+    -87.900352,
+    43.067463,
+    -87.900352,
+    43.067463
+],
   "geometry": {"coordinates":[-87.900352,43.067463],"type":"Point"}
 }

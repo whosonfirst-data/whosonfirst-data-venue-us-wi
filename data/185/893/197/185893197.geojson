@@ -2,13 +2,14 @@
   "id": 185893197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.028664,42.649773,-89.028664,42.649773",
     "geom:latitude":42.649773,
     "geom:longitude":-89.028664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"832 Kellogg Ave",
     "sg:city":"Janesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185893197,
-    "wof:lastmodified":1449007925,
+    "wof:lastmodified":1467089885,
     "wof:name":"Southview Terrace",
     "wof:parent_id":85803103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-89.028664,42.649773,-89.028664,42.649773],
-  "geometry": {"coordinates":[-89.028664,42.649773],"type":"Point"}
+  "bbox": [
+    -89.028664,
+    42.649773,
+    -89.028664,
+    42.649773
+],
+  "geometry": {"coordinates":[-89.02866400000001,42.649773],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337321939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.155964,43.153417,-88.155964,43.153417",
     "geom:latitude":43.153417,
     "geom:longitude":-88.155964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19843 W Edgewood Dr",
     "sg:city":"Lannon",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":337321939,
-    "wof:lastmodified":1449026951,
+    "wof:lastmodified":1467089892,
     "wof:name":"Hartmann Construction Co Inc",
     "wof:parent_id":85832419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "carpentry"
     ]
 },
-  "bbox": [-88.155964,43.153417,-88.155964,43.153417],
+  "bbox": [
+    -88.155964,
+    43.153417,
+    -88.155964,
+    43.153417
+],
   "geometry": {"coordinates":[-88.155964,43.153417],"type":"Point"}
 }

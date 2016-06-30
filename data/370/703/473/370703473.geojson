@@ -2,13 +2,14 @@
   "id": 370703473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.356392,44.068368,-89.356392,44.068368",
     "geom:latitude":44.068368,
     "geom:longitude":-89.356392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9487 State Hwy 21",
     "sg:city":"Wautoma",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370703473,
-    "wof:lastmodified":1449030126,
+    "wof:lastmodified":1467089900,
     "wof:name":"Woodland Painting & Decorating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-89.356392,44.068368,-89.356392,44.068368],
+  "bbox": [
+    -89.356392,
+    44.068368,
+    -89.356392,
+    44.068368
+],
   "geometry": {"coordinates":[-89.356392,44.068368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403915901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.200723,45.081304,-88.200723,45.081304",
     "geom:latitude":45.081304,
     "geom:longitude":-88.200723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11243 Parkway Rd",
     "sg:city":"Pound",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403915901,
-    "wof:lastmodified":1449055939,
+    "wof:lastmodified":1467089921,
     "wof:name":"Roger Kust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-88.200723,45.081304,-88.200723,45.081304],
+  "bbox": [
+    -88.200723,
+    45.081304,
+    -88.200723,
+    45.081304
+],
   "geometry": {"coordinates":[-88.200723,45.081304],"type":"Point"}
 }

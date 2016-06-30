@@ -2,13 +2,14 @@
   "id": 370642373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.250375,43.353386,-88.250375,43.353386",
     "geom:latitude":43.353386,
     "geom:longitude":-88.250375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4505 Arthur Rd",
     "sg:city":"Slinger",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370642373,
-    "wof:lastmodified":1449029277,
+    "wof:lastmodified":1467089898,
     "wof:name":"Main Street Station Citgo",
     "wof:parent_id":85810007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-88.250375,43.353386,-88.250375,43.353386],
-  "geometry": {"coordinates":[-88.250375,43.353386],"type":"Point"}
+  "bbox": [
+    -88.250375,
+    43.353386,
+    -88.250375,
+    43.353386
+],
+  "geometry": {"coordinates":[-88.25037500000001,43.353386],"type":"Point"}
 }

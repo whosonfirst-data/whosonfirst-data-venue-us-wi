@@ -2,13 +2,14 @@
   "id": 353603847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.568535,44.526622,-89.568535,44.526622",
     "geom:latitude":44.526622,
     "geom:longitude":-89.568535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2150 High St",
     "sg:city":"Stevens Point",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353603847,
-    "wof:lastmodified":1449020426,
+    "wof:lastmodified":1467089891,
     "wof:name":"St Stanislaus School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.568535,44.526622,-89.568535,44.526622],
+  "bbox": [
+    -89.568535,
+    44.526622,
+    -89.568535,
+    44.526622
+],
   "geometry": {"coordinates":[-89.568535,44.526622],"type":"Point"}
 }

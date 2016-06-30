@@ -2,13 +2,14 @@
   "id": 387185309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.900337,43.069295,-87.900337,43.069295",
     "geom:latitude":43.069295,
     "geom:longitude":-87.900337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 E Hadley St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387185309,
-    "wof:lastmodified":1449056727,
+    "wof:lastmodified":1467089923,
     "wof:name":"801 Pub",
     "wof:parent_id":85867295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-87.900337,43.069295,-87.900337,43.069295],
-  "geometry": {"coordinates":[-87.900337,43.069295],"type":"Point"}
+  "bbox": [
+    -87.900337,
+    43.069295,
+    -87.900337,
+    43.069295
+],
+  "geometry": {"coordinates":[-87.90033699999999,43.069295],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353866595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.594798,42.627971,-88.594798,42.627971",
     "geom:latitude":42.627971,
     "geom:longitude":-88.594798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5532 State Hwy 50",
     "sg:city":"Delavan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353866595,
-    "wof:lastmodified":1449019476,
+    "wof:lastmodified":1467089889,
     "wof:name":"Southern Lakes Vacuum Center",
     "wof:parent_id":85829149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vacuum"
     ]
 },
-  "bbox": [-88.594798,42.627971,-88.594798,42.627971],
+  "bbox": [
+    -88.594798,
+    42.627971,
+    -88.594798,
+    42.627971
+],
   "geometry": {"coordinates":[-88.594798,42.627971],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186020265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.912808,43.118684,-87.912808,43.118684",
     "geom:latitude":43.118684,
     "geom:longitude":-87.912808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 W Silver Spring Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186020265,
-    "wof:lastmodified":1449051630,
+    "wof:lastmodified":1467089915,
     "wof:name":"J C Licht Co",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-87.912808,43.118684,-87.912808,43.118684],
+  "bbox": [
+    -87.912808,
+    43.118684,
+    -87.912808,
+    43.118684
+],
   "geometry": {"coordinates":[-87.912808,43.118684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353998285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.435719,43.172096,-89.435719,43.172096",
     "geom:latitude":43.172096,
     "geom:longitude":-89.435719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1704 Savannah Way",
     "sg:city":"Waunakee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353998285,
-    "wof:lastmodified":1449019097,
+    "wof:lastmodified":1467089888,
     "wof:name":"S & H Investment of Menomonie",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-89.435719,43.172096,-89.435719,43.172096],
-  "geometry": {"coordinates":[-89.435719,43.172096],"type":"Point"}
+  "bbox": [
+    -89.435719,
+    43.172096,
+    -89.435719,
+    43.172096
+],
+  "geometry": {"coordinates":[-89.43571900000001,43.172096],"type":"Point"}
 }

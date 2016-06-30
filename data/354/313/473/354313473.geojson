@@ -2,13 +2,14 @@
   "id": 354313473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.997914,44.52508,-87.997914,44.52508",
     "geom:latitude":44.52508,
     "geom:longitude":-87.997914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"826 Vanderbraak St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354313473,
-    "wof:lastmodified":1449065991,
+    "wof:lastmodified":1467089933,
     "wof:name":"Badger Roll & Machine LLC",
     "wof:parent_id":85877949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.997914,44.52508,-87.997914,44.52508],
-  "geometry": {"coordinates":[-87.997914,44.52508],"type":"Point"}
+  "bbox": [
+    -87.997914,
+    44.52508,
+    -87.997914,
+    44.52508
+],
+  "geometry": {"coordinates":[-87.99791399999999,44.52508],"type":"Point"}
 }

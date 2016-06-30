@@ -2,13 +2,14 @@
   "id": 387306789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.736494,45.505323,-91.736494,45.505323",
     "geom:latitude":45.505323,
     "geom:longitude":-91.736494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 W Humbird St",
     "sg:city":"Rice Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387306789,
-    "wof:lastmodified":1449059743,
+    "wof:lastmodified":1467089932,
     "wof:name":"Grace Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-91.736494,45.505323,-91.736494,45.505323],
-  "geometry": {"coordinates":[-91.736494,45.505323],"type":"Point"}
+  "bbox": [
+    -91.736494,
+    45.505323,
+    -91.736494,
+    45.505323
+],
+  "geometry": {"coordinates":[-91.73649399999999,45.505323],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370486345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.112375,43.855959,-91.112375,43.855959",
     "geom:latitude":43.855959,
     "geom:longitude":-91.112375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4112 Swamp Rd",
     "sg:city":"West Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370486345,
-    "wof:lastmodified":1449030955,
+    "wof:lastmodified":1467089903,
     "wof:name":"Walter Harvey",
     "wof:parent_id":85825891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-91.112375,43.855959,-91.112375,43.855959],
+  "bbox": [
+    -91.112375,
+    43.855959,
+    -91.112375,
+    43.855959
+],
   "geometry": {"coordinates":[-91.112375,43.855959],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404129383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.197793,43.455481,-88.197793,43.455481",
     "geom:latitude":43.455481,
     "geom:longitude":-88.197793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7403 Sleepy Hollow Dr",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":404129383,
-    "wof:lastmodified":1449040056,
+    "wof:lastmodified":1467089911,
     "wof:name":"Interstate Sawing Co Inc",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "sawing"
     ]
 },
-  "bbox": [-88.197793,43.455481,-88.197793,43.455481],
+  "bbox": [
+    -88.197793,
+    43.455481,
+    -88.197793,
+    43.455481
+],
   "geometry": {"coordinates":[-88.197793,43.455481],"type":"Point"}
 }

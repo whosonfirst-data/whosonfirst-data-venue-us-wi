@@ -2,13 +2,14 @@
   "id": 353765595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.496368,43.062883,-88.496368,43.062883",
     "geom:latitude":43.062883,
     "geom:longitude":-88.496368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Daystar Ln",
     "sg:city":"Oconomowoc",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353765595,
-    "wof:lastmodified":1449019744,
+    "wof:lastmodified":1467089889,
     "wof:name":"Fulcrummusiccom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "group"
     ]
 },
-  "bbox": [-88.496368,43.062883,-88.496368,43.062883],
+  "bbox": [
+    -88.496368,
+    43.062883,
+    -88.496368,
+    43.062883
+],
   "geometry": {"coordinates":[-88.496368,43.062883],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354329515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.535079,44.03579,-88.535079,44.03579",
     "geom:latitude":44.03579,
     "geom:longitude":-88.535079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 Mount Vernon St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354329515,
-    "wof:lastmodified":1449066375,
+    "wof:lastmodified":1467089934,
     "wof:name":"Cabulance Inc",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-88.535079,44.03579,-88.535079,44.03579],
+  "bbox": [
+    -88.535079,
+    44.03579,
+    -88.535079,
+    44.03579
+],
   "geometry": {"coordinates":[-88.535079,44.03579],"type":"Point"}
 }

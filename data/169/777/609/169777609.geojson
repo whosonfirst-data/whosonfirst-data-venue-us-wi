@@ -2,13 +2,14 @@
   "id": 169777609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.746806,43.462569,-89.746806,43.462569",
     "geom:latitude":43.462569,
     "geom:longitude":-89.746806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 South Blvd",
     "sg:city":"Baraboo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169777609,
-    "wof:lastmodified":1449034427,
+    "wof:lastmodified":1467089908,
     "wof:name":"Sauk County Farm Bureau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.746806,43.462569,-89.746806,43.462569],
-  "geometry": {"coordinates":[-89.746806,43.462569],"type":"Point"}
+  "bbox": [
+    -89.746806,
+    43.462569,
+    -89.746806,
+    43.462569
+],
+  "geometry": {"coordinates":[-89.74680600000001,43.462569],"type":"Point"}
 }

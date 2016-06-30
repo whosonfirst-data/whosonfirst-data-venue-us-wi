@@ -2,13 +2,14 @@
   "id": 186230053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.448374,43.75738,-88.448374,43.75738",
     "geom:latitude":43.75738,
     "geom:longitude":-88.448374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"770 S Main St",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186230053,
-    "wof:lastmodified":1449052341,
+    "wof:lastmodified":1467089916,
     "wof:name":"Bionic Hearing Health Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-88.448374,43.75738,-88.448374,43.75738],
+  "bbox": [
+    -88.448374,
+    43.75738,
+    -88.448374,
+    43.75738
+],
   "geometry": {"coordinates":[-88.448374,43.75738],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387541707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.478172,43.05806,-89.478172,43.05806",
     "geom:latitude":43.05806,
     "geom:longitude":-89.478172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 S Rosa Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387541707,
-    "wof:lastmodified":1449056531,
+    "wof:lastmodified":1467089922,
     "wof:name":"Platypus Technologies L L C",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "physical"
     ]
 },
-  "bbox": [-89.478172,43.05806,-89.478172,43.05806],
+  "bbox": [
+    -89.478172,
+    43.05806,
+    -89.478172,
+    43.05806
+],
   "geometry": {"coordinates":[-89.478172,43.05806],"type":"Point"}
 }

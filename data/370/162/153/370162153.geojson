@@ -2,13 +2,14 @@
   "id": 370162153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.186402,43.250742,-88.186402,43.250742",
     "geom:latitude":43.250742,
     "geom:longitude":-88.186402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 State Hwy 167",
     "sg:city":"Richfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370162153,
-    "wof:lastmodified":1449031976,
+    "wof:lastmodified":1467089906,
     "wof:name":"Print Zone LLC",
     "wof:parent_id":85814463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-88.186402,43.250742,-88.186402,43.250742],
+  "bbox": [
+    -88.186402,
+    43.250742,
+    -88.186402,
+    43.250742
+],
   "geometry": {"coordinates":[-88.186402,43.250742],"type":"Point"}
 }

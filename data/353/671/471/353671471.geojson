@@ -2,13 +2,14 @@
   "id": 353671471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.97508,43.038705,-87.97508,43.038705",
     "geom:latitude":43.038705,
     "geom:longitude":-87.97508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4719 W Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353671471,
-    "wof:lastmodified":1449018841,
+    "wof:lastmodified":1467089887,
     "wof:name":"Beulah Bait Shop",
     "wof:parent_id":85870981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.97508,43.038705,-87.97508,43.038705],
-  "geometry": {"coordinates":[-87.97508,43.038705],"type":"Point"}
+  "bbox": [
+    -87.97508,
+    43.038705,
+    -87.97508,
+    43.038705
+],
+  "geometry": {"coordinates":[-87.97508000000001,43.038705],"type":"Point"}
 }

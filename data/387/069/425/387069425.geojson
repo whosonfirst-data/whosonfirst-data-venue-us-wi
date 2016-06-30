@@ -2,13 +2,14 @@
   "id": 387069425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.558063,45.307582,-88.558063,45.307582",
     "geom:latitude":45.307582,
     "geom:longitude":-88.558063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17360 State Hwy 32",
     "sg:city":"Lakewood",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387069425,
-    "wof:lastmodified":1449058514,
+    "wof:lastmodified":1467089929,
     "wof:name":"Hansen's Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.558063,45.307582,-88.558063,45.307582],
+  "bbox": [
+    -88.558063,
+    45.307582,
+    -88.558063,
+    45.307582
+],
   "geometry": {"coordinates":[-88.558063,45.307582],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370701615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.485921,43.1045,-88.485921,43.1045",
     "geom:latitude":43.1045,
     "geom:longitude":-88.485921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 Armour Rd",
     "sg:city":"Oconomowoc",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370701615,
-    "wof:lastmodified":1449031771,
+    "wof:lastmodified":1467089905,
     "wof:name":"Fontin Bleu Beaute Salon",
     "wof:parent_id":85851111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.485921,43.1045,-88.485921,43.1045],
+  "bbox": [
+    -88.485921,
+    43.1045,
+    -88.485921,
+    43.1045
+],
   "geometry": {"coordinates":[-88.485921,43.1045],"type":"Point"}
 }

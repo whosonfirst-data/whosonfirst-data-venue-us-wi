@@ -2,13 +2,14 @@
   "id": 386930877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.785742,44.481432,-87.785742,44.481432",
     "geom:latitude":44.481432,
     "geom:longitude":-87.785742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 S Sugar Bush Rd",
     "sg:city":"Luxemburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386930877,
-    "wof:lastmodified":1449028717,
+    "wof:lastmodified":1467089896,
     "wof:name":"Joseph Kinsetter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.785742,44.481432,-87.785742,44.481432],
+  "bbox": [
+    -87.785742,
+    44.481432,
+    -87.785742,
+    44.481432
+],
   "geometry": {"coordinates":[-87.785742,44.481432],"type":"Point"}
 }

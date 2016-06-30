@@ -2,13 +2,14 @@
   "id": 337311463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.452752,43.068486,-89.452752,43.068486",
     "geom:latitude":43.068486,
     "geom:longitude":-89.452752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4414 Regent St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337311463,
-    "wof:lastmodified":1449027112,
+    "wof:lastmodified":1467089893,
     "wof:name":"Hilldale Dental Assoc",
     "wof:parent_id":85868277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-89.452752,43.068486,-89.452752,43.068486],
+  "bbox": [
+    -89.452752,
+    43.068486,
+    -89.452752,
+    43.068486
+],
   "geometry": {"coordinates":[-89.452752,43.068486],"type":"Point"}
 }

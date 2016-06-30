@@ -2,13 +2,14 @@
   "id": 185646947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.054979,44.693347,-88.054979,44.693347",
     "geom:latitude":44.693347,
     "geom:longitude":-88.054979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5723 Wedgewood Ln",
     "sg:city":"Little Suamico",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185646947,
-    "wof:lastmodified":1449006561,
+    "wof:lastmodified":1467089883,
     "wof:name":"Mercer Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-88.054979,44.693347,-88.054979,44.693347],
+  "bbox": [
+    -88.054979,
+    44.693347,
+    -88.054979,
+    44.693347
+],
   "geometry": {"coordinates":[-88.054979,44.693347],"type":"Point"}
 }

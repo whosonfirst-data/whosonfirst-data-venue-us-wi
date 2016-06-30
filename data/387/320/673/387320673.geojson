@@ -2,13 +2,14 @@
   "id": 387320673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.997815,44.5114,-87.997815,44.5114",
     "geom:latitude":44.5114,
     "geom:longitude":-87.997815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 Main St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":387320673,
-    "wof:lastmodified":1449057067,
+    "wof:lastmodified":1467089924,
     "wof:name":"Bay Lakes North",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.997815,44.5114,-87.997815,44.5114],
+  "bbox": [
+    -87.997815,
+    44.5114,
+    -87.997815,
+    44.5114
+],
   "geometry": {"coordinates":[-87.997815,44.5114],"type":"Point"}
 }

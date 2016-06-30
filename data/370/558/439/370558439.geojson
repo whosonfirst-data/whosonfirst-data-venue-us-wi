@@ -2,13 +2,14 @@
   "id": 370558439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.983893,43.549843,-89.983893,43.549843",
     "geom:latitude":43.549843,
     "geom:longitude":-89.983893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2097 Viking Dr",
     "sg:city":"Reedsburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370558439,
-    "wof:lastmodified":1449030026,
+    "wof:lastmodified":1467089900,
     "wof:name":"Oakwood Terrace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-89.983893,43.549843,-89.983893,43.549843],
-  "geometry": {"coordinates":[-89.983893,43.549843],"type":"Point"}
+  "bbox": [
+    -89.983893,
+    43.549843,
+    -89.983893,
+    43.549843
+],
+  "geometry": {"coordinates":[-89.98389299999999,43.549843],"type":"Point"}
 }

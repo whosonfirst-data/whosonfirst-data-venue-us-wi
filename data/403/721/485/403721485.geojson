@@ -2,13 +2,14 @@
   "id": 403721485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.921366,43.235767,-87.921366,43.235767",
     "geom:latitude":43.235767,
     "geom:longitude":-87.921366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 W Glen Oaks Ln",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403721485,
-    "wof:lastmodified":1449055959,
+    "wof:lastmodified":1467089921,
     "wof:name":"Hunter Associates LLC",
     "wof:parent_id":85829269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sales"
     ]
 },
-  "bbox": [-87.921366,43.235767,-87.921366,43.235767],
-  "geometry": {"coordinates":[-87.921366,43.235767],"type":"Point"}
+  "bbox": [
+    -87.921366,
+    43.235767,
+    -87.921366,
+    43.235767
+],
+  "geometry": {"coordinates":[-87.92136600000001,43.235767],"type":"Point"}
 }

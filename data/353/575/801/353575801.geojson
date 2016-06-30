@@ -2,13 +2,14 @@
   "id": 353575801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.89036,45.310532,-91.89036,45.310532",
     "geom:latitude":45.310532,
     "geom:longitude":-91.89036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 13th St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353575801,
-    "wof:lastmodified":1449019013,
+    "wof:lastmodified":1467089888,
     "wof:name":"Four Mile Creek Dairy LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.89036,45.310532,-91.89036,45.310532],
+  "bbox": [
+    -91.89036,
+    45.310532,
+    -91.89036,
+    45.310532
+],
   "geometry": {"coordinates":[-91.89036,45.310532],"type":"Point"}
 }

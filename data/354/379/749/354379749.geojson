@@ -2,13 +2,14 @@
   "id": 354379749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.631347,44.997425,-89.631347,44.997425",
     "geom:latitude":44.997425,
     "geom:longitude":-89.631347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2806 Burek Ave",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354379749,
-    "wof:lastmodified":1449066930,
+    "wof:lastmodified":1467089936,
     "wof:name":"Wally World Window Service TEC",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-89.631347,44.997425,-89.631347,44.997425],
-  "geometry": {"coordinates":[-89.631347,44.997425],"type":"Point"}
+  "bbox": [
+    -89.631347,
+    44.997425,
+    -89.631347,
+    44.997425
+],
+  "geometry": {"coordinates":[-89.63134700000001,44.997425],"type":"Point"}
 }

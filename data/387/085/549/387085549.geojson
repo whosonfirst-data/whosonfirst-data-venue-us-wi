@@ -2,13 +2,14 @@
   "id": 387085549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.933615,44.47779,-87.933615,44.47779",
     "geom:latitude":44.47779,
     "geom:longitude":-87.933615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3020 Walker Dr",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387085549,
-    "wof:lastmodified":1449057056,
+    "wof:lastmodified":1467089924,
     "wof:name":"Pioneer Sales & Svc Inc",
     "wof:parent_id":85877939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "devices"
     ]
 },
-  "bbox": [-87.933615,44.47779,-87.933615,44.47779],
+  "bbox": [
+    -87.933615,
+    44.47779,
+    -87.933615,
+    44.47779
+],
   "geometry": {"coordinates":[-87.933615,44.47779],"type":"Point"}
 }

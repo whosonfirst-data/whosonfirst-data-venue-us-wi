@@ -2,13 +2,14 @@
   "id": 354011349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.904639,42.847309,-87.904639,42.847309",
     "geom:latitude":42.847309,
     "geom:longitude":-87.904639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"734 E Randy Rd",
     "sg:city":"Oak Creek",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354011349,
-    "wof:lastmodified":1449067329,
+    "wof:lastmodified":1467089937,
     "wof:name":"Advanced Home & Property",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-87.904639,42.847309,-87.904639,42.847309],
+  "bbox": [
+    -87.904639,
+    42.847309,
+    -87.904639,
+    42.847309
+],
   "geometry": {"coordinates":[-87.904639,42.847309],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404113359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.048426,43.036617,-88.048426,43.036617",
     "geom:latitude":43.036617,
     "geom:longitude":-88.048426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 N 108th Pl",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404113359,
-    "wof:lastmodified":1449040226,
+    "wof:lastmodified":1467089911,
     "wof:name":"Otto & Assoc",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-88.048426,43.036617,-88.048426,43.036617],
-  "geometry": {"coordinates":[-88.048426,43.036617],"type":"Point"}
+  "bbox": [
+    -88.048426,
+    43.036617,
+    -88.048426,
+    43.036617
+],
+  "geometry": {"coordinates":[-88.04842600000001,43.036617],"type":"Point"}
 }

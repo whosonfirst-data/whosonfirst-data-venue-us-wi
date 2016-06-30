@@ -2,13 +2,14 @@
   "id": 353628011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.688176,45.515514,-90.688176,45.515514",
     "geom:latitude":45.515514,
     "geom:longitude":-90.688176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"275 Midway Rd",
     "sg:city":"Hawkins",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353628011,
-    "wof:lastmodified":1449020342,
+    "wof:lastmodified":1467089891,
     "wof:name":"Daniel Lawrence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-90.688176,45.515514,-90.688176,45.515514],
+  "bbox": [
+    -90.688176,
+    45.515514,
+    -90.688176,
+    45.515514
+],
   "geometry": {"coordinates":[-90.688176,45.515514],"type":"Point"}
 }

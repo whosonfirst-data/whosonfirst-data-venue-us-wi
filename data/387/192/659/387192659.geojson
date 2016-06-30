@@ -2,13 +2,14 @@
   "id": 387192659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.775304,43.627197,-89.775304,43.627197",
     "geom:latitude":43.627197,
     "geom:longitude":-89.775304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"731 Superior St",
     "sg:city":"Wisconsin Dells",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387192659,
-    "wof:lastmodified":1449058800,
+    "wof:lastmodified":1467089929,
     "wof:name":"Sports Impressions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-89.775304,43.627197,-89.775304,43.627197],
-  "geometry": {"coordinates":[-89.775304,43.627197],"type":"Point"}
+  "bbox": [
+    -89.775304,
+    43.627197,
+    -89.775304,
+    43.627197
+],
+  "geometry": {"coordinates":[-89.77530400000001,43.627197],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404128937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.047627,43.061865,-88.047627,43.061865",
     "geom:latitude":43.061865,
     "geom:longitude":-88.047627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 N Mayfair Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":404128937,
-    "wof:lastmodified":1449039496,
+    "wof:lastmodified":1467089910,
     "wof:name":"Parkland Clinic Fc",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-88.047627,43.061865,-88.047627,43.061865],
-  "geometry": {"coordinates":[-88.047627,43.061865],"type":"Point"}
+  "bbox": [
+    -88.047627,
+    43.061865,
+    -88.047627,
+    43.061865
+],
+  "geometry": {"coordinates":[-88.04762700000001,43.061865],"type":"Point"}
 }

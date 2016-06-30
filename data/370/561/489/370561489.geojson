@@ -2,13 +2,14 @@
   "id": 370561489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.002636,43.067962,-88.002636,43.067962",
     "geom:latitude":43.067962,
     "geom:longitude":-88.002636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7223 W Center St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370561489,
-    "wof:lastmodified":1449031491,
+    "wof:lastmodified":1467089904,
     "wof:name":"Freedom Financial Services",
     "wof:parent_id":85870905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-88.002636,43.067962,-88.002636,43.067962],
+  "bbox": [
+    -88.002636,
+    43.067962,
+    -88.002636,
+    43.067962
+],
   "geometry": {"coordinates":[-88.002636,43.067962],"type":"Point"}
 }

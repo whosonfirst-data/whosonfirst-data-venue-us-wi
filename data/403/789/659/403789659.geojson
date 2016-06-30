@@ -2,13 +2,14 @@
   "id": 403789659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.468262,45.585714,-92.468262,45.585714",
     "geom:latitude":45.585714,
     "geom:longitude":-92.468262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2659 150th St",
     "sg:city":"Luck",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403789659,
-    "wof:lastmodified":1449055233,
+    "wof:lastmodified":1467089919,
     "wof:name":"Hawkins Soil Testing & Septic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "soil"
     ]
 },
-  "bbox": [-92.468262,45.585714,-92.468262,45.585714],
+  "bbox": [
+    -92.468262,
+    45.585714,
+    -92.468262,
+    45.585714
+],
   "geometry": {"coordinates":[-92.468262,45.585714],"type":"Point"}
 }

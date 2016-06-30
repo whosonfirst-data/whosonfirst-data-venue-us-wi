@@ -2,13 +2,14 @@
   "id": 370208707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.511272,43.095517,-89.511272,43.095517",
     "geom:latitude":43.095517,
     "geom:longitude":-89.511272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7426 Hubbard Ave",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370208707,
-    "wof:lastmodified":1449029482,
+    "wof:lastmodified":1467089899,
     "wof:name":"Middleton Police Dept",
     "wof:parent_id":85841479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-89.511272,43.095517,-89.511272,43.095517],
-  "geometry": {"coordinates":[-89.511272,43.095517],"type":"Point"}
+  "bbox": [
+    -89.511272,
+    43.095517,
+    -89.511272,
+    43.095517
+],
+  "geometry": {"coordinates":[-89.51127200000001,43.095517],"type":"Point"}
 }

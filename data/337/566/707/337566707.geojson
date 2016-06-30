@@ -2,13 +2,14 @@
   "id": 337566707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.670688,44.564564,-91.670688,44.564564",
     "geom:latitude":44.564564,
     "geom:longitude":-91.670688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Co Rd H",
     "sg:city":"Mondovi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337566707,
-    "wof:lastmodified":1449026949,
+    "wof:lastmodified":1467089892,
     "wof:name":"Alocca Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-91.670688,44.564564,-91.670688,44.564564],
+  "bbox": [
+    -91.670688,
+    44.564564,
+    -91.670688,
+    44.564564
+],
   "geometry": {"coordinates":[-91.670688,44.564564],"type":"Point"}
 }

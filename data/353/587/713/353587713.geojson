@@ -2,13 +2,14 @@
   "id": 353587713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.070978,44.445533,-88.070978,44.445533",
     "geom:latitude":44.445533,
     "geom:longitude":-88.070978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Grant St",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353587713,
-    "wof:lastmodified":1449019138,
+    "wof:lastmodified":1467089888,
     "wof:name":"Northeast Wisconsin Office",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-88.070978,44.445533,-88.070978,44.445533],
+  "bbox": [
+    -88.070978,
+    44.445533,
+    -88.070978,
+    44.445533
+],
   "geometry": {"coordinates":[-88.070978,44.445533],"type":"Point"}
 }

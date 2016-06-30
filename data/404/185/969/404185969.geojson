@@ -2,13 +2,14 @@
   "id": 404185969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.892803,43.389128,-87.892803,43.389128",
     "geom:latitude":43.389128,
     "geom:longitude":-87.892803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Nautica Dr",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404185969,
-    "wof:lastmodified":1449039233,
+    "wof:lastmodified":1467089909,
     "wof:name":"Spectrum Tech",
     "wof:parent_id":85828641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-87.892803,43.389128,-87.892803,43.389128],
+  "bbox": [
+    -87.892803,
+    43.389128,
+    -87.892803,
+    43.389128
+],
   "geometry": {"coordinates":[-87.892803,43.389128],"type":"Point"}
 }

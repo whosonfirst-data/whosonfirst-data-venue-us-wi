@@ -2,13 +2,14 @@
   "id": 387316141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.611051,45.052107,-92.611051,45.052107",
     "geom:latitude":45.052107,
     "geom:longitude":-92.611051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1375 Co Rd A",
     "sg:city":"New Richmond",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387316141,
-    "wof:lastmodified":1449058686,
+    "wof:lastmodified":1467089929,
     "wof:name":"Willie Dittman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-92.611051,45.052107,-92.611051,45.052107],
+  "bbox": [
+    -92.611051,
+    45.052107,
+    -92.611051,
+    45.052107
+],
   "geometry": {"coordinates":[-92.611051,45.052107],"type":"Point"}
 }

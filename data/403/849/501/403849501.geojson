@@ -2,13 +2,14 @@
   "id": 403849501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.024652,44.634149,-88.024652,44.634149",
     "geom:latitude":44.634149,
     "geom:longitude":-88.024652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1165 Sunset Beach Rd",
     "sg:city":"Suamico",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403849501,
-    "wof:lastmodified":1449054883,
+    "wof:lastmodified":1467089918,
     "wof:name":"Jacobson & Assoc",
     "wof:parent_id":85852587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "rep"
     ]
 },
-  "bbox": [-88.024652,44.634149,-88.024652,44.634149],
+  "bbox": [
+    -88.024652,
+    44.634149,
+    -88.024652,
+    44.634149
+],
   "geometry": {"coordinates":[-88.024652,44.634149],"type":"Point"}
 }

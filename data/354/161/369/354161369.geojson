@@ -2,13 +2,14 @@
   "id": 354161369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.080993,44.474374,-88.080993,44.474374",
     "geom:latitude":44.474374,
     "geom:longitude":-88.080993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2863 Allied St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354161369,
-    "wof:lastmodified":1449066588,
+    "wof:lastmodified":1467089935,
     "wof:name":"Carpet Cushions & Supply",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rug"
     ]
 },
-  "bbox": [-88.080993,44.474374,-88.080993,44.474374],
-  "geometry": {"coordinates":[-88.080993,44.474374],"type":"Point"}
+  "bbox": [
+    -88.080993,
+    44.474374,
+    -88.080993,
+    44.474374
+],
+  "geometry": {"coordinates":[-88.08099300000001,44.474374],"type":"Point"}
 }

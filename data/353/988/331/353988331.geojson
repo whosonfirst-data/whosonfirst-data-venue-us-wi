@@ -2,13 +2,14 @@
   "id": 353988331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.995964,44.485658,-87.995964,44.485658",
     "geom:latitude":44.485658,
     "geom:longitude":-87.995964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 Industrial Dr",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353988331,
-    "wof:lastmodified":1449019140,
+    "wof:lastmodified":1467089888,
     "wof:name":"Konop Beverages Inc",
     "wof:parent_id":85877933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "beverage"
     ]
 },
-  "bbox": [-87.995964,44.485658,-87.995964,44.485658],
+  "bbox": [
+    -87.995964,
+    44.485658,
+    -87.995964,
+    44.485658
+],
   "geometry": {"coordinates":[-87.995964,44.485658],"type":"Point"}
 }

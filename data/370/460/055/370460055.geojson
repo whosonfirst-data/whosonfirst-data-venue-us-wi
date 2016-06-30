@@ -2,13 +2,14 @@
   "id": 370460055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.733549,45.503459,-91.733549,45.503459",
     "geom:latitude":45.503459,
     "geom:longitude":-91.733549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N Main St",
     "sg:city":"Rice Lake",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370460055,
-    "wof:lastmodified":1449032276,
+    "wof:lastmodified":1467089907,
     "wof:name":"Amundsons Appliances",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [-91.733549,45.503459,-91.733549,45.503459],
+  "bbox": [
+    -91.733549,
+    45.503459,
+    -91.733549,
+    45.503459
+],
   "geometry": {"coordinates":[-91.733549,45.503459],"type":"Point"}
 }

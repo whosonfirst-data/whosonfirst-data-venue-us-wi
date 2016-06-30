@@ -2,13 +2,14 @@
   "id": 387533693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.968915,42.938796,-87.968915,42.938796",
     "geom:latitude":42.938796,
     "geom:longitude":-87.968915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5846 S 43rd St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387533693,
-    "wof:lastmodified":1449056067,
+    "wof:lastmodified":1467089921,
     "wof:name":"Greniers Services",
     "wof:parent_id":85870857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "heating"
     ]
 },
-  "bbox": [-87.968915,42.938796,-87.968915,42.938796],
+  "bbox": [
+    -87.968915,
+    42.938796,
+    -87.968915,
+    42.938796
+],
   "geometry": {"coordinates":[-87.968915,42.938796],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387147451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.005663,43.135723,-88.005663,43.135723",
     "geom:latitude":43.135723,
     "geom:longitude":-88.005663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6404 N 76th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387147451,
-    "wof:lastmodified":1449059500,
+    "wof:lastmodified":1467089931,
     "wof:name":"Service World Plus Inc",
     "wof:parent_id":85870805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-88.005663,43.135723,-88.005663,43.135723],
+  "bbox": [
+    -88.005663,
+    43.135723,
+    -88.005663,
+    43.135723
+],
   "geometry": {"coordinates":[-88.005663,43.135723],"type":"Point"}
 }

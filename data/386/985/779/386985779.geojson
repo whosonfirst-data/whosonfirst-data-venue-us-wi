@@ -2,13 +2,14 @@
   "id": 386985779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.969409,43.201998,-87.969409,43.201998",
     "geom:latitude":43.201998,
     "geom:longitude":-87.969409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10250 Cedarburg Rd",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":386985779,
-    "wof:lastmodified":1449028774,
+    "wof:lastmodified":1467089896,
     "wof:name":"Brew City Barbeque Inc",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "operates"
     ]
 },
-  "bbox": [-87.969409,43.201998,-87.969409,43.201998],
+  "bbox": [
+    -87.969409,
+    43.201998,
+    -87.969409,
+    43.201998
+],
   "geometry": {"coordinates":[-87.969409,43.201998],"type":"Point"}
 }

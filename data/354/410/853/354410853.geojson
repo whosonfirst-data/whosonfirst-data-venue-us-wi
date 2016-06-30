@@ -2,13 +2,14 @@
   "id": 354410853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.942241,43.066099,-87.942241,43.066099",
     "geom:latitude":43.066099,
     "geom:longitude":-87.942241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 W Clarke St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354410853,
-    "wof:lastmodified":1449065955,
+    "wof:lastmodified":1467089933,
     "wof:name":"Jonny Hunter Cleaning Svc",
     "wof:parent_id":85870943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-87.942241,43.066099,-87.942241,43.066099],
+  "bbox": [
+    -87.942241,
+    43.066099,
+    -87.942241,
+    43.066099
+],
   "geometry": {"coordinates":[-87.942241,43.066099],"type":"Point"}
 }

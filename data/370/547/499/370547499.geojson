@@ -2,13 +2,14 @@
   "id": 370547499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.435205,44.387294,-88.435205,44.387294",
     "geom:latitude":44.387294,
     "geom:longitude":-88.435205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4789 12 Corners Rd",
     "sg:city":"Black Creek",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370547499,
-    "wof:lastmodified":1449029431,
+    "wof:lastmodified":1467089898,
     "wof:name":"P T K Recycling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-88.435205,44.387294,-88.435205,44.387294],
+  "bbox": [
+    -88.435205,
+    44.387294,
+    -88.435205,
+    44.387294
+],
   "geometry": {"coordinates":[-88.435205,44.387294],"type":"Point"}
 }

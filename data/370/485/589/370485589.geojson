@@ -2,13 +2,14 @@
   "id": 370485589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.217724,43.661324,-91.217724,43.661324",
     "geom:latitude":43.661324,
     "geom:longitude":-91.217724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Cottage St",
     "sg:city":"Stoddard",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370485589,
-    "wof:lastmodified":1449031146,
+    "wof:lastmodified":1467089903,
     "wof:name":"Miller Bilt Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-91.217724,43.661324,-91.217724,43.661324],
+  "bbox": [
+    -91.217724,
+    43.661324,
+    -91.217724,
+    43.661324
+],
   "geometry": {"coordinates":[-91.217724,43.661324],"type":"Point"}
 }

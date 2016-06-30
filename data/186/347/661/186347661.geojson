@@ -2,13 +2,14 @@
   "id": 186347661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.01593,43.036076,-88.01593,43.036076",
     "geom:latitude":43.036076,
     "geom:longitude":-88.01593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8112 W Bluemound Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186347661,
-    "wof:lastmodified":1449051673,
+    "wof:lastmodified":1467089915,
     "wof:name":"Isaak Daniel Law Offices",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-88.01593,43.036076,-88.01593,43.036076],
+  "bbox": [
+    -88.01593,
+    43.036076,
+    -88.01593,
+    43.036076
+],
   "geometry": {"coordinates":[-88.01593,43.036076],"type":"Point"}
 }

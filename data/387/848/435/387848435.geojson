@@ -2,13 +2,14 @@
   "id": 387848435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.892021,42.981027,-87.892021,42.981027",
     "geom:latitude":42.981027,
     "geom:longitude":-87.892021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 S Nevada St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387848435,
-    "wof:lastmodified":1449056639,
+    "wof:lastmodified":1467089923,
     "wof:name":"Milwaukee Precision Casting",
     "wof:parent_id":85894493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "nonferrous"
     ]
 },
-  "bbox": [-87.892021,42.981027,-87.892021,42.981027],
+  "bbox": [
+    -87.892021,
+    42.981027,
+    -87.892021,
+    42.981027
+],
   "geometry": {"coordinates":[-87.892021,42.981027],"type":"Point"}
 }

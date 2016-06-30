@@ -2,13 +2,14 @@
   "id": 370853855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.919466,44.869161,-91.919466,44.869161",
     "geom:latitude":44.869161,
     "geom:longitude":-91.919466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 9th St E",
     "sg:city":"Menomonie",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370853855,
-    "wof:lastmodified":1449030455,
+    "wof:lastmodified":1467089901,
     "wof:name":"Kingdom Buffet",
     "wof:parent_id":85837813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "out"
     ]
 },
-  "bbox": [-91.919466,44.869161,-91.919466,44.869161],
+  "bbox": [
+    -91.919466,
+    44.869161,
+    -91.919466,
+    44.869161
+],
   "geometry": {"coordinates":[-91.919466,44.869161],"type":"Point"}
 }

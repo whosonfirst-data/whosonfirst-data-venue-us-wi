@@ -2,13 +2,14 @@
   "id": 353597091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.824658,43.46624,-88.824658,43.46624",
     "geom:latitude":43.46624,
     "geom:longitude":-88.824658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 E Burnett St",
     "sg:city":"Beaver Dam",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353597091,
-    "wof:lastmodified":1449020741,
+    "wof:lastmodified":1467089892,
     "wof:name":"Beaver Dam Labor Temple",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.824658,43.46624,-88.824658,43.46624],
+  "bbox": [
+    -88.824658,
+    43.46624,
+    -88.824658,
+    43.46624
+],
   "geometry": {"coordinates":[-88.824658,43.46624],"type":"Point"}
 }

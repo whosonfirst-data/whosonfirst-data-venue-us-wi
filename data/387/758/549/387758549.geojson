@@ -2,13 +2,14 @@
   "id": 387758549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.100867,45.464305,-91.100867,45.464305",
     "geom:latitude":45.464305,
     "geom:longitude":-91.100867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Miner Ave W",
     "sg:city":"Ladysmith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387758549,
-    "wof:lastmodified":1449057250,
+    "wof:lastmodified":1467089924,
     "wof:name":"Electronics Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-91.100867,45.464305,-91.100867,45.464305],
-  "geometry": {"coordinates":[-91.100867,45.464305],"type":"Point"}
+  "bbox": [
+    -91.100867,
+    45.464305,
+    -91.100867,
+    45.464305
+],
+  "geometry": {"coordinates":[-91.10086699999999,45.464305],"type":"Point"}
 }

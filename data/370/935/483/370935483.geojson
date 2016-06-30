@@ -2,13 +2,14 @@
   "id": 370935483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.518385,43.311301,-88.518385,43.311301",
     "geom:latitude":43.311301,
     "geom:longitude":-88.518385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Schuyler St",
     "sg:city":"Neosho",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370935483,
-    "wof:lastmodified":1449031866,
+    "wof:lastmodified":1467089905,
     "wof:name":"Lake Country Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.518385,43.311301,-88.518385,43.311301],
-  "geometry": {"coordinates":[-88.518385,43.311301],"type":"Point"}
+  "bbox": [
+    -88.518385,
+    43.311301,
+    -88.518385,
+    43.311301
+],
+  "geometry": {"coordinates":[-88.51838499999999,43.311301],"type":"Point"}
 }

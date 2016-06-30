@@ -2,13 +2,14 @@
   "id": 169729879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.073895,44.457904,-88.073895,44.457904",
     "geom:latitude":44.457904,
     "geom:longitude":-88.073895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"656 Foxview St",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169729879,
-    "wof:lastmodified":1449034344,
+    "wof:lastmodified":1467089908,
     "wof:name":"BBC Remodeling De Pere Office",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.073895,44.457904,-88.073895,44.457904],
-  "geometry": {"coordinates":[-88.073895,44.457904],"type":"Point"}
+  "bbox": [
+    -88.073895,
+    44.457904,
+    -88.073895,
+    44.457904
+],
+  "geometry": {"coordinates":[-88.07389499999999,44.457904],"type":"Point"}
 }

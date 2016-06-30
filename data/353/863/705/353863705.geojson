@@ -2,13 +2,14 @@
   "id": 353863705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.270635,43.265841,-88.270635,43.265841",
     "geom:latitude":43.265841,
     "geom:longitude":-88.270635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4694 Pleasant Hill Rd",
     "sg:city":"Richfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353863705,
-    "wof:lastmodified":1449020006,
+    "wof:lastmodified":1467089890,
     "wof:name":"Sandman Design Inc",
     "wof:parent_id":85802369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.270635,43.265841,-88.270635,43.265841],
+  "bbox": [
+    -88.270635,
+    43.265841,
+    -88.270635,
+    43.265841
+],
   "geometry": {"coordinates":[-88.270635,43.265841],"type":"Point"}
 }

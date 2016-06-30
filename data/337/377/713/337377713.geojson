@@ -2,13 +2,14 @@
   "id": 337377713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.85998,42.96363,-87.85998,42.96363",
     "geom:latitude":42.96363,
     "geom:longitude":-87.85998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4494 S Packard Ave",
     "sg:city":"Cudahy",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337377713,
-    "wof:lastmodified":1449027236,
+    "wof:lastmodified":1467089894,
     "wof:name":"Speedway 2018",
     "wof:parent_id":85870851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-87.85998,42.96363,-87.85998,42.96363],
-  "geometry": {"coordinates":[-87.85998,42.96363],"type":"Point"}
+  "bbox": [
+    -87.85998,
+    42.96363,
+    -87.85998,
+    42.96363
+],
+  "geometry": {"coordinates":[-87.85997999999999,42.96363],"type":"Point"}
 }

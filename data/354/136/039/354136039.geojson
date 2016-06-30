@@ -2,13 +2,14 @@
   "id": 354136039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.371102,44.247932,-88.371102,44.247932",
     "geom:latitude":44.247932,
     "geom:longitude":-88.371102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 E John St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354136039,
-    "wof:lastmodified":1449067656,
+    "wof:lastmodified":1467089938,
     "wof:name":"8th Street Storage LLC",
     "wof:parent_id":85857401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-88.371102,44.247932,-88.371102,44.247932],
-  "geometry": {"coordinates":[-88.371102,44.247932],"type":"Point"}
+  "bbox": [
+    -88.371102,
+    44.247932,
+    -88.371102,
+    44.247932
+],
+  "geometry": {"coordinates":[-88.37110199999999,44.247932],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387702499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.857733,43.650391,-90.857733,43.650391",
     "geom:latitude":43.650391,
     "geom:longitude":-90.857733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 S Bekkedal Ave",
     "sg:city":"Westby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387702499,
-    "wof:lastmodified":1449058007,
+    "wof:lastmodified":1467089926,
     "wof:name":"Beaver Basement Waterproofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.857733,43.650391,-90.857733,43.650391],
+  "bbox": [
+    -90.857733,
+    43.650391,
+    -90.857733,
+    43.650391
+],
   "geometry": {"coordinates":[-90.857733,43.650391],"type":"Point"}
 }

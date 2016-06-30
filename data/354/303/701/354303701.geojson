@@ -2,13 +2,14 @@
   "id": 354303701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.975691,43.162388,-87.975691,43.162388",
     "geom:latitude":43.162388,
     "geom:longitude":-87.975691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7819 N Link Pl",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354303701,
-    "wof:lastmodified":1449065940,
+    "wof:lastmodified":1467089933,
     "wof:name":"Black Beauty Carpet & Uph Clng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-87.975691,43.162388,-87.975691,43.162388],
+  "bbox": [
+    -87.975691,
+    43.162388,
+    -87.975691,
+    43.162388
+],
   "geometry": {"coordinates":[-87.975691,43.162388],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370564955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.670901,44.970444,-92.670901,44.970444",
     "geom:latitude":44.970444,
     "geom:longitude":-92.670901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"732 Exchange Dr",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":370564955,
-    "wof:lastmodified":1449032270,
+    "wof:lastmodified":1467089907,
     "wof:name":"YMCA Childcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.670901,44.970444,-92.670901,44.970444],
+  "bbox": [
+    -92.670901,
+    44.970444,
+    -92.670901,
+    44.970444
+],
   "geometry": {"coordinates":[-92.670901,44.970444],"type":"Point"}
 }

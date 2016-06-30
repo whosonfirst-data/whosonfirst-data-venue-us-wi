@@ -2,13 +2,14 @@
   "id": 353521641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.838724,43.839274,-88.838724,43.839274",
     "geom:latitude":43.839274,
     "geom:longitude":-88.838724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Watson St",
     "sg:city":"Ripon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353521641,
-    "wof:lastmodified":1449020664,
+    "wof:lastmodified":1467089892,
     "wof:name":"Public Image",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "relations"
     ]
 },
-  "bbox": [-88.838724,43.839274,-88.838724,43.839274],
+  "bbox": [
+    -88.838724,
+    43.839274,
+    -88.838724,
+    43.839274
+],
   "geometry": {"coordinates":[-88.838724,43.839274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403815283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.344151,43.240953,-89.344151,43.240953",
     "geom:latitude":43.240953,
     "geom:longitude":-89.344151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Meadow Ln",
     "sg:city":"De Forest",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403815283,
-    "wof:lastmodified":1449055275,
+    "wof:lastmodified":1467089919,
     "wof:name":"United States Amateur Tug",
     "wof:parent_id":85852311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.344151,43.240953,-89.344151,43.240953],
+  "bbox": [
+    -89.344151,
+    43.240953,
+    -89.344151,
+    43.240953
+],
   "geometry": {"coordinates":[-89.344151,43.240953],"type":"Point"}
 }

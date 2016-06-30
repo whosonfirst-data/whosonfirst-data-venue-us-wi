@@ -2,13 +2,14 @@
   "id": 387163239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.439794,43.063459,-88.439794,43.063459",
     "geom:latitude":43.063459,
     "geom:longitude":-88.439794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2414 N 2nd Ln",
     "sg:city":"Oconomowoc",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387163239,
-    "wof:lastmodified":1449059834,
+    "wof:lastmodified":1467089932,
     "wof:name":"Artist Outlet",
     "wof:parent_id":85854741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.439794,43.063459,-88.439794,43.063459],
-  "geometry": {"coordinates":[-88.439794,43.063459],"type":"Point"}
+  "bbox": [
+    -88.439794,
+    43.063459,
+    -88.439794,
+    43.063459
+],
+  "geometry": {"coordinates":[-88.43979400000001,43.063459],"type":"Point"}
 }

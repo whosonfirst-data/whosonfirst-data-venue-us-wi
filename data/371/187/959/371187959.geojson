@@ -2,13 +2,14 @@
   "id": 371187959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.417127,44.286077,-88.417127,44.286077",
     "geom:latitude":44.286077,
     "geom:longitude":-88.417127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 W Weiland Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371187959,
-    "wof:lastmodified":1449049191,
+    "wof:lastmodified":1467089912,
     "wof:name":"Heritage Electric Inc",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.417127,44.286077,-88.417127,44.286077],
-  "geometry": {"coordinates":[-88.417127,44.286077],"type":"Point"}
+  "bbox": [
+    -88.417127,
+    44.286077,
+    -88.417127,
+    44.286077
+],
+  "geometry": {"coordinates":[-88.41712699999999,44.286077],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354227807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.063672,43.263349,-88.063672,43.263349",
     "geom:latitude":43.263349,
     "geom:longitude":-88.063672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13516 N Wausaukee Rd",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":354227807,
-    "wof:lastmodified":1449066283,
+    "wof:lastmodified":1467089934,
     "wof:name":"Gierach Grading & Paving Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.063672,43.263349,-88.063672,43.263349],
+  "bbox": [
+    -88.063672,
+    43.263349,
+    -88.063672,
+    43.263349
+],
   "geometry": {"coordinates":[-88.063672,43.263349],"type":"Point"}
 }

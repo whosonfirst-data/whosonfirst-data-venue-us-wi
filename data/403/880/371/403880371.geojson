@@ -2,13 +2,14 @@
   "id": 403880371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.887555,43.086016,-87.887555,43.086016",
     "geom:latitude":43.086016,
     "geom:longitude":-87.887555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3815 N Oakland Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403880371,
-    "wof:lastmodified":1449055976,
+    "wof:lastmodified":1467089921,
     "wof:name":"Leos Shorewood Shoe Repair",
     "wof:parent_id":85870879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shoes"
     ]
 },
-  "bbox": [-87.887555,43.086016,-87.887555,43.086016],
-  "geometry": {"coordinates":[-87.887555,43.086016],"type":"Point"}
+  "bbox": [
+    -87.887555,
+    43.086016,
+    -87.887555,
+    43.086016
+],
+  "geometry": {"coordinates":[-87.88755500000001,43.086016],"type":"Point"}
 }

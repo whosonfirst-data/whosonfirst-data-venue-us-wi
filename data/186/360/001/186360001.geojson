@@ -2,13 +2,14 @@
   "id": 186360001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.834489,44.857529,-91.834489,44.857529",
     "geom:latitude":44.857529,
     "geom:longitude":-91.834489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6109 490th Ave",
     "sg:city":"Menomonie",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186360001,
-    "wof:lastmodified":1449052390,
+    "wof:lastmodified":1467089916,
     "wof:name":"Leach's Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "center"
     ]
 },
-  "bbox": [-91.834489,44.857529,-91.834489,44.857529],
+  "bbox": [
+    -91.834489,
+    44.857529,
+    -91.834489,
+    44.857529
+],
   "geometry": {"coordinates":[-91.834489,44.857529],"type":"Point"}
 }

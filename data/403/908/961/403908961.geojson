@@ -2,13 +2,14 @@
   "id": 403908961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.558863,45.197173,-92.558863,45.197173",
     "geom:latitude":45.197173,
     "geom:longitude":-92.558863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1239 Co Rd H",
     "sg:city":"New Richmond",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403908961,
-    "wof:lastmodified":1449055395,
+    "wof:lastmodified":1467089919,
     "wof:name":"Anderson Remodeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-92.558863,45.197173,-92.558863,45.197173],
+  "bbox": [
+    -92.558863,
+    45.197173,
+    -92.558863,
+    45.197173
+],
   "geometry": {"coordinates":[-92.558863,45.197173],"type":"Point"}
 }

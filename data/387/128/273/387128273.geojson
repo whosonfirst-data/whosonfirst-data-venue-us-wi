@@ -2,13 +2,14 @@
   "id": 387128273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.945459,43.38151,-87.945459,43.38151",
     "geom:latitude":43.38151,
     "geom:longitude":-87.945459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Railroad St",
     "sg:city":"Saukville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387128273,
-    "wof:lastmodified":1449057596,
+    "wof:lastmodified":1467089925,
     "wof:name":"Railroad Station",
     "wof:parent_id":85828641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-87.945459,43.38151,-87.945459,43.38151],
+  "bbox": [
+    -87.945459,
+    43.38151,
+    -87.945459,
+    43.38151
+],
   "geometry": {"coordinates":[-87.945459,43.38151],"type":"Point"}
 }

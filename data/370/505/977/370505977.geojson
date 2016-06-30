@@ -2,13 +2,14 @@
   "id": 370505977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.182377,45.051046,-89.182377,45.051046",
     "geom:latitude":45.051046,
     "geom:longitude":-89.182377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10575 Elmwood Ln",
     "sg:city":"Aniwa",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370505977,
-    "wof:lastmodified":1449031910,
+    "wof:lastmodified":1467089905,
     "wof:name":"Soft Touch Crpt Uphl Care LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-89.182377,45.051046,-89.182377,45.051046],
+  "bbox": [
+    -89.182377,
+    45.051046,
+    -89.182377,
+    45.051046
+],
   "geometry": {"coordinates":[-89.182377,45.051046],"type":"Point"}
 }

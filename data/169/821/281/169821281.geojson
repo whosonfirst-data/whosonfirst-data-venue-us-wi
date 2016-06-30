@@ -2,13 +2,14 @@
   "id": 169821281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.951592,43.330844,-87.951592,43.330844",
     "geom:latitude":43.330844,
     "geom:longitude":-87.951592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1046 Hickory St",
     "sg:city":"Grafton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169821281,
-    "wof:lastmodified":1449034488,
+    "wof:lastmodified":1467089908,
     "wof:name":"Kapco",
     "wof:parent_id":85852983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stamping"
     ]
 },
-  "bbox": [-87.951592,43.330844,-87.951592,43.330844],
-  "geometry": {"coordinates":[-87.951592,43.330844],"type":"Point"}
+  "bbox": [
+    -87.951592,
+    43.330844,
+    -87.951592,
+    43.330844
+],
+  "geometry": {"coordinates":[-87.95159200000001,43.330844],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387263665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.775388,43.86523,-89.775388,43.86523",
     "geom:latitude":43.86523,
     "geom:longitude":-89.775388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"994 Edgewood Ln",
     "sg:city":"Adams",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387263665,
-    "wof:lastmodified":1449059805,
+    "wof:lastmodified":1467089932,
     "wof:name":"Ellison Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-89.775388,43.86523,-89.775388,43.86523],
-  "geometry": {"coordinates":[-89.775388,43.86523],"type":"Point"}
+  "bbox": [
+    -89.775388,
+    43.86523,
+    -89.775388,
+    43.86523
+],
+  "geometry": {"coordinates":[-89.77538800000001,43.86523],"type":"Point"}
 }

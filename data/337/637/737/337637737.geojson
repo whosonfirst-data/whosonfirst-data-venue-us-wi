@@ -2,13 +2,14 @@
   "id": 337637737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.975023,43.088772,-87.975023,43.088772",
     "geom:latitude":43.088772,
     "geom:longitude":-87.975023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5001 W Fond du Lac Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337637737,
-    "wof:lastmodified":1449026933,
+    "wof:lastmodified":1467089892,
     "wof:name":"Perfect Pagers",
     "wof:parent_id":85870959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-87.975023,43.088772,-87.975023,43.088772],
-  "geometry": {"coordinates":[-87.975023,43.088772],"type":"Point"}
+  "bbox": [
+    -87.975023,
+    43.088772,
+    -87.975023,
+    43.088772
+],
+  "geometry": {"coordinates":[-87.97502299999999,43.088772],"type":"Point"}
 }

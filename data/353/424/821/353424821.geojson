@@ -2,13 +2,14 @@
   "id": 353424821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.040204,45.064711,-88.040204,45.064711",
     "geom:latitude":45.064711,
     "geom:longitude":-88.040204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 US Hwy 141",
     "sg:city":"Coleman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353424821,
-    "wof:lastmodified":1449020634,
+    "wof:lastmodified":1467089891,
     "wof:name":"Steiner's Sport Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.040204,45.064711,-88.040204,45.064711],
+  "bbox": [
+    -88.040204,
+    45.064711,
+    -88.040204,
+    45.064711
+],
   "geometry": {"coordinates":[-88.040204,45.064711],"type":"Point"}
 }

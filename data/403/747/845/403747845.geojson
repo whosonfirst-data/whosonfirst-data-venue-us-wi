@@ -2,13 +2,14 @@
   "id": 403747845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.958505,43.085294,-87.958505,43.085294",
     "geom:latitude":43.085294,
     "geom:longitude":-87.958505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3741 N 36th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403747845,
-    "wof:lastmodified":1449054868,
+    "wof:lastmodified":1467089918,
     "wof:name":"D & B A/C & Heating Service",
     "wof:parent_id":85870825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "heating"
     ]
 },
-  "bbox": [-87.958505,43.085294,-87.958505,43.085294],
+  "bbox": [
+    -87.958505,
+    43.085294,
+    -87.958505,
+    43.085294
+],
   "geometry": {"coordinates":[-87.958505,43.085294],"type":"Point"}
 }

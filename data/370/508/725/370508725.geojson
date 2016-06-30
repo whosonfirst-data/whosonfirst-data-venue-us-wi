@@ -2,13 +2,14 @@
   "id": 370508725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.832511,45.90336,-91.832511,45.90336",
     "geom:latitude":45.90336,
     "geom:longitude":-91.832511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7462 Wood Dr",
     "sg:city":"Trego",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370508725,
-    "wof:lastmodified":1449030967,
+    "wof:lastmodified":1467089903,
     "wof:name":"Colleen's K9 Cuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-91.832511,45.90336,-91.832511,45.90336],
+  "bbox": [
+    -91.832511,
+    45.90336,
+    -91.832511,
+    45.90336
+],
   "geometry": {"coordinates":[-91.832511,45.90336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387207435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.865878,43.404268,-87.865878,43.404268",
     "geom:latitude":43.404268,
     "geom:longitude":-87.865878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Antoine Dr",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387207435,
-    "wof:lastmodified":1449058773,
+    "wof:lastmodified":1467089929,
     "wof:name":"Gray Wolf Investments LLC",
     "wof:parent_id":85828641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-87.865878,43.404268,-87.865878,43.404268],
+  "bbox": [
+    -87.865878,
+    43.404268,
+    -87.865878,
+    43.404268
+],
   "geometry": {"coordinates":[-87.865878,43.404268],"type":"Point"}
 }

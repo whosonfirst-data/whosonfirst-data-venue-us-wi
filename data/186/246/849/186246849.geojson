@@ -2,13 +2,14 @@
   "id": 186246849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.912999,43.130393,-87.912999,43.130393",
     "geom:latitude":43.130393,
     "geom:longitude":-87.912999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6310 N Port Washington Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186246849,
-    "wof:lastmodified":1449050435,
+    "wof:lastmodified":1467089914,
     "wof:name":"Finest Designers",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handbag"
     ]
 },
-  "bbox": [-87.912999,43.130393,-87.912999,43.130393],
+  "bbox": [
+    -87.912999,
+    43.130393,
+    -87.912999,
+    43.130393
+],
   "geometry": {"coordinates":[-87.912999,43.130393],"type":"Point"}
 }

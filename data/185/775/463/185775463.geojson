@@ -2,13 +2,14 @@
   "id": 185775463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.918683,43.08228,-87.918683,43.08228",
     "geom:latitude":43.08228,
     "geom:longitude":-87.918683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3562 N Dr Martin Luther King Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185775463,
-    "wof:lastmodified":1449007789,
+    "wof:lastmodified":1467089885,
     "wof:name":"Davis & Son Food & Liquor",
     "wof:parent_id":85870941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-87.918683,43.08228,-87.918683,43.08228],
+  "bbox": [
+    -87.918683,
+    43.08228,
+    -87.918683,
+    43.08228
+],
   "geometry": {"coordinates":[-87.918683,43.08228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370170003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.310813,43.720712,-88.310813,43.720712",
     "geom:latitude":43.720712,
     "geom:longitude":-88.310813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3012 Cedar Rd",
     "sg:city":"Eden",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370170003,
-    "wof:lastmodified":1449029406,
+    "wof:lastmodified":1467089898,
     "wof:name":"Braatz Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.310813,43.720712,-88.310813,43.720712],
+  "bbox": [
+    -88.310813,
+    43.720712,
+    -88.310813,
+    43.720712
+],
   "geometry": {"coordinates":[-88.310813,43.720712],"type":"Point"}
 }

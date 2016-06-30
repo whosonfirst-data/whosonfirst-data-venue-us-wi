@@ -2,13 +2,14 @@
   "id": 353642221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.079131,44.436819,-88.079131,44.436819",
     "geom:latitude":44.436819,
     "geom:longitude":-88.079131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1224 S 7th St",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353642221,
-    "wof:lastmodified":1449018403,
+    "wof:lastmodified":1467089886,
     "wof:name":"Coopmans Cornelissen Plst",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-88.079131,44.436819,-88.079131,44.436819],
+  "bbox": [
+    -88.079131,
+    44.436819,
+    -88.079131,
+    44.436819
+],
   "geometry": {"coordinates":[-88.079131,44.436819],"type":"Point"}
 }

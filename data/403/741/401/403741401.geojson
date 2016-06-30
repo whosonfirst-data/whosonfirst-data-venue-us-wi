@@ -2,13 +2,14 @@
   "id": 403741401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.808175,44.369195,-89.808175,44.369195",
     "geom:latitude":44.369195,
     "geom:longitude":-89.808175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2831 15th St S",
     "sg:city":"Wisconsin Rapids",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403741401,
-    "wof:lastmodified":1449054697,
+    "wof:lastmodified":1467089917,
     "wof:name":"Machon Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.808175,44.369195,-89.808175,44.369195],
-  "geometry": {"coordinates":[-89.808175,44.369195],"type":"Point"}
+  "bbox": [
+    -89.808175,
+    44.369195,
+    -89.808175,
+    44.369195
+],
+  "geometry": {"coordinates":[-89.80817500000001,44.369195],"type":"Point"}
 }

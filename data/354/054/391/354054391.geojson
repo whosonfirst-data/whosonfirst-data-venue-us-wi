@@ -2,13 +2,14 @@
   "id": 354054391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.063384,44.517161,-88.063384,44.517161",
     "geom:latitude":44.517161,
     "geom:longitude":-88.063384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 S Fisk St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354054391,
-    "wof:lastmodified":1449066724,
+    "wof:lastmodified":1467089935,
     "wof:name":"North Baird Mobile Homes Inc",
     "wof:parent_id":85877951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-88.063384,44.517161,-88.063384,44.517161],
+  "bbox": [
+    -88.063384,
+    44.517161,
+    -88.063384,
+    44.517161
+],
   "geometry": {"coordinates":[-88.063384,44.517161],"type":"Point"}
 }

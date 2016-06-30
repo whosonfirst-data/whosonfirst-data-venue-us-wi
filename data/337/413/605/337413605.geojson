@@ -2,13 +2,14 @@
   "id": 337413605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.289988,43.009018,-89.289988,43.009018",
     "geom:latitude":43.009018,
     "geom:longitude":-89.289988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5401 Dennis Dr",
     "sg:city":"Mc Farland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337413605,
-    "wof:lastmodified":1449027053,
+    "wof:lastmodified":1467089893,
     "wof:name":"Pin It On ME Gifts",
     "wof:parent_id":85878883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.289988,43.009018,-89.289988,43.009018],
-  "geometry": {"coordinates":[-89.289988,43.009018],"type":"Point"}
+  "bbox": [
+    -89.289988,
+    43.009018,
+    -89.289988,
+    43.009018
+],
+  "geometry": {"coordinates":[-89.28998799999999,43.009018],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353967387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.36431,43.612542,-88.36431,43.612542",
     "geom:latitude":43.612542,
     "geom:longitude":-88.36431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4027 Swallow Ln",
     "sg:city":"Campbellsport",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353967387,
-    "wof:lastmodified":1449020614,
+    "wof:lastmodified":1467089891,
     "wof:name":"Ktf Family Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-88.36431,43.612542,-88.36431,43.612542],
+  "bbox": [
+    -88.36431,
+    43.612542,
+    -88.36431,
+    43.612542
+],
   "geometry": {"coordinates":[-88.36431,43.612542],"type":"Point"}
 }

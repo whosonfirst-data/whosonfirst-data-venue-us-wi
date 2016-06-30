@@ -2,13 +2,14 @@
   "id": 387204017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.055391,43.07267,-88.055391,43.07267",
     "geom:latitude":43.07267,
     "geom:longitude":-88.055391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3015 N 114th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387204017,
-    "wof:lastmodified":1449060025,
+    "wof:lastmodified":1467089933,
     "wof:name":"Emergency Response Training",
     "wof:parent_id":85870817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "first"
     ]
 },
-  "bbox": [-88.055391,43.07267,-88.055391,43.07267],
+  "bbox": [
+    -88.055391,
+    43.07267,
+    -88.055391,
+    43.07267
+],
   "geometry": {"coordinates":[-88.055391,43.07267],"type":"Point"}
 }

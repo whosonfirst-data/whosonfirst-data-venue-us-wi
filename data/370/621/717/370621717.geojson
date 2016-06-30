@@ -2,13 +2,14 @@
   "id": 370621717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.911315,43.021188,-87.911315,43.021188",
     "geom:latitude":43.021188,
     "geom:longitude":-87.911315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 S 1st St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":370621717,
-    "wof:lastmodified":1449032072,
+    "wof:lastmodified":1467089906,
     "wof:name":"CA Klein Consulting Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.911315,43.021188,-87.911315,43.021188],
+  "bbox": [
+    -87.911315,
+    43.021188,
+    -87.911315,
+    43.021188
+],
   "geometry": {"coordinates":[-87.911315,43.021188],"type":"Point"}
 }

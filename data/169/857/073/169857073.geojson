@@ -2,13 +2,14 @@
   "id": 169857073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.191578,44.972798,-87.191578,44.972798",
     "geom:latitude":44.972798,
     "geom:longitude":-87.191578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6124 State Hwy 57",
     "sg:city":"Sturgeon Bay",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169857073,
-    "wof:lastmodified":1449034822,
+    "wof:lastmodified":1467089908,
     "wof:name":"Carpet One Of Door County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rug"
     ]
 },
-  "bbox": [-87.191578,44.972798,-87.191578,44.972798],
-  "geometry": {"coordinates":[-87.191578,44.972798],"type":"Point"}
+  "bbox": [
+    -87.191578,
+    44.972798,
+    -87.191578,
+    44.972798
+],
+  "geometry": {"coordinates":[-87.19157800000001,44.972798],"type":"Point"}
 }

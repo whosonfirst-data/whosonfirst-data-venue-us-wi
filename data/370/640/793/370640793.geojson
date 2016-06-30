@@ -2,13 +2,14 @@
   "id": 370640793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.903947,42.959094,-87.903947,42.959094",
     "geom:latitude":42.959094,
     "geom:longitude":-87.903947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 E Layton Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370640793,
-    "wof:lastmodified":1449030558,
+    "wof:lastmodified":1467089901,
     "wof:name":"Flex Mor Corp",
     "wof:parent_id":85870975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "plan"
     ]
 },
-  "bbox": [-87.903947,42.959094,-87.903947,42.959094],
+  "bbox": [
+    -87.903947,
+    42.959094,
+    -87.903947,
+    42.959094
+],
   "geometry": {"coordinates":[-87.903947,42.959094],"type":"Point"}
 }

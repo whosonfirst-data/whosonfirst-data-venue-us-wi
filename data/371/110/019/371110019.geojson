@@ -2,13 +2,14 @@
   "id": 371110019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.890496,43.054659,-87.890496,43.054659",
     "geom:latitude":43.054659,
     "geom:longitude":-87.890496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1840 N Farwell Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371110019,
-    "wof:lastmodified":1449049349,
+    "wof:lastmodified":1467089912,
     "wof:name":"Zayas Gonzalez Law Offices",
     "wof:parent_id":85870987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-87.890496,43.054659,-87.890496,43.054659],
+  "bbox": [
+    -87.890496,
+    43.054659,
+    -87.890496,
+    43.054659
+],
   "geometry": {"coordinates":[-87.890496,43.054659],"type":"Point"}
 }

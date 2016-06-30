@@ -2,13 +2,14 @@
   "id": 387006369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.964902,43.019701,-87.964902,43.019701",
     "geom:latitude":43.019701,
     "geom:longitude":-87.964902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 S 41st St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387006369,
-    "wof:lastmodified":1449059180,
+    "wof:lastmodified":1467089931,
     "wof:name":"S & L Packaging Inc",
     "wof:parent_id":85870841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contract"
     ]
 },
-  "bbox": [-87.964902,43.019701,-87.964902,43.019701],
+  "bbox": [
+    -87.964902,
+    43.019701,
+    -87.964902,
+    43.019701
+],
   "geometry": {"coordinates":[-87.964902,43.019701],"type":"Point"}
 }

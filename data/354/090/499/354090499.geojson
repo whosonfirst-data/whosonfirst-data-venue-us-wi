@@ -2,13 +2,14 @@
   "id": 354090499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.09035,44.39274,-88.09035,44.39274",
     "geom:latitude":44.39274,
     "geom:longitude":-88.09035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 State Hwy 57",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354090499,
-    "wof:lastmodified":1449067286,
+    "wof:lastmodified":1467089937,
     "wof:name":"Micke Richard and Nancy LLC",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.09035,44.39274,-88.09035,44.39274],
+  "bbox": [
+    -88.09035,
+    44.39274,
+    -88.09035,
+    44.39274
+],
   "geometry": {"coordinates":[-88.09035,44.39274],"type":"Point"}
 }

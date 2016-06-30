@@ -2,13 +2,14 @@
   "id": 354003577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.927065,43.044144,-87.927065,43.044144",
     "geom:latitude":43.044144,
     "geom:longitude":-87.927065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 N 12th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354003577,
-    "wof:lastmodified":1449067539,
+    "wof:lastmodified":1467089937,
     "wof:name":"Academic Medicine",
     "wof:parent_id":85870965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.927065,43.044144,-87.927065,43.044144],
+  "bbox": [
+    -87.927065,
+    43.044144,
+    -87.927065,
+    43.044144
+],
   "geometry": {"coordinates":[-87.927065,43.044144],"type":"Point"}
 }

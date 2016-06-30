@@ -2,13 +2,14 @@
   "id": 370636915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.305315,43.012239,-89.305315,43.012239",
     "geom:latitude":43.012239,
     "geom:longitude":-89.305315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4606 Burma Rd",
     "sg:city":"Mc Farland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370636915,
-    "wof:lastmodified":1449030427,
+    "wof:lastmodified":1467089901,
     "wof:name":"Taylor Heating",
     "wof:parent_id":85878883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.305315,43.012239,-89.305315,43.012239],
-  "geometry": {"coordinates":[-89.305315,43.012239],"type":"Point"}
+  "bbox": [
+    -89.305315,
+    43.012239,
+    -89.305315,
+    43.012239
+],
+  "geometry": {"coordinates":[-89.30531499999999,43.012239],"type":"Point"}
 }

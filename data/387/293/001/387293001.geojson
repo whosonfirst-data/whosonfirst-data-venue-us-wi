@@ -2,13 +2,14 @@
   "id": 387293001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.082526,43.016252,-88.082526,43.016252",
     "geom:latitude":43.016252,
     "geom:longitude":-88.082526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1427 S Parkview Ave",
     "sg:city":"New Berlin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387293001,
-    "wof:lastmodified":1449056847,
+    "wof:lastmodified":1467089923,
     "wof:name":"Frontier Software Inc",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "software"
     ]
 },
-  "bbox": [-88.082526,43.016252,-88.082526,43.016252],
+  "bbox": [
+    -88.082526,
+    43.016252,
+    -88.082526,
+    43.016252
+],
   "geometry": {"coordinates":[-88.082526,43.016252],"type":"Point"}
 }

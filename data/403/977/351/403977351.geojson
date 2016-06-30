@@ -2,13 +2,14 @@
   "id": 403977351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.62571,44.598591,-89.62571,44.598591",
     "geom:latitude":44.598591,
     "geom:longitude":-89.62571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2270 Pinewood Dr",
     "sg:city":"Stevens Point",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403977351,
-    "wof:lastmodified":1449056013,
+    "wof:lastmodified":1467089921,
     "wof:name":"Daves Home Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-89.62571,44.598591,-89.62571,44.598591],
+  "bbox": [
+    -89.62571,
+    44.598591,
+    -89.62571,
+    44.598591
+],
   "geometry": {"coordinates":[-89.62571,44.598591],"type":"Point"}
 }

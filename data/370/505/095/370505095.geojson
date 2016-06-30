@@ -2,13 +2,14 @@
   "id": 370505095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.066969,43.048501,-88.066969,43.048501",
     "geom:latitude":43.048501,
     "geom:longitude":-88.066969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1445 N 124th St",
     "sg:city":"Elm Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370505095,
-    "wof:lastmodified":1449031906,
+    "wof:lastmodified":1467089905,
     "wof:name":"Roofing Co of Milwaukee LLC",
     "wof:parent_id":85870871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-88.066969,43.048501,-88.066969,43.048501],
+  "bbox": [
+    -88.066969,
+    43.048501,
+    -88.066969,
+    43.048501
+],
   "geometry": {"coordinates":[-88.066969,43.048501],"type":"Point"}
 }

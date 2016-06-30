@@ -2,13 +2,14 @@
   "id": 353961955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.544706,45.07422,-91.544706,45.07422",
     "geom:latitude":45.07422,
     "geom:longitude":-91.544706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6254 160th Ave",
     "sg:city":"Bloomer",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353961955,
-    "wof:lastmodified":1449020723,
+    "wof:lastmodified":1467089892,
     "wof:name":"William Goettl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.544706,45.07422,-91.544706,45.07422],
-  "geometry": {"coordinates":[-91.544706,45.07422],"type":"Point"}
+  "bbox": [
+    -91.544706,
+    45.07422,
+    -91.544706,
+    45.07422
+],
+  "geometry": {"coordinates":[-91.54470600000001,45.07422],"type":"Point"}
 }

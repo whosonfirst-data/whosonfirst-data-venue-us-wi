@@ -2,13 +2,14 @@
   "id": 404181865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.246759,43.809547,-91.246759,43.809547",
     "geom:latitude":43.809547,
     "geom:longitude":-91.246759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 7th St S",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404181865,
-    "wof:lastmodified":1449039843,
+    "wof:lastmodified":1467089910,
     "wof:name":"G Q Hairstyling",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.246759,43.809547,-91.246759,43.809547],
+  "bbox": [
+    -91.246759,
+    43.809547,
+    -91.246759,
+    43.809547
+],
   "geometry": {"coordinates":[-91.246759,43.809547],"type":"Point"}
 }

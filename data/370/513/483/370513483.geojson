@@ -2,13 +2,14 @@
   "id": 370513483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.824818,44.447369,-90.824818,44.447369",
     "geom:latitude":44.447369,
     "geom:longitude":-90.824818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10476 Co Rd K",
     "sg:city":"Merrillan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370513483,
-    "wof:lastmodified":1449031319,
+    "wof:lastmodified":1467089904,
     "wof:name":"Tim Powell Trucking LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-90.824818,44.447369,-90.824818,44.447369],
-  "geometry": {"coordinates":[-90.824818,44.447369],"type":"Point"}
+  "bbox": [
+    -90.824818,
+    44.447369,
+    -90.824818,
+    44.447369
+],
+  "geometry": {"coordinates":[-90.82481799999999,44.447369],"type":"Point"}
 }

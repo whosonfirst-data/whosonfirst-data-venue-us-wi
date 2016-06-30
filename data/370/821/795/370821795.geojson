@@ -2,13 +2,14 @@
   "id": 370821795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.800827,43.523861,-87.800827,43.523861",
     "geom:latitude":43.523861,
     "geom:longitude":-87.800827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6780 Sauk Trail Rd",
     "sg:city":"Cedar Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370821795,
-    "wof:lastmodified":1449030911,
+    "wof:lastmodified":1467089903,
     "wof:name":"Great Lakes Post & Beam",
     "wof:parent_id":85829065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cabin"
     ]
 },
-  "bbox": [-87.800827,43.523861,-87.800827,43.523861],
+  "bbox": [
+    -87.800827,
+    43.523861,
+    -87.800827,
+    43.523861
+],
   "geometry": {"coordinates":[-87.800827,43.523861],"type":"Point"}
 }

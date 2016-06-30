@@ -2,13 +2,14 @@
   "id": 186364261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.092293,44.462728,-88.092293,44.462728",
     "geom:latitude":44.462728,
     "geom:longitude":-88.092293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1048 Glory Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186364261,
-    "wof:lastmodified":1449051886,
+    "wof:lastmodified":1467089916,
     "wof:name":"New Tech Consulting",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.092293,44.462728,-88.092293,44.462728],
+  "bbox": [
+    -88.092293,
+    44.462728,
+    -88.092293,
+    44.462728
+],
   "geometry": {"coordinates":[-88.092293,44.462728],"type":"Point"}
 }

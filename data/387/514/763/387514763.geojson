@@ -2,13 +2,14 @@
   "id": 387514763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.965928,44.513046,-87.965928,44.513046",
     "geom:latitude":44.513046,
     "geom:longitude":-87.965928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2209 University Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387514763,
-    "wof:lastmodified":1449058021,
+    "wof:lastmodified":1467089927,
     "wof:name":"Lees Choice Video Superstores",
     "wof:parent_id":85823449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tape"
     ]
 },
-  "bbox": [-87.965928,44.513046,-87.965928,44.513046],
-  "geometry": {"coordinates":[-87.965928,44.513046],"type":"Point"}
+  "bbox": [
+    -87.965928,
+    44.513046,
+    -87.965928,
+    44.513046
+],
+  "geometry": {"coordinates":[-87.96592800000001,44.513046],"type":"Point"}
 }

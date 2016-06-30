@@ -2,13 +2,14 @@
   "id": 403707515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.377334,43.050101,-88.377334,43.050101",
     "geom:latitude":43.050101,
     "geom:longitude":-88.377334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"385 Williamstowne",
     "sg:city":"Delafield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403707515,
-    "wof:lastmodified":1449055768,
+    "wof:lastmodified":1467089920,
     "wof:name":"Tribute Companies Inc",
     "wof:parent_id":85808383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-88.377334,43.050101,-88.377334,43.050101],
+  "bbox": [
+    -88.377334,
+    43.050101,
+    -88.377334,
+    43.050101
+],
   "geometry": {"coordinates":[-88.377334,43.050101],"type":"Point"}
 }

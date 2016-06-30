@@ -2,13 +2,14 @@
   "id": 370838833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.049529,44.605556,-88.049529,44.605556",
     "geom:latitude":44.605556,
     "geom:longitude":-88.049529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Deerfield Ln E",
     "sg:city":"Suamico",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370838833,
-    "wof:lastmodified":1449029498,
+    "wof:lastmodified":1467089899,
     "wof:name":"DCI",
     "wof:parent_id":85852587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "sewer"
     ]
 },
-  "bbox": [-88.049529,44.605556,-88.049529,44.605556],
-  "geometry": {"coordinates":[-88.049529,44.605556],"type":"Point"}
+  "bbox": [
+    -88.049529,
+    44.605556,
+    -88.049529,
+    44.605556
+],
+  "geometry": {"coordinates":[-88.04952900000001,44.605556],"type":"Point"}
 }

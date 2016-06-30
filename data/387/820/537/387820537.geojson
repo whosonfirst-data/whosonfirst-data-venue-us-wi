@@ -2,13 +2,14 @@
   "id": 387820537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.327659,44.207972,-88.327659,44.207972",
     "geom:latitude":44.207972,
     "geom:longitude":-88.327659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8713 Zirbel Dr",
     "sg:city":"Menasha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387820537,
-    "wof:lastmodified":1449058071,
+    "wof:lastmodified":1467089927,
     "wof:name":"Dons Flooring",
     "wof:parent_id":85813523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.327659,44.207972,-88.327659,44.207972],
+  "bbox": [
+    -88.327659,
+    44.207972,
+    -88.327659,
+    44.207972
+],
   "geometry": {"coordinates":[-88.327659,44.207972],"type":"Point"}
 }

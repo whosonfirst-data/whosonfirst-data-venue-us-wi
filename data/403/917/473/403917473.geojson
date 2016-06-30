@@ -2,13 +2,14 @@
   "id": 403917473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.388022,43.074736,-89.388022,43.074736",
     "geom:latitude":43.074736,
     "geom:longitude":-89.388022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 State St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403917473,
-    "wof:lastmodified":1449055788,
+    "wof:lastmodified":1467089920,
     "wof:name":"Lindsay Stone & Briggs Inc",
     "wof:parent_id":85878859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "agency"
     ]
 },
-  "bbox": [-89.388022,43.074736,-89.388022,43.074736],
-  "geometry": {"coordinates":[-89.388022,43.074736],"type":"Point"}
+  "bbox": [
+    -89.388022,
+    43.074736,
+    -89.388022,
+    43.074736
+],
+  "geometry": {"coordinates":[-89.38802200000001,43.074736],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387679909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.427693,44.697433,-91.427693,44.697433",
     "geom:latitude":44.697433,
     "geom:longitude":-91.427693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9335 Co Rd I",
     "sg:city":"Eleva",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387679909,
-    "wof:lastmodified":1449058559,
+    "wof:lastmodified":1467089929,
     "wof:name":"Karl Kinderman",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-91.427693,44.697433,-91.427693,44.697433],
+  "bbox": [
+    -91.427693,
+    44.697433,
+    -91.427693,
+    44.697433
+],
   "geometry": {"coordinates":[-91.427693,44.697433],"type":"Point"}
 }

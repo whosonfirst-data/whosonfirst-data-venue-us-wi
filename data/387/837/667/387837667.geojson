@@ -2,13 +2,14 @@
   "id": 387837667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.90527,43.038809,-87.90527,43.038809",
     "geom:latitude":43.038809,
     "geom:longitude":-87.90527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387837667,
-    "wof:lastmodified":1449056697,
+    "wof:lastmodified":1467089923,
     "wof:name":"Derzon & Menard SC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "law"
     ]
 },
-  "bbox": [-87.90527,43.038809,-87.90527,43.038809],
+  "bbox": [
+    -87.90527,
+    43.038809,
+    -87.90527,
+    43.038809
+],
   "geometry": {"coordinates":[-87.90527,43.038809],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370959647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.430137,43.753174,-88.430137,43.753174",
     "geom:latitude":43.753174,
     "geom:longitude":-88.430137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Meadow Ln",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370959647,
-    "wof:lastmodified":1449032139,
+    "wof:lastmodified":1467089906,
     "wof:name":"Olson Construction & Rmdlng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.430137,43.753174,-88.430137,43.753174],
+  "bbox": [
+    -88.430137,
+    43.753174,
+    -88.430137,
+    43.753174
+],
   "geometry": {"coordinates":[-88.430137,43.753174],"type":"Point"}
 }

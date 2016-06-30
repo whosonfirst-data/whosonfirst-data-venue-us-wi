@@ -2,13 +2,14 @@
   "id": 353744237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.723165,46.512654,-91.723165,46.512654",
     "geom:latitude":46.512654,
     "geom:longitude":-91.723165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6882 S Cemetery Rd",
     "sg:city":"Lake Nebagamon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353744237,
-    "wof:lastmodified":1449019173,
+    "wof:lastmodified":1467089888,
     "wof:name":"G T Sanitation",
     "wof:parent_id":85827153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-91.723165,46.512654,-91.723165,46.512654],
-  "geometry": {"coordinates":[-91.723165,46.512654],"type":"Point"}
+  "bbox": [
+    -91.723165,
+    46.512654,
+    -91.723165,
+    46.512654
+],
+  "geometry": {"coordinates":[-91.72316499999999,46.512654],"type":"Point"}
 }

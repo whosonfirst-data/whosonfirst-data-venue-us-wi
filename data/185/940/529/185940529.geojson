@@ -2,13 +2,14 @@
   "id": 185940529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.070274,44.533504,-88.070274,44.533504",
     "geom:latitude":44.533504,
     "geom:longitude":-88.070274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1760 Shawano Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185940529,
-    "wof:lastmodified":1449007010,
+    "wof:lastmodified":1467089884,
     "wof:name":"Manor Care",
     "wof:parent_id":85877951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-88.070274,44.533504,-88.070274,44.533504],
+  "bbox": [
+    -88.070274,
+    44.533504,
+    -88.070274,
+    44.533504
+],
   "geometry": {"coordinates":[-88.070274,44.533504],"type":"Point"}
 }

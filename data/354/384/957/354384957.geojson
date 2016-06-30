@@ -2,13 +2,14 @@
   "id": 354384957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.904299,43.071057,-87.904299,43.071057",
     "geom:latitude":43.071057,
     "geom:longitude":-87.904299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 E Locust St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354384957,
-    "wof:lastmodified":1449066156,
+    "wof:lastmodified":1467089934,
     "wof:name":"Pointofnetsale Com",
     "wof:parent_id":85867295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-87.904299,43.071057,-87.904299,43.071057],
-  "geometry": {"coordinates":[-87.904299,43.071057],"type":"Point"}
+  "bbox": [
+    -87.904299,
+    43.071057,
+    -87.904299,
+    43.071057
+],
+  "geometry": {"coordinates":[-87.90429899999999,43.071057],"type":"Point"}
 }

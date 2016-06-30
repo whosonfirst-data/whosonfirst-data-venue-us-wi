@@ -2,13 +2,14 @@
   "id": 387825313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.073804,44.50872,-88.073804,44.50872",
     "geom:latitude":44.50872,
     "geom:longitude":-88.073804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1549 Kennedy Dr",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387825313,
-    "wof:lastmodified":1449056263,
+    "wof:lastmodified":1467089922,
     "wof:name":"Floor Covering Unlimited Inc",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "covering"
     ]
 },
-  "bbox": [-88.073804,44.50872,-88.073804,44.50872],
+  "bbox": [
+    -88.073804,
+    44.50872,
+    -88.073804,
+    44.50872
+],
   "geometry": {"coordinates":[-88.073804,44.50872],"type":"Point"}
 }

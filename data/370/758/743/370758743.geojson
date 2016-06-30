@@ -2,13 +2,14 @@
   "id": 370758743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.887576,44.332483,-87.887576,44.332483",
     "geom:latitude":44.332483,
     "geom:longitude":-87.887576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6400 Co Rd Nn",
     "sg:city":"Denmark",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370758743,
-    "wof:lastmodified":1449030126,
+    "wof:lastmodified":1467089900,
     "wof:name":"Craanen Livestock Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.887576,44.332483,-87.887576,44.332483],
+  "bbox": [
+    -87.887576,
+    44.332483,
+    -87.887576,
+    44.332483
+],
   "geometry": {"coordinates":[-87.887576,44.332483],"type":"Point"}
 }

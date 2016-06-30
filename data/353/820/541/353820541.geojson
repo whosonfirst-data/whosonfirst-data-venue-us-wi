@@ -2,13 +2,14 @@
   "id": 353820541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.184428,43.412354,-88.184428,43.412354",
     "geom:latitude":43.412354,
     "geom:longitude":-88.184428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"634 W Decorah Rd",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353820541,
-    "wof:lastmodified":1449019583,
+    "wof:lastmodified":1467089889,
     "wof:name":"D & N Screen Printing",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "screening"
     ]
 },
-  "bbox": [-88.184428,43.412354,-88.184428,43.412354],
+  "bbox": [
+    -88.184428,
+    43.412354,
+    -88.184428,
+    43.412354
+],
   "geometry": {"coordinates":[-88.184428,43.412354],"type":"Point"}
 }

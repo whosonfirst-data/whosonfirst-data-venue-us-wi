@@ -2,13 +2,14 @@
   "id": 353522571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.543587,44.457045,-89.543587,44.457045",
     "geom:latitude":44.457045,
     "geom:longitude":-89.543587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2618 Post Rd",
     "sg:city":"Plover",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353522571,
-    "wof:lastmodified":1449019480,
+    "wof:lastmodified":1467089889,
     "wof:name":"Game Exchange Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "video"
     ]
 },
-  "bbox": [-89.543587,44.457045,-89.543587,44.457045],
+  "bbox": [
+    -89.543587,
+    44.457045,
+    -89.543587,
+    44.457045
+],
   "geometry": {"coordinates":[-89.543587,44.457045],"type":"Point"}
 }

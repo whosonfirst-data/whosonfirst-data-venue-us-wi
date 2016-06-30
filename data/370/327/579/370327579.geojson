@@ -2,13 +2,14 @@
   "id": 370327579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.079814,43.894719,-91.079814,43.894719",
     "geom:latitude":43.894719,
     "geom:longitude":-91.079814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 S Mill St",
     "sg:city":"West Salem",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370327579,
-    "wof:lastmodified":1449029342,
+    "wof:lastmodified":1467089898,
     "wof:name":"B & H Radiator & Welding Svc",
     "wof:parent_id":85825891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "automotive"
     ]
 },
-  "bbox": [-91.079814,43.894719,-91.079814,43.894719],
+  "bbox": [
+    -91.079814,
+    43.894719,
+    -91.079814,
+    43.894719
+],
   "geometry": {"coordinates":[-91.079814,43.894719],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387923189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.374065,43.014697,-88.374065,43.014697",
     "geom:latitude":43.014697,
     "geom:longitude":-88.374065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 US Hwy 18",
     "sg:city":"Wales",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387923189,
-    "wof:lastmodified":1449059789,
+    "wof:lastmodified":1467089932,
     "wof:name":"Nu Attitude",
     "wof:parent_id":85808383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.374065,43.014697,-88.374065,43.014697],
+  "bbox": [
+    -88.374065,
+    43.014697,
+    -88.374065,
+    43.014697
+],
   "geometry": {"coordinates":[-88.374065,43.014697],"type":"Point"}
 }

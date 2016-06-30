@@ -2,13 +2,14 @@
   "id": 354079281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.103878,46.716169,-92.103878,46.716169",
     "geom:latitude":46.716169,
     "geom:longitude":-92.103878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1826 Tower Ave",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354079281,
-    "wof:lastmodified":1449067368,
+    "wof:lastmodified":1467089937,
     "wof:name":"I D Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "western"
     ]
 },
-  "bbox": [-92.103878,46.716169,-92.103878,46.716169],
-  "geometry": {"coordinates":[-92.103878,46.716169],"type":"Point"}
+  "bbox": [
+    -92.103878,
+    46.716169,
+    -92.103878,
+    46.716169
+],
+  "geometry": {"coordinates":[-92.10387799999999,46.716169],"type":"Point"}
 }

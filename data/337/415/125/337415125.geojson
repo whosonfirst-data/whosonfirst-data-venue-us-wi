@@ -2,13 +2,14 @@
   "id": 337415125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.406043,45.169397,-92.406043,45.169397",
     "geom:latitude":45.169397,
     "geom:longitude":-92.406043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2148 200th St",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":337415125,
-    "wof:lastmodified":1449027539,
+    "wof:lastmodified":1467089895,
     "wof:name":"RR Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-92.406043,45.169397,-92.406043,45.169397],
+  "bbox": [
+    -92.406043,
+    45.169397,
+    -92.406043,
+    45.169397
+],
   "geometry": {"coordinates":[-92.406043,45.169397],"type":"Point"}
 }

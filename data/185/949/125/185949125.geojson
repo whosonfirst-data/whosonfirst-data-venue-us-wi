@@ -2,13 +2,14 @@
   "id": 185949125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.887998,45.826684,-91.887998,45.826684",
     "geom:latitude":45.826684,
     "geom:longitude":-91.887998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Walnut St",
     "sg:city":"Spooner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185949125,
-    "wof:lastmodified":1449007605,
+    "wof:lastmodified":1467089885,
     "wof:name":"R C Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-91.887998,45.826684,-91.887998,45.826684],
+  "bbox": [
+    -91.887998,
+    45.826684,
+    -91.887998,
+    45.826684
+],
   "geometry": {"coordinates":[-91.887998,45.826684],"type":"Point"}
 }

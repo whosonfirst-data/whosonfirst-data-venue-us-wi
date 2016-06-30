@@ -2,13 +2,14 @@
   "id": 403855113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.536019,45.12381,-92.536019,45.12381",
     "geom:latitude":45.12381,
     "geom:longitude":-92.536019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Arch Ave",
     "sg:city":"New Richmond",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403855113,
-    "wof:lastmodified":1449055595,
+    "wof:lastmodified":1467089920,
     "wof:name":"United Mthdst Church Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.536019,45.12381,-92.536019,45.12381],
+  "bbox": [
+    -92.536019,
+    45.12381,
+    -92.536019,
+    45.12381
+],
   "geometry": {"coordinates":[-92.536019,45.12381],"type":"Point"}
 }

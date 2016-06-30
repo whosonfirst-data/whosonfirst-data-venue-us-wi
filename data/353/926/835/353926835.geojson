@@ -2,13 +2,14 @@
   "id": 353926835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.91127,43.016105,-87.91127,43.016105",
     "geom:latitude":43.016105,
     "geom:longitude":-87.91127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1407 S 1st St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353926835,
-    "wof:lastmodified":1449019141,
+    "wof:lastmodified":1467089888,
     "wof:name":"A Webtech Master",
     "wof:parent_id":85870847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-87.91127,43.016105,-87.91127,43.016105],
+  "bbox": [
+    -87.91127,
+    43.016105,
+    -87.91127,
+    43.016105
+],
   "geometry": {"coordinates":[-87.91127,43.016105],"type":"Point"}
 }

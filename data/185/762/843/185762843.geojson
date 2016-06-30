@@ -2,13 +2,14 @@
   "id": 185762843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.048556,43.01344,-88.048556,43.01344",
     "geom:latitude":43.01344,
     "geom:longitude":-88.048556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11111 W Lapham St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185762843,
-    "wof:lastmodified":1449007737,
+    "wof:lastmodified":1467089885,
     "wof:name":"ABC Supply Co",
     "wof:parent_id":85870861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "siding"
     ]
 },
-  "bbox": [-88.048556,43.01344,-88.048556,43.01344],
+  "bbox": [
+    -88.048556,
+    43.01344,
+    -88.048556,
+    43.01344
+],
   "geometry": {"coordinates":[-88.048556,43.01344],"type":"Point"}
 }

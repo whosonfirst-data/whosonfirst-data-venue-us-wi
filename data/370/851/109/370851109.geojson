@@ -2,13 +2,14 @@
   "id": 370851109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.045095,43.141388,-88.045095,43.141388",
     "geom:latitude":43.141388,
     "geom:longitude":-88.045095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6844 N 107th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370851109,
-    "wof:lastmodified":1449031304,
+    "wof:lastmodified":1467089904,
     "wof:name":"Salem Evang Lutheran Schl",
     "wof:parent_id":85870813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.045095,43.141388,-88.045095,43.141388],
+  "bbox": [
+    -88.045095,
+    43.141388,
+    -88.045095,
+    43.141388
+],
   "geometry": {"coordinates":[-88.045095,43.141388],"type":"Point"}
 }

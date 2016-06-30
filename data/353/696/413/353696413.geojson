@@ -2,13 +2,14 @@
   "id": 353696413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.887703,45.830335,-91.887703,45.830335",
     "geom:latitude":45.830335,
     "geom:longitude":-91.887703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Rusk St",
     "sg:city":"Spooner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353696413,
-    "wof:lastmodified":1449018450,
+    "wof:lastmodified":1467089887,
     "wof:name":"Scalzo Funeral Home Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-91.887703,45.830335,-91.887703,45.830335],
+  "bbox": [
+    -91.887703,
+    45.830335,
+    -91.887703,
+    45.830335
+],
   "geometry": {"coordinates":[-91.887703,45.830335],"type":"Point"}
 }

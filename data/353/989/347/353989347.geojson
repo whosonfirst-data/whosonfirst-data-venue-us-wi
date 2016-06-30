@@ -2,13 +2,14 @@
   "id": 353989347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.123563,44.177021,-89.123563,44.177021",
     "geom:latitude":44.177021,
     "geom:longitude":-89.123563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4840 Portage St",
     "sg:city":"Wild Rose",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353989347,
-    "wof:lastmodified":1449020108,
+    "wof:lastmodified":1467089890,
     "wof:name":"Heartline Medix Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.123563,44.177021,-89.123563,44.177021],
+  "bbox": [
+    -89.123563,
+    44.177021,
+    -89.123563,
+    44.177021
+],
   "geometry": {"coordinates":[-89.123563,44.177021],"type":"Point"}
 }

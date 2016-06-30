@@ -2,13 +2,14 @@
   "id": 370553973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.589618,44.841803,-91.589618,44.841803",
     "geom:latitude":44.841803,
     "geom:longitude":-91.589618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3330 N Town Hall Rd",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370553973,
-    "wof:lastmodified":1449029082,
+    "wof:lastmodified":1467089897,
     "wof:name":"Gun Exchange",
     "wof:parent_id":85848105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sporting"
     ]
 },
-  "bbox": [-91.589618,44.841803,-91.589618,44.841803],
+  "bbox": [
+    -91.589618,
+    44.841803,
+    -91.589618,
+    44.841803
+],
   "geometry": {"coordinates":[-91.589618,44.841803],"type":"Point"}
 }

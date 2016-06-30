@@ -2,13 +2,14 @@
   "id": 354140947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.959806,44.513169,-87.959806,44.513169",
     "geom:latitude":44.513169,
     "geom:longitude":-87.959806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2480 University Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354140947,
-    "wof:lastmodified":1449066174,
+    "wof:lastmodified":1467089934,
     "wof:name":"Fox River Motors Inc",
     "wof:parent_id":85823449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.959806,44.513169,-87.959806,44.513169],
+  "bbox": [
+    -87.959806,
+    44.513169,
+    -87.959806,
+    44.513169
+],
   "geometry": {"coordinates":[-87.959806,44.513169],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387711021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.963664,42.932066,-87.963664,42.932066",
     "geom:latitude":42.932066,
     "geom:longitude":-87.963664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4282 W Mangold Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387711021,
-    "wof:lastmodified":1449059223,
+    "wof:lastmodified":1467089931,
     "wof:name":"Marco Carrasquillo",
     "wof:parent_id":85870857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.963664,42.932066,-87.963664,42.932066],
-  "geometry": {"coordinates":[-87.963664,42.932066],"type":"Point"}
+  "bbox": [
+    -87.963664,
+    42.932066,
+    -87.963664,
+    42.932066
+],
+  "geometry": {"coordinates":[-87.96366399999999,42.932066],"type":"Point"}
 }

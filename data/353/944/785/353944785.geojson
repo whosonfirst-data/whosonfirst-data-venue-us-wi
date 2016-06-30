@@ -2,13 +2,14 @@
   "id": 353944785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.944049,43.20383,-87.944049,43.20383",
     "geom:latitude":43.20383,
     "geom:longitude":-87.944049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10146 N Range Line Rd",
     "sg:city":"Thiensville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353944785,
-    "wof:lastmodified":1449019541,
+    "wof:lastmodified":1467089889,
     "wof:name":"M6 Investments LLC",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-87.944049,43.20383,-87.944049,43.20383],
-  "geometry": {"coordinates":[-87.944049,43.20383],"type":"Point"}
+  "bbox": [
+    -87.944049,
+    43.20383,
+    -87.944049,
+    43.20383
+],
+  "geometry": {"coordinates":[-87.94404900000001,43.20383],"type":"Point"}
 }

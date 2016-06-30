@@ -2,13 +2,14 @@
   "id": 387487155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.498644,43.111208,-88.498644,43.111208",
     "geom:latitude":43.111208,
     "geom:longitude":-88.498644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 E Wisconsin Ave",
     "sg:city":"Oconomowoc",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387487155,
-    "wof:lastmodified":1449057343,
+    "wof:lastmodified":1467089925,
     "wof:name":"U S Bank National Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "national"
     ]
 },
-  "bbox": [-88.498644,43.111208,-88.498644,43.111208],
+  "bbox": [
+    -88.498644,
+    43.111208,
+    -88.498644,
+    43.111208
+],
   "geometry": {"coordinates":[-88.498644,43.111208],"type":"Point"}
 }

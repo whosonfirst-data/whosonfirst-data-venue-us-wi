@@ -2,13 +2,14 @@
   "id": 354071671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.706104,45.62964,-89.706104,45.62964",
     "geom:latitude":45.62964,
     "geom:longitude":-89.706104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3543 Co Rd L",
     "sg:city":"Tomahawk",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354071671,
-    "wof:lastmodified":1449067029,
+    "wof:lastmodified":1467089936,
     "wof:name":"Cabin Crafts & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-89.706104,45.62964,-89.706104,45.62964],
+  "bbox": [
+    -89.706104,
+    45.62964,
+    -89.706104,
+    45.62964
+],
   "geometry": {"coordinates":[-89.706104,45.62964],"type":"Point"}
 }

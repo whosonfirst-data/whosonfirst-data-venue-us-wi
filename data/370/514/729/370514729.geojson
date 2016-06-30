@@ -2,13 +2,14 @@
   "id": 370514729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.65238,44.900644,-89.65238,44.900644",
     "geom:latitude":44.900644,
     "geom:longitude":-89.65238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1406 Hollibush Ln",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370514729,
-    "wof:lastmodified":1449030781,
+    "wof:lastmodified":1467089902,
     "wof:name":"Sherfinski Properties LLC",
     "wof:parent_id":85854809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rental"
     ]
 },
-  "bbox": [-89.65238,44.900644,-89.65238,44.900644],
-  "geometry": {"coordinates":[-89.65238,44.900644],"type":"Point"}
+  "bbox": [
+    -89.65238,
+    44.900644,
+    -89.65238,
+    44.900644
+],
+  "geometry": {"coordinates":[-89.65237999999999,44.900644],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337634571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.866943,44.020777,-87.866943,44.020777",
     "geom:latitude":44.020777,
     "geom:longitude":-87.866943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6428 Boldt Rd",
     "sg:city":"Valders",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337634571,
-    "wof:lastmodified":1449027339,
+    "wof:lastmodified":1467089894,
     "wof:name":"Newtonburg Sys Hoof Trimming",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-87.866943,44.020777,-87.866943,44.020777],
-  "geometry": {"coordinates":[-87.866943,44.020777],"type":"Point"}
+  "bbox": [
+    -87.866943,
+    44.020777,
+    -87.866943,
+    44.020777
+],
+  "geometry": {"coordinates":[-87.86694300000001,44.020777],"type":"Point"}
 }

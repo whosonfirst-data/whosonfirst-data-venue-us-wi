@@ -2,13 +2,14 @@
   "id": 387910453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.958057,43.002368,-87.958057,43.002368",
     "geom:latitude":43.002368,
     "geom:longitude":-87.958057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2363 S 35th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387910453,
-    "wof:lastmodified":1449057693,
+    "wof:lastmodified":1467089926,
     "wof:name":"Milwaukee Sanitation Div",
     "wof:parent_id":85870927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-87.958057,43.002368,-87.958057,43.002368],
+  "bbox": [
+    -87.958057,
+    43.002368,
+    -87.958057,
+    43.002368
+],
   "geometry": {"coordinates":[-87.958057,43.002368],"type":"Point"}
 }

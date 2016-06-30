@@ -2,13 +2,14 @@
   "id": 370555769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.464681,45.659319,-92.464681,45.659319",
     "geom:latitude":45.659319,
     "geom:longitude":-92.464681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Oak St E",
     "sg:city":"Frederic",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370555769,
-    "wof:lastmodified":1449031983,
+    "wof:lastmodified":1467089906,
     "wof:name":"Lakeview Homecare & Hospice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-92.464681,45.659319,-92.464681,45.659319],
+  "bbox": [
+    -92.464681,
+    45.659319,
+    -92.464681,
+    45.659319
+],
   "geometry": {"coordinates":[-92.464681,45.659319],"type":"Point"}
 }

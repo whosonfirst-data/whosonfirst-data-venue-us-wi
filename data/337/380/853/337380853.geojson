@@ -2,13 +2,14 @@
   "id": 337380853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.634735,44.984901,-89.634735,44.984901",
     "geom:latitude":44.984901,
     "geom:longitude":-89.634735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1534 Lenard St",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337380853,
-    "wof:lastmodified":1449027322,
+    "wof:lastmodified":1467089894,
     "wof:name":"Womens International Bowl",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-89.634735,44.984901,-89.634735,44.984901],
-  "geometry": {"coordinates":[-89.634735,44.984901],"type":"Point"}
+  "bbox": [
+    -89.634735,
+    44.984901,
+    -89.634735,
+    44.984901
+],
+  "geometry": {"coordinates":[-89.63473500000001,44.984901],"type":"Point"}
 }

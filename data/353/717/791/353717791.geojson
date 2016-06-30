@@ -2,13 +2,14 @@
   "id": 353717791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.346002,45.436997,-92.346002,45.436997",
     "geom:latitude":45.436997,
     "geom:longitude":-92.346002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1591 90th St",
     "sg:city":"Balsam Lake",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353717791,
-    "wof:lastmodified":1449018314,
+    "wof:lastmodified":1467089886,
     "wof:name":"Lord Property Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.346002,45.436997,-92.346002,45.436997],
+  "bbox": [
+    -92.346002,
+    45.436997,
+    -92.346002,
+    45.436997
+],
   "geometry": {"coordinates":[-92.346002,45.436997],"type":"Point"}
 }

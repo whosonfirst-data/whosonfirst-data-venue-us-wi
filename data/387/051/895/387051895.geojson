@@ -2,13 +2,14 @@
   "id": 387051895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.262559,43.089024,-88.262559,43.089024",
     "geom:latitude":43.089024,
     "geom:longitude":-88.262559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Park Hill Dr",
     "sg:city":"Pewaukee",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":387051895,
-    "wof:lastmodified":1449058453,
+    "wof:lastmodified":1467089928,
     "wof:name":"Pewaukee Hlls Condo Homes Assn",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-88.262559,43.089024,-88.262559,43.089024],
+  "bbox": [
+    -88.262559,
+    43.089024,
+    -88.262559,
+    43.089024
+],
   "geometry": {"coordinates":[-88.262559,43.089024],"type":"Point"}
 }

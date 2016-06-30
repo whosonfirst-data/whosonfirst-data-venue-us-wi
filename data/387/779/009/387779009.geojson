@@ -2,13 +2,14 @@
   "id": 387779009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.982092,43.361155,-88.982092,43.361155",
     "geom:latitude":43.361155,
     "geom:longitude":-88.982092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11851 Behan Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387779009,
-    "wof:lastmodified":1449056689,
+    "wof:lastmodified":1467089923,
     "wof:name":"Freedom Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.982092,43.361155,-88.982092,43.361155],
-  "geometry": {"coordinates":[-88.982092,43.361155],"type":"Point"}
+  "bbox": [
+    -88.982092,
+    43.361155,
+    -88.982092,
+    43.361155
+],
+  "geometry": {"coordinates":[-88.98209199999999,43.361155],"type":"Point"}
 }

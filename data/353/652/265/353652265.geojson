@@ -2,13 +2,14 @@
   "id": 353652265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.727913,43.743287,-87.727913,43.743287",
     "geom:latitude":43.743287,
     "geom:longitude":-87.727913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 Indiana Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353652265,
-    "wof:lastmodified":1449019896,
+    "wof:lastmodified":1467089890,
     "wof:name":"Wash House Inc",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.727913,43.743287,-87.727913,43.743287],
+  "bbox": [
+    -87.727913,
+    43.743287,
+    -87.727913,
+    43.743287
+],
   "geometry": {"coordinates":[-87.727913,43.743287],"type":"Point"}
 }

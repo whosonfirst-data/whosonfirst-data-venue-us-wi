@@ -2,13 +2,14 @@
   "id": 387705887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.981601,44.492629,-87.981601,44.492629",
     "geom:latitude":44.492629,
     "geom:longitude":-87.981601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1742 E Mason St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387705887,
-    "wof:lastmodified":1449059942,
+    "wof:lastmodified":1467089933,
     "wof:name":"Tanya Tanning Salon",
     "wof:parent_id":85877953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "fitness"
     ]
 },
-  "bbox": [-87.981601,44.492629,-87.981601,44.492629],
+  "bbox": [
+    -87.981601,
+    44.492629,
+    -87.981601,
+    44.492629
+],
   "geometry": {"coordinates":[-87.981601,44.492629],"type":"Point"}
 }

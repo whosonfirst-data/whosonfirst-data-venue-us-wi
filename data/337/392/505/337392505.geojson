@@ -2,13 +2,14 @@
   "id": 337392505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.29906,44.873784,-92.29906,44.873784",
     "geom:latitude":44.873784,
     "geom:longitude":-92.29906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 250th St",
     "sg:city":"Woodville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":337392505,
-    "wof:lastmodified":1449027587,
+    "wof:lastmodified":1467089895,
     "wof:name":"Select Sires",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "insemination"
     ]
 },
-  "bbox": [-92.29906,44.873784,-92.29906,44.873784],
+  "bbox": [
+    -92.29906,
+    44.873784,
+    -92.29906,
+    44.873784
+],
   "geometry": {"coordinates":[-92.29906,44.873784],"type":"Point"}
 }

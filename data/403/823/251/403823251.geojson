@@ -2,13 +2,14 @@
   "id": 403823251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.481245,46.012492,-91.481245,46.012492",
     "geom:latitude":46.012492,
     "geom:longitude":-91.481245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10465 Wheeler St",
     "sg:city":"Hayward",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403823251,
-    "wof:lastmodified":1449055940,
+    "wof:lastmodified":1467089921,
     "wof:name":"Plum Creek Marketing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-91.481245,46.012492,-91.481245,46.012492],
+  "bbox": [
+    -91.481245,
+    46.012492,
+    -91.481245,
+    46.012492
+],
   "geometry": {"coordinates":[-91.481245,46.012492],"type":"Point"}
 }

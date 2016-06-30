@@ -2,13 +2,14 @@
   "id": 353433667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.803811,43.729151,-87.803811,43.729151",
     "geom:latitude":43.729151,
     "geom:longitude":-87.803811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Monroe St",
     "sg:city":"Sheboygan Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353433667,
-    "wof:lastmodified":1449018548,
+    "wof:lastmodified":1467089887,
     "wof:name":"C & J Optics",
     "wof:parent_id":85820559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.803811,43.729151,-87.803811,43.729151],
+  "bbox": [
+    -87.803811,
+    43.729151,
+    -87.803811,
+    43.729151
+],
   "geometry": {"coordinates":[-87.803811,43.729151],"type":"Point"}
 }

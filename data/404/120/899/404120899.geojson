@@ -2,13 +2,14 @@
   "id": 404120899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.093504,44.524068,-88.093504,44.524068",
     "geom:latitude":44.524068,
     "geom:longitude":-88.093504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2514 W Mason St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404120899,
-    "wof:lastmodified":1449040149,
+    "wof:lastmodified":1467089911,
     "wof:name":"Oneida Smoke Shops",
     "wof:parent_id":85877951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-88.093504,44.524068,-88.093504,44.524068],
+  "bbox": [
+    -88.093504,
+    44.524068,
+    -88.093504,
+    44.524068
+],
   "geometry": {"coordinates":[-88.093504,44.524068],"type":"Point"}
 }

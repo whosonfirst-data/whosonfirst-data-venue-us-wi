@@ -2,13 +2,14 @@
   "id": 186318391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.078974,43.039592,-88.078974,43.039592",
     "geom:latitude":43.039592,
     "geom:longitude":-88.078974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"890 Elm Grove Rd",
     "sg:city":"Elm Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186318391,
-    "wof:lastmodified":1449050988,
+    "wof:lastmodified":1467089915,
     "wof:name":"Kraft TEC Inc",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-88.078974,43.039592,-88.078974,43.039592],
+  "bbox": [
+    -88.078974,
+    43.039592,
+    -88.078974,
+    43.039592
+],
   "geometry": {"coordinates":[-88.078974,43.039592],"type":"Point"}
 }

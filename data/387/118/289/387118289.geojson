@@ -2,13 +2,14 @@
   "id": 387118289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.336659,43.274751,-88.336659,43.274751",
     "geom:latitude":43.274751,
     "geom:longitude":-88.336659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5979 Loghouse Rd",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387118289,
-    "wof:lastmodified":1449059194,
+    "wof:lastmodified":1467089931,
     "wof:name":"162 Solutions Group",
     "wof:parent_id":85841573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [-88.336659,43.274751,-88.336659,43.274751],
+  "bbox": [
+    -88.336659,
+    43.274751,
+    -88.336659,
+    43.274751
+],
   "geometry": {"coordinates":[-88.336659,43.274751],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387542341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.952311,43.016858,-87.952311,43.016858",
     "geom:latitude":43.016858,
     "geom:longitude":-87.952311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3027 W Greenfield Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387542341,
-    "wof:lastmodified":1449059059,
+    "wof:lastmodified":1467089930,
     "wof:name":"Guadalupe Head Start",
     "wof:parent_id":85870969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.952311,43.016858,-87.952311,43.016858],
-  "geometry": {"coordinates":[-87.952311,43.016858],"type":"Point"}
+  "bbox": [
+    -87.952311,
+    43.016858,
+    -87.952311,
+    43.016858
+],
+  "geometry": {"coordinates":[-87.95231099999999,43.016858],"type":"Point"}
 }

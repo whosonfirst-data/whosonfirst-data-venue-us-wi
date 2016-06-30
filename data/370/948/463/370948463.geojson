@@ -2,13 +2,14 @@
   "id": 370948463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.351389,44.835989,-87.351389,44.835989",
     "geom:latitude":44.835989,
     "geom:longitude":-87.351389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 N 18th Ave",
     "sg:city":"Sturgeon Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370948463,
-    "wof:lastmodified":1449031780,
+    "wof:lastmodified":1467089905,
     "wof:name":"Green Bay Office",
     "wof:parent_id":85851043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-87.351389,44.835989,-87.351389,44.835989],
+  "bbox": [
+    -87.351389,
+    44.835989,
+    -87.351389,
+    44.835989
+],
   "geometry": {"coordinates":[-87.351389,44.835989],"type":"Point"}
 }

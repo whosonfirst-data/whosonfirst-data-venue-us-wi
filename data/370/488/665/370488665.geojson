@@ -2,13 +2,14 @@
   "id": 370488665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.877834,44.024771,-89.877834,44.024771",
     "geom:latitude":44.024771,
     "geom:longitude":-89.877834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1588 State Hwy 21",
     "sg:city":"Arkdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370488665,
-    "wof:lastmodified":1449032380,
+    "wof:lastmodified":1467089907,
     "wof:name":"Strong's Prairie Town Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-89.877834,44.024771,-89.877834,44.024771],
-  "geometry": {"coordinates":[-89.877834,44.024771],"type":"Point"}
+  "bbox": [
+    -89.877834,
+    44.024771,
+    -89.877834,
+    44.024771
+],
+  "geometry": {"coordinates":[-89.87783399999999,44.024771],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353841067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.015609,42.517846,-89.015609,42.517846",
     "geom:latitude":42.517846,
     "geom:longitude":-89.015609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Copeland Ave",
     "sg:city":"Beloit",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353841067,
-    "wof:lastmodified":1449018794,
+    "wof:lastmodified":1467089887,
     "wof:name":"Performance Detail Shop",
     "wof:parent_id":85812915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-89.015609,42.517846,-89.015609,42.517846],
+  "bbox": [
+    -89.015609,
+    42.517846,
+    -89.015609,
+    42.517846
+],
   "geometry": {"coordinates":[-89.015609,42.517846],"type":"Point"}
 }

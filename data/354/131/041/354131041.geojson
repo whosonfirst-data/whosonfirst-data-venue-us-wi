@@ -2,13 +2,14 @@
   "id": 354131041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.181688,43.456103,-88.181688,43.456103",
     "geom:latitude":43.456103,
     "geom:longitude":-88.181688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7325 Salisbury Rd",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354131041,
-    "wof:lastmodified":1449066420,
+    "wof:lastmodified":1467089934,
     "wof:name":"Bridget Pfeil Herbal Life",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.181688,43.456103,-88.181688,43.456103],
-  "geometry": {"coordinates":[-88.181688,43.456103],"type":"Point"}
+  "bbox": [
+    -88.181688,
+    43.456103,
+    -88.181688,
+    43.456103
+],
+  "geometry": {"coordinates":[-88.18168799999999,43.456103],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387029033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.512789,43.09549,-89.512789,43.09549",
     "geom:latitude":43.09549,
     "geom:longitude":-89.512789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7507 Hubbard Ave",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387029033,
-    "wof:lastmodified":1449057713,
+    "wof:lastmodified":1467089926,
     "wof:name":"Tis The Season",
     "wof:parent_id":85841479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-89.512789,43.09549,-89.512789,43.09549],
+  "bbox": [
+    -89.512789,
+    43.09549,
+    -89.512789,
+    43.09549
+],
   "geometry": {"coordinates":[-89.512789,43.09549],"type":"Point"}
 }

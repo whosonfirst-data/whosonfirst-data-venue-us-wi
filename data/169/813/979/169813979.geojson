@@ -2,13 +2,14 @@
   "id": 169813979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.686637,43.187258,-89.686637,43.187258",
     "geom:latitude":43.187258,
     "geom:longitude":-89.686637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8992 State Hwy 19",
     "sg:city":"Mazomanie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169813979,
-    "wof:lastmodified":1449033542,
+    "wof:lastmodified":1467089908,
     "wof:name":"Fassbender Farms",
     "wof:parent_id":85832771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.686637,43.187258,-89.686637,43.187258],
+  "bbox": [
+    -89.686637,
+    43.187258,
+    -89.686637,
+    43.187258
+],
   "geometry": {"coordinates":[-89.686637,43.187258],"type":"Point"}
 }

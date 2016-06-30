@@ -2,13 +2,14 @@
   "id": 370633705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.155603,43.090207,-88.155603,43.090207",
     "geom:latitude":43.090207,
     "geom:longitude":-88.155603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19265 W Capitol Dr",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370633705,
-    "wof:lastmodified":1449032441,
+    "wof:lastmodified":1467089907,
     "wof:name":"Sterling Group",
     "wof:parent_id":85832419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "planning"
     ]
 },
-  "bbox": [-88.155603,43.090207,-88.155603,43.090207],
+  "bbox": [
+    -88.155603,
+    43.090207,
+    -88.155603,
+    43.090207
+],
   "geometry": {"coordinates":[-88.155603,43.090207],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370791559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.24141,43.024803,-88.24141,43.024803",
     "geom:latitude":43.024803,
     "geom:longitude":-88.24141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Delafield St",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370791559,
-    "wof:lastmodified":1449031698,
+    "wof:lastmodified":1467089905,
     "wof:name":"Professional Hearing Services",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.24141,43.024803,-88.24141,43.024803],
+  "bbox": [
+    -88.24141,
+    43.024803,
+    -88.24141,
+    43.024803
+],
   "geometry": {"coordinates":[-88.24141,43.024803],"type":"Point"}
 }

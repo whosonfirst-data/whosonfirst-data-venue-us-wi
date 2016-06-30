@@ -2,13 +2,14 @@
   "id": 387051601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.89799,42.904789,-87.89799,42.904789",
     "geom:latitude":42.904789,
     "geom:longitude":-87.89799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7602 S Logan Ave",
     "sg:city":"Oak Creek",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387051601,
-    "wof:lastmodified":1449058454,
+    "wof:lastmodified":1467089928,
     "wof:name":"Education Training & Comm LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.89799,42.904789,-87.89799,42.904789],
-  "geometry": {"coordinates":[-87.89799,42.904789],"type":"Point"}
+  "bbox": [
+    -87.89799,
+    42.904789,
+    -87.89799,
+    42.904789
+],
+  "geometry": {"coordinates":[-87.89798999999999,42.904789],"type":"Point"}
 }

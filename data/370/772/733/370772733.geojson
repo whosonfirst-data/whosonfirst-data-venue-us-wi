@@ -2,13 +2,14 @@
   "id": 370772733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.455886,44.294932,-88.455886,44.294932",
     "geom:latitude":44.294932,
     "geom:longitude":-88.455886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3320 N Bluemound Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370772733,
-    "wof:lastmodified":1449030613,
+    "wof:lastmodified":1467089902,
     "wof:name":"Bluecap Marketing Research LLC",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-88.455886,44.294932,-88.455886,44.294932],
-  "geometry": {"coordinates":[-88.455886,44.294932],"type":"Point"}
+  "bbox": [
+    -88.455886,
+    44.294932,
+    -88.455886,
+    44.294932
+],
+  "geometry": {"coordinates":[-88.45588600000001,44.294932],"type":"Point"}
 }

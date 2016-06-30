@@ -2,13 +2,14 @@
   "id": 354115517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.503576,44.52476,-89.503576,44.52476",
     "geom:latitude":44.52476,
     "geom:longitude":-89.503576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5709 Windy Dr",
     "sg:city":"Stevens Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354115517,
-    "wof:lastmodified":1449065917,
+    "wof:lastmodified":1467089933,
     "wof:name":"River Cities Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-89.503576,44.52476,-89.503576,44.52476],
+  "bbox": [
+    -89.503576,
+    44.52476,
+    -89.503576,
+    44.52476
+],
   "geometry": {"coordinates":[-89.503576,44.52476],"type":"Point"}
 }

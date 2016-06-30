@@ -2,13 +2,14 @@
   "id": 186146799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.525772,45.105203,-92.525772,45.105203",
     "geom:latitude":45.105203,
     "geom:longitude":-92.525772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Derrick Dr",
     "sg:city":"New Richmond",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186146799,
-    "wof:lastmodified":1449051488,
+    "wof:lastmodified":1467089915,
     "wof:name":"Croix Data Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-92.525772,45.105203,-92.525772,45.105203],
+  "bbox": [
+    -92.525772,
+    45.105203,
+    -92.525772,
+    45.105203
+],
   "geometry": {"coordinates":[-92.525772,45.105203],"type":"Point"}
 }

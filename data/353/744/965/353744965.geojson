@@ -2,13 +2,14 @@
   "id": 353744965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.877681,42.989397,-87.877681,42.989397",
     "geom:latitude":42.989397,
     "geom:longitude":-87.877681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3039 S Wentworth Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353744965,
-    "wof:lastmodified":1449019178,
+    "wof:lastmodified":1467089888,
     "wof:name":"Wisconsin Firewood Co",
     "wof:parent_id":85870851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "firewood"
     ]
 },
-  "bbox": [-87.877681,42.989397,-87.877681,42.989397],
+  "bbox": [
+    -87.877681,
+    42.989397,
+    -87.877681,
+    42.989397
+],
   "geometry": {"coordinates":[-87.877681,42.989397],"type":"Point"}
 }

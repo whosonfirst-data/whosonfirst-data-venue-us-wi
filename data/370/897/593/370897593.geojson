@@ -2,13 +2,14 @@
   "id": 370897593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.989751,43.221662,-87.989751,43.221662",
     "geom:latitude":43.221662,
     "geom:longitude":-87.989751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11203 N Buntrock Ave",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370897593,
-    "wof:lastmodified":1449031917,
+    "wof:lastmodified":1467089906,
     "wof:name":"Bob Ziegelbauer Insurance",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.989751,43.221662,-87.989751,43.221662],
+  "bbox": [
+    -87.989751,
+    43.221662,
+    -87.989751,
+    43.221662
+],
   "geometry": {"coordinates":[-87.989751,43.221662],"type":"Point"}
 }

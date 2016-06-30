@@ -2,13 +2,14 @@
   "id": 404154217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.728975,45.483653,-89.728975,45.483653",
     "geom:latitude":45.483653,
     "geom:longitude":-89.728975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 N 4th St",
     "sg:city":"Tomahawk",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404154217,
-    "wof:lastmodified":1449040341,
+    "wof:lastmodified":1467089912,
     "wof:name":"Spirit Business Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-89.728975,45.483653,-89.728975,45.483653],
-  "geometry": {"coordinates":[-89.728975,45.483653],"type":"Point"}
+  "bbox": [
+    -89.728975,
+    45.483653,
+    -89.728975,
+    45.483653
+],
+  "geometry": {"coordinates":[-89.72897500000001,45.483653],"type":"Point"}
 }

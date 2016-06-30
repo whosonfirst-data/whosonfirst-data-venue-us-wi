@@ -2,13 +2,14 @@
   "id": 404074517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.069296,44.48812,-88.069296,44.48812",
     "geom:latitude":44.48812,
     "geom:longitude":-88.069296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"926 Willard Dr",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404074517,
-    "wof:lastmodified":1449039782,
+    "wof:lastmodified":1467089910,
     "wof:name":"Dotty Juengst",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcasting"
     ]
 },
-  "bbox": [-88.069296,44.48812,-88.069296,44.48812],
-  "geometry": {"coordinates":[-88.069296,44.48812],"type":"Point"}
+  "bbox": [
+    -88.069296,
+    44.48812,
+    -88.069296,
+    44.48812
+],
+  "geometry": {"coordinates":[-88.06929599999999,44.48812],"type":"Point"}
 }

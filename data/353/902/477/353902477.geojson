@@ -2,13 +2,14 @@
   "id": 353902477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.498304,44.811435,-91.498304,44.811435",
     "geom:latitude":44.811435,
     "geom:longitude":-91.498304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 S Farwell St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353902477,
-    "wof:lastmodified":1449020139,
+    "wof:lastmodified":1467089890,
     "wof:name":"Eau Claire City Attorney",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "counsel"
     ]
 },
-  "bbox": [-91.498304,44.811435,-91.498304,44.811435],
+  "bbox": [
+    -91.498304,
+    44.811435,
+    -91.498304,
+    44.811435
+],
   "geometry": {"coordinates":[-91.498304,44.811435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169719217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.958967,43.021806,-87.958967,43.021806",
     "geom:latitude":43.021806,
     "geom:longitude":-87.958967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 S 36th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169719217,
-    "wof:lastmodified":1449033110,
+    "wof:lastmodified":1467089908,
     "wof:name":"RB Financial",
     "wof:parent_id":85870841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-87.958967,43.021806,-87.958967,43.021806],
+  "bbox": [
+    -87.958967,
+    43.021806,
+    -87.958967,
+    43.021806
+],
   "geometry": {"coordinates":[-87.958967,43.021806],"type":"Point"}
 }

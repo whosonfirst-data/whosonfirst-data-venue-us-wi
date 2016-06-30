@@ -2,13 +2,14 @@
   "id": 404183419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.539826,44.01887,-88.539826,44.01887",
     "geom:latitude":44.01887,
     "geom:longitude":-88.539826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Division St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404183419,
-    "wof:lastmodified":1449039781,
+    "wof:lastmodified":1467089910,
     "wof:name":"Kids Are Us Child Development",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.539826,44.01887,-88.539826,44.01887],
-  "geometry": {"coordinates":[-88.539826,44.01887],"type":"Point"}
+  "bbox": [
+    -88.539826,
+    44.01887,
+    -88.539826,
+    44.01887
+],
+  "geometry": {"coordinates":[-88.53982600000001,44.01887],"type":"Point"}
 }

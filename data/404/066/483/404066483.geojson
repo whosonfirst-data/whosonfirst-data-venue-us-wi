@@ -2,13 +2,14 @@
   "id": 404066483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.92715,44.877035,-91.92715,44.877035",
     "geom:latitude":44.877035,
     "geom:longitude":-91.92715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 3rd St E",
     "sg:city":"Menomonie",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404066483,
-    "wof:lastmodified":1449039369,
+    "wof:lastmodified":1467089910,
     "wof:name":"Board To Death Skate Shop",
     "wof:parent_id":85837813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-91.92715,44.877035,-91.92715,44.877035],
+  "bbox": [
+    -91.92715,
+    44.877035,
+    -91.92715,
+    44.877035
+],
   "geometry": {"coordinates":[-91.92715,44.877035],"type":"Point"}
 }

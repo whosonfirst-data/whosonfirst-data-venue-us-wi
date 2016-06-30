@@ -2,13 +2,14 @@
   "id": 387836449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.231037,43.081224,-88.231037,43.081224",
     "geom:latitude":43.081224,
     "geom:longitude":-88.231037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1337 Sunnyridge Rd",
     "sg:city":"Pewaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387836449,
-    "wof:lastmodified":1449058628,
+    "wof:lastmodified":1467089929,
     "wof:name":"Sunnyridge Design",
     "wof:parent_id":85815589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.231037,43.081224,-88.231037,43.081224],
+  "bbox": [
+    -88.231037,
+    43.081224,
+    -88.231037,
+    43.081224
+],
   "geometry": {"coordinates":[-88.231037,43.081224],"type":"Point"}
 }

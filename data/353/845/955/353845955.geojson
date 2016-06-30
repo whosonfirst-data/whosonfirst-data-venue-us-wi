@@ -2,13 +2,14 @@
   "id": 353845955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.911993,43.041761,-87.911993,43.041761",
     "geom:latitude":43.041761,
     "geom:longitude":-87.911993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Kilbourn Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353845955,
-    "wof:lastmodified":1449018665,
+    "wof:lastmodified":1467089887,
     "wof:name":"Richard F Swider & Assoc",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-87.911993,43.041761,-87.911993,43.041761],
+  "bbox": [
+    -87.911993,
+    43.041761,
+    -87.911993,
+    43.041761
+],
   "geometry": {"coordinates":[-87.911993,43.041761],"type":"Point"}
 }

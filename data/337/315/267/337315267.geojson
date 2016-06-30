@@ -2,13 +2,14 @@
   "id": 337315267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.913989,43.067367,-87.913989,43.067367",
     "geom:latitude":43.067367,
     "geom:longitude":-87.913989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2610 N Dr Martin Luther King Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337315267,
-    "wof:lastmodified":1449027700,
+    "wof:lastmodified":1467089896,
     "wof:name":"St Vincent De Paul Family Ctr",
     "wof:parent_id":85870991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-87.913989,43.067367,-87.913989,43.067367],
+  "bbox": [
+    -87.913989,
+    43.067367,
+    -87.913989,
+    43.067367
+],
   "geometry": {"coordinates":[-87.913989,43.067367],"type":"Point"}
 }

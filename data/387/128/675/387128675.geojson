@@ -2,13 +2,14 @@
   "id": 387128675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.320206,44.121021,-88.320206,44.121021",
     "geom:latitude":44.121021,
     "geom:longitude":-88.320206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6371 Fairy Springs Rd",
     "sg:city":"Hilbert",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387128675,
-    "wof:lastmodified":1449057596,
+    "wof:lastmodified":1467089925,
     "wof:name":"Valley Home Modernizing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "builder"
     ]
 },
-  "bbox": [-88.320206,44.121021,-88.320206,44.121021],
+  "bbox": [
+    -88.320206,
+    44.121021,
+    -88.320206,
+    44.121021
+],
   "geometry": {"coordinates":[-88.320206,44.121021],"type":"Point"}
 }

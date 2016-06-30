@@ -2,13 +2,14 @@
   "id": 387480583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.058969,44.504586,-88.058969,44.504586",
     "geom:latitude":44.504586,
     "geom:longitude":-88.058969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 Spence St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387480583,
-    "wof:lastmodified":1449057339,
+    "wof:lastmodified":1467089925,
     "wof:name":"Water Works",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-88.058969,44.504586,-88.058969,44.504586],
+  "bbox": [
+    -88.058969,
+    44.504586,
+    -88.058969,
+    44.504586
+],
   "geometry": {"coordinates":[-88.058969,44.504586],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370651075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.355768,43.098141,-88.355768,43.098141",
     "geom:latitude":43.098141,
     "geom:longitude":-88.355768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"590 Progress Dr",
     "sg:city":"Hartland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370651075,
-    "wof:lastmodified":1449029765,
+    "wof:lastmodified":1467089899,
     "wof:name":"Hucke Drywall Co",
     "wof:parent_id":85808383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.355768,43.098141,-88.355768,43.098141],
+  "bbox": [
+    -88.355768,
+    43.098141,
+    -88.355768,
+    43.098141
+],
   "geometry": {"coordinates":[-88.355768,43.098141],"type":"Point"}
 }

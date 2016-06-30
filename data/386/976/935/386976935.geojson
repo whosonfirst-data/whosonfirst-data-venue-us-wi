@@ -2,13 +2,14 @@
   "id": 386976935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.168148,43.210826,-88.168148,43.210826",
     "geom:latitude":43.210826,
     "geom:longitude":-88.168148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10687 Appleton Ave",
     "sg:city":"Germantown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386976935,
-    "wof:lastmodified":1449028755,
+    "wof:lastmodified":1467089896,
     "wof:name":"Bezold LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-88.168148,43.210826,-88.168148,43.210826],
+  "bbox": [
+    -88.168148,
+    43.210826,
+    -88.168148,
+    43.210826
+],
   "geometry": {"coordinates":[-88.168148,43.210826],"type":"Point"}
 }

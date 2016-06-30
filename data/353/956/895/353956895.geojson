@@ -2,13 +2,14 @@
   "id": 353956895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.357308,43.27388,-89.357308,43.27388",
     "geom:latitude":43.27388,
     "geom:longitude":-89.357308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7801 Clinton Rd",
     "sg:city":"De Forest",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353956895,
-    "wof:lastmodified":1449018675,
+    "wof:lastmodified":1467089887,
     "wof:name":"Packer Pride Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-89.357308,43.27388,-89.357308,43.27388],
+  "bbox": [
+    -89.357308,
+    43.27388,
+    -89.357308,
+    43.27388
+],
   "geometry": {"coordinates":[-89.357308,43.27388],"type":"Point"}
 }

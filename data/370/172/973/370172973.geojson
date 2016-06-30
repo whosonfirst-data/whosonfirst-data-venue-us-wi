@@ -2,13 +2,14 @@
   "id": 370172973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.908582,45.571649,-88.908582,45.571649",
     "geom:latitude":45.571649,
     "geom:longitude":-88.908582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N Boulevard Ave",
     "sg:city":"Crandon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370172973,
-    "wof:lastmodified":1449030448,
+    "wof:lastmodified":1467089901,
     "wof:name":"Hayes Metals LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "terrain"
     ]
 },
-  "bbox": [-88.908582,45.571649,-88.908582,45.571649],
+  "bbox": [
+    -88.908582,
+    45.571649,
+    -88.908582,
+    45.571649
+],
   "geometry": {"coordinates":[-88.908582,45.571649],"type":"Point"}
 }

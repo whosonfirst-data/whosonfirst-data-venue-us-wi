@@ -2,13 +2,14 @@
   "id": 404204037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.326154,43.070558,-89.326154,43.070558",
     "geom:latitude":43.070558,
     "geom:longitude":-89.326154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4515 Monona Dr",
     "sg:city":"Monona",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404204037,
-    "wof:lastmodified":1449040348,
+    "wof:lastmodified":1467089912,
     "wof:name":"Bonnie's Deli",
     "wof:parent_id":85878857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fan"
     ]
 },
-  "bbox": [-89.326154,43.070558,-89.326154,43.070558],
+  "bbox": [
+    -89.326154,
+    43.070558,
+    -89.326154,
+    43.070558
+],
   "geometry": {"coordinates":[-89.326154,43.070558],"type":"Point"}
 }

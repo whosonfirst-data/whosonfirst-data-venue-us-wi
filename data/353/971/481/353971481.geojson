@@ -2,13 +2,14 @@
   "id": 353971481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.941037,43.004836,-87.941037,43.004836",
     "geom:latitude":43.004836,
     "geom:longitude":-87.941037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 W Grant St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":353971481,
-    "wof:lastmodified":1449019561,
+    "wof:lastmodified":1467089889,
     "wof:name":"Freds Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.941037,43.004836,-87.941037,43.004836],
-  "geometry": {"coordinates":[-87.941037,43.004836],"type":"Point"}
+  "bbox": [
+    -87.941037,
+    43.004836,
+    -87.941037,
+    43.004836
+],
+  "geometry": {"coordinates":[-87.94103699999999,43.004836],"type":"Point"}
 }

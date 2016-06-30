@@ -2,13 +2,14 @@
   "id": 354314431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.992522,44.486251,-87.992522,44.486251",
     "geom:latitude":44.486251,
     "geom:longitude":-87.992522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1857 Sal St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":354314431,
-    "wof:lastmodified":1449067604,
+    "wof:lastmodified":1467089938,
     "wof:name":"Neville's Inc",
     "wof:parent_id":85877933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.992522,44.486251,-87.992522,44.486251],
-  "geometry": {"coordinates":[-87.992522,44.486251],"type":"Point"}
+  "bbox": [
+    -87.992522,
+    44.486251,
+    -87.992522,
+    44.486251
+],
+  "geometry": {"coordinates":[-87.99252199999999,44.486251],"type":"Point"}
 }

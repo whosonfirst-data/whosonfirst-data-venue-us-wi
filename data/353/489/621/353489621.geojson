@@ -2,13 +2,14 @@
   "id": 353489621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.065304,44.52207,-88.065304,44.52207",
     "geom:latitude":44.52207,
     "geom:longitude":-88.065304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"844 S Military Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353489621,
-    "wof:lastmodified":1449019659,
+    "wof:lastmodified":1467089889,
     "wof:name":"Du Bois Formal Wear Inc",
     "wof:parent_id":85877951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bridal"
     ]
 },
-  "bbox": [-88.065304,44.52207,-88.065304,44.52207],
+  "bbox": [
+    -88.065304,
+    44.52207,
+    -88.065304,
+    44.52207
+],
   "geometry": {"coordinates":[-88.065304,44.52207],"type":"Point"}
 }

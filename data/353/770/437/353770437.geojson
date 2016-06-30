@@ -2,13 +2,14 @@
   "id": 353770437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.267749,43.960508,-91.267749,43.960508",
     "geom:latitude":43.960508,
     "geom:longitude":-91.267749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Union St",
     "sg:city":"Holmen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353770437,
-    "wof:lastmodified":1449020857,
+    "wof:lastmodified":1467089892,
     "wof:name":"Holmen Concrete Products Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "concrete"
     ]
 },
-  "bbox": [-91.267749,43.960508,-91.267749,43.960508],
-  "geometry": {"coordinates":[-91.267749,43.960508],"type":"Point"}
+  "bbox": [
+    -91.267749,
+    43.960508,
+    -91.267749,
+    43.960508
+],
+  "geometry": {"coordinates":[-91.26774899999999,43.960508],"type":"Point"}
 }

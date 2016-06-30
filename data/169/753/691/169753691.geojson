@@ -2,13 +2,14 @@
   "id": 169753691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.99879,44.134146,-88.99879,44.134146",
     "geom:latitude":44.134146,
     "geom:longitude":-88.99879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2334 Co Rd H",
     "sg:city":"Poy Sippi",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169753691,
-    "wof:lastmodified":1449033071,
+    "wof:lastmodified":1467089908,
     "wof:name":"Beck Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-88.99879,44.134146,-88.99879,44.134146],
+  "bbox": [
+    -88.99879,
+    44.134146,
+    -88.99879,
+    44.134146
+],
   "geometry": {"coordinates":[-88.99879,44.134146],"type":"Point"}
 }

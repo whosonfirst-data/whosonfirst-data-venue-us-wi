@@ -2,13 +2,14 @@
   "id": 370233683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.362129,45.313728,-92.362129,45.313728",
     "geom:latitude":45.313728,
     "geom:longitude":-92.362129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Keller Ave N",
     "sg:city":"Amery",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370233683,
-    "wof:lastmodified":1449032535,
+    "wof:lastmodified":1467089907,
     "wof:name":"Slumberland Clearance Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.362129,45.313728,-92.362129,45.313728],
+  "bbox": [
+    -92.362129,
+    45.313728,
+    -92.362129,
+    45.313728
+],
   "geometry": {"coordinates":[-92.362129,45.313728],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386961915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.656404,44.093773,-87.656404,44.093773",
     "geom:latitude":44.093773,
     "geom:longitude":-87.656404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 York St",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386961915,
-    "wof:lastmodified":1449028968,
+    "wof:lastmodified":1467089897,
     "wof:name":"Nutrition Plus & Diabetes Cent",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.656404,44.093773,-87.656404,44.093773],
-  "geometry": {"coordinates":[-87.656404,44.093773],"type":"Point"}
+  "bbox": [
+    -87.656404,
+    44.093773,
+    -87.656404,
+    44.093773
+],
+  "geometry": {"coordinates":[-87.65640399999999,44.093773],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186035141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.537451,44.019585,-88.537451,44.019585",
     "geom:latitude":44.019585,
     "geom:longitude":-88.537451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"434 N Main St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186035141,
-    "wof:lastmodified":1449052494,
+    "wof:lastmodified":1467089916,
     "wof:name":"Oblio's Lounge",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-88.537451,44.019585,-88.537451,44.019585],
+  "bbox": [
+    -88.537451,
+    44.019585,
+    -88.537451,
+    44.019585
+],
   "geometry": {"coordinates":[-88.537451,44.019585],"type":"Point"}
 }

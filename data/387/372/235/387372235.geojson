@@ -2,13 +2,14 @@
   "id": 387372235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.059319,44.582313,-88.059319,44.582313",
     "geom:latitude":44.582313,
     "geom:longitude":-88.059319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Brookfield Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387372235,
-    "wof:lastmodified":1449058414,
+    "wof:lastmodified":1467089928,
     "wof:name":"Touch Of Class Cleaning",
     "wof:parent_id":85815317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-88.059319,44.582313,-88.059319,44.582313],
+  "bbox": [
+    -88.059319,
+    44.582313,
+    -88.059319,
+    44.582313
+],
   "geometry": {"coordinates":[-88.059319,44.582313],"type":"Point"}
 }

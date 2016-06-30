@@ -2,13 +2,14 @@
   "id": 185718145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.517491,44.035947,-88.517491,44.035947",
     "geom:latitude":44.035947,
     "geom:longitude":-88.517491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 Cliffview Dr",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185718145,
-    "wof:lastmodified":1449006964,
+    "wof:lastmodified":1467089884,
     "wof:name":"J L Subat",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.517491,44.035947,-88.517491,44.035947],
-  "geometry": {"coordinates":[-88.517491,44.035947],"type":"Point"}
+  "bbox": [
+    -88.517491,
+    44.035947,
+    -88.517491,
+    44.035947
+],
+  "geometry": {"coordinates":[-88.51749100000001,44.035947],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387582663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.917321,43.001841,-87.917321,43.001841",
     "geom:latitude":43.001841,
     "geom:longitude":-87.917321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2341 S Chase Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":387582663,
-    "wof:lastmodified":1449058159,
+    "wof:lastmodified":1467089927,
     "wof:name":"Vr1 Petro Mart",
     "wof:parent_id":85894491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "station"
     ]
 },
-  "bbox": [-87.917321,43.001841,-87.917321,43.001841],
+  "bbox": [
+    -87.917321,
+    43.001841,
+    -87.917321,
+    43.001841
+],
   "geometry": {"coordinates":[-87.917321,43.001841],"type":"Point"}
 }

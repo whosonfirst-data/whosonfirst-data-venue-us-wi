@@ -2,13 +2,14 @@
   "id": 404084867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.564279,43.850595,-88.564279,43.850595",
     "geom:latitude":43.850595,
     "geom:longitude":-88.564279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8749 Hass Rd",
     "sg:city":"Van Dyne",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404084867,
-    "wof:lastmodified":1449039145,
+    "wof:lastmodified":1467089909,
     "wof:name":"Arnie Stahman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.564279,43.850595,-88.564279,43.850595],
+  "bbox": [
+    -88.564279,
+    43.850595,
+    -88.564279,
+    43.850595
+],
   "geometry": {"coordinates":[-88.564279,43.850595],"type":"Point"}
 }

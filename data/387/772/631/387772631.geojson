@@ -2,13 +2,14 @@
   "id": 387772631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.528138,44.046702,-88.528138,44.046702",
     "geom:latitude":44.046702,
     "geom:longitude":-88.528138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2345 Bowen St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387772631,
-    "wof:lastmodified":1449057810,
+    "wof:lastmodified":1467089926,
     "wof:name":"Fox River News Distributors",
     "wof:parent_id":85827909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.528138,44.046702,-88.528138,44.046702],
+  "bbox": [
+    -88.528138,
+    44.046702,
+    -88.528138,
+    44.046702
+],
   "geometry": {"coordinates":[-88.528138,44.046702],"type":"Point"}
 }

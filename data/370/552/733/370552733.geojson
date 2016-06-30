@@ -2,13 +2,14 @@
   "id": 370552733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.177281,45.329204,-92.177281,45.329204",
     "geom:latitude":45.329204,
     "geom:longitude":-92.177281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Polk Ave",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370552733,
-    "wof:lastmodified":1449030497,
+    "wof:lastmodified":1467089901,
     "wof:name":"American Bike & Machine Inds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-92.177281,45.329204,-92.177281,45.329204],
-  "geometry": {"coordinates":[-92.177281,45.329204],"type":"Point"}
+  "bbox": [
+    -92.177281,
+    45.329204,
+    -92.177281,
+    45.329204
+],
+  "geometry": {"coordinates":[-92.17728099999999,45.329204],"type":"Point"}
 }

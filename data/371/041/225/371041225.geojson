@@ -2,13 +2,14 @@
   "id": 371041225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.996558,44.51121,-87.996558,44.51121",
     "geom:latitude":44.51121,
     "geom:longitude":-87.996558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1279 Main St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":371041225,
-    "wof:lastmodified":1449049386,
+    "wof:lastmodified":1467089912,
     "wof:name":"Jimmy OKeefes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-87.996558,44.51121,-87.996558,44.51121],
-  "geometry": {"coordinates":[-87.996558,44.51121],"type":"Point"}
+  "bbox": [
+    -87.996558,
+    44.51121,
+    -87.996558,
+    44.51121
+],
+  "geometry": {"coordinates":[-87.99655799999999,44.51121],"type":"Point"}
 }

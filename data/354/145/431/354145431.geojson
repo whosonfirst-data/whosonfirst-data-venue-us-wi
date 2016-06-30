@@ -2,13 +2,14 @@
   "id": 354145431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.072232,44.474917,-88.072232,44.474917",
     "geom:latitude":44.474917,
     "geom:longitude":-88.072232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 Hansen Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354145431,
-    "wof:lastmodified":1449066421,
+    "wof:lastmodified":1467089934,
     "wof:name":"Batteries Plus",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.072232,44.474917,-88.072232,44.474917],
+  "bbox": [
+    -88.072232,
+    44.474917,
+    -88.072232,
+    44.474917
+],
   "geometry": {"coordinates":[-88.072232,44.474917],"type":"Point"}
 }

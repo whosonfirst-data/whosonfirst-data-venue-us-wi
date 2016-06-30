@@ -2,13 +2,14 @@
   "id": 386937123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.23842,44.672466,-88.23842,44.672466",
     "geom:latitude":44.672466,
     "geom:longitude":-88.23842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 E Pulaski St",
     "sg:city":"Pulaski",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386937123,
-    "wof:lastmodified":1449028677,
+    "wof:lastmodified":1467089896,
     "wof:name":"Public Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parking"
     ]
 },
-  "bbox": [-88.23842,44.672466,-88.23842,44.672466],
+  "bbox": [
+    -88.23842,
+    44.672466,
+    -88.23842,
+    44.672466
+],
   "geometry": {"coordinates":[-88.23842,44.672466],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353768793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.464952,44.162753,-88.464952,44.162753",
     "geom:latitude":44.162753,
     "geom:longitude":-88.464952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1347 S Commercial St",
     "sg:city":"Neenah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353768793,
-    "wof:lastmodified":1449019246,
+    "wof:lastmodified":1467089888,
     "wof:name":"Fox Valley Canvas & Luggage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cover"
     ]
 },
-  "bbox": [-88.464952,44.162753,-88.464952,44.162753],
+  "bbox": [
+    -88.464952,
+    44.162753,
+    -88.464952,
+    44.162753
+],
   "geometry": {"coordinates":[-88.464952,44.162753],"type":"Point"}
 }

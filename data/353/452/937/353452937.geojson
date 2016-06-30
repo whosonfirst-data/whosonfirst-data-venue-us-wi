@@ -2,13 +2,14 @@
   "id": 353452937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.145592,44.877103,-88.145592,44.877103",
     "geom:latitude":44.877103,
     "geom:longitude":-88.145592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Cherry Ave",
     "sg:city":"Oconto Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353452937,
-    "wof:lastmodified":1449018850,
+    "wof:lastmodified":1467089887,
     "wof:name":"Parties With Pizzazz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sales"
     ]
 },
-  "bbox": [-88.145592,44.877103,-88.145592,44.877103],
-  "geometry": {"coordinates":[-88.145592,44.877103],"type":"Point"}
+  "bbox": [
+    -88.145592,
+    44.877103,
+    -88.145592,
+    44.877103
+],
+  "geometry": {"coordinates":[-88.14559199999999,44.877103],"type":"Point"}
 }

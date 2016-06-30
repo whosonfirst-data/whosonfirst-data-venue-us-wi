@@ -2,13 +2,14 @@
   "id": 370641999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.918146,44.874394,-91.918146,44.874394",
     "geom:latitude":44.874394,
     "geom:longitude":-91.918146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 10th St E",
     "sg:city":"Menomonie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370641999,
-    "wof:lastmodified":1449031670,
+    "wof:lastmodified":1467089905,
     "wof:name":"Specially Mfg of Menomonie LL",
     "wof:parent_id":85837813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-91.918146,44.874394,-91.918146,44.874394],
-  "geometry": {"coordinates":[-91.918146,44.874394],"type":"Point"}
+  "bbox": [
+    -91.918146,
+    44.874394,
+    -91.918146,
+    44.874394
+],
+  "geometry": {"coordinates":[-91.91814599999999,44.874394],"type":"Point"}
 }

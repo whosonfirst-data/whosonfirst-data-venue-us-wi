@@ -2,13 +2,14 @@
   "id": 353958173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.834976,43.498869,-87.834976,43.498869",
     "geom:latitude":43.498869,
     "geom:longitude":-87.834976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 S Royal Ave",
     "sg:city":"Belgium",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353958173,
-    "wof:lastmodified":1449020262,
+    "wof:lastmodified":1467089891,
     "wof:name":"Belgium Service Center Inc",
     "wof:parent_id":85829065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "automotive"
     ]
 },
-  "bbox": [-87.834976,43.498869,-87.834976,43.498869],
+  "bbox": [
+    -87.834976,
+    43.498869,
+    -87.834976,
+    43.498869
+],
   "geometry": {"coordinates":[-87.834976,43.498869],"type":"Point"}
 }

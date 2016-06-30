@@ -2,13 +2,14 @@
   "id": 354211333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.268993,44.06929,-89.268993,44.06929",
     "geom:latitude":44.06929,
     "geom:longitude":-89.268993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7706 State Rd 21 and 73",
     "sg:city":"Wautoma",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354211333,
-    "wof:lastmodified":1449066334,
+    "wof:lastmodified":1467089934,
     "wof:name":"Bovee Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.268993,44.06929,-89.268993,44.06929],
-  "geometry": {"coordinates":[-89.268993,44.06929],"type":"Point"}
+  "bbox": [
+    -89.268993,
+    44.06929,
+    -89.268993,
+    44.06929
+],
+  "geometry": {"coordinates":[-89.26899299999999,44.06929],"type":"Point"}
 }

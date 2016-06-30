@@ -2,13 +2,14 @@
   "id": 370928891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.51806,43.088504,-89.51806,43.088504",
     "geom:latitude":43.088504,
     "geom:longitude":-89.51806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1468 N High Point Rd",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370928891,
-    "wof:lastmodified":1449031999,
+    "wof:lastmodified":1467089906,
     "wof:name":"Goll Insurance Agency",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.51806,43.088504,-89.51806,43.088504],
-  "geometry": {"coordinates":[-89.51806,43.088504],"type":"Point"}
+  "bbox": [
+    -89.51806,
+    43.088504,
+    -89.51806,
+    43.088504
+],
+  "geometry": {"coordinates":[-89.51806000000001,43.088504],"type":"Point"}
 }

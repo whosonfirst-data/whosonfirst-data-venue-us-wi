@@ -2,13 +2,14 @@
   "id": 387711233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.537448,44.019233,-88.537448,44.019233",
     "geom:latitude":44.019233,
     "geom:longitude":-88.537448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"452 N Main St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387711233,
-    "wof:lastmodified":1449059225,
+    "wof:lastmodified":1467089931,
     "wof:name":"Action Dance Wear",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-88.537448,44.019233,-88.537448,44.019233],
+  "bbox": [
+    -88.537448,
+    44.019233,
+    -88.537448,
+    44.019233
+],
   "geometry": {"coordinates":[-88.537448,44.019233],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370848901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.862373,42.534779,-87.862373,42.534779",
     "geom:latitude":42.534779,
     "geom:longitude":-87.862373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7600 95th St",
     "sg:city":"Pleasant Prairie",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370848901,
-    "wof:lastmodified":1449029568,
+    "wof:lastmodified":1467089899,
     "wof:name":"Fair Oaks Farms  Inc",
     "wof:parent_id":85849781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "prepared"
     ]
 },
-  "bbox": [-87.862373,42.534779,-87.862373,42.534779],
-  "geometry": {"coordinates":[-87.862373,42.534779],"type":"Point"}
+  "bbox": [
+    -87.862373,
+    42.534779,
+    -87.862373,
+    42.534779
+],
+  "geometry": {"coordinates":[-87.86237300000001,42.534779],"type":"Point"}
 }

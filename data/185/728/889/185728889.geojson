@@ -2,13 +2,14 @@
   "id": 185728889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.616517,44.843484,-91.616517,44.843484",
     "geom:latitude":44.843484,
     "geom:longitude":-91.616517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7840 Partridge Rd",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185728889,
-    "wof:lastmodified":1449006984,
+    "wof:lastmodified":1467089884,
     "wof:name":"Fabco Rents",
     "wof:parent_id":85848105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-91.616517,44.843484,-91.616517,44.843484],
+  "bbox": [
+    -91.616517,
+    44.843484,
+    -91.616517,
+    44.843484
+],
   "geometry": {"coordinates":[-91.616517,44.843484],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186213165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.890157,45.314398,-91.890157,45.314398",
     "geom:latitude":45.314398,
     "geom:longitude":-91.890157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 13th St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186213165,
-    "wof:lastmodified":1449050289,
+    "wof:lastmodified":1467089914,
     "wof:name":"Mabel's Maple",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-91.890157,45.314398,-91.890157,45.314398],
+  "bbox": [
+    -91.890157,
+    45.314398,
+    -91.890157,
+    45.314398
+],
   "geometry": {"coordinates":[-91.890157,45.314398],"type":"Point"}
 }

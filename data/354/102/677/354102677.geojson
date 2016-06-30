@@ -2,13 +2,14 @@
   "id": 354102677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.10763,43.089911,-88.10763,43.089911",
     "geom:latitude":43.089911,
     "geom:longitude":-88.10763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15740 W Capitol Dr",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354102677,
-    "wof:lastmodified":1449067547,
+    "wof:lastmodified":1467089937,
     "wof:name":"Brookfield Travel",
     "wof:parent_id":85832419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-88.10763,43.089911,-88.10763,43.089911],
+  "bbox": [
+    -88.10763,
+    43.089911,
+    -88.10763,
+    43.089911
+],
   "geometry": {"coordinates":[-88.10763,43.089911],"type":"Point"}
 }

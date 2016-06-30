@@ -2,13 +2,14 @@
   "id": 387668045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.580118,44.846936,-91.580118,44.846936",
     "geom:latitude":44.846936,
     "geom:longitude":-91.580118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4777 Menard Dr",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387668045,
-    "wof:lastmodified":1449058765,
+    "wof:lastmodified":1467089929,
     "wof:name":"Peppermill Restaurant",
     "wof:parent_id":85848105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-91.580118,44.846936,-91.580118,44.846936],
+  "bbox": [
+    -91.580118,
+    44.846936,
+    -91.580118,
+    44.846936
+],
   "geometry": {"coordinates":[-91.580118,44.846936],"type":"Point"}
 }

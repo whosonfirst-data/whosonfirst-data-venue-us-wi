@@ -2,13 +2,14 @@
   "id": 353998671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.730836,43.634277,-88.730836,43.634277",
     "geom:latitude":43.634277,
     "geom:longitude":-88.730836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 E Franklin St",
     "sg:city":"Waupun",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353998671,
-    "wof:lastmodified":1449019101,
+    "wof:lastmodified":1467089888,
     "wof:name":"Netherland Reformed Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.730836,43.634277,-88.730836,43.634277],
+  "bbox": [
+    -88.730836,
+    43.634277,
+    -88.730836,
+    43.634277
+],
   "geometry": {"coordinates":[-88.730836,43.634277],"type":"Point"}
 }

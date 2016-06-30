@@ -2,13 +2,14 @@
   "id": 370662221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.387836,43.074659,-89.387836,43.074659",
     "geom:latitude":43.074659,
     "geom:longitude":-89.387836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 State St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370662221,
-    "wof:lastmodified":1449031367,
+    "wof:lastmodified":1467089904,
     "wof:name":"Legal Counsel-Pardons Advis Bd",
     "wof:parent_id":85878831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "institution"
     ]
 },
-  "bbox": [-89.387836,43.074659,-89.387836,43.074659],
-  "geometry": {"coordinates":[-89.387836,43.074659],"type":"Point"}
+  "bbox": [
+    -89.387836,
+    43.074659,
+    -89.387836,
+    43.074659
+],
+  "geometry": {"coordinates":[-89.38783599999999,43.074659],"type":"Point"}
 }

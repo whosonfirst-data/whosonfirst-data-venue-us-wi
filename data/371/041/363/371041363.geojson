@@ -2,13 +2,14 @@
   "id": 371041363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.060414,44.448008,-88.060414,44.448008",
     "geom:latitude":44.448008,
     "geom:longitude":-88.060414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 S Broadway",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371041363,
-    "wof:lastmodified":1449049389,
+    "wof:lastmodified":1467089912,
     "wof:name":"H & R Block Tax Svc",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-88.060414,44.448008,-88.060414,44.448008],
-  "geometry": {"coordinates":[-88.060414,44.448008],"type":"Point"}
+  "bbox": [
+    -88.060414,
+    44.448008,
+    -88.060414,
+    44.448008
+],
+  "geometry": {"coordinates":[-88.06041399999999,44.448008],"type":"Point"}
 }

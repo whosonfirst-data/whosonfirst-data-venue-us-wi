@@ -2,13 +2,14 @@
   "id": 370947193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.89569,46.751937,-90.89569,46.751937",
     "geom:latitude":46.751937,
     "geom:longitude":-90.89569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"81245 McCullock Rd",
     "sg:city":"Washburn",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370947193,
-    "wof:lastmodified":1449031542,
+    "wof:lastmodified":1467089904,
     "wof:name":"Image Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "relations"
     ]
 },
-  "bbox": [-90.89569,46.751937,-90.89569,46.751937],
+  "bbox": [
+    -90.89569,
+    46.751937,
+    -90.89569,
+    46.751937
+],
   "geometry": {"coordinates":[-90.89569,46.751937],"type":"Point"}
 }

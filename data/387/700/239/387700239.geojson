@@ -2,13 +2,14 @@
   "id": 387700239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.304543,42.852775,-89.304543,42.852775",
     "geom:latitude":42.852775,
     "geom:longitude":-89.304543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"176 N Union Rd",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387700239,
-    "wof:lastmodified":1449059583,
+    "wof:lastmodified":1467089932,
     "wof:name":"AAA Seamless Gutters",
     "wof:parent_id":85868281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-89.304543,42.852775,-89.304543,42.852775],
+  "bbox": [
+    -89.304543,
+    42.852775,
+    -89.304543,
+    42.852775
+],
   "geometry": {"coordinates":[-89.304543,42.852775],"type":"Point"}
 }

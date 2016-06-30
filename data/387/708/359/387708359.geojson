@@ -2,13 +2,14 @@
   "id": 387708359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.996417,44.510971,-87.996417,44.510971",
     "geom:latitude":44.510971,
     "geom:longitude":-87.996417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1270 Main St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":387708359,
-    "wof:lastmodified":1449056697,
+    "wof:lastmodified":1467089923,
     "wof:name":"Matousek & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "commercial"
     ]
 },
-  "bbox": [-87.996417,44.510971,-87.996417,44.510971],
-  "geometry": {"coordinates":[-87.996417,44.510971],"type":"Point"}
+  "bbox": [
+    -87.996417,
+    44.510971,
+    -87.996417,
+    44.510971
+],
+  "geometry": {"coordinates":[-87.99641699999999,44.510971],"type":"Point"}
 }

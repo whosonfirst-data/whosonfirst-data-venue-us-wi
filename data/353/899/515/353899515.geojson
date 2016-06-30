@@ -2,13 +2,14 @@
   "id": 353899515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.357459,43.046493,-88.357459,43.046493",
     "geom:latitude":43.046493,
     "geom:longitude":-88.357459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3833 Kettle Ct E",
     "sg:city":"Delafield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353899515,
-    "wof:lastmodified":1449020655,
+    "wof:lastmodified":1467089891,
     "wof:name":"Jeffords Motor Car Co",
     "wof:parent_id":85808383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-88.357459,43.046493,-88.357459,43.046493],
-  "geometry": {"coordinates":[-88.357459,43.046493],"type":"Point"}
+  "bbox": [
+    -88.357459,
+    43.046493,
+    -88.357459,
+    43.046493
+],
+  "geometry": {"coordinates":[-88.35745900000001,43.046493],"type":"Point"}
 }

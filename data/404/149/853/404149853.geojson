@@ -2,13 +2,14 @@
   "id": 404149853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.451642,44.199891,-88.451642,44.199891",
     "geom:latitude":44.199891,
     "geom:longitude":-88.451642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Neenah Center",
     "sg:city":"Neenah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404149853,
-    "wof:lastmodified":1449039087,
+    "wof:lastmodified":1467089909,
     "wof:name":"Daniel E Began",
     "wof:parent_id":85807543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-88.451642,44.199891,-88.451642,44.199891],
-  "geometry": {"coordinates":[-88.451642,44.199891],"type":"Point"}
+  "bbox": [
+    -88.451642,
+    44.199891,
+    -88.451642,
+    44.199891
+],
+  "geometry": {"coordinates":[-88.45164200000001,44.199891],"type":"Point"}
 }

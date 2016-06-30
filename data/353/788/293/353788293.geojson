@@ -2,13 +2,14 @@
   "id": 353788293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.486785,43.043275,-89.486785,43.043275",
     "geom:latitude":43.043275,
     "geom:longitude":-89.486785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6202 Davenport Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353788293,
-    "wof:lastmodified":1449019580,
+    "wof:lastmodified":1467089889,
     "wof:name":"Wallace Instruments",
     "wof:parent_id":85878885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "electronic"
     ]
 },
-  "bbox": [-89.486785,43.043275,-89.486785,43.043275],
+  "bbox": [
+    -89.486785,
+    43.043275,
+    -89.486785,
+    43.043275
+],
   "geometry": {"coordinates":[-89.486785,43.043275],"type":"Point"}
 }

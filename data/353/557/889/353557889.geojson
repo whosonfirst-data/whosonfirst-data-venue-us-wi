@@ -2,13 +2,14 @@
   "id": 353557889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.073886,44.490832,-88.073886,44.490832",
     "geom:latitude":44.490832,
     "geom:longitude":-88.073886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2353 S Ridge Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353557889,
-    "wof:lastmodified":1449020063,
+    "wof:lastmodified":1467089890,
     "wof:name":"Bay Oral Maxillofacial Surgery",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "specialty"
     ]
 },
-  "bbox": [-88.073886,44.490832,-88.073886,44.490832],
+  "bbox": [
+    -88.073886,
+    44.490832,
+    -88.073886,
+    44.490832
+],
   "geometry": {"coordinates":[-88.073886,44.490832],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185954619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.484587,46.014579,-91.484587,46.014579",
     "geom:latitude":46.014579,
     "geom:longitude":-91.484587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10584 Main St",
     "sg:city":"Hayward",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185954619,
-    "wof:lastmodified":1449008013,
+    "wof:lastmodified":1467089885,
     "wof:name":"Koepke's Accounting & Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-91.484587,46.014579,-91.484587,46.014579],
+  "bbox": [
+    -91.484587,
+    46.014579,
+    -91.484587,
+    46.014579
+],
   "geometry": {"coordinates":[-91.484587,46.014579],"type":"Point"}
 }

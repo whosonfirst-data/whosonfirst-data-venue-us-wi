@@ -2,13 +2,14 @@
   "id": 185625793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.794323,42.751141,-87.794323,42.751141",
     "geom:latitude":42.751141,
     "geom:longitude":-87.794323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2423 Geneva St",
     "sg:city":"Racine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185625793,
-    "wof:lastmodified":1449008240,
+    "wof:lastmodified":1467089886,
     "wof:name":"Elite Roofing",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.794323,42.751141,-87.794323,42.751141],
-  "geometry": {"coordinates":[-87.794323,42.751141],"type":"Point"}
+  "bbox": [
+    -87.794323,
+    42.751141,
+    -87.794323,
+    42.751141
+],
+  "geometry": {"coordinates":[-87.79432300000001,42.751141],"type":"Point"}
 }

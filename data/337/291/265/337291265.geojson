@@ -2,13 +2,14 @@
   "id": 337291265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.479565,44.850672,-91.479565,44.850672",
     "geom:latitude":44.850672,
     "geom:longitude":-91.479565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2904 Moon Ave",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337291265,
-    "wof:lastmodified":1449027193,
+    "wof:lastmodified":1467089893,
     "wof:name":"Studio One Teleproductions",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-91.479565,44.850672,-91.479565,44.850672],
-  "geometry": {"coordinates":[-91.479565,44.850672],"type":"Point"}
+  "bbox": [
+    -91.479565,
+    44.850672,
+    -91.479565,
+    44.850672
+],
+  "geometry": {"coordinates":[-91.47956499999999,44.850672],"type":"Point"}
 }

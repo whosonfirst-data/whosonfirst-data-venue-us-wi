@@ -2,13 +2,14 @@
   "id": 353844645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.391084,44.71911,-89.391084,44.71911",
     "geom:latitude":44.71911,
     "geom:longitude":-89.391084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6405 Co Rd C",
     "sg:city":"Hatley",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353844645,
-    "wof:lastmodified":1449019335,
+    "wof:lastmodified":1467089888,
     "wof:name":"Wanta & Son Inc",
     "wof:parent_id":85865437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.391084,44.71911,-89.391084,44.71911],
-  "geometry": {"coordinates":[-89.391084,44.71911],"type":"Point"}
+  "bbox": [
+    -89.391084,
+    44.71911,
+    -89.391084,
+    44.71911
+],
+  "geometry": {"coordinates":[-89.39108400000001,44.71911],"type":"Point"}
 }

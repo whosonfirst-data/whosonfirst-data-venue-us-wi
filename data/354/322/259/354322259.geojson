@@ -2,13 +2,14 @@
   "id": 354322259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.554574,44.328161,-87.554574,44.328161",
     "geom:latitude":44.328161,
     "geom:longitude":-87.554574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Ratajczak Ln",
     "sg:city":"Kewaunee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354322259,
-    "wof:lastmodified":1449065910,
+    "wof:lastmodified":1467089933,
     "wof:name":"Joe & Jerry Ratajczak",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.554574,44.328161,-87.554574,44.328161],
+  "bbox": [
+    -87.554574,
+    44.328161,
+    -87.554574,
+    44.328161
+],
   "geometry": {"coordinates":[-87.554574,44.328161],"type":"Point"}
 }

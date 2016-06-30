@@ -2,13 +2,14 @@
   "id": 371153003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.891191,43.066215,-87.891191,43.066215",
     "geom:latitude":43.066215,
     "geom:longitude":-87.891191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 E Belleview Pl",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371153003,
-    "wof:lastmodified":1449049781,
+    "wof:lastmodified":1467089913,
     "wof:name":"Midwest Choppers",
     "wof:parent_id":85867291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.891191,43.066215,-87.891191,43.066215],
-  "geometry": {"coordinates":[-87.891191,43.066215],"type":"Point"}
+  "bbox": [
+    -87.891191,
+    43.066215,
+    -87.891191,
+    43.066215
+],
+  "geometry": {"coordinates":[-87.89119100000001,43.066215],"type":"Point"}
 }

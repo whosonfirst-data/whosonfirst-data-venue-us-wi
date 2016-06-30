@@ -2,13 +2,14 @@
   "id": 353692691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.236813,44.672316,-88.236813,44.672316",
     "geom:latitude":44.672316,
     "geom:longitude":-88.236813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 E Pulaski St",
     "sg:city":"Pulaski",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353692691,
-    "wof:lastmodified":1449018942,
+    "wof:lastmodified":1467089888,
     "wof:name":"Pulaski Reds Baseball CLU",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-88.236813,44.672316,-88.236813,44.672316],
+  "bbox": [
+    -88.236813,
+    44.672316,
+    -88.236813,
+    44.672316
+],
   "geometry": {"coordinates":[-88.236813,44.672316],"type":"Point"}
 }

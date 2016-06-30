@@ -2,13 +2,14 @@
   "id": 403774891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.5145,43.105263,-89.5145,43.105263",
     "geom:latitude":43.105263,
     "geom:longitude":-89.5145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 Laura Ln",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403774891,
-    "wof:lastmodified":1449055154,
+    "wof:lastmodified":1467089919,
     "wof:name":"Roemer Printing",
     "wof:parent_id":85841479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-89.5145,43.105263,-89.5145,43.105263],
+  "bbox": [
+    -89.5145,
+    43.105263,
+    -89.5145,
+    43.105263
+],
   "geometry": {"coordinates":[-89.5145,43.105263],"type":"Point"}
 }

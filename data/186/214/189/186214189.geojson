@@ -2,13 +2,14 @@
   "id": 186214189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.985215,43.017789,-87.985215,43.017789",
     "geom:latitude":43.017789,
     "geom:longitude":-87.985215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5819 W National Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186214189,
-    "wof:lastmodified":1449052953,
+    "wof:lastmodified":1467089917,
     "wof:name":"Freds Never Inn But Sue Is",
     "wof:parent_id":85870923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-87.985215,43.017789,-87.985215,43.017789],
+  "bbox": [
+    -87.985215,
+    43.017789,
+    -87.985215,
+    43.017789
+],
   "geometry": {"coordinates":[-87.985215,43.017789],"type":"Point"}
 }

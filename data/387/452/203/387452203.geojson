@@ -2,13 +2,14 @@
   "id": 387452203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.553377,45.075654,-89.553377,45.075654",
     "geom:latitude":45.075654,
     "geom:longitude":-89.553377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4510 River Hills Rd",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387452203,
-    "wof:lastmodified":1449057002,
+    "wof:lastmodified":1467089924,
     "wof:name":"Town Texas Volunteer Fire Dept",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-89.553377,45.075654,-89.553377,45.075654],
+  "bbox": [
+    -89.553377,
+    45.075654,
+    -89.553377,
+    45.075654
+],
   "geometry": {"coordinates":[-89.553377,45.075654],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403943065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.913722,43.176828,-87.913722,43.176828",
     "geom:latitude":43.176828,
     "geom:longitude":-87.913722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 W Brown Deer Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403943065,
-    "wof:lastmodified":1449055001,
+    "wof:lastmodified":1467089918,
     "wof:name":"El Paisa Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.913722,43.176828,-87.913722,43.176828],
-  "geometry": {"coordinates":[-87.913722,43.176828],"type":"Point"}
+  "bbox": [
+    -87.913722,
+    43.176828,
+    -87.913722,
+    43.176828
+],
+  "geometry": {"coordinates":[-87.91372200000001,43.176828],"type":"Point"}
 }

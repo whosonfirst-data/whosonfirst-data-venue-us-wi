@@ -2,13 +2,14 @@
   "id": 386947101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.008159,42.969662,-88.008159,42.969662",
     "geom:latitude":42.969662,
     "geom:longitude":-88.008159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4279 S 76th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386947101,
-    "wof:lastmodified":1449028862,
+    "wof:lastmodified":1467089897,
     "wof:name":"Cash Advance Ctr Inc",
     "wof:parent_id":85870865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-88.008159,42.969662,-88.008159,42.969662],
-  "geometry": {"coordinates":[-88.008159,42.969662],"type":"Point"}
+  "bbox": [
+    -88.008159,
+    42.969662,
+    -88.008159,
+    42.969662
+],
+  "geometry": {"coordinates":[-88.00815900000001,42.969662],"type":"Point"}
 }

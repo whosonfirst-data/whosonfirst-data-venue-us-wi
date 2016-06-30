@@ -2,13 +2,14 @@
   "id": 169824165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.09618,44.444367,-88.09618,44.444367",
     "geom:latitude":44.444367,
     "geom:longitude":-88.09618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1322 Mid Valley Dr",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169824165,
-    "wof:lastmodified":1449033868,
+    "wof:lastmodified":1467089908,
     "wof:name":"Hilltop Woodworking Inc",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.09618,44.444367,-88.09618,44.444367],
+  "bbox": [
+    -88.09618,
+    44.444367,
+    -88.09618,
+    44.444367
+],
   "geometry": {"coordinates":[-88.09618,44.444367],"type":"Point"}
 }

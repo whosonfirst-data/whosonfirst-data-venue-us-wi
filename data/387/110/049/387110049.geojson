@@ -2,13 +2,14 @@
   "id": 387110049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.904411,43.032052,-87.904411,43.032052",
     "geom:latitude":43.032052,
     "geom:longitude":-87.904411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 N Jefferson St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387110049,
-    "wof:lastmodified":1449057346,
+    "wof:lastmodified":1467089925,
     "wof:name":"Sweetbush Inc",
     "wof:parent_id":85867287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-87.904411,43.032052,-87.904411,43.032052],
+  "bbox": [
+    -87.904411,
+    43.032052,
+    -87.904411,
+    43.032052
+],
   "geometry": {"coordinates":[-87.904411,43.032052],"type":"Point"}
 }

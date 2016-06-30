@@ -2,13 +2,14 @@
   "id": 387151907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.498799,44.810133,-91.498799,44.810133",
     "geom:latitude":44.810133,
     "geom:longitude":-91.498799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 S Barstow St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387151907,
-    "wof:lastmodified":1449056161,
+    "wof:lastmodified":1467089921,
     "wof:name":"Robert W Baird & Co",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bond"
     ]
 },
-  "bbox": [-91.498799,44.810133,-91.498799,44.810133],
-  "geometry": {"coordinates":[-91.498799,44.810133],"type":"Point"}
+  "bbox": [
+    -91.498799,
+    44.810133,
+    -91.498799,
+    44.810133
+],
+  "geometry": {"coordinates":[-91.49879900000001,44.810133],"type":"Point"}
 }

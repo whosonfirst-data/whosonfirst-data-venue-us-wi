@@ -2,13 +2,14 @@
   "id": 403880001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.537437,44.018252,-88.537437,44.018252",
     "geom:latitude":44.018252,
     "geom:longitude":-88.537437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 N Main St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403880001,
-    "wof:lastmodified":1449055975,
+    "wof:lastmodified":1467089921,
     "wof:name":"Fetter & Associates",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.537437,44.018252,-88.537437,44.018252],
+  "bbox": [
+    -88.537437,
+    44.018252,
+    -88.537437,
+    44.018252
+],
   "geometry": {"coordinates":[-88.537437,44.018252],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353816135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.1971,44.879768,-92.1971,44.879768",
     "geom:latitude":44.879768,
     "geom:longitude":-92.1971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 State Rd 128",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353816135,
-    "wof:lastmodified":1449019756,
+    "wof:lastmodified":1467089889,
     "wof:name":"Jnr Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-92.1971,44.879768,-92.1971,44.879768],
-  "geometry": {"coordinates":[-92.1971,44.879768],"type":"Point"}
+  "bbox": [
+    -92.1971,
+    44.879768,
+    -92.1971,
+    44.879768
+],
+  "geometry": {"coordinates":[-92.19710000000001,44.879768],"type":"Point"}
 }

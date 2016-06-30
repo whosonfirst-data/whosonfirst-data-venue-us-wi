@@ -2,13 +2,14 @@
   "id": 370795103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.397308,43.078366,-88.397308,43.078366",
     "geom:latitude":43.078366,
     "geom:longitude":-88.397308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2365 Woodland Park Dr",
     "sg:city":"Delafield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370795103,
-    "wof:lastmodified":1449031079,
+    "wof:lastmodified":1467089903,
     "wof:name":"Gary Rupnow & Photography",
     "wof:parent_id":85808383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "photo"
     ]
 },
-  "bbox": [-88.397308,43.078366,-88.397308,43.078366],
+  "bbox": [
+    -88.397308,
+    43.078366,
+    -88.397308,
+    43.078366
+],
   "geometry": {"coordinates":[-88.397308,43.078366],"type":"Point"}
 }

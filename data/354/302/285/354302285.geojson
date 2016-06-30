@@ -2,13 +2,14 @@
   "id": 354302285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.360576,43.275462,-88.360576,43.275462",
     "geom:latitude":43.275462,
     "geom:longitude":-88.360576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2299 Hall Rd",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":354302285,
-    "wof:lastmodified":1449066482,
+    "wof:lastmodified":1467089935,
     "wof:name":"Shars Interiors",
     "wof:parent_id":85841573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "furniture"
     ]
 },
-  "bbox": [-88.360576,43.275462,-88.360576,43.275462],
-  "geometry": {"coordinates":[-88.360576,43.275462],"type":"Point"}
+  "bbox": [
+    -88.360576,
+    43.275462,
+    -88.360576,
+    43.275462
+],
+  "geometry": {"coordinates":[-88.36057599999999,43.275462],"type":"Point"}
 }

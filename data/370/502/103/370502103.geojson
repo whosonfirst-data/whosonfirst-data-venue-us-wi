@@ -2,13 +2,14 @@
   "id": 370502103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.658806,44.886984,-89.658806,44.886984",
     "geom:latitude":44.886984,
     "geom:longitude":-89.658806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7400 Bluebell Dr",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370502103,
-    "wof:lastmodified":1449030650,
+    "wof:lastmodified":1467089902,
     "wof:name":"Bruner Financial Services Inc",
     "wof:parent_id":85865437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-89.658806,44.886984,-89.658806,44.886984],
+  "bbox": [
+    -89.658806,
+    44.886984,
+    -89.658806,
+    44.886984
+],
   "geometry": {"coordinates":[-89.658806,44.886984],"type":"Point"}
 }

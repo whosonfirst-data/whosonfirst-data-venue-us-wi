@@ -2,13 +2,14 @@
   "id": 387242949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.909357,43.107593,-87.909357,43.107593",
     "geom:latitude":43.107593,
     "geom:longitude":-87.909357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 E Fairmount Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387242949,
-    "wof:lastmodified":1449059469,
+    "wof:lastmodified":1467089931,
     "wof:name":"Fairmount Clinic For Physical",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-87.909357,43.107593,-87.909357,43.107593],
+  "bbox": [
+    -87.909357,
+    43.107593,
+    -87.909357,
+    43.107593
+],
   "geometry": {"coordinates":[-87.909357,43.107593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404188981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.914632,43.035121,-87.914632,43.035121",
     "geom:latitude":43.035121,
     "geom:longitude":-87.914632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 N 3rd St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404188981,
-    "wof:lastmodified":1449039692,
+    "wof:lastmodified":1467089910,
     "wof:name":"Evac Company Ltd",
     "wof:parent_id":85870965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mattress"
     ]
 },
-  "bbox": [-87.914632,43.035121,-87.914632,43.035121],
+  "bbox": [
+    -87.914632,
+    43.035121,
+    -87.914632,
+    43.035121
+],
   "geometry": {"coordinates":[-87.914632,43.035121],"type":"Point"}
 }

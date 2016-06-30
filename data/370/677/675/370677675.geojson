@@ -2,13 +2,14 @@
   "id": 370677675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.299312,44.279749,-88.299312,44.279749",
     "geom:latitude":44.279749,
     "geom:longitude":-88.299312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Fairview Ct",
     "sg:city":"Little Chute",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370677675,
-    "wof:lastmodified":1449030305,
+    "wof:lastmodified":1467089901,
     "wof:name":"Bill Built-Rite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.299312,44.279749,-88.299312,44.279749],
+  "bbox": [
+    -88.299312,
+    44.279749,
+    -88.299312,
+    44.279749
+],
   "geometry": {"coordinates":[-88.299312,44.279749],"type":"Point"}
 }

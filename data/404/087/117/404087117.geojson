@@ -2,13 +2,14 @@
   "id": 404087117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.88874,43.159731,-87.88874,43.159731",
     "geom:latitude":43.159731,
     "geom:longitude":-87.88874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7834 N Beach Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404087117,
-    "wof:lastmodified":1449039568,
+    "wof:lastmodified":1467089910,
     "wof:name":"Horsfield Investments LLC",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "lessor"
     ]
 },
-  "bbox": [-87.88874,43.159731,-87.88874,43.159731],
+  "bbox": [
+    -87.88874,
+    43.159731,
+    -87.88874,
+    43.159731
+],
   "geometry": {"coordinates":[-87.88874,43.159731],"type":"Point"}
 }

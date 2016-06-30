@@ -2,13 +2,14 @@
   "id": 337553067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.148815,45.167267,-91.148815,45.167267",
     "geom:latitude":45.167267,
     "geom:longitude":-91.148815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Main St",
     "sg:city":"Cornell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337553067,
-    "wof:lastmodified":1449026936,
+    "wof:lastmodified":1467089892,
     "wof:name":"Shirt Shack",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "printing"
     ]
 },
-  "bbox": [-91.148815,45.167267,-91.148815,45.167267],
+  "bbox": [
+    -91.148815,
+    45.167267,
+    -91.148815,
+    45.167267
+],
   "geometry": {"coordinates":[-91.148815,45.167267],"type":"Point"}
 }

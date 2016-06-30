@@ -2,13 +2,14 @@
   "id": 185945957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.007626,43.988447,-90.007626,43.988447",
     "geom:latitude":43.988447,
     "geom:longitude":-90.007626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4845 26th St E",
     "sg:city":"Necedah",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185945957,
-    "wof:lastmodified":1449006745,
+    "wof:lastmodified":1467089883,
     "wof:name":"Hartwig Pest Control Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.007626,43.988447,-90.007626,43.988447],
+  "bbox": [
+    -90.007626,
+    43.988447,
+    -90.007626,
+    43.988447
+],
   "geometry": {"coordinates":[-90.007626,43.988447],"type":"Point"}
 }

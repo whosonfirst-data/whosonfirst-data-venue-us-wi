@@ -2,13 +2,14 @@
   "id": 370467997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.989455,43.207178,-87.989455,43.207178",
     "geom:latitude":43.207178,
     "geom:longitude":-87.989455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6320 W Donges Bay Rd",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370467997,
-    "wof:lastmodified":1449031756,
+    "wof:lastmodified":1467089905,
     "wof:name":"Scan Pac Manufacturing Inc",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "brake"
     ]
 },
-  "bbox": [-87.989455,43.207178,-87.989455,43.207178],
-  "geometry": {"coordinates":[-87.989455,43.207178],"type":"Point"}
+  "bbox": [
+    -87.989455,
+    43.207178,
+    -87.989455,
+    43.207178
+],
+  "geometry": {"coordinates":[-87.98945500000001,43.207178],"type":"Point"}
 }

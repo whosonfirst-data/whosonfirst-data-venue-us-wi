@@ -2,13 +2,14 @@
   "id": 370969859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.11139,44.377762,-88.11139,44.377762",
     "geom:latitude":44.377762,
     "geom:longitude":-88.11139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1372 Neinhaus Dr",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370969859,
-    "wof:lastmodified":1449029906,
+    "wof:lastmodified":1467089900,
     "wof:name":"Ellis Health & Nutrition",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.11139,44.377762,-88.11139,44.377762],
+  "bbox": [
+    -88.11139,
+    44.377762,
+    -88.11139,
+    44.377762
+],
   "geometry": {"coordinates":[-88.11139,44.377762],"type":"Point"}
 }

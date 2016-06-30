@@ -2,13 +2,14 @@
   "id": 354159879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.762016,45.241851,-90.762016,45.241851",
     "geom:latitude":45.241851,
     "geom:longitude":-90.762016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13219 Co Hwy M",
     "sg:city":"Gilman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354159879,
-    "wof:lastmodified":1449066139,
+    "wof:lastmodified":1467089934,
     "wof:name":"Mudgetts Sports Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.762016,45.241851,-90.762016,45.241851],
+  "bbox": [
+    -90.762016,
+    45.241851,
+    -90.762016,
+    45.241851
+],
   "geometry": {"coordinates":[-90.762016,45.241851],"type":"Point"}
 }

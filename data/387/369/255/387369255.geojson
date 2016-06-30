@@ -2,13 +2,14 @@
   "id": 387369255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.071284,44.506651,-88.071284,44.506651",
     "geom:latitude":44.506651,
     "geom:longitude":-88.071284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Lombardi Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":387369255,
-    "wof:lastmodified":1449059722,
+    "wof:lastmodified":1467089932,
     "wof:name":"Norlight Telecommunications",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-88.071284,44.506651,-88.071284,44.506651],
-  "geometry": {"coordinates":[-88.071284,44.506651],"type":"Point"}
+  "bbox": [
+    -88.071284,
+    44.506651,
+    -88.071284,
+    44.506651
+],
+  "geometry": {"coordinates":[-88.07128400000001,44.506651],"type":"Point"}
 }

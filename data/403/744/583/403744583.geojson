@@ -2,13 +2,14 @@
   "id": 403744583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.973413,43.019918,-87.973413,43.019918",
     "geom:latitude":43.019918,
     "geom:longitude":-87.973413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4729 W National Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403744583,
-    "wof:lastmodified":1449055112,
+    "wof:lastmodified":1467089918,
     "wof:name":"IOOF",
     "wof:parent_id":85870923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-87.973413,43.019918,-87.973413,43.019918],
-  "geometry": {"coordinates":[-87.973413,43.019918],"type":"Point"}
+  "bbox": [
+    -87.973413,
+    43.019918,
+    -87.973413,
+    43.019918
+],
+  "geometry": {"coordinates":[-87.97341299999999,43.019918],"type":"Point"}
 }

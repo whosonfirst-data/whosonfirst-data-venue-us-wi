@@ -2,13 +2,14 @@
   "id": 186037457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.170304,44.326307,-88.170304,44.326307",
     "geom:latitude":44.326307,
     "geom:longitude":-88.170304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Main St",
     "sg:city":"Wrightstown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186037457,
-    "wof:lastmodified":1449053073,
+    "wof:lastmodified":1467089917,
     "wof:name":"De Wane-Cotter Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-88.170304,44.326307,-88.170304,44.326307],
+  "bbox": [
+    -88.170304,
+    44.326307,
+    -88.170304,
+    44.326307
+],
   "geometry": {"coordinates":[-88.170304,44.326307],"type":"Point"}
 }

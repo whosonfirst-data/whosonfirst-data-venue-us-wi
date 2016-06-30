@@ -2,13 +2,14 @@
   "id": 371108513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.470537,42.728725,-90.470537,42.728725",
     "geom:latitude":42.728725,
     "geom:longitude":-90.470537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 E US Hwy 151",
     "sg:city":"Platteville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371108513,
-    "wof:lastmodified":1449049092,
+    "wof:lastmodified":1467089912,
     "wof:name":"Dupaco Community Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "broker"
     ]
 },
-  "bbox": [-90.470537,42.728725,-90.470537,42.728725],
-  "geometry": {"coordinates":[-90.470537,42.728725],"type":"Point"}
+  "bbox": [
+    -90.470537,
+    42.728725,
+    -90.470537,
+    42.728725
+],
+  "geometry": {"coordinates":[-90.47053699999999,42.728725],"type":"Point"}
 }

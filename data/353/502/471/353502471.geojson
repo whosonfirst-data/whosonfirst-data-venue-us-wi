@@ -2,13 +2,14 @@
   "id": 353502471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.498229,43.106417,-89.498229,43.106417",
     "geom:latitude":43.106417,
     "geom:longitude":-89.498229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6720 Frank Lloyd Wright Ave",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353502471,
-    "wof:lastmodified":1449019431,
+    "wof:lastmodified":1467089889,
     "wof:name":"Balanced Bodyworks Massage & F",
     "wof:parent_id":85841479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-89.498229,43.106417,-89.498229,43.106417],
-  "geometry": {"coordinates":[-89.498229,43.106417],"type":"Point"}
+  "bbox": [
+    -89.498229,
+    43.106417,
+    -89.498229,
+    43.106417
+],
+  "geometry": {"coordinates":[-89.49822899999999,43.106417],"type":"Point"}
 }

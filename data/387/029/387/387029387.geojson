@@ -2,13 +2,14 @@
   "id": 387029387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.815455,45.257979,-91.815455,45.257979",
     "geom:latitude":45.257979,
     "geom:longitude":-91.815455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 2nd Ave S",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387029387,
-    "wof:lastmodified":1449057717,
+    "wof:lastmodified":1467089926,
     "wof:name":"Chibardun Telephone Co-Op",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-91.815455,45.257979,-91.815455,45.257979],
+  "bbox": [
+    -91.815455,
+    45.257979,
+    -91.815455,
+    45.257979
+],
   "geometry": {"coordinates":[-91.815455,45.257979],"type":"Point"}
 }

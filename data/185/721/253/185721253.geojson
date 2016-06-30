@@ -2,13 +2,14 @@
   "id": 185721253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.311755,44.280768,-88.311755,44.280768",
     "geom:latitude":44.280768,
     "geom:longitude":-88.311755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 E Main St",
     "sg:city":"Little Chute",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185721253,
-    "wof:lastmodified":1449008207,
+    "wof:lastmodified":1467089886,
     "wof:name":"Jerry Sherwood Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.311755,44.280768,-88.311755,44.280768],
-  "geometry": {"coordinates":[-88.311755,44.280768],"type":"Point"}
+  "bbox": [
+    -88.311755,
+    44.280768,
+    -88.311755,
+    44.280768
+],
+  "geometry": {"coordinates":[-88.31175500000001,44.280768],"type":"Point"}
 }

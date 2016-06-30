@@ -2,13 +2,14 @@
   "id": 370479469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.425082,42.591653,-88.425082,42.591653",
     "geom:latitude":42.591653,
     "geom:longitude":-88.425082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Main St",
     "sg:city":"Lake Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370479469,
-    "wof:lastmodified":1449031396,
+    "wof:lastmodified":1467089904,
     "wof:name":"Eleven Gables Inn On Lake",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-88.425082,42.591653,-88.425082,42.591653],
+  "bbox": [
+    -88.425082,
+    42.591653,
+    -88.425082,
+    42.591653
+],
   "geometry": {"coordinates":[-88.425082,42.591653],"type":"Point"}
 }

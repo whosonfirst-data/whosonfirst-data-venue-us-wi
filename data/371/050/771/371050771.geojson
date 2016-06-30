@@ -2,13 +2,14 @@
   "id": 371050771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.887538,43.091067,-87.887538,43.091067",
     "geom:latitude":43.091067,
     "geom:longitude":-87.887538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4093 N Oakland Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371050771,
-    "wof:lastmodified":1449049632,
+    "wof:lastmodified":1467089913,
     "wof:name":"Harry W Schwartz Bookshops",
     "wof:parent_id":85870879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-87.887538,43.091067,-87.887538,43.091067],
-  "geometry": {"coordinates":[-87.887538,43.091067],"type":"Point"}
+  "bbox": [
+    -87.887538,
+    43.091067,
+    -87.887538,
+    43.091067
+],
+  "geometry": {"coordinates":[-87.88753800000001,43.091067],"type":"Point"}
 }

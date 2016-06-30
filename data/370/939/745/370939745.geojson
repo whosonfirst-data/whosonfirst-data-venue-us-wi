@@ -2,13 +2,14 @@
   "id": 370939745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.717907,43.284787,-89.717907,43.284787",
     "geom:latitude":43.284787,
     "geom:longitude":-89.717907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 Water St",
     "sg:city":"Sauk City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370939745,
-    "wof:lastmodified":1449030099,
+    "wof:lastmodified":1467089900,
     "wof:name":"Moose Investments LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.717907,43.284787,-89.717907,43.284787],
+  "bbox": [
+    -89.717907,
+    43.284787,
+    -89.717907,
+    43.284787
+],
   "geometry": {"coordinates":[-89.717907,43.284787],"type":"Point"}
 }

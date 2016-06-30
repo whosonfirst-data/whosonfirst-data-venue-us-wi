@@ -2,13 +2,14 @@
   "id": 370767503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.89039,43.06741,-87.89039,43.06741",
     "geom:latitude":43.06741,
     "geom:longitude":-87.89039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 E Park Pl",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370767503,
-    "wof:lastmodified":1449030078,
+    "wof:lastmodified":1467089900,
     "wof:name":"Urban Ecology Center Inc",
     "wof:parent_id":85867291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "nature"
     ]
 },
-  "bbox": [-87.89039,43.06741,-87.89039,43.06741],
+  "bbox": [
+    -87.89039,
+    43.06741,
+    -87.89039,
+    43.06741
+],
   "geometry": {"coordinates":[-87.89039,43.06741],"type":"Point"}
 }

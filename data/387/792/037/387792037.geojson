@@ -2,13 +2,14 @@
   "id": 387792037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.903014,43.084032,-87.903014,43.084032",
     "geom:latitude":43.084032,
     "geom:longitude":-87.903014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"728 E Nash St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387792037,
-    "wof:lastmodified":1449056917,
+    "wof:lastmodified":1467089923,
     "wof:name":"Hi-Tech Grinders Sales & Svc",
     "wof:parent_id":85870941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grinding"
     ]
 },
-  "bbox": [-87.903014,43.084032,-87.903014,43.084032],
+  "bbox": [
+    -87.903014,
+    43.084032,
+    -87.903014,
+    43.084032
+],
   "geometry": {"coordinates":[-87.903014,43.084032],"type":"Point"}
 }

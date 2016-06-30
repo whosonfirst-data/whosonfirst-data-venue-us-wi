@@ -2,13 +2,14 @@
   "id": 354129007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.211315,44.403485,-88.211315,44.403485",
     "geom:latitude":44.403485,
     "geom:longitude":-88.211315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4341 McCabe Rd",
     "sg:city":"Kaukauna",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354129007,
-    "wof:lastmodified":1449067308,
+    "wof:lastmodified":1467089937,
     "wof:name":"Gerald Van Groll",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.211315,44.403485,-88.211315,44.403485],
+  "bbox": [
+    -88.211315,
+    44.403485,
+    -88.211315,
+    44.403485
+],
   "geometry": {"coordinates":[-88.211315,44.403485],"type":"Point"}
 }

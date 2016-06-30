@@ -2,13 +2,14 @@
   "id": 387440031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.843494,45.153384,-88.843494,45.153384",
     "geom:latitude":45.153384,
     "geom:longitude":-88.843494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3574 Co Hwy P",
     "sg:city":"White Lake",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387440031,
-    "wof:lastmodified":1449057447,
+    "wof:lastmodified":1467089925,
     "wof:name":"Andy Kostelny Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.843494,45.153384,-88.843494,45.153384],
-  "geometry": {"coordinates":[-88.843494,45.153384],"type":"Point"}
+  "bbox": [
+    -88.843494,
+    45.153384,
+    -88.843494,
+    45.153384
+],
+  "geometry": {"coordinates":[-88.84349400000001,45.153384],"type":"Point"}
 }

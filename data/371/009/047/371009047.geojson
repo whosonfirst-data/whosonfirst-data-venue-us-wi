@@ -2,13 +2,14 @@
   "id": 371009047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.703796,43.407032,-88.703796,43.407032",
     "geom:latitude":43.407032,
     "geom:longitude":-88.703796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 E Oak St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371009047,
-    "wof:lastmodified":1449050123,
+    "wof:lastmodified":1467089914,
     "wof:name":"Dodge County Coroner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.703796,43.407032,-88.703796,43.407032],
+  "bbox": [
+    -88.703796,
+    43.407032,
+    -88.703796,
+    43.407032
+],
   "geometry": {"coordinates":[-88.703796,43.407032],"type":"Point"}
 }

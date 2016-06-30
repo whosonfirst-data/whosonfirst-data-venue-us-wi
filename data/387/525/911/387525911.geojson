@@ -2,13 +2,14 @@
   "id": 387525911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.168642,43.428077,-88.168642,43.428077",
     "geom:latitude":43.428077,
     "geom:longitude":-88.168642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Rolfs Ave",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387525911,
-    "wof:lastmodified":1449059120,
+    "wof:lastmodified":1467089930,
     "wof:name":"Amity Rolfs",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [-88.168642,43.428077,-88.168642,43.428077],
-  "geometry": {"coordinates":[-88.168642,43.428077],"type":"Point"}
+  "bbox": [
+    -88.168642,
+    43.428077,
+    -88.168642,
+    43.428077
+],
+  "geometry": {"coordinates":[-88.16864200000001,43.428077],"type":"Point"}
 }

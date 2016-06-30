@@ -2,13 +2,14 @@
   "id": 353595877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.019881,44.613554,-88.019881,44.613554",
     "geom:latitude":44.613554,
     "geom:longitude":-88.019881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Longtail Beach Rd",
     "sg:city":"Suamico",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353595877,
-    "wof:lastmodified":1449020560,
+    "wof:lastmodified":1467089891,
     "wof:name":"Schommer Dl Enterprises",
     "wof:parent_id":85852587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.019881,44.613554,-88.019881,44.613554],
+  "bbox": [
+    -88.019881,
+    44.613554,
+    -88.019881,
+    44.613554
+],
   "geometry": {"coordinates":[-88.019881,44.613554],"type":"Point"}
 }

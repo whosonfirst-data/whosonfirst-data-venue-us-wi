@@ -2,13 +2,14 @@
   "id": 387690375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.201718,43.754454,-90.201718,43.754454",
     "geom:latitude":43.754454,
     "geom:longitude":-90.201718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 Overgaard Rd",
     "sg:city":"Elroy",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387690375,
-    "wof:lastmodified":1449058122,
+    "wof:lastmodified":1467089927,
     "wof:name":"Heavenly Log Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-90.201718,43.754454,-90.201718,43.754454],
+  "bbox": [
+    -90.201718,
+    43.754454,
+    -90.201718,
+    43.754454
+],
   "geometry": {"coordinates":[-90.201718,43.754454],"type":"Point"}
 }

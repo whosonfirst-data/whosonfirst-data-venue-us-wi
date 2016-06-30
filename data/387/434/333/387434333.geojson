@@ -2,13 +2,14 @@
   "id": 387434333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.061589,44.175458,-88.061589,44.175458",
     "geom:latitude":44.175458,
     "geom:longitude":-88.061589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"228 S Francis St",
     "sg:city":"Brillion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387434333,
-    "wof:lastmodified":1449056927,
+    "wof:lastmodified":1467089923,
     "wof:name":"C Welch Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.061589,44.175458,-88.061589,44.175458],
+  "bbox": [
+    -88.061589,
+    44.175458,
+    -88.061589,
+    44.175458
+],
   "geometry": {"coordinates":[-88.061589,44.175458],"type":"Point"}
 }

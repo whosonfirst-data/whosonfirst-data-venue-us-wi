@@ -2,13 +2,14 @@
   "id": 387369317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.345956,43.098267,-88.345956,43.098267",
     "geom:latitude":43.098267,
     "geom:longitude":-88.345956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Granary Cir",
     "sg:city":"Hartland",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387369317,
-    "wof:lastmodified":1449059722,
+    "wof:lastmodified":1467089932,
     "wof:name":"Klatt's Hand Woven Rugs",
     "wof:parent_id":85808383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "carpet"
     ]
 },
-  "bbox": [-88.345956,43.098267,-88.345956,43.098267],
+  "bbox": [
+    -88.345956,
+    43.098267,
+    -88.345956,
+    43.098267
+],
   "geometry": {"coordinates":[-88.345956,43.098267],"type":"Point"}
 }

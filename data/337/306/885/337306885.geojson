@@ -2,13 +2,14 @@
   "id": 337306885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.030824,44.537245,-88.030824,44.537245",
     "geom:latitude":44.537245,
     "geom:longitude":-88.030824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 N Buchanan St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337306885,
-    "wof:lastmodified":1449027708,
+    "wof:lastmodified":1467089896,
     "wof:name":"Runke Properties Inc",
     "wof:parent_id":85877941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [-88.030824,44.537245,-88.030824,44.537245],
+  "bbox": [
+    -88.030824,
+    44.537245,
+    -88.030824,
+    44.537245
+],
   "geometry": {"coordinates":[-88.030824,44.537245],"type":"Point"}
 }

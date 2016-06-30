@@ -2,13 +2,14 @@
   "id": 387501415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.691685,44.116556,-87.691685,44.116556",
     "geom:latitude":44.116556,
     "geom:longitude":-87.691685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3417 Fleetcrest Ct",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387501415,
-    "wof:lastmodified":1449059949,
+    "wof:lastmodified":1467089933,
     "wof:name":"D & D Homes Inc",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-87.691685,44.116556,-87.691685,44.116556],
-  "geometry": {"coordinates":[-87.691685,44.116556],"type":"Point"}
+  "bbox": [
+    -87.691685,
+    44.116556,
+    -87.691685,
+    44.116556
+],
+  "geometry": {"coordinates":[-87.69168500000001,44.116556],"type":"Point"}
 }

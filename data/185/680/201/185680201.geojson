@@ -2,13 +2,14 @@
   "id": 185680201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.887418,43.098269,-87.887418,43.098269",
     "geom:latitude":43.098269,
     "geom:longitude":-87.887418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4401 N Oakland Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":185680201,
-    "wof:lastmodified":1449007724,
+    "wof:lastmodified":1467089885,
     "wof:name":"Lakeshore Gallery Inc",
     "wof:parent_id":85870879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "framing"
     ]
 },
-  "bbox": [-87.887418,43.098269,-87.887418,43.098269],
+  "bbox": [
+    -87.887418,
+    43.098269,
+    -87.887418,
+    43.098269
+],
   "geometry": {"coordinates":[-87.887418,43.098269],"type":"Point"}
 }

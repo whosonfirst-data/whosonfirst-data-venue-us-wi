@@ -2,13 +2,14 @@
   "id": 353803307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.881765,46.591933,-90.881765,46.591933",
     "geom:latitude":46.591933,
     "geom:longitude":-90.881765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 2nd Ave E",
     "sg:city":"Ashland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353803307,
-    "wof:lastmodified":1449020828,
+    "wof:lastmodified":1467089892,
     "wof:name":"Bell Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-90.881765,46.591933,-90.881765,46.591933],
+  "bbox": [
+    -90.881765,
+    46.591933,
+    -90.881765,
+    46.591933
+],
   "geometry": {"coordinates":[-90.881765,46.591933],"type":"Point"}
 }

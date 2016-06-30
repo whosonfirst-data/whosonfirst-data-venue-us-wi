@@ -2,13 +2,14 @@
   "id": 353767517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.390155,44.919016,-91.390155,44.919016",
     "geom:latitude":44.919016,
     "geom:longitude":-91.390155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 S Main St",
     "sg:city":"Chippewa Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353767517,
-    "wof:lastmodified":1449019006,
+    "wof:lastmodified":1467089888,
     "wof:name":"Mc Donell Dry Wall",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-91.390155,44.919016,-91.390155,44.919016],
-  "geometry": {"coordinates":[-91.390155,44.919016],"type":"Point"}
+  "bbox": [
+    -91.390155,
+    44.919016,
+    -91.390155,
+    44.919016
+],
+  "geometry": {"coordinates":[-91.39015499999999,44.919016],"type":"Point"}
 }

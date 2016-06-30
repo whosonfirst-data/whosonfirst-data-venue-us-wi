@@ -2,13 +2,14 @@
   "id": 354300335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.38622,45.633281,-89.38622,45.633281",
     "geom:latitude":45.633281,
     "geom:longitude":-89.38622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1903 Lincoln St",
     "sg:city":"Rhinelander",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":354300335,
-    "wof:lastmodified":1449066911,
+    "wof:lastmodified":1467089936,
     "wof:name":"Integrity Sports Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "physical"
     ]
 },
-  "bbox": [-89.38622,45.633281,-89.38622,45.633281],
-  "geometry": {"coordinates":[-89.38622,45.633281],"type":"Point"}
+  "bbox": [
+    -89.38622,
+    45.633281,
+    -89.38622,
+    45.633281
+],
+  "geometry": {"coordinates":[-89.38621999999999,45.633281],"type":"Point"}
 }

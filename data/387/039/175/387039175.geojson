@@ -2,13 +2,14 @@
   "id": 387039175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.787836,44.051715,-87.787836,44.051715",
     "geom:latitude":44.051715,
     "geom:longitude":-87.787836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9402 English Lake Rd",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387039175,
-    "wof:lastmodified":1449059446,
+    "wof:lastmodified":1467089931,
     "wof:name":"B & M Waste Service Inc",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "septic"
     ]
 },
-  "bbox": [-87.787836,44.051715,-87.787836,44.051715],
+  "bbox": [
+    -87.787836,
+    44.051715,
+    -87.787836,
+    44.051715
+],
   "geometry": {"coordinates":[-87.787836,44.051715],"type":"Point"}
 }

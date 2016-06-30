@@ -2,13 +2,14 @@
   "id": 370573855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.764845,42.836266,-88.764845,42.836266",
     "geom:latitude":42.836266,
     "geom:longitude":-88.764845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1440 W Main St",
     "sg:city":"Whitewater",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370573855,
-    "wof:lastmodified":1449031595,
+    "wof:lastmodified":1467089905,
     "wof:name":"U-Haul Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leasing"
     ]
 },
-  "bbox": [-88.764845,42.836266,-88.764845,42.836266],
-  "geometry": {"coordinates":[-88.764845,42.836266],"type":"Point"}
+  "bbox": [
+    -88.764845,
+    42.836266,
+    -88.764845,
+    42.836266
+],
+  "geometry": {"coordinates":[-88.76484499999999,42.836266],"type":"Point"}
 }

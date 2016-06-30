@@ -2,13 +2,14 @@
   "id": 387185217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.051903,45.725046,-92.051903,45.725046",
     "geom:latitude":45.725046,
     "geom:longitude":-92.051903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22030 Bakker Rd",
     "sg:city":"Shell Lake",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387185217,
-    "wof:lastmodified":1449056730,
+    "wof:lastmodified":1467089923,
     "wof:name":"Spartan Promotional Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.051903,45.725046,-92.051903,45.725046],
+  "bbox": [
+    -92.051903,
+    45.725046,
+    -92.051903,
+    45.725046
+],
   "geometry": {"coordinates":[-92.051903,45.725046],"type":"Point"}
 }

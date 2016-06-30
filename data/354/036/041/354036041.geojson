@@ -2,13 +2,14 @@
   "id": 354036041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.167157,43.448882,-88.167157,43.448882",
     "geom:latitude":43.448882,
     "geom:longitude":-88.167157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7003 State Hwy 144",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354036041,
-    "wof:lastmodified":1449066298,
+    "wof:lastmodified":1467089934,
     "wof:name":"Kettle Moraine Appl Sls & Svc",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "major"
     ]
 },
-  "bbox": [-88.167157,43.448882,-88.167157,43.448882],
+  "bbox": [
+    -88.167157,
+    43.448882,
+    -88.167157,
+    43.448882
+],
   "geometry": {"coordinates":[-88.167157,43.448882],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403907073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.316303,43.089505,-89.316303,43.089505",
     "geom:latitude":43.089505,
     "geom:longitude":-89.316303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Dempsey Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403907073,
-    "wof:lastmodified":1449055857,
+    "wof:lastmodified":1467089920,
     "wof:name":"St Dennis School",
     "wof:parent_id":85878857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "church"
     ]
 },
-  "bbox": [-89.316303,43.089505,-89.316303,43.089505],
+  "bbox": [
+    -89.316303,
+    43.089505,
+    -89.316303,
+    43.089505
+],
   "geometry": {"coordinates":[-89.316303,43.089505],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387558665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.05773,42.687496,-89.05773,42.687496",
     "geom:latitude":42.687496,
     "geom:longitude":-89.05773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Cambridge Dr",
     "sg:city":"Janesville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387558665,
-    "wof:lastmodified":1449057133,
+    "wof:lastmodified":1467089924,
     "wof:name":"Market Plus Inc",
     "wof:parent_id":85803103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.05773,42.687496,-89.05773,42.687496],
-  "geometry": {"coordinates":[-89.05773,42.687496],"type":"Point"}
+  "bbox": [
+    -89.05773,
+    42.687496,
+    -89.05773,
+    42.687496
+],
+  "geometry": {"coordinates":[-89.05773000000001,42.687496],"type":"Point"}
 }

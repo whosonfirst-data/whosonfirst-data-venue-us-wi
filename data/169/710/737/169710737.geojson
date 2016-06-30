@@ -2,13 +2,14 @@
   "id": 169710737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.096408,46.729074,-92.096408,46.729074",
     "geom:latitude":46.729074,
     "geom:longitude":-92.096408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 N 8th St",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169710737,
-    "wof:lastmodified":1449032884,
+    "wof:lastmodified":1467089908,
     "wof:name":"Peter Rich Nutrition Site",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.096408,46.729074,-92.096408,46.729074],
+  "bbox": [
+    -92.096408,
+    46.729074,
+    -92.096408,
+    46.729074
+],
   "geometry": {"coordinates":[-92.096408,46.729074],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403949841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.047501,44.495459,-88.047501,44.495459",
     "geom:latitude":44.495459,
     "geom:longitude":-88.047501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"949 Advance St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403949841,
-    "wof:lastmodified":1449055467,
+    "wof:lastmodified":1467089919,
     "wof:name":"Master Fleet LLC",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-88.047501,44.495459,-88.047501,44.495459],
+  "bbox": [
+    -88.047501,
+    44.495459,
+    -88.047501,
+    44.495459
+],
   "geometry": {"coordinates":[-88.047501,44.495459],"type":"Point"}
 }

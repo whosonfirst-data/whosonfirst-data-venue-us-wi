@@ -2,13 +2,14 @@
   "id": 337306387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.886256,45.829324,-91.886256,45.829324",
     "geom:latitude":45.829324,
     "geom:longitude":-91.886256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 N River St",
     "sg:city":"Spooner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337306387,
-    "wof:lastmodified":1449027709,
+    "wof:lastmodified":1467089896,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.886256,45.829324,-91.886256,45.829324],
+  "bbox": [
+    -91.886256,
+    45.829324,
+    -91.886256,
+    45.829324
+],
   "geometry": {"coordinates":[-91.886256,45.829324],"type":"Point"}
 }

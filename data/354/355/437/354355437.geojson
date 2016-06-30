@@ -2,13 +2,14 @@
   "id": 354355437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.99903,43.175311,-87.99903,43.175311",
     "geom:latitude":43.175311,
     "geom:longitude":-87.99903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8633 N Teal Ct",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354355437,
-    "wof:lastmodified":1449066381,
+    "wof:lastmodified":1467089934,
     "wof:name":"Gillfoy  Willis & Wilde",
     "wof:parent_id":85870797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.99903,43.175311,-87.99903,43.175311],
+  "bbox": [
+    -87.99903,
+    43.175311,
+    -87.99903,
+    43.175311
+],
   "geometry": {"coordinates":[-87.99903,43.175311],"type":"Point"}
 }

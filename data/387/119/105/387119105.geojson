@@ -2,13 +2,14 @@
   "id": 387119105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.992819,44.469105,-87.992819,44.469105",
     "geom:latitude":44.469105,
     "geom:longitude":-87.992819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1780 Allouez Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387119105,
-    "wof:lastmodified":1449058825,
+    "wof:lastmodified":1467089930,
     "wof:name":"Wisconsin Arts Gallery & Frmng",
     "wof:parent_id":85877933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.992819,44.469105,-87.992819,44.469105],
+  "bbox": [
+    -87.992819,
+    44.469105,
+    -87.992819,
+    44.469105
+],
   "geometry": {"coordinates":[-87.992819,44.469105],"type":"Point"}
 }

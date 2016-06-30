@@ -2,13 +2,14 @@
   "id": 403804399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.205368,43.012173,-88.205368,43.012173",
     "geom:latitude":43.012173,
     "geom:longitude":-88.205368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Eugene Ct",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":403804399,
-    "wof:lastmodified":1449055534,
+    "wof:lastmodified":1467089919,
     "wof:name":"Neenah Foundry Company",
     "wof:parent_id":85815589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "foundry"
     ]
 },
-  "bbox": [-88.205368,43.012173,-88.205368,43.012173],
-  "geometry": {"coordinates":[-88.205368,43.012173],"type":"Point"}
+  "bbox": [
+    -88.205368,
+    43.012173,
+    -88.205368,
+    43.012173
+],
+  "geometry": {"coordinates":[-88.20536800000001,43.012173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370946875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.265762,44.576182,-92.265762,44.576182",
     "geom:latitude":44.576182,
     "geom:longitude":-92.265762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2623 Co Rd H",
     "sg:city":"Maiden Rock",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370946875,
-    "wof:lastmodified":1449032068,
+    "wof:lastmodified":1467089906,
     "wof:name":"Glen Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-92.265762,44.576182,-92.265762,44.576182],
+  "bbox": [
+    -92.265762,
+    44.576182,
+    -92.265762,
+    44.576182
+],
   "geometry": {"coordinates":[-92.265762,44.576182],"type":"Point"}
 }

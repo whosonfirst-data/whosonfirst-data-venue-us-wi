@@ -2,13 +2,14 @@
   "id": 387489475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.940491,43.311402,-87.940491,43.311402",
     "geom:latitude":43.311402,
     "geom:longitude":-87.940491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1898 Cypress Dr",
     "sg:city":"Grafton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387489475,
-    "wof:lastmodified":1449058191,
+    "wof:lastmodified":1467089928,
     "wof:name":"Library Duplex LLC",
     "wof:parent_id":85852983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.940491,43.311402,-87.940491,43.311402],
-  "geometry": {"coordinates":[-87.940491,43.311402],"type":"Point"}
+  "bbox": [
+    -87.940491,
+    43.311402,
+    -87.940491,
+    43.311402
+],
+  "geometry": {"coordinates":[-87.94049099999999,43.311402],"type":"Point"}
 }

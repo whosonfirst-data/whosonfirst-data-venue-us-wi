@@ -2,13 +2,14 @@
   "id": 353408585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.06609,43.104628,-88.06609,43.104628",
     "geom:latitude":43.104628,
     "geom:longitude":-88.06609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4767 N 124th St",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353408585,
-    "wof:lastmodified":1449018561,
+    "wof:lastmodified":1467089887,
     "wof:name":"Energy Process Service Co Inc",
     "wof:parent_id":85870815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.06609,43.104628,-88.06609,43.104628],
+  "bbox": [
+    -88.06609,
+    43.104628,
+    -88.06609,
+    43.104628
+],
   "geometry": {"coordinates":[-88.06609,43.104628],"type":"Point"}
 }

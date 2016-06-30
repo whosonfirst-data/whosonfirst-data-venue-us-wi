@@ -2,13 +2,14 @@
   "id": 387058723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.1524,45.011073,-87.1524,45.011073",
     "geom:latitude":45.011073,
     "geom:longitude":-87.1524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6966 State Hwy 57",
     "sg:city":"Baileys Harbor",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387058723,
-    "wof:lastmodified":1449056662,
+    "wof:lastmodified":1467089923,
     "wof:name":"Shoe Box",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.1524,45.011073,-87.1524,45.011073],
+  "bbox": [
+    -87.1524,
+    45.011073,
+    -87.1524,
+    45.011073
+],
   "geometry": {"coordinates":[-87.1524,45.011073],"type":"Point"}
 }

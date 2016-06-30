@@ -2,13 +2,14 @@
   "id": 371093575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.080542,43.042211,-88.080542,43.042211",
     "geom:latitude":43.042211,
     "geom:longitude":-88.080542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13545 Watertown Plank Rd",
     "sg:city":"Elm Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371093575,
-    "wof:lastmodified":1449049061,
+    "wof:lastmodified":1467089912,
     "wof:name":"Natl Spasmatic Torticollis",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.080542,43.042211,-88.080542,43.042211],
-  "geometry": {"coordinates":[-88.080542,43.042211],"type":"Point"}
+  "bbox": [
+    -88.080542,
+    43.042211,
+    -88.080542,
+    43.042211
+],
+  "geometry": {"coordinates":[-88.08054199999999,43.042211],"type":"Point"}
 }

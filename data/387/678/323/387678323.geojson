@@ -2,13 +2,14 @@
   "id": 387678323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.036324,42.497136,-89.036324,42.497136",
     "geom:latitude":42.497136,
     "geom:longitude":-89.036324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 State St",
     "sg:city":"Beloit",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387678323,
-    "wof:lastmodified":1449057936,
+    "wof:lastmodified":1467089926,
     "wof:name":"Beloit City Treasurer's Office",
     "wof:parent_id":85812915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-89.036324,42.497136,-89.036324,42.497136],
-  "geometry": {"coordinates":[-89.036324,42.497136],"type":"Point"}
+  "bbox": [
+    -89.036324,
+    42.497136,
+    -89.036324,
+    42.497136
+],
+  "geometry": {"coordinates":[-89.03632399999999,42.497136],"type":"Point"}
 }

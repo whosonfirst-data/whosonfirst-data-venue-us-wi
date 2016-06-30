@@ -2,13 +2,14 @@
   "id": 403783387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.027974,43.0046,-88.027974,43.0046",
     "geom:latitude":43.0046,
     "geom:longitude":-88.027974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9242 W National Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403783387,
-    "wof:lastmodified":1449054665,
+    "wof:lastmodified":1467089917,
     "wof:name":"Midwest Advantage",
     "wof:parent_id":85870861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-88.027974,43.0046,-88.027974,43.0046],
+  "bbox": [
+    -88.027974,
+    43.0046,
+    -88.027974,
+    43.0046
+],
   "geometry": {"coordinates":[-88.027974,43.0046],"type":"Point"}
 }

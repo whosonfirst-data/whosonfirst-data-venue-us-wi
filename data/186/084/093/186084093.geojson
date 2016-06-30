@@ -2,13 +2,14 @@
   "id": 186084093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.982565,43.104757,-87.982565,43.104757",
     "geom:latitude":43.104757,
     "geom:longitude":-87.982565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5532 W Hampton Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186084093,
-    "wof:lastmodified":1449050535,
+    "wof:lastmodified":1467089914,
     "wof:name":"Divine Temple Church",
     "wof:parent_id":85870819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.982565,43.104757,-87.982565,43.104757],
-  "geometry": {"coordinates":[-87.982565,43.104757],"type":"Point"}
+  "bbox": [
+    -87.982565,
+    43.104757,
+    -87.982565,
+    43.104757
+],
+  "geometry": {"coordinates":[-87.98256499999999,43.104757],"type":"Point"}
 }

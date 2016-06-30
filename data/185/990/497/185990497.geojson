@@ -2,13 +2,14 @@
   "id": 185990497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.900568,45.568425,-88.900568,45.568425",
     "geom:latitude":45.568425,
     "geom:longitude":-88.900568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 S Park Ave",
     "sg:city":"Crandon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185990497,
-    "wof:lastmodified":1449007672,
+    "wof:lastmodified":1467089885,
     "wof:name":"Mark Brockway Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-88.900568,45.568425,-88.900568,45.568425],
-  "geometry": {"coordinates":[-88.900568,45.568425],"type":"Point"}
+  "bbox": [
+    -88.900568,
+    45.568425,
+    -88.900568,
+    45.568425
+],
+  "geometry": {"coordinates":[-88.90056800000001,45.568425],"type":"Point"}
 }

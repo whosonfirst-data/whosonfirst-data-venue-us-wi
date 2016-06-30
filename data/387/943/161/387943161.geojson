@@ -2,13 +2,14 @@
   "id": 387943161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.906384,46.579964,-90.906384,46.579964",
     "geom:latitude":46.579964,
     "geom:longitude":-90.906384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 Sanborn Ave",
     "sg:city":"Ashland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387943161,
-    "wof:lastmodified":1449057106,
+    "wof:lastmodified":1467089924,
     "wof:name":"Ashland Ag Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-90.906384,46.579964,-90.906384,46.579964],
+  "bbox": [
+    -90.906384,
+    46.579964,
+    -90.906384,
+    46.579964
+],
   "geometry": {"coordinates":[-90.906384,46.579964],"type":"Point"}
 }

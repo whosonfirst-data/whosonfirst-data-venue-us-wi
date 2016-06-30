@@ -2,13 +2,14 @@
   "id": 370545963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.496021,43.056469,-89.496021,43.056469",
     "geom:latitude":43.056469,
     "geom:longitude":-89.496021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6666 Odana Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370545963,
-    "wof:lastmodified":1449029909,
+    "wof:lastmodified":1467089900,
     "wof:name":"Safety Services",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.496021,43.056469,-89.496021,43.056469],
+  "bbox": [
+    -89.496021,
+    43.056469,
+    -89.496021,
+    43.056469
+],
   "geometry": {"coordinates":[-89.496021,43.056469],"type":"Point"}
 }

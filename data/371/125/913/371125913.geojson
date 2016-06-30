@@ -2,13 +2,14 @@
   "id": 371125913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.958781,43.112004,-87.958781,43.112004",
     "geom:latitude":43.112004,
     "geom:longitude":-87.958781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3610 W Villard Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371125913,
-    "wof:lastmodified":1449050097,
+    "wof:lastmodified":1467089914,
     "wof:name":"Agape Auditorium",
     "wof:parent_id":85870907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-87.958781,43.112004,-87.958781,43.112004],
+  "bbox": [
+    -87.958781,
+    43.112004,
+    -87.958781,
+    43.112004
+],
   "geometry": {"coordinates":[-87.958781,43.112004],"type":"Point"}
 }

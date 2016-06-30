@@ -2,13 +2,14 @@
   "id": 387925889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.542557,44.007562,-88.542557,44.007562",
     "geom:latitude":44.007562,
     "geom:longitude":-88.542557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 Oregon St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387925889,
-    "wof:lastmodified":1449056141,
+    "wof:lastmodified":1467089921,
     "wof:name":"Oregon Apartments",
     "wof:parent_id":85851167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-88.542557,44.007562,-88.542557,44.007562],
+  "bbox": [
+    -88.542557,
+    44.007562,
+    -88.542557,
+    44.007562
+],
   "geometry": {"coordinates":[-88.542557,44.007562],"type":"Point"}
 }

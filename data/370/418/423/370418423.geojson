@@ -2,13 +2,14 @@
   "id": 370418423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.060362,44.502347,-88.060362,44.502347",
     "geom:latitude":44.502347,
     "geom:longitude":-88.060362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1265 Lombardi Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370418423,
-    "wof:lastmodified":1449031749,
+    "wof:lastmodified":1467089905,
     "wof:name":"Frozen In Time Ice Cream",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cream"
     ]
 },
-  "bbox": [-88.060362,44.502347,-88.060362,44.502347],
+  "bbox": [
+    -88.060362,
+    44.502347,
+    -88.060362,
+    44.502347
+],
   "geometry": {"coordinates":[-88.060362,44.502347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337434101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.363725,43.112081,-89.363725,43.112081",
     "geom:latitude":43.112081,
     "geom:longitude":-89.363725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1151 N Sherman Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337434101,
-    "wof:lastmodified":1449027099,
+    "wof:lastmodified":1467089893,
     "wof:name":"Dorn True Value Hardware",
     "wof:parent_id":85878829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.363725,43.112081,-89.363725,43.112081],
+  "bbox": [
+    -89.363725,
+    43.112081,
+    -89.363725,
+    43.112081
+],
   "geometry": {"coordinates":[-89.363725,43.112081],"type":"Point"}
 }

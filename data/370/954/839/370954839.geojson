@@ -2,13 +2,14 @@
   "id": 370954839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.368169,45.813035,-92.368169,45.813035",
     "geom:latitude":45.813035,
     "geom:longitude":-92.368169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24670 State Rd 35",
     "sg:city":"Siren",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370954839,
-    "wof:lastmodified":1449032036,
+    "wof:lastmodified":1467089906,
     "wof:name":"Swanson Transcription Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "disc"
     ]
 },
-  "bbox": [-92.368169,45.813035,-92.368169,45.813035],
-  "geometry": {"coordinates":[-92.368169,45.813035],"type":"Point"}
+  "bbox": [
+    -92.368169,
+    45.813035,
+    -92.368169,
+    45.813035
+],
+  "geometry": {"coordinates":[-92.36816899999999,45.813035],"type":"Point"}
 }

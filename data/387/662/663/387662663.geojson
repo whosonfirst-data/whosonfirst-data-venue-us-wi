@@ -2,13 +2,14 @@
   "id": 387662663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.485457,44.215865,-88.485457,44.215865",
     "geom:latitude":44.215865,
     "geom:longitude":-88.485457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1368 Cold Spring Rd",
     "sg:city":"Neenah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387662663,
-    "wof:lastmodified":1449058678,
+    "wof:lastmodified":1467089929,
     "wof:name":"A LA Carte Custom Catering",
     "wof:parent_id":85807543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "caterer"
     ]
 },
-  "bbox": [-88.485457,44.215865,-88.485457,44.215865],
+  "bbox": [
+    -88.485457,
+    44.215865,
+    -88.485457,
+    44.215865
+],
   "geometry": {"coordinates":[-88.485457,44.215865],"type":"Point"}
 }

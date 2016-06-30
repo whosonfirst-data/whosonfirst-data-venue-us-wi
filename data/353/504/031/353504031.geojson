@@ -2,13 +2,14 @@
   "id": 353504031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.816865,44.371714,-89.816865,44.371714",
     "geom:latitude":44.371714,
     "geom:longitude":-89.816865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2551 8th St S",
     "sg:city":"Wisconsin Rapids",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353504031,
-    "wof:lastmodified":1449018691,
+    "wof:lastmodified":1467089887,
     "wof:name":"H & R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.816865,44.371714,-89.816865,44.371714],
-  "geometry": {"coordinates":[-89.816865,44.371714],"type":"Point"}
+  "bbox": [
+    -89.816865,
+    44.371714,
+    -89.816865,
+    44.371714
+],
+  "geometry": {"coordinates":[-89.81686500000001,44.371714],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386980037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.990679,43.090036,-87.990679,43.090036",
     "geom:latitude":43.090036,
     "geom:longitude":-87.990679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6212 W Capitol Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386980037,
-    "wof:lastmodified":1449028655,
+    "wof:lastmodified":1467089896,
     "wof:name":"Hbn Foods LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.990679,43.090036,-87.990679,43.090036],
+  "bbox": [
+    -87.990679,
+    43.090036,
+    -87.990679,
+    43.090036
+],
   "geometry": {"coordinates":[-87.990679,43.090036],"type":"Point"}
 }

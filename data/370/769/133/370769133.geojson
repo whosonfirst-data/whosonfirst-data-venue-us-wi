@@ -2,13 +2,14 @@
   "id": 370769133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.958421,43.178511,-87.958421,43.178511",
     "geom:latitude":43.178511,
     "geom:longitude":-87.958421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 W Brown Deer Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370769133,
-    "wof:lastmodified":1449030220,
+    "wof:lastmodified":1467089901,
     "wof:name":"UPS Stores 950 The",
     "wof:parent_id":85894487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mailing"
     ]
 },
-  "bbox": [-87.958421,43.178511,-87.958421,43.178511],
+  "bbox": [
+    -87.958421,
+    43.178511,
+    -87.958421,
+    43.178511
+],
   "geometry": {"coordinates":[-87.958421,43.178511],"type":"Point"}
 }

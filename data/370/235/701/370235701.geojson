@@ -2,13 +2,14 @@
   "id": 370235701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.627454,43.454509,-88.627454,43.454509",
     "geom:latitude":43.454509,
     "geom:longitude":-88.627454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N Finch St",
     "sg:city":"Horicon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370235701,
-    "wof:lastmodified":1449029674,
+    "wof:lastmodified":1467089899,
     "wof:name":"Tile One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-88.627454,43.454509,-88.627454,43.454509],
+  "bbox": [
+    -88.627454,
+    43.454509,
+    -88.627454,
+    43.454509
+],
   "geometry": {"coordinates":[-88.627454,43.454509],"type":"Point"}
 }

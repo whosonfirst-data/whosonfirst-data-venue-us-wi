@@ -2,13 +2,14 @@
   "id": 185907783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.908756,43.03495,-87.908756,43.03495",
     "geom:latitude":43.03495,
     "geom:longitude":-87.908756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N Water St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185907783,
-    "wof:lastmodified":1449008093,
+    "wof:lastmodified":1467089885,
     "wof:name":"Ladallman Architechs Inc",
     "wof:parent_id":85871001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-87.908756,43.03495,-87.908756,43.03495],
+  "bbox": [
+    -87.908756,
+    43.03495,
+    -87.908756,
+    43.03495
+],
   "geometry": {"coordinates":[-87.908756,43.03495],"type":"Point"}
 }

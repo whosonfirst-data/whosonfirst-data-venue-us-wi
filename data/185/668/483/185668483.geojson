@@ -2,13 +2,14 @@
   "id": 185668483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.799276,43.626556,-87.799276,43.626556",
     "geom:latitude":43.626556,
     "geom:longitude":-87.799276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 N 10th St",
     "sg:city":"Oostburg",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":185668483,
-    "wof:lastmodified":1449007717,
+    "wof:lastmodified":1467089885,
     "wof:name":"Ambiance Light Sight Sound LLC",
     "wof:parent_id":85821461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "custom"
     ]
 },
-  "bbox": [-87.799276,43.626556,-87.799276,43.626556],
-  "geometry": {"coordinates":[-87.799276,43.626556],"type":"Point"}
+  "bbox": [
+    -87.799276,
+    43.626556,
+    -87.799276,
+    43.626556
+],
+  "geometry": {"coordinates":[-87.79927600000001,43.626556],"type":"Point"}
 }

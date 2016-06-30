@@ -2,13 +2,14 @@
   "id": 387745765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.903261,45.570147,-88.903261,45.570147",
     "geom:latitude":45.570147,
     "geom:longitude":-88.903261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 N Lake Ave",
     "sg:city":"Crandon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387745765,
-    "wof:lastmodified":1449059748,
+    "wof:lastmodified":1467089932,
     "wof:name":"Pack Em Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.903261,45.570147,-88.903261,45.570147],
+  "bbox": [
+    -88.903261,
+    45.570147,
+    -88.903261,
+    45.570147
+],
   "geometry": {"coordinates":[-88.903261,45.570147],"type":"Point"}
 }

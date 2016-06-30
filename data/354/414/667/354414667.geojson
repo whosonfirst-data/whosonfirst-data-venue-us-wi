@@ -2,13 +2,14 @@
   "id": 354414667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.069026,43.085625,-88.069026,43.085625",
     "geom:latitude":43.085625,
     "geom:longitude":-88.069026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3695 N 126th St",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354414667,
-    "wof:lastmodified":1449066717,
+    "wof:lastmodified":1467089935,
     "wof:name":"Eltosch North America",
     "wof:parent_id":85870871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "printing"
     ]
 },
-  "bbox": [-88.069026,43.085625,-88.069026,43.085625],
-  "geometry": {"coordinates":[-88.069026,43.085625],"type":"Point"}
+  "bbox": [
+    -88.069026,
+    43.085625,
+    -88.069026,
+    43.085625
+],
+  "geometry": {"coordinates":[-88.06902599999999,43.085625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371060647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.362106,45.311498,-92.362106,45.311498",
     "geom:latitude":45.311498,
     "geom:longitude":-92.362106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Keller Ave N",
     "sg:city":"Amery",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":371060647,
-    "wof:lastmodified":1449050043,
+    "wof:lastmodified":1467089914,
     "wof:name":"Amci Computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "integrated"
     ]
 },
-  "bbox": [-92.362106,45.311498,-92.362106,45.311498],
+  "bbox": [
+    -92.362106,
+    45.311498,
+    -92.362106,
+    45.311498
+],
   "geometry": {"coordinates":[-92.362106,45.311498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337423099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.758052,44.971081,-92.758052,44.971081",
     "geom:latitude":44.971081,
     "geom:longitude":-92.758052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 1st St",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337423099,
-    "wof:lastmodified":1449027061,
+    "wof:lastmodified":1467089893,
     "wof:name":"Hans Hagen Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-92.758052,44.971081,-92.758052,44.971081],
-  "geometry": {"coordinates":[-92.758052,44.971081],"type":"Point"}
+  "bbox": [
+    -92.758052,
+    44.971081,
+    -92.758052,
+    44.971081
+],
+  "geometry": {"coordinates":[-92.75805200000001,44.971081],"type":"Point"}
 }

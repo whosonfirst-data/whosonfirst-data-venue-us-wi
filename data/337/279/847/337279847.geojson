@@ -2,13 +2,14 @@
   "id": 337279847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.046873,43.00836,-88.046873,43.00836",
     "geom:latitude":43.00836,
     "geom:longitude":-88.046873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1955 S 108th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337279847,
-    "wof:lastmodified":1449027319,
+    "wof:lastmodified":1467089894,
     "wof:name":"Suite 119 By Jackie",
     "wof:parent_id":85870861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-88.046873,43.00836,-88.046873,43.00836],
-  "geometry": {"coordinates":[-88.046873,43.00836],"type":"Point"}
+  "bbox": [
+    -88.046873,
+    43.00836,
+    -88.046873,
+    43.00836
+],
+  "geometry": {"coordinates":[-88.04687300000001,43.00836],"type":"Point"}
 }

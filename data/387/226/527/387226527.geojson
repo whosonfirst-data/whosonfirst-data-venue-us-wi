@@ -2,13 +2,14 @@
   "id": 387226527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.082749,42.943201,-88.082749,42.943201",
     "geom:latitude":42.943201,
     "geom:longitude":-88.082749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13460 W Edgewood Ave",
     "sg:city":"New Berlin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387226527,
-    "wof:lastmodified":1449058870,
+    "wof:lastmodified":1467089930,
     "wof:name":"Preuss Engineering Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-88.082749,42.943201,-88.082749,42.943201],
-  "geometry": {"coordinates":[-88.082749,42.943201],"type":"Point"}
+  "bbox": [
+    -88.082749,
+    42.943201,
+    -88.082749,
+    42.943201
+],
+  "geometry": {"coordinates":[-88.08274900000001,42.943201],"type":"Point"}
 }

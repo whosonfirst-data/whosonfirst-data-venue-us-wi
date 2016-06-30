@@ -2,13 +2,14 @@
   "id": 387230351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.131043,43.060947,-88.131043,43.060947",
     "geom:latitude":43.060947,
     "geom:longitude":-88.131043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17585 W North Ave",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387230351,
-    "wof:lastmodified":1449058931,
+    "wof:lastmodified":1467089930,
     "wof:name":"Corinne Reuter Skin Care",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skin"
     ]
 },
-  "bbox": [-88.131043,43.060947,-88.131043,43.060947],
-  "geometry": {"coordinates":[-88.131043,43.060947],"type":"Point"}
+  "bbox": [
+    -88.131043,
+    43.060947,
+    -88.131043,
+    43.060947
+],
+  "geometry": {"coordinates":[-88.13104300000001,43.060947],"type":"Point"}
 }

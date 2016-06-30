@@ -2,13 +2,14 @@
   "id": 186244255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.923891,43.218957,-87.923891,43.218957",
     "geom:latitude":43.218957,
     "geom:longitude":-87.923891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11010 N Port Washington Rd",
     "sg:city":"Thiensville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186244255,
-    "wof:lastmodified":1449051434,
+    "wof:lastmodified":1467089915,
     "wof:name":"Cascio Music Company Inc",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "musical"
     ]
 },
-  "bbox": [-87.923891,43.218957,-87.923891,43.218957],
+  "bbox": [
+    -87.923891,
+    43.218957,
+    -87.923891,
+    43.218957
+],
   "geometry": {"coordinates":[-87.923891,43.218957],"type":"Point"}
 }

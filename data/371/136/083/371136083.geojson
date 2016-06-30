@@ -2,13 +2,14 @@
   "id": 371136083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.109781,44.488443,-88.109781,44.488443",
     "geom:latitude":44.488443,
     "geom:longitude":-88.109781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1765 W Paulson Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371136083,
-    "wof:lastmodified":1449050125,
+    "wof:lastmodified":1467089914,
     "wof:name":"Best Machine and Repair Inc",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "welding"
     ]
 },
-  "bbox": [-88.109781,44.488443,-88.109781,44.488443],
+  "bbox": [
+    -88.109781,
+    44.488443,
+    -88.109781,
+    44.488443
+],
   "geometry": {"coordinates":[-88.109781,44.488443],"type":"Point"}
 }

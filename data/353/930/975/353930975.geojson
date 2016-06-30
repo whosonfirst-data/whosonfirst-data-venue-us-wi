@@ -2,13 +2,14 @@
   "id": 353930975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.735544,43.155909,-88.735544,43.155909",
     "geom:latitude":43.155909,
     "geom:longitude":-88.735544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8690 High Rd",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353930975,
-    "wof:lastmodified":1449019078,
+    "wof:lastmodified":1467089888,
     "wof:name":"Mid-State Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "mower"
     ]
 },
-  "bbox": [-88.735544,43.155909,-88.735544,43.155909],
+  "bbox": [
+    -88.735544,
+    43.155909,
+    -88.735544,
+    43.155909
+],
   "geometry": {"coordinates":[-88.735544,43.155909],"type":"Point"}
 }

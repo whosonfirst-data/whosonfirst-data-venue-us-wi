@@ -2,13 +2,14 @@
   "id": 370286255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.059274,42.886038,-88.059274,42.886038",
     "geom:latitude":42.886038,
     "geom:longitude":-88.059274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8780 S 116th St",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370286255,
-    "wof:lastmodified":1449029987,
+    "wof:lastmodified":1467089900,
     "wof:name":"K & T Marketing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [-88.059274,42.886038,-88.059274,42.886038],
+  "bbox": [
+    -88.059274,
+    42.886038,
+    -88.059274,
+    42.886038
+],
   "geometry": {"coordinates":[-88.059274,42.886038],"type":"Point"}
 }

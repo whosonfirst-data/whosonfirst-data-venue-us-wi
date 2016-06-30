@@ -2,13 +2,14 @@
   "id": 186333947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.866451,43.389915,-87.866451,43.389915",
     "geom:latitude":43.389915,
     "geom:longitude":-87.866451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E Pier St",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186333947,
-    "wof:lastmodified":1449052845,
+    "wof:lastmodified":1467089917,
     "wof:name":"Great Lakes Marine Sales",
     "wof:parent_id":85828641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.866451,43.389915,-87.866451,43.389915],
+  "bbox": [
+    -87.866451,
+    43.389915,
+    -87.866451,
+    43.389915
+],
   "geometry": {"coordinates":[-87.866451,43.389915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353990665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.939045,43.965706,-88.939045,43.965706",
     "geom:latitude":43.965706,
     "geom:longitude":-88.939045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 S Swetting St",
     "sg:city":"Berlin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353990665,
-    "wof:lastmodified":1449019953,
+    "wof:lastmodified":1467089890,
     "wof:name":"Olson Woodworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-88.939045,43.965706,-88.939045,43.965706],
-  "geometry": {"coordinates":[-88.939045,43.965706],"type":"Point"}
+  "bbox": [
+    -88.939045,
+    43.965706,
+    -88.939045,
+    43.965706
+],
+  "geometry": {"coordinates":[-88.93904499999999,43.965706],"type":"Point"}
 }

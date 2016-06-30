@@ -2,13 +2,14 @@
   "id": 169768111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.326107,43.068093,-89.326107,43.068093",
     "geom:latitude":43.068093,
     "geom:longitude":-89.326107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4701 Monona Dr",
     "sg:city":"Monona",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":169768111,
-    "wof:lastmodified":1449033957,
+    "wof:lastmodified":1467089908,
     "wof:name":"Tuff Dog Leather",
     "wof:parent_id":85878847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "good"
     ]
 },
-  "bbox": [-89.326107,43.068093,-89.326107,43.068093],
-  "geometry": {"coordinates":[-89.326107,43.068093],"type":"Point"}
+  "bbox": [
+    -89.326107,
+    43.068093,
+    -89.326107,
+    43.068093
+],
+  "geometry": {"coordinates":[-89.32610699999999,43.068093],"type":"Point"}
 }

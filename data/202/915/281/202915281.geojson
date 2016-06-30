@@ -2,13 +2,14 @@
   "id": 202915281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.023039,42.532339,-89.023039,42.532339",
     "geom:latitude":42.532339,
     "geom:longitude":-89.023039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Cranston Rd",
     "sg:city":"Beloit",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202915281,
-    "wof:lastmodified":1449062614,
+    "wof:lastmodified":1467089933,
     "wof:name":"Gentlemen Of The Press Inc",
     "wof:parent_id":85812915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plant"
     ]
 },
-  "bbox": [-89.023039,42.532339,-89.023039,42.532339],
+  "bbox": [
+    -89.023039,
+    42.532339,
+    -89.023039,
+    42.532339
+],
   "geometry": {"coordinates":[-89.023039,42.532339],"type":"Point"}
 }

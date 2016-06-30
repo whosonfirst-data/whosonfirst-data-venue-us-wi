@@ -2,13 +2,14 @@
   "id": 403768663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.570521,44.371054,-87.570521,44.371054",
     "geom:latitude":44.371054,
     "geom:longitude":-87.570521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3960 Co Rd G",
     "sg:city":"Kewaunee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403768663,
-    "wof:lastmodified":1449055145,
+    "wof:lastmodified":1467089919,
     "wof:name":"Joseph W Swagel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.570521,44.371054,-87.570521,44.371054],
+  "bbox": [
+    -87.570521,
+    44.371054,
+    -87.570521,
+    44.371054
+],
   "geometry": {"coordinates":[-87.570521,44.371054],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387901037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.868688,42.582279,-87.868688,42.582279",
     "geom:latitude":42.582279,
     "geom:longitude":-87.868688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5904 50th Ave",
     "sg:city":"Kenosha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387901037,
-    "wof:lastmodified":1449057704,
+    "wof:lastmodified":1467089926,
     "wof:name":"Longstaff Properties",
     "wof:parent_id":85852717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-87.868688,42.582279,-87.868688,42.582279],
-  "geometry": {"coordinates":[-87.868688,42.582279],"type":"Point"}
+  "bbox": [
+    -87.868688,
+    42.582279,
+    -87.868688,
+    42.582279
+],
+  "geometry": {"coordinates":[-87.86868800000001,42.582279],"type":"Point"}
 }

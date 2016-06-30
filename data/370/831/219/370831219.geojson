@@ -2,13 +2,14 @@
   "id": 370831219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.290336,43.325945,-88.290336,43.325945",
     "geom:latitude":43.325945,
     "geom:longitude":-88.290336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Kettle Moraine Dr S",
     "sg:city":"Slinger",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370831219,
-    "wof:lastmodified":1449031064,
+    "wof:lastmodified":1467089903,
     "wof:name":"Lineage Design",
     "wof:parent_id":85810007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-88.290336,43.325945,-88.290336,43.325945],
+  "bbox": [
+    -88.290336,
+    43.325945,
+    -88.290336,
+    43.325945
+],
   "geometry": {"coordinates":[-88.290336,43.325945],"type":"Point"}
 }

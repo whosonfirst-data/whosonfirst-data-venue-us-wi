@@ -2,13 +2,14 @@
   "id": 403805501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.957246,43.06054,-87.957246,43.06054",
     "geom:latitude":43.06054,
     "geom:longitude":-87.957246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3425 W North Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403805501,
-    "wof:lastmodified":1449055083,
+    "wof:lastmodified":1467089918,
     "wof:name":"Shayla's World",
     "wof:parent_id":85894495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery"
     ]
 },
-  "bbox": [-87.957246,43.06054,-87.957246,43.06054],
+  "bbox": [
+    -87.957246,
+    43.06054,
+    -87.957246,
+    43.06054
+],
   "geometry": {"coordinates":[-87.957246,43.06054],"type":"Point"}
 }

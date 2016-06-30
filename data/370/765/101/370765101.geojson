@@ -2,13 +2,14 @@
   "id": 370765101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.064287,43.147914,-88.064287,43.147914",
     "geom:latitude":43.147914,
     "geom:longitude":-88.064287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12211 W Good Hope Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370765101,
-    "wof:lastmodified":1449031029,
+    "wof:lastmodified":1467089903,
     "wof:name":"I T Staffing Solutions LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [-88.064287,43.147914,-88.064287,43.147914],
-  "geometry": {"coordinates":[-88.064287,43.147914],"type":"Point"}
+  "bbox": [
+    -88.064287,
+    43.147914,
+    -88.064287,
+    43.147914
+],
+  "geometry": {"coordinates":[-88.06428699999999,43.147914],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387903189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.91529,43.118567,-87.91529,43.118567",
     "geom:latitude":43.118567,
     "geom:longitude":-87.91529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 W Silver Spring Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387903189,
-    "wof:lastmodified":1449056340,
+    "wof:lastmodified":1467089922,
     "wof:name":"Whitefish Bay Cleaners & Tlrs",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-87.91529,43.118567,-87.91529,43.118567],
+  "bbox": [
+    -87.91529,
+    43.118567,
+    -87.91529,
+    43.118567
+],
   "geometry": {"coordinates":[-87.91529,43.118567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185815817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.700373,44.588699,-90.700373,44.588699",
     "geom:latitude":44.588699,
     "geom:longitude":-90.700373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4530 Sterling Ave",
     "sg:city":"Neillsville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185815817,
-    "wof:lastmodified":1449007407,
+    "wof:lastmodified":1467089884,
     "wof:name":"Keith Miatke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.700373,44.588699,-90.700373,44.588699],
+  "bbox": [
+    -90.700373,
+    44.588699,
+    -90.700373,
+    44.588699
+],
   "geometry": {"coordinates":[-90.700373,44.588699],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353657545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.801999,44.737938,-88.801999,44.737938",
     "geom:latitude":44.737938,
     "geom:longitude":-88.801999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10947 Riverside Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353657545,
-    "wof:lastmodified":1449018537,
+    "wof:lastmodified":1467089887,
     "wof:name":"Adams Meats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-88.801999,44.737938,-88.801999,44.737938],
+  "bbox": [
+    -88.801999,
+    44.737938,
+    -88.801999,
+    44.737938
+],
   "geometry": {"coordinates":[-88.801999,44.737938],"type":"Point"}
 }

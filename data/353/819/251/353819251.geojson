@@ -2,13 +2,14 @@
   "id": 353819251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.250229,43.832324,-91.250229,43.832324",
     "geom:latitude":43.832324,
     "geom:longitude":-91.250229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Island St",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353819251,
-    "wof:lastmodified":1449018855,
+    "wof:lastmodified":1467089887,
     "wof:name":"M & M Shop Supplies Sls & Svc",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hard"
     ]
 },
-  "bbox": [-91.250229,43.832324,-91.250229,43.832324],
+  "bbox": [
+    -91.250229,
+    43.832324,
+    -91.250229,
+    43.832324
+],
   "geometry": {"coordinates":[-91.250229,43.832324],"type":"Point"}
 }

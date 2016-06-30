@@ -2,13 +2,14 @@
   "id": 337328139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.558459,44.532031,-89.558459,44.532031",
     "geom:latitude":44.532031,
     "geom:longitude":-89.558459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2824 Stanley St",
     "sg:city":"Stevens Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337328139,
-    "wof:lastmodified":1449027425,
+    "wof:lastmodified":1467089894,
     "wof:name":"Old Towne Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-89.558459,44.532031,-89.558459,44.532031],
+  "bbox": [
+    -89.558459,
+    44.532031,
+    -89.558459,
+    44.532031
+],
   "geometry": {"coordinates":[-89.558459,44.532031],"type":"Point"}
 }

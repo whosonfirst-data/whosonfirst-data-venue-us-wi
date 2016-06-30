@@ -2,13 +2,14 @@
   "id": 404168581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.712504,43.70578,-87.712504,43.70578",
     "geom:latitude":43.70578,
     "geom:longitude":-87.712504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4225 Sommer Dr",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404168581,
-    "wof:lastmodified":1449039747,
+    "wof:lastmodified":1467089910,
     "wof:name":"Lps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "inspection"
     ]
 },
-  "bbox": [-87.712504,43.70578,-87.712504,43.70578],
+  "bbox": [
+    -87.712504,
+    43.70578,
+    -87.712504,
+    43.70578
+],
   "geometry": {"coordinates":[-87.712504,43.70578],"type":"Point"}
 }

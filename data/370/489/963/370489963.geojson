@@ -2,13 +2,14 @@
   "id": 370489963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.536044,45.118377,-92.536044,45.118377",
     "geom:latitude":45.118377,
     "geom:longitude":-92.536044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"471 S Arch Ave",
     "sg:city":"New Richmond",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370489963,
-    "wof:lastmodified":1449030917,
+    "wof:lastmodified":1467089903,
     "wof:name":"Goetzke Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.536044,45.118377,-92.536044,45.118377],
+  "bbox": [
+    -92.536044,
+    45.118377,
+    -92.536044,
+    45.118377
+],
   "geometry": {"coordinates":[-92.536044,45.118377],"type":"Point"}
 }

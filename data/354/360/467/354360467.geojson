@@ -2,13 +2,14 @@
   "id": 354360467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.431779,44.781813,-91.431779,44.781813",
     "geom:latitude":44.781813,
     "geom:longitude":-91.431779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3529 Gateway Dr",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354360467,
-    "wof:lastmodified":1449067247,
+    "wof:lastmodified":1467089937,
     "wof:name":"Gtj Enterprises LLC",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.431779,44.781813,-91.431779,44.781813],
-  "geometry": {"coordinates":[-91.431779,44.781813],"type":"Point"}
+  "bbox": [
+    -91.431779,
+    44.781813,
+    -91.431779,
+    44.781813
+],
+  "geometry": {"coordinates":[-91.43177900000001,44.781813],"type":"Point"}
 }

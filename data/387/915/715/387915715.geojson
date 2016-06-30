@@ -2,13 +2,14 @@
   "id": 387915715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.430955,43.058747,-88.430955,43.058747",
     "geom:latitude":43.058747,
     "geom:longitude":-88.430955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34422 Delafield Rd",
     "sg:city":"Oconomowoc",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387915715,
-    "wof:lastmodified":1449059884,
+    "wof:lastmodified":1467089933,
     "wof:name":"Channel Inn Corporation",
     "wof:parent_id":85854741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-88.430955,43.058747,-88.430955,43.058747],
+  "bbox": [
+    -88.430955,
+    43.058747,
+    -88.430955,
+    43.058747
+],
   "geometry": {"coordinates":[-88.430955,43.058747],"type":"Point"}
 }

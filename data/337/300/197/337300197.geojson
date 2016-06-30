@@ -2,13 +2,14 @@
   "id": 337300197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.64788,44.233223,-87.64788,44.233223",
     "geom:latitude":44.233223,
     "geom:longitude":-87.64788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Church St",
     "sg:city":"Mishicot",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337300197,
-    "wof:lastmodified":1449027411,
+    "wof:lastmodified":1467089894,
     "wof:name":"Anderle Building Center Inc",
     "wof:parent_id":85827947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.64788,44.233223,-87.64788,44.233223],
+  "bbox": [
+    -87.64788,
+    44.233223,
+    -87.64788,
+    44.233223
+],
   "geometry": {"coordinates":[-87.64788,44.233223],"type":"Point"}
 }

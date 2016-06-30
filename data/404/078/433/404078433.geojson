@@ -2,13 +2,14 @@
   "id": 404078433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.074544,43.10053,-88.074544,43.10053",
     "geom:latitude":43.10053,
     "geom:longitude":-88.074544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13150 W Glendale Ave",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404078433,
-    "wof:lastmodified":1449040129,
+    "wof:lastmodified":1467089911,
     "wof:name":"Herb Fitzgerald Co Inc",
     "wof:parent_id":85870815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [-88.074544,43.10053,-88.074544,43.10053],
+  "bbox": [
+    -88.074544,
+    43.10053,
+    -88.074544,
+    43.10053
+],
   "geometry": {"coordinates":[-88.074544,43.10053],"type":"Point"}
 }

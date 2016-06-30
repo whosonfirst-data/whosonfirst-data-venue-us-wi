@@ -2,13 +2,14 @@
   "id": 403917731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.743642,43.488474,-88.743642,43.488474",
     "geom:latitude":43.488474,
     "geom:longitude":-88.743642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8076 Butternut Rd",
     "sg:city":"Burnett",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403917731,
-    "wof:lastmodified":1449055791,
+    "wof:lastmodified":1467089920,
     "wof:name":"Kit-Tell Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.743642,43.488474,-88.743642,43.488474],
-  "geometry": {"coordinates":[-88.743642,43.488474],"type":"Point"}
+  "bbox": [
+    -88.743642,
+    43.488474,
+    -88.743642,
+    43.488474
+],
+  "geometry": {"coordinates":[-88.74364199999999,43.488474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370951325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.412698,45.637898,-89.412698,45.637898",
     "geom:latitude":45.637898,
     "geom:longitude":-89.412698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 W Davenport St",
     "sg:city":"Rhinelander",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370951325,
-    "wof:lastmodified":1449029221,
+    "wof:lastmodified":1467089898,
     "wof:name":"Associated Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.412698,45.637898,-89.412698,45.637898],
-  "geometry": {"coordinates":[-89.412698,45.637898],"type":"Point"}
+  "bbox": [
+    -89.412698,
+    45.637898,
+    -89.412698,
+    45.637898
+],
+  "geometry": {"coordinates":[-89.41269800000001,45.637898],"type":"Point"}
 }

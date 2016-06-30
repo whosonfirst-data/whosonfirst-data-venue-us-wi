@@ -2,13 +2,14 @@
   "id": 403896793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.995888,43.002959,-87.995888,43.002959",
     "geom:latitude":43.002959,
     "geom:longitude":-87.995888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6718 W Lincoln Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":403896793,
-    "wof:lastmodified":1449055120,
+    "wof:lastmodified":1467089918,
     "wof:name":"Image Apparel Plus LLC",
     "wof:parent_id":85870937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "uniform"
     ]
 },
-  "bbox": [-87.995888,43.002959,-87.995888,43.002959],
-  "geometry": {"coordinates":[-87.995888,43.002959],"type":"Point"}
+  "bbox": [
+    -87.995888,
+    43.002959,
+    -87.995888,
+    43.002959
+],
+  "geometry": {"coordinates":[-87.99588799999999,43.002959],"type":"Point"}
 }

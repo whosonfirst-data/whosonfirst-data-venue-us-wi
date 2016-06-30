@@ -2,13 +2,14 @@
   "id": 337309327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.707348,43.296467,-89.707348,43.296467",
     "geom:latitude":43.296467,
     "geom:longitude":-89.707348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14238 Jensen Dr",
     "sg:city":"Prairie Du Sac",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337309327,
-    "wof:lastmodified":1449027103,
+    "wof:lastmodified":1467089893,
     "wof:name":"Evert John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-89.707348,43.296467,-89.707348,43.296467],
+  "bbox": [
+    -89.707348,
+    43.296467,
+    -89.707348,
+    43.296467
+],
   "geometry": {"coordinates":[-89.707348,43.296467],"type":"Point"}
 }

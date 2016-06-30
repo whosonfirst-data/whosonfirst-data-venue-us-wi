@@ -2,13 +2,14 @@
   "id": 387366911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.923987,43.228008,-87.923987,43.228008",
     "geom:latitude":43.228008,
     "geom:longitude":-87.923987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11514 N Port Washington Rd",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387366911,
-    "wof:lastmodified":1449058888,
+    "wof:lastmodified":1467089930,
     "wof:name":"Destination Wisconsin",
     "wof:parent_id":85829269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "event"
     ]
 },
-  "bbox": [-87.923987,43.228008,-87.923987,43.228008],
+  "bbox": [
+    -87.923987,
+    43.228008,
+    -87.923987,
+    43.228008
+],
   "geometry": {"coordinates":[-87.923987,43.228008],"type":"Point"}
 }

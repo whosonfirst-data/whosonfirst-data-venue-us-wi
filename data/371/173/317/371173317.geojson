@@ -2,13 +2,14 @@
   "id": 371173317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.488691,45.101353,-91.488691,45.101353",
     "geom:latitude":45.101353,
     "geom:longitude":-91.488691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 15th Ave",
     "sg:city":"Bloomer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371173317,
-    "wof:lastmodified":1449049242,
+    "wof:lastmodified":1467089912,
     "wof:name":"Re Max United Plus",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.488691,45.101353,-91.488691,45.101353],
+  "bbox": [
+    -91.488691,
+    45.101353,
+    -91.488691,
+    45.101353
+],
   "geometry": {"coordinates":[-91.488691,45.101353],"type":"Point"}
 }

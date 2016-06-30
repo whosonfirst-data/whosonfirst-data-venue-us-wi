@@ -2,13 +2,14 @@
   "id": 387010455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.77527,43.633802,-89.77527,43.633802",
     "geom:latitude":43.633802,
     "geom:longitude":-89.77527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Illinois Ave",
     "sg:city":"Wisconsin Dells",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387010455,
-    "wof:lastmodified":1449058483,
+    "wof:lastmodified":1467089928,
     "wof:name":"Dells Boat Tours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sightseeing"
     ]
 },
-  "bbox": [-89.77527,43.633802,-89.77527,43.633802],
-  "geometry": {"coordinates":[-89.77527,43.633802],"type":"Point"}
+  "bbox": [
+    -89.77527,
+    43.633802,
+    -89.77527,
+    43.633802
+],
+  "geometry": {"coordinates":[-89.77527000000001,43.633802],"type":"Point"}
 }

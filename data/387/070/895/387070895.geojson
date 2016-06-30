@@ -2,13 +2,14 @@
   "id": 387070895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.988627,43.019479,-87.988627,43.019479",
     "geom:latitude":43.019479,
     "geom:longitude":-87.988627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 S 61st St",
     "sg:city":"West Allis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387070895,
-    "wof:lastmodified":1449057957,
+    "wof:lastmodified":1467089926,
     "wof:name":"West Allis Head Start-Sdc",
     "wof:parent_id":85870923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "school"
     ]
 },
-  "bbox": [-87.988627,43.019479,-87.988627,43.019479],
-  "geometry": {"coordinates":[-87.988627,43.019479],"type":"Point"}
+  "bbox": [
+    -87.988627,
+    43.019479,
+    -87.988627,
+    43.019479
+],
+  "geometry": {"coordinates":[-87.98862699999999,43.019479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387892149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.304432,43.128013,-89.304432,43.128013",
     "geom:latitude":43.128013,
     "geom:longitude":-89.304432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 E Towne Mall",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387892149,
-    "wof:lastmodified":1449056663,
+    "wof:lastmodified":1467089923,
     "wof:name":"Rave 295",
     "wof:parent_id":85878851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-89.304432,43.128013,-89.304432,43.128013],
-  "geometry": {"coordinates":[-89.304432,43.128013],"type":"Point"}
+  "bbox": [
+    -89.304432,
+    43.128013,
+    -89.304432,
+    43.128013
+],
+  "geometry": {"coordinates":[-89.30443200000001,43.128013],"type":"Point"}
 }

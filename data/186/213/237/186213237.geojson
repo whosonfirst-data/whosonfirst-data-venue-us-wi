@@ -2,13 +2,14 @@
   "id": 186213237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.931273,44.876433,-91.931273,44.876433",
     "geom:latitude":44.876433,
     "geom:longitude":-91.931273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Main St W",
     "sg:city":"Menomonie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186213237,
-    "wof:lastmodified":1449050283,
+    "wof:lastmodified":1467089914,
     "wof:name":"Acoustic Cafe Inc",
     "wof:parent_id":85837813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-91.931273,44.876433,-91.931273,44.876433],
+  "bbox": [
+    -91.931273,
+    44.876433,
+    -91.931273,
+    44.876433
+],
   "geometry": {"coordinates":[-91.931273,44.876433],"type":"Point"}
 }

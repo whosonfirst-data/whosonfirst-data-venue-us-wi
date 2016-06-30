@@ -2,13 +2,14 @@
   "id": 404139001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.238657,43.849138,-91.238657,43.849138",
     "geom:latitude":43.849138,
     "geom:longitude":-91.238657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 Gohres St",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404139001,
-    "wof:lastmodified":1449039132,
+    "wof:lastmodified":1467089909,
     "wof:name":"Everything Collectibles",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-91.238657,43.849138,-91.238657,43.849138],
+  "bbox": [
+    -91.238657,
+    43.849138,
+    -91.238657,
+    43.849138
+],
   "geometry": {"coordinates":[-91.238657,43.849138],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371132873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.427758,45.068419,-89.427758,45.068419",
     "geom:latitude":45.068419,
     "geom:longitude":-89.427758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11508 Co Rd Q",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371132873,
-    "wof:lastmodified":1449049515,
+    "wof:lastmodified":1467089913,
     "wof:name":"Weden Dairy Farm",
     "wof:parent_id":85868293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.427758,45.068419,-89.427758,45.068419],
+  "bbox": [
+    -89.427758,
+    45.068419,
+    -89.427758,
+    45.068419
+],
   "geometry": {"coordinates":[-89.427758,45.068419],"type":"Point"}
 }

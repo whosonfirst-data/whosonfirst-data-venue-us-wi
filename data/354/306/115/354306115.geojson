@@ -2,13 +2,14 @@
   "id": 354306115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.915501,43.064819,-87.915501,43.064819",
     "geom:latitude":43.064819,
     "geom:longitude":-87.915501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2550 N 4th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354306115,
-    "wof:lastmodified":1449067596,
+    "wof:lastmodified":1467089938,
     "wof:name":"Kids For Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.915501,43.064819,-87.915501,43.064819],
-  "geometry": {"coordinates":[-87.915501,43.064819],"type":"Point"}
+  "bbox": [
+    -87.915501,
+    43.064819,
+    -87.915501,
+    43.064819
+],
+  "geometry": {"coordinates":[-87.91550100000001,43.064819],"type":"Point"}
 }

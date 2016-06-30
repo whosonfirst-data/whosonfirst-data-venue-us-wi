@@ -2,13 +2,14 @@
   "id": 354181109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.119305,44.428747,-88.119305,44.428747",
     "geom:latitude":44.428747,
     "geom:longitude":-88.119305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 Nimitz Dr",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":354181109,
-    "wof:lastmodified":1449066977,
+    "wof:lastmodified":1467089936,
     "wof:name":"Orde Advertising Inc",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.119305,44.428747,-88.119305,44.428747],
+  "bbox": [
+    -88.119305,
+    44.428747,
+    -88.119305,
+    44.428747
+],
   "geometry": {"coordinates":[-88.119305,44.428747],"type":"Point"}
 }

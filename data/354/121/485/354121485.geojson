@@ -2,13 +2,14 @@
   "id": 354121485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.926998,43.218892,-87.926998,43.218892",
     "geom:latitude":43.218892,
     "geom:longitude":-87.926998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 W Market St",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354121485,
-    "wof:lastmodified":1449067262,
+    "wof:lastmodified":1467089937,
     "wof:name":"Morgan Dempsey Capital MGT LLC",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "financial"
     ]
 },
-  "bbox": [-87.926998,43.218892,-87.926998,43.218892],
+  "bbox": [
+    -87.926998,
+    43.218892,
+    -87.926998,
+    43.218892
+],
   "geometry": {"coordinates":[-87.926998,43.218892],"type":"Point"}
 }

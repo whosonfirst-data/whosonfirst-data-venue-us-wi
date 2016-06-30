@@ -2,13 +2,14 @@
   "id": 370430005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.011529,44.518112,-88.011529,44.518112",
     "geom:latitude":44.518112,
     "geom:longitude":-88.011529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 N Adams St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370430005,
-    "wof:lastmodified":1449031233,
+    "wof:lastmodified":1467089904,
     "wof:name":"Service Credit Union",
     "wof:parent_id":85877935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.011529,44.518112,-88.011529,44.518112],
+  "bbox": [
+    -88.011529,
+    44.518112,
+    -88.011529,
+    44.518112
+],
   "geometry": {"coordinates":[-88.011529,44.518112],"type":"Point"}
 }

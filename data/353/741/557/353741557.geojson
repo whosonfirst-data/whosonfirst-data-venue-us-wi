@@ -2,13 +2,14 @@
   "id": 353741557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.565898,44.01612,-88.565898,44.01612",
     "geom:latitude":44.01612,
     "geom:longitude":-88.565898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Guenther St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353741557,
-    "wof:lastmodified":1449018382,
+    "wof:lastmodified":1467089886,
     "wof:name":"J & M Homes LLC",
     "wof:parent_id":85851167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.565898,44.01612,-88.565898,44.01612],
+  "bbox": [
+    -88.565898,
+    44.01612,
+    -88.565898,
+    44.01612
+],
   "geometry": {"coordinates":[-88.565898,44.01612],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371116725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.95115,43.844202,-88.95115,43.844202",
     "geom:latitude":43.844202,
     "geom:longitude":-88.95115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 South St",
     "sg:city":"Green Lake",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371116725,
-    "wof:lastmodified":1449049176,
+    "wof:lastmodified":1467089912,
     "wof:name":"Defiance Health & Fitness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.95115,43.844202,-88.95115,43.844202],
+  "bbox": [
+    -88.95115,
+    43.844202,
+    -88.95115,
+    43.844202
+],
   "geometry": {"coordinates":[-88.95115,43.844202],"type":"Point"}
 }

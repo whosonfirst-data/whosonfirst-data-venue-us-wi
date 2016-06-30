@@ -2,13 +2,14 @@
   "id": 337312853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.107304,43.080016,-88.107304,43.080016",
     "geom:latitude":43.080016,
     "geom:longitude":-88.107304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3380 Anders Ln",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337312853,
-    "wof:lastmodified":1449027361,
+    "wof:lastmodified":1467089894,
     "wof:name":"Woods Co of Madison The Inc",
     "wof:parent_id":85832419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.107304,43.080016,-88.107304,43.080016],
+  "bbox": [
+    -88.107304,
+    43.080016,
+    -88.107304,
+    43.080016
+],
   "geometry": {"coordinates":[-88.107304,43.080016],"type":"Point"}
 }

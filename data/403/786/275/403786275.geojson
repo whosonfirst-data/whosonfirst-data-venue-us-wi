@@ -2,13 +2,14 @@
   "id": 403786275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.431891,43.741386,-88.431891,43.741386",
     "geom:latitude":43.741386,
     "geom:longitude":-88.431891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4949 Martin Rd",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403786275,
-    "wof:lastmodified":1449054799,
+    "wof:lastmodified":1467089918,
     "wof:name":"Two Bits Horse Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-88.431891,43.741386,-88.431891,43.741386],
-  "geometry": {"coordinates":[-88.431891,43.741386],"type":"Point"}
+  "bbox": [
+    -88.431891,
+    43.741386,
+    -88.431891,
+    43.741386
+],
+  "geometry": {"coordinates":[-88.43189099999999,43.741386],"type":"Point"}
 }

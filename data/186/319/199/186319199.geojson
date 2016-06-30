@@ -2,13 +2,14 @@
   "id": 186319199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.865264,44.091636,-87.865264,44.091636",
     "geom:latitude":44.091636,
     "geom:longitude":-87.865264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13926 Rockland St",
     "sg:city":"Reedsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186319199,
-    "wof:lastmodified":1449051467,
+    "wof:lastmodified":1467089915,
     "wof:name":"Dennis R Lehman",
     "wof:parent_id":85827947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.865264,44.091636,-87.865264,44.091636],
+  "bbox": [
+    -87.865264,
+    44.091636,
+    -87.865264,
+    44.091636
+],
   "geometry": {"coordinates":[-87.865264,44.091636],"type":"Point"}
 }

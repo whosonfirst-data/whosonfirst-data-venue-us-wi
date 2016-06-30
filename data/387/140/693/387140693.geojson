@@ -2,13 +2,14 @@
   "id": 387140693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.077034,43.793443,-90.077034,43.793443",
     "geom:latitude":43.793443,
     "geom:longitude":-90.077034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 State Hwy 82",
     "sg:city":"Mauston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387140693,
-    "wof:lastmodified":1449056651,
+    "wof:lastmodified":1467089923,
     "wof:name":"Null's Quik Lube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [-90.077034,43.793443,-90.077034,43.793443],
+  "bbox": [
+    -90.077034,
+    43.793443,
+    -90.077034,
+    43.793443
+],
   "geometry": {"coordinates":[-90.077034,43.793443],"type":"Point"}
 }

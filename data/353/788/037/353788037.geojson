@@ -2,13 +2,14 @@
   "id": 353788037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.040498,43.833319,-90.040498,43.833319",
     "geom:latitude":43.833319,
     "geom:longitude":-90.040498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5247 16th Ave",
     "sg:city":"Mauston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353788037,
-    "wof:lastmodified":1449019583,
+    "wof:lastmodified":1467089889,
     "wof:name":"Northern Customs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-90.040498,43.833319,-90.040498,43.833319],
+  "bbox": [
+    -90.040498,
+    43.833319,
+    -90.040498,
+    43.833319
+],
   "geometry": {"coordinates":[-90.040498,43.833319],"type":"Point"}
 }

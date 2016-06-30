@@ -2,13 +2,14 @@
   "id": 370271063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.216502,45.13141,-87.216502,45.13141",
     "geom:latitude":45.13141,
     "geom:longitude":-87.216502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3711 State Hwy 42",
     "sg:city":"Fish Creek",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370271063,
-    "wof:lastmodified":1449030852,
+    "wof:lastmodified":1467089903,
     "wof:name":"North Shore Medical Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.216502,45.13141,-87.216502,45.13141],
-  "geometry": {"coordinates":[-87.216502,45.13141],"type":"Point"}
+  "bbox": [
+    -87.216502,
+    45.13141,
+    -87.216502,
+    45.13141
+],
+  "geometry": {"coordinates":[-87.21650200000001,45.13141],"type":"Point"}
 }

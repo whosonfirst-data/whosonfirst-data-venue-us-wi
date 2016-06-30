@@ -2,13 +2,14 @@
   "id": 387496443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.172272,45.060563,-92.172272,45.060563",
     "geom:latitude":45.060563,
     "geom:longitude":-92.172272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 1st St",
     "sg:city":"Glenwood City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387496443,
-    "wof:lastmodified":1449059353,
+    "wof:lastmodified":1467089931,
     "wof:name":"Everts Funeral Home LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "home"
     ]
 },
-  "bbox": [-92.172272,45.060563,-92.172272,45.060563],
-  "geometry": {"coordinates":[-92.172272,45.060563],"type":"Point"}
+  "bbox": [
+    -92.172272,
+    45.060563,
+    -92.172272,
+    45.060563
+],
+  "geometry": {"coordinates":[-92.17227200000001,45.060563],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387623167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.127067,43.089915,-88.127067,43.089915",
     "geom:latitude":43.089915,
     "geom:longitude":-88.127067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17495 W Capitol Dr",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387623167,
-    "wof:lastmodified":1449058781,
+    "wof:lastmodified":1467089929,
     "wof:name":"Equicredit",
     "wof:parent_id":85832419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-88.127067,43.089915,-88.127067,43.089915],
+  "bbox": [
+    -88.127067,
+    43.089915,
+    -88.127067,
+    43.089915
+],
   "geometry": {"coordinates":[-88.127067,43.089915],"type":"Point"}
 }

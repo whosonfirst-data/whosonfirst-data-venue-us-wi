@@ -2,13 +2,14 @@
   "id": 354052405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.224226,45.077884,-89.224226,45.077884",
     "geom:latitude":45.077884,
     "geom:longitude":-89.224226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3228 Co Rd Hh",
     "sg:city":"Antigo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354052405,
-    "wof:lastmodified":1449066682,
+    "wof:lastmodified":1467089935,
     "wof:name":"Catalog Outlet of Merrill",
     "wof:parent_id":85868293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "house"
     ]
 },
-  "bbox": [-89.224226,45.077884,-89.224226,45.077884],
+  "bbox": [
+    -89.224226,
+    45.077884,
+    -89.224226,
+    45.077884
+],
   "geometry": {"coordinates":[-89.224226,45.077884],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370442567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.022097,43.060598,-88.022097,43.060598",
     "geom:latitude":43.060598,
     "geom:longitude":-88.022097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8730 W North Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370442567,
-    "wof:lastmodified":1449030579,
+    "wof:lastmodified":1467089902,
     "wof:name":"Rite Type Equipment Co Inc",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-88.022097,43.060598,-88.022097,43.060598],
+  "bbox": [
+    -88.022097,
+    43.060598,
+    -88.022097,
+    43.060598
+],
   "geometry": {"coordinates":[-88.022097,43.060598],"type":"Point"}
 }

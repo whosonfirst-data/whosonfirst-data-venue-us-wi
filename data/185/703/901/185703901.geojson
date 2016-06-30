@@ -2,13 +2,14 @@
   "id": 185703901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.048532,43.902995,-90.048532,43.902995",
     "geom:latitude":43.902995,
     "geom:longitude":-90.048532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7146 Godfrey Dr",
     "sg:city":"Mauston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185703901,
-    "wof:lastmodified":1449007096,
+    "wof:lastmodified":1467089884,
     "wof:name":"Cruz The Castle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "boat"
     ]
 },
-  "bbox": [-90.048532,43.902995,-90.048532,43.902995],
-  "geometry": {"coordinates":[-90.048532,43.902995],"type":"Point"}
+  "bbox": [
+    -90.048532,
+    43.902995,
+    -90.048532,
+    43.902995
+],
+  "geometry": {"coordinates":[-90.04853199999999,43.902995],"type":"Point"}
 }

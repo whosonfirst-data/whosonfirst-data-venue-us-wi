@@ -2,13 +2,14 @@
   "id": 185928611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.85506,42.654045,-87.85506,42.654045",
     "geom:latitude":42.654045,
     "geom:longitude":-87.85506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3734 7th St",
     "sg:city":"Kenosha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185928611,
-    "wof:lastmodified":1449007994,
+    "wof:lastmodified":1467089885,
     "wof:name":"M F Deguzman MD PC",
     "wof:parent_id":85810813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-87.85506,42.654045,-87.85506,42.654045],
-  "geometry": {"coordinates":[-87.85506,42.654045],"type":"Point"}
+  "bbox": [
+    -87.85506,
+    42.654045,
+    -87.85506,
+    42.654045
+],
+  "geometry": {"coordinates":[-87.85505999999999,42.654045],"type":"Point"}
 }

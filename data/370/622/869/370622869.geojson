@@ -2,13 +2,14 @@
   "id": 370622869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.021229,44.517116,-88.021229,44.517116",
     "geom:latitude":44.517116,
     "geom:longitude":-88.021229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 N Broadway",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370622869,
-    "wof:lastmodified":1449031860,
+    "wof:lastmodified":1467089905,
     "wof:name":"Lox Stock n Bagel",
     "wof:parent_id":85877941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "deli"
     ]
 },
-  "bbox": [-88.021229,44.517116,-88.021229,44.517116],
-  "geometry": {"coordinates":[-88.021229,44.517116],"type":"Point"}
+  "bbox": [
+    -88.021229,
+    44.517116,
+    -88.021229,
+    44.517116
+],
+  "geometry": {"coordinates":[-88.02122900000001,44.517116],"type":"Point"}
 }

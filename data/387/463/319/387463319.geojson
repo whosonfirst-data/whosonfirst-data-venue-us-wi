@@ -2,13 +2,14 @@
   "id": 387463319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.644362,44.33556,-88.644362,44.33556",
     "geom:latitude":44.33556,
     "geom:longitude":-88.644362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 W Main St",
     "sg:city":"Hortonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387463319,
-    "wof:lastmodified":1449058756,
+    "wof:lastmodified":1467089929,
     "wof:name":"Heritage Craftsman",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-88.644362,44.33556,-88.644362,44.33556],
+  "bbox": [
+    -88.644362,
+    44.33556,
+    -88.644362,
+    44.33556
+],
   "geometry": {"coordinates":[-88.644362,44.33556],"type":"Point"}
 }

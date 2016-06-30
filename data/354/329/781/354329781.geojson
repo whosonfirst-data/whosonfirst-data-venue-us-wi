@@ -2,13 +2,14 @@
   "id": 354329781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.045979,44.517431,-88.045979,44.517431",
     "geom:latitude":44.517431,
     "geom:longitude":-88.045979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1136 W Mason St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354329781,
-    "wof:lastmodified":1449066377,
+    "wof:lastmodified":1467089934,
     "wof:name":"Neat 'n Clean",
     "wof:parent_id":85877941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "floor"
     ]
 },
-  "bbox": [-88.045979,44.517431,-88.045979,44.517431],
+  "bbox": [
+    -88.045979,
+    44.517431,
+    -88.045979,
+    44.517431
+],
   "geometry": {"coordinates":[-88.045979,44.517431],"type":"Point"}
 }

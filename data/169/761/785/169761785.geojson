@@ -2,13 +2,14 @@
   "id": 169761785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.63284,42.815271,-89.63284,42.815271",
     "geom:latitude":42.815271,
     "geom:longitude":-89.63284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Railroad St",
     "sg:city":"New Glarus",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169761785,
-    "wof:lastmodified":1449035178,
+    "wof:lastmodified":1467089909,
     "wof:name":"Cobblers II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "boot"
     ]
 },
-  "bbox": [-89.63284,42.815271,-89.63284,42.815271],
+  "bbox": [
+    -89.63284,
+    42.815271,
+    -89.63284,
+    42.815271
+],
   "geometry": {"coordinates":[-89.63284,42.815271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370588683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.012918,42.890699,-89.012918,42.890699",
     "geom:latitude":42.890699,
     "geom:longitude":-89.012918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9593 State Hwy 106",
     "sg:city":"Edgerton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370588683,
-    "wof:lastmodified":1449031813,
+    "wof:lastmodified":1467089905,
     "wof:name":"Select Woodworks By T M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-89.012918,42.890699,-89.012918,42.890699],
+  "bbox": [
+    -89.012918,
+    42.890699,
+    -89.012918,
+    42.890699
+],
   "geometry": {"coordinates":[-89.012918,42.890699],"type":"Point"}
 }

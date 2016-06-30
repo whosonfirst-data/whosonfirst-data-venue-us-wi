@@ -2,13 +2,14 @@
   "id": 337348763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.960013,43.845558,-88.960013,43.845558",
     "geom:latitude":43.845558,
     "geom:longitude":-88.960013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 Mill St",
     "sg:city":"Green Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337348763,
-    "wof:lastmodified":1449026976,
+    "wof:lastmodified":1467089892,
     "wof:name":"Raspberry Gables/Blueberry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-88.960013,43.845558,-88.960013,43.845558],
+  "bbox": [
+    -88.960013,
+    43.845558,
+    -88.960013,
+    43.845558
+],
   "geometry": {"coordinates":[-88.960013,43.845558],"type":"Point"}
 }

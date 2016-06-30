@@ -2,13 +2,14 @@
   "id": 337362395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.73227,45.511821,-91.73227,45.511821",
     "geom:latitude":45.511821,
     "geom:longitude":-91.73227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"939 Lakeshore Dr",
     "sg:city":"Rice Lake",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337362395,
-    "wof:lastmodified":1449027483,
+    "wof:lastmodified":1467089895,
     "wof:name":"Grampas Train Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dwelling"
     ]
 },
-  "bbox": [-91.73227,45.511821,-91.73227,45.511821],
+  "bbox": [
+    -91.73227,
+    45.511821,
+    -91.73227,
+    45.511821
+],
   "geometry": {"coordinates":[-91.73227,45.511821],"type":"Point"}
 }

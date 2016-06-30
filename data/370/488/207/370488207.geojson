@@ -2,13 +2,14 @@
   "id": 370488207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.347263,43.105149,-88.347263,43.105149",
     "geom:latitude":43.105149,
     "geom:longitude":-88.347263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 North Ave",
     "sg:city":"Hartland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370488207,
-    "wof:lastmodified":1449032383,
+    "wof:lastmodified":1467089907,
     "wof:name":"Kira Rolbiecki",
     "wof:parent_id":85808383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.347263,43.105149,-88.347263,43.105149],
+  "bbox": [
+    -88.347263,
+    43.105149,
+    -88.347263,
+    43.105149
+],
   "geometry": {"coordinates":[-88.347263,43.105149],"type":"Point"}
 }

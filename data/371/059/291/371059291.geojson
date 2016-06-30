@@ -2,13 +2,14 @@
   "id": 371059291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.633629,44.857791,-92.633629,44.857791",
     "geom:latitude":44.857791,
     "geom:longitude":-92.633629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 S Falls St",
     "sg:city":"River Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371059291,
-    "wof:lastmodified":1449049293,
+    "wof:lastmodified":1467089912,
     "wof:name":"Guenther Schramm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.633629,44.857791,-92.633629,44.857791],
+  "bbox": [
+    -92.633629,
+    44.857791,
+    -92.633629,
+    44.857791
+],
   "geometry": {"coordinates":[-92.633629,44.857791],"type":"Point"}
 }

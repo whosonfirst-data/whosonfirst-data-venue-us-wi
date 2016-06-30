@@ -2,13 +2,14 @@
   "id": 353726691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.146488,44.780081,-92.146488,44.780081",
     "geom:latitude":44.780081,
     "geom:longitude":-92.146488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 N Public St",
     "sg:city":"Elmwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353726691,
-    "wof:lastmodified":1449019987,
+    "wof:lastmodified":1467089890,
     "wof:name":"Elm Wood Rock Elm United Meth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-92.146488,44.780081,-92.146488,44.780081],
-  "geometry": {"coordinates":[-92.146488,44.780081],"type":"Point"}
+  "bbox": [
+    -92.146488,
+    44.780081,
+    -92.146488,
+    44.780081
+],
+  "geometry": {"coordinates":[-92.14648800000001,44.780081],"type":"Point"}
 }

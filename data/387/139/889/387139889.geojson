@@ -2,13 +2,14 @@
   "id": 387139889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.956414,43.109032,-87.956414,43.109032",
     "geom:latitude":43.109032,
     "geom:longitude":-87.956414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5110 N 35th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387139889,
-    "wof:lastmodified":1449056466,
+    "wof:lastmodified":1467089922,
     "wof:name":"Stainless Foundry & Engrg",
     "wof:parent_id":85870907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "investment"
     ]
 },
-  "bbox": [-87.956414,43.109032,-87.956414,43.109032],
+  "bbox": [
+    -87.956414,
+    43.109032,
+    -87.956414,
+    43.109032
+],
   "geometry": {"coordinates":[-87.956414,43.109032],"type":"Point"}
 }

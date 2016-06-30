@@ -2,13 +2,14 @@
   "id": 387938683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.335597,43.056758,-89.335597,43.056758",
     "geom:latitude":43.056758,
     "geom:longitude":-89.335597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Owen Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387938683,
-    "wof:lastmodified":1449058943,
+    "wof:lastmodified":1467089930,
     "wof:name":"Edward G Davison Trust",
     "wof:parent_id":85878883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-89.335597,43.056758,-89.335597,43.056758],
-  "geometry": {"coordinates":[-89.335597,43.056758],"type":"Point"}
+  "bbox": [
+    -89.335597,
+    43.056758,
+    -89.335597,
+    43.056758
+],
+  "geometry": {"coordinates":[-89.33559700000001,43.056758],"type":"Point"}
 }

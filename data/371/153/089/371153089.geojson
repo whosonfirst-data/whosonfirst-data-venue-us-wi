@@ -2,13 +2,14 @@
   "id": 371153089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.841712,44.379502,-88.841712,44.379502",
     "geom:latitude":44.379502,
     "geom:longitude":-88.841712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3898 Loss Rd",
     "sg:city":"Weyauwega",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371153089,
-    "wof:lastmodified":1449049775,
+    "wof:lastmodified":1467089913,
     "wof:name":"Riverview Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.841712,44.379502,-88.841712,44.379502],
+  "bbox": [
+    -88.841712,
+    44.379502,
+    -88.841712,
+    44.379502
+],
   "geometry": {"coordinates":[-88.841712,44.379502],"type":"Point"}
 }

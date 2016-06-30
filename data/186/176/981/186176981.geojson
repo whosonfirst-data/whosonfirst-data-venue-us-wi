@@ -2,13 +2,14 @@
   "id": 186176981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.933038,43.140195,-87.933038,43.140195",
     "geom:latitude":43.140195,
     "geom:longitude":-87.933038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6555 N Green Bay Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186176981,
-    "wof:lastmodified":1449052126,
+    "wof:lastmodified":1467089916,
     "wof:name":"Venture Boating",
     "wof:parent_id":85870803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.933038,43.140195,-87.933038,43.140195],
+  "bbox": [
+    -87.933038,
+    43.140195,
+    -87.933038,
+    43.140195
+],
   "geometry": {"coordinates":[-87.933038,43.140195],"type":"Point"}
 }

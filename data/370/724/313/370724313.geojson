@@ -2,13 +2,14 @@
   "id": 370724313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.938528,42.984854,-87.938528,42.984854",
     "geom:latitude":42.984854,
     "geom:longitude":-87.938528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 W Ohio Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370724313,
-    "wof:lastmodified":1449032396,
+    "wof:lastmodified":1467089907,
     "wof:name":"St Francis Fndtn Of Milwaukee",
     "wof:parent_id":85870955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.938528,42.984854,-87.938528,42.984854],
-  "geometry": {"coordinates":[-87.938528,42.984854],"type":"Point"}
+  "bbox": [
+    -87.938528,
+    42.984854,
+    -87.938528,
+    42.984854
+],
+  "geometry": {"coordinates":[-87.93852800000001,42.984854],"type":"Point"}
 }

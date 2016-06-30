@@ -2,13 +2,14 @@
   "id": 371194805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.709115,44.079724,-87.709115,44.079724",
     "geom:latitude":44.079724,
     "geom:longitude":-87.709115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1503 Randolph Ct",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371194805,
-    "wof:lastmodified":1449049980,
+    "wof:lastmodified":1467089914,
     "wof:name":"Dental Park",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-87.709115,44.079724,-87.709115,44.079724],
+  "bbox": [
+    -87.709115,
+    44.079724,
+    -87.709115,
+    44.079724
+],
   "geometry": {"coordinates":[-87.709115,44.079724],"type":"Point"}
 }

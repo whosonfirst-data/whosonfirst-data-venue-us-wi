@@ -2,13 +2,14 @@
   "id": 370874743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.995482,43.54637,-87.995482,43.54637",
     "geom:latitude":43.54637,
     "geom:longitude":-87.995482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5992 Creek Rd",
     "sg:city":"Random Lake",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370874743,
-    "wof:lastmodified":1449032247,
+    "wof:lastmodified":1467089906,
     "wof:name":"Lightning Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "designer"
     ]
 },
-  "bbox": [-87.995482,43.54637,-87.995482,43.54637],
+  "bbox": [
+    -87.995482,
+    43.54637,
+    -87.995482,
+    43.54637
+],
   "geometry": {"coordinates":[-87.995482,43.54637],"type":"Point"}
 }

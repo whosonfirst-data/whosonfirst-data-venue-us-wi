@@ -2,13 +2,14 @@
   "id": 387396379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.909782,43.044034,-87.909782,43.044034",
     "geom:latitude":43.044034,
     "geom:longitude":-87.909782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 N Market St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387396379,
-    "wof:lastmodified":1449058608,
+    "wof:lastmodified":1467089929,
     "wof:name":"The Zizzo Group Inc",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "nonphysical"
     ]
 },
-  "bbox": [-87.909782,43.044034,-87.909782,43.044034],
-  "geometry": {"coordinates":[-87.909782,43.044034],"type":"Point"}
+  "bbox": [
+    -87.909782,
+    43.044034,
+    -87.909782,
+    43.044034
+],
+  "geometry": {"coordinates":[-87.90978200000001,43.044034],"type":"Point"}
 }

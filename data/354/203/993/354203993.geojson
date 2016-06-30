@@ -2,13 +2,14 @@
   "id": 354203993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.265723,43.089999,-88.265723,43.089999",
     "geom:latitude":43.089999,
     "geom:longitude":-88.265723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Partridge Ct",
     "sg:city":"Pewaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354203993,
-    "wof:lastmodified":1449066667,
+    "wof:lastmodified":1467089935,
     "wof:name":"Star Lake County Home",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.265723,43.089999,-88.265723,43.089999],
-  "geometry": {"coordinates":[-88.265723,43.089999],"type":"Point"}
+  "bbox": [
+    -88.265723,
+    43.089999,
+    -88.265723,
+    43.089999
+],
+  "geometry": {"coordinates":[-88.26572299999999,43.089999],"type":"Point"}
 }

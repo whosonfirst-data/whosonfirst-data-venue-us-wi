@@ -2,13 +2,14 @@
   "id": 337633665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.74916,43.784977,-87.74916,43.784977",
     "geom:latitude":43.784977,
     "geom:longitude":-87.74916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3713 Neumair Ct",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337633665,
-    "wof:lastmodified":1449027732,
+    "wof:lastmodified":1467089896,
     "wof:name":"Bankos Etc",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.74916,43.784977,-87.74916,43.784977],
+  "bbox": [
+    -87.74916,
+    43.784977,
+    -87.74916,
+    43.784977
+],
   "geometry": {"coordinates":[-87.74916,43.784977],"type":"Point"}
 }

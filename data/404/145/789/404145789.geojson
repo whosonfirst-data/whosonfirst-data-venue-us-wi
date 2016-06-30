@@ -2,13 +2,14 @@
   "id": 404145789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.051112,43.035466,-88.051112,43.035466",
     "geom:latitude":43.035466,
     "geom:longitude":-88.051112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11040 W Bluemound Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404145789,
-    "wof:lastmodified":1449039385,
+    "wof:lastmodified":1467089910,
     "wof:name":"Fidelity One Mortgage LLC",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "real estate"
     ]
 },
-  "bbox": [-88.051112,43.035466,-88.051112,43.035466],
+  "bbox": [
+    -88.051112,
+    43.035466,
+    -88.051112,
+    43.035466
+],
   "geometry": {"coordinates":[-88.051112,43.035466],"type":"Point"}
 }

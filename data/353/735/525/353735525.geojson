@@ -2,13 +2,14 @@
   "id": 353735525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.923869,44.805306,-91.923869,44.805306",
     "geom:latitude":44.805306,
     "geom:longitude":-91.923869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3430 State Hwy 25",
     "sg:city":"Menomonie",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353735525,
-    "wof:lastmodified":1449020714,
+    "wof:lastmodified":1467089892,
     "wof:name":"Potter's Country Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "residential"
     ]
 },
-  "bbox": [-91.923869,44.805306,-91.923869,44.805306],
+  "bbox": [
+    -91.923869,
+    44.805306,
+    -91.923869,
+    44.805306
+],
   "geometry": {"coordinates":[-91.923869,44.805306],"type":"Point"}
 }

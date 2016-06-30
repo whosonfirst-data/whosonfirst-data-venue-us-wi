@@ -2,13 +2,14 @@
   "id": 370595443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.199576,44.895133,-88.199576,44.895133",
     "geom:latitude":44.895133,
     "geom:longitude":-88.199576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8814 State Hwy 22",
     "sg:city":"Oconto Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370595443,
-    "wof:lastmodified":1449032148,
+    "wof:lastmodified":1467089906,
     "wof:name":"Vorpahl's Bookkeeping Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-88.199576,44.895133,-88.199576,44.895133],
-  "geometry": {"coordinates":[-88.199576,44.895133],"type":"Point"}
+  "bbox": [
+    -88.199576,
+    44.895133,
+    -88.199576,
+    44.895133
+],
+  "geometry": {"coordinates":[-88.19957599999999,44.895133],"type":"Point"}
 }

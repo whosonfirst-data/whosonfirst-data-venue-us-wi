@@ -2,13 +2,14 @@
   "id": 387602459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.149335,43.351163,-88.149335,43.351163",
     "geom:latitude":43.351163,
     "geom:longitude":-88.149335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4445 Kingbird Ct",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387602459,
-    "wof:lastmodified":1449057890,
+    "wof:lastmodified":1467089926,
     "wof:name":"Badger State Hockey Update",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "hockey"
     ]
 },
-  "bbox": [-88.149335,43.351163,-88.149335,43.351163],
-  "geometry": {"coordinates":[-88.149335,43.351163],"type":"Point"}
+  "bbox": [
+    -88.149335,
+    43.351163,
+    -88.149335,
+    43.351163
+],
+  "geometry": {"coordinates":[-88.14933499999999,43.351163],"type":"Point"}
 }

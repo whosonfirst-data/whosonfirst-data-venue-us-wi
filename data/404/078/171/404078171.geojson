@@ -2,13 +2,14 @@
   "id": 404078171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.480936,43.809279,-88.480936,43.809279",
     "geom:latitude":43.809279,
     "geom:longitude":-88.480936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 Wisconsin Ave",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404078171,
-    "wof:lastmodified":1449040137,
+    "wof:lastmodified":1467089911,
     "wof:name":"US Bancorp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "company"
     ]
 },
-  "bbox": [-88.480936,43.809279,-88.480936,43.809279],
+  "bbox": [
+    -88.480936,
+    43.809279,
+    -88.480936,
+    43.809279
+],
   "geometry": {"coordinates":[-88.480936,43.809279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387858107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.903919,43.834584,-87.903919,43.834584",
     "geom:latitude":43.834584,
     "geom:longitude":-87.903919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8149 Franklin Rd",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387858107,
-    "wof:lastmodified":1449056481,
+    "wof:lastmodified":1467089922,
     "wof:name":"Franklin Feed Mill",
     "wof:parent_id":85820559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "for"
     ]
 },
-  "bbox": [-87.903919,43.834584,-87.903919,43.834584],
+  "bbox": [
+    -87.903919,
+    43.834584,
+    -87.903919,
+    43.834584
+],
   "geometry": {"coordinates":[-87.903919,43.834584],"type":"Point"}
 }

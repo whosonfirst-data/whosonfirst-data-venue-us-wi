@@ -2,13 +2,14 @@
   "id": 404178779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.006012,43.013166,-88.006012,43.013166",
     "geom:latitude":43.013166,
     "geom:longitude":-88.006012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1508 S 75th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":404178779,
-    "wof:lastmodified":1449039982,
+    "wof:lastmodified":1467089911,
     "wof:name":"Carnagie Place Apartments",
     "wof:parent_id":85870937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "apartment"
     ]
 },
-  "bbox": [-88.006012,43.013166,-88.006012,43.013166],
+  "bbox": [
+    -88.006012,
+    43.013166,
+    -88.006012,
+    43.013166
+],
   "geometry": {"coordinates":[-88.006012,43.013166],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370518927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.453366,44.276803,-88.453366,44.276803",
     "geom:latitude":44.276803,
     "geom:longitude":-88.453366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Tri Park Way",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370518927,
-    "wof:lastmodified":1449030984,
+    "wof:lastmodified":1467089903,
     "wof:name":"Appleton VA Cboc",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-88.453366,44.276803,-88.453366,44.276803],
+  "bbox": [
+    -88.453366,
+    44.276803,
+    -88.453366,
+    44.276803
+],
   "geometry": {"coordinates":[-88.453366,44.276803],"type":"Point"}
 }

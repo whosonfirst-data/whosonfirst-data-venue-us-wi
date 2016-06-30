@@ -2,13 +2,14 @@
   "id": 387162163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.065984,43.108137,-88.065984,43.108137",
     "geom:latitude":43.108137,
     "geom:longitude":-88.065984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5035 N 124th St",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387162163,
-    "wof:lastmodified":1449059373,
+    "wof:lastmodified":1467089931,
     "wof:name":"T & D Machine Corporation",
     "wof:parent_id":85870815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-88.065984,43.108137,-88.065984,43.108137],
+  "bbox": [
+    -88.065984,
+    43.108137,
+    -88.065984,
+    43.108137
+],
   "geometry": {"coordinates":[-88.065984,43.108137],"type":"Point"}
 }

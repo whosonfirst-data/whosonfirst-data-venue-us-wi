@@ -2,13 +2,14 @@
   "id": 169713109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.071284,44.625487,-88.071284,44.625487",
     "geom:latitude":44.625487,
     "geom:longitude":-88.071284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2243 Merganser Ct",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169713109,
-    "wof:lastmodified":1449035647,
+    "wof:lastmodified":1467089909,
     "wof:name":"Our Home Builders Inc",
     "wof:parent_id":85852587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.071284,44.625487,-88.071284,44.625487],
-  "geometry": {"coordinates":[-88.071284,44.625487],"type":"Point"}
+  "bbox": [
+    -88.071284,
+    44.625487,
+    -88.071284,
+    44.625487
+],
+  "geometry": {"coordinates":[-88.07128400000001,44.625487],"type":"Point"}
 }

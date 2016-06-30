@@ -2,13 +2,14 @@
   "id": 403762933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.233227,44.669788,-88.233227,44.669788",
     "geom:latitude":44.669788,
     "geom:longitude":-88.233227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"334 S Wisconsin St",
     "sg:city":"Pulaski",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403762933,
-    "wof:lastmodified":1449055554,
+    "wof:lastmodified":1467089920,
     "wof:name":"Pulaski Concrete Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "block"
     ]
 },
-  "bbox": [-88.233227,44.669788,-88.233227,44.669788],
+  "bbox": [
+    -88.233227,
+    44.669788,
+    -88.233227,
+    44.669788
+],
   "geometry": {"coordinates":[-88.233227,44.669788],"type":"Point"}
 }

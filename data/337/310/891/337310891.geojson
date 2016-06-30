@@ -2,13 +2,14 @@
   "id": 337310891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.709714,42.848723,-90.709714,42.848723",
     "geom:latitude":42.848723,
     "geom:longitude":-90.709714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 N Madison St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337310891,
-    "wof:lastmodified":1449027452,
+    "wof:lastmodified":1467089895,
     "wof:name":"Russ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-90.709714,42.848723,-90.709714,42.848723],
-  "geometry": {"coordinates":[-90.709714,42.848723],"type":"Point"}
+  "bbox": [
+    -90.709714,
+    42.848723,
+    -90.709714,
+    42.848723
+],
+  "geometry": {"coordinates":[-90.70971400000001,42.848723],"type":"Point"}
 }

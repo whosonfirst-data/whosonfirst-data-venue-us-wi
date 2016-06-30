@@ -2,13 +2,14 @@
   "id": 186344845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.88902,43.089264,-87.88902,43.089264",
     "geom:latitude":43.089264,
     "geom:longitude":-87.88902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 E Capitol Dr",
     "sg:city":"Shorewood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186344845,
-    "wof:lastmodified":1449050403,
+    "wof:lastmodified":1467089914,
     "wof:name":"Park Real Estate",
     "wof:parent_id":85870879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.88902,43.089264,-87.88902,43.089264],
+  "bbox": [
+    -87.88902,
+    43.089264,
+    -87.88902,
+    43.089264
+],
   "geometry": {"coordinates":[-87.88902,43.089264],"type":"Point"}
 }

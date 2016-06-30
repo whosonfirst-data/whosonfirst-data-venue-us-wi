@@ -2,13 +2,14 @@
   "id": 186212427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.34547,43.103183,-89.34547,43.103183",
     "geom:latitude":43.103183,
     "geom:longitude":-89.34547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 E Johnson St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186212427,
-    "wof:lastmodified":1449052110,
+    "wof:lastmodified":1467089916,
     "wof:name":"Hair Paradise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-89.34547,43.103183,-89.34547,43.103183],
-  "geometry": {"coordinates":[-89.34547,43.103183],"type":"Point"}
+  "bbox": [
+    -89.34547,
+    43.103183,
+    -89.34547,
+    43.103183
+],
+  "geometry": {"coordinates":[-89.34547000000001,43.103183],"type":"Point"}
 }

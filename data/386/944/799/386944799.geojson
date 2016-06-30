@@ -2,13 +2,14 @@
   "id": 386944799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.37483,45.362652,-91.37483,45.362652",
     "geom:latitude":45.362652,
     "geom:longitude":-91.37483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13696 Pondell Rd",
     "sg:city":"Weyerhaeuser",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386944799,
-    "wof:lastmodified":1449028780,
+    "wof:lastmodified":1467089896,
     "wof:name":"Jerry Karpowicz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.37483,45.362652,-91.37483,45.362652],
+  "bbox": [
+    -91.37483,
+    45.362652,
+    -91.37483,
+    45.362652
+],
   "geometry": {"coordinates":[-91.37483,45.362652],"type":"Point"}
 }

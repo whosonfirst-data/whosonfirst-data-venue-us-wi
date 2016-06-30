@@ -2,13 +2,14 @@
   "id": 370976101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.374836,44.28521,-88.374836,44.28521",
     "geom:latitude":44.28521,
     "geom:longitude":-88.374836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2618 N Ballard Rd",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370976101,
-    "wof:lastmodified":1449030485,
+    "wof:lastmodified":1467089901,
     "wof:name":"Wallace Concrete Sawing Drill",
     "wof:parent_id":85857401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sawing"
     ]
 },
-  "bbox": [-88.374836,44.28521,-88.374836,44.28521],
+  "bbox": [
+    -88.374836,
+    44.28521,
+    -88.374836,
+    44.28521
+],
   "geometry": {"coordinates":[-88.374836,44.28521],"type":"Point"}
 }

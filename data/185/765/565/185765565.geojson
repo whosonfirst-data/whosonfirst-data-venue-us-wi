@@ -2,13 +2,14 @@
   "id": 185765565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.945678,44.527416,-89.945678,44.527416",
     "geom:latitude":44.527416,
     "geom:longitude":-89.945678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7988 Co Rd Hh",
     "sg:city":"Arpin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185765565,
-    "wof:lastmodified":1449007537,
+    "wof:lastmodified":1467089884,
     "wof:name":"Fred Miller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.945678,44.527416,-89.945678,44.527416],
+  "bbox": [
+    -89.945678,
+    44.527416,
+    -89.945678,
+    44.527416
+],
   "geometry": {"coordinates":[-89.945678,44.527416],"type":"Point"}
 }

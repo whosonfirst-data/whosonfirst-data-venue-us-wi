@@ -2,13 +2,14 @@
   "id": 370633283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.822842,44.391106,-89.822842,44.391106",
     "geom:latitude":44.391106,
     "geom:longitude":-89.822842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 3rd St N",
     "sg:city":"Wisconsin Rapids",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370633283,
-    "wof:lastmodified":1449032439,
+    "wof:lastmodified":1467089907,
     "wof:name":"Nash Podvin Attorneys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-89.822842,44.391106,-89.822842,44.391106],
-  "geometry": {"coordinates":[-89.822842,44.391106],"type":"Point"}
+  "bbox": [
+    -89.822842,
+    44.391106,
+    -89.822842,
+    44.391106
+],
+  "geometry": {"coordinates":[-89.82284199999999,44.391106],"type":"Point"}
 }

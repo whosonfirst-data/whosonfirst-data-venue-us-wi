@@ -2,13 +2,14 @@
   "id": 353847253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.500676,44.812266,-91.500676,44.812266",
     "geom:latitude":44.812266,
     "geom:longitude":-91.500676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Eau Claire St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353847253,
-    "wof:lastmodified":1449019183,
+    "wof:lastmodified":1467089888,
     "wof:name":"Klevgaard Accounting Svc",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-91.500676,44.812266,-91.500676,44.812266],
+  "bbox": [
+    -91.500676,
+    44.812266,
+    -91.500676,
+    44.812266
+],
   "geometry": {"coordinates":[-91.500676,44.812266],"type":"Point"}
 }

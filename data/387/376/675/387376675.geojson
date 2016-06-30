@@ -2,13 +2,14 @@
   "id": 387376675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.361771,43.82637,-88.361771,43.82637",
     "geom:latitude":43.82637,
     "geom:longitude":-88.361771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7772 Fine View Rd",
     "sg:city":"Malone",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387376675,
-    "wof:lastmodified":1449057398,
+    "wof:lastmodified":1467089925,
     "wof:name":"D & L Barta Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "group"
     ]
 },
-  "bbox": [-88.361771,43.82637,-88.361771,43.82637],
+  "bbox": [
+    -88.361771,
+    43.82637,
+    -88.361771,
+    43.82637
+],
   "geometry": {"coordinates":[-88.361771,43.82637],"type":"Point"}
 }

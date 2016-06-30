@@ -2,13 +2,14 @@
   "id": 370991713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.13656,43.03658,-88.13656,43.03658",
     "geom:latitude":43.03658,
     "geom:longitude":-88.13656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17800 W Bluemound Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370991713,
-    "wof:lastmodified":1449030162,
+    "wof:lastmodified":1467089900,
     "wof:name":"Moto Photo & Portrait Studio",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-88.13656,43.03658,-88.13656,43.03658],
+  "bbox": [
+    -88.13656,
+    43.03658,
+    -88.13656,
+    43.03658
+],
   "geometry": {"coordinates":[-88.13656,43.03658],"type":"Point"}
 }

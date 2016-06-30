@@ -2,13 +2,14 @@
   "id": 386998575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.021198,43.163191,-88.021198,43.163191",
     "geom:latitude":43.163191,
     "geom:longitude":-88.021198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8701 W Bradley Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":386998575,
-    "wof:lastmodified":1449028722,
+    "wof:lastmodified":1467089896,
     "wof:name":"Pho-Tronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "printed"
     ]
 },
-  "bbox": [-88.021198,43.163191,-88.021198,43.163191],
+  "bbox": [
+    -88.021198,
+    43.163191,
+    -88.021198,
+    43.163191
+],
   "geometry": {"coordinates":[-88.021198,43.163191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403904705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.896571,43.06336,-87.896571,43.06336",
     "geom:latitude":43.06336,
     "geom:longitude":-87.896571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2424 N Dousman St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403904705,
-    "wof:lastmodified":1449056006,
+    "wof:lastmodified":1467089921,
     "wof:name":"Beautiful Braids",
     "wof:parent_id":85867295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.896571,43.06336,-87.896571,43.06336],
-  "geometry": {"coordinates":[-87.896571,43.06336],"type":"Point"}
+  "bbox": [
+    -87.896571,
+    43.06336,
+    -87.896571,
+    43.06336
+],
+  "geometry": {"coordinates":[-87.89657099999999,43.06336],"type":"Point"}
 }

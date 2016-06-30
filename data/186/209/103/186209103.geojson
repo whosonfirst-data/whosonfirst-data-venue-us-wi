@@ -2,13 +2,14 @@
   "id": 186209103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.006886,43.126939,-88.006886,43.126939",
     "geom:latitude":43.126939,
     "geom:longitude":-88.006886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7628 W Florist Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186209103,
-    "wof:lastmodified":1449052733,
+    "wof:lastmodified":1467089917,
     "wof:name":"Sepermatic Fluid Systems",
     "wof:parent_id":85870903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.006886,43.126939,-88.006886,43.126939],
-  "geometry": {"coordinates":[-88.006886,43.126939],"type":"Point"}
+  "bbox": [
+    -88.006886,
+    43.126939,
+    -88.006886,
+    43.126939
+],
+  "geometry": {"coordinates":[-88.00688599999999,43.126939],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387572059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.092567,43.08395,-88.092567,43.08395",
     "geom:latitude":43.08395,
     "geom:longitude":-88.092567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14530 Westview Ct",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387572059,
-    "wof:lastmodified":1449058431,
+    "wof:lastmodified":1467089928,
     "wof:name":"Kegler Heating & Air Cond LLC",
     "wof:parent_id":85870871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.092567,43.08395,-88.092567,43.08395],
+  "bbox": [
+    -88.092567,
+    43.08395,
+    -88.092567,
+    43.08395
+],
   "geometry": {"coordinates":[-88.092567,43.08395],"type":"Point"}
 }

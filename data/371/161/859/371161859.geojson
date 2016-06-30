@@ -2,13 +2,14 @@
   "id": 371161859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.465861,43.785483,-88.465861,43.785483",
     "geom:latitude":43.785483,
     "geom:longitude":-88.465861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 N Bell St",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371161859,
-    "wof:lastmodified":1449049440,
+    "wof:lastmodified":1467089912,
     "wof:name":"Sticks & Strings Archery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.465861,43.785483,-88.465861,43.785483],
+  "bbox": [
+    -88.465861,
+    43.785483,
+    -88.465861,
+    43.785483
+],
   "geometry": {"coordinates":[-88.465861,43.785483],"type":"Point"}
 }

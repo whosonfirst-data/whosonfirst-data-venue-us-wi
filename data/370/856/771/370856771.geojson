@@ -2,13 +2,14 @@
   "id": 370856771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.456477,43.947915,-90.456477,43.947915",
     "geom:latitude":43.947915,
     "geom:longitude":-90.456477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16338 Holiday Rd",
     "sg:city":"Tomah",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370856771,
-    "wof:lastmodified":1449030068,
+    "wof:lastmodified":1467089900,
     "wof:name":"Robert Wappler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-90.456477,43.947915,-90.456477,43.947915],
-  "geometry": {"coordinates":[-90.456477,43.947915],"type":"Point"}
+  "bbox": [
+    -90.456477,
+    43.947915,
+    -90.456477,
+    43.947915
+],
+  "geometry": {"coordinates":[-90.45647700000001,43.947915],"type":"Point"}
 }

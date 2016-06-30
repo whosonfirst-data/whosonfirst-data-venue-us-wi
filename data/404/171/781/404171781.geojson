@@ -2,13 +2,14 @@
   "id": 404171781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.747233,43.721365,-87.747233,43.721365",
     "geom:latitude":43.721365,
     "geom:longitude":-87.747233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2924 S 31st St",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404171781,
-    "wof:lastmodified":1449040332,
+    "wof:lastmodified":1467089912,
     "wof:name":"Lear Corp",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.747233,43.721365,-87.747233,43.721365],
-  "geometry": {"coordinates":[-87.747233,43.721365],"type":"Point"}
+  "bbox": [
+    -87.747233,
+    43.721365,
+    -87.747233,
+    43.721365
+],
+  "geometry": {"coordinates":[-87.74723299999999,43.721365],"type":"Point"}
 }

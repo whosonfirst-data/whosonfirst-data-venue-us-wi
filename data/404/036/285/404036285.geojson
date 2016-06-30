@@ -2,13 +2,14 @@
   "id": 404036285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.058879,43.060251,-88.058879,43.060251",
     "geom:latitude":43.060251,
     "geom:longitude":-88.058879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2347 N 117th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":404036285,
-    "wof:lastmodified":1449039312,
+    "wof:lastmodified":1467089909,
     "wof:name":"Terry Sweet & Associates Inc",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "music"
     ]
 },
-  "bbox": [-88.058879,43.060251,-88.058879,43.060251],
+  "bbox": [
+    -88.058879,
+    43.060251,
+    -88.058879,
+    43.060251
+],
   "geometry": {"coordinates":[-88.058879,43.060251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403712589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.680418,43.065987,-89.680418,43.065987",
     "geom:latitude":43.065987,
     "geom:longitude":-89.680418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3860 Barlow Rd",
     "sg:city":"Mount Horeb",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403712589,
-    "wof:lastmodified":1449055205,
+    "wof:lastmodified":1467089919,
     "wof:name":"Greg Haack",
     "wof:parent_id":85841675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.680418,43.065987,-89.680418,43.065987],
+  "bbox": [
+    -89.680418,
+    43.065987,
+    -89.680418,
+    43.065987
+],
   "geometry": {"coordinates":[-89.680418,43.065987],"type":"Point"}
 }

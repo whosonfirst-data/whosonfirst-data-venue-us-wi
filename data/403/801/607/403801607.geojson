@@ -2,13 +2,14 @@
   "id": 403801607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.736404,44.04326,-88.736404,44.04326",
     "geom:latitude":44.04326,
     "geom:longitude":-88.736404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 Riverview Ct",
     "sg:city":"Omro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403801607,
-    "wof:lastmodified":1449055738,
+    "wof:lastmodified":1467089920,
     "wof:name":"Kiley Home Repair & Imp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.736404,44.04326,-88.736404,44.04326],
-  "geometry": {"coordinates":[-88.736404,44.04326],"type":"Point"}
+  "bbox": [
+    -88.736404,
+    44.04326,
+    -88.736404,
+    44.04326
+],
+  "geometry": {"coordinates":[-88.73640399999999,44.04326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370744415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.171448,44.667107,-90.171448,44.667107",
     "geom:latitude":44.667107,
     "geom:longitude":-90.171448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 E Depot St",
     "sg:city":"Marshfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370744415,
-    "wof:lastmodified":1449030311,
+    "wof:lastmodified":1467089901,
     "wof:name":"Raven-Marshfield Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "candy"
     ]
 },
-  "bbox": [-90.171448,44.667107,-90.171448,44.667107],
+  "bbox": [
+    -90.171448,
+    44.667107,
+    -90.171448,
+    44.667107
+],
   "geometry": {"coordinates":[-90.171448,44.667107],"type":"Point"}
 }

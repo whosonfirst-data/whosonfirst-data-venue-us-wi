@@ -2,13 +2,14 @@
   "id": 353889667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.895897,43.048976,-87.895897,43.048976",
     "geom:latitude":43.048976,
     "geom:longitude":-87.895897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1442 N Farwell Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353889667,
-    "wof:lastmodified":1449018208,
+    "wof:lastmodified":1467089886,
     "wof:name":"Heartland Counseling",
     "wof:parent_id":85870833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-87.895897,43.048976,-87.895897,43.048976],
-  "geometry": {"coordinates":[-87.895897,43.048976],"type":"Point"}
+  "bbox": [
+    -87.895897,
+    43.048976,
+    -87.895897,
+    43.048976
+],
+  "geometry": {"coordinates":[-87.89589700000001,43.048976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403947697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.40678,44.261741,-88.40678,44.261741",
     "geom:latitude":44.261741,
     "geom:longitude":-88.40678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 W College Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403947697,
-    "wof:lastmodified":1449055573,
+    "wof:lastmodified":1467089920,
     "wof:name":"Covermat Corp",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "representative"
     ]
 },
-  "bbox": [-88.40678,44.261741,-88.40678,44.261741],
+  "bbox": [
+    -88.40678,
+    44.261741,
+    -88.40678,
+    44.261741
+],
   "geometry": {"coordinates":[-88.40678,44.261741],"type":"Point"}
 }

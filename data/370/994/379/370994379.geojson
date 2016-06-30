@@ -2,13 +2,14 @@
   "id": 370994379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.17091,43.400805,-88.17091,43.400805",
     "geom:latitude":43.400805,
     "geom:longitude":-88.17091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Woodridge Rd",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370994379,
-    "wof:lastmodified":1449029239,
+    "wof:lastmodified":1467089898,
     "wof:name":"Kevin Killeen",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.17091,43.400805,-88.17091,43.400805],
-  "geometry": {"coordinates":[-88.17091,43.400805],"type":"Point"}
+  "bbox": [
+    -88.17091,
+    43.400805,
+    -88.17091,
+    43.400805
+],
+  "geometry": {"coordinates":[-88.17091000000001,43.400805],"type":"Point"}
 }

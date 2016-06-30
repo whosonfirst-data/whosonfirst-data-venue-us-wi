@@ -2,13 +2,14 @@
   "id": 387484705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.365302,43.017029,-89.365302,43.017029",
     "geom:latitude":43.017029,
     "geom:longitude":-89.365302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3142 Larsen Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387484705,
-    "wof:lastmodified":1449059701,
+    "wof:lastmodified":1467089932,
     "wof:name":"Directory",
     "wof:parent_id":85878883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.365302,43.017029,-89.365302,43.017029],
+  "bbox": [
+    -89.365302,
+    43.017029,
+    -89.365302,
+    43.017029
+],
   "geometry": {"coordinates":[-89.365302,43.017029],"type":"Point"}
 }

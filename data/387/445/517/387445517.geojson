@@ -2,13 +2,14 @@
   "id": 387445517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.947774,43.042196,-87.947774,43.042196",
     "geom:latitude":43.042196,
     "geom:longitude":-87.947774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 N 27th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387445517,
-    "wof:lastmodified":1449056614,
+    "wof:lastmodified":1467089923,
     "wof:name":"James J Hulen Dr",
     "wof:parent_id":85870967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-87.947774,43.042196,-87.947774,43.042196],
+  "bbox": [
+    -87.947774,
+    43.042196,
+    -87.947774,
+    43.042196
+],
   "geometry": {"coordinates":[-87.947774,43.042196],"type":"Point"}
 }

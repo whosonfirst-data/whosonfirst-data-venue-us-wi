@@ -2,13 +2,14 @@
   "id": 387294771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.721212,43.760495,-87.721212,43.760495",
     "geom:latitude":43.760495,
     "geom:longitude":-87.721212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1423 N 13th St",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387294771,
-    "wof:lastmodified":1449058820,
+    "wof:lastmodified":1467089930,
     "wof:name":"Zabel Modern Monument Co",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-87.721212,43.760495,-87.721212,43.760495],
-  "geometry": {"coordinates":[-87.721212,43.760495],"type":"Point"}
+  "bbox": [
+    -87.721212,
+    43.760495,
+    -87.721212,
+    43.760495
+],
+  "geometry": {"coordinates":[-87.72121199999999,43.760495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387946349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.828557,42.591821,-87.828557,42.591821",
     "geom:latitude":42.591821,
     "geom:longitude":-87.828557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4814 16th Ave",
     "sg:city":"Kenosha",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387946349,
-    "wof:lastmodified":1449059460,
+    "wof:lastmodified":1467089931,
     "wof:name":"A J's Sewer & Drain Cleaning",
     "wof:parent_id":85810813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sewer"
     ]
 },
-  "bbox": [-87.828557,42.591821,-87.828557,42.591821],
+  "bbox": [
+    -87.828557,
+    42.591821,
+    -87.828557,
+    42.591821
+],
   "geometry": {"coordinates":[-87.828557,42.591821],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370407265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.908756,43.03495,-87.908756,43.03495",
     "geom:latitude":43.03495,
     "geom:longitude":-87.908756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N Water St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370407265,
-    "wof:lastmodified":1449030942,
+    "wof:lastmodified":1467089903,
     "wof:name":"Beamee Inc",
     "wof:parent_id":85871001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "page"
     ]
 },
-  "bbox": [-87.908756,43.03495,-87.908756,43.03495],
+  "bbox": [
+    -87.908756,
+    43.03495,
+    -87.908756,
+    43.03495
+],
   "geometry": {"coordinates":[-87.908756,43.03495],"type":"Point"}
 }

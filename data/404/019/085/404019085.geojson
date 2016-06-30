@@ -2,13 +2,14 @@
   "id": 404019085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.147381,43.804805,-91.147381,43.804805",
     "geom:latitude":43.804805,
     "geom:longitude":-91.147381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4861 Meyer Rd",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404019085,
-    "wof:lastmodified":1449039816,
+    "wof:lastmodified":1467089910,
     "wof:name":"Pats Home Improvements",
     "wof:parent_id":85832275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-91.147381,43.804805,-91.147381,43.804805],
+  "bbox": [
+    -91.147381,
+    43.804805,
+    -91.147381,
+    43.804805
+],
   "geometry": {"coordinates":[-91.147381,43.804805],"type":"Point"}
 }

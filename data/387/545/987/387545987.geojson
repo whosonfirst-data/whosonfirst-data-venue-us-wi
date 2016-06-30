@@ -2,13 +2,14 @@
   "id": 387545987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.176129,43.031311,-88.176129,43.031311",
     "geom:latitude":43.031311,
     "geom:longitude":-88.176129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21075 Swenson Dr",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387545987,
-    "wof:lastmodified":1449057021,
+    "wof:lastmodified":1467089924,
     "wof:name":"Salon Nouveaux LTD",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.176129,43.031311,-88.176129,43.031311],
+  "bbox": [
+    -88.176129,
+    43.031311,
+    -88.176129,
+    43.031311
+],
   "geometry": {"coordinates":[-88.176129,43.031311],"type":"Point"}
 }

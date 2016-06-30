@@ -2,13 +2,14 @@
   "id": 353490447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.493485,46.004326,-91.493485,46.004326",
     "geom:latitude":46.004326,
     "geom:longitude":-91.493485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10155 N Heinz Rd",
     "sg:city":"Hayward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353490447,
-    "wof:lastmodified":1449020546,
+    "wof:lastmodified":1467089891,
     "wof:name":"Ddd Homecare & Repair LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.493485,46.004326,-91.493485,46.004326],
-  "geometry": {"coordinates":[-91.493485,46.004326],"type":"Point"}
+  "bbox": [
+    -91.493485,
+    46.004326,
+    -91.493485,
+    46.004326
+],
+  "geometry": {"coordinates":[-91.49348500000001,46.004326],"type":"Point"}
 }

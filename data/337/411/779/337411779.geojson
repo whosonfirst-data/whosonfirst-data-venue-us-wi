@@ -2,13 +2,14 @@
   "id": 337411779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.411991,44.258447,-88.411991,44.258447",
     "geom:latitude":44.258447,
     "geom:longitude":-88.411991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 S Walnut St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337411779,
-    "wof:lastmodified":1449026977,
+    "wof:lastmodified":1467089892,
     "wof:name":"Legislative Services",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "legislative"
     ]
 },
-  "bbox": [-88.411991,44.258447,-88.411991,44.258447],
+  "bbox": [
+    -88.411991,
+    44.258447,
+    -88.411991,
+    44.258447
+],
   "geometry": {"coordinates":[-88.411991,44.258447],"type":"Point"}
 }

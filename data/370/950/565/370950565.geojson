@@ -2,13 +2,14 @@
   "id": 370950565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.980364,43.001425,-87.980364,43.001425",
     "geom:latitude":43.001425,
     "geom:longitude":-87.980364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2330 S 54th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370950565,
-    "wof:lastmodified":1449030405,
+    "wof:lastmodified":1467089901,
     "wof:name":"Meadowmere Apartments",
     "wof:parent_id":85870937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.980364,43.001425,-87.980364,43.001425],
-  "geometry": {"coordinates":[-87.980364,43.001425],"type":"Point"}
+  "bbox": [
+    -87.980364,
+    43.001425,
+    -87.980364,
+    43.001425
+],
+  "geometry": {"coordinates":[-87.98036399999999,43.001425],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370795579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.369589,44.843308,-87.369589,44.843308",
     "geom:latitude":44.843308,
     "geom:longitude":-87.369589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Egg Harbor Rd",
     "sg:city":"Sturgeon Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370795579,
-    "wof:lastmodified":1449031079,
+    "wof:lastmodified":1467089903,
     "wof:name":"Wall To Wall Interiors",
     "wof:parent_id":85851043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-87.369589,44.843308,-87.369589,44.843308],
+  "bbox": [
+    -87.369589,
+    44.843308,
+    -87.369589,
+    44.843308
+],
   "geometry": {"coordinates":[-87.369589,44.843308],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370486025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.91249,43.022083,-87.91249,43.022083",
     "geom:latitude":43.022083,
     "geom:longitude":-87.91249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W Walker St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":370486025,
-    "wof:lastmodified":1449030955,
+    "wof:lastmodified":1467089903,
     "wof:name":"Finn Digital LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "design"
     ]
 },
-  "bbox": [-87.91249,43.022083,-87.91249,43.022083],
-  "geometry": {"coordinates":[-87.91249,43.022083],"type":"Point"}
+  "bbox": [
+    -87.91249,
+    43.022083,
+    -87.91249,
+    43.022083
+],
+  "geometry": {"coordinates":[-87.91249000000001,43.022083],"type":"Point"}
 }

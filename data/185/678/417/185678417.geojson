@@ -2,13 +2,14 @@
   "id": 185678417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.012701,44.50908,-88.012701,44.50908",
     "geom:latitude":44.50908,
     "geom:longitude":-88.012701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 S Monroe Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185678417,
-    "wof:lastmodified":1449007402,
+    "wof:lastmodified":1467089884,
     "wof:name":"Bay Title & Abstract Inc",
     "wof:parent_id":85877935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "title"
     ]
 },
-  "bbox": [-88.012701,44.50908,-88.012701,44.50908],
-  "geometry": {"coordinates":[-88.012701,44.50908],"type":"Point"}
+  "bbox": [
+    -88.012701,
+    44.50908,
+    -88.012701,
+    44.50908
+],
+  "geometry": {"coordinates":[-88.01270100000001,44.50908],"type":"Point"}
 }

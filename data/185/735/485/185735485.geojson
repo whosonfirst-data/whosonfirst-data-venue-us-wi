@@ -2,13 +2,14 @@
   "id": 185735485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.733813,45.504452,-91.733813,45.504452",
     "geom:latitude":45.504452,
     "geom:longitude":-91.733813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 W Marshall St",
     "sg:city":"Rice Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185735485,
-    "wof:lastmodified":1449008151,
+    "wof:lastmodified":1467089886,
     "wof:name":"Midway Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-91.733813,45.504452,-91.733813,45.504452],
+  "bbox": [
+    -91.733813,
+    45.504452,
+    -91.733813,
+    45.504452
+],
   "geometry": {"coordinates":[-91.733813,45.504452],"type":"Point"}
 }

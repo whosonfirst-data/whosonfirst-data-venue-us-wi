@@ -2,13 +2,14 @@
   "id": 370822183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.273739,44.260716,-88.273739,44.260716",
     "geom:latitude":44.260716,
     "geom:longitude":-88.273739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Crooks Ave",
     "sg:city":"Kaukauna",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370822183,
-    "wof:lastmodified":1449032367,
+    "wof:lastmodified":1467089907,
     "wof:name":"Aurora Medical Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.273739,44.260716,-88.273739,44.260716],
-  "geometry": {"coordinates":[-88.273739,44.260716],"type":"Point"}
+  "bbox": [
+    -88.273739,
+    44.260716,
+    -88.273739,
+    44.260716
+],
+  "geometry": {"coordinates":[-88.27373900000001,44.260716],"type":"Point"}
 }

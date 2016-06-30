@@ -2,13 +2,14 @@
   "id": 354271739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.737068,43.721426,-87.737068,43.721426",
     "geom:latitude":43.721426,
     "geom:longitude":-87.737068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3110 S Business Dr",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354271739,
-    "wof:lastmodified":1449066828,
+    "wof:lastmodified":1467089935,
     "wof:name":"American General Finance Corp",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "institution"
     ]
 },
-  "bbox": [-87.737068,43.721426,-87.737068,43.721426],
-  "geometry": {"coordinates":[-87.737068,43.721426],"type":"Point"}
+  "bbox": [
+    -87.737068,
+    43.721426,
+    -87.737068,
+    43.721426
+],
+  "geometry": {"coordinates":[-87.73706799999999,43.721426],"type":"Point"}
 }

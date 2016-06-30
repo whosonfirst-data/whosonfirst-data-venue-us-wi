@@ -2,13 +2,14 @@
   "id": 387215189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.995555,43.075287,-87.995555,43.075287",
     "geom:latitude":43.075287,
     "geom:longitude":-87.995555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6725 W Burleigh St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387215189,
-    "wof:lastmodified":1449059261,
+    "wof:lastmodified":1467089931,
     "wof:name":"Cocaine Anonymous",
     "wof:parent_id":85870905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "drug"
     ]
 },
-  "bbox": [-87.995555,43.075287,-87.995555,43.075287],
+  "bbox": [
+    -87.995555,
+    43.075287,
+    -87.995555,
+    43.075287
+],
   "geometry": {"coordinates":[-87.995555,43.075287],"type":"Point"}
 }

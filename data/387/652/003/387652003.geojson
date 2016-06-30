@@ -2,13 +2,14 @@
   "id": 387652003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.492578,43.056672,-89.492578,43.056672",
     "geom:latitude":43.056672,
     "geom:longitude":-89.492578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"449 S Yellowstone Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387652003,
-    "wof:lastmodified":1449058562,
+    "wof:lastmodified":1467089929,
     "wof:name":"3 Dimensions Hair Studio",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.492578,43.056672,-89.492578,43.056672],
-  "geometry": {"coordinates":[-89.492578,43.056672],"type":"Point"}
+  "bbox": [
+    -89.492578,
+    43.056672,
+    -89.492578,
+    43.056672
+],
+  "geometry": {"coordinates":[-89.49257799999999,43.056672],"type":"Point"}
 }

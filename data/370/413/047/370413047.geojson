@@ -2,13 +2,14 @@
   "id": 370413047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.397139,44.272825,-88.397139,44.272825",
     "geom:latitude":44.272825,
     "geom:longitude":-88.397139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 E Wisconsin Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370413047,
-    "wof:lastmodified":1449029625,
+    "wof:lastmodified":1467089899,
     "wof:name":"Prestige Auto Sales Inc",
     "wof:parent_id":85857401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-88.397139,44.272825,-88.397139,44.272825],
+  "bbox": [
+    -88.397139,
+    44.272825,
+    -88.397139,
+    44.272825
+],
   "geometry": {"coordinates":[-88.397139,44.272825],"type":"Point"}
 }

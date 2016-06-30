@@ -2,13 +2,14 @@
   "id": 354097811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.992587,43.102665,-87.992587,43.102665",
     "geom:latitude":43.102665,
     "geom:longitude":-87.992587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6534 W Fond du Lac Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354097811,
-    "wof:lastmodified":1449066583,
+    "wof:lastmodified":1467089935,
     "wof:name":"Kingdom Work Ministries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.992587,43.102665,-87.992587,43.102665],
+  "bbox": [
+    -87.992587,
+    43.102665,
+    -87.992587,
+    43.102665
+],
   "geometry": {"coordinates":[-87.992587,43.102665],"type":"Point"}
 }

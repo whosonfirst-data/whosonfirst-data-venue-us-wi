@@ -2,13 +2,14 @@
   "id": 186158851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.368323,44.953952,-91.368323,44.953952",
     "geom:latitude":44.953952,
     "geom:longitude":-91.368323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Lowater Rd",
     "sg:city":"Chippewa Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186158851,
-    "wof:lastmodified":1449052156,
+    "wof:lastmodified":1467089916,
     "wof:name":"S G I",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "computer"
     ]
 },
-  "bbox": [-91.368323,44.953952,-91.368323,44.953952],
+  "bbox": [
+    -91.368323,
+    44.953952,
+    -91.368323,
+    44.953952
+],
   "geometry": {"coordinates":[-91.368323,44.953952],"type":"Point"}
 }

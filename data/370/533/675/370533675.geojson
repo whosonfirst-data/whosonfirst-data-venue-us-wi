@@ -2,13 +2,14 @@
   "id": 370533675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.955899,44.480018,-87.955899,44.480018",
     "geom:latitude":44.480018,
     "geom:longitude":-87.955899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2565 Pecan St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370533675,
-    "wof:lastmodified":1449029027,
+    "wof:lastmodified":1467089897,
     "wof:name":"J & M Enterprises",
     "wof:parent_id":85877953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "internet"
     ]
 },
-  "bbox": [-87.955899,44.480018,-87.955899,44.480018],
+  "bbox": [
+    -87.955899,
+    44.480018,
+    -87.955899,
+    44.480018
+],
   "geometry": {"coordinates":[-87.955899,44.480018],"type":"Point"}
 }

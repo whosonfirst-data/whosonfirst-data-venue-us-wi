@@ -2,13 +2,14 @@
   "id": 169767673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.075802,44.443551,-88.075802,44.443551",
     "geom:latitude":44.443551,
     "geom:longitude":-88.075802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 S 6th St",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169767673,
-    "wof:lastmodified":1449033623,
+    "wof:lastmodified":1467089908,
     "wof:name":"De Pere Foundry Inc",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casting"
     ]
 },
-  "bbox": [-88.075802,44.443551,-88.075802,44.443551],
+  "bbox": [
+    -88.075802,
+    44.443551,
+    -88.075802,
+    44.443551
+],
   "geometry": {"coordinates":[-88.075802,44.443551],"type":"Point"}
 }

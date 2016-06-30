@@ -2,13 +2,14 @@
   "id": 370336075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.497194,45.928141,-89.497194,45.928141",
     "geom:latitude":45.928141,
     "geom:longitude":-89.497194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8158 Half Mile Rd",
     "sg:city":"Saint Germain",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370336075,
-    "wof:lastmodified":1449029002,
+    "wof:lastmodified":1467089897,
     "wof:name":"D W P Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "tape"
     ]
 },
-  "bbox": [-89.497194,45.928141,-89.497194,45.928141],
-  "geometry": {"coordinates":[-89.497194,45.928141],"type":"Point"}
+  "bbox": [
+    -89.497194,
+    45.928141,
+    -89.497194,
+    45.928141
+],
+  "geometry": {"coordinates":[-89.49719399999999,45.928141],"type":"Point"}
 }

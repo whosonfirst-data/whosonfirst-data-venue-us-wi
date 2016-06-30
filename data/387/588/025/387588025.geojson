@@ -2,13 +2,14 @@
   "id": 387588025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.149522,43.03431,-88.149522,43.03431",
     "geom:latitude":43.03431,
     "geom:longitude":-88.149522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Regency Ct",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387588025,
-    "wof:lastmodified":1449059169,
+    "wof:lastmodified":1467089931,
     "wof:name":"Quadion Corporation",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-88.149522,43.03431,-88.149522,43.03431],
+  "bbox": [
+    -88.149522,
+    43.03431,
+    -88.149522,
+    43.03431
+],
   "geometry": {"coordinates":[-88.149522,43.03431],"type":"Point"}
 }

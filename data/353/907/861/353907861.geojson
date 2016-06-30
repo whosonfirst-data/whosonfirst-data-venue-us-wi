@@ -2,13 +2,14 @@
   "id": 353907861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.574601,44.318049,-91.574601,44.318049",
     "geom:latitude":44.318049,
     "geom:longitude":-91.574601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1903 Sobotta Valley Rd",
     "sg:city":"Arcadia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353907861,
-    "wof:lastmodified":1449020609,
+    "wof:lastmodified":1467089891,
     "wof:name":"Weltzien Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.574601,44.318049,-91.574601,44.318049],
+  "bbox": [
+    -91.574601,
+    44.318049,
+    -91.574601,
+    44.318049
+],
   "geometry": {"coordinates":[-91.574601,44.318049],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370812989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.729508,43.73567,-87.729508,43.73567",
     "geom:latitude":43.73567,
     "geom:longitude":-87.729508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1745 Broadway Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370812989,
-    "wof:lastmodified":1449029159,
+    "wof:lastmodified":1467089898,
     "wof:name":"Accent Beauty Salon",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "barber"
     ]
 },
-  "bbox": [-87.729508,43.73567,-87.729508,43.73567],
+  "bbox": [
+    -87.729508,
+    43.73567,
+    -87.729508,
+    43.73567
+],
   "geometry": {"coordinates":[-87.729508,43.73567],"type":"Point"}
 }

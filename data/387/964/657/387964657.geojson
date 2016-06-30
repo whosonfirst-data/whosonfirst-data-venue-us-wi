@@ -2,13 +2,14 @@
   "id": 387964657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.945229,43.003122,-87.945229,43.003122",
     "geom:latitude":43.003122,
     "geom:longitude":-87.945229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 W Lincoln Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387964657,
-    "wof:lastmodified":1449058972,
+    "wof:lastmodified":1467089930,
     "wof:name":"Medical Surgical Clinic AMG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-87.945229,43.003122,-87.945229,43.003122],
+  "bbox": [
+    -87.945229,
+    43.003122,
+    -87.945229,
+    43.003122
+],
   "geometry": {"coordinates":[-87.945229,43.003122],"type":"Point"}
 }

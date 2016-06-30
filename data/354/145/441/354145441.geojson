@@ -2,13 +2,14 @@
   "id": 354145441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.895841,43.052872,-87.895841,43.052872",
     "geom:latitude":43.052872,
     "geom:longitude":-87.895841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1233 E Brady St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":354145441,
-    "wof:lastmodified":1449066422,
+    "wof:lastmodified":1467089934,
     "wof:name":"Bella's Fat Cat",
     "wof:parent_id":85870987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.895841,43.052872,-87.895841,43.052872],
+  "bbox": [
+    -87.895841,
+    43.052872,
+    -87.895841,
+    43.052872
+],
   "geometry": {"coordinates":[-87.895841,43.052872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370699405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.382806,44.25632,-88.382806,44.25632",
     "geom:latitude":44.25632,
     "geom:longitude":-88.382806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 E South River St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370699405,
-    "wof:lastmodified":1449029562,
+    "wof:lastmodified":1467089899,
     "wof:name":"Grishaber Service Station",
     "wof:parent_id":85857401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-88.382806,44.25632,-88.382806,44.25632],
+  "bbox": [
+    -88.382806,
+    44.25632,
+    -88.382806,
+    44.25632
+],
   "geometry": {"coordinates":[-88.382806,44.25632],"type":"Point"}
 }

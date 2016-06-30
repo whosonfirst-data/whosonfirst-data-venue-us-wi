@@ -2,13 +2,14 @@
   "id": 404040961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.992968,44.514599,-87.992968,44.514599",
     "geom:latitude":44.514599,
     "geom:longitude":-87.992968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 N Irwin Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404040961,
-    "wof:lastmodified":1449040297,
+    "wof:lastmodified":1467089911,
     "wof:name":"Programming Specialties",
     "wof:parent_id":85877953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-87.992968,44.514599,-87.992968,44.514599],
+  "bbox": [
+    -87.992968,
+    44.514599,
+    -87.992968,
+    44.514599
+],
   "geometry": {"coordinates":[-87.992968,44.514599],"type":"Point"}
 }

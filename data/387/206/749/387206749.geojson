@@ -2,13 +2,14 @@
   "id": 387206749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.034039,44.633347,-88.034039,44.633347",
     "geom:latitude":44.633347,
     "geom:longitude":-88.034039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1247 Riverside Dr",
     "sg:city":"Suamico",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387206749,
-    "wof:lastmodified":1449058695,
+    "wof:lastmodified":1467089929,
     "wof:name":"Emmel Gus Baker & Restaurant",
     "wof:parent_id":85852587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "made"
     ]
 },
-  "bbox": [-88.034039,44.633347,-88.034039,44.633347],
-  "geometry": {"coordinates":[-88.034039,44.633347],"type":"Point"}
+  "bbox": [
+    -88.034039,
+    44.633347,
+    -88.034039,
+    44.633347
+],
+  "geometry": {"coordinates":[-88.03403900000001,44.633347],"type":"Point"}
 }

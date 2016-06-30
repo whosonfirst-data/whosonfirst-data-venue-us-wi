@@ -2,13 +2,14 @@
   "id": 185933427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.9123,43.040037,-87.9123,43.040037",
     "geom:latitude":43.040037,
     "geom:longitude":-87.9123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 N Plankinton Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185933427,
-    "wof:lastmodified":1449006945,
+    "wof:lastmodified":1467089884,
     "wof:name":"North Aurora Rlty Holdings Inc",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "except"
     ]
 },
-  "bbox": [-87.9123,43.040037,-87.9123,43.040037],
+  "bbox": [
+    -87.9123,
+    43.040037,
+    -87.9123,
+    43.040037
+],
   "geometry": {"coordinates":[-87.9123,43.040037],"type":"Point"}
 }

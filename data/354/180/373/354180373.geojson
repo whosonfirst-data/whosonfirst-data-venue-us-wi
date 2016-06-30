@@ -2,13 +2,14 @@
   "id": 354180373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.525087,44.022605,-88.525087,44.022605",
     "geom:latitude":44.022605,
     "geom:longitude":-88.525087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 Grove St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354180373,
-    "wof:lastmodified":1449066017,
+    "wof:lastmodified":1467089933,
     "wof:name":"T & S Roofing/Builders",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.525087,44.022605,-88.525087,44.022605],
+  "bbox": [
+    -88.525087,
+    44.022605,
+    -88.525087,
+    44.022605
+],
   "geometry": {"coordinates":[-88.525087,44.022605],"type":"Point"}
 }

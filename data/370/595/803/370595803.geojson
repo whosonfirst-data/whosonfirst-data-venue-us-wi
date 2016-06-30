@@ -2,13 +2,14 @@
   "id": 370595803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.477016,43.119914,-89.477016,43.119914",
     "geom:latitude":43.119914,
     "geom:longitude":-89.477016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5519 Sedgemeadow Rd",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370595803,
-    "wof:lastmodified":1449032149,
+    "wof:lastmodified":1467089906,
     "wof:name":"Coolwater Aquaculture LLC",
     "wof:parent_id":85841479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "grant"
     ]
 },
-  "bbox": [-89.477016,43.119914,-89.477016,43.119914],
-  "geometry": {"coordinates":[-89.477016,43.119914],"type":"Point"}
+  "bbox": [
+    -89.477016,
+    43.119914,
+    -89.477016,
+    43.119914
+],
+  "geometry": {"coordinates":[-89.47701600000001,43.119914],"type":"Point"}
 }

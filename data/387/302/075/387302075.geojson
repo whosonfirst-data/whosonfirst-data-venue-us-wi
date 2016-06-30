@@ -2,13 +2,14 @@
   "id": 387302075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.490258,43.057585,-89.490258,43.057585",
     "geom:latitude":43.057585,
     "geom:longitude":-89.490258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6441 Enterprise Ln",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387302075,
-    "wof:lastmodified":1449057382,
+    "wof:lastmodified":1467089925,
     "wof:name":"Davis & Rohrer Inc",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "financial"
     ]
 },
-  "bbox": [-89.490258,43.057585,-89.490258,43.057585],
+  "bbox": [
+    -89.490258,
+    43.057585,
+    -89.490258,
+    43.057585
+],
   "geometry": {"coordinates":[-89.490258,43.057585],"type":"Point"}
 }

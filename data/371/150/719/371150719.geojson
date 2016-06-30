@@ -2,13 +2,14 @@
   "id": 371150719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.758145,44.373216,-89.758145,44.373216",
     "geom:latitude":44.373216,
     "geom:longitude":-89.758145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4930 Kellner Rd",
     "sg:city":"Wisconsin Rapids",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371150719,
-    "wof:lastmodified":1449049084,
+    "wof:lastmodified":1467089912,
     "wof:name":"Country Tots Child Dev Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "daycare"
     ]
 },
-  "bbox": [-89.758145,44.373216,-89.758145,44.373216],
+  "bbox": [
+    -89.758145,
+    44.373216,
+    -89.758145,
+    44.373216
+],
   "geometry": {"coordinates":[-89.758145,44.373216],"type":"Point"}
 }

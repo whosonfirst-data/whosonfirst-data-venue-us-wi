@@ -2,13 +2,14 @@
   "id": 370881807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.118741,43.036667,-88.118741,43.036667",
     "geom:latitude":43.036667,
     "geom:longitude":-88.118741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16535 W Bluemound Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370881807,
-    "wof:lastmodified":1449031036,
+    "wof:lastmodified":1467089903,
     "wof:name":"Camco Management Inc",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-88.118741,43.036667,-88.118741,43.036667],
+  "bbox": [
+    -88.118741,
+    43.036667,
+    -88.118741,
+    43.036667
+],
   "geometry": {"coordinates":[-88.118741,43.036667],"type":"Point"}
 }

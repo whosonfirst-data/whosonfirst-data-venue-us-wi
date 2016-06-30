@@ -2,13 +2,14 @@
   "id": 353836535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.672404,44.093203,-87.672404,44.093203",
     "geom:latitude":44.093203,
     "geom:longitude":-87.672404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1806 Western Ave",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353836535,
-    "wof:lastmodified":1449019925,
+    "wof:lastmodified":1467089890,
     "wof:name":"Jochem's Auto Parts",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parts"
     ]
 },
-  "bbox": [-87.672404,44.093203,-87.672404,44.093203],
+  "bbox": [
+    -87.672404,
+    44.093203,
+    -87.672404,
+    44.093203
+],
   "geometry": {"coordinates":[-87.672404,44.093203],"type":"Point"}
 }

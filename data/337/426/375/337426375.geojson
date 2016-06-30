@@ -2,13 +2,14 @@
   "id": 337426375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.536565,44.302476,-88.536565,44.302476",
     "geom:latitude":44.302476,
     "geom:longitude":-88.536565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1697 Municipal Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337426375,
-    "wof:lastmodified":1449027096,
+    "wof:lastmodified":1467089893,
     "wof:name":"Paw Prints",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pet"
     ]
 },
-  "bbox": [-88.536565,44.302476,-88.536565,44.302476],
+  "bbox": [
+    -88.536565,
+    44.302476,
+    -88.536565,
+    44.302476
+],
   "geometry": {"coordinates":[-88.536565,44.302476],"type":"Point"}
 }

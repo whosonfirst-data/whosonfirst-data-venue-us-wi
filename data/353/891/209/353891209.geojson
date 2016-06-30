@@ -2,13 +2,14 @@
   "id": 353891209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.059959,44.438725,-88.059959,44.438725",
     "geom:latitude":44.438725,
     "geom:longitude":-88.059959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 Honey Ct",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":353891209,
-    "wof:lastmodified":1449019823,
+    "wof:lastmodified":1467089890,
     "wof:name":"Kimco Marking Products Co Inc",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engraver"
     ]
 },
-  "bbox": [-88.059959,44.438725,-88.059959,44.438725],
-  "geometry": {"coordinates":[-88.059959,44.438725],"type":"Point"}
+  "bbox": [
+    -88.059959,
+    44.438725,
+    -88.059959,
+    44.438725
+],
+  "geometry": {"coordinates":[-88.05995900000001,44.438725],"type":"Point"}
 }

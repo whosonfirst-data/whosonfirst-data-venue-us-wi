@@ -2,13 +2,14 @@
   "id": 387171793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.394939,45.140659,-90.394939,45.140659",
     "geom:latitude":45.140659,
     "geom:longitude":-90.394939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3185 Castle Rd",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387171793,
-    "wof:lastmodified":1449059934,
+    "wof:lastmodified":1467089933,
     "wof:name":"Ryskoski Electric LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.394939,45.140659,-90.394939,45.140659],
-  "geometry": {"coordinates":[-90.394939,45.140659],"type":"Point"}
+  "bbox": [
+    -90.394939,
+    45.140659,
+    -90.394939,
+    45.140659
+],
+  "geometry": {"coordinates":[-90.39493899999999,45.140659],"type":"Point"}
 }

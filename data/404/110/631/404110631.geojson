@@ -2,13 +2,14 @@
   "id": 404110631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.919896,43.07537,-87.919896,43.07537",
     "geom:latitude":43.07537,
     "geom:longitude":-87.919896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3216 N 7th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404110631,
-    "wof:lastmodified":1449039406,
+    "wof:lastmodified":1467089910,
     "wof:name":"Green's Pottery Import & Exprt",
     "wof:parent_id":85870991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pottery"
     ]
 },
-  "bbox": [-87.919896,43.07537,-87.919896,43.07537],
-  "geometry": {"coordinates":[-87.919896,43.07537],"type":"Point"}
+  "bbox": [
+    -87.919896,
+    43.07537,
+    -87.919896,
+    43.07537
+],
+  "geometry": {"coordinates":[-87.91989599999999,43.07537],"type":"Point"}
 }

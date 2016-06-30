@@ -2,13 +2,14 @@
   "id": 403742353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.435099,44.011874,-91.435099,44.011874",
     "geom:latitude":44.011874,
     "geom:longitude":-91.435099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11862 King St",
     "sg:city":"Trempealeau",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403742353,
-    "wof:lastmodified":1449054720,
+    "wof:lastmodified":1467089917,
     "wof:name":"Ray's Salvage & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wrecking"
     ]
 },
-  "bbox": [-91.435099,44.011874,-91.435099,44.011874],
-  "geometry": {"coordinates":[-91.435099,44.011874],"type":"Point"}
+  "bbox": [
+    -91.435099,
+    44.011874,
+    -91.435099,
+    44.011874
+],
+  "geometry": {"coordinates":[-91.43509899999999,44.011874],"type":"Point"}
 }

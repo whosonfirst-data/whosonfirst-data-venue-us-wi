@@ -2,13 +2,14 @@
   "id": 370472353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.694721,45.908684,-89.694721,45.908684",
     "geom:latitude":45.908684,
     "geom:longitude":-89.694721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"334 US Hwy 51 N",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370472353,
-    "wof:lastmodified":1449029348,
+    "wof:lastmodified":1467089898,
     "wof:name":"Lee & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.694721,45.908684,-89.694721,45.908684],
+  "bbox": [
+    -89.694721,
+    45.908684,
+    -89.694721,
+    45.908684
+],
   "geometry": {"coordinates":[-89.694721,45.908684],"type":"Point"}
 }

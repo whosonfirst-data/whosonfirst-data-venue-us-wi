@@ -2,13 +2,14 @@
   "id": 337314553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.546909,44.112098,-88.546909,44.112098",
     "geom:latitude":44.112098,
     "geom:longitude":-88.546909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3120 Co Rd Gg",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337314553,
-    "wof:lastmodified":1449027712,
+    "wof:lastmodified":1467089896,
     "wof:name":"Accurate Perk Testing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "soil"
     ]
 },
-  "bbox": [-88.546909,44.112098,-88.546909,44.112098],
+  "bbox": [
+    -88.546909,
+    44.112098,
+    -88.546909,
+    44.112098
+],
   "geometry": {"coordinates":[-88.546909,44.112098],"type":"Point"}
 }

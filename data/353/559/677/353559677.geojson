@@ -2,13 +2,14 @@
   "id": 353559677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.352234,43.13304,-89.352234,43.13304",
     "geom:latitude":43.13304,
     "geom:longitude":-89.352234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 Warbler Ln",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353559677,
-    "wof:lastmodified":1449020270,
+    "wof:lastmodified":1467089891,
     "wof:name":"Sanders Realty Co",
     "wof:parent_id":85878869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.352234,43.13304,-89.352234,43.13304],
+  "bbox": [
+    -89.352234,
+    43.13304,
+    -89.352234,
+    43.13304
+],
   "geometry": {"coordinates":[-89.352234,43.13304],"type":"Point"}
 }

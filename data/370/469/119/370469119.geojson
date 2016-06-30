@@ -2,13 +2,14 @@
   "id": 370469119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.142473,44.951808,-91.142473,44.951808",
     "geom:latitude":44.951808,
     "geom:longitude":-91.142473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 E Mills St",
     "sg:city":"Cadott",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370469119,
-    "wof:lastmodified":1449032570,
+    "wof:lastmodified":1467089907,
     "wof:name":"Jerry Gabert",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.142473,44.951808,-91.142473,44.951808],
+  "bbox": [
+    -91.142473,
+    44.951808,
+    -91.142473,
+    44.951808
+],
   "geometry": {"coordinates":[-91.142473,44.951808],"type":"Point"}
 }

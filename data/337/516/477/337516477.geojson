@@ -2,13 +2,14 @@
   "id": 337516477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.231137,43.913821,-91.231137,43.913821",
     "geom:latitude":43.913821,
     "geom:longitude":-91.231137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2027 Craig Ln W",
     "sg:city":"Onalaska",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337516477,
-    "wof:lastmodified":1449027073,
+    "wof:lastmodified":1467089893,
     "wof:name":"Dream Scape Luxury Limousines",
     "wof:parent_id":85825891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-91.231137,43.913821,-91.231137,43.913821],
+  "bbox": [
+    -91.231137,
+    43.913821,
+    -91.231137,
+    43.913821
+],
   "geometry": {"coordinates":[-91.231137,43.913821],"type":"Point"}
 }

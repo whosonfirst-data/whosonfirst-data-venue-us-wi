@@ -2,13 +2,14 @@
   "id": 387754235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.018553,43.032044,-88.018553,43.032044",
     "geom:latitude":43.032044,
     "geom:longitude":-88.018553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 N 85th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387754235,
-    "wof:lastmodified":1449058601,
+    "wof:lastmodified":1467089929,
     "wof:name":"Audio Transformer",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "audio"
     ]
 },
-  "bbox": [-88.018553,43.032044,-88.018553,43.032044],
+  "bbox": [
+    -88.018553,
+    43.032044,
+    -88.018553,
+    43.032044
+],
   "geometry": {"coordinates":[-88.018553,43.032044],"type":"Point"}
 }

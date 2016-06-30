@@ -2,13 +2,14 @@
   "id": 387911171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.076966,43.054301,-88.076966,43.054301",
     "geom:latitude":43.054301,
     "geom:longitude":-88.076966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13050 Gremoor Dr",
     "sg:city":"Elm Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387911171,
-    "wof:lastmodified":1449059306,
+    "wof:lastmodified":1467089931,
     "wof:name":"Stroke Solutions Inc",
     "wof:parent_id":85870871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-88.076966,43.054301,-88.076966,43.054301],
+  "bbox": [
+    -88.076966,
+    43.054301,
+    -88.076966,
+    43.054301
+],
   "geometry": {"coordinates":[-88.076966,43.054301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169863265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.548556,43.499494,-88.548556,43.499494",
     "geom:latitude":43.499494,
     "geom:longitude":-88.548556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N Walnut St",
     "sg:city":"Mayville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169863265,
-    "wof:lastmodified":1449034970,
+    "wof:lastmodified":1467089908,
     "wof:name":"Koepsell Funeral Home Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-88.548556,43.499494,-88.548556,43.499494],
+  "bbox": [
+    -88.548556,
+    43.499494,
+    -88.548556,
+    43.499494
+],
   "geometry": {"coordinates":[-88.548556,43.499494],"type":"Point"}
 }

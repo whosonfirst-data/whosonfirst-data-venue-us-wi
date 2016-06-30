@@ -2,13 +2,14 @@
   "id": 387675029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.045321,44.541388,-88.045321,44.541388",
     "geom:latitude":44.541388,
     "geom:longitude":-88.045321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1137 Moraine Way",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387675029,
-    "wof:lastmodified":1449058041,
+    "wof:lastmodified":1467089927,
     "wof:name":"R W Beerntsen Construction",
     "wof:parent_id":85877951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.045321,44.541388,-88.045321,44.541388],
+  "bbox": [
+    -88.045321,
+    44.541388,
+    -88.045321,
+    44.541388
+],
   "geometry": {"coordinates":[-88.045321,44.541388],"type":"Point"}
 }

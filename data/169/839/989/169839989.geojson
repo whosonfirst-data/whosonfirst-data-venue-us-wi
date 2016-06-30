@@ -2,13 +2,14 @@
   "id": 169839989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.519433,44.771837,-87.519433,44.771837",
     "geom:latitude":44.771837,
     "geom:longitude":-87.519433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 School Ln",
     "sg:city":"Sturgeon Bay",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169839989,
-    "wof:lastmodified":1449034669,
+    "wof:lastmodified":1467089908,
     "wof:name":"Leon Vogel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.519433,44.771837,-87.519433,44.771837],
-  "geometry": {"coordinates":[-87.519433,44.771837],"type":"Point"}
+  "bbox": [
+    -87.519433,
+    44.771837,
+    -87.519433,
+    44.771837
+],
+  "geometry": {"coordinates":[-87.51943300000001,44.771837],"type":"Point"}
 }

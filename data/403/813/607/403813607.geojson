@@ -2,13 +2,14 @@
   "id": 403813607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.971168,43.202761,-87.971168,43.202761",
     "geom:latitude":43.202761,
     "geom:longitude":-87.971168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5102 W Westfield Rd",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403813607,
-    "wof:lastmodified":1449054985,
+    "wof:lastmodified":1467089918,
     "wof:name":"R J Heating & Air Conditioning",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.971168,43.202761,-87.971168,43.202761],
-  "geometry": {"coordinates":[-87.971168,43.202761],"type":"Point"}
+  "bbox": [
+    -87.971168,
+    43.202761,
+    -87.971168,
+    43.202761
+],
+  "geometry": {"coordinates":[-87.97116800000001,43.202761],"type":"Point"}
 }

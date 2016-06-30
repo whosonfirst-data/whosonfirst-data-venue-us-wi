@@ -2,13 +2,14 @@
   "id": 370395669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.679847,42.59114,-89.679847,42.59114",
     "geom:latitude":42.59114,
     "geom:longitude":-89.679847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6468 Patterson Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370395669,
-    "wof:lastmodified":1449031969,
+    "wof:lastmodified":1467089906,
     "wof:name":"T S Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.679847,42.59114,-89.679847,42.59114],
+  "bbox": [
+    -89.679847,
+    42.59114,
+    -89.679847,
+    42.59114
+],
   "geometry": {"coordinates":[-89.679847,42.59114],"type":"Point"}
 }

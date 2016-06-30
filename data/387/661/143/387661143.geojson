@@ -2,13 +2,14 @@
   "id": 387661143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.531856,45.109553,-92.531856,45.109553",
     "geom:latitude":45.109553,
     "geom:longitude":-92.531856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 Willow Ave",
     "sg:city":"New Richmond",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387661143,
-    "wof:lastmodified":1449059504,
+    "wof:lastmodified":1467089932,
     "wof:name":"Stephanies Mary Kay Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-92.531856,45.109553,-92.531856,45.109553],
+  "bbox": [
+    -92.531856,
+    45.109553,
+    -92.531856,
+    45.109553
+],
   "geometry": {"coordinates":[-92.531856,45.109553],"type":"Point"}
 }

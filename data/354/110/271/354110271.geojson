@@ -2,13 +2,14 @@
   "id": 354110271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.909583,43.104988,-87.909583,43.104988",
     "geom:latitude":43.104988,
     "geom:longitude":-87.909583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4923 N Anita Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354110271,
-    "wof:lastmodified":1449066475,
+    "wof:lastmodified":1467089935,
     "wof:name":"Ilore",
     "wof:parent_id":85870875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-87.909583,43.104988,-87.909583,43.104988],
+  "bbox": [
+    -87.909583,
+    43.104988,
+    -87.909583,
+    43.104988
+],
   "geometry": {"coordinates":[-87.909583,43.104988],"type":"Point"}
 }

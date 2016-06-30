@@ -2,13 +2,14 @@
   "id": 186007583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.943838,43.043153,-87.943838,43.043153",
     "geom:latitude":43.043153,
     "geom:longitude":-87.943838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2405 W State St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186007583,
-    "wof:lastmodified":1449052549,
+    "wof:lastmodified":1467089917,
     "wof:name":"Mikes On State",
     "wof:parent_id":85870977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-87.943838,43.043153,-87.943838,43.043153],
+  "bbox": [
+    -87.943838,
+    43.043153,
+    -87.943838,
+    43.043153
+],
   "geometry": {"coordinates":[-87.943838,43.043153],"type":"Point"}
 }

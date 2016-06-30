@@ -2,13 +2,14 @@
   "id": 404072011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.386595,44.82794,-87.386595,44.82794",
     "geom:latitude":44.82794,
     "geom:longitude":-87.386595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Lansing Ave",
     "sg:city":"Sturgeon Bay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404072011,
-    "wof:lastmodified":1449039768,
+    "wof:lastmodified":1467089910,
     "wof:name":"Sawyer House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-87.386595,44.82794,-87.386595,44.82794],
+  "bbox": [
+    -87.386595,
+    44.82794,
+    -87.386595,
+    44.82794
+],
   "geometry": {"coordinates":[-87.386595,44.82794],"type":"Point"}
 }

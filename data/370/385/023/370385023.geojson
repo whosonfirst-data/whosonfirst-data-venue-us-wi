@@ -2,13 +2,14 @@
   "id": 370385023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.909964,43.016975,-87.909964,43.016975",
     "geom:latitude":43.016975,
     "geom:longitude":-87.909964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 E Greenfield Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":370385023,
-    "wof:lastmodified":1449031089,
+    "wof:lastmodified":1467089903,
     "wof:name":"Harbor Room",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-87.909964,43.016975,-87.909964,43.016975],
+  "bbox": [
+    -87.909964,
+    43.016975,
+    -87.909964,
+    43.016975
+],
   "geometry": {"coordinates":[-87.909964,43.016975],"type":"Point"}
 }

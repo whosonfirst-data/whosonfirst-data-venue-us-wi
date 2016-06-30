@@ -2,13 +2,14 @@
   "id": 185835089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.005843,42.701575,-89.005843,42.701575",
     "geom:latitude":42.701575,
     "geom:longitude":-89.005843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1326 Creston Park Dr",
     "sg:city":"Janesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185835089,
-    "wof:lastmodified":1449006836,
+    "wof:lastmodified":1467089883,
     "wof:name":"Capital Mortgage Financial Cor",
     "wof:parent_id":85803103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-89.005843,42.701575,-89.005843,42.701575],
+  "bbox": [
+    -89.005843,
+    42.701575,
+    -89.005843,
+    42.701575
+],
   "geometry": {"coordinates":[-89.005843,42.701575],"type":"Point"}
 }

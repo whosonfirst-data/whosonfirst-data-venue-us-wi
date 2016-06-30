@@ -2,13 +2,14 @@
   "id": 370653369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.977436,43.236203,-87.977436,43.236203",
     "geom:latitude":43.236203,
     "geom:longitude":-87.977436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"338 E Freistadt Rd",
     "sg:city":"Thiensville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370653369,
-    "wof:lastmodified":1449029331,
+    "wof:lastmodified":1467089898,
     "wof:name":"Johnson W Dudley Foundation",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.977436,43.236203,-87.977436,43.236203],
+  "bbox": [
+    -87.977436,
+    43.236203,
+    -87.977436,
+    43.236203
+],
   "geometry": {"coordinates":[-87.977436,43.236203],"type":"Point"}
 }

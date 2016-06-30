@@ -2,13 +2,14 @@
   "id": 387586769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.011523,45.239704,-88.011523,45.239704",
     "geom:latitude":45.239704,
     "geom:longitude":-88.011523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Fj St",
     "sg:city":"Crivitz",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387586769,
-    "wof:lastmodified":1449059481,
+    "wof:lastmodified":1467089931,
     "wof:name":"Crivitz Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-88.011523,45.239704,-88.011523,45.239704],
+  "bbox": [
+    -88.011523,
+    45.239704,
+    -88.011523,
+    45.239704
+],
   "geometry": {"coordinates":[-88.011523,45.239704],"type":"Point"}
 }

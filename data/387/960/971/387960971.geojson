@@ -2,13 +2,14 @@
   "id": 387960971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.099635,44.550018,-88.099635,44.550018",
     "geom:latitude":44.550018,
     "geom:longitude":-88.099635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Riverdale Dr",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387960971,
-    "wof:lastmodified":1449058844,
+    "wof:lastmodified":1467089930,
     "wof:name":"Village Greens Golf Course",
     "wof:parent_id":85817867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-88.099635,44.550018,-88.099635,44.550018],
-  "geometry": {"coordinates":[-88.099635,44.550018],"type":"Point"}
+  "bbox": [
+    -88.099635,
+    44.550018,
+    -88.099635,
+    44.550018
+],
+  "geometry": {"coordinates":[-88.09963500000001,44.550018],"type":"Point"}
 }

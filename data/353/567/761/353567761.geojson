@@ -2,13 +2,14 @@
   "id": 353567761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.463272,44.791103,-91.463272,44.791103",
     "geom:latitude":44.791103,
     "geom:longitude":-91.463272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2612 London Rd",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353567761,
-    "wof:lastmodified":1449020817,
+    "wof:lastmodified":1467089892,
     "wof:name":"Computer Wizards LLC",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-91.463272,44.791103,-91.463272,44.791103],
+  "bbox": [
+    -91.463272,
+    44.791103,
+    -91.463272,
+    44.791103
+],
   "geometry": {"coordinates":[-91.463272,44.791103],"type":"Point"}
 }

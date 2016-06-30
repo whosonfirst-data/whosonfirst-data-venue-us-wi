@@ -2,13 +2,14 @@
   "id": 370374969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.497027,43.110408,-88.497027,43.110408",
     "geom:latitude":43.110408,
     "geom:longitude":-88.497027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 E Wisconsin Ave",
     "sg:city":"Oconomowoc",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370374969,
-    "wof:lastmodified":1449030562,
+    "wof:lastmodified":1467089902,
     "wof:name":"Ameristar Mortgage Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-88.497027,43.110408,-88.497027,43.110408],
+  "bbox": [
+    -88.497027,
+    43.110408,
+    -88.497027,
+    43.110408
+],
   "geometry": {"coordinates":[-88.497027,43.110408],"type":"Point"}
 }

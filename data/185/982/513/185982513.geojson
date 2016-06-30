@@ -2,13 +2,14 @@
   "id": 185982513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.739546,43.759021,-87.739546,43.759021",
     "geom:latitude":43.759021,
     "geom:longitude":-87.739546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 N 25th St",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185982513,
-    "wof:lastmodified":1449006890,
+    "wof:lastmodified":1467089883,
     "wof:name":"Associated Bank",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.739546,43.759021,-87.739546,43.759021],
+  "bbox": [
+    -87.739546,
+    43.759021,
+    -87.739546,
+    43.759021
+],
   "geometry": {"coordinates":[-87.739546,43.759021],"type":"Point"}
 }

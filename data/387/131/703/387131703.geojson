@@ -2,13 +2,14 @@
   "id": 387131703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.578941,44.533955,-89.578941,44.533955",
     "geom:latitude":44.533955,
     "geom:longitude":-89.578941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Maria Dr",
     "sg:city":"Stevens Point",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387131703,
-    "wof:lastmodified":1449057244,
+    "wof:lastmodified":1467089924,
     "wof:name":"Sisters Of St Joseph Convent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convent"
     ]
 },
-  "bbox": [-89.578941,44.533955,-89.578941,44.533955],
+  "bbox": [
+    -89.578941,
+    44.533955,
+    -89.578941,
+    44.533955
+],
   "geometry": {"coordinates":[-89.578941,44.533955],"type":"Point"}
 }

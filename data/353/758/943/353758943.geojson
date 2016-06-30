@@ -2,13 +2,14 @@
   "id": 353758943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.11872,44.6698,-88.11872,44.6698",
     "geom:latitude":44.6698,
     "geom:longitude":-88.11872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3650 Shady Ln",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353758943,
-    "wof:lastmodified":1449019029,
+    "wof:lastmodified":1467089888,
     "wof:name":"Circle R Mink Ranch",
     "wof:parent_id":85819627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "prepared"
     ]
 },
-  "bbox": [-88.11872,44.6698,-88.11872,44.6698],
+  "bbox": [
+    -88.11872,
+    44.6698,
+    -88.11872,
+    44.6698
+],
   "geometry": {"coordinates":[-88.11872,44.6698],"type":"Point"}
 }

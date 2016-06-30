@@ -2,13 +2,14 @@
   "id": 387605703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.756828,44.975879,-92.756828,44.975879",
     "geom:latitude":44.975879,
     "geom:longitude":-92.756828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Locust St",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387605703,
-    "wof:lastmodified":1449057954,
+    "wof:lastmodified":1467089926,
     "wof:name":"Carbones Pizza Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-92.756828,44.975879,-92.756828,44.975879],
+  "bbox": [
+    -92.756828,
+    44.975879,
+    -92.756828,
+    44.975879
+],
   "geometry": {"coordinates":[-92.756828,44.975879],"type":"Point"}
 }

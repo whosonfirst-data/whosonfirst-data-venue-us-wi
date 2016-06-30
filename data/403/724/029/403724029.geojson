@@ -2,13 +2,14 @@
   "id": 403724029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.048185,43.221243,-88.048185,43.221243",
     "geom:latitude":43.221243,
     "geom:longitude":-88.048185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10809 W Mequon Rd",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":403724029,
-    "wof:lastmodified":1449055919,
+    "wof:lastmodified":1467089921,
     "wof:name":"D K H Capital Management Inc",
     "wof:parent_id":85853749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.048185,43.221243,-88.048185,43.221243],
+  "bbox": [
+    -88.048185,
+    43.221243,
+    -88.048185,
+    43.221243
+],
   "geometry": {"coordinates":[-88.048185,43.221243],"type":"Point"}
 }

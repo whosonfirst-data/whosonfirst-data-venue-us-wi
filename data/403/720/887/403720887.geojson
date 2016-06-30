@@ -2,13 +2,14 @@
   "id": 403720887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.92658,43.401119,-88.92658,43.401119",
     "geom:latitude":43.401119,
     "geom:longitude":-88.92658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5802 US Hwy 151",
     "sg:city":"Beaver Dam",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403720887,
-    "wof:lastmodified":1449054963,
+    "wof:lastmodified":1467089918,
     "wof:name":"Kirschbaum Rental Energy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rental"
     ]
 },
-  "bbox": [-88.92658,43.401119,-88.92658,43.401119],
+  "bbox": [
+    -88.92658,
+    43.401119,
+    -88.92658,
+    43.401119
+],
   "geometry": {"coordinates":[-88.92658,43.401119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186068503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.932655,42.865909,-87.932655,42.865909",
     "geom:latitude":42.865909,
     "geom:longitude":-87.932655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9817 S 13th St",
     "sg:city":"Oak Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186068503,
-    "wof:lastmodified":1449051755,
+    "wof:lastmodified":1467089916,
     "wof:name":"Diamond Visions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sunglasses"
     ]
 },
-  "bbox": [-87.932655,42.865909,-87.932655,42.865909],
+  "bbox": [
+    -87.932655,
+    42.865909,
+    -87.932655,
+    42.865909
+],
   "geometry": {"coordinates":[-87.932655,42.865909],"type":"Point"}
 }

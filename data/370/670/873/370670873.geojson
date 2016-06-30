@@ -2,13 +2,14 @@
   "id": 370670873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.878164,43.065514,-87.878164,43.065514",
     "geom:latitude":43.065514,
     "geom:longitude":-87.878164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2577 N Downer Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370670873,
-    "wof:lastmodified":1449029595,
+    "wof:lastmodified":1467089899,
     "wof:name":"Light House",
     "wof:parent_id":85870883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-87.878164,43.065514,-87.878164,43.065514],
+  "bbox": [
+    -87.878164,
+    43.065514,
+    -87.878164,
+    43.065514
+],
   "geometry": {"coordinates":[-87.878164,43.065514],"type":"Point"}
 }

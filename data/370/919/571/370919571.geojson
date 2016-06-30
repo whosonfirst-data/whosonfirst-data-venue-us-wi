@@ -2,13 +2,14 @@
   "id": 370919571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.422014,44.261747,-88.422014,44.261747",
     "geom:latitude":44.261747,
     "geom:longitude":-88.422014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1033 W College Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370919571,
-    "wof:lastmodified":1449031655,
+    "wof:lastmodified":1467089905,
     "wof:name":"Fox Cities Magazines",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-88.422014,44.261747,-88.422014,44.261747],
+  "bbox": [
+    -88.422014,
+    44.261747,
+    -88.422014,
+    44.261747
+],
   "geometry": {"coordinates":[-88.422014,44.261747],"type":"Point"}
 }

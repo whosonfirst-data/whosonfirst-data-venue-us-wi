@@ -2,13 +2,14 @@
   "id": 353648577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.331069,44.272326,-88.331069,44.272326",
     "geom:latitude":44.272326,
     "geom:longitude":-88.331069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 E Kimberly Ave",
     "sg:city":"Kimberly",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353648577,
-    "wof:lastmodified":1449018968,
+    "wof:lastmodified":1467089888,
     "wof:name":"Daniel A Larson DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.331069,44.272326,-88.331069,44.272326],
+  "bbox": [
+    -88.331069,
+    44.272326,
+    -88.331069,
+    44.272326
+],
   "geometry": {"coordinates":[-88.331069,44.272326],"type":"Point"}
 }

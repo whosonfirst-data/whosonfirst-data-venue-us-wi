@@ -2,13 +2,14 @@
   "id": 186338137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.344795,44.458015,-88.344795,44.458015",
     "geom:latitude":44.458015,
     "geom:longitude":-88.344795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2981 Blohm Rd",
     "sg:city":"Seymour",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186338137,
-    "wof:lastmodified":1449051322,
+    "wof:lastmodified":1467089915,
     "wof:name":"Dennis Vandewalle",
     "wof:parent_id":85803271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.344795,44.458015,-88.344795,44.458015],
+  "bbox": [
+    -88.344795,
+    44.458015,
+    -88.344795,
+    44.458015
+],
   "geometry": {"coordinates":[-88.344795,44.458015],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404070773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.825373,42.560475,-87.825373,42.560475",
     "geom:latitude":42.560475,
     "geom:longitude":-87.825373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7621 Sheridan Rd",
     "sg:city":"Kenosha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":404070773,
-    "wof:lastmodified":1449039588,
+    "wof:lastmodified":1467089910,
     "wof:name":"Professional Tanning Salon",
     "wof:parent_id":85849781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "facility"
     ]
 },
-  "bbox": [-87.825373,42.560475,-87.825373,42.560475],
+  "bbox": [
+    -87.825373,
+    42.560475,
+    -87.825373,
+    42.560475
+],
   "geometry": {"coordinates":[-87.825373,42.560475],"type":"Point"}
 }

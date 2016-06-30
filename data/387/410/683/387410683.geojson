@@ -2,13 +2,14 @@
   "id": 387410683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.360169,43.471245,-88.360169,43.471245",
     "geom:latitude":43.471245,
     "geom:longitude":-88.360169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6463 Co Hwy D",
     "sg:city":"Allenton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387410683,
-    "wof:lastmodified":1449056170,
+    "wof:lastmodified":1467089921,
     "wof:name":"Wenzels Amusement",
     "wof:parent_id":85846629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.360169,43.471245,-88.360169,43.471245],
+  "bbox": [
+    -88.360169,
+    43.471245,
+    -88.360169,
+    43.471245
+],
   "geometry": {"coordinates":[-88.360169,43.471245],"type":"Point"}
 }

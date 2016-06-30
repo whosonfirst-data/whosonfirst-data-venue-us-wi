@@ -2,13 +2,14 @@
   "id": 387403243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.719148,43.617021,-88.719148,43.617021",
     "geom:latitude":43.617021,
     "geom:longitude":-88.719148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Sunrise Ave",
     "sg:city":"Waupun",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387403243,
-    "wof:lastmodified":1449059392,
+    "wof:lastmodified":1467089931,
     "wof:name":"R&J Trucking of Waupun",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.719148,43.617021,-88.719148,43.617021],
+  "bbox": [
+    -88.719148,
+    43.617021,
+    -88.719148,
+    43.617021
+],
   "geometry": {"coordinates":[-88.719148,43.617021],"type":"Point"}
 }

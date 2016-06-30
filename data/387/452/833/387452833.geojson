@@ -2,13 +2,14 @@
   "id": 387452833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.468384,46.004806,-91.468384,46.004806",
     "geom:latitude":46.004806,
     "geom:longitude":-91.468384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15453 Co Rd B",
     "sg:city":"Hayward",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387452833,
-    "wof:lastmodified":1449056998,
+    "wof:lastmodified":1467089924,
     "wof:name":"Northland Area Builders Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-91.468384,46.004806,-91.468384,46.004806],
+  "bbox": [
+    -91.468384,
+    46.004806,
+    -91.468384,
+    46.004806
+],
   "geometry": {"coordinates":[-91.468384,46.004806],"type":"Point"}
 }

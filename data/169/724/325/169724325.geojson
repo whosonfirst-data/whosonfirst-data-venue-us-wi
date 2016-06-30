@@ -2,13 +2,14 @@
   "id": 169724325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.037256,43.019653,-88.037256,43.019653",
     "geom:latitude":43.019653,
     "geom:longitude":-88.037256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1355 S 100th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169724325,
-    "wof:lastmodified":1449035898,
+    "wof:lastmodified":1467089909,
     "wof:name":"Columb Insurance",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.037256,43.019653,-88.037256,43.019653],
+  "bbox": [
+    -88.037256,
+    43.019653,
+    -88.037256,
+    43.019653
+],
   "geometry": {"coordinates":[-88.037256,43.019653],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186034733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.127497,43.003486,-88.127497,43.003486",
     "geom:latitude":43.003486,
     "geom:longitude":-88.127497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2244 S Calhoun Rd",
     "sg:city":"New Berlin",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186034733,
-    "wof:lastmodified":1449050545,
+    "wof:lastmodified":1467089914,
     "wof:name":"Premium Waters Co Inc",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "refrigeration"
     ]
 },
-  "bbox": [-88.127497,43.003486,-88.127497,43.003486],
-  "geometry": {"coordinates":[-88.127497,43.003486],"type":"Point"}
+  "bbox": [
+    -88.127497,
+    43.003486,
+    -88.127497,
+    43.003486
+],
+  "geometry": {"coordinates":[-88.12749700000001,43.003486],"type":"Point"}
 }

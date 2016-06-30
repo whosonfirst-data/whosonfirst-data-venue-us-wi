@@ -2,13 +2,14 @@
   "id": 169821417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.584953,44.286018,-88.584953,44.286018",
     "geom:latitude":44.286018,
     "geom:longitude":-88.584953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1243 River Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169821417,
-    "wof:lastmodified":1449034488,
+    "wof:lastmodified":1467089908,
     "wof:name":"Paq Construction LLC",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.584953,44.286018,-88.584953,44.286018],
+  "bbox": [
+    -88.584953,
+    44.286018,
+    -88.584953,
+    44.286018
+],
   "geometry": {"coordinates":[-88.584953,44.286018],"type":"Point"}
 }

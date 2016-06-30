@@ -2,13 +2,14 @@
   "id": 337526017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.967706,43.010146,-87.967706,43.010146",
     "geom:latitude":43.010146,
     "geom:longitude":-87.967706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 W Burnham St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337526017,
-    "wof:lastmodified":1449027191,
+    "wof:lastmodified":1467089893,
     "wof:name":"Corn Purchasing",
     "wof:parent_id":85870841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.967706,43.010146,-87.967706,43.010146],
-  "geometry": {"coordinates":[-87.967706,43.010146],"type":"Point"}
+  "bbox": [
+    -87.967706,
+    43.010146,
+    -87.967706,
+    43.010146
+],
+  "geometry": {"coordinates":[-87.96770600000001,43.010146],"type":"Point"}
 }

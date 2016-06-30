@@ -2,13 +2,14 @@
   "id": 370220941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.660552,44.088795,-87.660552,44.088795",
     "geom:latitude":44.088795,
     "geom:longitude":-87.660552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 Washington St",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370220941,
-    "wof:lastmodified":1449032352,
+    "wof:lastmodified":1467089907,
     "wof:name":"Radosevich Law Firm",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-87.660552,44.088795,-87.660552,44.088795],
+  "bbox": [
+    -87.660552,
+    44.088795,
+    -87.660552,
+    44.088795
+],
   "geometry": {"coordinates":[-87.660552,44.088795],"type":"Point"}
 }

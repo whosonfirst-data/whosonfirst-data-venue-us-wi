@@ -2,13 +2,14 @@
   "id": 354061857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.044418,43.016429,-88.044418,43.016429",
     "geom:latitude":43.016429,
     "geom:longitude":-88.044418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10501 W Greenfield Ave",
     "sg:city":"West Allis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354061857,
-    "wof:lastmodified":1449067190,
+    "wof:lastmodified":1467089936,
     "wof:name":"Speedyloan Corp",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-88.044418,43.016429,-88.044418,43.016429],
-  "geometry": {"coordinates":[-88.044418,43.016429],"type":"Point"}
+  "bbox": [
+    -88.044418,
+    43.016429,
+    -88.044418,
+    43.016429
+],
+  "geometry": {"coordinates":[-88.04441799999999,43.016429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186303063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.698555,46.112869,-89.698555,46.112869",
     "geom:latitude":46.112869,
     "geom:longitude":-89.698555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5621 Wool Lake Ln",
     "sg:city":"Boulder Junction",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186303063,
-    "wof:lastmodified":1449050272,
+    "wof:lastmodified":1467089914,
     "wof:name":"Cathy Berch & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-89.698555,46.112869,-89.698555,46.112869],
+  "bbox": [
+    -89.698555,
+    46.112869,
+    -89.698555,
+    46.112869
+],
   "geometry": {"coordinates":[-89.698555,46.112869],"type":"Point"}
 }

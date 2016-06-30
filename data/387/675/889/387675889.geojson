@@ -2,13 +2,14 @@
   "id": 387675889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.507059,43.081203,-89.507059,43.081203",
     "geom:latitude":43.081203,
     "geom:longitude":-89.507059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7202 Sawmill Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387675889,
-    "wof:lastmodified":1449058038,
+    "wof:lastmodified":1467089927,
     "wof:name":"Creative Community Living Svc",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-89.507059,43.081203,-89.507059,43.081203],
+  "bbox": [
+    -89.507059,
+    43.081203,
+    -89.507059,
+    43.081203
+],
   "geometry": {"coordinates":[-89.507059,43.081203],"type":"Point"}
 }

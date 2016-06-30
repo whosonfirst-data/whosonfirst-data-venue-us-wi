@@ -2,13 +2,14 @@
   "id": 354008523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.52741,44.688806,-92.52741,44.688806",
     "geom:latitude":44.688806,
     "geom:longitude":-92.52741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7876 Co Rd Kk",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354008523,
-    "wof:lastmodified":1449066446,
+    "wof:lastmodified":1467089934,
     "wof:name":"Moville Custom Cabinets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.52741,44.688806,-92.52741,44.688806],
+  "bbox": [
+    -92.52741,
+    44.688806,
+    -92.52741,
+    44.688806
+],
   "geometry": {"coordinates":[-92.52741,44.688806],"type":"Point"}
 }

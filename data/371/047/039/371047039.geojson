@@ -2,13 +2,14 @@
   "id": 371047039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.472918,43.785501,-88.472918,43.785501",
     "geom:latitude":43.785501,
     "geom:longitude":-88.472918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 N Peters Ave",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371047039,
-    "wof:lastmodified":1449049733,
+    "wof:lastmodified":1467089913,
     "wof:name":"Smialek Henry M Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-88.472918,43.785501,-88.472918,43.785501],
-  "geometry": {"coordinates":[-88.472918,43.785501],"type":"Point"}
+  "bbox": [
+    -88.472918,
+    43.785501,
+    -88.472918,
+    43.785501
+],
+  "geometry": {"coordinates":[-88.47291800000001,43.785501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387347899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.064194,44.575284,-88.064194,44.575284",
     "geom:latitude":44.575284,
     "geom:longitude":-88.064194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1235 S Kimps Ct",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387347899,
-    "wof:lastmodified":1449057942,
+    "wof:lastmodified":1467089926,
     "wof:name":"Custompac Computer Forms Inc",
     "wof:parent_id":85815317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-88.064194,44.575284,-88.064194,44.575284],
+  "bbox": [
+    -88.064194,
+    44.575284,
+    -88.064194,
+    44.575284
+],
   "geometry": {"coordinates":[-88.064194,44.575284],"type":"Point"}
 }

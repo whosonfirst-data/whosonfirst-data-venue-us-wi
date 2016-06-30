@@ -2,13 +2,14 @@
   "id": 403801759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.086481,44.473609,-88.086481,44.473609",
     "geom:latitude":44.473609,
     "geom:longitude":-88.086481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2929 S Ridge Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403801759,
-    "wof:lastmodified":1449055745,
+    "wof:lastmodified":1467089920,
     "wof:name":"Profound Solutions Inc",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "custom"
     ]
 },
-  "bbox": [-88.086481,44.473609,-88.086481,44.473609],
-  "geometry": {"coordinates":[-88.086481,44.473609],"type":"Point"}
+  "bbox": [
+    -88.086481,
+    44.473609,
+    -88.086481,
+    44.473609
+],
+  "geometry": {"coordinates":[-88.08648100000001,44.473609],"type":"Point"}
 }

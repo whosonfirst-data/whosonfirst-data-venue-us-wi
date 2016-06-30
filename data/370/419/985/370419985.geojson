@@ -2,13 +2,14 @@
   "id": 370419985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.423911,44.802911,-91.423911,44.802911",
     "geom:latitude":44.802911,
     "geom:longitude":-91.423911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 Walden Ct",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370419985,
-    "wof:lastmodified":1449032406,
+    "wof:lastmodified":1467089907,
     "wof:name":"Water Well Specialists",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-91.423911,44.802911,-91.423911,44.802911],
+  "bbox": [
+    -91.423911,
+    44.802911,
+    -91.423911,
+    44.802911
+],
   "geometry": {"coordinates":[-91.423911,44.802911],"type":"Point"}
 }

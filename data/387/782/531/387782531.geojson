@@ -2,13 +2,14 @@
   "id": 387782531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.984459,43.188143,-87.984459,43.188143",
     "geom:latitude":43.188143,
     "geom:longitude":-87.984459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9393 N 60th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387782531,
-    "wof:lastmodified":1449056096,
+    "wof:lastmodified":1467089921,
     "wof:name":"Kids R Just Kids Child Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-87.984459,43.188143,-87.984459,43.188143],
+  "bbox": [
+    -87.984459,
+    43.188143,
+    -87.984459,
+    43.188143
+],
   "geometry": {"coordinates":[-87.984459,43.188143],"type":"Point"}
 }

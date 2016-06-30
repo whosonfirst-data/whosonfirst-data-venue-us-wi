@@ -2,13 +2,14 @@
   "id": 370567049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.054718,42.871666,-88.054718,42.871666",
     "geom:latitude":42.871666,
     "geom:longitude":-88.054718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9951 S 112th St",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370567049,
-    "wof:lastmodified":1449032499,
+    "wof:lastmodified":1467089907,
     "wof:name":"Chm Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.054718,42.871666,-88.054718,42.871666],
-  "geometry": {"coordinates":[-88.054718,42.871666],"type":"Point"}
+  "bbox": [
+    -88.054718,
+    42.871666,
+    -88.054718,
+    42.871666
+],
+  "geometry": {"coordinates":[-88.05471799999999,42.871666],"type":"Point"}
 }

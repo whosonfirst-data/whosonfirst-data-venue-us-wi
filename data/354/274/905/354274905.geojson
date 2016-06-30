@@ -2,13 +2,14 @@
   "id": 354274905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.039127,44.514996,-88.039127,44.514996",
     "geom:latitude":44.514996,
     "geom:longitude":-88.039127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 W Mason St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354274905,
-    "wof:lastmodified":1449066146,
+    "wof:lastmodified":1467089934,
     "wof:name":"Applause Applause",
     "wof:parent_id":85877941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-88.039127,44.514996,-88.039127,44.514996],
-  "geometry": {"coordinates":[-88.039127,44.514996],"type":"Point"}
+  "bbox": [
+    -88.039127,
+    44.514996,
+    -88.039127,
+    44.514996
+],
+  "geometry": {"coordinates":[-88.03912699999999,44.514996],"type":"Point"}
 }

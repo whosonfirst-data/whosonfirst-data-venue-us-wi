@@ -2,13 +2,14 @@
   "id": 370840873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.25343,43.808741,-91.25343,43.808741",
     "geom:latitude":43.808741,
     "geom:longitude":-91.25343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 US Hwy 14",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370840873,
-    "wof:lastmodified":1449031722,
+    "wof:lastmodified":1467089905,
     "wof:name":"Borreson Appraisal Svc",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-91.25343,43.808741,-91.25343,43.808741],
-  "geometry": {"coordinates":[-91.25343,43.808741],"type":"Point"}
+  "bbox": [
+    -91.25343,
+    43.808741,
+    -91.25343,
+    43.808741
+],
+  "geometry": {"coordinates":[-91.25342999999999,43.808741],"type":"Point"}
 }

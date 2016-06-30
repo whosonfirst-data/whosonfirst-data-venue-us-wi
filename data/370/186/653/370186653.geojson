@@ -2,13 +2,14 @@
   "id": 370186653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.06949,43.089192,-88.06949,43.089192",
     "geom:latitude":43.089192,
     "geom:longitude":-88.06949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12660 W Capitol Dr",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370186653,
-    "wof:lastmodified":1449031744,
+    "wof:lastmodified":1467089905,
     "wof:name":"Optimum Staffing Inc",
     "wof:parent_id":85870871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-88.06949,43.089192,-88.06949,43.089192],
+  "bbox": [
+    -88.06949,
+    43.089192,
+    -88.06949,
+    43.089192
+],
   "geometry": {"coordinates":[-88.06949,43.089192],"type":"Point"}
 }

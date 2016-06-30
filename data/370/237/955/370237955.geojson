@@ -2,13 +2,14 @@
   "id": 370237955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.034803,44.45734,-88.034803,44.45734",
     "geom:latitude":44.45734,
     "geom:longitude":-88.034803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Vande Hei Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370237955,
-    "wof:lastmodified":1449029150,
+    "wof:lastmodified":1467089898,
     "wof:name":"Shaklee Distributor Ruediger",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "direct"
     ]
 },
-  "bbox": [-88.034803,44.45734,-88.034803,44.45734],
+  "bbox": [
+    -88.034803,
+    44.45734,
+    -88.034803,
+    44.45734
+],
   "geometry": {"coordinates":[-88.034803,44.45734],"type":"Point"}
 }

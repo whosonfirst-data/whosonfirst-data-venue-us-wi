@@ -2,13 +2,14 @@
   "id": 337611265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.123329,42.986731,-88.123329,42.986731",
     "geom:latitude":42.986731,
     "geom:longitude":-88.123329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16915 Victor Rd",
     "sg:city":"New Berlin",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":337611265,
-    "wof:lastmodified":1449027581,
+    "wof:lastmodified":1467089895,
     "wof:name":"C J & Associates Inc",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contract"
     ]
 },
-  "bbox": [-88.123329,42.986731,-88.123329,42.986731],
+  "bbox": [
+    -88.123329,
+    42.986731,
+    -88.123329,
+    42.986731
+],
   "geometry": {"coordinates":[-88.123329,42.986731],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370207839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.272348,45.043171,-91.272348,45.043171",
     "geom:latitude":45.043171,
     "geom:longitude":-91.272348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13671 199th St",
     "sg:city":"Jim Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370207839,
-    "wof:lastmodified":1449031452,
+    "wof:lastmodified":1467089904,
     "wof:name":"KSH Outdoors Inc",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.272348,45.043171,-91.272348,45.043171],
-  "geometry": {"coordinates":[-91.272348,45.043171],"type":"Point"}
+  "bbox": [
+    -91.272348,
+    45.043171,
+    -91.272348,
+    45.043171
+],
+  "geometry": {"coordinates":[-91.27234799999999,45.043171],"type":"Point"}
 }

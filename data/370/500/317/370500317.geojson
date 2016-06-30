@@ -2,13 +2,14 @@
   "id": 370500317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.283041,44.948796,-92.283041,44.948796",
     "geom:latitude":44.948796,
     "geom:longitude":-92.283041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Best Rd",
     "sg:city":"Woodville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370500317,
-    "wof:lastmodified":1449029942,
+    "wof:lastmodified":1467089900,
     "wof:name":"McMillan Electric Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-92.283041,44.948796,-92.283041,44.948796],
+  "bbox": [
+    -92.283041,
+    44.948796,
+    -92.283041,
+    44.948796
+],
   "geometry": {"coordinates":[-92.283041,44.948796],"type":"Point"}
 }

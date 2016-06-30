@@ -2,13 +2,14 @@
   "id": 387561993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.729738,43.733951,-87.729738,43.733951",
     "geom:latitude":43.733951,
     "geom:longitude":-87.729738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1821 Elm Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387561993,
-    "wof:lastmodified":1449058806,
+    "wof:lastmodified":1467089929,
     "wof:name":"Golden Glitters",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.729738,43.733951,-87.729738,43.733951],
+  "bbox": [
+    -87.729738,
+    43.733951,
+    -87.729738,
+    43.733951
+],
   "geometry": {"coordinates":[-87.729738,43.733951],"type":"Point"}
 }

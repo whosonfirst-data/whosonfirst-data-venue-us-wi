@@ -2,13 +2,14 @@
   "id": 353771297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.835669,44.353536,-87.835669,44.353536",
     "geom:latitude":44.353536,
     "geom:longitude":-87.835669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"451 Woodrow Ct",
     "sg:city":"Denmark",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353771297,
-    "wof:lastmodified":1449019647,
+    "wof:lastmodified":1467089889,
     "wof:name":"Carol J Rasmussen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "reader"
     ]
 },
-  "bbox": [-87.835669,44.353536,-87.835669,44.353536],
+  "bbox": [
+    -87.835669,
+    44.353536,
+    -87.835669,
+    44.353536
+],
   "geometry": {"coordinates":[-87.835669,44.353536],"type":"Point"}
 }

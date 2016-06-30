@@ -2,13 +2,14 @@
   "id": 353785211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.606904,44.899522,-89.606904,44.899522",
     "geom:latitude":44.899522,
     "geom:longitude":-89.606904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Machmueller St",
     "sg:city":"Schofield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353785211,
-    "wof:lastmodified":1449020384,
+    "wof:lastmodified":1467089891,
     "wof:name":"D C Everest Junior High School",
     "wof:parent_id":85854809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.606904,44.899522,-89.606904,44.899522],
+  "bbox": [
+    -89.606904,
+    44.899522,
+    -89.606904,
+    44.899522
+],
   "geometry": {"coordinates":[-89.606904,44.899522],"type":"Point"}
 }

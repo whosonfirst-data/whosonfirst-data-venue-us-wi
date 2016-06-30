@@ -2,13 +2,14 @@
   "id": 353679987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.911332,43.030338,-87.911332,43.030338",
     "geom:latitude":43.030338,
     "geom:longitude":-87.911332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 W Seeboth St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353679987,
-    "wof:lastmodified":1449019889,
+    "wof:lastmodified":1467089890,
     "wof:name":"Spectracom Inc",
     "wof:parent_id":85867287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "market"
     ]
 },
-  "bbox": [-87.911332,43.030338,-87.911332,43.030338],
+  "bbox": [
+    -87.911332,
+    43.030338,
+    -87.911332,
+    43.030338
+],
   "geometry": {"coordinates":[-87.911332,43.030338],"type":"Point"}
 }

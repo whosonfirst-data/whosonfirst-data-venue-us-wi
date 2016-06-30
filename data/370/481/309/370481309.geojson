@@ -2,13 +2,14 @@
   "id": 370481309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.882763,43.086103,-87.882763,43.086103",
     "geom:latitude":43.086103,
     "geom:longitude":-87.882763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2118 E Beverly Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370481309,
-    "wof:lastmodified":1449032039,
+    "wof:lastmodified":1467089906,
     "wof:name":"Nelson Bennett Sales Inc",
     "wof:parent_id":85870879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distributor"
     ]
 },
-  "bbox": [-87.882763,43.086103,-87.882763,43.086103],
+  "bbox": [
+    -87.882763,
+    43.086103,
+    -87.882763,
+    43.086103
+],
   "geometry": {"coordinates":[-87.882763,43.086103],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354403261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.241953,43.057634,-89.241953,43.057634",
     "geom:latitude":43.057634,
     "geom:longitude":-89.241953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3819 Gala Way",
     "sg:city":"Cottage Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354403261,
-    "wof:lastmodified":1449067424,
+    "wof:lastmodified":1467089937,
     "wof:name":"Printers Parts Of Wisconsin",
     "wof:parent_id":85814911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parts"
     ]
 },
-  "bbox": [-89.241953,43.057634,-89.241953,43.057634],
+  "bbox": [
+    -89.241953,
+    43.057634,
+    -89.241953,
+    43.057634
+],
   "geometry": {"coordinates":[-89.241953,43.057634],"type":"Point"}
 }

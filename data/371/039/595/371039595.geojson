@@ -2,13 +2,14 @@
   "id": 371039595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.251748,43.804868,-91.251748,43.804868",
     "geom:latitude":43.804868,
     "geom:longitude":-91.251748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 4th St S",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371039595,
-    "wof:lastmodified":1449050006,
+    "wof:lastmodified":1467089914,
     "wof:name":"Freedom Valu Center 51",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-91.251748,43.804868,-91.251748,43.804868],
-  "geometry": {"coordinates":[-91.251748,43.804868],"type":"Point"}
+  "bbox": [
+    -91.251748,
+    43.804868,
+    -91.251748,
+    43.804868
+],
+  "geometry": {"coordinates":[-91.25174800000001,43.804868],"type":"Point"}
 }

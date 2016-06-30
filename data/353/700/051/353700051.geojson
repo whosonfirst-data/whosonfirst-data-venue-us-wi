@@ -2,13 +2,14 @@
   "id": 353700051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.062207,43.129161,-88.062207,43.129161",
     "geom:latitude":43.129161,
     "geom:longitude":-88.062207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12000 W Rio St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353700051,
-    "wof:lastmodified":1449020585,
+    "wof:lastmodified":1467089891,
     "wof:name":"Gurgul Brothers Aluminum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-88.062207,43.129161,-88.062207,43.129161],
+  "bbox": [
+    -88.062207,
+    43.129161,
+    -88.062207,
+    43.129161
+],
   "geometry": {"coordinates":[-88.062207,43.129161],"type":"Point"}
 }

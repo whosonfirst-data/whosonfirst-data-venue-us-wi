@@ -2,13 +2,14 @@
   "id": 387016525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.160135,43.869524,-91.160135,43.869524",
     "geom:latitude":43.869524,
     "geom:longitude":-91.160135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4111 Beverly Dr",
     "sg:city":"Onalaska",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387016525,
-    "wof:lastmodified":1449056760,
+    "wof:lastmodified":1467089923,
     "wof:name":"T & P of Onalaska LLC",
     "wof:parent_id":85825891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-91.160135,43.869524,-91.160135,43.869524],
+  "bbox": [
+    -91.160135,
+    43.869524,
+    -91.160135,
+    43.869524
+],
   "geometry": {"coordinates":[-91.160135,43.869524],"type":"Point"}
 }

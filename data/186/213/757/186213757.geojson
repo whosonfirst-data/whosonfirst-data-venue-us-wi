@@ -2,13 +2,14 @@
   "id": 186213757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.576914,42.761928,-88.576914,42.761928",
     "geom:latitude":42.761928,
     "geom:longitude":-88.576914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5570 Cool Hill Dr",
     "sg:city":"Elkhorn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186213757,
-    "wof:lastmodified":1449050286,
+    "wof:lastmodified":1467089914,
     "wof:name":"Welsch Engineering Inc",
     "wof:parent_id":85829883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-88.576914,42.761928,-88.576914,42.761928],
+  "bbox": [
+    -88.576914,
+    42.761928,
+    -88.576914,
+    42.761928
+],
   "geometry": {"coordinates":[-88.576914,42.761928],"type":"Point"}
 }

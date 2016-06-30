@@ -2,13 +2,14 @@
   "id": 354083525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.025205,44.529657,-88.025205,44.529657",
     "geom:latitude":44.529657,
     "geom:longitude":-88.025205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Gallagher St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354083525,
-    "wof:lastmodified":1449066727,
+    "wof:lastmodified":1467089935,
     "wof:name":"Carlson Construction",
     "wof:parent_id":85877941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-88.025205,44.529657,-88.025205,44.529657],
+  "bbox": [
+    -88.025205,
+    44.529657,
+    -88.025205,
+    44.529657
+],
   "geometry": {"coordinates":[-88.025205,44.529657],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353778955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.485948,43.104971,-88.485948,43.104971",
     "geom:latitude":43.104971,
     "geom:longitude":-88.485948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"432 S Lapham St",
     "sg:city":"Oconomowoc",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353778955,
-    "wof:lastmodified":1449018301,
+    "wof:lastmodified":1467089886,
     "wof:name":"Lake Area Free Clinic",
     "wof:parent_id":85851111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-88.485948,43.104971,-88.485948,43.104971],
-  "geometry": {"coordinates":[-88.485948,43.104971],"type":"Point"}
+  "bbox": [
+    -88.485948,
+    43.104971,
+    -88.485948,
+    43.104971
+],
+  "geometry": {"coordinates":[-88.48594799999999,43.104971],"type":"Point"}
 }

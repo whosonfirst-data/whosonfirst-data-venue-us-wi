@@ -2,13 +2,14 @@
   "id": 337451851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.957486,43.122556,-87.957486,43.122556",
     "geom:latitude":43.122556,
     "geom:longitude":-87.957486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5933 N 36th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337451851,
-    "wof:lastmodified":1449027293,
+    "wof:lastmodified":1467089894,
     "wof:name":"Abundant Life Ctr",
     "wof:parent_id":85870807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.957486,43.122556,-87.957486,43.122556],
+  "bbox": [
+    -87.957486,
+    43.122556,
+    -87.957486,
+    43.122556
+],
   "geometry": {"coordinates":[-87.957486,43.122556],"type":"Point"}
 }

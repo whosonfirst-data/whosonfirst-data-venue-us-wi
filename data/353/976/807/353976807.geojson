@@ -2,13 +2,14 @@
   "id": 353976807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.398668,44.285702,-88.398668,44.285702",
     "geom:latitude":44.285702,
     "geom:longitude":-88.398668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 E Greenfield St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353976807,
-    "wof:lastmodified":1449019303,
+    "wof:lastmodified":1467089888,
     "wof:name":"Birling Illustrations",
     "wof:parent_id":85857401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-88.398668,44.285702,-88.398668,44.285702],
+  "bbox": [
+    -88.398668,
+    44.285702,
+    -88.398668,
+    44.285702
+],
   "geometry": {"coordinates":[-88.398668,44.285702],"type":"Point"}
 }

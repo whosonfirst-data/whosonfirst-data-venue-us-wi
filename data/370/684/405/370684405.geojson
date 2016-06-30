@@ -2,13 +2,14 @@
   "id": 370684405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.518853,44.796766,-91.518853,44.796766",
     "geom:latitude":44.796766,
     "geom:longitude":-91.518853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Oak Ridge Dr",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370684405,
-    "wof:lastmodified":1449029940,
+    "wof:lastmodified":1467089900,
     "wof:name":"Leave A Legacy Chippewa Valley",
     "wof:parent_id":85848105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-91.518853,44.796766,-91.518853,44.796766],
-  "geometry": {"coordinates":[-91.518853,44.796766],"type":"Point"}
+  "bbox": [
+    -91.518853,
+    44.796766,
+    -91.518853,
+    44.796766
+],
+  "geometry": {"coordinates":[-91.51885299999999,44.796766],"type":"Point"}
 }

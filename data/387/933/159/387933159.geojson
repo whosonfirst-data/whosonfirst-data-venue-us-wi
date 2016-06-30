@@ -2,13 +2,14 @@
   "id": 387933159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.068663,44.012378,-90.068663,44.012378",
     "geom:latitude":44.012378,
     "geom:longitude":-90.068663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 West St",
     "sg:city":"Necedah",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387933159,
-    "wof:lastmodified":1449056882,
+    "wof:lastmodified":1467089923,
     "wof:name":"Arlyne's Aerobic Stucio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "facility"
     ]
 },
-  "bbox": [-90.068663,44.012378,-90.068663,44.012378],
+  "bbox": [
+    -90.068663,
+    44.012378,
+    -90.068663,
+    44.012378
+],
   "geometry": {"coordinates":[-90.068663,44.012378],"type":"Point"}
 }

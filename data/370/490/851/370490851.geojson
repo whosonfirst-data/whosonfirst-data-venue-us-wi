@@ -2,13 +2,14 @@
   "id": 370490851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.361446,45.316248,-92.361446,45.316248",
     "geom:latitude":45.316248,
     "geom:longitude":-92.361446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Wisconsin Ave",
     "sg:city":"Amery",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370490851,
-    "wof:lastmodified":1449032134,
+    "wof:lastmodified":1467089906,
     "wof:name":"Dental Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-92.361446,45.316248,-92.361446,45.316248],
+  "bbox": [
+    -92.361446,
+    45.316248,
+    -92.361446,
+    45.316248
+],
   "geometry": {"coordinates":[-92.361446,45.316248],"type":"Point"}
 }

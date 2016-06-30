@@ -2,13 +2,14 @@
   "id": 403715083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.803382,43.461468,-88.803382,43.461468",
     "geom:latitude":43.461468,
     "geom:longitude":-88.803382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7375 Crystal Ridge Dr",
     "sg:city":"Beaver Dam",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403715083,
-    "wof:lastmodified":1449055689,
+    "wof:lastmodified":1467089920,
     "wof:name":"Medical Physics Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "imaging"
     ]
 },
-  "bbox": [-88.803382,43.461468,-88.803382,43.461468],
+  "bbox": [
+    -88.803382,
+    43.461468,
+    -88.803382,
+    43.461468
+],
   "geometry": {"coordinates":[-88.803382,43.461468],"type":"Point"}
 }

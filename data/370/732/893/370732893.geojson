@@ -2,13 +2,14 @@
   "id": 370732893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.358259,43.105133,-89.358259,43.105133",
     "geom:latitude":43.105133,
     "geom:longitude":-89.358259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2510 Pennsylvania Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370732893,
-    "wof:lastmodified":1449032605,
+    "wof:lastmodified":1467089907,
     "wof:name":"Penn Self-Storage Ctr",
     "wof:parent_id":85878841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-89.358259,43.105133,-89.358259,43.105133],
+  "bbox": [
+    -89.358259,
+    43.105133,
+    -89.358259,
+    43.105133
+],
   "geometry": {"coordinates":[-89.358259,43.105133],"type":"Point"}
 }

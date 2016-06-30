@@ -2,13 +2,14 @@
   "id": 387442189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.9444,43.190239,-87.9444,43.190239",
     "geom:latitude":43.190239,
     "geom:longitude":-87.9444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9555 N Range Line Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387442189,
-    "wof:lastmodified":1449057779,
+    "wof:lastmodified":1467089926,
     "wof:name":"Creative Logic LLC",
     "wof:parent_id":85894487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.9444,43.190239,-87.9444,43.190239],
+  "bbox": [
+    -87.9444,
+    43.190239,
+    -87.9444,
+    43.190239
+],
   "geometry": {"coordinates":[-87.9444,43.190239],"type":"Point"}
 }

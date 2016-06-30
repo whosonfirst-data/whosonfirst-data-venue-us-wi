@@ -2,13 +2,14 @@
   "id": 186170593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.746292,44.351587,-89.746292,44.351587",
     "geom:latitude":44.351587,
     "geom:longitude":-89.746292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7212 Co Rd Z",
     "sg:city":"Wisconsin Rapids",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186170593,
-    "wof:lastmodified":1449050490,
+    "wof:lastmodified":1467089914,
     "wof:name":"Plum Creek Timber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "timber"
     ]
 },
-  "bbox": [-89.746292,44.351587,-89.746292,44.351587],
+  "bbox": [
+    -89.746292,
+    44.351587,
+    -89.746292,
+    44.351587
+],
   "geometry": {"coordinates":[-89.746292,44.351587],"type":"Point"}
 }

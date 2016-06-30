@@ -2,13 +2,14 @@
   "id": 354182745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.819813,43.448881,-88.819813,43.448881",
     "geom:latitude":43.448881,
     "geom:longitude":-88.819813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 Monroe St",
     "sg:city":"Beaver Dam",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354182745,
-    "wof:lastmodified":1449067045,
+    "wof:lastmodified":1467089936,
     "wof:name":"Sylvan Crossings At Hunter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-88.819813,43.448881,-88.819813,43.448881],
+  "bbox": [
+    -88.819813,
+    43.448881,
+    -88.819813,
+    43.448881
+],
   "geometry": {"coordinates":[-88.819813,43.448881],"type":"Point"}
 }

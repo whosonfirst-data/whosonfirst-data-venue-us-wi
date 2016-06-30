@@ -2,13 +2,14 @@
   "id": 353929621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.408509,44.261742,-88.408509,44.261742",
     "geom:latitude":44.261742,
     "geom:longitude":-88.408509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 W College Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353929621,
-    "wof:lastmodified":1449019243,
+    "wof:lastmodified":1467089888,
     "wof:name":"M & L Financial Advisors",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-88.408509,44.261742,-88.408509,44.261742],
+  "bbox": [
+    -88.408509,
+    44.261742,
+    -88.408509,
+    44.261742
+],
   "geometry": {"coordinates":[-88.408509,44.261742],"type":"Point"}
 }

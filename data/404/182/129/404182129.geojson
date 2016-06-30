@@ -2,13 +2,14 @@
   "id": 404182129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.985595,43.097297,-87.985595,43.097297",
     "geom:latitude":43.097297,
     "geom:longitude":-87.985595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5740 W Fond du Lac Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404182129,
-    "wof:lastmodified":1449039891,
+    "wof:lastmodified":1467089911,
     "wof:name":"Extreme Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "radio"
     ]
 },
-  "bbox": [-87.985595,43.097297,-87.985595,43.097297],
+  "bbox": [
+    -87.985595,
+    43.097297,
+    -87.985595,
+    43.097297
+],
   "geometry": {"coordinates":[-87.985595,43.097297],"type":"Point"}
 }

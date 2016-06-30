@@ -2,13 +2,14 @@
   "id": 370571413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.397344,44.94036,-91.397344,44.94036",
     "geom:latitude":44.94036,
     "geom:longitude":-91.397344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 N Bridge St",
     "sg:city":"Chippewa Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370571413,
-    "wof:lastmodified":1449031387,
+    "wof:lastmodified":1467089904,
     "wof:name":"Social Services Economic Spprt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "adm"
     ]
 },
-  "bbox": [-91.397344,44.94036,-91.397344,44.94036],
+  "bbox": [
+    -91.397344,
+    44.94036,
+    -91.397344,
+    44.94036
+],
   "geometry": {"coordinates":[-91.397344,44.94036],"type":"Point"}
 }

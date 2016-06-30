@@ -2,13 +2,14 @@
   "id": 169771291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.028485,44.523364,-88.028485,44.523364",
     "geom:latitude":44.523364,
     "geom:longitude":-88.028485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 Division St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169771291,
-    "wof:lastmodified":1449034485,
+    "wof:lastmodified":1467089908,
     "wof:name":"Eyes For Success",
     "wof:parent_id":85877941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.028485,44.523364,-88.028485,44.523364],
+  "bbox": [
+    -88.028485,
+    44.523364,
+    -88.028485,
+    44.523364
+],
   "geometry": {"coordinates":[-88.028485,44.523364],"type":"Point"}
 }

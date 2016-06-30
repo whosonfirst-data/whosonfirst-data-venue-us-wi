@@ -2,13 +2,14 @@
   "id": 387756829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.181122,43.417565,-88.181122,43.417565",
     "geom:latitude":43.417565,
     "geom:longitude":-88.181122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"544 S Main St",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387756829,
-    "wof:lastmodified":1449058387,
+    "wof:lastmodified":1467089928,
     "wof:name":"Benefit Planners Assoc Inc",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.181122,43.417565,-88.181122,43.417565],
+  "bbox": [
+    -88.181122,
+    43.417565,
+    -88.181122,
+    43.417565
+],
   "geometry": {"coordinates":[-88.181122,43.417565],"type":"Point"}
 }

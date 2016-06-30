@@ -2,13 +2,14 @@
   "id": 370956391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.90072,43.216806,-87.90072,43.216806",
     "geom:latitude":43.216806,
     "geom:longitude":-87.90072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11005 N Lakeview Rd",
     "sg:city":"Thiensville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370956391,
-    "wof:lastmodified":1449029663,
+    "wof:lastmodified":1467089899,
     "wof:name":"Telemetry Systems Inc",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.90072,43.216806,-87.90072,43.216806],
-  "geometry": {"coordinates":[-87.90072,43.216806],"type":"Point"}
+  "bbox": [
+    -87.90072,
+    43.216806,
+    -87.90072,
+    43.216806
+],
+  "geometry": {"coordinates":[-87.90072000000001,43.216806],"type":"Point"}
 }

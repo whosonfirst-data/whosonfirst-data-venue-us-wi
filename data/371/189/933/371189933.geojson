@@ -2,13 +2,14 @@
   "id": 371189933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.051864,42.685359,-88.051864,42.685359",
     "geom:latitude":42.685359,
     "geom:longitude":-88.051864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Main St",
     "sg:city":"Union Grove",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371189933,
-    "wof:lastmodified":1449049788,
+    "wof:lastmodified":1467089913,
     "wof:name":"Redwood Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-88.051864,42.685359,-88.051864,42.685359],
-  "geometry": {"coordinates":[-88.051864,42.685359],"type":"Point"}
+  "bbox": [
+    -88.051864,
+    42.685359,
+    -88.051864,
+    42.685359
+],
+  "geometry": {"coordinates":[-88.05186399999999,42.685359],"type":"Point"}
 }

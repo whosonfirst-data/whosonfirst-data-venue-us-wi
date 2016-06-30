@@ -2,13 +2,14 @@
   "id": 354410965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.04975,43.08967,-88.04975,43.08967",
     "geom:latitude":43.08967,
     "geom:longitude":-88.04975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10948 W Capitol Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354410965,
-    "wof:lastmodified":1449065958,
+    "wof:lastmodified":1467089933,
     "wof:name":"Milk'n Honey Natural Foods",
     "wof:parent_id":85870997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "diet"
     ]
 },
-  "bbox": [-88.04975,43.08967,-88.04975,43.08967],
+  "bbox": [
+    -88.04975,
+    43.08967,
+    -88.04975,
+    43.08967
+],
   "geometry": {"coordinates":[-88.04975,43.08967],"type":"Point"}
 }

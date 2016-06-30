@@ -2,13 +2,14 @@
   "id": 386941259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.325042,44.243442,-88.325042,44.243442",
     "geom:latitude":44.243442,
     "geom:longitude":-88.325042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5669 Co Rd Kk",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":386941259,
-    "wof:lastmodified":1449028812,
+    "wof:lastmodified":1467089896,
     "wof:name":"Daniel Nowak Dr",
     "wof:parent_id":85813523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.325042,44.243442,-88.325042,44.243442],
+  "bbox": [
+    -88.325042,
+    44.243442,
+    -88.325042,
+    44.243442
+],
   "geometry": {"coordinates":[-88.325042,44.243442],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353829811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.111486,43.000066,-88.111486,43.000066",
     "geom:latitude":43.000066,
     "geom:longitude":-88.111486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15885 W Overland Dr",
     "sg:city":"New Berlin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353829811,
-    "wof:lastmodified":1449020625,
+    "wof:lastmodified":1467089891,
     "wof:name":"Aries Tool Inc",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "molding"
     ]
 },
-  "bbox": [-88.111486,43.000066,-88.111486,43.000066],
+  "bbox": [
+    -88.111486,
+    43.000066,
+    -88.111486,
+    43.000066
+],
   "geometry": {"coordinates":[-88.111486,43.000066],"type":"Point"}
 }

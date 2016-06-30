@@ -2,13 +2,14 @@
   "id": 371108491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.45095,43.075406,-89.45095,43.075406",
     "geom:latitude":43.075406,
     "geom:longitude":-89.45095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4050 University Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":371108491,
-    "wof:lastmodified":1449049090,
+    "wof:lastmodified":1467089912,
     "wof:name":"Company Store The",
     "wof:parent_id":85868277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "outlet"
     ]
 },
-  "bbox": [-89.45095,43.075406,-89.45095,43.075406],
-  "geometry": {"coordinates":[-89.45095,43.075406],"type":"Point"}
+  "bbox": [
+    -89.45095,
+    43.075406,
+    -89.45095,
+    43.075406
+],
+  "geometry": {"coordinates":[-89.45095000000001,43.075406],"type":"Point"}
 }

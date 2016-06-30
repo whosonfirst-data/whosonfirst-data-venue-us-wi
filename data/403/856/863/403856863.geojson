@@ -2,13 +2,14 @@
   "id": 403856863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.760801,44.485322,-91.760801,44.485322",
     "geom:latitude":44.485322,
     "geom:longitude":-91.760801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"783 Pfund Rd",
     "sg:city":"Mondovi",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403856863,
-    "wof:lastmodified":1449055020,
+    "wof:lastmodified":1467089918,
     "wof:name":"Pfund Grain Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "grain"
     ]
 },
-  "bbox": [-91.760801,44.485322,-91.760801,44.485322],
+  "bbox": [
+    -91.760801,
+    44.485322,
+    -91.760801,
+    44.485322
+],
   "geometry": {"coordinates":[-91.760801,44.485322],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403896497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.301827,44.343207,-88.301827,44.343207",
     "geom:latitude":44.343207,
     "geom:longitude":-88.301827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2298 Greiner Rd",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403896497,
-    "wof:lastmodified":1449055121,
+    "wof:lastmodified":1467089918,
     "wof:name":"Country Side Boutique",
     "wof:parent_id":85803271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-88.301827,44.343207,-88.301827,44.343207],
+  "bbox": [
+    -88.301827,
+    44.343207,
+    -88.301827,
+    44.343207
+],
   "geometry": {"coordinates":[-88.301827,44.343207],"type":"Point"}
 }

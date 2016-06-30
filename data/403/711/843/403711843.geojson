@@ -2,13 +2,14 @@
   "id": 403711843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.887493,43.103928,-87.887493,43.103928",
     "geom:latitude":43.103928,
     "geom:longitude":-87.887493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1728 E Hampton Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":403711843,
-    "wof:lastmodified":1449055722,
+    "wof:lastmodified":1467089920,
     "wof:name":"Dudek Stephanie Tomescu Assoc",
     "wof:parent_id":85870879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "raising"
     ]
 },
-  "bbox": [-87.887493,43.103928,-87.887493,43.103928],
-  "geometry": {"coordinates":[-87.887493,43.103928],"type":"Point"}
+  "bbox": [
+    -87.887493,
+    43.103928,
+    -87.887493,
+    43.103928
+],
+  "geometry": {"coordinates":[-87.88749300000001,43.103928],"type":"Point"}
 }

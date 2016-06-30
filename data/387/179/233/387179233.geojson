@@ -2,13 +2,14 @@
   "id": 387179233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.958379,42.972388,-87.958379,42.972388",
     "geom:latitude":42.972388,
     "geom:longitude":-87.958379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 S 35th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387179233,
-    "wof:lastmodified":1449059526,
+    "wof:lastmodified":1467089932,
     "wof:name":"White Oaks Senior Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-87.958379,42.972388,-87.958379,42.972388],
-  "geometry": {"coordinates":[-87.958379,42.972388],"type":"Point"}
+  "bbox": [
+    -87.958379,
+    42.972388,
+    -87.958379,
+    42.972388
+],
+  "geometry": {"coordinates":[-87.95837899999999,42.972388],"type":"Point"}
 }

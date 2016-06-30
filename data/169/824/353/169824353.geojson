@@ -2,13 +2,14 @@
   "id": 169824353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.435891,44.239783,-88.435891,44.239783",
     "geom:latitude":44.239783,
     "geom:longitude":-88.435891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2575 Teakwood St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":169824353,
-    "wof:lastmodified":1449033866,
+    "wof:lastmodified":1467089908,
     "wof:name":"Frontline Products Inc",
     "wof:parent_id":85807543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "light"
     ]
 },
-  "bbox": [-88.435891,44.239783,-88.435891,44.239783],
+  "bbox": [
+    -88.435891,
+    44.239783,
+    -88.435891,
+    44.239783
+],
   "geometry": {"coordinates":[-88.435891,44.239783],"type":"Point"}
 }

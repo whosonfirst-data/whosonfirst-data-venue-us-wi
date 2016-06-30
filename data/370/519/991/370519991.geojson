@@ -2,13 +2,14 @@
   "id": 370519991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.038217,45.410823,-92.038217,45.410823",
     "geom:latitude":45.410823,
     "geom:longitude":-92.038217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"675 Garfield St S",
     "sg:city":"Almena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370519991,
-    "wof:lastmodified":1449032237,
+    "wof:lastmodified":1467089906,
     "wof:name":"Red Cedar Marketing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-92.038217,45.410823,-92.038217,45.410823],
+  "bbox": [
+    -92.038217,
+    45.410823,
+    -92.038217,
+    45.410823
+],
   "geometry": {"coordinates":[-92.038217,45.410823],"type":"Point"}
 }

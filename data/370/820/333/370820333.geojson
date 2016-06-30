@@ -2,13 +2,14 @@
   "id": 370820333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.887367,43.094531,-87.887367,43.094531",
     "geom:latitude":43.094531,
     "geom:longitude":-87.887367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4208 N Oakland Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370820333,
-    "wof:lastmodified":1449030830,
+    "wof:lastmodified":1467089902,
     "wof:name":"Oakland Glow Salon",
     "wof:parent_id":85870879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.887367,43.094531,-87.887367,43.094531],
+  "bbox": [
+    -87.887367,
+    43.094531,
+    -87.887367,
+    43.094531
+],
   "geometry": {"coordinates":[-87.887367,43.094531],"type":"Point"}
 }

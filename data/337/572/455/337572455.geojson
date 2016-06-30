@@ -2,13 +2,14 @@
   "id": 337572455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.010587,43.299788,-88.010587,43.299788",
     "geom:latitude":43.299788,
     "geom:longitude":-88.010587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Williams Dr",
     "sg:city":"Cedarburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337572455,
-    "wof:lastmodified":1449027445,
+    "wof:lastmodified":1467089894,
     "wof:name":"Michelle Larson Consulting",
     "wof:parent_id":85823669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.010587,43.299788,-88.010587,43.299788],
+  "bbox": [
+    -88.010587,
+    43.299788,
+    -88.010587,
+    43.299788
+],
   "geometry": {"coordinates":[-88.010587,43.299788],"type":"Point"}
 }

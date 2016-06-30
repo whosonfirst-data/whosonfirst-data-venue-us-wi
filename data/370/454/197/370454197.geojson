@@ -2,13 +2,14 @@
   "id": 370454197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.723915,45.806448,-89.723915,45.806448",
     "geom:latitude":45.806448,
     "geom:longitude":-89.723915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7030 US Hwy 51",
     "sg:city":"Hazelhurst",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370454197,
-    "wof:lastmodified":1449032157,
+    "wof:lastmodified":1467089906,
     "wof:name":"Diamond Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "eating"
     ]
 },
-  "bbox": [-89.723915,45.806448,-89.723915,45.806448],
-  "geometry": {"coordinates":[-89.723915,45.806448],"type":"Point"}
+  "bbox": [
+    -89.723915,
+    45.806448,
+    -89.723915,
+    45.806448
+],
+  "geometry": {"coordinates":[-89.72391500000001,45.806448],"type":"Point"}
 }

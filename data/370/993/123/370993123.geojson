@@ -2,13 +2,14 @@
   "id": 370993123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.998392,44.508224,-87.998392,44.508224",
     "geom:latitude":44.508224,
     "geom:longitude":-87.998392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1235 E Walnut St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":370993123,
-    "wof:lastmodified":1449030593,
+    "wof:lastmodified":1467089902,
     "wof:name":"Sewing With Love",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-87.998392,44.508224,-87.998392,44.508224],
+  "bbox": [
+    -87.998392,
+    44.508224,
+    -87.998392,
+    44.508224
+],
   "geometry": {"coordinates":[-87.998392,44.508224],"type":"Point"}
 }

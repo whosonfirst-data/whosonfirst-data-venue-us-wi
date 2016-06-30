@@ -2,13 +2,14 @@
   "id": 387348823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.247439,43.804979,-91.247439,43.804979",
     "geom:latitude":43.804979,
     "geom:longitude":-91.247439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 7th St S",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387348823,
-    "wof:lastmodified":1449056284,
+    "wof:lastmodified":1467089922,
     "wof:name":"Wood Works Silver Cross",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-91.247439,43.804979,-91.247439,43.804979],
+  "bbox": [
+    -91.247439,
+    43.804979,
+    -91.247439,
+    43.804979
+],
   "geometry": {"coordinates":[-91.247439,43.804979],"type":"Point"}
 }

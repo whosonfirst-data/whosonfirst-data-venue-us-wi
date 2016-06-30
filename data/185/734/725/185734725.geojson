@@ -2,13 +2,14 @@
   "id": 185734725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.28696,43.331832,-88.28696,43.331832",
     "geom:latitude":43.331832,
     "geom:longitude":-88.28696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Elm St",
     "sg:city":"Slinger",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185734725,
-    "wof:lastmodified":1449008018,
+    "wof:lastmodified":1467089885,
     "wof:name":"Technology USA",
     "wof:parent_id":85810007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.28696,43.331832,-88.28696,43.331832],
-  "geometry": {"coordinates":[-88.28696,43.331832],"type":"Point"}
+  "bbox": [
+    -88.28696,
+    43.331832,
+    -88.28696,
+    43.331832
+],
+  "geometry": {"coordinates":[-88.28695999999999,43.331832],"type":"Point"}
 }

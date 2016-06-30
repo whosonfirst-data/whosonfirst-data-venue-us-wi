@@ -2,13 +2,14 @@
   "id": 353609005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.954645,43.334854,-87.954645,43.334854",
     "geom:latitude":43.334854,
     "geom:longitude":-87.954645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1058 Overland Ct",
     "sg:city":"Grafton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353609005,
-    "wof:lastmodified":1449019213,
+    "wof:lastmodified":1467089888,
     "wof:name":"Blanking Systems Inc",
     "wof:parent_id":85852983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.954645,43.334854,-87.954645,43.334854],
+  "bbox": [
+    -87.954645,
+    43.334854,
+    -87.954645,
+    43.334854
+],
   "geometry": {"coordinates":[-87.954645,43.334854],"type":"Point"}
 }

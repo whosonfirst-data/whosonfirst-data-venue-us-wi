@@ -2,13 +2,14 @@
   "id": 186257239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.284976,44.450851,-89.284976,44.450851",
     "geom:latitude":44.450851,
     "geom:longitude":-89.284976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 S Main St",
     "sg:city":"Amherst",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186257239,
-    "wof:lastmodified":1449051162,
+    "wof:lastmodified":1467089915,
     "wof:name":"International Bank Of Amherst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.284976,44.450851,-89.284976,44.450851],
+  "bbox": [
+    -89.284976,
+    44.450851,
+    -89.284976,
+    44.450851
+],
   "geometry": {"coordinates":[-89.284976,44.450851],"type":"Point"}
 }

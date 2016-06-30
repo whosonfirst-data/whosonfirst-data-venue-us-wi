@@ -2,13 +2,14 @@
   "id": 387381765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.365322,45.823755,-92.365322,45.823755",
     "geom:latitude":45.823755,
     "geom:longitude":-92.365322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7410 Co Rd K",
     "sg:city":"Siren",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":387381765,
-    "wof:lastmodified":1449056420,
+    "wof:lastmodified":1467089922,
     "wof:name":"Burnett County Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.365322,45.823755,-92.365322,45.823755],
-  "geometry": {"coordinates":[-92.365322,45.823755],"type":"Point"}
+  "bbox": [
+    -92.365322,
+    45.823755,
+    -92.365322,
+    45.823755
+],
+  "geometry": {"coordinates":[-92.36532200000001,45.823755],"type":"Point"}
 }

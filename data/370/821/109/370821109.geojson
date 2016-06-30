@@ -2,13 +2,14 @@
   "id": 370821109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.717199,44.797644,-89.717199,44.797644",
     "geom:latitude":44.797644,
     "geom:longitude":-89.717199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 13th St",
     "sg:city":"Mosinee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370821109,
-    "wof:lastmodified":1449030910,
+    "wof:lastmodified":1467089903,
     "wof:name":"United Methodist Church",
     "wof:parent_id":85865437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.717199,44.797644,-89.717199,44.797644],
-  "geometry": {"coordinates":[-89.717199,44.797644],"type":"Point"}
+  "bbox": [
+    -89.717199,
+    44.797644,
+    -89.717199,
+    44.797644
+],
+  "geometry": {"coordinates":[-89.71719899999999,44.797644],"type":"Point"}
 }

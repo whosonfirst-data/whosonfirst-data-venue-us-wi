@@ -2,13 +2,14 @@
   "id": 403724831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.064144,44.177277,-88.064144,44.177277",
     "geom:latitude":44.177277,
     "geom:longitude":-88.064144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N Main St",
     "sg:city":"Brillion",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403724831,
-    "wof:lastmodified":1449055919,
+    "wof:lastmodified":1467089921,
     "wof:name":"Calumet County Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.064144,44.177277,-88.064144,44.177277],
+  "bbox": [
+    -88.064144,
+    44.177277,
+    -88.064144,
+    44.177277
+],
   "geometry": {"coordinates":[-88.064144,44.177277],"type":"Point"}
 }

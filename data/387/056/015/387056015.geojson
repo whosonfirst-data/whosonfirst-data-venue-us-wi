@@ -2,13 +2,14 @@
   "id": 387056015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.200981,43.280937,-88.200981,43.280937",
     "geom:latitude":43.280937,
     "geom:longitude":-88.200981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3230 Pioneer Rd",
     "sg:city":"Richfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387056015,
-    "wof:lastmodified":1449057186,
+    "wof:lastmodified":1467089924,
     "wof:name":"Pioneer Plaza Truck Stop",
     "wof:parent_id":85846371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stops"
     ]
 },
-  "bbox": [-88.200981,43.280937,-88.200981,43.280937],
+  "bbox": [
+    -88.200981,
+    43.280937,
+    -88.200981,
+    43.280937
+],
   "geometry": {"coordinates":[-88.200981,43.280937],"type":"Point"}
 }

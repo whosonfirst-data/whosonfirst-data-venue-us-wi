@@ -2,13 +2,14 @@
   "id": 404152189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.242329,43.011206,-88.242329,43.011206",
     "geom:latitude":43.011206,
     "geom:longitude":-88.242329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 American Ave",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404152189,
-    "wof:lastmodified":1449040015,
+    "wof:lastmodified":1467089911,
     "wof:name":"Midwest Nephrology Assoc",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-88.242329,43.011206,-88.242329,43.011206],
+  "bbox": [
+    -88.242329,
+    43.011206,
+    -88.242329,
+    43.011206
+],
   "geometry": {"coordinates":[-88.242329,43.011206],"type":"Point"}
 }

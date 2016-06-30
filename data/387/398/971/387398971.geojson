@@ -2,13 +2,14 @@
   "id": 387398971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.166526,43.055674,-88.166526,43.055674",
     "geom:latitude":43.055674,
     "geom:longitude":-88.166526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1755 N Barker Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387398971,
-    "wof:lastmodified":1449056416,
+    "wof:lastmodified":1467089922,
     "wof:name":"Care Age Of Brookfield Nursing",
     "wof:parent_id":85815589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-88.166526,43.055674,-88.166526,43.055674],
+  "bbox": [
+    -88.166526,
+    43.055674,
+    -88.166526,
+    43.055674
+],
   "geometry": {"coordinates":[-88.166526,43.055674],"type":"Point"}
 }

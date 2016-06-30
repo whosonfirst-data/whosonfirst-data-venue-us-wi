@@ -2,13 +2,14 @@
   "id": 404115299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.007535,43.065127,-88.007535,43.065127",
     "geom:latitude":43.065127,
     "geom:longitude":-88.007535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2515 N Wauwatosa Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":404115299,
-    "wof:lastmodified":1449039077,
+    "wof:lastmodified":1467089909,
     "wof:name":"Wumderlich Pearson & Tetzlaff",
     "wof:parent_id":85870905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "graphics"
     ]
 },
-  "bbox": [-88.007535,43.065127,-88.007535,43.065127],
+  "bbox": [
+    -88.007535,
+    43.065127,
+    -88.007535,
+    43.065127
+],
   "geometry": {"coordinates":[-88.007535,43.065127],"type":"Point"}
 }

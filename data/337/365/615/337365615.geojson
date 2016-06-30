@@ -2,13 +2,14 @@
   "id": 337365615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.752532,44.351573,-89.752532,44.351573",
     "geom:latitude":44.351573,
     "geom:longitude":-89.752532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6390 Griffith Ave",
     "sg:city":"Wisconsin Rapids",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":337365615,
-    "wof:lastmodified":1449027057,
+    "wof:lastmodified":1467089893,
     "wof:name":"La Fontaine Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-89.752532,44.351573,-89.752532,44.351573],
+  "bbox": [
+    -89.752532,
+    44.351573,
+    -89.752532,
+    44.351573
+],
   "geometry": {"coordinates":[-89.752532,44.351573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370475585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.163581,46.044197,-92.163581,46.044197",
     "geom:latitude":46.044197,
     "geom:longitude":-92.163581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31111 Deer Lake Rd",
     "sg:city":"Danbury",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370475585,
-    "wof:lastmodified":1449030491,
+    "wof:lastmodified":1467089901,
     "wof:name":"Unibarge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "boat"
     ]
 },
-  "bbox": [-92.163581,46.044197,-92.163581,46.044197],
-  "geometry": {"coordinates":[-92.163581,46.044197],"type":"Point"}
+  "bbox": [
+    -92.163581,
+    46.044197,
+    -92.163581,
+    46.044197
+],
+  "geometry": {"coordinates":[-92.16358099999999,46.044197],"type":"Point"}
 }

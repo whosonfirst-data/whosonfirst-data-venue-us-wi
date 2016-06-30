@@ -2,13 +2,14 @@
   "id": 186208913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.156534,45.172885,-92.156534,45.172885",
     "geom:latitude":45.172885,
     "geom:longitude":-92.156534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2130 320th St",
     "sg:city":"Clear Lake",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186208913,
-    "wof:lastmodified":1449050566,
+    "wof:lastmodified":1467089914,
     "wof:name":"Monty Edwards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.156534,45.172885,-92.156534,45.172885],
-  "geometry": {"coordinates":[-92.156534,45.172885],"type":"Point"}
+  "bbox": [
+    -92.156534,
+    45.172885,
+    -92.156534,
+    45.172885
+],
+  "geometry": {"coordinates":[-92.15653399999999,45.172885],"type":"Point"}
 }

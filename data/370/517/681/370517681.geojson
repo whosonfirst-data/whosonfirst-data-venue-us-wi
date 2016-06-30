@@ -2,13 +2,14 @@
   "id": 370517681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.542566,44.01823,-88.542566,44.01823",
     "geom:latitude":44.01823,
     "geom:longitude":-88.542566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Pearl Ave",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370517681,
-    "wof:lastmodified":1449031005,
+    "wof:lastmodified":1467089903,
     "wof:name":"Vocational Rehabilitation",
     "wof:parent_id":85851167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vocational"
     ]
 },
-  "bbox": [-88.542566,44.01823,-88.542566,44.01823],
-  "geometry": {"coordinates":[-88.542566,44.01823],"type":"Point"}
+  "bbox": [
+    -88.542566,
+    44.01823,
+    -88.542566,
+    44.01823
+],
+  "geometry": {"coordinates":[-88.54256599999999,44.01823],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337393775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.889265,43.553098,-90.889265,43.553098",
     "geom:latitude":43.553098,
     "geom:longitude":-90.889265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 S Main St",
     "sg:city":"Viroqua",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337393775,
-    "wof:lastmodified":1449027199,
+    "wof:lastmodified":1467089893,
     "wof:name":"Gary's Rock Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rock"
     ]
 },
-  "bbox": [-90.889265,43.553098,-90.889265,43.553098],
-  "geometry": {"coordinates":[-90.889265,43.553098],"type":"Point"}
+  "bbox": [
+    -90.889265,
+    43.553098,
+    -90.889265,
+    43.553098
+],
+  "geometry": {"coordinates":[-90.88926499999999,43.553098],"type":"Point"}
 }

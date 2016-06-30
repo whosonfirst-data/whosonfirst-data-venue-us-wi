@@ -2,13 +2,14 @@
   "id": 370960619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.313038,43.073898,-89.313038,43.073898",
     "geom:latitude":43.073898,
     "geom:longitude":-89.313038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4613 Maher Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370960619,
-    "wof:lastmodified":1449031523,
+    "wof:lastmodified":1467089904,
     "wof:name":"Johnz JAMZ DJ Svc",
     "wof:parent_id":85878857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-89.313038,43.073898,-89.313038,43.073898],
-  "geometry": {"coordinates":[-89.313038,43.073898],"type":"Point"}
+  "bbox": [
+    -89.313038,
+    43.073898,
+    -89.313038,
+    43.073898
+],
+  "geometry": {"coordinates":[-89.31303800000001,43.073898],"type":"Point"}
 }

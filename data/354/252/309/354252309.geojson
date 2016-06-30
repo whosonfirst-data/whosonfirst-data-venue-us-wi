@@ -2,13 +2,14 @@
   "id": 354252309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.732417,44.881094,-91.732417,44.881094",
     "geom:latitude":44.881094,
     "geom:longitude":-91.732417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5336 850th St",
     "sg:city":"Elk Mound",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354252309,
-    "wof:lastmodified":1449066159,
+    "wof:lastmodified":1467089934,
     "wof:name":"B&B Apts LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "apartment"
     ]
 },
-  "bbox": [-91.732417,44.881094,-91.732417,44.881094],
+  "bbox": [
+    -91.732417,
+    44.881094,
+    -91.732417,
+    44.881094
+],
   "geometry": {"coordinates":[-91.732417,44.881094],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370952633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.502661,45.120401,-91.502661,45.120401",
     "geom:latitude":45.120401,
     "geom:longitude":-91.502661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8740 190th Ave",
     "sg:city":"Bloomer",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":370952633,
-    "wof:lastmodified":1449031531,
+    "wof:lastmodified":1467089904,
     "wof:name":"A-D & D Trucking",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "local"
     ]
 },
-  "bbox": [-91.502661,45.120401,-91.502661,45.120401],
+  "bbox": [
+    -91.502661,
+    45.120401,
+    -91.502661,
+    45.120401
+],
   "geometry": {"coordinates":[-91.502661,45.120401],"type":"Point"}
 }

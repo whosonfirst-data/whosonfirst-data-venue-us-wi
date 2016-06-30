@@ -2,13 +2,14 @@
   "id": 370567079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.954297,43.143448,-87.954297,43.143448",
     "geom:latitude":43.143448,
     "geom:longitude":-87.954297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3323 W Vera Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370567079,
-    "wof:lastmodified":1449032499,
+    "wof:lastmodified":1467089907,
     "wof:name":"K&L Group LLC",
     "wof:parent_id":85870803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.954297,43.143448,-87.954297,43.143448],
+  "bbox": [
+    -87.954297,
+    43.143448,
+    -87.954297,
+    43.143448
+],
   "geometry": {"coordinates":[-87.954297,43.143448],"type":"Point"}
 }

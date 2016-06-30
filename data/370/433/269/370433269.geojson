@@ -2,13 +2,14 @@
   "id": 370433269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.354229,43.319997,-88.354229,43.319997",
     "geom:latitude":43.319997,
     "geom:longitude":-88.354229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Lone Oak Ln",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370433269,
-    "wof:lastmodified":1449029480,
+    "wof:lastmodified":1467089899,
     "wof:name":"Clothes Clinic Dry Cleaners",
     "wof:parent_id":85841573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-88.354229,43.319997,-88.354229,43.319997],
+  "bbox": [
+    -88.354229,
+    43.319997,
+    -88.354229,
+    43.319997
+],
   "geometry": {"coordinates":[-88.354229,43.319997],"type":"Point"}
 }

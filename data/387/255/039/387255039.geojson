@@ -2,13 +2,14 @@
   "id": 387255039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.917967,44.596345,-90.917967,44.596345",
     "geom:latitude":44.596345,
     "geom:longitude":-90.917967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11990 US Hwy 10",
     "sg:city":"Fairchild",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387255039,
-    "wof:lastmodified":1449057834,
+    "wof:lastmodified":1467089926,
     "wof:name":"Kaufmans Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-90.917967,44.596345,-90.917967,44.596345],
+  "bbox": [
+    -90.917967,
+    44.596345,
+    -90.917967,
+    44.596345
+],
   "geometry": {"coordinates":[-90.917967,44.596345],"type":"Point"}
 }

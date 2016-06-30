@@ -2,13 +2,14 @@
   "id": 354298929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.909263,42.996729,-87.909263,42.996729",
     "geom:latitude":42.996729,
     "geom:longitude":-87.909263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 S Greeley St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354298929,
-    "wof:lastmodified":1449066366,
+    "wof:lastmodified":1467089934,
     "wof:name":"Soulstice Limited",
     "wof:parent_id":85867297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.909263,42.996729,-87.909263,42.996729],
+  "bbox": [
+    -87.909263,
+    42.996729,
+    -87.909263,
+    42.996729
+],
   "geometry": {"coordinates":[-87.909263,42.996729],"type":"Point"}
 }

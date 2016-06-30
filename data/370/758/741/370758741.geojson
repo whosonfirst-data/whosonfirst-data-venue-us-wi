@@ -2,13 +2,14 @@
   "id": 370758741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.024738,42.96382,-88.024738,42.96382",
     "geom:latitude":42.96382,
     "geom:longitude":-88.024738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4437 S 90th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":370758741,
-    "wof:lastmodified":1449030121,
+    "wof:lastmodified":1467089900,
     "wof:name":"Jacobsons Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.024738,42.96382,-88.024738,42.96382],
+  "bbox": [
+    -88.024738,
+    42.96382,
+    -88.024738,
+    42.96382
+],
   "geometry": {"coordinates":[-88.024738,42.96382],"type":"Point"}
 }

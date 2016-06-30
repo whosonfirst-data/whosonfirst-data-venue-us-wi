@@ -2,13 +2,14 @@
   "id": 353674375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.971947,44.299486,-87.971947,44.299486",
     "geom:latitude":44.299486,
     "geom:longitude":-87.971947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3281 Mill Rd",
     "sg:city":"Greenleaf",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353674375,
-    "wof:lastmodified":1449020152,
+    "wof:lastmodified":1467089890,
     "wof:name":"Steven Lacenski Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.971947,44.299486,-87.971947,44.299486],
+  "bbox": [
+    -87.971947,
+    44.299486,
+    -87.971947,
+    44.299486
+],
   "geometry": {"coordinates":[-87.971947,44.299486],"type":"Point"}
 }

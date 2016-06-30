@@ -2,13 +2,14 @@
   "id": 387777923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.830263,43.727716,-87.830263,43.727716",
     "geom:latitude":43.727716,
     "geom:longitude":-87.830263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"532 Denison Cir",
     "sg:city":"Sheboygan Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387777923,
-    "wof:lastmodified":1449058119,
+    "wof:lastmodified":1467089927,
     "wof:name":"Nutrition Professionals",
     "wof:parent_id":85820559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.830263,43.727716,-87.830263,43.727716],
+  "bbox": [
+    -87.830263,
+    43.727716,
+    -87.830263,
+    43.727716
+],
   "geometry": {"coordinates":[-87.830263,43.727716],"type":"Point"}
 }

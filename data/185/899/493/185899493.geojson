@@ -2,13 +2,14 @@
   "id": 185899493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.472406,44.213828,-88.472406,44.213828",
     "geom:latitude":44.213828,
     "geom:longitude":-88.472406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1286 Ehlers Rd",
     "sg:city":"Neenah",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185899493,
-    "wof:lastmodified":1449008115,
+    "wof:lastmodified":1467089885,
     "wof:name":"Milltown Paper Inc",
     "wof:parent_id":85807543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "paper"
     ]
 },
-  "bbox": [-88.472406,44.213828,-88.472406,44.213828],
-  "geometry": {"coordinates":[-88.472406,44.213828],"type":"Point"}
+  "bbox": [
+    -88.472406,
+    44.213828,
+    -88.472406,
+    44.213828
+],
+  "geometry": {"coordinates":[-88.47240600000001,44.213828],"type":"Point"}
 }

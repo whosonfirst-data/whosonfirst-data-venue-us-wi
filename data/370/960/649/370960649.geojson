@@ -2,13 +2,14 @@
   "id": 370960649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.545601,44.157408,-87.545601,44.157408",
     "geom:latitude":44.157408,
     "geom:longitude":-87.545601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Park Rd",
     "sg:city":"Two Rivers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370960649,
-    "wof:lastmodified":1449031526,
+    "wof:lastmodified":1467089904,
     "wof:name":"Tdp Holdings",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-87.545601,44.157408,-87.545601,44.157408],
+  "bbox": [
+    -87.545601,
+    44.157408,
+    -87.545601,
+    44.157408
+],
   "geometry": {"coordinates":[-87.545601,44.157408],"type":"Point"}
 }

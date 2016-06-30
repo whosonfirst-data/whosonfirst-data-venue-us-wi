@@ -2,13 +2,14 @@
   "id": 186219785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.922741,43.013464,-87.922741,43.013464",
     "geom:latitude":43.013464,
     "geom:longitude":-87.922741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1663 S 9th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186219785,
-    "wof:lastmodified":1449052928,
+    "wof:lastmodified":1467089917,
     "wof:name":"Umos Food Pantry & Food Bank",
     "wof:parent_id":85870893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "banks"
     ]
 },
-  "bbox": [-87.922741,43.013464,-87.922741,43.013464],
+  "bbox": [
+    -87.922741,
+    43.013464,
+    -87.922741,
+    43.013464
+],
   "geometry": {"coordinates":[-87.922741,43.013464],"type":"Point"}
 }

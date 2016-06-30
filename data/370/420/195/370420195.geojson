@@ -2,13 +2,14 @@
   "id": 370420195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.609354,44.784879,-88.609354,44.784879",
     "geom:latitude":44.784879,
     "geom:longitude":-88.609354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 N Main St",
     "sg:city":"Shawano",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370420195,
-    "wof:lastmodified":1449030712,
+    "wof:lastmodified":1467089902,
     "wof:name":"University-Wisconsin Extension",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.609354,44.784879,-88.609354,44.784879],
+  "bbox": [
+    -88.609354,
+    44.784879,
+    -88.609354,
+    44.784879
+],
   "geometry": {"coordinates":[-88.609354,44.784879],"type":"Point"}
 }

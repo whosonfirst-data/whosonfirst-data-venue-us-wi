@@ -2,13 +2,14 @@
   "id": 404037811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.219493,43.040181,-90.219493,43.040181",
     "geom:latitude":43.040181,
     "geom:longitude":-90.219493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3354 Co Rd M",
     "sg:city":"Dodgeville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404037811,
-    "wof:lastmodified":1449040342,
+    "wof:lastmodified":1467089912,
     "wof:name":"Miess Farm Dan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.219493,43.040181,-90.219493,43.040181],
+  "bbox": [
+    -90.219493,
+    43.040181,
+    -90.219493,
+    43.040181
+],
   "geometry": {"coordinates":[-90.219493,43.040181],"type":"Point"}
 }

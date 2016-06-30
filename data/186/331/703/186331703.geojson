@@ -2,13 +2,14 @@
   "id": 186331703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.146749,43.036054,-88.146749,43.036054",
     "geom:latitude":43.036054,
     "geom:longitude":-88.146749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19035 W Bluemound Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186331703,
-    "wof:lastmodified":1449051993,
+    "wof:lastmodified":1467089916,
     "wof:name":"Health Hut",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vitamin"
     ]
 },
-  "bbox": [-88.146749,43.036054,-88.146749,43.036054],
+  "bbox": [
+    -88.146749,
+    43.036054,
+    -88.146749,
+    43.036054
+],
   "geometry": {"coordinates":[-88.146749,43.036054],"type":"Point"}
 }

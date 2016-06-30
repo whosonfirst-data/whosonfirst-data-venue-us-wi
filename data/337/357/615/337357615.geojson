@@ -2,13 +2,14 @@
   "id": 337357615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.294475,43.420856,-88.294475,43.420856",
     "geom:latitude":43.420856,
     "geom:longitude":-88.294475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5129 William Tell Dr",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337357615,
-    "wof:lastmodified":1449027640,
+    "wof:lastmodified":1467089895,
     "wof:name":"C&N Home Improvement",
     "wof:parent_id":85836223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.294475,43.420856,-88.294475,43.420856],
-  "geometry": {"coordinates":[-88.294475,43.420856],"type":"Point"}
+  "bbox": [
+    -88.294475,
+    43.420856,
+    -88.294475,
+    43.420856
+],
+  "geometry": {"coordinates":[-88.29447500000001,43.420856],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403719621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.111573,44.506028,-88.111573,44.506028",
     "geom:latitude":44.506028,
     "geom:longitude":-88.111573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2830 Parkwood Dr",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403719621,
-    "wof:lastmodified":1449054798,
+    "wof:lastmodified":1467089918,
     "wof:name":"A L Jacobs & Sons Inc",
     "wof:parent_id":85817867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "broker"
     ]
 },
-  "bbox": [-88.111573,44.506028,-88.111573,44.506028],
-  "geometry": {"coordinates":[-88.111573,44.506028],"type":"Point"}
+  "bbox": [
+    -88.111573,
+    44.506028,
+    -88.111573,
+    44.506028
+],
+  "geometry": {"coordinates":[-88.11157300000001,44.506028],"type":"Point"}
 }

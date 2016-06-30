@@ -2,13 +2,14 @@
   "id": 353626867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.557614,43.499022,-88.557614,43.499022",
     "geom:latitude":43.499022,
     "geom:longitude":-88.557614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Mary St",
     "sg:city":"Mayville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353626867,
-    "wof:lastmodified":1449020794,
+    "wof:lastmodified":1467089892,
     "wof:name":"4d Rental LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.557614,43.499022,-88.557614,43.499022],
+  "bbox": [
+    -88.557614,
+    43.499022,
+    -88.557614,
+    43.499022
+],
   "geometry": {"coordinates":[-88.557614,43.499022],"type":"Point"}
 }

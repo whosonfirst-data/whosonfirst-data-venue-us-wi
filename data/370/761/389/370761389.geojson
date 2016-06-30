@@ -2,13 +2,14 @@
   "id": 370761389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.309319,43.120957,-89.309319,43.120957",
     "geom:latitude":43.120957,
     "geom:longitude":-89.309319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4237 Lien Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":370761389,
-    "wof:lastmodified":1449031677,
+    "wof:lastmodified":1467089905,
     "wof:name":"Video Games X-Change",
     "wof:parent_id":85878851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "tape"
     ]
 },
-  "bbox": [-89.309319,43.120957,-89.309319,43.120957],
+  "bbox": [
+    -89.309319,
+    43.120957,
+    -89.309319,
+    43.120957
+],
   "geometry": {"coordinates":[-89.309319,43.120957],"type":"Point"}
 }

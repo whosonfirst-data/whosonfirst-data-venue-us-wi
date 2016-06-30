@@ -2,13 +2,14 @@
   "id": 354286595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.008249,42.95918,-88.008249,42.95918",
     "geom:latitude":42.95918,
     "geom:longitude":-88.008249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7424 W Layton Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354286595,
-    "wof:lastmodified":1449066361,
+    "wof:lastmodified":1467089934,
     "wof:name":"Magner Hueneke & Smith LLP",
     "wof:parent_id":85870865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-88.008249,42.95918,-88.008249,42.95918],
-  "geometry": {"coordinates":[-88.008249,42.95918],"type":"Point"}
+  "bbox": [
+    -88.008249,
+    42.95918,
+    -88.008249,
+    42.95918
+],
+  "geometry": {"coordinates":[-88.00824900000001,42.95918],"type":"Point"}
 }

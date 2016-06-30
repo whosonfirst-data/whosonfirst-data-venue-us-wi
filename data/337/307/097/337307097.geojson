@@ -2,13 +2,14 @@
   "id": 337307097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.91747,42.894368,-87.91747,42.894368",
     "geom:latitude":42.894368,
     "geom:longitude":-87.91747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 W Forest Hill Ave",
     "sg:city":"Oak Creek",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337307097,
-    "wof:lastmodified":1449027141,
+    "wof:lastmodified":1467089893,
     "wof:name":"Nordco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.91747,42.894368,-87.91747,42.894368],
-  "geometry": {"coordinates":[-87.91747,42.894368],"type":"Point"}
+  "bbox": [
+    -87.91747,
+    42.894368,
+    -87.91747,
+    42.894368
+],
+  "geometry": {"coordinates":[-87.91746999999999,42.894368],"type":"Point"}
 }

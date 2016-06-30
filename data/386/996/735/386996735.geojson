@@ -2,13 +2,14 @@
   "id": 386996735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.037323,43.167156,-88.037323,43.167156",
     "geom:latitude":43.167156,
     "geom:longitude":-88.037323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8251 N Celina St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386996735,
-    "wof:lastmodified":1449028704,
+    "wof:lastmodified":1467089896,
     "wof:name":"Goodrich Public School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.037323,43.167156,-88.037323,43.167156],
+  "bbox": [
+    -88.037323,
+    43.167156,
+    -88.037323,
+    43.167156
+],
   "geometry": {"coordinates":[-88.037323,43.167156],"type":"Point"}
 }

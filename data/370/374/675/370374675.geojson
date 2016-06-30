@@ -2,13 +2,14 @@
   "id": 370374675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.031472,44.449712,-89.031472,44.449712",
     "geom:latitude":44.449712,
     "geom:longitude":-89.031472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Water St",
     "sg:city":"Waupaca",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370374675,
-    "wof:lastmodified":1449030564,
+    "wof:lastmodified":1467089902,
     "wof:name":"Wisconsin Glass Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-89.031472,44.449712,-89.031472,44.449712],
-  "geometry": {"coordinates":[-89.031472,44.449712],"type":"Point"}
+  "bbox": [
+    -89.031472,
+    44.449712,
+    -89.031472,
+    44.449712
+],
+  "geometry": {"coordinates":[-89.03147199999999,44.449712],"type":"Point"}
 }

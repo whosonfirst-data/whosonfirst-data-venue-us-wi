@@ -2,13 +2,14 @@
   "id": 387202379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.992203,43.157269,-87.992203,43.157269",
     "geom:latitude":43.157269,
     "geom:longitude":-87.992203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 W Calumet Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387202379,
-    "wof:lastmodified":1449059425,
+    "wof:lastmodified":1467089931,
     "wof:name":"Roller Fabrics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "fabric"
     ]
 },
-  "bbox": [-87.992203,43.157269,-87.992203,43.157269],
+  "bbox": [
+    -87.992203,
+    43.157269,
+    -87.992203,
+    43.157269
+],
   "geometry": {"coordinates":[-87.992203,43.157269],"type":"Point"}
 }

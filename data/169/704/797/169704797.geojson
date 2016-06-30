@@ -2,13 +2,14 @@
   "id": 169704797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.998457,42.954252,-87.998457,42.954252",
     "geom:latitude":42.954252,
     "geom:longitude":-87.998457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6705 W Holmes Ave",
     "sg:city":"Greenfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169704797,
-    "wof:lastmodified":1449033555,
+    "wof:lastmodified":1467089908,
     "wof:name":"Triumph Property Management",
     "wof:parent_id":85870865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-87.998457,42.954252,-87.998457,42.954252],
+  "bbox": [
+    -87.998457,
+    42.954252,
+    -87.998457,
+    42.954252
+],
   "geometry": {"coordinates":[-87.998457,42.954252],"type":"Point"}
 }

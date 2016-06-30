@@ -2,13 +2,14 @@
   "id": 387910793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.438474,44.60866,-87.438474,44.60866",
     "geom:latitude":44.60866,
     "geom:longitude":-87.438474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 4th St",
     "sg:city":"Algoma",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387910793,
-    "wof:lastmodified":1449057691,
+    "wof:lastmodified":1467089926,
     "wof:name":"Curves For Women",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [-87.438474,44.60866,-87.438474,44.60866],
+  "bbox": [
+    -87.438474,
+    44.60866,
+    -87.438474,
+    44.60866
+],
   "geometry": {"coordinates":[-87.438474,44.60866],"type":"Point"}
 }

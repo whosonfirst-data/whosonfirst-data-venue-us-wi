@@ -2,13 +2,14 @@
   "id": 185927613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.061497,44.494977,-88.061497,44.494977",
     "geom:latitude":44.494977,
     "geom:longitude":-88.061497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2127 S Oneida St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185927613,
-    "wof:lastmodified":1449008054,
+    "wof:lastmodified":1467089885,
     "wof:name":"Suzanne Schroeder & Assoc",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-88.061497,44.494977,-88.061497,44.494977],
+  "bbox": [
+    -88.061497,
+    44.494977,
+    -88.061497,
+    44.494977
+],
   "geometry": {"coordinates":[-88.061497,44.494977],"type":"Point"}
 }

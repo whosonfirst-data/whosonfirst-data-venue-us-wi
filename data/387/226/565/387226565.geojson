@@ -2,13 +2,14 @@
   "id": 387226565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.326836,43.046946,-89.326836,43.046946",
     "geom:latitude":43.046946,
     "geom:longitude":-89.326836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 River Pl",
     "sg:city":"Monona",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387226565,
-    "wof:lastmodified":1449058872,
+    "wof:lastmodified":1467089930,
     "wof:name":"Wisconsin Business Development",
     "wof:parent_id":85878883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-89.326836,43.046946,-89.326836,43.046946],
+  "bbox": [
+    -89.326836,
+    43.046946,
+    -89.326836,
+    43.046946
+],
   "geometry": {"coordinates":[-89.326836,43.046946],"type":"Point"}
 }

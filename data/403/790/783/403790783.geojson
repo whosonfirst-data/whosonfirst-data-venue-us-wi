@@ -2,13 +2,14 @@
   "id": 403790783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.929838,44.871873,-91.929838,44.871873",
     "geom:latitude":44.871873,
     "geom:longitude":-91.929838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 Broadway St S",
     "sg:city":"Menomonie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403790783,
-    "wof:lastmodified":1449055652,
+    "wof:lastmodified":1467089920,
     "wof:name":"USA Tobacco Shop",
     "wof:parent_id":85837813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.929838,44.871873,-91.929838,44.871873],
+  "bbox": [
+    -91.929838,
+    44.871873,
+    -91.929838,
+    44.871873
+],
   "geometry": {"coordinates":[-91.929838,44.871873],"type":"Point"}
 }

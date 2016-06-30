@@ -2,13 +2,14 @@
   "id": 370973447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.255773,43.023809,-88.255773,43.023809",
     "geom:latitude":43.023809,
     "geom:longitude":-88.255773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 N Grandview Blvd",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":370973447,
-    "wof:lastmodified":1449031107,
+    "wof:lastmodified":1467089903,
     "wof:name":"The Water Doctors",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "conditioning"
     ]
 },
-  "bbox": [-88.255773,43.023809,-88.255773,43.023809],
+  "bbox": [
+    -88.255773,
+    43.023809,
+    -88.255773,
+    43.023809
+],
   "geometry": {"coordinates":[-88.255773,43.023809],"type":"Point"}
 }

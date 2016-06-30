@@ -2,13 +2,14 @@
   "id": 337406425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.181173,43.408804,-88.181173,43.408804",
     "geom:latitude":43.408804,
     "geom:longitude":-88.181173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 S Main St",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337406425,
-    "wof:lastmodified":1449027383,
+    "wof:lastmodified":1467089894,
     "wof:name":"Ol Tyme Cleaners",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "garment"
     ]
 },
-  "bbox": [-88.181173,43.408804,-88.181173,43.408804],
+  "bbox": [
+    -88.181173,
+    43.408804,
+    -88.181173,
+    43.408804
+],
   "geometry": {"coordinates":[-88.181173,43.408804],"type":"Point"}
 }

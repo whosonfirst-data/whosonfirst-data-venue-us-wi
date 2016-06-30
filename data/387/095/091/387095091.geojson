@@ -2,13 +2,14 @@
   "id": 387095091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.899462,43.085803,-87.899462,43.085803",
     "geom:latitude":43.085803,
     "geom:longitude":-87.899462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3850 N Bremen St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387095091,
-    "wof:lastmodified":1449058041,
+    "wof:lastmodified":1467089927,
     "wof:name":"United Armred Svcs of Wsconsin",
     "wof:parent_id":85870941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "institution"
     ]
 },
-  "bbox": [-87.899462,43.085803,-87.899462,43.085803],
+  "bbox": [
+    -87.899462,
+    43.085803,
+    -87.899462,
+    43.085803
+],
   "geometry": {"coordinates":[-87.899462,43.085803],"type":"Point"}
 }

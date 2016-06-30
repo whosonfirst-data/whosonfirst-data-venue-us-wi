@@ -2,13 +2,14 @@
   "id": 387443233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.939566,44.46102,-87.939566,44.46102",
     "geom:latitude":44.46102,
     "geom:longitude":-87.939566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2936 Madrid Dr",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387443233,
-    "wof:lastmodified":1449059221,
+    "wof:lastmodified":1467089931,
     "wof:name":"East River Pop Warner",
     "wof:parent_id":85828807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.939566,44.46102,-87.939566,44.46102],
+  "bbox": [
+    -87.939566,
+    44.46102,
+    -87.939566,
+    44.46102
+],
   "geometry": {"coordinates":[-87.939566,44.46102],"type":"Point"}
 }

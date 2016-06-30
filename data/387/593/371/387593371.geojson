@@ -2,13 +2,14 @@
   "id": 387593371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.848743,43.662415,-90.848743,43.662415",
     "geom:latitude":43.662415,
     "geom:longitude":-90.848743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 Black River Ave",
     "sg:city":"Westby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387593371,
-    "wof:lastmodified":1449058636,
+    "wof:lastmodified":1467089929,
     "wof:name":"Bethel Elderhjem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-90.848743,43.662415,-90.848743,43.662415],
+  "bbox": [
+    -90.848743,
+    43.662415,
+    -90.848743,
+    43.662415
+],
   "geometry": {"coordinates":[-90.848743,43.662415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186120551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.9114,43.003126,-87.9114,43.003126",
     "geom:latitude":43.003126,
     "geom:longitude":-87.9114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2115 S 1st St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186120551,
-    "wof:lastmodified":1449052628,
+    "wof:lastmodified":1467089917,
     "wof:name":"Milwaukee Disposal Svc Inc",
     "wof:parent_id":85870847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "collection"
     ]
 },
-  "bbox": [-87.9114,43.003126,-87.9114,43.003126],
+  "bbox": [
+    -87.9114,
+    43.003126,
+    -87.9114,
+    43.003126
+],
   "geometry": {"coordinates":[-87.9114,43.003126],"type":"Point"}
 }

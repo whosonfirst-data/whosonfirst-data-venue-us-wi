@@ -2,13 +2,14 @@
   "id": 337288247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.36654,44.944778,-88.36654,44.944778",
     "geom:latitude":44.944778,
     "geom:longitude":-88.36654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7409 Co Rd V",
     "sg:city":"Gillett",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337288247,
-    "wof:lastmodified":1449027025,
+    "wof:lastmodified":1467089893,
     "wof:name":"McCarthy Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.36654,44.944778,-88.36654,44.944778],
+  "bbox": [
+    -88.36654,
+    44.944778,
+    -88.36654,
+    44.944778
+],
   "geometry": {"coordinates":[-88.36654,44.944778],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354402023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.391882,43.333471,-88.391882,43.333471",
     "geom:latitude":43.333471,
     "geom:longitude":-88.391882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"765 Cleveland Ave",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354402023,
-    "wof:lastmodified":1449066455,
+    "wof:lastmodified":1467089934,
     "wof:name":"Transport Engineering Inc",
     "wof:parent_id":85841573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-88.391882,43.333471,-88.391882,43.333471],
+  "bbox": [
+    -88.391882,
+    43.333471,
+    -88.391882,
+    43.333471
+],
   "geometry": {"coordinates":[-88.391882,43.333471],"type":"Point"}
 }

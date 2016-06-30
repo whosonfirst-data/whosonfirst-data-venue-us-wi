@@ -2,13 +2,14 @@
   "id": 370241603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.896033,43.380795,-87.896033,43.380795",
     "geom:latitude":43.380795,
     "geom:longitude":-87.896033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1373 Elm Ct",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370241603,
-    "wof:lastmodified":1449032378,
+    "wof:lastmodified":1467089907,
     "wof:name":"Barber Tax & Accounting",
     "wof:parent_id":85828641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-87.896033,43.380795,-87.896033,43.380795],
+  "bbox": [
+    -87.896033,
+    43.380795,
+    -87.896033,
+    43.380795
+],
   "geometry": {"coordinates":[-87.896033,43.380795],"type":"Point"}
 }

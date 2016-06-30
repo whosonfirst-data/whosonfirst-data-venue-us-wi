@@ -2,13 +2,14 @@
   "id": 370727765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.962175,43.595086,-88.962175,43.595086",
     "geom:latitude":43.595086,
     "geom:longitude":-88.962175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10194 Co Rd A",
     "sg:city":"Fox Lake",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370727765,
-    "wof:lastmodified":1449029599,
+    "wof:lastmodified":1467089899,
     "wof:name":"EMB Recovery & Resale LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "system"
     ]
 },
-  "bbox": [-88.962175,43.595086,-88.962175,43.595086],
+  "bbox": [
+    -88.962175,
+    43.595086,
+    -88.962175,
+    43.595086
+],
   "geometry": {"coordinates":[-88.962175,43.595086],"type":"Point"}
 }

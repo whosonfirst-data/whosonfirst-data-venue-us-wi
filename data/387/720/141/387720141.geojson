@@ -2,13 +2,14 @@
   "id": 387720141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.255811,43.040016,-88.255811,43.040016",
     "geom:latitude":43.040016,
     "geom:longitude":-88.255811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2717 N Grandview Blvd",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387720141,
-    "wof:lastmodified":1449057013,
+    "wof:lastmodified":1467089924,
     "wof:name":"PHH Destination Services",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "corporate"
     ]
 },
-  "bbox": [-88.255811,43.040016,-88.255811,43.040016],
-  "geometry": {"coordinates":[-88.255811,43.040016],"type":"Point"}
+  "bbox": [
+    -88.255811,
+    43.040016,
+    -88.255811,
+    43.040016
+],
+  "geometry": {"coordinates":[-88.25581099999999,43.040016],"type":"Point"}
 }

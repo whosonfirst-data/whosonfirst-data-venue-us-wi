@@ -2,13 +2,14 @@
   "id": 404193397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.889715,45.82468,-91.889715,45.82468",
     "geom:latitude":45.82468,
     "geom:longitude":-91.889715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 N River St",
     "sg:city":"Spooner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404193397,
-    "wof:lastmodified":1449039210,
+    "wof:lastmodified":1467089909,
     "wof:name":"Investment Centers Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-91.889715,45.82468,-91.889715,45.82468],
+  "bbox": [
+    -91.889715,
+    45.82468,
+    -91.889715,
+    45.82468
+],
   "geometry": {"coordinates":[-91.889715,45.82468],"type":"Point"}
 }

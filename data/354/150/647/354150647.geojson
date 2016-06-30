@@ -2,13 +2,14 @@
   "id": 354150647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.447,43.782284,-88.447,43.782284",
     "geom:latitude":43.782284,
     "geom:longitude":-88.447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 N Main St",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354150647,
-    "wof:lastmodified":1449065953,
+    "wof:lastmodified":1467089933,
     "wof:name":"Rivers & Reefs Aquarium Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-88.447,43.782284,-88.447,43.782284],
+  "bbox": [
+    -88.447,
+    43.782284,
+    -88.447,
+    43.782284
+],
   "geometry": {"coordinates":[-88.447,43.782284],"type":"Point"}
 }

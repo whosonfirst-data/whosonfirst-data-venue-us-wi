@@ -2,13 +2,14 @@
   "id": 169778375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.374765,42.933198,-89.374765,42.933198",
     "geom:latitude":42.933198,
     "geom:longitude":-89.374765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"569 Gail Ct",
     "sg:city":"Oregon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169778375,
-    "wof:lastmodified":1449032745,
+    "wof:lastmodified":1467089907,
     "wof:name":"Shanklin Enterprises",
     "wof:parent_id":85829451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nutritional"
     ]
 },
-  "bbox": [-89.374765,42.933198,-89.374765,42.933198],
+  "bbox": [
+    -89.374765,
+    42.933198,
+    -89.374765,
+    42.933198
+],
   "geometry": {"coordinates":[-89.374765,42.933198],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370296777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.470371,44.750642,-88.470371,44.750642",
     "geom:latitude":44.750642,
     "geom:longitude":-88.470371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4774 Co Rd Be",
     "sg:city":"Bonduel",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370296777,
-    "wof:lastmodified":1449031845,
+    "wof:lastmodified":1467089905,
     "wof:name":"T B Small Engines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mower"
     ]
 },
-  "bbox": [-88.470371,44.750642,-88.470371,44.750642],
+  "bbox": [
+    -88.470371,
+    44.750642,
+    -88.470371,
+    44.750642
+],
   "geometry": {"coordinates":[-88.470371,44.750642],"type":"Point"}
 }

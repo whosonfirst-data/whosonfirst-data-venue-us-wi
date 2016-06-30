@@ -2,13 +2,14 @@
   "id": 337336797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.958917,43.155304,-87.958917,43.155304",
     "geom:latitude":43.155304,
     "geom:longitude":-87.958917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7555 N Teutonia Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337336797,
-    "wof:lastmodified":1449026913,
+    "wof:lastmodified":1467089892,
     "wof:name":"Philcos Used Appliances",
     "wof:parent_id":85870811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-87.958917,43.155304,-87.958917,43.155304],
+  "bbox": [
+    -87.958917,
+    43.155304,
+    -87.958917,
+    43.155304
+],
   "geometry": {"coordinates":[-87.958917,43.155304],"type":"Point"}
 }

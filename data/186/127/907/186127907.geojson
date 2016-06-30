@@ -2,13 +2,14 @@
   "id": 186127907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.608316,44.497,-87.608316,44.497",
     "geom:latitude":44.497,
     "geom:longitude":-87.608316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4751 Elm Grove Ln",
     "sg:city":"Kewaunee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186127907,
-    "wof:lastmodified":1449052808,
+    "wof:lastmodified":1467089917,
     "wof:name":"Elm Grove Dairy Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.608316,44.497,-87.608316,44.497],
+  "bbox": [
+    -87.608316,
+    44.497,
+    -87.608316,
+    44.497
+],
   "geometry": {"coordinates":[-87.608316,44.497],"type":"Point"}
 }

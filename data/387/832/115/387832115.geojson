@@ -2,13 +2,14 @@
   "id": 387832115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.964166,45.047363,-89.964166,45.047363",
     "geom:latitude":45.047363,
     "geom:longitude":-89.964166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6312 Co Rd H",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387832115,
-    "wof:lastmodified":1449056129,
+    "wof:lastmodified":1467089921,
     "wof:name":"Alfalfa Valley Dairy",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.964166,45.047363,-89.964166,45.047363],
-  "geometry": {"coordinates":[-89.964166,45.047363],"type":"Point"}
+  "bbox": [
+    -89.964166,
+    45.047363,
+    -89.964166,
+    45.047363
+],
+  "geometry": {"coordinates":[-89.96416600000001,45.047363],"type":"Point"}
 }

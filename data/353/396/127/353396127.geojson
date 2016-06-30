@@ -2,13 +2,14 @@
   "id": 353396127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.446017,44.317015,-88.446017,44.317015",
     "geom:latitude":44.317015,
     "geom:longitude":-88.446017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4815 N Lynndale Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353396127,
-    "wof:lastmodified":1449019920,
+    "wof:lastmodified":1467089890,
     "wof:name":"Gordon Bubolz Nature Preserve",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nature"
     ]
 },
-  "bbox": [-88.446017,44.317015,-88.446017,44.317015],
+  "bbox": [
+    -88.446017,
+    44.317015,
+    -88.446017,
+    44.317015
+],
   "geometry": {"coordinates":[-88.446017,44.317015],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386938725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.726232,43.746599,-87.726232,43.746599",
     "geom:latitude":43.746599,
     "geom:longitude":-87.726232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 New Jersey Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386938725,
-    "wof:lastmodified":1449028871,
+    "wof:lastmodified":1467089897,
     "wof:name":"Houseworks Real Estate",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.726232,43.746599,-87.726232,43.746599],
+  "bbox": [
+    -87.726232,
+    43.746599,
+    -87.726232,
+    43.746599
+],
   "geometry": {"coordinates":[-87.726232,43.746599],"type":"Point"}
 }

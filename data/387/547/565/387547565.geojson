@@ -2,13 +2,14 @@
   "id": 387547565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.107898,43.540205,-89.107898,43.540205",
     "geom:latitude":43.540205,
     "geom:longitude":-89.107898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 E Commerce St",
     "sg:city":"Wisconsin Dells",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387547565,
-    "wof:lastmodified":1449056498,
+    "wof:lastmodified":1467089922,
     "wof:name":"Delton Family Medical Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-89.107898,43.540205,-89.107898,43.540205],
-  "geometry": {"coordinates":[-89.107898,43.540205],"type":"Point"}
+  "bbox": [
+    -89.107898,
+    43.540205,
+    -89.107898,
+    43.540205
+],
+  "geometry": {"coordinates":[-89.10789800000001,43.540205],"type":"Point"}
 }

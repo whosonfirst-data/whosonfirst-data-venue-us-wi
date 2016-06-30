@@ -2,13 +2,14 @@
   "id": 403950071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.064642,44.534654,-88.064642,44.534654",
     "geom:latitude":44.534654,
     "geom:longitude":-88.064642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1745 Dousman St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403950071,
-    "wof:lastmodified":1449055156,
+    "wof:lastmodified":1467089919,
     "wof:name":"Stein Medical Home Companies",
     "wof:parent_id":85877951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "car"
     ]
 },
-  "bbox": [-88.064642,44.534654,-88.064642,44.534654],
-  "geometry": {"coordinates":[-88.064642,44.534654],"type":"Point"}
+  "bbox": [
+    -88.064642,
+    44.534654,
+    -88.064642,
+    44.534654
+],
+  "geometry": {"coordinates":[-88.06464200000001,44.534654],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370154543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.47277,44.848849,-91.47277,44.848849",
     "geom:latitude":44.848849,
     "geom:longitude":-91.47277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2396 State Hwy 53",
     "sg:city":"Chippewa Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370154543,
-    "wof:lastmodified":1449032519,
+    "wof:lastmodified":1467089907,
     "wof:name":"DCS Netlink",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-91.47277,44.848849,-91.47277,44.848849],
+  "bbox": [
+    -91.47277,
+    44.848849,
+    -91.47277,
+    44.848849
+],
   "geometry": {"coordinates":[-91.47277,44.848849],"type":"Point"}
 }

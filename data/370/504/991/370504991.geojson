@@ -2,13 +2,14 @@
   "id": 370504991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.325576,43.107158,-89.325576,43.107158",
     "geom:latitude":43.107158,
     "geom:longitude":-89.325576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 Mayfair Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370504991,
-    "wof:lastmodified":1449029683,
+    "wof:lastmodified":1467089899,
     "wof:name":"Pumps & Equipment Inc",
     "wof:parent_id":85878851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "plumbing"
     ]
 },
-  "bbox": [-89.325576,43.107158,-89.325576,43.107158],
+  "bbox": [
+    -89.325576,
+    43.107158,
+    -89.325576,
+    43.107158
+],
   "geometry": {"coordinates":[-89.325576,43.107158],"type":"Point"}
 }

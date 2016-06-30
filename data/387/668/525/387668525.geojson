@@ -2,13 +2,14 @@
   "id": 387668525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.988334,43.017203,-87.988334,43.017203",
     "geom:latitude":43.017203,
     "geom:longitude":-87.988334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6031 W National Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387668525,
-    "wof:lastmodified":1449058765,
+    "wof:lastmodified":1467089929,
     "wof:name":"Bethany Christian Services",
     "wof:parent_id":85870923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.988334,43.017203,-87.988334,43.017203],
-  "geometry": {"coordinates":[-87.988334,43.017203],"type":"Point"}
+  "bbox": [
+    -87.988334,
+    43.017203,
+    -87.988334,
+    43.017203
+],
+  "geometry": {"coordinates":[-87.98833399999999,43.017203],"type":"Point"}
 }

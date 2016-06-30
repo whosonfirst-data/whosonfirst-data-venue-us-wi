@@ -2,13 +2,14 @@
   "id": 387470573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.958224,43.075131,-87.958224,43.075131",
     "geom:latitude":43.075131,
     "geom:longitude":-87.958224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3527 W Burleigh St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387470573,
-    "wof:lastmodified":1449057025,
+    "wof:lastmodified":1467089924,
     "wof:name":"Xstream Wireless",
     "wof:parent_id":85870825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-87.958224,43.075131,-87.958224,43.075131],
+  "bbox": [
+    -87.958224,
+    43.075131,
+    -87.958224,
+    43.075131
+],
   "geometry": {"coordinates":[-87.958224,43.075131],"type":"Point"}
 }

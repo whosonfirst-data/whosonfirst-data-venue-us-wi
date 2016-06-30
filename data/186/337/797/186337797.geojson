@@ -2,13 +2,14 @@
   "id": 186337797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.911162,43.006799,-87.911162,43.006799",
     "geom:latitude":43.006799,
     "geom:longitude":-87.911162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2018 S 1st St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186337797,
-    "wof:lastmodified":1449051642,
+    "wof:lastmodified":1467089915,
     "wof:name":"AM PM Delivery Inc",
     "wof:parent_id":85870847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-87.911162,43.006799,-87.911162,43.006799],
+  "bbox": [
+    -87.911162,
+    43.006799,
+    -87.911162,
+    43.006799
+],
   "geometry": {"coordinates":[-87.911162,43.006799],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387822335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.067051,44.536657,-88.067051,44.536657",
     "geom:latitude":44.536657,
     "geom:longitude":-88.067051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 David Dr",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387822335,
-    "wof:lastmodified":1449059804,
+    "wof:lastmodified":1467089932,
     "wof:name":"Footprints In The Sand Cmtry",
     "wof:parent_id":85877951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-88.067051,44.536657,-88.067051,44.536657],
-  "geometry": {"coordinates":[-88.067051,44.536657],"type":"Point"}
+  "bbox": [
+    -88.067051,
+    44.536657,
+    -88.067051,
+    44.536657
+],
+  "geometry": {"coordinates":[-88.06705100000001,44.536657],"type":"Point"}
 }

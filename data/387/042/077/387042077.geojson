@@ -2,13 +2,14 @@
   "id": 387042077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.856793,45.40817,-91.856793,45.40817",
     "geom:latitude":45.40817,
     "geom:longitude":-91.856793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 E Birch Ave",
     "sg:city":"Barron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387042077,
-    "wof:lastmodified":1449058993,
+    "wof:lastmodified":1467089930,
     "wof:name":"River Park Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-91.856793,45.40817,-91.856793,45.40817],
+  "bbox": [
+    -91.856793,
+    45.40817,
+    -91.856793,
+    45.40817
+],
   "geometry": {"coordinates":[-91.856793,45.40817],"type":"Point"}
 }

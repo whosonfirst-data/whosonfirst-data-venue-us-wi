@@ -2,13 +2,14 @@
   "id": 387028835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.374989,44.862906,-92.374989,44.862906",
     "geom:latitude":44.862906,
     "geom:longitude":-92.374989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 US Hwy 63",
     "sg:city":"Baldwin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387028835,
-    "wof:lastmodified":1449058165,
+    "wof:lastmodified":1467089927,
     "wof:name":"Charles Weyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-92.374989,44.862906,-92.374989,44.862906],
+  "bbox": [
+    -92.374989,
+    44.862906,
+    -92.374989,
+    44.862906
+],
   "geometry": {"coordinates":[-92.374989,44.862906],"type":"Point"}
 }

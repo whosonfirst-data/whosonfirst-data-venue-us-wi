@@ -2,13 +2,14 @@
   "id": 185882959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.887494,43.097831,-87.887494,43.097831",
     "geom:latitude":43.097831,
     "geom:longitude":-87.887494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4417 N Oakland Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185882959,
-    "wof:lastmodified":1449006900,
+    "wof:lastmodified":1467089883,
     "wof:name":"American Property Management",
     "wof:parent_id":85870879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-87.887494,43.097831,-87.887494,43.097831],
+  "bbox": [
+    -87.887494,
+    43.097831,
+    -87.887494,
+    43.097831
+],
   "geometry": {"coordinates":[-87.887494,43.097831],"type":"Point"}
 }

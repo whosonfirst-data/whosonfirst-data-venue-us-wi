@@ -2,13 +2,14 @@
   "id": 353495895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.00816,42.969589,-88.00816,42.969589",
     "geom:latitude":42.969589,
     "geom:longitude":-88.00816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4275 S 76th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353495895,
-    "wof:lastmodified":1449019380,
+    "wof:lastmodified":1467089889,
     "wof:name":"Cold Spring Marketplace Foods",
     "wof:parent_id":85870865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-88.00816,42.969589,-88.00816,42.969589],
+  "bbox": [
+    -88.00816,
+    42.969589,
+    -88.00816,
+    42.969589
+],
   "geometry": {"coordinates":[-88.00816,42.969589],"type":"Point"}
 }

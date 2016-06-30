@@ -2,13 +2,14 @@
   "id": 185651845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.309556,43.062287,-89.309556,43.062287",
     "geom:latitude":43.062287,
     "geom:longitude":-89.309556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2030 S Stoughton Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185651845,
-    "wof:lastmodified":1449006931,
+    "wof:lastmodified":1467089884,
     "wof:name":"Mautz Paint Factory Store",
     "wof:parent_id":85878847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-89.309556,43.062287,-89.309556,43.062287],
+  "bbox": [
+    -89.309556,
+    43.062287,
+    -89.309556,
+    43.062287
+],
   "geometry": {"coordinates":[-89.309556,43.062287],"type":"Point"}
 }

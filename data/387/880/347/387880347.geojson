@@ -2,13 +2,14 @@
   "id": 387880347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.892649,46.58859,-90.892649,46.58859",
     "geom:latitude":46.58859,
     "geom:longitude":-90.892649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Lake Shore Dr W",
     "sg:city":"Ashland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387880347,
-    "wof:lastmodified":1449059957,
+    "wof:lastmodified":1467089933,
     "wof:name":"Riverside Finance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-90.892649,46.58859,-90.892649,46.58859],
-  "geometry": {"coordinates":[-90.892649,46.58859],"type":"Point"}
+  "bbox": [
+    -90.892649,
+    46.58859,
+    -90.892649,
+    46.58859
+],
+  "geometry": {"coordinates":[-90.89264900000001,46.58859],"type":"Point"}
 }

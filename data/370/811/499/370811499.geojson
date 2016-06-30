@@ -2,13 +2,14 @@
   "id": 370811499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.626015,44.858532,-92.626015,44.858532",
     "geom:latitude":44.858532,
     "geom:longitude":-92.626015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 S Main St",
     "sg:city":"River Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370811499,
-    "wof:lastmodified":1449030718,
+    "wof:lastmodified":1467089902,
     "wof:name":"MGM Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-92.626015,44.858532,-92.626015,44.858532],
+  "bbox": [
+    -92.626015,
+    44.858532,
+    -92.626015,
+    44.858532
+],
   "geometry": {"coordinates":[-92.626015,44.858532],"type":"Point"}
 }

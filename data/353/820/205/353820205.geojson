@@ -2,13 +2,14 @@
   "id": 353820205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.274144,44.849468,-87.274144,44.849468",
     "geom:latitude":44.849468,
     "geom:longitude":-87.274144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3650 N Lake Michigan Dr",
     "sg:city":"Sturgeon Bay",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353820205,
-    "wof:lastmodified":1449019585,
+    "wof:lastmodified":1467089889,
     "wof:name":"Seidl Septic & Holding Tank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-87.274144,44.849468,-87.274144,44.849468],
-  "geometry": {"coordinates":[-87.274144,44.849468],"type":"Point"}
+  "bbox": [
+    -87.274144,
+    44.849468,
+    -87.274144,
+    44.849468
+],
+  "geometry": {"coordinates":[-87.27414400000001,44.849468],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370748821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.079932,44.616413,-88.079932,44.616413",
     "geom:latitude":44.616413,
     "geom:longitude":-88.079932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Wood Ln",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370748821,
-    "wof:lastmodified":1449031634,
+    "wof:lastmodified":1467089905,
     "wof:name":"Eagle Sheet Rock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.079932,44.616413,-88.079932,44.616413],
+  "bbox": [
+    -88.079932,
+    44.616413,
+    -88.079932,
+    44.616413
+],
   "geometry": {"coordinates":[-88.079932,44.616413],"type":"Point"}
 }

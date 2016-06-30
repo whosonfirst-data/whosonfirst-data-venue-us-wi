@@ -2,13 +2,14 @@
   "id": 370994217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.997928,43.148694,-87.997928,43.148694",
     "geom:latitude":43.148694,
     "geom:longitude":-87.997928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6700 W Good Hope Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370994217,
-    "wof:lastmodified":1449029241,
+    "wof:lastmodified":1467089898,
     "wof:name":"Wisconsin Industrial Truck Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "handling"
     ]
 },
-  "bbox": [-87.997928,43.148694,-87.997928,43.148694],
+  "bbox": [
+    -87.997928,
+    43.148694,
+    -87.997928,
+    43.148694
+],
   "geometry": {"coordinates":[-87.997928,43.148694],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387453925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.098501,44.472832,-88.098501,44.472832",
     "geom:latitude":44.472832,
     "geom:longitude":-88.098501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1263 Waube Ln",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387453925,
-    "wof:lastmodified":1449058962,
+    "wof:lastmodified":1467089930,
     "wof:name":"Hyclone Laboratories Inc",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-88.098501,44.472832,-88.098501,44.472832],
+  "bbox": [
+    -88.098501,
+    44.472832,
+    -88.098501,
+    44.472832
+],
   "geometry": {"coordinates":[-88.098501,44.472832],"type":"Point"}
 }

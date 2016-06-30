@@ -2,13 +2,14 @@
   "id": 370677947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.903336,43.118398,-87.903336,43.118398",
     "geom:latitude":43.118398,
     "geom:longitude":-87.903336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 E Silver Spring Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370677947,
-    "wof:lastmodified":1449030308,
+    "wof:lastmodified":1467089901,
     "wof:name":"Milton Holzman School Supply",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-87.903336,43.118398,-87.903336,43.118398],
+  "bbox": [
+    -87.903336,
+    43.118398,
+    -87.903336,
+    43.118398
+],
   "geometry": {"coordinates":[-87.903336,43.118398],"type":"Point"}
 }

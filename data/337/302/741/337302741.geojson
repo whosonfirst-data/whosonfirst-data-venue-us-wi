@@ -2,13 +2,14 @@
   "id": 337302741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.310653,43.048365,-89.310653,43.048365",
     "geom:latitude":43.048365,
     "geom:longitude":-89.310653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6414 Copps Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337302741,
-    "wof:lastmodified":1449027214,
+    "wof:lastmodified":1467089893,
     "wof:name":"Allen Cleaning Service LLC",
     "wof:parent_id":85878847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-89.310653,43.048365,-89.310653,43.048365],
+  "bbox": [
+    -89.310653,
+    43.048365,
+    -89.310653,
+    43.048365
+],
   "geometry": {"coordinates":[-89.310653,43.048365],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186018347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.783417,43.744034,-87.783417,43.744034",
     "geom:latitude":43.744034,
     "geom:longitude":-87.783417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Woodlake Rd",
     "sg:city":"Kohler",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186018347,
-    "wof:lastmodified":1449051713,
+    "wof:lastmodified":1467089916,
     "wof:name":"Classic Carriage Limousine",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-87.783417,43.744034,-87.783417,43.744034],
+  "bbox": [
+    -87.783417,
+    43.744034,
+    -87.783417,
+    43.744034
+],
   "geometry": {"coordinates":[-87.783417,43.744034],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387292013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.059892,44.522309,-88.059892,44.522309",
     "geom:latitude":44.522309,
     "geom:longitude":-88.059892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 S Fisk St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387292013,
-    "wof:lastmodified":1449056426,
+    "wof:lastmodified":1467089922,
     "wof:name":"Port City Bakery Inc",
     "wof:parent_id":85877951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cookie"
     ]
 },
-  "bbox": [-88.059892,44.522309,-88.059892,44.522309],
+  "bbox": [
+    -88.059892,
+    44.522309,
+    -88.059892,
+    44.522309
+],
   "geometry": {"coordinates":[-88.059892,44.522309],"type":"Point"}
 }

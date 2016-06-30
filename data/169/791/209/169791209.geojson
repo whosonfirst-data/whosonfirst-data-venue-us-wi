@@ -2,13 +2,14 @@
   "id": 169791209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.509317,44.802239,-91.509317,44.802239",
     "geom:latitude":44.802239,
     "geom:longitude":-91.509317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 Water St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169791209,
-    "wof:lastmodified":1449035196,
+    "wof:lastmodified":1467089909,
     "wof:name":"House Of Rock",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-91.509317,44.802239,-91.509317,44.802239],
+  "bbox": [
+    -91.509317,
+    44.802239,
+    -91.509317,
+    44.802239
+],
   "geometry": {"coordinates":[-91.509317,44.802239],"type":"Point"}
 }

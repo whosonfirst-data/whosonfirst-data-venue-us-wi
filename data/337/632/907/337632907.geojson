@@ -2,13 +2,14 @@
   "id": 337632907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.369576,44.998974,-88.369576,44.998974",
     "geom:latitude":44.998974,
     "geom:longitude":-88.369576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 N Krueger St",
     "sg:city":"Suring",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337632907,
-    "wof:lastmodified":1449027476,
+    "wof:lastmodified":1467089895,
     "wof:name":"Gruetzmacher Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-88.369576,44.998974,-88.369576,44.998974],
+  "bbox": [
+    -88.369576,
+    44.998974,
+    -88.369576,
+    44.998974
+],
   "geometry": {"coordinates":[-88.369576,44.998974],"type":"Point"}
 }

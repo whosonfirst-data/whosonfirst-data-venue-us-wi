@@ -2,13 +2,14 @@
   "id": 386953283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.275624,44.955851,-91.275624,44.955851",
     "geom:latitude":44.955851,
     "geom:longitude":-91.275624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7876 196th St",
     "sg:city":"Chippewa Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386953283,
-    "wof:lastmodified":1449028833,
+    "wof:lastmodified":1467089896,
     "wof:name":"Jain Enterprises Inc",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-91.275624,44.955851,-91.275624,44.955851],
-  "geometry": {"coordinates":[-91.275624,44.955851],"type":"Point"}
+  "bbox": [
+    -91.275624,
+    44.955851,
+    -91.275624,
+    44.955851
+],
+  "geometry": {"coordinates":[-91.27562399999999,44.955851],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354149975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.195008,45.374469,-89.195008,45.374469",
     "geom:latitude":45.374469,
     "geom:longitude":-89.195008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9543 US Hwy 45",
     "sg:city":"Summit Lake",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354149975,
-    "wof:lastmodified":1449065933,
+    "wof:lastmodified":1467089933,
     "wof:name":"Billy Timbers Pub & Eatery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.195008,45.374469,-89.195008,45.374469],
+  "bbox": [
+    -89.195008,
+    45.374469,
+    -89.195008,
+    45.374469
+],
   "geometry": {"coordinates":[-89.195008,45.374469],"type":"Point"}
 }

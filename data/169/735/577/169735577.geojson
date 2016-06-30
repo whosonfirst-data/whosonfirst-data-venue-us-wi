@@ -2,13 +2,14 @@
   "id": 169735577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.004922,44.510284,-88.004922,44.510284",
     "geom:latitude":44.510284,
     "geom:longitude":-88.004922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 E Walnut St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":169735577,
-    "wof:lastmodified":1449035893,
+    "wof:lastmodified":1467089909,
     "wof:name":"Mico Femina LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "alternative"
     ]
 },
-  "bbox": [-88.004922,44.510284,-88.004922,44.510284],
-  "geometry": {"coordinates":[-88.004922,44.510284],"type":"Point"}
+  "bbox": [
+    -88.004922,
+    44.510284,
+    -88.004922,
+    44.510284
+],
+  "geometry": {"coordinates":[-88.00492199999999,44.510284],"type":"Point"}
 }

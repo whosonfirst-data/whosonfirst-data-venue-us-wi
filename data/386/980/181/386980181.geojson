@@ -2,13 +2,14 @@
   "id": 386980181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.242564,43.817258,-91.242564,43.817258",
     "geom:latitude":43.817258,
     "geom:longitude":-91.242564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 10th St N",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":386980181,
-    "wof:lastmodified":1449028650,
+    "wof:lastmodified":1467089896,
     "wof:name":"Chelsea's Enterprises",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-91.242564,43.817258,-91.242564,43.817258],
+  "bbox": [
+    -91.242564,
+    43.817258,
+    -91.242564,
+    43.817258
+],
   "geometry": {"coordinates":[-91.242564,43.817258],"type":"Point"}
 }

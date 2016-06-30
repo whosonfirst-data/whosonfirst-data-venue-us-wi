@@ -2,13 +2,14 @@
   "id": 371000533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.945938,43.022379,-87.945938,43.022379",
     "geom:latitude":43.022379,
     "geom:longitude":-87.945938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2538 W National Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371000533,
-    "wof:lastmodified":1449049196,
+    "wof:lastmodified":1467089912,
     "wof:name":"Wireless World",
     "wof:parent_id":85870969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-87.945938,43.022379,-87.945938,43.022379],
+  "bbox": [
+    -87.945938,
+    43.022379,
+    -87.945938,
+    43.022379
+],
   "geometry": {"coordinates":[-87.945938,43.022379],"type":"Point"}
 }

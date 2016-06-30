@@ -2,13 +2,14 @@
   "id": 370162421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.487217,44.121938,-88.487217,44.121938",
     "geom:latitude":44.121938,
     "geom:longitude":-88.487217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1691 Paines Pt Rd",
     "sg:city":"Neenah",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370162421,
-    "wof:lastmodified":1449031976,
+    "wof:lastmodified":1467089906,
     "wof:name":"Willca Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.487217,44.121938,-88.487217,44.121938],
+  "bbox": [
+    -88.487217,
+    44.121938,
+    -88.487217,
+    44.121938
+],
   "geometry": {"coordinates":[-88.487217,44.121938],"type":"Point"}
 }

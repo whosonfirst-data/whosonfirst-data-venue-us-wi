@@ -2,13 +2,14 @@
   "id": 370186645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.544076,44.203449,-88.544076,44.203449",
     "geom:latitude":44.203449,
     "geom:longitude":-88.544076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8616 State Hwy 76",
     "sg:city":"Neenah",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370186645,
-    "wof:lastmodified":1449031744,
+    "wof:lastmodified":1467089905,
     "wof:name":"Lied's Nursery Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "grounds"
     ]
 },
-  "bbox": [-88.544076,44.203449,-88.544076,44.203449],
+  "bbox": [
+    -88.544076,
+    44.203449,
+    -88.544076,
+    44.203449
+],
   "geometry": {"coordinates":[-88.544076,44.203449],"type":"Point"}
 }

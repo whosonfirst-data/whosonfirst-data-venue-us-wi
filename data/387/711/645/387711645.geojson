@@ -2,13 +2,14 @@
   "id": 387711645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.069317,44.584067,-88.069317,44.584067",
     "geom:latitude":44.584067,
     "geom:longitude":-88.069317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1455 Cornell Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387711645,
-    "wof:lastmodified":1449059224,
+    "wof:lastmodified":1467089931,
     "wof:name":"Stordeur Sanitation",
     "wof:parent_id":85815317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "waste"
     ]
 },
-  "bbox": [-88.069317,44.584067,-88.069317,44.584067],
+  "bbox": [
+    -88.069317,
+    44.584067,
+    -88.069317,
+    44.584067
+],
   "geometry": {"coordinates":[-88.069317,44.584067],"type":"Point"}
 }

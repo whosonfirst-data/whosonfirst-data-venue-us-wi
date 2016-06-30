@@ -2,13 +2,14 @@
   "id": 371121497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.193906,42.988824,-88.193906,42.988824",
     "geom:latitude":42.988824,
     "geom:longitude":-88.193906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 Springbrook S",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":371121497,
-    "wof:lastmodified":1449049855,
+    "wof:lastmodified":1467089913,
     "wof:name":"London Fog",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "clothing"
     ]
 },
-  "bbox": [-88.193906,42.988824,-88.193906,42.988824],
+  "bbox": [
+    -88.193906,
+    42.988824,
+    -88.193906,
+    42.988824
+],
   "geometry": {"coordinates":[-88.193906,42.988824],"type":"Point"}
 }

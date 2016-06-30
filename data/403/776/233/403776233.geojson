@@ -2,13 +2,14 @@
   "id": 403776233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.316118,43.076727,-89.316118,43.076727",
     "geom:latitude":43.076727,
     "geom:longitude":-89.316118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4315 Major Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403776233,
-    "wof:lastmodified":1449054940,
+    "wof:lastmodified":1467089918,
     "wof:name":"D Reimer Landscape Designs",
     "wof:parent_id":85878857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-89.316118,43.076727,-89.316118,43.076727],
+  "bbox": [
+    -89.316118,
+    43.076727,
+    -89.316118,
+    43.076727
+],
   "geometry": {"coordinates":[-89.316118,43.076727],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370190735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.210603,44.331875,-88.210603,44.331875",
     "geom:latitude":44.331875,
     "geom:longitude":-88.210603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"480 Cindy Ann Ln",
     "sg:city":"Kaukauna",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370190735,
-    "wof:lastmodified":1449032254,
+    "wof:lastmodified":1467089906,
     "wof:name":"Glass Garden Studio LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "plate"
     ]
 },
-  "bbox": [-88.210603,44.331875,-88.210603,44.331875],
-  "geometry": {"coordinates":[-88.210603,44.331875],"type":"Point"}
+  "bbox": [
+    -88.210603,
+    44.331875,
+    -88.210603,
+    44.331875
+],
+  "geometry": {"coordinates":[-88.21060300000001,44.331875],"type":"Point"}
 }

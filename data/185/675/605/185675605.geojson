@@ -2,13 +2,14 @@
   "id": 185675605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.395675,44.290943,-88.395675,44.290943",
     "geom:latitude":44.290943,
     "geom:longitude":-88.395675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 N Meade St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":185675605,
-    "wof:lastmodified":1449007455,
+    "wof:lastmodified":1467089884,
     "wof:name":"Otto Chiropractic",
     "wof:parent_id":85857401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.395675,44.290943,-88.395675,44.290943],
+  "bbox": [
+    -88.395675,
+    44.290943,
+    -88.395675,
+    44.290943
+],
   "geometry": {"coordinates":[-88.395675,44.290943],"type":"Point"}
 }

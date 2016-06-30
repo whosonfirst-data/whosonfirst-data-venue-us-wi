@@ -2,13 +2,14 @@
   "id": 370644379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.077936,43.035741,-88.077936,43.035741",
     "geom:latitude":43.035741,
     "geom:longitude":-88.077936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13255 W Bluemound Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370644379,
-    "wof:lastmodified":1449031007,
+    "wof:lastmodified":1467089903,
     "wof:name":"Risk Solutions Inc",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-88.077936,43.035741,-88.077936,43.035741],
-  "geometry": {"coordinates":[-88.077936,43.035741],"type":"Point"}
+  "bbox": [
+    -88.077936,
+    43.035741,
+    -88.077936,
+    43.035741
+],
+  "geometry": {"coordinates":[-88.07793599999999,43.035741],"type":"Point"}
 }

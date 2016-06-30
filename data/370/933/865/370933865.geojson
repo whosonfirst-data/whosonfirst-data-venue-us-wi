@@ -2,13 +2,14 @@
   "id": 370933865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.202508,46.000584,-89.202508,46.000584",
     "geom:latitude":46.000584,
     "geom:longitude":-89.202508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3139 Hanson Rd",
     "sg:city":"Conover",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370933865,
-    "wof:lastmodified":1449029787,
+    "wof:lastmodified":1467089899,
     "wof:name":"Clairs Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-89.202508,46.000584,-89.202508,46.000584],
-  "geometry": {"coordinates":[-89.202508,46.000584],"type":"Point"}
+  "bbox": [
+    -89.202508,
+    46.000584,
+    -89.202508,
+    46.000584
+],
+  "geometry": {"coordinates":[-89.20250799999999,46.000584],"type":"Point"}
 }

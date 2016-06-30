@@ -2,13 +2,14 @@
   "id": 404053597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.48916,43.804109,-88.48916,43.804109",
     "geom:latitude":43.804109,
     "geom:longitude":-88.48916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Twin Lakes Dr",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404053597,
-    "wof:lastmodified":1449039281,
+    "wof:lastmodified":1467089909,
     "wof:name":"R K H Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.48916,43.804109,-88.48916,43.804109],
+  "bbox": [
+    -88.48916,
+    43.804109,
+    -88.48916,
+    43.804109
+],
   "geometry": {"coordinates":[-88.48916,43.804109],"type":"Point"}
 }

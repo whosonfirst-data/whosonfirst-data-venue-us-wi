@@ -2,13 +2,14 @@
   "id": 404125627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.549776,45.454055,-92.549776,45.454055",
     "geom:latitude":45.454055,
     "geom:longitude":-92.549776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 State Hwy 35",
     "sg:city":"Centuria",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404125627,
-    "wof:lastmodified":1449040285,
+    "wof:lastmodified":1467089911,
     "wof:name":"B&B Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-92.549776,45.454055,-92.549776,45.454055],
-  "geometry": {"coordinates":[-92.549776,45.454055],"type":"Point"}
+  "bbox": [
+    -92.549776,
+    45.454055,
+    -92.549776,
+    45.454055
+],
+  "geometry": {"coordinates":[-92.54977599999999,45.454055],"type":"Point"}
 }

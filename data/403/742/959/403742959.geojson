@@ -2,13 +2,14 @@
   "id": 403742959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.687604,44.955525,-89.687604,44.955525",
     "geom:latitude":44.955525,
     "geom:longitude":-89.687604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4302 Stewart Ave",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403742959,
-    "wof:lastmodified":1449054721,
+    "wof:lastmodified":1467089917,
     "wof:name":"King Company LLC",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "hitch"
     ]
 },
-  "bbox": [-89.687604,44.955525,-89.687604,44.955525],
-  "geometry": {"coordinates":[-89.687604,44.955525],"type":"Point"}
+  "bbox": [
+    -89.687604,
+    44.955525,
+    -89.687604,
+    44.955525
+],
+  "geometry": {"coordinates":[-89.68760399999999,44.955525],"type":"Point"}
 }

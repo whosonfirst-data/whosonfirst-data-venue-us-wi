@@ -2,13 +2,14 @@
   "id": 353772211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.063511,44.668403,-88.063511,44.668403",
     "geom:latitude":44.668403,
     "geom:longitude":-88.063511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2094 Wildwood Dr",
     "sg:city":"Suamico",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353772211,
-    "wof:lastmodified":1449019402,
+    "wof:lastmodified":1467089889,
     "wof:name":"Hackl & Assoc",
     "wof:parent_id":85819627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.063511,44.668403,-88.063511,44.668403],
-  "geometry": {"coordinates":[-88.063511,44.668403],"type":"Point"}
+  "bbox": [
+    -88.063511,
+    44.668403,
+    -88.063511,
+    44.668403
+],
+  "geometry": {"coordinates":[-88.06351100000001,44.668403],"type":"Point"}
 }

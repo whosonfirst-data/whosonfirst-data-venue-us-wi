@@ -2,13 +2,14 @@
   "id": 186313699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.111715,45.450878,-91.111715,45.450878",
     "geom:latitude":45.450878,
     "geom:longitude":-91.111715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8527 Gokey Rd",
     "sg:city":"Ladysmith",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186313699,
-    "wof:lastmodified":1449050343,
+    "wof:lastmodified":1467089914,
     "wof:name":"Rands Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-91.111715,45.450878,-91.111715,45.450878],
+  "bbox": [
+    -91.111715,
+    45.450878,
+    -91.111715,
+    45.450878
+],
   "geometry": {"coordinates":[-91.111715,45.450878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404092333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.91391,43.180891,-87.91391,43.180891",
     "geom:latitude":43.180891,
     "geom:longitude":-87.91391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8989 N Port Washington Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404092333,
-    "wof:lastmodified":1449040072,
+    "wof:lastmodified":1467089911,
     "wof:name":"Marc J Novom MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "medical"
     ]
 },
-  "bbox": [-87.91391,43.180891,-87.91391,43.180891],
+  "bbox": [
+    -87.91391,
+    43.180891,
+    -87.91391,
+    43.180891
+],
   "geometry": {"coordinates":[-87.91391,43.180891],"type":"Point"}
 }

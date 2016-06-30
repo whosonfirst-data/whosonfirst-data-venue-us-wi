@@ -2,13 +2,14 @@
   "id": 370544035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.437312,44.775565,-91.437312,44.775565",
     "geom:latitude":44.775565,
     "geom:longitude":-91.437312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 Golf Rd",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370544035,
-    "wof:lastmodified":1449032463,
+    "wof:lastmodified":1467089907,
     "wof:name":"Kirkland's",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accessory"
     ]
 },
-  "bbox": [-91.437312,44.775565,-91.437312,44.775565],
-  "geometry": {"coordinates":[-91.437312,44.775565],"type":"Point"}
+  "bbox": [
+    -91.437312,
+    44.775565,
+    -91.437312,
+    44.775565
+],
+  "geometry": {"coordinates":[-91.43731200000001,44.775565],"type":"Point"}
 }

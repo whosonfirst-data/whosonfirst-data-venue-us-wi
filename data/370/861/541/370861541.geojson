@@ -2,13 +2,14 @@
   "id": 370861541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.076413,42.960057,-88.076413,42.960057",
     "geom:latitude":42.960057,
     "geom:longitude":-88.076413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12801 W Beloit Rd",
     "sg:city":"New Berlin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370861541,
-    "wof:lastmodified":1449032441,
+    "wof:lastmodified":1467089907,
     "wof:name":"Kittenwood of New Berlin Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-88.076413,42.960057,-88.076413,42.960057],
+  "bbox": [
+    -88.076413,
+    42.960057,
+    -88.076413,
+    42.960057
+],
   "geometry": {"coordinates":[-88.076413,42.960057],"type":"Point"}
 }

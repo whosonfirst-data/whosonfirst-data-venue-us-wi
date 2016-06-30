@@ -2,13 +2,14 @@
   "id": 387597401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.248209,43.810101,-91.248209,43.810101",
     "geom:latitude":43.810101,
     "geom:longitude":-91.248209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 King St",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387597401,
-    "wof:lastmodified":1449059872,
+    "wof:lastmodified":1467089933,
     "wof:name":"King On 5th Rental Properties",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "space"
     ]
 },
-  "bbox": [-91.248209,43.810101,-91.248209,43.810101],
+  "bbox": [
+    -91.248209,
+    43.810101,
+    -91.248209,
+    43.810101
+],
   "geometry": {"coordinates":[-91.248209,43.810101],"type":"Point"}
 }

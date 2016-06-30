@@ -2,13 +2,14 @@
   "id": 337538107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.49311,44.270303,-88.49311,44.270303",
     "geom:latitude":44.270303,
     "geom:longitude":-88.49311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5523 Integrity Way",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":337538107,
-    "wof:lastmodified":1449027038,
+    "wof:lastmodified":1467089893,
     "wof:name":"Orion Contruction Group LLC",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.49311,44.270303,-88.49311,44.270303],
+  "bbox": [
+    -88.49311,
+    44.270303,
+    -88.49311,
+    44.270303
+],
   "geometry": {"coordinates":[-88.49311,44.270303],"type":"Point"}
 }

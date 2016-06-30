@@ -2,13 +2,14 @@
   "id": 370976749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.053243,44.502536,-88.053243,44.502536",
     "geom:latitude":44.502536,
     "geom:longitude":-88.053243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 Kenwood St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370976749,
-    "wof:lastmodified":1449030485,
+    "wof:lastmodified":1467089901,
     "wof:name":"K&B Properties of Green Bay",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-88.053243,44.502536,-88.053243,44.502536],
-  "geometry": {"coordinates":[-88.053243,44.502536],"type":"Point"}
+  "bbox": [
+    -88.053243,
+    44.502536,
+    -88.053243,
+    44.502536
+],
+  "geometry": {"coordinates":[-88.05324299999999,44.502536],"type":"Point"}
 }

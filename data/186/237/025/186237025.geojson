@@ -2,13 +2,14 @@
   "id": 186237025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.901205,44.044546,-88.901205,44.044546",
     "geom:latitude":44.044546,
     "geom:longitude":-88.901205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Co Rd X",
     "sg:city":"Berlin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186237025,
-    "wof:lastmodified":1449050332,
+    "wof:lastmodified":1467089914,
     "wof:name":"Paul R Belter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.901205,44.044546,-88.901205,44.044546],
+  "bbox": [
+    -88.901205,
+    44.044546,
+    -88.901205,
+    44.044546
+],
   "geometry": {"coordinates":[-88.901205,44.044546],"type":"Point"}
 }

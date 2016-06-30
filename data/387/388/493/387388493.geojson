@@ -2,13 +2,14 @@
   "id": 387388493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.180769,43.013694,-88.180769,43.013694",
     "geom:latitude":43.013694,
     "geom:longitude":-88.180769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21415 W Greenfield Ave",
     "sg:city":"New Berlin",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387388493,
-    "wof:lastmodified":1449056261,
+    "wof:lastmodified":1467089922,
     "wof:name":"Orthologic Corp",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "instrument"
     ]
 },
-  "bbox": [-88.180769,43.013694,-88.180769,43.013694],
+  "bbox": [
+    -88.180769,
+    43.013694,
+    -88.180769,
+    43.013694
+],
   "geometry": {"coordinates":[-88.180769,43.013694],"type":"Point"}
 }

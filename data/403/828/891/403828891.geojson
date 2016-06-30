@@ -2,13 +2,14 @@
   "id": 403828891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.913045,43.078918,-88.913045,43.078918",
     "geom:latitude":43.078918,
     "geom:longitude":-88.913045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 S Main St",
     "sg:city":"Lake Mills",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403828891,
-    "wof:lastmodified":1449055328,
+    "wof:lastmodified":1467089919,
     "wof:name":"T TS Time Out",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-88.913045,43.078918,-88.913045,43.078918],
+  "bbox": [
+    -88.913045,
+    43.078918,
+    -88.913045,
+    43.078918
+],
   "geometry": {"coordinates":[-88.913045,43.078918],"type":"Point"}
 }

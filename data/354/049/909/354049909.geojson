@@ -2,13 +2,14 @@
   "id": 354049909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.973301,43.747572,-87.973301,43.747572",
     "geom:latitude":43.747572,
     "geom:longitude":-87.973301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Eastern Ave",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354049909,
-    "wof:lastmodified":1449066768,
+    "wof:lastmodified":1467089935,
     "wof:name":"Sdsd",
     "wof:parent_id":85836705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-87.973301,43.747572,-87.973301,43.747572],
-  "geometry": {"coordinates":[-87.973301,43.747572],"type":"Point"}
+  "bbox": [
+    -87.973301,
+    43.747572,
+    -87.973301,
+    43.747572
+],
+  "geometry": {"coordinates":[-87.97330100000001,43.747572],"type":"Point"}
 }

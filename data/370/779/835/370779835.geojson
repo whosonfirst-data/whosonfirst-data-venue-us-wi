@@ -2,13 +2,14 @@
   "id": 370779835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.544413,43.080892,-89.544413,43.080892",
     "geom:latitude":43.080892,
     "geom:longitude":-89.544413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9042 Aspen Grove Ln",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370779835,
-    "wof:lastmodified":1449029606,
+    "wof:lastmodified":1467089899,
     "wof:name":"Meeting Lifes Challenges LLC",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.544413,43.080892,-89.544413,43.080892],
-  "geometry": {"coordinates":[-89.544413,43.080892],"type":"Point"}
+  "bbox": [
+    -89.544413,
+    43.080892,
+    -89.544413,
+    43.080892
+],
+  "geometry": {"coordinates":[-89.54441300000001,43.080892],"type":"Point"}
 }

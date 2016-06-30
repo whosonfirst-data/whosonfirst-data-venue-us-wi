@@ -2,13 +2,14 @@
   "id": 186289063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.980933,43.064705,-87.980933,43.064705",
     "geom:latitude":43.064705,
     "geom:longitude":-87.980933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5312 W Lisbon Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186289063,
-    "wof:lastmodified":1449052560,
+    "wof:lastmodified":1467089917,
     "wof:name":"Avenue Auto Sales & Svc",
     "wof:parent_id":85870829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.980933,43.064705,-87.980933,43.064705],
-  "geometry": {"coordinates":[-87.980933,43.064705],"type":"Point"}
+  "bbox": [
+    -87.980933,
+    43.064705,
+    -87.980933,
+    43.064705
+],
+  "geometry": {"coordinates":[-87.98093299999999,43.064705],"type":"Point"}
 }

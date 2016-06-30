@@ -2,13 +2,14 @@
   "id": 387791573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.520453,44.390039,-87.520453,44.390039",
     "geom:latitude":44.390039,
     "geom:longitude":-87.520453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1859 Lakeshore Rd",
     "sg:city":"Kewaunee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387791573,
-    "wof:lastmodified":1449059025,
+    "wof:lastmodified":1467089930,
     "wof:name":"Francis Wojta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.520453,44.390039,-87.520453,44.390039],
+  "bbox": [
+    -87.520453,
+    44.390039,
+    -87.520453,
+    44.390039
+],
   "geometry": {"coordinates":[-87.520453,44.390039],"type":"Point"}
 }

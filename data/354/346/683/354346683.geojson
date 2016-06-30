@@ -2,13 +2,14 @@
   "id": 354346683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.381492,45.663027,-89.381492,45.663027",
     "geom:latitude":45.663027,
     "geom:longitude":-89.381492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4860 W Birchwood Dr",
     "sg:city":"Rhinelander",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354346683,
-    "wof:lastmodified":1449065920,
+    "wof:lastmodified":1467089933,
     "wof:name":"Jeffrey Lund",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plowing"
     ]
 },
-  "bbox": [-89.381492,45.663027,-89.381492,45.663027],
-  "geometry": {"coordinates":[-89.381492,45.663027],"type":"Point"}
+  "bbox": [
+    -89.381492,
+    45.663027,
+    -89.381492,
+    45.663027
+],
+  "geometry": {"coordinates":[-89.38149199999999,45.663027],"type":"Point"}
 }

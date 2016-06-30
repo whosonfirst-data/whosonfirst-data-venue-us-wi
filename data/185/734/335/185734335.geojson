@@ -2,13 +2,14 @@
   "id": 185734335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.828299,44.352945,-87.828299,44.352945",
     "geom:latitude":44.352945,
     "geom:longitude":-87.828299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"367 Danish Way",
     "sg:city":"Denmark",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185734335,
-    "wof:lastmodified":1449008019,
+    "wof:lastmodified":1467089885,
     "wof:name":"Scandinavian Vlg Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-87.828299,44.352945,-87.828299,44.352945],
+  "bbox": [
+    -87.828299,
+    44.352945,
+    -87.828299,
+    44.352945
+],
   "geometry": {"coordinates":[-87.828299,44.352945],"type":"Point"}
 }

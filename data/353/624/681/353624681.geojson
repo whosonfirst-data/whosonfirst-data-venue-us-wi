@@ -2,13 +2,14 @@
   "id": 353624681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.588097,43.983065,-88.588097,43.983065",
     "geom:latitude":43.983065,
     "geom:longitude":-88.588097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 Universal St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353624681,
-    "wof:lastmodified":1449019993,
+    "wof:lastmodified":1467089890,
     "wof:name":"Wisconsin Bus Dev Of Oshkosh",
     "wof:parent_id":85819403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-88.588097,43.983065,-88.588097,43.983065],
+  "bbox": [
+    -88.588097,
+    43.983065,
+    -88.588097,
+    43.983065
+],
   "geometry": {"coordinates":[-88.588097,43.983065],"type":"Point"}
 }

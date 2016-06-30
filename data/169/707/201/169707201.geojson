@@ -2,13 +2,14 @@
   "id": 169707201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.943195,44.493116,-87.943195,44.493116",
     "geom:latitude":44.493116,
     "geom:longitude":-87.943195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2787 Pamela Dr",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169707201,
-    "wof:lastmodified":1449035442,
+    "wof:lastmodified":1467089909,
     "wof:name":"Paper Perfect Wallpapering",
     "wof:parent_id":85877939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.943195,44.493116,-87.943195,44.493116],
+  "bbox": [
+    -87.943195,
+    44.493116,
+    -87.943195,
+    44.493116
+],
   "geometry": {"coordinates":[-87.943195,44.493116],"type":"Point"}
 }

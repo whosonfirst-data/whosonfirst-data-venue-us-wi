@@ -2,13 +2,14 @@
   "id": 387064429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.538114,44.008396,-88.538114,44.008396",
     "geom:latitude":44.008396,
     "geom:longitude":-88.538114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 S Main St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387064429,
-    "wof:lastmodified":1449057440,
+    "wof:lastmodified":1467089925,
     "wof:name":"South Side Auto LLC",
     "wof:parent_id":85851167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-88.538114,44.008396,-88.538114,44.008396],
-  "geometry": {"coordinates":[-88.538114,44.008396],"type":"Point"}
+  "bbox": [
+    -88.538114,
+    44.008396,
+    -88.538114,
+    44.008396
+],
+  "geometry": {"coordinates":[-88.53811399999999,44.008396],"type":"Point"}
 }

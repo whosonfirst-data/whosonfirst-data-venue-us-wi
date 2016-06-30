@@ -2,13 +2,14 @@
   "id": 387815021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.553776,44.983184,-92.553776,44.983184",
     "geom:latitude":44.983184,
     "geom:longitude":-92.553776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 W Main St",
     "sg:city":"Roberts",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387815021,
-    "wof:lastmodified":1449057945,
+    "wof:lastmodified":1467089926,
     "wof:name":"Roberts Veterinary Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-92.553776,44.983184,-92.553776,44.983184],
+  "bbox": [
+    -92.553776,
+    44.983184,
+    -92.553776,
+    44.983184
+],
   "geometry": {"coordinates":[-92.553776,44.983184],"type":"Point"}
 }

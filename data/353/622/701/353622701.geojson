@@ -2,13 +2,14 @@
   "id": 353622701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.016701,43.11216,-88.016701,43.11216",
     "geom:latitude":43.11216,
     "geom:longitude":-88.016701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8421 W Villard Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353622701,
-    "wof:lastmodified":1449020363,
+    "wof:lastmodified":1467089891,
     "wof:name":"Mugs Bunny Pub & Grill",
     "wof:parent_id":85870869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.016701,43.11216,-88.016701,43.11216],
+  "bbox": [
+    -88.016701,
+    43.11216,
+    -88.016701,
+    43.11216
+],
   "geometry": {"coordinates":[-88.016701,43.11216],"type":"Point"}
 }

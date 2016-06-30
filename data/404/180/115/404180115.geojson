@@ -2,13 +2,14 @@
   "id": 404180115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.906015,43.034929,-87.906015,43.034929",
     "geom:latitude":43.034929,
     "geom:longitude":-87.906015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 N Milwaukee St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404180115,
-    "wof:lastmodified":1449039114,
+    "wof:lastmodified":1467089909,
     "wof:name":"Merry Feet Inc",
     "wof:parent_id":85871001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.906015,43.034929,-87.906015,43.034929],
+  "bbox": [
+    -87.906015,
+    43.034929,
+    -87.906015,
+    43.034929
+],
   "geometry": {"coordinates":[-87.906015,43.034929],"type":"Point"}
 }

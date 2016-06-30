@@ -2,13 +2,14 @@
   "id": 353582303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.077399,42.730138,-89.077399,42.730138",
     "geom:latitude":42.730138,
     "geom:longitude":-89.077399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3929 US Hwy 14",
     "sg:city":"Janesville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353582303,
-    "wof:lastmodified":1449019636,
+    "wof:lastmodified":1467089889,
     "wof:name":"T & K Helgesen Inc",
     "wof:parent_id":85803103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.077399,42.730138,-89.077399,42.730138],
+  "bbox": [
+    -89.077399,
+    42.730138,
+    -89.077399,
+    42.730138
+],
   "geometry": {"coordinates":[-89.077399,42.730138],"type":"Point"}
 }

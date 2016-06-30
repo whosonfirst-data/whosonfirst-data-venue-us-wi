@@ -2,13 +2,14 @@
   "id": 371175457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.732562,43.472844,-89.732562,43.472844",
     "geom:latitude":43.472844,
     "geom:longitude":-89.732562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 6th St",
     "sg:city":"Baraboo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371175457,
-    "wof:lastmodified":1449049785,
+    "wof:lastmodified":1467089913,
     "wof:name":"Bicknell Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-89.732562,43.472844,-89.732562,43.472844],
+  "bbox": [
+    -89.732562,
+    43.472844,
+    -89.732562,
+    43.472844
+],
   "geometry": {"coordinates":[-89.732562,43.472844],"type":"Point"}
 }

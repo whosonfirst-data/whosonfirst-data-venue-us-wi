@@ -2,13 +2,14 @@
   "id": 387961629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.619329,45.071301,-87.619329,45.071301",
     "geom:latitude":45.071301,
     "geom:longitude":-87.619329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Shore Dr",
     "sg:city":"Marinette",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387961629,
-    "wof:lastmodified":1449059847,
+    "wof:lastmodified":1467089932,
     "wof:name":"Neurology Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.619329,45.071301,-87.619329,45.071301],
-  "geometry": {"coordinates":[-87.619329,45.071301],"type":"Point"}
+  "bbox": [
+    -87.619329,
+    45.071301,
+    -87.619329,
+    45.071301
+],
+  "geometry": {"coordinates":[-87.61932899999999,45.071301],"type":"Point"}
 }

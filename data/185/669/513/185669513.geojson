@@ -2,13 +2,14 @@
   "id": 185669513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.676861,44.089578,-87.676861,44.089578",
     "geom:latitude":44.089578,
     "geom:longitude":-87.676861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"935 S 23rd St",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185669513,
-    "wof:lastmodified":1449006789,
+    "wof:lastmodified":1467089883,
     "wof:name":"Mikaelas High Hopes LLC",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.676861,44.089578,-87.676861,44.089578],
+  "bbox": [
+    -87.676861,
+    44.089578,
+    -87.676861,
+    44.089578
+],
   "geometry": {"coordinates":[-87.676861,44.089578],"type":"Point"}
 }

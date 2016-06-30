@@ -2,13 +2,14 @@
   "id": 354158813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.546211,44.021166,-88.546211,44.021166",
     "geom:latitude":44.021166,
     "geom:longitude":-88.546211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"549 High Ave",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354158813,
-    "wof:lastmodified":1449067107,
+    "wof:lastmodified":1467089936,
     "wof:name":"Planned Prenthood of Wisconsin",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "family"
     ]
 },
-  "bbox": [-88.546211,44.021166,-88.546211,44.021166],
+  "bbox": [
+    -88.546211,
+    44.021166,
+    -88.546211,
+    44.021166
+],
   "geometry": {"coordinates":[-88.546211,44.021166],"type":"Point"}
 }

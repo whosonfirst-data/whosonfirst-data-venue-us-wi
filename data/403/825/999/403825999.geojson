@@ -2,13 +2,14 @@
   "id": 403825999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.065869,43.053923,-88.065869,43.053923",
     "geom:latitude":43.053923,
     "geom:longitude":-88.065869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12236 Woodside Ct",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403825999,
-    "wof:lastmodified":1449054671,
+    "wof:lastmodified":1467089917,
     "wof:name":"Intergrating Quality Inc",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-88.065869,43.053923,-88.065869,43.053923],
-  "geometry": {"coordinates":[-88.065869,43.053923],"type":"Point"}
+  "bbox": [
+    -88.065869,
+    43.053923,
+    -88.065869,
+    43.053923
+],
+  "geometry": {"coordinates":[-88.06586900000001,43.053923],"type":"Point"}
 }

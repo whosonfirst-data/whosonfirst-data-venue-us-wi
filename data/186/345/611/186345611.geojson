@@ -2,13 +2,14 @@
   "id": 186345611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.047474,43.060034,-88.047474,43.060034",
     "geom:latitude":43.060034,
     "geom:longitude":-88.047474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10400 W North Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186345611,
-    "wof:lastmodified":1449052815,
+    "wof:lastmodified":1467089917,
     "wof:name":"St Joseph's Outpatient Care",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-88.047474,43.060034,-88.047474,43.060034],
-  "geometry": {"coordinates":[-88.047474,43.060034],"type":"Point"}
+  "bbox": [
+    -88.047474,
+    43.060034,
+    -88.047474,
+    43.060034
+],
+  "geometry": {"coordinates":[-88.04747399999999,43.060034],"type":"Point"}
 }

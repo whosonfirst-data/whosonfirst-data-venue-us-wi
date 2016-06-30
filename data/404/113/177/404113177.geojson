@@ -2,13 +2,14 @@
   "id": 404113177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.275911,44.92761,-91.275911,44.92761",
     "geom:latitude":44.92761,
     "geom:longitude":-91.275911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5712 196th St",
     "sg:city":"Chippewa Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404113177,
-    "wof:lastmodified":1449040230,
+    "wof:lastmodified":1467089911,
     "wof:name":"Chippewa Valley Tax Service",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-91.275911,44.92761,-91.275911,44.92761],
-  "geometry": {"coordinates":[-91.275911,44.92761],"type":"Point"}
+  "bbox": [
+    -91.275911,
+    44.92761,
+    -91.275911,
+    44.92761
+],
+  "geometry": {"coordinates":[-91.27591099999999,44.92761],"type":"Point"}
 }

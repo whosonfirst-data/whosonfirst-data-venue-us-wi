@@ -2,13 +2,14 @@
   "id": 186340531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.250063,43.811159,-91.250063,43.811159",
     "geom:latitude":43.811159,
     "geom:longitude":-91.250063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 5th Ave S",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186340531,
-    "wof:lastmodified":1449052394,
+    "wof:lastmodified":1467089916,
     "wof:name":"Precision Office Machines",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-91.250063,43.811159,-91.250063,43.811159],
+  "bbox": [
+    -91.250063,
+    43.811159,
+    -91.250063,
+    43.811159
+],
   "geometry": {"coordinates":[-91.250063,43.811159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403935983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.157719,43.427161,-88.157719,43.427161",
     "geom:latitude":43.427161,
     "geom:longitude":-88.157719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Schoenhaar Dr",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403935983,
-    "wof:lastmodified":1449055734,
+    "wof:lastmodified":1467089920,
     "wof:name":"Guaranteed Service & Supply",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "printing"
     ]
 },
-  "bbox": [-88.157719,43.427161,-88.157719,43.427161],
+  "bbox": [
+    -88.157719,
+    43.427161,
+    -88.157719,
+    43.427161
+],
   "geometry": {"coordinates":[-88.157719,43.427161],"type":"Point"}
 }

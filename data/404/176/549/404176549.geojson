@@ -2,13 +2,14 @@
   "id": 404176549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.777881,46.096573,-91.777881,46.096573",
     "geom:latitude":46.096573,
     "geom:longitude":-91.777881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12883 Oak Tree Dr",
     "sg:city":"Minong",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404176549,
-    "wof:lastmodified":1449039921,
+    "wof:lastmodified":1467089911,
     "wof:name":"Steve's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dealer"
     ]
 },
-  "bbox": [-91.777881,46.096573,-91.777881,46.096573],
-  "geometry": {"coordinates":[-91.777881,46.096573],"type":"Point"}
+  "bbox": [
+    -91.777881,
+    46.096573,
+    -91.777881,
+    46.096573
+],
+  "geometry": {"coordinates":[-91.77788099999999,46.096573],"type":"Point"}
 }

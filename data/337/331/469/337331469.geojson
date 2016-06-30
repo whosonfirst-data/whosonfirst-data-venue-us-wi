@@ -2,13 +2,14 @@
   "id": 337331469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.405352,43.036656,-89.405352,43.036656",
     "geom:latitude":43.036656,
     "geom:longitude":-89.405352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2534 Fish Hatchery Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337331469,
-    "wof:lastmodified":1449027442,
+    "wof:lastmodified":1467089894,
     "wof:name":"Asphalt Reheat Systems LLC",
     "wof:parent_id":85878867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mfg"
     ]
 },
-  "bbox": [-89.405352,43.036656,-89.405352,43.036656],
-  "geometry": {"coordinates":[-89.405352,43.036656],"type":"Point"}
+  "bbox": [
+    -89.405352,
+    43.036656,
+    -89.405352,
+    43.036656
+],
+  "geometry": {"coordinates":[-89.40535199999999,43.036656],"type":"Point"}
 }

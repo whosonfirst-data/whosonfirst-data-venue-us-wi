@@ -2,13 +2,14 @@
   "id": 387517415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.6721,45.850008,-88.6721,45.850008",
     "geom:latitude":45.850008,
     "geom:longitude":-88.6721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19125 N Shore Rd",
     "sg:city":"Long Lake",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387517415,
-    "wof:lastmodified":1449058280,
+    "wof:lastmodified":1467089928,
     "wof:name":"Environmental Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "ecological"
     ]
 },
-  "bbox": [-88.6721,45.850008,-88.6721,45.850008],
+  "bbox": [
+    -88.6721,
+    45.850008,
+    -88.6721,
+    45.850008
+],
   "geometry": {"coordinates":[-88.6721,45.850008],"type":"Point"}
 }

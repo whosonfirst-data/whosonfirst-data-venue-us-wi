@@ -2,13 +2,14 @@
   "id": 353689685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.872534,43.387564,-87.872534,43.387564",
     "geom:latitude":43.387564,
     "geom:longitude":-87.872534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Grand Ave",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353689685,
-    "wof:lastmodified":1449020398,
+    "wof:lastmodified":1467089891,
     "wof:name":"Lams 2 Chinese & Amercn Rest",
     "wof:parent_id":85828641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.872534,43.387564,-87.872534,43.387564],
+  "bbox": [
+    -87.872534,
+    43.387564,
+    -87.872534,
+    43.387564
+],
   "geometry": {"coordinates":[-87.872534,43.387564],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403747621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.145807,43.072878,-88.145807,43.072878",
     "geom:latitude":43.072878,
     "geom:longitude":-88.145807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 N Brookfield Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":403747621,
-    "wof:lastmodified":1449054872,
+    "wof:lastmodified":1467089918,
     "wof:name":"H & H Wholesale Tools",
     "wof:parent_id":85832419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "used"
     ]
 },
-  "bbox": [-88.145807,43.072878,-88.145807,43.072878],
+  "bbox": [
+    -88.145807,
+    43.072878,
+    -88.145807,
+    43.072878
+],
   "geometry": {"coordinates":[-88.145807,43.072878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186146189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.733969,43.766376,-87.733969,43.766376",
     "geom:latitude":43.766376,
     "geom:longitude":-87.733969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2006 N 21st St",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186146189,
-    "wof:lastmodified":1449051488,
+    "wof:lastmodified":1467089915,
     "wof:name":"Heitzmann Insurance",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.733969,43.766376,-87.733969,43.766376],
+  "bbox": [
+    -87.733969,
+    43.766376,
+    -87.733969,
+    43.766376
+],
   "geometry": {"coordinates":[-87.733969,43.766376],"type":"Point"}
 }

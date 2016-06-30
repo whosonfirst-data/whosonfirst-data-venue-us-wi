@@ -2,13 +2,14 @@
   "id": 370440635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.352111,43.31772,-88.352111,43.31772",
     "geom:latitude":43.31772,
     "geom:longitude":-88.352111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1566 E Sumner St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370440635,
-    "wof:lastmodified":1449030285,
+    "wof:lastmodified":1467089901,
     "wof:name":"Ruebens County Market",
     "wof:parent_id":85841573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-88.352111,43.31772,-88.352111,43.31772],
-  "geometry": {"coordinates":[-88.352111,43.31772],"type":"Point"}
+  "bbox": [
+    -88.352111,
+    43.31772,
+    -88.352111,
+    43.31772
+],
+  "geometry": {"coordinates":[-88.35211099999999,43.31772],"type":"Point"}
 }

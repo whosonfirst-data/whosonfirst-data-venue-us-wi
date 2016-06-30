@@ -2,13 +2,14 @@
   "id": 403933187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.911924,43.105932,-87.911924,43.105932",
     "geom:latitude":43.105932,
     "geom:longitude":-87.911924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4848 N Lydell Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403933187,
-    "wof:lastmodified":1449054909,
+    "wof:lastmodified":1467089918,
     "wof:name":"Dale M Buegel Service Corp",
     "wof:parent_id":85870875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "osteopathic"
     ]
 },
-  "bbox": [-87.911924,43.105932,-87.911924,43.105932],
+  "bbox": [
+    -87.911924,
+    43.105932,
+    -87.911924,
+    43.105932
+],
   "geometry": {"coordinates":[-87.911924,43.105932],"type":"Point"}
 }

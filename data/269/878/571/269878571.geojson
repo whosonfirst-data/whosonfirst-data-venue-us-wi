@@ -2,13 +2,14 @@
   "id": 269878571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.885014,42.56671,-87.885014,42.56671",
     "geom:latitude":42.56671,
     "geom:longitude":-87.885014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6011 75th St",
     "sg:city":"Kenosha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269878571,
-    "wof:lastmodified":1449037390,
+    "wof:lastmodified":1467089909,
     "wof:name":"J C Classics",
     "wof:parent_id":85852717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "classic"
     ]
 },
-  "bbox": [-87.885014,42.56671,-87.885014,42.56671],
+  "bbox": [
+    -87.885014,
+    42.56671,
+    -87.885014,
+    42.56671
+],
   "geometry": {"coordinates":[-87.885014,42.56671],"type":"Point"}
 }

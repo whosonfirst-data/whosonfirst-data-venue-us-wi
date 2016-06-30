@@ -2,13 +2,14 @@
   "id": 404090043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.542497,44.005482,-88.542497,44.005482",
     "geom:latitude":44.005482,
     "geom:longitude":-88.542497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Oregon St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404090043,
-    "wof:lastmodified":1449040040,
+    "wof:lastmodified":1467089911,
     "wof:name":"Oshkosh Vacuum Center",
     "wof:parent_id":85851167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-88.542497,44.005482,-88.542497,44.005482],
+  "bbox": [
+    -88.542497,
+    44.005482,
+    -88.542497,
+    44.005482
+],
   "geometry": {"coordinates":[-88.542497,44.005482],"type":"Point"}
 }

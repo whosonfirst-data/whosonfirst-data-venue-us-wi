@@ -2,13 +2,14 @@
   "id": 387432641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.000286,43.013472,-88.000286,43.013472",
     "geom:latitude":43.013472,
     "geom:longitude":-88.000286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1565 S 70th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387432641,
-    "wof:lastmodified":1449056046,
+    "wof:lastmodified":1467089921,
     "wof:name":"Rule 762",
     "wof:parent_id":85870837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "gun"
     ]
 },
-  "bbox": [-88.000286,43.013472,-88.000286,43.013472],
+  "bbox": [
+    -88.000286,
+    43.013472,
+    -88.000286,
+    43.013472
+],
   "geometry": {"coordinates":[-88.000286,43.013472],"type":"Point"}
 }

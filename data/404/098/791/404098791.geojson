@@ -2,13 +2,14 @@
   "id": 404098791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.412038,44.222101,-88.412038,44.222101",
     "geom:latitude":44.222101,
     "geom:longitude":-88.412038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1275 Stead Dr",
     "sg:city":"Menasha",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404098791,
-    "wof:lastmodified":1449040204,
+    "wof:lastmodified":1467089911,
     "wof:name":"Bills Service Equipment Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "industrial"
     ]
 },
-  "bbox": [-88.412038,44.222101,-88.412038,44.222101],
+  "bbox": [
+    -88.412038,
+    44.222101,
+    -88.412038,
+    44.222101
+],
   "geometry": {"coordinates":[-88.412038,44.222101],"type":"Point"}
 }

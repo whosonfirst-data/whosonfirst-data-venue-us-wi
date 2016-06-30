@@ -2,13 +2,14 @@
   "id": 370175565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.621919,44.867012,-92.621919,44.867012",
     "geom:latitude":44.867012,
     "geom:longitude":-92.621919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 N Main St",
     "sg:city":"River Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370175565,
-    "wof:lastmodified":1449031428,
+    "wof:lastmodified":1467089904,
     "wof:name":"Mc Connell Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-92.621919,44.867012,-92.621919,44.867012],
-  "geometry": {"coordinates":[-92.621919,44.867012],"type":"Point"}
+  "bbox": [
+    -92.621919,
+    44.867012,
+    -92.621919,
+    44.867012
+],
+  "geometry": {"coordinates":[-92.62191900000001,44.867012],"type":"Point"}
 }

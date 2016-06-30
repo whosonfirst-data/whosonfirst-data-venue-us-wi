@@ -2,13 +2,14 @@
   "id": 186352991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.591251,44.024447,-88.591251,44.024447",
     "geom:latitude":44.024447,
     "geom:longitude":-88.591251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"494 Windingbrook Dr",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186352991,
-    "wof:lastmodified":1449052008,
+    "wof:lastmodified":1467089916,
     "wof:name":"Gallery Homes LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.591251,44.024447,-88.591251,44.024447],
+  "bbox": [
+    -88.591251,
+    44.024447,
+    -88.591251,
+    44.024447
+],
   "geometry": {"coordinates":[-88.591251,44.024447],"type":"Point"}
 }

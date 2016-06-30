@@ -2,13 +2,14 @@
   "id": 370285265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.702031,44.096047,-87.702031,44.096047",
     "geom:latitude":44.096047,
     "geom:longitude":-87.702031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Mill Rd",
     "sg:city":"Francis Creek",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370285265,
-    "wof:lastmodified":1449029161,
+    "wof:lastmodified":1467089898,
     "wof:name":"Lakeshore Forest Products",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.702031,44.096047,-87.702031,44.096047],
-  "geometry": {"coordinates":[-87.702031,44.096047],"type":"Point"}
+  "bbox": [
+    -87.702031,
+    44.096047,
+    -87.702031,
+    44.096047
+],
+  "geometry": {"coordinates":[-87.70203100000001,44.096047],"type":"Point"}
 }

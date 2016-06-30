@@ -2,13 +2,14 @@
   "id": 387960875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.410727,44.27301,-88.410727,44.27301",
     "geom:latitude":44.27301,
     "geom:longitude":-88.410727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 W Wisconsin Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387960875,
-    "wof:lastmodified":1449058846,
+    "wof:lastmodified":1467089930,
     "wof:name":"Realistic Advertising Inc",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agency"
     ]
 },
-  "bbox": [-88.410727,44.27301,-88.410727,44.27301],
-  "geometry": {"coordinates":[-88.410727,44.27301],"type":"Point"}
+  "bbox": [
+    -88.410727,
+    44.27301,
+    -88.410727,
+    44.27301
+],
+  "geometry": {"coordinates":[-88.41072699999999,44.27301],"type":"Point"}
 }

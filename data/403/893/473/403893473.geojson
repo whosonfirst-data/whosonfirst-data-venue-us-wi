@@ -2,13 +2,14 @@
   "id": 403893473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.028963,42.913026,-88.028963,42.913026",
     "geom:latitude":42.913026,
     "geom:longitude":-88.028963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7102 S Woelfel Rd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403893473,
-    "wof:lastmodified":1449055711,
+    "wof:lastmodified":1467089920,
     "wof:name":"X & L Drycleaning LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plant"
     ]
 },
-  "bbox": [-88.028963,42.913026,-88.028963,42.913026],
+  "bbox": [
+    -88.028963,
+    42.913026,
+    -88.028963,
+    42.913026
+],
   "geometry": {"coordinates":[-88.028963,42.913026],"type":"Point"}
 }

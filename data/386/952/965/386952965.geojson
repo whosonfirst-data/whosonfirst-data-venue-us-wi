@@ -2,13 +2,14 @@
   "id": 386952965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.538523,44.068358,-88.538523,44.068358",
     "geom:latitude":44.068358,
     "geom:longitude":-88.538523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 W Snell Rd",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386952965,
-    "wof:lastmodified":1449028856,
+    "wof:lastmodified":1467089897,
     "wof:name":"Game Management Corp",
     "wof:parent_id":85827909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "devices"
     ]
 },
-  "bbox": [-88.538523,44.068358,-88.538523,44.068358],
+  "bbox": [
+    -88.538523,
+    44.068358,
+    -88.538523,
+    44.068358
+],
   "geometry": {"coordinates":[-88.538523,44.068358],"type":"Point"}
 }

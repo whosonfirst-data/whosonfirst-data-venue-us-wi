@@ -2,13 +2,14 @@
   "id": 387689975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.071415,43.099099,-88.071415,43.099099",
     "geom:latitude":43.099099,
     "geom:longitude":-88.071415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4535 N 128th St",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387689975,
-    "wof:lastmodified":1449059284,
+    "wof:lastmodified":1467089931,
     "wof:name":"Top Street Performance",
     "wof:parent_id":85870815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automobile"
     ]
 },
-  "bbox": [-88.071415,43.099099,-88.071415,43.099099],
+  "bbox": [
+    -88.071415,
+    43.099099,
+    -88.071415,
+    43.099099
+],
   "geometry": {"coordinates":[-88.071415,43.099099],"type":"Point"}
 }

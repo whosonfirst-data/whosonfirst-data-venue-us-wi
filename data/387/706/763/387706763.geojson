@@ -2,13 +2,14 @@
   "id": 387706763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.217151,43.183214,-89.217151,43.183214",
     "geom:latitude":43.183214,
     "geom:longitude":-89.217151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 W Main St",
     "sg:city":"Sun Prairie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387706763,
-    "wof:lastmodified":1449056384,
+    "wof:lastmodified":1467089922,
     "wof:name":"Bens Auto Service Inc",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-89.217151,43.183214,-89.217151,43.183214],
+  "bbox": [
+    -89.217151,
+    43.183214,
+    -89.217151,
+    43.183214
+],
   "geometry": {"coordinates":[-89.217151,43.183214],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353470799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.060537,44.44974,-88.060537,44.44974",
     "geom:latitude":44.44974,
     "geom:longitude":-88.060537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 N Broadway",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353470799,
-    "wof:lastmodified":1449018877,
+    "wof:lastmodified":1467089888,
     "wof:name":"Custom Massage Inc LLC",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-88.060537,44.44974,-88.060537,44.44974],
+  "bbox": [
+    -88.060537,
+    44.44974,
+    -88.060537,
+    44.44974
+],
   "geometry": {"coordinates":[-88.060537,44.44974],"type":"Point"}
 }

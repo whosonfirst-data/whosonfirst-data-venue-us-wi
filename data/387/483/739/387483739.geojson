@@ -2,13 +2,14 @@
   "id": 387483739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.983976,42.742285,-88.983976,42.742285",
     "geom:latitude":42.742285,
     "geom:longitude":-88.983976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 E McCormick Dr",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387483739,
-    "wof:lastmodified":1449059102,
+    "wof:lastmodified":1467089930,
     "wof:name":"All Mechanical Contractors",
     "wof:parent_id":85834509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.983976,42.742285,-88.983976,42.742285],
+  "bbox": [
+    -88.983976,
+    42.742285,
+    -88.983976,
+    42.742285
+],
   "geometry": {"coordinates":[-88.983976,42.742285],"type":"Point"}
 }

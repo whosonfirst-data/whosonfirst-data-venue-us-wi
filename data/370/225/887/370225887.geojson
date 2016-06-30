@@ -2,13 +2,14 @@
   "id": 370225887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.935759,43.148185,-87.935759,43.148185",
     "geom:latitude":43.148185,
     "geom:longitude":-87.935759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2050 W Good Hope Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370225887,
-    "wof:lastmodified":1449030148,
+    "wof:lastmodified":1467089900,
     "wof:name":"Brock Report The",
     "wof:parent_id":85870803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "periodical"
     ]
 },
-  "bbox": [-87.935759,43.148185,-87.935759,43.148185],
+  "bbox": [
+    -87.935759,
+    43.148185,
+    -87.935759,
+    43.148185
+],
   "geometry": {"coordinates":[-87.935759,43.148185],"type":"Point"}
 }

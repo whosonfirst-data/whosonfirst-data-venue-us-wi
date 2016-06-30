@@ -2,13 +2,14 @@
   "id": 404064601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.960784,43.077658,-87.960784,43.077658",
     "geom:latitude":43.077658,
     "geom:longitude":-87.960784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3717 W Fond du Lac Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404064601,
-    "wof:lastmodified":1449039446,
+    "wof:lastmodified":1467089910,
     "wof:name":"Center Of Hope",
     "wof:parent_id":85870825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-87.960784,43.077658,-87.960784,43.077658],
+  "bbox": [
+    -87.960784,
+    43.077658,
+    -87.960784,
+    43.077658
+],
   "geometry": {"coordinates":[-87.960784,43.077658],"type":"Point"}
 }

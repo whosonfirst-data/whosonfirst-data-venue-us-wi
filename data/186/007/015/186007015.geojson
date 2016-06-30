@@ -2,13 +2,14 @@
   "id": 186007015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.465883,44.256181,-88.465883,44.256181",
     "geom:latitude":44.256181,
     "geom:longitude":-88.465883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 S Westland Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186007015,
-    "wof:lastmodified":1449052549,
+    "wof:lastmodified":1467089917,
     "wof:name":"Illusions",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-88.465883,44.256181,-88.465883,44.256181],
-  "geometry": {"coordinates":[-88.465883,44.256181],"type":"Point"}
+  "bbox": [
+    -88.465883,
+    44.256181,
+    -88.465883,
+    44.256181
+],
+  "geometry": {"coordinates":[-88.46588300000001,44.256181],"type":"Point"}
 }

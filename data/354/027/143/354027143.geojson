@@ -2,13 +2,14 @@
   "id": 354027143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.836177,43.461167,-88.836177,43.461167",
     "geom:latitude":43.461167,
     "geom:longitude":-88.836177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 N Spring St",
     "sg:city":"Beaver Dam",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354027143,
-    "wof:lastmodified":1449066246,
+    "wof:lastmodified":1467089934,
     "wof:name":"Re Max Preferred",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.836177,43.461167,-88.836177,43.461167],
-  "geometry": {"coordinates":[-88.836177,43.461167],"type":"Point"}
+  "bbox": [
+    -88.836177,
+    43.461167,
+    -88.836177,
+    43.461167
+],
+  "geometry": {"coordinates":[-88.83617700000001,43.461167],"type":"Point"}
 }

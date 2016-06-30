@@ -2,13 +2,14 @@
   "id": 387281785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.223391,43.011896,-88.223391,43.011896",
     "geom:latitude":43.011896,
     "geom:longitude":-88.223391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Arcadian Ave",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387281785,
-    "wof:lastmodified":1449059347,
+    "wof:lastmodified":1467089931,
     "wof:name":"La Casa De Esperanza Inc",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.223391,43.011896,-88.223391,43.011896],
-  "geometry": {"coordinates":[-88.223391,43.011896],"type":"Point"}
+  "bbox": [
+    -88.223391,
+    43.011896,
+    -88.223391,
+    43.011896
+],
+  "geometry": {"coordinates":[-88.22339100000001,43.011896],"type":"Point"}
 }

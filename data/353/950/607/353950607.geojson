@@ -2,13 +2,14 @@
   "id": 353950607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.280374,43.331187,-88.280374,43.331187",
     "geom:latitude":43.331187,
     "geom:longitude":-88.280374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Slinger Rd",
     "sg:city":"Slinger",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":353950607,
-    "wof:lastmodified":1449019260,
+    "wof:lastmodified":1467089888,
     "wof:name":"Accelerated Repair & Mfg Inc",
     "wof:parent_id":85810007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "machine"
     ]
 },
-  "bbox": [-88.280374,43.331187,-88.280374,43.331187],
-  "geometry": {"coordinates":[-88.280374,43.331187],"type":"Point"}
+  "bbox": [
+    -88.280374,
+    43.331187,
+    -88.280374,
+    43.331187
+],
+  "geometry": {"coordinates":[-88.28037399999999,43.331187],"type":"Point"}
 }

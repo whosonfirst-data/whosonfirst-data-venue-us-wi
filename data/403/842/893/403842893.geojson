@@ -2,13 +2,14 @@
   "id": 403842893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.949061,43.141186,-87.949061,43.141186",
     "geom:latitude":43.141186,
     "geom:longitude":-87.949061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 W Green Tree Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403842893,
-    "wof:lastmodified":1449054736,
+    "wof:lastmodified":1467089918,
     "wof:name":"Ivarson Inc",
     "wof:parent_id":85870803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mach"
     ]
 },
-  "bbox": [-87.949061,43.141186,-87.949061,43.141186],
+  "bbox": [
+    -87.949061,
+    43.141186,
+    -87.949061,
+    43.141186
+],
   "geometry": {"coordinates":[-87.949061,43.141186],"type":"Point"}
 }

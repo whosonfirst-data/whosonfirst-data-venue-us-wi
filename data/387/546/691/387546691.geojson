@@ -2,13 +2,14 @@
   "id": 387546691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.255686,43.929407,-91.255686,43.929407",
     "geom:latitude":43.929407,
     "geom:longitude":-91.255686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Scott Dr",
     "sg:city":"Onalaska",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387546691,
-    "wof:lastmodified":1449056103,
+    "wof:lastmodified":1467089921,
     "wof:name":"Heritage Village LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "site"
     ]
 },
-  "bbox": [-91.255686,43.929407,-91.255686,43.929407],
+  "bbox": [
+    -91.255686,
+    43.929407,
+    -91.255686,
+    43.929407
+],
   "geometry": {"coordinates":[-91.255686,43.929407],"type":"Point"}
 }

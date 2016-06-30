@@ -2,13 +2,14 @@
   "id": 387689287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.199453,43.007813,-88.199453,43.007813",
     "geom:latitude":43.007813,
     "geom:longitude":-88.199453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1706 Pearl St",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387689287,
-    "wof:lastmodified":1449059281,
+    "wof:lastmodified":1467089931,
     "wof:name":"Dollar Rent",
     "wof:parent_id":85815589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-88.199453,43.007813,-88.199453,43.007813],
-  "geometry": {"coordinates":[-88.199453,43.007813],"type":"Point"}
+  "bbox": [
+    -88.199453,
+    43.007813,
+    -88.199453,
+    43.007813
+],
+  "geometry": {"coordinates":[-88.19945300000001,43.007813],"type":"Point"}
 }

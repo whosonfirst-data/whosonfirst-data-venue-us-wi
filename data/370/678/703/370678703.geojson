@@ -2,13 +2,14 @@
   "id": 370678703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.504802,43.975809,-90.504802,43.975809",
     "geom:latitude":43.975809,
     "geom:longitude":-90.504802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1119 Superior Ave",
     "sg:city":"Tomah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370678703,
-    "wof:lastmodified":1449030724,
+    "wof:lastmodified":1467089902,
     "wof:name":"Callahan's Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-90.504802,43.975809,-90.504802,43.975809],
+  "bbox": [
+    -90.504802,
+    43.975809,
+    -90.504802,
+    43.975809
+],
   "geometry": {"coordinates":[-90.504802,43.975809],"type":"Point"}
 }

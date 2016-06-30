@@ -2,13 +2,14 @@
   "id": 185667269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.543766,44.45787,-89.543766,44.45787",
     "geom:latitude":44.45787,
     "geom:longitude":-89.543766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2607 Post Rd",
     "sg:city":"Stevens Point",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185667269,
-    "wof:lastmodified":1449007651,
+    "wof:lastmodified":1467089885,
     "wof:name":"Marsden Building Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-89.543766,44.45787,-89.543766,44.45787],
-  "geometry": {"coordinates":[-89.543766,44.45787],"type":"Point"}
+  "bbox": [
+    -89.543766,
+    44.45787,
+    -89.543766,
+    44.45787
+],
+  "geometry": {"coordinates":[-89.54376600000001,44.45787],"type":"Point"}
 }

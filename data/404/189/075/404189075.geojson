@@ -2,13 +2,14 @@
   "id": 404189075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.934156,43.023011,-87.934156,43.023011",
     "geom:latitude":43.023011,
     "geom:longitude":-87.934156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1614 W National Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404189075,
-    "wof:lastmodified":1449039970,
+    "wof:lastmodified":1467089911,
     "wof:name":"National Muffler",
     "wof:parent_id":85870969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-87.934156,43.023011,-87.934156,43.023011],
+  "bbox": [
+    -87.934156,
+    43.023011,
+    -87.934156,
+    43.023011
+],
   "geometry": {"coordinates":[-87.934156,43.023011],"type":"Point"}
 }

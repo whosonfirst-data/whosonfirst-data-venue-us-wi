@@ -2,13 +2,14 @@
   "id": 370692183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.72064,43.704708,-87.72064,43.704708",
     "geom:latitude":43.704708,
     "geom:longitude":-87.72064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4422 S 12th St",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370692183,
-    "wof:lastmodified":1449030000,
+    "wof:lastmodified":1467089900,
     "wof:name":"Wald-Heim Nurseries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sup"
     ]
 },
-  "bbox": [-87.72064,43.704708,-87.72064,43.704708],
+  "bbox": [
+    -87.72064,
+    43.704708,
+    -87.72064,
+    43.704708
+],
   "geometry": {"coordinates":[-87.72064,43.704708],"type":"Point"}
 }

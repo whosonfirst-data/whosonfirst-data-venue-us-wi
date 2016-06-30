@@ -2,13 +2,14 @@
   "id": 370724299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.667967,44.857262,-90.667967,44.857262",
     "geom:latitude":44.857262,
     "geom:longitude":-90.667967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7132 Popple River Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370724299,
-    "wof:lastmodified":1449032396,
+    "wof:lastmodified":1467089907,
     "wof:name":"Cut Pines Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.667967,44.857262,-90.667967,44.857262],
+  "bbox": [
+    -90.667967,
+    44.857262,
+    -90.667967,
+    44.857262
+],
   "geometry": {"coordinates":[-90.667967,44.857262],"type":"Point"}
 }

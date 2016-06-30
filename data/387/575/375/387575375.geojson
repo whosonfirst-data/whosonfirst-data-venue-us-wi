@@ -2,13 +2,14 @@
   "id": 387575375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.951097,43.122585,-87.951097,43.122585",
     "geom:latitude":43.122585,
     "geom:longitude":-87.951097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5712 N Teutonia Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387575375,
-    "wof:lastmodified":1449057199,
+    "wof:lastmodified":1467089924,
     "wof:name":"Robert C Heumann",
     "wof:parent_id":85870801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.951097,43.122585,-87.951097,43.122585],
+  "bbox": [
+    -87.951097,
+    43.122585,
+    -87.951097,
+    43.122585
+],
   "geometry": {"coordinates":[-87.951097,43.122585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387277969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.343329,44.940649,-92.343329,44.940649",
     "geom:latitude":44.940649,
     "geom:longitude":-92.343329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2235 55th Ave",
     "sg:city":"Baldwin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387277969,
-    "wof:lastmodified":1449056540,
+    "wof:lastmodified":1467089922,
     "wof:name":"Duane Alwin Masonry Const",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.343329,44.940649,-92.343329,44.940649],
+  "bbox": [
+    -92.343329,
+    44.940649,
+    -92.343329,
+    44.940649
+],
   "geometry": {"coordinates":[-92.343329,44.940649],"type":"Point"}
 }

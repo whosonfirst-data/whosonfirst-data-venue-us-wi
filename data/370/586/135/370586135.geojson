@@ -2,13 +2,14 @@
   "id": 370586135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.943025,43.063682,-87.943025,43.063682",
     "geom:latitude":43.063682,
     "geom:longitude":-87.943025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2415 W Fond du Lac Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370586135,
-    "wof:lastmodified":1449032086,
+    "wof:lastmodified":1467089906,
     "wof:name":"Returning Into Mainstream Min",
     "wof:parent_id":85870943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "out"
     ]
 },
-  "bbox": [-87.943025,43.063682,-87.943025,43.063682],
-  "geometry": {"coordinates":[-87.943025,43.063682],"type":"Point"}
+  "bbox": [
+    -87.943025,
+    43.063682,
+    -87.943025,
+    43.063682
+],
+  "geometry": {"coordinates":[-87.94302500000001,43.063682],"type":"Point"}
 }

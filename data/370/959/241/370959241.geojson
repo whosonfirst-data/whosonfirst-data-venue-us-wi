@@ -2,13 +2,14 @@
   "id": 370959241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.965415,43.892713,-90.965415,43.892713",
     "geom:latitude":43.892713,
     "geom:longitude":-90.965415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1097 Manke Hesselberg Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370959241,
-    "wof:lastmodified":1449032141,
+    "wof:lastmodified":1467089906,
     "wof:name":"SBA",
     "wof:parent_id":85825891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-90.965415,43.892713,-90.965415,43.892713],
-  "geometry": {"coordinates":[-90.965415,43.892713],"type":"Point"}
+  "bbox": [
+    -90.965415,
+    43.892713,
+    -90.965415,
+    43.892713
+],
+  "geometry": {"coordinates":[-90.96541499999999,43.892713],"type":"Point"}
 }

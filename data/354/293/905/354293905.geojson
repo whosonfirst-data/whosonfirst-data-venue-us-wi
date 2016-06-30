@@ -2,13 +2,14 @@
   "id": 354293905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.878687,46.588431,-90.878687,46.588431",
     "geom:latitude":46.588431,
     "geom:longitude":-90.878687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 2nd Ave E",
     "sg:city":"Ashland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354293905,
-    "wof:lastmodified":1449066264,
+    "wof:lastmodified":1467089934,
     "wof:name":"Calvary Tabernacle United Pent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.878687,46.588431,-90.878687,46.588431],
+  "bbox": [
+    -90.878687,
+    46.588431,
+    -90.878687,
+    46.588431
+],
   "geometry": {"coordinates":[-90.878687,46.588431],"type":"Point"}
 }

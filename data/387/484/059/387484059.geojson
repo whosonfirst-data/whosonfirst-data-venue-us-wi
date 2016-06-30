@@ -2,13 +2,14 @@
   "id": 387484059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.467935,44.256843,-88.467935,44.256843",
     "geom:latitude":44.256843,
     "geom:longitude":-88.467935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Park Pl",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387484059,
-    "wof:lastmodified":1449059698,
+    "wof:lastmodified":1467089932,
     "wof:name":"Dayeo",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "drug"
     ]
 },
-  "bbox": [-88.467935,44.256843,-88.467935,44.256843],
+  "bbox": [
+    -88.467935,
+    44.256843,
+    -88.467935,
+    44.256843
+],
   "geometry": {"coordinates":[-88.467935,44.256843],"type":"Point"}
 }

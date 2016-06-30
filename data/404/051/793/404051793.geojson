@@ -2,13 +2,14 @@
   "id": 404051793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.797813,46.583862,-91.797813,46.583862",
     "geom:latitude":46.583862,
     "geom:longitude":-91.797813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4994 Memorial Dr",
     "sg:city":"Poplar",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404051793,
-    "wof:lastmodified":1449039852,
+    "wof:lastmodified":1467089910,
     "wof:name":"National Bank Of Commerce",
     "wof:parent_id":85827153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.797813,46.583862,-91.797813,46.583862],
+  "bbox": [
+    -91.797813,
+    46.583862,
+    -91.797813,
+    46.583862
+],
   "geometry": {"coordinates":[-91.797813,46.583862],"type":"Point"}
 }

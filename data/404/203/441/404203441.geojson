@@ -2,13 +2,14 @@
   "id": 404203441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.326154,43.070567,-89.326154,43.070567",
     "geom:latitude":43.070567,
     "geom:longitude":-89.326154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4517 Monona Dr",
     "sg:city":"Monona",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404203441,
-    "wof:lastmodified":1449039547,
+    "wof:lastmodified":1467089910,
     "wof:name":"Labor Force Inc",
     "wof:parent_id":85878857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-89.326154,43.070567,-89.326154,43.070567],
+  "bbox": [
+    -89.326154,
+    43.070567,
+    -89.326154,
+    43.070567
+],
   "geometry": {"coordinates":[-89.326154,43.070567],"type":"Point"}
 }

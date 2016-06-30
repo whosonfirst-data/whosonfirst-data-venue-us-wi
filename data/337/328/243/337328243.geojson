@@ -2,13 +2,14 @@
   "id": 337328243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.947392,43.062902,-87.947392,43.062902",
     "geom:latitude":43.062902,
     "geom:longitude":-87.947392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2472 N 27th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337328243,
-    "wof:lastmodified":1449027424,
+    "wof:lastmodified":1467089894,
     "wof:name":"Blessed Hands",
     "wof:parent_id":85870943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.947392,43.062902,-87.947392,43.062902],
-  "geometry": {"coordinates":[-87.947392,43.062902],"type":"Point"}
+  "bbox": [
+    -87.947392,
+    43.062902,
+    -87.947392,
+    43.062902
+],
+  "geometry": {"coordinates":[-87.94739199999999,43.062902],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185793613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.361806,43.083872,-89.361806,43.083872",
     "geom:latitude":43.083872,
     "geom:longitude":-89.361806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 S Baldwin St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":185793613,
-    "wof:lastmodified":1449007498,
+    "wof:lastmodified":1467089884,
     "wof:name":"Child Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.361806,43.083872,-89.361806,43.083872],
+  "bbox": [
+    -89.361806,
+    43.083872,
+    -89.361806,
+    43.083872
+],
   "geometry": {"coordinates":[-89.361806,43.083872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386977819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.245431,43.924863,-91.245431,43.924863",
     "geom:latitude":43.924863,
     "geom:longitude":-91.245431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3905 Circle Dr",
     "sg:city":"Holmen",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":386977819,
-    "wof:lastmodified":1449028977,
+    "wof:lastmodified":1467089897,
     "wof:name":"Design Cabinetry Inc",
     "wof:parent_id":85825891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "maker"
     ]
 },
-  "bbox": [-91.245431,43.924863,-91.245431,43.924863],
+  "bbox": [
+    -91.245431,
+    43.924863,
+    -91.245431,
+    43.924863
+],
   "geometry": {"coordinates":[-91.245431,43.924863],"type":"Point"}
 }

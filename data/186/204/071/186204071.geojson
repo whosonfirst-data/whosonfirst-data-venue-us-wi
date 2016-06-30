@@ -2,13 +2,14 @@
   "id": 186204071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.939344,44.861736,-91.939344,44.861736",
     "geom:latitude":44.861736,
     "geom:longitude":-91.939344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 Ingalls Rd",
     "sg:city":"Menomonie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186204071,
-    "wof:lastmodified":1449053099,
+    "wof:lastmodified":1467089917,
     "wof:name":"Paradise Green Service",
     "wof:parent_id":85837813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.939344,44.861736,-91.939344,44.861736],
-  "geometry": {"coordinates":[-91.939344,44.861736],"type":"Point"}
+  "bbox": [
+    -91.939344,
+    44.861736,
+    -91.939344,
+    44.861736
+],
+  "geometry": {"coordinates":[-91.93934400000001,44.861736],"type":"Point"}
 }

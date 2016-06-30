@@ -2,13 +2,14 @@
   "id": 404098089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.917952,44.488072,-87.917952,44.488072",
     "geom:latitude":44.488072,
     "geom:longitude":-87.917952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3225 Finger Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404098089,
-    "wof:lastmodified":1449040198,
+    "wof:lastmodified":1467089911,
     "wof:name":"Soletski Surveying LLC",
     "wof:parent_id":85877939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-87.917952,44.488072,-87.917952,44.488072],
+  "bbox": [
+    -87.917952,
+    44.488072,
+    -87.917952,
+    44.488072
+],
   "geometry": {"coordinates":[-87.917952,44.488072],"type":"Point"}
 }

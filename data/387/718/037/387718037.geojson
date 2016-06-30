@@ -2,13 +2,14 @@
   "id": 387718037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.364311,43.083264,-89.364311,43.083264",
     "geom:latitude":43.083264,
     "geom:longitude":-89.364311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 S Few St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -63,16 +64,22 @@
         }
     ],
     "wof:id":387718037,
-    "wof:lastmodified":1449056922,
+    "wof:lastmodified":1467089923,
     "wof:name":"Mark Salisbury Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-89.364311,43.083264,-89.364311,43.083264],
+  "bbox": [
+    -89.364311,
+    43.083264,
+    -89.364311,
+    43.083264
+],
   "geometry": {"coordinates":[-89.364311,43.083264],"type":"Point"}
 }

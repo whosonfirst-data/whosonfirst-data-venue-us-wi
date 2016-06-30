@@ -2,13 +2,14 @@
   "id": 354047099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.376385,43.084158,-89.376385,43.084158",
     "geom:latitude":43.084158,
     "geom:longitude":-89.376385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 E Johnson St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354047099,
-    "wof:lastmodified":1449067066,
+    "wof:lastmodified":1467089936,
     "wof:name":"Aardvark Art Glass",
     "wof:parent_id":85878853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.376385,43.084158,-89.376385,43.084158],
+  "bbox": [
+    -89.376385,
+    43.084158,
+    -89.376385,
+    43.084158
+],
   "geometry": {"coordinates":[-89.376385,43.084158],"type":"Point"}
 }

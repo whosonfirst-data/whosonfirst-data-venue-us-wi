@@ -2,13 +2,14 @@
   "id": 169744375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.537599,44.016703,-88.537599,44.016703",
     "geom:latitude":44.016703,
     "geom:longitude":-88.537599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 N Main St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169744375,
-    "wof:lastmodified":1449033877,
+    "wof:lastmodified":1467089908,
     "wof:name":"Verde Associates",
     "wof:parent_id":85851167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-88.537599,44.016703,-88.537599,44.016703],
+  "bbox": [
+    -88.537599,
+    44.016703,
+    -88.537599,
+    44.016703
+],
   "geometry": {"coordinates":[-88.537599,44.016703],"type":"Point"}
 }

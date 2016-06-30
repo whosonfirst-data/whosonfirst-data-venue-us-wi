@@ -2,13 +2,14 @@
   "id": 370890831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.099098,44.556716,-88.099098,44.556716",
     "geom:latitude":44.556716,
     "geom:longitude":-88.099098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2948 Shawano Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370890831,
-    "wof:lastmodified":1449029837,
+    "wof:lastmodified":1467089900,
     "wof:name":"Paleasia Honey Farm",
     "wof:parent_id":85812321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "animal"
     ]
 },
-  "bbox": [-88.099098,44.556716,-88.099098,44.556716],
+  "bbox": [
+    -88.099098,
+    44.556716,
+    -88.099098,
+    44.556716
+],
   "geometry": {"coordinates":[-88.099098,44.556716],"type":"Point"}
 }

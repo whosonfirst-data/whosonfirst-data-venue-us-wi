@@ -2,13 +2,14 @@
   "id": 186110125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.106806,44.716482,-90.106806,44.716482",
     "geom:latitude":44.716482,
     "geom:longitude":-90.106806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"533 Caymen Ave",
     "sg:city":"Marshfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186110125,
-    "wof:lastmodified":1449051277,
+    "wof:lastmodified":1467089915,
     "wof:name":"Gene Hill Construction",
     "wof:parent_id":85832133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.106806,44.716482,-90.106806,44.716482],
-  "geometry": {"coordinates":[-90.106806,44.716482],"type":"Point"}
+  "bbox": [
+    -90.106806,
+    44.716482,
+    -90.106806,
+    44.716482
+],
+  "geometry": {"coordinates":[-90.10680600000001,44.716482],"type":"Point"}
 }

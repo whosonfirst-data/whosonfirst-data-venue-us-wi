@@ -2,13 +2,14 @@
   "id": 186081027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.22409,42.768919,-88.22409,42.768919",
     "geom:latitude":42.768919,
     "geom:longitude":-88.22409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 W Main St",
     "sg:city":"Waterford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186081027,
-    "wof:lastmodified":1449051209,
+    "wof:lastmodified":1467089915,
     "wof:name":"Waterford Graded Sch Tech Ofc",
     "wof:parent_id":85865439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-88.22409,42.768919,-88.22409,42.768919],
+  "bbox": [
+    -88.22409,
+    42.768919,
+    -88.22409,
+    42.768919
+],
   "geometry": {"coordinates":[-88.22409,42.768919],"type":"Point"}
 }

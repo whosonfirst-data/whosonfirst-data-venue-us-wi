@@ -2,13 +2,14 @@
   "id": 370388801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.623476,44.972713,-89.623476,44.972713",
     "geom:latitude":44.972713,
     "geom:longitude":-89.623476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 N 6th St",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370388801,
-    "wof:lastmodified":1449029197,
+    "wof:lastmodified":1467089898,
     "wof:name":"Courtesy Travel Inc",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-89.623476,44.972713,-89.623476,44.972713],
+  "bbox": [
+    -89.623476,
+    44.972713,
+    -89.623476,
+    44.972713
+],
   "geometry": {"coordinates":[-89.623476,44.972713],"type":"Point"}
 }

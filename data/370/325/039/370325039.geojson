@@ -2,13 +2,14 @@
   "id": 370325039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.362181,45.311409,-92.362181,45.311409",
     "geom:latitude":45.311409,
     "geom:longitude":-92.362181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Keller Ave S",
     "sg:city":"Amery",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370325039,
-    "wof:lastmodified":1449030413,
+    "wof:lastmodified":1467089901,
     "wof:name":"Toftness Chiropractic Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.362181,45.311409,-92.362181,45.311409],
-  "geometry": {"coordinates":[-92.362181,45.311409],"type":"Point"}
+  "bbox": [
+    -92.362181,
+    45.311409,
+    -92.362181,
+    45.311409
+],
+  "geometry": {"coordinates":[-92.36218100000001,45.311409],"type":"Point"}
 }

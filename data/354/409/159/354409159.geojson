@@ -2,13 +2,14 @@
   "id": 354409159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.381059,43.075123,-89.381059,43.075123",
     "geom:latitude":43.075123,
     "geom:longitude":-89.381059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 E Main St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354409159,
-    "wof:lastmodified":1449066619,
+    "wof:lastmodified":1467089935,
     "wof:name":"Labrador Communications Inc",
     "wof:parent_id":85878845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "marketing"
     ]
 },
-  "bbox": [-89.381059,43.075123,-89.381059,43.075123],
-  "geometry": {"coordinates":[-89.381059,43.075123],"type":"Point"}
+  "bbox": [
+    -89.381059,
+    43.075123,
+    -89.381059,
+    43.075123
+],
+  "geometry": {"coordinates":[-89.38105899999999,43.075123],"type":"Point"}
 }

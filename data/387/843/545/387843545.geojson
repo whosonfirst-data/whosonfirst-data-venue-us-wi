@@ -2,13 +2,14 @@
   "id": 387843545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.980995,43.720532,-87.980995,43.720532",
     "geom:latitude":43.720532,
     "geom:longitude":-87.980995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4991 Hillwind Rd",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387843545,
-    "wof:lastmodified":1449056443,
+    "wof:lastmodified":1467089922,
     "wof:name":"J & L Greenhouse Inc",
     "wof:parent_id":85836705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shrubbery"
     ]
 },
-  "bbox": [-87.980995,43.720532,-87.980995,43.720532],
-  "geometry": {"coordinates":[-87.980995,43.720532],"type":"Point"}
+  "bbox": [
+    -87.980995,
+    43.720532,
+    -87.980995,
+    43.720532
+],
+  "geometry": {"coordinates":[-87.98099499999999,43.720532],"type":"Point"}
 }

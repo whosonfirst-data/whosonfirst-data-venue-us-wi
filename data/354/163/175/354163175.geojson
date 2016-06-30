@@ -2,13 +2,14 @@
   "id": 354163175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.545162,44.025714,-88.545162,44.025714",
     "geom:latitude":44.025714,
     "geom:longitude":-88.545162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"751 Wisconsin St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":354163175,
-    "wof:lastmodified":1449067647,
+    "wof:lastmodified":1467089938,
     "wof:name":"J T's Wash & Mart",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-88.545162,44.025714,-88.545162,44.025714],
+  "bbox": [
+    -88.545162,
+    44.025714,
+    -88.545162,
+    44.025714
+],
   "geometry": {"coordinates":[-88.545162,44.025714],"type":"Point"}
 }

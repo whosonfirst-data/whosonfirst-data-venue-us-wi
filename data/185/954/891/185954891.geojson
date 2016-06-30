@@ -2,13 +2,14 @@
   "id": 185954891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.982074,43.067925,-87.982074,43.067925",
     "geom:latitude":43.067925,
     "geom:longitude":-87.982074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5409 W Center St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185954891,
-    "wof:lastmodified":1449008015,
+    "wof:lastmodified":1467089885,
     "wof:name":"Abate Mortgage Services Inc",
     "wof:parent_id":85870829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "real estate"
     ]
 },
-  "bbox": [-87.982074,43.067925,-87.982074,43.067925],
+  "bbox": [
+    -87.982074,
+    43.067925,
+    -87.982074,
+    43.067925
+],
   "geometry": {"coordinates":[-87.982074,43.067925],"type":"Point"}
 }

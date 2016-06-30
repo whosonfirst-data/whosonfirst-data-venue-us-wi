@@ -2,13 +2,14 @@
   "id": 387711753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.543551,45.127903,-92.543551,45.127903",
     "geom:latitude":45.127903,
     "geom:longitude":-92.543551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 N 2nd St",
     "sg:city":"Baldwin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387711753,
-    "wof:lastmodified":1449059223,
+    "wof:lastmodified":1467089931,
     "wof:name":"Pressenter LLP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-92.543551,45.127903,-92.543551,45.127903],
-  "geometry": {"coordinates":[-92.543551,45.127903],"type":"Point"}
+  "bbox": [
+    -92.543551,
+    45.127903,
+    -92.543551,
+    45.127903
+],
+  "geometry": {"coordinates":[-92.54355099999999,45.127903],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403931137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.544872,44.103145,-88.544872,44.103145",
     "geom:latitude":44.103145,
     "geom:longitude":-88.544872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2974 Green Hill Ct",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":403931137,
-    "wof:lastmodified":1449055848,
+    "wof:lastmodified":1467089920,
     "wof:name":"4 X Concrete Inc",
     "wof:parent_id":85827909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "special"
     ]
 },
-  "bbox": [-88.544872,44.103145,-88.544872,44.103145],
+  "bbox": [
+    -88.544872,
+    44.103145,
+    -88.544872,
+    44.103145
+],
   "geometry": {"coordinates":[-88.544872,44.103145],"type":"Point"}
 }

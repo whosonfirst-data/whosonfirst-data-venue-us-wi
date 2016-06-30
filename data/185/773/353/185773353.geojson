@@ -2,13 +2,14 @@
   "id": 185773353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.611055,44.0061,-88.611055,44.0061",
     "geom:latitude":44.0061,
     "geom:longitude":-88.611055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Judy Lee Ct",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185773353,
-    "wof:lastmodified":1449006798,
+    "wof:lastmodified":1467089883,
     "wof:name":"Nature Technologies",
     "wof:parent_id":85819403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.611055,44.0061,-88.611055,44.0061],
-  "geometry": {"coordinates":[-88.611055,44.0061],"type":"Point"}
+  "bbox": [
+    -88.611055,
+    44.0061,
+    -88.611055,
+    44.0061
+],
+  "geometry": {"coordinates":[-88.61105499999999,44.0061],"type":"Point"}
 }

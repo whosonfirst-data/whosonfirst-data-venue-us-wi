@@ -2,13 +2,14 @@
   "id": 387036921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.011439,42.956607,-88.011439,42.956607",
     "geom:latitude":42.956607,
     "geom:longitude":-88.011439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7855 W Barnard Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387036921,
-    "wof:lastmodified":1449056956,
+    "wof:lastmodified":1467089924,
     "wof:name":"Upland Food Ingredients LLC",
     "wof:parent_id":85870865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.011439,42.956607,-88.011439,42.956607],
+  "bbox": [
+    -88.011439,
+    42.956607,
+    -88.011439,
+    42.956607
+],
   "geometry": {"coordinates":[-88.011439,42.956607],"type":"Point"}
 }

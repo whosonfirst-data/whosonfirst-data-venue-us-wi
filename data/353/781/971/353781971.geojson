@@ -2,13 +2,14 @@
   "id": 353781971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.374687,43.014582,-88.374687,43.014582",
     "geom:latitude":43.014582,
     "geom:longitude":-88.374687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 E Summit Ave",
     "sg:city":"Wales",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353781971,
-    "wof:lastmodified":1449018730,
+    "wof:lastmodified":1467089887,
     "wof:name":"Wales Animal Clinic Service",
     "wof:parent_id":85808383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-88.374687,43.014582,-88.374687,43.014582],
-  "geometry": {"coordinates":[-88.374687,43.014582],"type":"Point"}
+  "bbox": [
+    -88.374687,
+    43.014582,
+    -88.374687,
+    43.014582
+],
+  "geometry": {"coordinates":[-88.37468699999999,43.014582],"type":"Point"}
 }

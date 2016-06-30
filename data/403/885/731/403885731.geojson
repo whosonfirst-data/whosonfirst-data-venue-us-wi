@@ -2,13 +2,14 @@
   "id": 403885731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.013871,42.692719,-89.013871,42.692719",
     "geom:latitude":42.692719,
     "geom:longitude":-89.013871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 Milton Ave",
     "sg:city":"Janesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403885731,
-    "wof:lastmodified":1449055349,
+    "wof:lastmodified":1467089919,
     "wof:name":"Janesville Insulation",
     "wof:parent_id":85803103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.013871,42.692719,-89.013871,42.692719],
-  "geometry": {"coordinates":[-89.013871,42.692719],"type":"Point"}
+  "bbox": [
+    -89.013871,
+    42.692719,
+    -89.013871,
+    42.692719
+],
+  "geometry": {"coordinates":[-89.01387099999999,42.692719],"type":"Point"}
 }

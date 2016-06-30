@@ -2,13 +2,14 @@
   "id": 370675013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.392738,43.049878,-89.392738,43.049878",
     "geom:latitude":43.049878,
     "geom:longitude":-89.392738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 Gilson St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370675013,
-    "wof:lastmodified":1449030806,
+    "wof:lastmodified":1467089902,
     "wof:name":"Kendrick Group",
     "wof:parent_id":85878849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.392738,43.049878,-89.392738,43.049878],
-  "geometry": {"coordinates":[-89.392738,43.049878],"type":"Point"}
+  "bbox": [
+    -89.392738,
+    43.049878,
+    -89.392738,
+    43.049878
+],
+  "geometry": {"coordinates":[-89.39273799999999,43.049878],"type":"Point"}
 }

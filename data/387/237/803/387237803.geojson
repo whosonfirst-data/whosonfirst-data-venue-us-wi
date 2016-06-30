@@ -2,13 +2,14 @@
   "id": 387237803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.992653,44.510379,-87.992653,44.510379",
     "geom:latitude":44.510379,
     "geom:longitude":-87.992653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 N Baird St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387237803,
-    "wof:lastmodified":1449056216,
+    "wof:lastmodified":1467089921,
     "wof:name":"Video & Music LA Tina",
     "wof:parent_id":85877953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cassette"
     ]
 },
-  "bbox": [-87.992653,44.510379,-87.992653,44.510379],
+  "bbox": [
+    -87.992653,
+    44.510379,
+    -87.992653,
+    44.510379
+],
   "geometry": {"coordinates":[-87.992653,44.510379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354367915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.297925,43.028644,-89.297925,43.028644",
     "geom:latitude":43.028644,
     "geom:longitude":-89.297925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4918 Triangle St",
     "sg:city":"Mc Farland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354367915,
-    "wof:lastmodified":1449066953,
+    "wof:lastmodified":1467089936,
     "wof:name":"Tradesmen International",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.297925,43.028644,-89.297925,43.028644],
-  "geometry": {"coordinates":[-89.297925,43.028644],"type":"Point"}
+  "bbox": [
+    -89.297925,
+    43.028644,
+    -89.297925,
+    43.028644
+],
+  "geometry": {"coordinates":[-89.29792500000001,43.028644],"type":"Point"}
 }

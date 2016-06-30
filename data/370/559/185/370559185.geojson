@@ -2,13 +2,14 @@
   "id": 370559185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.095376,46.730299,-92.095376,46.730299",
     "geom:latitude":46.730299,
     "geom:longitude":-92.095376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 N 7th St",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370559185,
-    "wof:lastmodified":1449031739,
+    "wof:lastmodified":1467089905,
     "wof:name":"Family Farm Head Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-92.095376,46.730299,-92.095376,46.730299],
+  "bbox": [
+    -92.095376,
+    46.730299,
+    -92.095376,
+    46.730299
+],
   "geometry": {"coordinates":[-92.095376,46.730299],"type":"Point"}
 }

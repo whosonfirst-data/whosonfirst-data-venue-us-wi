@@ -2,13 +2,14 @@
   "id": 387460159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.080668,44.449479,-88.080668,44.449479",
     "geom:latitude":44.449479,
     "geom:longitude":-88.080668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"746 Main Ave",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387460159,
-    "wof:lastmodified":1449059701,
+    "wof:lastmodified":1467089932,
     "wof:name":"De Pere Mobile",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "oil"
     ]
 },
-  "bbox": [-88.080668,44.449479,-88.080668,44.449479],
+  "bbox": [
+    -88.080668,
+    44.449479,
+    -88.080668,
+    44.449479
+],
   "geometry": {"coordinates":[-88.080668,44.449479],"type":"Point"}
 }

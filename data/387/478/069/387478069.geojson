@@ -2,13 +2,14 @@
   "id": 387478069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.870969,45.085343,-87.870969,45.085343",
     "geom:latitude":45.085343,
     "geom:longitude":-87.870969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3656 Carls Ln",
     "sg:city":"Peshtigo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387478069,
-    "wof:lastmodified":1449056245,
+    "wof:lastmodified":1467089922,
     "wof:name":"Dale A Schroeder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.870969,45.085343,-87.870969,45.085343],
+  "bbox": [
+    -87.870969,
+    45.085343,
+    -87.870969,
+    45.085343
+],
   "geometry": {"coordinates":[-87.870969,45.085343],"type":"Point"}
 }

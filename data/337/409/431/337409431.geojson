@@ -2,13 +2,14 @@
   "id": 337409431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.902867,43.79826,-87.902867,43.79826",
     "geom:latitude":43.79826,
     "geom:longitude":-87.902867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4263 Co Rd Jm",
     "sg:city":"Sheboygan Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337409431,
-    "wof:lastmodified":1449027271,
+    "wof:lastmodified":1467089894,
     "wof:name":"Gruenke Co Inc",
     "wof:parent_id":85820559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engraver"
     ]
 },
-  "bbox": [-87.902867,43.79826,-87.902867,43.79826],
+  "bbox": [
+    -87.902867,
+    43.79826,
+    -87.902867,
+    43.79826
+],
   "geometry": {"coordinates":[-87.902867,43.79826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353402641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.703693,45.523567,-91.703693,45.523567",
     "geom:latitude":45.523567,
     "geom:longitude":-91.703693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2247 22nd St",
     "sg:city":"Rice Lake",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353402641,
-    "wof:lastmodified":1449019081,
+    "wof:lastmodified":1467089888,
     "wof:name":"Red Barn Theatre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.703693,45.523567,-91.703693,45.523567],
+  "bbox": [
+    -91.703693,
+    45.523567,
+    -91.703693,
+    45.523567
+],
   "geometry": {"coordinates":[-91.703693,45.523567],"type":"Point"}
 }

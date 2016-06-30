@@ -2,13 +2,14 @@
   "id": 354014893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.93813,42.768356,-88.93813,42.768356",
     "geom:latitude":42.768356,
     "geom:longitude":-88.93813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"844 Arthur Dr",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354014893,
-    "wof:lastmodified":1449066755,
+    "wof:lastmodified":1467089935,
     "wof:name":"Curves For Women",
     "wof:parent_id":85834509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-88.93813,42.768356,-88.93813,42.768356],
+  "bbox": [
+    -88.93813,
+    42.768356,
+    -88.93813,
+    42.768356
+],
   "geometry": {"coordinates":[-88.93813,42.768356],"type":"Point"}
 }

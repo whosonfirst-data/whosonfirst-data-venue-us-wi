@@ -2,13 +2,14 @@
   "id": 371162121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.343072,43.194833,-89.343072,43.194833",
     "geom:latitude":43.194833,
     "geom:longitude":-89.343072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6386 Lake Rd",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371162121,
-    "wof:lastmodified":1449049975,
+    "wof:lastmodified":1467089914,
     "wof:name":"Truss Special Purchases",
     "wof:parent_id":85852311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-89.343072,43.194833,-89.343072,43.194833],
-  "geometry": {"coordinates":[-89.343072,43.194833],"type":"Point"}
+  "bbox": [
+    -89.343072,
+    43.194833,
+    -89.343072,
+    43.194833
+],
+  "geometry": {"coordinates":[-89.34307200000001,43.194833],"type":"Point"}
 }

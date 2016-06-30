@@ -2,13 +2,14 @@
   "id": 370662101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.846183,46.187005,-91.846183,46.187005",
     "geom:latitude":46.187005,
     "geom:longitude":-91.846183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8479 Frye Rd",
     "sg:city":"Minong",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370662101,
-    "wof:lastmodified":1449031368,
+    "wof:lastmodified":1467089904,
     "wof:name":"Mc Kenzie Products Inc",
     "wof:parent_id":85827153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "publishing"
     ]
 },
-  "bbox": [-91.846183,46.187005,-91.846183,46.187005],
+  "bbox": [
+    -91.846183,
+    46.187005,
+    -91.846183,
+    46.187005
+],
   "geometry": {"coordinates":[-91.846183,46.187005],"type":"Point"}
 }

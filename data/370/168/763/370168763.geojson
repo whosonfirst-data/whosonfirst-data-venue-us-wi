@@ -2,13 +2,14 @@
   "id": 370168763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.884913,44.359256,-89.884913,44.359256",
     "geom:latitude":44.359256,
     "geom:longitude":-89.884913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3161 Port Rd",
     "sg:city":"Wisconsin Rapids",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370168763,
-    "wof:lastmodified":1449030847,
+    "wof:lastmodified":1467089902,
     "wof:name":"Jim Haessly Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.884913,44.359256,-89.884913,44.359256],
+  "bbox": [
+    -89.884913,
+    44.359256,
+    -89.884913,
+    44.359256
+],
   "geometry": {"coordinates":[-89.884913,44.359256],"type":"Point"}
 }

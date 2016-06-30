@@ -2,13 +2,14 @@
   "id": 403929959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.942343,43.006851,-87.942343,43.006851",
     "geom:latitude":43.006851,
     "geom:longitude":-87.942343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2049 S Muskego Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403929959,
-    "wof:lastmodified":1449055142,
+    "wof:lastmodified":1467089918,
     "wof:name":"Cfd Enterprises LLC Inc",
     "wof:parent_id":85870843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.942343,43.006851,-87.942343,43.006851],
-  "geometry": {"coordinates":[-87.942343,43.006851],"type":"Point"}
+  "bbox": [
+    -87.942343,
+    43.006851,
+    -87.942343,
+    43.006851
+],
+  "geometry": {"coordinates":[-87.94234299999999,43.006851],"type":"Point"}
 }

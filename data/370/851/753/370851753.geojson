@@ -2,13 +2,14 @@
   "id": 370851753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.793715,43.599217,-89.793715,43.599217",
     "geom:latitude":43.599217,
     "geom:longitude":-89.793715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Wisconsin Dells Pkwy N",
     "sg:city":"Wisconsin Dells",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370851753,
-    "wof:lastmodified":1449031302,
+    "wof:lastmodified":1467089904,
     "wof:name":"Pacific Sportswear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.793715,43.599217,-89.793715,43.599217],
-  "geometry": {"coordinates":[-89.793715,43.599217],"type":"Point"}
+  "bbox": [
+    -89.793715,
+    43.599217,
+    -89.793715,
+    43.599217
+],
+  "geometry": {"coordinates":[-89.79371500000001,43.599217],"type":"Point"}
 }

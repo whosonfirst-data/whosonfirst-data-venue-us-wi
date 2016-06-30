@@ -2,13 +2,14 @@
   "id": 354253505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.303618,43.057838,-89.303618,43.057838",
     "geom:latitude":43.057838,
     "geom:longitude":-89.303618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3064 Progress Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354253505,
-    "wof:lastmodified":1449067456,
+    "wof:lastmodified":1467089937,
     "wof:name":"Delta Equipment Company",
     "wof:parent_id":85878847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "battery"
     ]
 },
-  "bbox": [-89.303618,43.057838,-89.303618,43.057838],
+  "bbox": [
+    -89.303618,
+    43.057838,
+    -89.303618,
+    43.057838
+],
   "geometry": {"coordinates":[-89.303618,43.057838],"type":"Point"}
 }

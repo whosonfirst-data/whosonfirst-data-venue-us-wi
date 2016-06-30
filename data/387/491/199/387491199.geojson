@@ -2,13 +2,14 @@
   "id": 387491199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.963886,43.177268,-87.963886,43.177268",
     "geom:latitude":43.177268,
     "geom:longitude":-87.963886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8742 N Deerwood Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387491199,
-    "wof:lastmodified":1449056049,
+    "wof:lastmodified":1467089921,
     "wof:name":"Nails Tips & Toes",
     "wof:parent_id":85894487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manicuring"
     ]
 },
-  "bbox": [-87.963886,43.177268,-87.963886,43.177268],
+  "bbox": [
+    -87.963886,
+    43.177268,
+    -87.963886,
+    43.177268
+],
   "geometry": {"coordinates":[-87.963886,43.177268],"type":"Point"}
 }

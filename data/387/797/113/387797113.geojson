@@ -2,13 +2,14 @@
   "id": 387797113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.126003,43.060865,-88.126003,43.060865",
     "geom:latitude":43.060865,
     "geom:longitude":-88.126003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17185 W North Ave",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387797113,
-    "wof:lastmodified":1449059541,
+    "wof:lastmodified":1467089932,
     "wof:name":"Brookfield Family Dentist Inc",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-88.126003,43.060865,-88.126003,43.060865],
+  "bbox": [
+    -88.126003,
+    43.060865,
+    -88.126003,
+    43.060865
+],
   "geometry": {"coordinates":[-88.126003,43.060865],"type":"Point"}
 }

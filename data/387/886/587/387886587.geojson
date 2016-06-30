@@ -2,13 +2,14 @@
   "id": 387886587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.524215,42.663979,-88.524215,42.663979",
     "geom:latitude":42.663979,
     "geom:longitude":-88.524215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 E Centralia St",
     "sg:city":"Elkhorn",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387886587,
-    "wof:lastmodified":1449058216,
+    "wof:lastmodified":1467089928,
     "wof:name":"Walworth County Job Center",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "center"
     ]
 },
-  "bbox": [-88.524215,42.663979,-88.524215,42.663979],
+  "bbox": [
+    -88.524215,
+    42.663979,
+    -88.524215,
+    42.663979
+],
   "geometry": {"coordinates":[-88.524215,42.663979],"type":"Point"}
 }

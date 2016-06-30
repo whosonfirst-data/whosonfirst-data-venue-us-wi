@@ -2,13 +2,14 @@
   "id": 353739143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.955176,43.002994,-87.955176,43.002994",
     "geom:latitude":43.002994,
     "geom:longitude":-87.955176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3223 W Lincoln Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":353739143,
-    "wof:lastmodified":1449019325,
+    "wof:lastmodified":1467089888,
     "wof:name":"Tattooed 4 Life",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-87.955176,43.002994,-87.955176,43.002994],
-  "geometry": {"coordinates":[-87.955176,43.002994],"type":"Point"}
+  "bbox": [
+    -87.955176,
+    43.002994,
+    -87.955176,
+    43.002994
+],
+  "geometry": {"coordinates":[-87.95517599999999,43.002994],"type":"Point"}
 }

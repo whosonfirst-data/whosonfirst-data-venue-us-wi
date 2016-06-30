@@ -2,13 +2,14 @@
   "id": 370606579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.760286,43.799437,-87.760286,43.799437",
     "geom:latitude":43.799437,
     "geom:longitude":-87.760286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4733 N 40th St",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370606579,
-    "wof:lastmodified":1449029613,
+    "wof:lastmodified":1467089899,
     "wof:name":"Southomes LLC",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.760286,43.799437,-87.760286,43.799437],
-  "geometry": {"coordinates":[-87.760286,43.799437],"type":"Point"}
+  "bbox": [
+    -87.760286,
+    43.799437,
+    -87.760286,
+    43.799437
+],
+  "geometry": {"coordinates":[-87.76028599999999,43.799437],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354223875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.929495,43.008236,-87.929495,43.008236",
     "geom:latitude":43.008236,
     "geom:longitude":-87.929495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 W Rogers St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354223875,
-    "wof:lastmodified":1449066052,
+    "wof:lastmodified":1467089933,
     "wof:name":"Pequenos Empresarios Mexicanos",
     "wof:parent_id":85894491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.929495,43.008236,-87.929495,43.008236],
+  "bbox": [
+    -87.929495,
+    43.008236,
+    -87.929495,
+    43.008236
+],
   "geometry": {"coordinates":[-87.929495,43.008236],"type":"Point"}
 }

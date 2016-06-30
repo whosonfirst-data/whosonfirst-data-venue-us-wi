@@ -2,13 +2,14 @@
   "id": 370217393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.928445,43.03858,-87.928445,43.03858",
     "geom:latitude":43.03858,
     "geom:longitude":-87.928445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 W Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370217393,
-    "wof:lastmodified":1449032263,
+    "wof:lastmodified":1467089906,
     "wof:name":"Marquette University",
     "wof:parent_id":85870839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-87.928445,43.03858,-87.928445,43.03858],
+  "bbox": [
+    -87.928445,
+    43.03858,
+    -87.928445,
+    43.03858
+],
   "geometry": {"coordinates":[-87.928445,43.03858],"type":"Point"}
 }

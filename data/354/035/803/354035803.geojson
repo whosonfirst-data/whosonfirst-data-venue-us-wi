@@ -2,13 +2,14 @@
   "id": 354035803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.54313,44.344845,-88.54313,44.344845",
     "geom:latitude":44.344845,
     "geom:longitude":-88.54313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7102 Grand View Rd",
     "sg:city":"Hortonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354035803,
-    "wof:lastmodified":1449067316,
+    "wof:lastmodified":1467089937,
     "wof:name":"Donald Schultz Farm",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-88.54313,44.344845,-88.54313,44.344845],
+  "bbox": [
+    -88.54313,
+    44.344845,
+    -88.54313,
+    44.344845
+],
   "geometry": {"coordinates":[-88.54313,44.344845],"type":"Point"}
 }

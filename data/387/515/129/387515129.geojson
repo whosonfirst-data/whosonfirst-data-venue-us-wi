@@ -2,13 +2,14 @@
   "id": 387515129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.299628,43.039122,-88.299628,43.039122",
     "geom:latitude":43.039122,
     "geom:longitude":-88.299628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27539 Northview Rd",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387515129,
-    "wof:lastmodified":1449056990,
+    "wof:lastmodified":1467089924,
     "wof:name":"Its A Beautiful Day Cafe LLC",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-88.299628,43.039122,-88.299628,43.039122],
+  "bbox": [
+    -88.299628,
+    43.039122,
+    -88.299628,
+    43.039122
+],
   "geometry": {"coordinates":[-88.299628,43.039122],"type":"Point"}
 }

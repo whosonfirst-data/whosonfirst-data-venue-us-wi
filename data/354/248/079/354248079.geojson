@@ -2,13 +2,14 @@
   "id": 354248079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.23144,43.01162,-88.23144,43.01162",
     "geom:latitude":43.01162,
     "geom:longitude":-88.23144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"349 W Broadway St",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354248079,
-    "wof:lastmodified":1449066875,
+    "wof:lastmodified":1467089936,
     "wof:name":"Fox River Mard Bait & TAC",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tobacco"
     ]
 },
-  "bbox": [-88.23144,43.01162,-88.23144,43.01162],
-  "geometry": {"coordinates":[-88.23144,43.01162],"type":"Point"}
+  "bbox": [
+    -88.23144,
+    43.01162,
+    -88.23144,
+    43.01162
+],
+  "geometry": {"coordinates":[-88.23144000000001,43.01162],"type":"Point"}
 }

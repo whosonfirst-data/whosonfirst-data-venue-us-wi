@@ -2,13 +2,14 @@
   "id": 353754455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.393996,43.75332,-88.393996,43.75332",
     "geom:latitude":43.75332,
     "geom:longitude":-88.393996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5844 Co Rd K",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353754455,
-    "wof:lastmodified":1449019918,
+    "wof:lastmodified":1467089890,
     "wof:name":"Klewicki",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.393996,43.75332,-88.393996,43.75332],
+  "bbox": [
+    -88.393996,
+    43.75332,
+    -88.393996,
+    43.75332
+],
   "geometry": {"coordinates":[-88.393996,43.75332],"type":"Point"}
 }

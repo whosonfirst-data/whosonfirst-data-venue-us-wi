@@ -2,13 +2,14 @@
   "id": 387878983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.367798,44.956231,-92.367798,44.956231",
     "geom:latitude":44.956231,
     "geom:longitude":-92.367798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 4th Ave",
     "sg:city":"Baldwin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387878983,
-    "wof:lastmodified":1449058098,
+    "wof:lastmodified":1467089927,
     "wof:name":"Cedar Crest Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-92.367798,44.956231,-92.367798,44.956231],
-  "geometry": {"coordinates":[-92.367798,44.956231],"type":"Point"}
+  "bbox": [
+    -92.367798,
+    44.956231,
+    -92.367798,
+    44.956231
+],
+  "geometry": {"coordinates":[-92.36779799999999,44.956231],"type":"Point"}
 }

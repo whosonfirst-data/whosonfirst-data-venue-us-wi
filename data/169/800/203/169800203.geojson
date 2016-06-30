@@ -2,13 +2,14 @@
   "id": 169800203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.586027,44.165847,-87.586027,44.165847",
     "geom:latitude":44.165847,
     "geom:longitude":-87.586027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3413 Mishicot Rd",
     "sg:city":"Two Rivers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169800203,
-    "wof:lastmodified":1449032941,
+    "wof:lastmodified":1467089908,
     "wof:name":"Cedar Home Collection",
     "wof:parent_id":85827947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-87.586027,44.165847,-87.586027,44.165847],
+  "bbox": [
+    -87.586027,
+    44.165847,
+    -87.586027,
+    44.165847
+],
   "geometry": {"coordinates":[-87.586027,44.165847],"type":"Point"}
 }

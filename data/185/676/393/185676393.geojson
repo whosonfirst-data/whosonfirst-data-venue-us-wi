@@ -2,13 +2,14 @@
   "id": 185676393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.173433,44.696321,-90.173433,44.696321",
     "geom:latitude":44.696321,
     "geom:longitude":-90.173433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Deer Run Ave",
     "sg:city":"Marshfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185676393,
-    "wof:lastmodified":1449007625,
+    "wof:lastmodified":1467089885,
     "wof:name":"Whitetails Unlimited Inc",
     "wof:parent_id":85832133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.173433,44.696321,-90.173433,44.696321],
+  "bbox": [
+    -90.173433,
+    44.696321,
+    -90.173433,
+    44.696321
+],
   "geometry": {"coordinates":[-90.173433,44.696321],"type":"Point"}
 }

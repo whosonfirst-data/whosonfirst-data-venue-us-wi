@@ -2,13 +2,14 @@
   "id": 387422851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.960873,43.125679,-87.960873,43.125679",
     "geom:latitude":43.125679,
     "geom:longitude":-87.960873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5752 N 39th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387422851,
-    "wof:lastmodified":1449056379,
+    "wof:lastmodified":1467089922,
     "wof:name":"A Teska Construction",
     "wof:parent_id":85870807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "structural"
     ]
 },
-  "bbox": [-87.960873,43.125679,-87.960873,43.125679],
-  "geometry": {"coordinates":[-87.960873,43.125679],"type":"Point"}
+  "bbox": [
+    -87.960873,
+    43.125679,
+    -87.960873,
+    43.125679
+],
+  "geometry": {"coordinates":[-87.96087300000001,43.125679],"type":"Point"}
 }

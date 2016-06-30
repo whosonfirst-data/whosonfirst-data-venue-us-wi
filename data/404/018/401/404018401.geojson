@@ -2,13 +2,14 @@
   "id": 404018401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.668273,44.957602,-89.668273,44.957602",
     "geom:latitude":44.957602,
     "geom:longitude":-89.668273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Stewart Ave",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404018401,
-    "wof:lastmodified":1449039697,
+    "wof:lastmodified":1467089910,
     "wof:name":"Oral-Facial Surgery",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-89.668273,44.957602,-89.668273,44.957602],
+  "bbox": [
+    -89.668273,
+    44.957602,
+    -89.668273,
+    44.957602
+],
   "geometry": {"coordinates":[-89.668273,44.957602],"type":"Point"}
 }

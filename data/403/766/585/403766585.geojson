@@ -2,13 +2,14 @@
   "id": 403766585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.733887,43.458874,-88.733887,43.458874",
     "geom:latitude":43.458874,
     "geom:longitude":-88.733887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7209 Co Rd I",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403766585,
-    "wof:lastmodified":1449054611,
+    "wof:lastmodified":1467089917,
     "wof:name":"Mark S Tiller Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.733887,43.458874,-88.733887,43.458874],
+  "bbox": [
+    -88.733887,
+    43.458874,
+    -88.733887,
+    43.458874
+],
   "geometry": {"coordinates":[-88.733887,43.458874],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386951239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.367977,43.097499,-89.367977,43.097499",
     "geom:latitude":43.097499,
     "geom:longitude":-89.367977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1658 Sherman Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386951239,
-    "wof:lastmodified":1449028629,
+    "wof:lastmodified":1467089896,
     "wof:name":"David A Goodman MD",
     "wof:parent_id":85878841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.367977,43.097499,-89.367977,43.097499],
+  "bbox": [
+    -89.367977,
+    43.097499,
+    -89.367977,
+    43.097499
+],
   "geometry": {"coordinates":[-89.367977,43.097499],"type":"Point"}
 }

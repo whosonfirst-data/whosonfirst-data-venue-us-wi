@@ -2,13 +2,14 @@
   "id": 404013675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.047805,43.076309,-88.047805,43.076309",
     "geom:latitude":43.076309,
     "geom:longitude":-88.047805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3136 N Mayfair Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404013675,
-    "wof:lastmodified":1449039942,
+    "wof:lastmodified":1467089911,
     "wof:name":"Kowalski Brothers Bowling Supl",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-88.047805,43.076309,-88.047805,43.076309],
+  "bbox": [
+    -88.047805,
+    43.076309,
+    -88.047805,
+    43.076309
+],
   "geometry": {"coordinates":[-88.047805,43.076309],"type":"Point"}
 }

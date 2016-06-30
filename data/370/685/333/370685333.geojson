@@ -2,13 +2,14 @@
   "id": 370685333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.054269,42.988025,-88.054269,42.988025",
     "geom:latitude":42.988025,
     "geom:longitude":-88.054269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11227 W Oklahoma Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370685333,
-    "wof:lastmodified":1449032386,
+    "wof:lastmodified":1467089907,
     "wof:name":"Lets Ride 1",
     "wof:parent_id":85870861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sporting"
     ]
 },
-  "bbox": [-88.054269,42.988025,-88.054269,42.988025],
-  "geometry": {"coordinates":[-88.054269,42.988025],"type":"Point"}
+  "bbox": [
+    -88.054269,
+    42.988025,
+    -88.054269,
+    42.988025
+],
+  "geometry": {"coordinates":[-88.05426900000001,42.988025],"type":"Point"}
 }

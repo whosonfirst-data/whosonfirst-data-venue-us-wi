@@ -2,13 +2,14 @@
   "id": 404126521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.108274,42.978402,-88.108274,42.978402",
     "geom:latitude":42.978402,
     "geom:longitude":-88.108274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3574 S Moorland Rd",
     "sg:city":"New Berlin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404126521,
-    "wof:lastmodified":1449039479,
+    "wof:lastmodified":1467089910,
     "wof:name":"Lees Blackbelt Academy",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.108274,42.978402,-88.108274,42.978402],
-  "geometry": {"coordinates":[-88.108274,42.978402],"type":"Point"}
+  "bbox": [
+    -88.108274,
+    42.978402,
+    -88.108274,
+    42.978402
+],
+  "geometry": {"coordinates":[-88.10827399999999,42.978402],"type":"Point"}
 }

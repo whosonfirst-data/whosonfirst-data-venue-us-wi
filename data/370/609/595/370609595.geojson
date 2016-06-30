@@ -2,13 +2,14 @@
   "id": 370609595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.264842,43.044878,-88.264842,43.044878",
     "geom:latitude":43.044878,
     "geom:longitude":-88.264842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2417 Silvernail Rd",
     "sg:city":"Pewaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370609595,
-    "wof:lastmodified":1449030344,
+    "wof:lastmodified":1467089901,
     "wof:name":"Pierski & Gray",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-88.264842,43.044878,-88.264842,43.044878],
+  "bbox": [
+    -88.264842,
+    43.044878,
+    -88.264842,
+    43.044878
+],
   "geometry": {"coordinates":[-88.264842,43.044878],"type":"Point"}
 }

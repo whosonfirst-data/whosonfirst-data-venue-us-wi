@@ -2,13 +2,14 @@
   "id": 387296911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.909357,43.107593,-87.909357,43.107593",
     "geom:latitude":43.107593,
     "geom:longitude":-87.909357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 E Fairmount Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387296911,
-    "wof:lastmodified":1449059216,
+    "wof:lastmodified":1467089931,
     "wof:name":"Stanford Law Offices",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-87.909357,43.107593,-87.909357,43.107593],
+  "bbox": [
+    -87.909357,
+    43.107593,
+    -87.909357,
+    43.107593
+],
   "geometry": {"coordinates":[-87.909357,43.107593],"type":"Point"}
 }

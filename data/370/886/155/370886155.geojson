@@ -2,13 +2,14 @@
   "id": 370886155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.276613,43.329501,-88.276613,43.329501",
     "geom:latitude":43.329501,
     "geom:longitude":-88.276613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 E Washington St",
     "sg:city":"Slinger",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":370886155,
-    "wof:lastmodified":1449030940,
+    "wof:lastmodified":1467089903,
     "wof:name":"14 Kt Tan LLP",
     "wof:parent_id":85810007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-88.276613,43.329501,-88.276613,43.329501],
+  "bbox": [
+    -88.276613,
+    43.329501,
+    -88.276613,
+    43.329501
+],
   "geometry": {"coordinates":[-88.276613,43.329501],"type":"Point"}
 }

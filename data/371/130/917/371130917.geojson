@@ -2,13 +2,14 @@
   "id": 371130917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.94954,42.924589,-87.94954,42.924589",
     "geom:latitude":42.924589,
     "geom:longitude":-87.94954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6560 S 27th St",
     "sg:city":"Oak Creek",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":371130917,
-    "wof:lastmodified":1449049360,
+    "wof:lastmodified":1467089912,
     "wof:name":"Wauwatosa Savings Bank",
     "wof:parent_id":85870933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "institution"
     ]
 },
-  "bbox": [-87.94954,42.924589,-87.94954,42.924589],
+  "bbox": [
+    -87.94954,
+    42.924589,
+    -87.94954,
+    42.924589
+],
   "geometry": {"coordinates":[-87.94954,42.924589],"type":"Point"}
 }

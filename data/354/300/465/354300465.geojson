@@ -2,13 +2,14 @@
   "id": 354300465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.209067,43.79386,-91.209067,43.79386",
     "geom:latitude":43.79386,
     "geom:longitude":-91.209067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 Sunset Dr",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354300465,
-    "wof:lastmodified":1449066910,
+    "wof:lastmodified":1467089936,
     "wof:name":"Party House Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-91.209067,43.79386,-91.209067,43.79386],
+  "bbox": [
+    -91.209067,
+    43.79386,
+    -91.209067,
+    43.79386
+],
   "geometry": {"coordinates":[-91.209067,43.79386],"type":"Point"}
 }

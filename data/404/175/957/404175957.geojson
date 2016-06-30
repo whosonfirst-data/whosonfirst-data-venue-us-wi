@@ -2,13 +2,14 @@
   "id": 404175957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.887333,43.099598,-87.887333,43.099598",
     "geom:latitude":43.099598,
     "geom:longitude":-87.887333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4524 N Oakland Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404175957,
-    "wof:lastmodified":1449039961,
+    "wof:lastmodified":1467089911,
     "wof:name":"Larkin Kevin Design LLC",
     "wof:parent_id":85870879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-87.887333,43.099598,-87.887333,43.099598],
+  "bbox": [
+    -87.887333,
+    43.099598,
+    -87.887333,
+    43.099598
+],
   "geometry": {"coordinates":[-87.887333,43.099598],"type":"Point"}
 }

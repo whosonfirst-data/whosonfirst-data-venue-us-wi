@@ -2,13 +2,14 @@
   "id": 337423749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.988715,43.050018,-87.988715,43.050018",
     "geom:latitude":43.050018,
     "geom:longitude":-87.988715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1423 Lombard Ct",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337423749,
-    "wof:lastmodified":1449027059,
+    "wof:lastmodified":1467089893,
     "wof:name":"Dan Johnson Painting",
     "wof:parent_id":85870885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.988715,43.050018,-87.988715,43.050018],
+  "bbox": [
+    -87.988715,
+    43.050018,
+    -87.988715,
+    43.050018
+],
   "geometry": {"coordinates":[-87.988715,43.050018],"type":"Point"}
 }

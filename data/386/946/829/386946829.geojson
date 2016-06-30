@@ -2,13 +2,14 @@
   "id": 386946829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.785046,44.205695,-89.785046,44.205695",
     "geom:latitude":44.205695,
     "geom:longitude":-89.785046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1037 S Archers Way",
     "sg:city":"Nekoosa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386946829,
-    "wof:lastmodified":1449028936,
+    "wof:lastmodified":1467089897,
     "wof:name":"Tri Lakes Instrumentations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "professional"
     ]
 },
-  "bbox": [-89.785046,44.205695,-89.785046,44.205695],
-  "geometry": {"coordinates":[-89.785046,44.205695],"type":"Point"}
+  "bbox": [
+    -89.785046,
+    44.205695,
+    -89.785046,
+    44.205695
+],
+  "geometry": {"coordinates":[-89.78504599999999,44.205695],"type":"Point"}
 }

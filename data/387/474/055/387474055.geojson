@@ -2,13 +2,14 @@
   "id": 387474055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.511634,43.095918,-89.511634,43.095918",
     "geom:latitude":43.095918,
     "geom:longitude":-89.511634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1828 Parmenter St",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387474055,
-    "wof:lastmodified":1449056276,
+    "wof:lastmodified":1467089922,
     "wof:name":"Holley Schink Design Bldrs LLC",
     "wof:parent_id":85841479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-89.511634,43.095918,-89.511634,43.095918],
+  "bbox": [
+    -89.511634,
+    43.095918,
+    -89.511634,
+    43.095918
+],
   "geometry": {"coordinates":[-89.511634,43.095918],"type":"Point"}
 }

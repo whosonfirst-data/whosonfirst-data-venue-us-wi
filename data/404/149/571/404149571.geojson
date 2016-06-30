@@ -2,13 +2,14 @@
   "id": 404149571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.039727,43.918956,-88.039727,43.918956",
     "geom:latitude":43.918956,
     "geom:longitude":-88.039727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1028 7th St",
     "sg:city":"Kiel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404149571,
-    "wof:lastmodified":1449039088,
+    "wof:lastmodified":1467089909,
     "wof:name":"Mark & Deans Camper Rental",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "utility"
     ]
 },
-  "bbox": [-88.039727,43.918956,-88.039727,43.918956],
+  "bbox": [
+    -88.039727,
+    43.918956,
+    -88.039727,
+    43.918956
+],
   "geometry": {"coordinates":[-88.039727,43.918956],"type":"Point"}
 }

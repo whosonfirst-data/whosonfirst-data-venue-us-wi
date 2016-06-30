@@ -2,13 +2,14 @@
   "id": 353758983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.923851,43.24307,-87.923851,43.24307",
     "geom:latitude":43.24307,
     "geom:longitude":-87.923851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 W Liebau Rd",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353758983,
-    "wof:lastmodified":1449019036,
+    "wof:lastmodified":1467089888,
     "wof:name":"Automation Solutions Of Wi Inc",
     "wof:parent_id":85829269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.923851,43.24307,-87.923851,43.24307],
+  "bbox": [
+    -87.923851,
+    43.24307,
+    -87.923851,
+    43.24307
+],
   "geometry": {"coordinates":[-87.923851,43.24307],"type":"Point"}
 }

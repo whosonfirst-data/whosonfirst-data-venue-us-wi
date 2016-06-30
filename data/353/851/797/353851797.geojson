@@ -2,13 +2,14 @@
   "id": 353851797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.853325,43.949601,-87.853325,43.949601",
     "geom:latitude":43.949601,
     "geom:longitude":-87.853325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12632 Co Hwy X",
     "sg:city":"Newton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353851797,
-    "wof:lastmodified":1449019923,
+    "wof:lastmodified":1467089890,
     "wof:name":"Rk Wood Interiors",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "construction"
     ]
 },
-  "bbox": [-87.853325,43.949601,-87.853325,43.949601],
+  "bbox": [
+    -87.853325,
+    43.949601,
+    -87.853325,
+    43.949601
+],
   "geometry": {"coordinates":[-87.853325,43.949601],"type":"Point"}
 }
