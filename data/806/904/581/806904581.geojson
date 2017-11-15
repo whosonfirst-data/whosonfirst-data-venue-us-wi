@@ -2,9 +2,14 @@
   "id": 806904581,
   "type": "Feature",
   "properties": {
+    "addr:full":"2217 Parview Rd Middleton WI 53562",
+    "addr:housenumber":"2217",
+    "addr:postcode":"53562",
+    "addr:street":"Parview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.532038,43.102993,-89.532038,43.102993",
     "geom:latitude":43.102993,
     "geom:longitude":-89.532038,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"aa22f311831d5ac3595884db194d459e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":806904581,
-    "wof:lastmodified":1467090487,
+    "wof:lastmodified":1491894113,
     "wof:name":"Statz Painting & Decorating In",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

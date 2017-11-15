@@ -2,9 +2,14 @@
   "id": 773572577,
   "type": "Feature",
   "properties": {
+    "addr:full":"1004 Bristol Dr Waunakee WI 53597",
+    "addr:housenumber":"1004",
+    "addr:postcode":"53597",
+    "addr:street":"Bristol Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.449594,43.180724,-89.449594,43.180724",
     "geom:latitude":43.180724,
     "geom:longitude":-89.449594,
@@ -28,12 +33,7 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7n1t0Z0w8zStc8WBamlW6d_43.180724_-89.449594@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462586743,
     "wof:geomhash":"9b7a9d78395179334492619c270e51ff",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773572577
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773572577,
-    "wof:lastmodified":1467090085,
+    "wof:lastmodified":1491935702,
     "wof:name":"Event Grafix LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

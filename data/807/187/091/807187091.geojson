@@ -2,9 +2,14 @@
   "id": 807187091,
   "type": "Feature",
   "properties": {
+    "addr:full":"10717 47th Ave Pleasant Prairie WI 53158",
+    "addr:housenumber":"10717",
+    "addr:postcode":"53158",
+    "addr:street":"47Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.863545,42.518994,-87.863545,42.518994",
     "geom:latitude":42.518994,
     "geom:longitude":-87.863545,
@@ -25,14 +30,14 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852303,
+        85849781,
         102191575,
         404493401,
         85633793,
         101732575,
         102081309,
         85688517,
-        85849781
+        85852303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +53,7 @@
             "county_id":102081309,
             "localadmin_id":404493401,
             "locality_id":101732575,
-            "neighbourhood_id":85852303,
+            "neighbourhood_id":85849781,
             "region_id":85688517,
             "venue_id":807187091
         },
@@ -58,15 +63,15 @@
             "county_id":102081309,
             "localadmin_id":404493401,
             "locality_id":101732575,
-            "neighbourhood_id":85849781,
+            "neighbourhood_id":85852303,
             "region_id":85688517,
             "venue_id":807187091
         }
     ],
     "wof:id":807187091,
-    "wof:lastmodified":1467090563,
+    "wof:lastmodified":1492103504,
     "wof:name":"Prairie Lane Elementary School",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

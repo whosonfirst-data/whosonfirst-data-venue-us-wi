@@ -2,14 +2,20 @@
   "id": 806796211,
   "type": "Feature",
   "properties": {
+    "addr:full":"1210 Emerald Ter Sun Prairie WI 53590",
+    "addr:housenumber":"1210",
+    "addr:postcode":"53590",
+    "addr:street":"Emerald Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.234675,43.184792,-89.234675,43.184792",
     "geom:latitude":43.184792,
     "geom:longitude":-89.234675,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1210 Emerald Ter",
     "sg:city":"Sun Prairie",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85878835,
         102081795
     ],
+    "wof:brand_id":1125157645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GhSvQrtG5d0DaCDUKooZu_43.184792_-89.234675@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601152,
-    "wof:geomhash":"a3ef6912e872cb5bb9f9ff73c5f27bbb",
+    "wof:geomhash":"03d33e4ea66685f904d5484957aeb87c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":806796211,
-    "wof:lastmodified":1467090463,
+    "wof:lastmodified":1510613444,
     "wof:name":"International Association-Mach",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

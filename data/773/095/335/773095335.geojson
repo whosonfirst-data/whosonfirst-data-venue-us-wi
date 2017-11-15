@@ -2,14 +2,20 @@
   "id": 773095335,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 Greene Ave Green Bay WI 54301",
+    "addr:housenumber":"801",
+    "addr:postcode":"54301",
+    "addr:street":"Greene Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.015871,44.468321,-88.015871,44.468321",
     "geom:latitude":44.468321,
     "geom:longitude":-88.015871,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"801 Greene Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":420575543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cnkAQoVnElmdhfs8Rmdgm_44.468321_-88.015871@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583118,
-    "wof:geomhash":"f2fe32abcc60966bbca0fb1455b39053",
+    "wof:geomhash":"ccc7fad32b159c633512d3d314e163f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773095335,
-    "wof:lastmodified":1467089960,
+    "wof:lastmodified":1510602393,
     "wof:name":"Michaels Arts & Crafts Store",
     "wof:parent_id":85877933,
     "wof:placetype":"venue",

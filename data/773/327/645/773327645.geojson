@@ -2,9 +2,14 @@
   "id": 773327645,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 N Madison St Waunakee WI 53597",
+    "addr:housenumber":"110",
+    "addr:postcode":"53597",
+    "addr:street":"N Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.451914,43.191994,-89.451914,43.191994",
     "geom:latitude":43.191994,
     "geom:longitude":-89.451914,
@@ -28,12 +33,7 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1B0GqqlFHzpV7FgQUDYJVq_43.191994_-89.451914@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462584891,
     "wof:geomhash":"21c8e8c470311c846f1426b89965ab96",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773327645
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773327645,
-    "wof:lastmodified":1467090028,
+    "wof:lastmodified":1491935701,
     "wof:name":"Statewide Mortgage Of Madison",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

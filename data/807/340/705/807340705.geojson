@@ -2,9 +2,14 @@
   "id": 807340705,
   "type": "Feature",
   "properties": {
+    "addr:full":"5800 Riverside Dr Greendale WI 53129",
+    "addr:housenumber":"5800",
+    "addr:postcode":"53129",
+    "addr:street":"Riverside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.987297,42.926922,-87.987297,42.926922",
     "geom:latitude":42.926922,
     "geom:longitude":-87.987297,
@@ -34,7 +39,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404492089,
+        85633793,
+        101733071,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ixcnGUDKom0fmLl8G9ZTI_42.926393_-87.986662@1293134755"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1462606360,
     "wof:geomhash":"463970cae19dd12eb06e0b27ad403dc8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492089,
+            "locality_id":101733071,
+            "region_id":85688517,
+            "venue_id":807340705
+        }
+    ],
     "wof:id":807340705,
-    "wof:lastmodified":1467090614,
+    "wof:lastmodified":1492103595,
     "wof:name":"Toms Computer Hardware Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

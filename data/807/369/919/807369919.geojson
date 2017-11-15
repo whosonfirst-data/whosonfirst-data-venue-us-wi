@@ -2,14 +2,20 @@
   "id": 807369919,
   "type": "Feature",
   "properties": {
+    "addr:full":"475 Chippewa Mall Dr Chippewa Falls WI 54729",
+    "addr:housenumber":"475",
+    "addr:postcode":"54729",
+    "addr:street":"Chippewa Mall Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.382062,44.924651,-91.382062,44.924651",
     "geom:latitude":44.924651,
     "geom:longitude":-91.382062,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"475 Chippewa Mall Dr",
     "sg:city":"Chippewa Falls",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081787,
         85837071
     ],
+    "wof:brand_id":420575677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oJR4syf2Y5ZM4jg9OmKLl_44.924651_-91.382062@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606788,
-    "wof:geomhash":"9d0b08e36e8aabf8c5a69b340ab6cc53",
+    "wof:geomhash":"dabe96e5225d5ceea9864f3ff11df3d6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807369919,
-    "wof:lastmodified":1467090626,
+    "wof:lastmodified":1510602899,
     "wof:name":"China Buffet",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",

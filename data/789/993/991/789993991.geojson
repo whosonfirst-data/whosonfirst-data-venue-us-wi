@@ -2,14 +2,20 @@
   "id": 789993991,
   "type": "Feature",
   "properties": {
+    "addr:full":"17000 W Bluemound Rd Brookfield WI 53005",
+    "addr:housenumber":"17000",
+    "addr:postcode":"53005",
+    "addr:street":"W Bluemound Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.121475,43.037038,-88.121475,43.037038",
     "geom:latitude":43.037038,
     "geom:longitude":-88.121475,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17000 W Bluemound Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125158259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HlKdNabGe18lgfhDkSSdq_43.037038_-88.121475@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592280,
-    "wof:geomhash":"ade312d2c8cef7afbca95b94e78a8dfd",
+    "wof:geomhash":"99d49c3877d6c0d88112a021b4a35f6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":789993991,
-    "wof:lastmodified":1467090230,
+    "wof:lastmodified":1510698668,
     "wof:name":"Computer Renaissance",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",

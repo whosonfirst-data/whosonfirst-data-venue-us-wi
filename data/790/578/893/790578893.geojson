@@ -2,9 +2,14 @@
   "id": 790578893,
   "type": "Feature",
   "properties": {
+    "addr:full":"3360 Timber Ln Verona WI 53593",
+    "addr:housenumber":"3360",
+    "addr:postcode":"53593",
+    "addr:street":"Timber Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.598756,43.038386,-89.598756,43.038386",
     "geom:latitude":43.038386,
     "geom:longitude":-89.598756,
@@ -25,12 +30,14 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
-        85844611,
-        102081795,
         101732721,
-        85878843
+        102081795,
+        85688517,
+        85844611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,25 +48,27 @@
     "wof:geomhash":"dbd37b2b3bc4259835c79d9157004627",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
-            "neighbourhood_id":85844611,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
             "region_id":85688517,
             "venue_id":790578893
         },
         {
             "country_id":85633793,
             "county_id":102081795,
-            "locality_id":101732721,
-            "neighbourhood_id":85878843,
+            "neighbourhood_id":85844611,
             "region_id":85688517,
             "venue_id":790578893
         }
     ],
     "wof:id":790578893,
-    "wof:lastmodified":1467090350,
+    "wof:lastmodified":1491894011,
     "wof:name":"Todd Burud",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

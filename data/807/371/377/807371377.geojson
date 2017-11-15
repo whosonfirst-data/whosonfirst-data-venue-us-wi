@@ -2,14 +2,20 @@
   "id": 807371377,
   "type": "Feature",
   "properties": {
+    "addr:full":"3525 E Calumet St Appleton WI 54915",
+    "addr:housenumber":"3525",
+    "addr:postcode":"54915",
+    "addr:street":"E Calumet St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.368231,44.243898,-88.368231,44.243898",
     "geom:latitude":44.243898,
     "geom:longitude":-88.368231,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3525 E Calumet St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85813523,
         102081289
     ],
+    "wof:brand_id":1125153957,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lfiFJtyIAqyHYFQ2Jw9bC_44.243898_-88.368231@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606809,
-    "wof:geomhash":"d0f8d5ad3391aa942477d3ad11a51fb2",
+    "wof:geomhash":"2bfb05d83bad599c368950067302403e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807371377,
-    "wof:lastmodified":1467090626,
+    "wof:lastmodified":1510700008,
     "wof:name":"Figaro's Pizza",
     "wof:parent_id":85813523,
     "wof:placetype":"venue",

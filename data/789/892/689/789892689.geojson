@@ -2,14 +2,20 @@
   "id": 789892689,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Corrina Blvd Waukesha WI 53186",
+    "addr:housenumber":"110",
+    "addr:postcode":"53186",
+    "addr:street":"Corrina Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.228795,43.013267,-88.228795,43.013267",
     "geom:latitude":43.013267,
     "geom:longitude":-88.228795,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 Corrina Blvd",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125159545,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08DO7kxpsELVQiBqOC1Qut_43.013267_-88.228795@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591389,
-    "wof:geomhash":"1468811f07abb647323caa752f900b19",
+    "wof:geomhash":"4fc1ca9fcc17db3bcedeef4a2878b7be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789892689,
-    "wof:lastmodified":1467090211,
+    "wof:lastmodified":1510699958,
     "wof:name":"Equity Corporate Housing",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",

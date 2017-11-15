@@ -2,14 +2,20 @@
   "id": 806437633,
   "type": "Feature",
   "properties": {
+    "addr:full":"650 S 108th St Milwaukee WI 53214",
+    "addr:housenumber":"650",
+    "addr:postcode":"53214",
+    "addr:street":"S 108Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.047203,43.024257,-88.047203,43.024257",
     "geom:latitude":43.024257,
     "geom:longitude":-88.047203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"650 S 108th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125151219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3F2S5PNTy1u24hirFgvIzU_43.024257_-88.047203@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598146,
-    "wof:geomhash":"d4c8926f388946c499b8d09d57ddde9c",
+    "wof:geomhash":"a29bdb52ec04aa391f814c3ab6e475a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806437633,
-    "wof:lastmodified":1467090379,
+    "wof:lastmodified":1510697575,
     "wof:name":"Graybar Electric Co",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",

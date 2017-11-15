@@ -2,9 +2,14 @@
   "id": 806997889,
   "type": "Feature",
   "properties": {
+    "addr:full":"7001 Tree Ln Madison WI 53717",
+    "addr:housenumber":"7001",
+    "addr:postcode":"53717",
+    "addr:street":"Tree Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.503092,43.06559,-89.503092,43.06559",
     "geom:latitude":43.06559,
     "geom:longitude":-89.503092,
@@ -29,11 +34,13 @@
     "sg:website":"www.midwestdental.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"3bda2d3a567aacef1718a9bc727fb7e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":806997889,
-    "wof:lastmodified":1467090509,
+    "wof:lastmodified":1491894017,
     "wof:name":"Midwest Dental",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

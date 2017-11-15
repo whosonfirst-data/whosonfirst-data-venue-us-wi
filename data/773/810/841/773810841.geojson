@@ -2,9 +2,14 @@
   "id": 773810841,
   "type": "Feature",
   "properties": {
+    "addr:full":"2400 E Bradford Ave Milwaukee WI 53211",
+    "addr:housenumber":"2400",
+    "addr:postcode":"53211",
+    "addr:street":"E Bradford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.880283,43.063714,-87.880283,43.063714",
     "geom:latitude":43.063714,
     "geom:longitude":-87.880283,
@@ -36,10 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870883,
+        102191575,
+        404492091,
         85633793,
-        85870961,
-        102081837
+        101732987,
+        102081837,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +58,20 @@
     "wof:geomhash":"e5576a9291b3feb17dc9649a22056136",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "neighbourhood_id":85870961,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870883,
             "region_id":85688517,
             "venue_id":773810841
         }
     ],
     "wof:id":773810841,
-    "wof:lastmodified":1467090139,
+    "wof:lastmodified":1491886718,
     "wof:name":"APS",
-    "wof:parent_id":85870961,
+    "wof:parent_id":85870883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

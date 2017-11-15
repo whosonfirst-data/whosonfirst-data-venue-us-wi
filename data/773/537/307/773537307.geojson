@@ -2,9 +2,14 @@
   "id": 773537307,
   "type": "Feature",
   "properties": {
+    "addr:full":"4839 Morris Ct Waunakee WI 53597",
+    "addr:housenumber":"4839",
+    "addr:postcode":"53597",
+    "addr:street":"Morris Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.440925,43.121654,-89.440925,43.121654",
     "geom:latitude":43.121654,
     "geom:longitude":-89.440925,
@@ -27,12 +32,7 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zeyB9DoXsy6yC96n9v9nI_43.121654_-89.440925@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462586461,
     "wof:geomhash":"2a2fd815f7a5ad0a504b1c848efcf3c3",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773537307
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773537307,
-    "wof:lastmodified":1467090077,
+    "wof:lastmodified":1491935709,
     "wof:name":"Spalinger Contracting",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

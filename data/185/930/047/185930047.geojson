@@ -2,9 +2,14 @@
   "id": 185930047,
   "type": "Feature",
   "properties": {
+    "addr:full":"8640 W Midland Dr Greendale WI 53129",
+    "addr:housenumber":"8640",
+    "addr:postcode":"53129",
+    "addr:street":"W Midland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.021747,42.950986,-88.021747,42.950986",
     "geom:latitude":42.950986,
     "geom:longitude":-88.021747,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870865,
+        102191575,
+        404492091,
         85633793,
-        101733071,
+        101732987,
         102081837,
-        85870865
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"430a0c8525edfa3103b4a300853e3ae4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":101733071,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870865,
             "region_id":85688517,
             "venue_id":185930047
         }
     ],
     "wof:id":185930047,
-    "wof:lastmodified":1467089884,
+    "wof:lastmodified":1492111874,
     "wof:name":"John R Schroeder",
     "wof:parent_id":85870865,
     "wof:placetype":"venue",

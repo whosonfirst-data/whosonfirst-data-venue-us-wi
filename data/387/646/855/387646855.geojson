@@ -2,9 +2,14 @@
   "id": 387646855,
   "type": "Feature",
   "properties": {
+    "addr:full":"7424 W Layton Ave Greenfield WI 53220",
+    "addr:housenumber":"7424",
+    "addr:postcode":"53220",
+    "addr:street":"W Layton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.008249,42.95918,-88.008249,42.95918",
     "geom:latitude":42.95918,
     "geom:longitude":-88.008249,
@@ -39,11 +44,16 @@
     "sg:website":"www.prodriver.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870865,
+        102191575,
+        404492091,
         85633793,
-        101733071,
+        101732987,
         102081837,
-        85870865
+        85688517,
+        420558473,
+        404494171,
+        101733073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +63,30 @@
     "wof:geomhash":"5d5a352e027ee584b93a952af722464c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":101733071,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870865,
+            "region_id":85688517,
+            "venue_id":387646855
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494171,
+            "locality_id":101733073,
+            "neighbourhood_id":420558473,
             "region_id":85688517,
             "venue_id":387646855
         }
     ],
     "wof:id":387646855,
-    "wof:lastmodified":1467089921,
+    "wof:lastmodified":1492088065,
     "wof:name":"Pro-Driver Leasing Systems Inc",
-    "wof:parent_id":85870865,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

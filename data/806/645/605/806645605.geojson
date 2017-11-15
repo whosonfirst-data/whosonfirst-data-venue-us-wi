@@ -2,9 +2,14 @@
   "id": 806645605,
   "type": "Feature",
   "properties": {
+    "addr:full":"251 Host Dr Lake Geneva WI 53147",
+    "addr:housenumber":"",
+    "addr:postcode":"53147",
+    "addr:street":"Host Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.416975,42.57815,-88.416975,42.57815",
     "geom:latitude":42.57815,
     "geom:longitude":-88.416975,
@@ -27,13 +32,7 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eMCt8s5E4nQmiwD1EEwAj_42.578150_-88.416975@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462599864,
     "wof:geomhash":"d5106bf9e548f370969c77b1fae9e7e5",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806645605
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806645605,
-    "wof:lastmodified":1467090428,
+    "wof:lastmodified":1492109457,
     "wof:name":"Midwest Action Cycle Inc",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

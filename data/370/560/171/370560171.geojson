@@ -2,9 +2,14 @@
   "id": 370560171,
   "type": "Feature",
   "properties": {
+    "addr:full":"4500 Xavier Dr Franklin WI 53132",
+    "addr:housenumber":"4500",
+    "addr:postcode":"53132",
+    "addr:street":"Xavier Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.972929,42.92113,-87.972929,42.92113",
     "geom:latitude":42.92113,
     "geom:longitude":-87.972929,
@@ -28,13 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870857,
+        102191575,
+        404492089,
         85633793,
         101733071,
         102081837,
-        85870857,
-        101733079,
-        85870933
+        85688517,
+        85870933,
+        404494177,
+        101733079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +52,20 @@
     "wof:geomhash":"498d3f41c0daeaf86ace43d86af368c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492089,
             "locality_id":101733071,
             "neighbourhood_id":85870857,
             "region_id":85688517,
             "venue_id":370560171
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404494177,
             "locality_id":101733079,
             "neighbourhood_id":85870933,
             "region_id":85688517,
@@ -63,9 +73,9 @@
         }
     ],
     "wof:id":370560171,
-    "wof:lastmodified":1467089905,
+    "wof:lastmodified":1492108814,
     "wof:name":"Xaverian Missionary Fathers",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

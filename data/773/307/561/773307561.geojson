@@ -2,14 +2,20 @@
   "id": 773307561,
   "type": "Feature",
   "properties": {
+    "addr:full":"6317 Masthead Dr Madison WI 53705",
+    "addr:housenumber":"6317",
+    "addr:postcode":"53705",
+    "addr:street":"Masthead Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.491802,43.064117,-89.491802,43.064117",
     "geom:latitude":43.064117,
     "geom:longitude":-89.491802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6317 Masthead Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":420575467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6J2WtIxfKRtOeGONipTtge_43.064117_-89.491802@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584743,
-    "wof:geomhash":"851011c1d40cfdc0688b3e4093903700",
+    "wof:geomhash":"afa6da87a11e69e073066504a5641725",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773307561,
-    "wof:lastmodified":1467090023,
+    "wof:lastmodified":1510601964,
     "wof:name":"Frito-Lay Inc",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773472775,
   "type": "Feature",
   "properties": {
+    "addr:full":"26020 Deer Ridge Trl Waterford WI 53185",
+    "addr:housenumber":"26020",
+    "addr:postcode":"53185",
+    "addr:street":"Deer Ridge Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.148455,42.764548,-88.148455,42.764548",
     "geom:latitude":42.764548,
     "geom:longitude":-88.148455,
@@ -24,7 +29,13 @@
     "sg:postcode":"53185",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494901,
+        85633793,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RFoF1DYd64gUBUHfmXsrj_42.764548_-88.148455@1294253271"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462586008,
     "wof:geomhash":"ccf2e8ba2013c5b8142d26dd77d8634e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494901,
+            "region_id":85688517,
+            "venue_id":773472775
+        }
+    ],
     "wof:id":773472775,
-    "wof:lastmodified":1467090062,
+    "wof:lastmodified":1492109458,
     "wof:name":"Sharon A Mehring LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

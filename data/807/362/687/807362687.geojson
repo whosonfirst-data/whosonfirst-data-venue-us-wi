@@ -2,14 +2,20 @@
   "id": 807362687,
   "type": "Feature",
   "properties": {
+    "addr:full":"7610 Elmwood Ave Middleton WI 53562",
+    "addr:housenumber":"7610",
+    "addr:postcode":"53562",
+    "addr:street":"Elmwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.512996,43.095916,-89.512996,43.095916",
     "geom:latitude":43.095916,
     "geom:longitude":-89.512996,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7610 Elmwood Ave",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081795,
         85841479
     ],
+    "wof:brand_id":1125153795,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79ZpNieWzC3iwTIUFgPezT_43.095916_-89.512996@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606692,
-    "wof:geomhash":"435c78c232c98533653161a353b5caa3",
+    "wof:geomhash":"6b5316d1580de25154308dc8317f156a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807362687,
-    "wof:lastmodified":1467090623,
+    "wof:lastmodified":1510699992,
     "wof:name":"Oriental Express",
     "wof:parent_id":85841479,
     "wof:placetype":"venue",

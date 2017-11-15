@@ -2,9 +2,14 @@
   "id": 789982157,
   "type": "Feature",
   "properties": {
+    "addr:full":"5739 Emerald Grove Ln Waunakee WI 53597",
+    "addr:housenumber":"5739",
+    "addr:postcode":"53597",
+    "addr:street":"Emerald Grove Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.43683,43.175305,-89.43683,43.175305",
     "geom:latitude":43.175305,
     "geom:longitude":-89.43683,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dhkWJPxkFdjx2wOZNQi6h_43.175305_-89.436830@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462592188,
     "wof:geomhash":"9876bcfbb43eff7f22fc644142dbe71e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789982157
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789982157,
-    "wof:lastmodified":1467090228,
+    "wof:lastmodified":1491935727,
     "wof:name":"Ensign Landscaping",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

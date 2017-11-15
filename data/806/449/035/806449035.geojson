@@ -2,9 +2,14 @@
   "id": 806449035,
   "type": "Feature",
   "properties": {
+    "addr:full":"1102 Middleton St Madison WI 53717",
+    "addr:housenumber":"1102",
+    "addr:postcode":"53717",
+    "addr:street":"Middleton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.504935,43.085453,-89.504935,43.085453",
     "geom:latitude":43.085453,
     "geom:longitude":-89.504935,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"8ddb0e2e71d6cb522551e707dec979dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":806449035,
-    "wof:lastmodified":1467090382,
+    "wof:lastmodified":1491893979,
     "wof:name":"Plant Pros",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

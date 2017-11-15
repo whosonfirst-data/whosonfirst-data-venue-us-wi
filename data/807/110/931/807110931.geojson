@@ -2,14 +2,20 @@
   "id": 807110931,
   "type": "Feature",
   "properties": {
+    "addr:full":"1680 Yellow Briar Dr De Pere WI 54115",
+    "addr:housenumber":"1680",
+    "addr:postcode":"54115",
+    "addr:street":"Yellow Briar Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.114527,44.435972,-88.114527,44.435972",
     "geom:latitude":44.435972,
     "geom:longitude":-88.114527,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1680 Yellow Briar Dr",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":420575451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eiza07LP0rWU5PiqzkJqL_44.435972_-88.114527@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603842,
-    "wof:geomhash":"ed31487d91c200209b679022e1eb47f4",
+    "wof:geomhash":"cc48d3618e83ef55db30aca719b7adda",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807110931,
-    "wof:lastmodified":1467090539,
+    "wof:lastmodified":1510602071,
     "wof:name":"Motion Industries Inc",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

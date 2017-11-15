@@ -2,9 +2,14 @@
   "id": 807190293,
   "type": "Feature",
   "properties": {
+    "addr:full":"7012 Tree Ln Madison WI 53717",
+    "addr:housenumber":"7012",
+    "addr:postcode":"53717",
+    "addr:street":"Tree Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.502629,43.065566,-89.502629,43.065566",
     "geom:latitude":43.065566,
     "geom:longitude":-89.502629,
@@ -34,7 +39,8 @@
         85633793,
         101732721,
         102081795,
-        85688517
+        85688517,
+        85878843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +59,22 @@
             "neighbourhood_id":85878893,
             "region_id":85688517,
             "venue_id":807190293
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":807190293
         }
     ],
     "wof:id":807190293,
-    "wof:lastmodified":1467090564,
+    "wof:lastmodified":1491894114,
     "wof:name":"Wexford Ridge Police Office",
-    "wof:parent_id":85878893,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

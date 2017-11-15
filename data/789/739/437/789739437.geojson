@@ -2,9 +2,14 @@
   "id": 789739437,
   "type": "Feature",
   "properties": {
+    "addr:full":"1014 S Division St Waunakee WI 53597",
+    "addr:housenumber":"1014",
+    "addr:postcode":"53597",
+    "addr:street":"S Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.446838,43.181593,-89.446838,43.181593",
     "geom:latitude":43.181593,
     "geom:longitude":-89.446838,
@@ -27,12 +32,7 @@
         "outdoor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2onOfjX99MjNCuBq1xSprA_43.181593_-89.446838@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462590169,
     "wof:geomhash":"88d7169c0f5fd80ab4aa7c09a6dbae64",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789739437
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789739437,
-    "wof:lastmodified":1467090182,
+    "wof:lastmodified":1491935686,
     "wof:name":"2owncom",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

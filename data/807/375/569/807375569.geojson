@@ -2,14 +2,20 @@
   "id": 807375569,
   "type": "Feature",
   "properties": {
+    "addr:full":"213 N Washington St Green Bay WI 54301",
+    "addr:housenumber":"213",
+    "addr:postcode":"54301",
+    "addr:street":"N Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.015466,44.515521,-88.015466,44.515521",
     "geom:latitude":44.515521,
     "geom:longitude":-88.015466,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"213 N Washington St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125151939,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YWWcWdcDBnWAtirN8Cgvb_44.516156_-88.014908@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462606867,
-    "wof:geomhash":"0efdc073998d9a97b9eaa49d1698b6a6",
+    "wof:geomhash":"ac1fbb998c4f7cc84cb99157cb7ce6aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807375569,
-    "wof:lastmodified":1467090628,
+    "wof:lastmodified":1510695320,
     "wof:name":"China Palace",
     "wof:parent_id":85877935,
     "wof:placetype":"venue",

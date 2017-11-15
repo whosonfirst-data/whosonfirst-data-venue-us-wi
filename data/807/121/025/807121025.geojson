@@ -2,14 +2,20 @@
   "id": 807121025,
   "type": "Feature",
   "properties": {
+    "addr:full":"3910 Calumet Ave Manitowoc WI 54220",
+    "addr:housenumber":"3910",
+    "addr:postcode":"54220",
+    "addr:street":"Calumet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.698436,44.07787,-87.698436,44.07787",
     "geom:latitude":44.07787,
     "geom:longitude":-87.698436,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3910 Calumet Ave",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":1125156471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UFDBrZoRcKbs2iQodCEXM_44.077870_-87.698436@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603951,
-    "wof:geomhash":"85a1656a33b752c1f2d8016de7883b89",
+    "wof:geomhash":"2b279e827de6d153a455cab41437a27d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807121025,
-    "wof:lastmodified":1467090543,
+    "wof:lastmodified":1510696795,
     "wof:name":"Rex TV & Appliances",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

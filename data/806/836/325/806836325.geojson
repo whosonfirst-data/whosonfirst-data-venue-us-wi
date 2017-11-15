@@ -2,14 +2,20 @@
   "id": 806836325,
   "type": "Feature",
   "properties": {
+    "addr:full":"2602 Georgia Ave Sheboygan WI 53081",
+    "addr:housenumber":"2602",
+    "addr:postcode":"53081",
+    "addr:street":"Georgia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.739732,43.738188,-87.739732,43.738188",
     "geom:latitude":43.738188,
     "geom:longitude":-87.739732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2602 Georgia Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":1125150313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mmQCVfoRGOFgM5JkiX8cM_43.738188_-87.739732@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601478,
-    "wof:geomhash":"4a81e3d56fc1c2a52f1b58fea958ffde",
+    "wof:geomhash":"aee97bceedcde1dff19a94afe0847e69",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806836325,
-    "wof:lastmodified":1467090472,
+    "wof:lastmodified":1510697391,
     "wof:name":"Overhead Door Corp",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

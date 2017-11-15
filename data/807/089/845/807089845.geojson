@@ -2,14 +2,20 @@
   "id": 807089845,
   "type": "Feature",
   "properties": {
+    "addr:full":"2645 Harlem St Eau Claire WI 54701",
+    "addr:housenumber":"2645",
+    "addr:postcode":"54701",
+    "addr:street":"Harlem St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.464415,44.79927,-91.464415,44.79927",
     "geom:latitude":44.79927,
     "geom:longitude":-91.464415,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2645 Harlem St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125152347,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XPQV5o8BONhIOhr375YqL_44.799270_-91.464415@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603615,
-    "wof:geomhash":"e345d77aab8a3bcc57ecacd2f9055bf3",
+    "wof:geomhash":"4bebe52855ebb243dca63e311056e766",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807089845,
-    "wof:lastmodified":1467090533,
+    "wof:lastmodified":1510613373,
     "wof:name":"Fish Window Cleaning",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

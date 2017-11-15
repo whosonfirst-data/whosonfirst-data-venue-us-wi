@@ -2,9 +2,14 @@
   "id": 773703727,
   "type": "Feature",
   "properties": {
+    "addr:full":"26505 Malchine Rd Waterford WI 53185",
+    "addr:housenumber":"26505",
+    "addr:postcode":"53185",
+    "addr:street":"Malchine Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.156595,42.792846,-88.156595,42.792846",
     "geom:latitude":42.792846,
     "geom:longitude":-88.156595,
@@ -27,7 +32,13 @@
         "foundation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494901,
+        85633793,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sk35wYLpIKP7LMwT4hAfv_42.792846_-88.156595@1294253271"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462587751,
     "wof:geomhash":"dc69b2ec430c2f7e140ff3c9499a8b76",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494901,
+            "region_id":85688517,
+            "venue_id":773703727
+        }
+    ],
     "wof:id":773703727,
-    "wof:lastmodified":1467090115,
+    "wof:lastmodified":1492112072,
     "wof:name":"L Greil Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

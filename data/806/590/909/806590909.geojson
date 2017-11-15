@@ -2,9 +2,14 @@
   "id": 806590909,
   "type": "Feature",
   "properties": {
+    "addr:full":"2715 N Colony Ave Franksville WI 53126",
+    "addr:housenumber":"2715",
+    "addr:postcode":"53126",
+    "addr:street":"N Colony Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.052109,42.752388,-88.052109,42.752388",
     "geom:latitude":42.752388,
     "geom:longitude":-88.052109,
@@ -24,7 +29,13 @@
     "sg:postcode":"53126",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494999,
+        85633793,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20uVUkCu02l9gwsKhW6Sln_42.752388_-88.052109@1294253271"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462599405,
     "wof:geomhash":"33b9d133a99f760eaff6b029a75ec129",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494999,
+            "region_id":85688517,
+            "venue_id":806590909
+        }
+    ],
     "wof:id":806590909,
-    "wof:lastmodified":1467090416,
+    "wof:lastmodified":1492108945,
     "wof:name":"Melaleuca Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

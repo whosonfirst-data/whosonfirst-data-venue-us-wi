@@ -2,14 +2,20 @@
   "id": 807353213,
   "type": "Feature",
   "properties": {
+    "addr:full":"95 N Moorland Rd Brookfield WI 53005",
+    "addr:housenumber":"95",
+    "addr:postcode":"53005",
+    "addr:street":"N Moorland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.10688,43.031907,-88.10688,43.031907",
     "geom:latitude":43.031907,
     "geom:longitude":-88.10688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"95 N Moorland Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125153095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Inyxk7VBfrJ6U40EoUqWJ_43.031907_-88.106880@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606544,
-    "wof:geomhash":"4ef8ad9ab8a8c5e5c0c9a9a0da4071c4",
+    "wof:geomhash":"166d50b8cca5bdfd27759351abc7faa9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":807353213,
-    "wof:lastmodified":1467090619,
+    "wof:lastmodified":1510696063,
     "wof:name":"Houlihan's",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",

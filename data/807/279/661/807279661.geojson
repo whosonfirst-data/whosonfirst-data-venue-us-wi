@@ -2,9 +2,14 @@
   "id": 807279661,
   "type": "Feature",
   "properties": {
+    "addr:full":"5682 Steeplechase Dr Waunakee WI 53597",
+    "addr:housenumber":"5682",
+    "addr:postcode":"53597",
+    "addr:street":"Steeplechase Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.427763,43.164633,-89.427763,43.164633",
     "geom:latitude":43.164633,
     "geom:longitude":-89.427763,
@@ -27,12 +32,7 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OHxVVbittqe42mYNAJDQt_43.164633_-89.427763@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462605642,
     "wof:geomhash":"6eb701b0adf8152da4e3952ce1d4088c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807279661
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807279661,
-    "wof:lastmodified":1467090593,
+    "wof:lastmodified":1491935697,
     "wof:name":"Regan",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773023561,
   "type": "Feature",
   "properties": {
+    "addr:full":"10642 S 92nd St Franklin WI 53132",
+    "addr:housenumber":"10642",
+    "addr:postcode":"53132",
+    "addr:street":"S 92Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.030351,42.849717,-88.030351,42.849717",
     "geom:latitude":42.849717,
     "geom:longitude":-88.030351,
@@ -24,7 +29,14 @@
     "sg:postcode":"53132",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BsHwyRvOKOxasyHpUy7bI_42.849717_-88.030351@1294253271"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462582500,
     "wof:geomhash":"d926f2edfe07115de2350d13e06253d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":773023561
+        }
+    ],
     "wof:id":773023561,
-    "wof:lastmodified":1467089940,
+    "wof:lastmodified":1492097572,
     "wof:name":"Zip International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

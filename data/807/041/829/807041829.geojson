@@ -2,9 +2,14 @@
   "id": 807041829,
   "type": "Feature",
   "properties": {
+    "addr:full":"9516 400th Ave Genoa City WI 53128",
+    "addr:housenumber":"9516",
+    "addr:postcode":"53128",
+    "addr:street":"400Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.296059,42.535605,-88.296059,42.535605",
     "geom:latitude":42.535605,
     "geom:longitude":-88.296059,
@@ -28,7 +33,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493403,
+        85633793,
+        101733671,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bJncjF64JfeecM6ucXAve_42.535605_-88.296059@1294253271"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462603227,
     "wof:geomhash":"c7a4589978bf503dcc4f25ff35e79832",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493403,
+            "locality_id":101733671,
+            "region_id":85688517,
+            "venue_id":807041829
+        }
+    ],
     "wof:id":807041829,
-    "wof:lastmodified":1467090520,
+    "wof:lastmodified":1492087971,
     "wof:name":"C R Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

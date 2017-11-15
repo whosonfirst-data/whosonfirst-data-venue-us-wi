@@ -2,9 +2,14 @@
   "id": 790134103,
   "type": "Feature",
   "properties": {
+    "addr:full":"404 W Main St Waunakee WI 53597",
+    "addr:housenumber":"404",
+    "addr:postcode":"53597",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.46032,43.191941,-89.46032,43.191941",
     "geom:latitude":43.191941,
     "geom:longitude":-89.46032,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rJ5NGpaGPHaY3gGzBS4YU_43.191941_-89.460320@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462593387,
     "wof:geomhash":"d851aacd1df0430b91badc1fd0808e94",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790134103
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790134103,
-    "wof:lastmodified":1467090258,
+    "wof:lastmodified":1491935714,
     "wof:name":"Meffert One Stop Food Shop",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

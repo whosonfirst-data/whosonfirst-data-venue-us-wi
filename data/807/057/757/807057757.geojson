@@ -2,14 +2,20 @@
   "id": 807057757,
   "type": "Feature",
   "properties": {
+    "addr:full":"2379 Ridgewood Ct Menomonie WI 54729",
+    "addr:housenumber":"2379",
+    "addr:postcode":"54729",
+    "addr:street":"Ridgewood Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.299712,44.837443,-91.299712,44.837443",
     "geom:latitude":44.837443,
     "geom:longitude":-91.299712,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2379 Ridgewood Ct",
     "sg:city":"Menomonie",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125150593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zWgqMPS9Ud564UvAz8THZ_44.837443_-91.299712@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603354,
-    "wof:geomhash":"eb8844977d28ef770719af44c8dd1f48",
+    "wof:geomhash":"fc6f56494613937753945ab72f09a676",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807057757,
-    "wof:lastmodified":1467090524,
+    "wof:lastmodified":1510613420,
     "wof:name":"Lutheran Social Svc",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

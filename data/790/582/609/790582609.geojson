@@ -2,14 +2,20 @@
   "id": 790582609,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 Co Rd Xx Mosinee WI 54474",
+    "addr:housenumber":"1500",
+    "addr:postcode":"54474",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.631116,44.858389,-89.631116,44.858389",
     "geom:latitude":44.858389,
     "geom:longitude":-89.631116,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 Co Rd Xx",
     "sg:city":"Mosinee",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081881,
         85688517
     ],
+    "wof:brand_id":420574613,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nF90S9zFGA87Tx0dp58Zc_44.858389_-89.631116@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462597062,
-    "wof:geomhash":"788aff83e114cf3c3db5bb5a1c27e9f2",
+    "wof:geomhash":"8ae62168d15a4007ca10e1725439b8eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790582609,
-    "wof:lastmodified":1467090351,
+    "wof:lastmodified":1510604101,
     "wof:name":"Denny's",
     "wof:parent_id":85865437,
     "wof:placetype":"venue",

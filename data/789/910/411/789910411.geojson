@@ -2,9 +2,14 @@
   "id": 789910411,
   "type": "Feature",
   "properties": {
+    "addr:full":"9200 W Loomis Rd Franklin WI 53132",
+    "addr:housenumber":"9200",
+    "addr:postcode":"53132",
+    "addr:street":"W Loomis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.028938,42.900714,-88.028938,42.900714",
     "geom:latitude":42.900714,
     "geom:longitude":-88.028938,
@@ -27,7 +32,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yCy5ulSMm0o6qvTii0ZQ4_42.900714_-88.028938@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462591543,
     "wof:geomhash":"acef866dd4a3ff1c849516b62e770f4d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":789910411
+        }
+    ],
     "wof:id":789910411,
-    "wof:lastmodified":1467090214,
+    "wof:lastmodified":1492103000,
     "wof:name":"S C Medved Ent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 353896737,
   "type": "Feature",
   "properties": {
+    "addr:full":"2023 Fairfax St Eau Claire WI 54701",
+    "addr:housenumber":"2023",
+    "addr:postcode":"54701",
+    "addr:street":"Fairfax St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.468273,44.797996,-91.468273,44.797996",
     "geom:latitude":44.797996,
     "geom:longitude":-91.468273,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2023 Fairfax St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125151165,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7met269UW9ssAUTvuCRzR8_44.797996_-91.468273@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"c8ceb62428b1766f9b6cf4026908a17b",
+    "wof:geomhash":"3c201c57c79753a4fcd6cd89f1f539aa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":353896737,
-    "wof:lastmodified":1467089888,
+    "wof:lastmodified":1510712362,
     "wof:name":"Bankers Life",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807162811,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Baker St Waunakee WI 53597",
+    "addr:housenumber":"110",
+    "addr:postcode":"53597",
+    "addr:street":"Baker St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.454852,43.192741,-89.454852,43.192741",
     "geom:latitude":43.192741,
     "geom:longitude":-89.454852,
@@ -27,12 +32,7 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IdX2es97X6BIY0Sg3hVQm_43.192741_-89.454852@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462604406,
     "wof:geomhash":"85e039128f96b60e4a7f3a30b61ae8e1",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807162811
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807162811,
-    "wof:lastmodified":1467090556,
+    "wof:lastmodified":1491935694,
     "wof:name":"TDS Telecom",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

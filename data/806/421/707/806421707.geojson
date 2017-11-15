@@ -2,9 +2,14 @@
   "id": 806421707,
   "type": "Feature",
   "properties": {
+    "addr:full":"5730 S 108th St Hales Corners WI 53130",
+    "addr:housenumber":"5730",
+    "addr:postcode":"53130",
+    "addr:street":"S 108Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.048363,42.940675,-88.048363,42.940675",
     "geom:latitude":42.940675,
     "geom:longitude":-88.048363,
@@ -24,7 +29,14 @@
     "sg:postcode":"53130",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494175,
+        85633793,
+        101733077,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OTkZetRKMY46DEIsdeSRH_42.940675_-88.048363@1294253271"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462598019,
     "wof:geomhash":"ab6a3c01c49f4625e875df5f0dde5bb2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494175,
+            "locality_id":101733077,
+            "region_id":85688517,
+            "venue_id":806421707
+        }
+    ],
     "wof:id":806421707,
-    "wof:lastmodified":1467090375,
+    "wof:lastmodified":1492108908,
     "wof:name":"Underwater Connection Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

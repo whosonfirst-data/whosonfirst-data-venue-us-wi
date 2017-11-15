@@ -2,14 +2,20 @@
   "id": 773048881,
   "type": "Feature",
   "properties": {
+    "addr:full":"263 Bay Park Sq Green Bay WI 54304",
+    "addr:housenumber":"263",
+    "addr:postcode":"54304",
+    "addr:street":"Bay Park Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.067576,44.484498,-88.067576,44.484498",
     "geom:latitude":44.484498,
     "geom:longitude":-88.067576,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"263 Bay Park Sq",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":420575869,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03H1PleqCJHetoJgoP2AGR_44.484498_-88.067576@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462582749,
-    "wof:geomhash":"ac8a4e4d96eb8709b73b4d9daa933a04",
+    "wof:geomhash":"abdb80772eda63326e7743a26dea5013",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773048881,
-    "wof:lastmodified":1467089948,
+    "wof:lastmodified":1510601954,
     "wof:name":"Wilsons Leather",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 370799929,
   "type": "Feature",
   "properties": {
+    "addr:full":"22583 Co Hwy R Jim Falls WI 54748",
+    "addr:housenumber":"22583",
+    "addr:postcode":"54748",
+    "addr:street":"Co Hwy R",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.218694,45.134171,-91.218694,45.134171",
     "geom:latitude":45.134171,
     "geom:longitude":-91.218694,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"22583 Co Hwy R",
     "sg:city":"Jim Falls",
     "sg:classifiers":[
@@ -39,12 +45,13 @@
         102081787,
         85837071
     ],
+    "wof:brand_id":1125152735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hP64qUnKgZBySyl0Wd5OU_45.134171_-91.218694@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"17ac0d41b95633a4728f6e53e9198d19",
+    "wof:geomhash":"20b22a5d9e92b97b99812679fecc7dc0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":370799929,
-    "wof:lastmodified":1467089907,
+    "wof:lastmodified":1510696652,
     "wof:name":"Property Damage Appraisers Inc",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",

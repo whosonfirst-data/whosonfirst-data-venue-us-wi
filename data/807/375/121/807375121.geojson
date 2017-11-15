@@ -2,14 +2,20 @@
   "id": 807375121,
   "type": "Feature",
   "properties": {
+    "addr:full":"6520 Monona Dr Madison WI 53716",
+    "addr:housenumber":"6520",
+    "addr:postcode":"53716",
+    "addr:street":"Monona Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.324434,43.046834,-89.324434,43.046834",
     "geom:latitude":43.046834,
     "geom:longitude":-89.324434,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6520 Monona Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102081795,
         85878883
     ],
+    "wof:brand_id":1125150681,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0clTebfKLttkeEI58Cvn54_43.047284_-89.324559@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462606856,
-    "wof:geomhash":"47977eb33442dff0d6ff93fd538e7dd9",
+    "wof:geomhash":"bba82a344353fcfbc2f8de58fa3d1799",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":807375121,
-    "wof:lastmodified":1467090628,
+    "wof:lastmodified":1510698853,
     "wof:name":"Noodles & Company",
     "wof:parent_id":85878883,
     "wof:placetype":"venue",

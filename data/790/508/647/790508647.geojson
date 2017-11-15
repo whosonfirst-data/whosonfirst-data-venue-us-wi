@@ -2,9 +2,14 @@
   "id": 790508647,
   "type": "Feature",
   "properties": {
+    "addr:full":"907 Pasadena Pkwy Waunakee WI 53597",
+    "addr:housenumber":"907",
+    "addr:postcode":"53597",
+    "addr:street":"Pasadena Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.469695,43.182887,-89.469695,43.182887",
     "geom:latitude":43.182887,
     "geom:longitude":-89.469695,
@@ -27,12 +32,7 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hU8CSwSa3VLC1vVLDn27t_43.182887_-89.469695@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462596439,
     "wof:geomhash":"e5eadf5e559193aa472bd018b1b2bead",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790508647
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790508647,
-    "wof:lastmodified":1467090334,
+    "wof:lastmodified":1491935690,
     "wof:name":"Teutenberg Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

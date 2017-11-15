@@ -2,14 +2,20 @@
   "id": 773296729,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 S Executive Dr Brookfield WI 53005",
+    "addr:housenumber":"200",
+    "addr:postcode":"53005",
+    "addr:street":"S Executive Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.115125,43.026882,-88.115125,43.026882",
     "geom:latitude":43.026882,
     "geom:longitude":-88.115125,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 S Executive Dr",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125151591,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15wHHc65SOKiRyRXcyO6rI_43.026882_-88.115125@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584650,
-    "wof:geomhash":"e8215e1fd4950347cddf02f760932ab8",
+    "wof:geomhash":"36893544a9472977c99076a030961eba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773296729,
-    "wof:lastmodified":1467090017,
+    "wof:lastmodified":1510693873,
     "wof:name":"First Horizon Home Loan Corp",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",

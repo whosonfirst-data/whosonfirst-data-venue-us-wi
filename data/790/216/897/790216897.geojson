@@ -2,9 +2,14 @@
   "id": 790216897,
   "type": "Feature",
   "properties": {
+    "addr:full":"5111 Bayfield Dr Waterford WI 53185",
+    "addr:housenumber":"5111",
+    "addr:postcode":"53185",
+    "addr:street":"Bayfield Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.226173,42.78639,-88.226173,42.78639",
     "geom:latitude":42.78639,
     "geom:longitude":-88.226173,
@@ -24,7 +29,14 @@
     "sg:postcode":"53185",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494995,
+        85633793,
+        101733611,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MlgeOas625a51W82nZmZk_42.786390_-88.226173@1294253271"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462594082,
     "wof:geomhash":"f69ac801bf7557f4efad48e58cb8f288",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494995,
+            "locality_id":101733611,
+            "region_id":85688517,
+            "venue_id":790216897
+        }
+    ],
     "wof:id":790216897,
-    "wof:lastmodified":1467090274,
+    "wof:lastmodified":1492103398,
     "wof:name":"God & Ginny Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

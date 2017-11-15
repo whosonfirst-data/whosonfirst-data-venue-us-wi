@@ -2,9 +2,14 @@
   "id": 387394843,
   "type": "Feature",
   "properties": {
+    "addr:full":"3805 S Casper Dr New Berlin WI 53151",
+    "addr:housenumber":"3805",
+    "addr:postcode":"53151",
+    "addr:street":"S Casper Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.11846,42.97335,-88.11846,42.97335",
     "geom:latitude":42.97335,
     "geom:longitude":-88.11846,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85808849,
+        102191575,
+        404495623,
         85633793,
         101733513,
         102081741,
-        85808849
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"de7d2a937bdac520e9f2902bf627815a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081741,
+            "localadmin_id":404495623,
             "locality_id":101733513,
             "neighbourhood_id":85808849,
             "region_id":85688517,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":387394843,
-    "wof:lastmodified":1467089923,
+    "wof:lastmodified":1492103481,
     "wof:name":"New Berlin Community Dev Auth",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",

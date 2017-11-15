@@ -2,14 +2,20 @@
   "id": 773348935,
   "type": "Feature",
   "properties": {
+    "addr:full":"94 E Geneva Sq Lake Geneva WI 53147",
+    "addr:housenumber":"94",
+    "addr:postcode":"53147",
+    "addr:street":"E Geneva Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.424676,42.606438,-88.424676,42.606438",
     "geom:latitude":42.606438,
     "geom:longitude":-88.424676,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"94 E Geneva Sq",
     "sg:city":"Lake Geneva",
     "sg:classifiers":[
@@ -28,32 +34,18 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
+    "wof:brand_id":1125150613,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68N2ksUF7GTlAm9lkfoNgC_42.606438_-88.424676@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585039,
-    "wof:geomhash":"9d84de17b65a192cfb65ab585a2f31ec",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":773348935
-        }
-    ],
+    "wof:geomhash":"ea82708e6f600c311aad2f621e2f466b",
+    "wof:hierarchy":[],
     "wof:id":773348935,
-    "wof:lastmodified":1467090033,
+    "wof:lastmodified":1510604902,
     "wof:name":"Us Cellular Inc",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

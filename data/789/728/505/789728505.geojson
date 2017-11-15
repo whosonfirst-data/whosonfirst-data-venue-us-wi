@@ -2,6 +2,10 @@
   "id": 789728505,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 Co Rd A Sheboygan WI 53081",
+    "addr:housenumber":"4321",
+    "addr:postcode":"53081",
+    "addr:street":"Co Rd A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":789728505,
-    "wof:lastmodified":1467090179,
+    "wof:lastmodified":1472654257,
     "wof:name":"Southside Alliance Church",
     "wof:parent_id":85854963,
     "wof:placetype":"venue",

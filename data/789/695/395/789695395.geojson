@@ -2,9 +2,14 @@
   "id": 789695395,
   "type": "Feature",
   "properties": {
+    "addr:full":"3387 Timber Ln Verona WI 53593",
+    "addr:housenumber":"3387",
+    "addr:postcode":"53593",
+    "addr:street":"Timber Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.60076,43.03825,-89.60076,43.03825",
     "geom:latitude":43.03825,
     "geom:longitude":-89.60076,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
-        85844611,
-        102081795,
         101732721,
-        85878843
+        102081795,
+        85688517,
+        85844611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,25 +51,27 @@
     "wof:geomhash":"f9b7ef33669f212ee79c663509445f43",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
-            "neighbourhood_id":85844611,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878843,
             "region_id":85688517,
             "venue_id":789695395
         },
         {
             "country_id":85633793,
             "county_id":102081795,
-            "locality_id":101732721,
-            "neighbourhood_id":85878843,
+            "neighbourhood_id":85844611,
             "region_id":85688517,
             "venue_id":789695395
         }
     ],
     "wof:id":789695395,
-    "wof:lastmodified":1467090173,
+    "wof:lastmodified":1491894065,
     "wof:name":"Elk Lakes Investments LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

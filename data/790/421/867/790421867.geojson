@@ -2,9 +2,14 @@
   "id": 790421867,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Commercial Ct Lake Geneva WI 53147",
+    "addr:housenumber":"501",
+    "addr:postcode":"53147",
+    "addr:street":"Commercial Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.407336,42.576321,-88.407336,42.576321",
     "geom:latitude":42.576321,
     "geom:longitude":-88.407336,
@@ -30,13 +35,7 @@
     ],
     "sg:website":"www.martingroup.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23qQ29Cmil57joIZzg8KPI_42.576321_-88.407336@1294253271"
@@ -44,18 +43,9 @@
     "wof:country":"US",
     "wof:created":1462595691,
     "wof:geomhash":"227e8a39ce27bf9a6aef37a48b83e0c4",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":790421867
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790421867,
-    "wof:lastmodified":1467090315,
+    "wof:lastmodified":1492111900,
     "wof:name":"Martin Business Group Inc",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

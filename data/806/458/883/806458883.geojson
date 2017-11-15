@@ -2,14 +2,20 @@
   "id": 806458883,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 Winchester Rd Neenah WI 54944",
+    "addr:housenumber":"2300",
+    "addr:postcode":"54944",
+    "addr:street":"Winchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.696367,44.330588,-88.696367,44.330588",
     "geom:latitude":44.330588,
     "geom:longitude":-88.696367,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2300 Winchester Rd",
     "sg:city":"Neenah",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125156599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DkFArlSfH92ETZsDwElTf_44.330588_-88.696367@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598305,
-    "wof:geomhash":"182c4c78edb3e71125907ed434c60cc9",
+    "wof:geomhash":"66463d2d6036a239d8882ae78e6c7fcd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806458883,
-    "wof:lastmodified":1467090384,
+    "wof:lastmodified":1510694627,
     "wof:name":"Kimberly-Clark",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

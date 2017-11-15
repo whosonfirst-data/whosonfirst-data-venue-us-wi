@@ -2,14 +2,20 @@
   "id": 807215479,
   "type": "Feature",
   "properties": {
+    "addr:full":"4760 Cliff View Dr Sherwood WI 54169",
+    "addr:housenumber":"4760",
+    "addr:postcode":"54169",
+    "addr:street":"Cliff View Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.278811,44.179799,-88.278811,44.179799",
     "geom:latitude":44.179799,
     "geom:longitude":-88.278811,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4760 Cliff View Dr",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85688517,
         85813523
     ],
+    "wof:brand_id":1125152079,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sqvfc1SZIOfOgNXCSIM1A_44.179799_-88.278811@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604952,
-    "wof:geomhash":"d9856ea6e6a61cbd6c0eb2bc9e6c7651",
+    "wof:geomhash":"491fe43b718a4f6fe89422a9326d3be8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":807215479,
-    "wof:lastmodified":1467090572,
+    "wof:lastmodified":1510697802,
     "wof:name":"Big Apple Bagels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

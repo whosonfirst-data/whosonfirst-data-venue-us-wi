@@ -2,14 +2,20 @@
   "id": 371181167,
   "type": "Feature",
   "properties": {
+    "addr:full":"2127 S Oneida St Green Bay WI 54304",
+    "addr:housenumber":"2127",
+    "addr:postcode":"54304",
+    "addr:street":"S Oneida St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.061497,44.494977,-88.061497,44.494977",
     "geom:latitude":44.494977,
     "geom:longitude":-88.061497,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2127 S Oneida St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102081867,
         85877943
     ],
+    "wof:brand_id":1125159283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oWI5XRNEOy26QR7T7X0oA_44.494977_-88.061497@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf05630a759b4cd50540a9015c35e176",
+    "wof:geomhash":"5eb0cf9f65064f6fb35ec6e4db214797",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":371181167,
-    "wof:lastmodified":1467089913,
+    "wof:lastmodified":1510696630,
     "wof:name":"Keebler",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",

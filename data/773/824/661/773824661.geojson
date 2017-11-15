@@ -2,14 +2,20 @@
   "id": 773824661,
   "type": "Feature",
   "properties": {
+    "addr:full":"9425 W Oklahoma Ave Milwaukee WI 53227",
+    "addr:housenumber":"9425",
+    "addr:postcode":"53227",
+    "addr:street":"W Oklahoma Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.030773,42.988091,-88.030773,42.988091",
     "geom:latitude":42.988091,
     "geom:longitude":-88.030773,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9425 W Oklahoma Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125150465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MenzBJ1f2eAWaNcV8JQ0Y_42.988091_-88.030773@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588675,
-    "wof:geomhash":"0edf565c17440e6777969461527e0adf",
+    "wof:geomhash":"39835f0b1a3931499eeb63ea95bb942f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773824661,
-    "wof:lastmodified":1467090142,
+    "wof:lastmodified":1510694142,
     "wof:name":"Pre-Paid Legal Svc Inc",
     "wof:parent_id":85870861,
     "wof:placetype":"venue",

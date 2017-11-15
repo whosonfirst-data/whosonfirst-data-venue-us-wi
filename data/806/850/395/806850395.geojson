@@ -2,14 +2,20 @@
   "id": 806850395,
   "type": "Feature",
   "properties": {
+    "addr:full":"11400 W Bluemound Rd Milwaukee WI 53226",
+    "addr:housenumber":"11400",
+    "addr:postcode":"53226",
+    "addr:street":"W Bluemound Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.056118,43.035803,-88.056118,43.035803",
     "geom:latitude":43.035803,
     "geom:longitude":-88.056118,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11400 W Bluemound Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125156441,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54vTDK7CSODQPYut88dpPN_43.035803_-88.056118@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601610,
-    "wof:geomhash":"37cbdd0c6a474d7d4c9bc804a8783bee",
+    "wof:geomhash":"5f21b9afab8dafd1128b71ba74b74573",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806850395,
-    "wof:lastmodified":1467090475,
+    "wof:lastmodified":1510694598,
     "wof:name":"Northrop Grumman Space",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",

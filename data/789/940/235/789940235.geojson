@@ -2,14 +2,20 @@
   "id": 789940235,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 Egg Harbor Rd Sturgeon Bay WI 54235",
+    "addr:housenumber":"",
+    "addr:postcode":"54235",
+    "addr:street":"Egg Harbor Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.369297,44.843571,-87.369297,44.843571",
     "geom:latitude":44.843571,
     "geom:longitude":-87.369297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1201 Egg Harbor Rd",
     "sg:city":"Sturgeon Bay",
     "sg:classifiers":[
@@ -45,13 +51,14 @@
         102081831,
         85688517
     ],
+    "wof:brand_id":1125152495,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vzcpeC1eNvGo6dJHaXghy_44.843571_-87.369297@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591789,
-    "wof:geomhash":"0ff098e1817ba01af47eceb53183690d",
+    "wof:geomhash":"0945199df2bd91f610d912f274c37e29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":789940235,
-    "wof:lastmodified":1467090220,
+    "wof:lastmodified":1510613138,
     "wof:name":"Team Tires Plus",
     "wof:parent_id":85851043,
     "wof:placetype":"venue",

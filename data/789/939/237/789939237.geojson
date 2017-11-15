@@ -2,9 +2,14 @@
   "id": 789939237,
   "type": "Feature",
   "properties": {
+    "addr:full":"442 Shervin Dr Burlington WI 53105",
+    "addr:housenumber":"442",
+    "addr:postcode":"53105",
+    "addr:street":"Shervin Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.304262,42.718684,-88.304262,42.718684",
     "geom:latitude":42.718684,
     "geom:longitude":-88.304262,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494989,
+        85633793,
+        101732343,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UHoIx064eSTdKYVrvVprr_42.718684_-88.304262@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462591782,
     "wof:geomhash":"1a4bce8ba07996ea1705fd45a79508c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494989,
+            "locality_id":101732343,
+            "region_id":85688517,
+            "venue_id":789939237
+        }
+    ],
     "wof:id":789939237,
-    "wof:lastmodified":1467090220,
+    "wof:lastmodified":1492103475,
     "wof:name":"McCann Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

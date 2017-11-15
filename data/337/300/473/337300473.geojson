@@ -2,9 +2,14 @@
   "id": 337300473,
   "type": "Feature",
   "properties": {
+    "addr:full":"3526 W Fond du Lac Ave Milwaukee WI 53216",
+    "addr:housenumber":"3526",
+    "addr:postcode":"53216",
+    "addr:street":"W Fond Du Lac Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.958174,43.075839,-87.958174,43.075839",
     "geom:latitude":43.075839,
     "geom:longitude":-87.958174,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870825,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870825
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"cdf64ba8b61de0c50c9c1291a023089b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870825,
             "region_id":85688517,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":337300473,
-    "wof:lastmodified":1467089894,
+    "wof:lastmodified":1491926543,
     "wof:name":"Sherman Park Community Assn",
     "wof:parent_id":85870825,
     "wof:placetype":"venue",

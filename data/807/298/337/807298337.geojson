@@ -2,9 +2,14 @@
   "id": 807298337,
   "type": "Feature",
   "properties": {
+    "addr:full":"12165 W Layton Ave Milwaukee WI 53228",
+    "addr:housenumber":"12165",
+    "addr:postcode":"53228",
+    "addr:street":"W Layton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.069156,42.959029,-88.069156,42.959029",
     "geom:latitude":42.959029,
     "geom:longitude":-88.069156,
@@ -24,7 +29,14 @@
     "sg:postcode":"53228",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494171,
+        85633793,
+        101733073,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qPoG2RrXQnvCjlByM0Gez_42.959029_-88.069156@1294253271"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462605834,
     "wof:geomhash":"39ba6c803c9265263faa9e8514f38a04",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494171,
+            "locality_id":101733073,
+            "region_id":85688517,
+            "venue_id":807298337
+        }
+    ],
     "wof:id":807298337,
-    "wof:lastmodified":1467090598,
+    "wof:lastmodified":1492103538,
     "wof:name":"Kingdom Hall Jhovahs Witnesses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

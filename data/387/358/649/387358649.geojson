@@ -2,9 +2,14 @@
   "id": 387358649,
   "type": "Feature",
   "properties": {
+    "addr:full":"3947 Weatherwood Trl Verona WI 53593",
+    "addr:housenumber":"3947",
+    "addr:postcode":"53593",
+    "addr:street":"Weatherwood Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.597549,43.069957,-89.597549,43.069957",
     "geom:latitude":43.069957,
     "geom:longitude":-89.597549,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"a2b0ad2715075ddc73d59f6f5b86de15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":387358649,
-    "wof:lastmodified":1467089926,
+    "wof:lastmodified":1491894051,
     "wof:name":"NBS-Wisconsin",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

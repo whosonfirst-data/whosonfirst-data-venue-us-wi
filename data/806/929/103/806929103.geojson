@@ -2,14 +2,20 @@
   "id": 806929103,
   "type": "Feature",
   "properties": {
+    "addr:full":"4893 Finger Rd Green Bay WI 54311",
+    "addr:housenumber":"4893",
+    "addr:postcode":"54311",
+    "addr:street":"Finger Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.839374,44.487549,-87.839374,44.487549",
     "geom:latitude":44.487549,
     "geom:longitude":-87.839374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4893 Finger Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081867,
         85810409
     ],
+    "wof:brand_id":1125151095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18tuGgoZN5KVWDUCmzo0ki_44.487549_-87.839374@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602266,
-    "wof:geomhash":"46580355540445c9621266ea4e942591",
+    "wof:geomhash":"bf414c8738e9d064c8ee979b44cd5ef5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806929103,
-    "wof:lastmodified":1467090493,
+    "wof:lastmodified":1510699972,
     "wof:name":"Stanley Home Products",
     "wof:parent_id":85810409,
     "wof:placetype":"venue",

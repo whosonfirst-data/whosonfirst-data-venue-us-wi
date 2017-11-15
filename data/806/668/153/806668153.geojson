@@ -2,14 +2,20 @@
   "id": 806668153,
   "type": "Feature",
   "properties": {
+    "addr:full":"2665 Almesbury Ave Brookfield WI 53045",
+    "addr:housenumber":"2665",
+    "addr:postcode":"53045",
+    "addr:street":"Almesbury Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.179547,43.067906,-88.179547,43.067906",
     "geom:latitude":43.067906,
     "geom:longitude":-88.179547,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2665 Almesbury Ave",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125151795,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kxWjaMhk5dLZq5WFKMaxN_43.067906_-88.179547@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600064,
-    "wof:geomhash":"029082ee74d086ddccab549a6b0732c6",
+    "wof:geomhash":"176e0d876d2f56df01c6734bcf2ddaa8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806668153,
-    "wof:lastmodified":1467090434,
+    "wof:lastmodified":1510699960,
     "wof:name":"National Society of Daugh",
     "wof:parent_id":85815589,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807397287,
   "type": "Feature",
   "properties": {
+    "addr:full":"9542 S 58th St Franklin WI 53132",
+    "addr:housenumber":"9542",
+    "addr:postcode":"53132",
+    "addr:street":"S 58Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.988701,42.867901,-87.988701,42.867901",
     "geom:latitude":42.867901,
     "geom:longitude":-87.988701,
@@ -27,7 +32,14 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MdCq0iuNL7OjOnut0FxuR_42.867901_-87.988701@1303262806"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462607216,
     "wof:geomhash":"a698369d14137a649d2f6efed9d6312e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":807397287
+        }
+    ],
     "wof:id":807397287,
-    "wof:lastmodified":1467090637,
+    "wof:lastmodified":1492098700,
     "wof:name":"Habermehl Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

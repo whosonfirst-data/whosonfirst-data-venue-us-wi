@@ -2,9 +2,14 @@
   "id": 387262735,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 State St Racine WI 53404",
+    "addr:housenumber":"1800",
+    "addr:postcode":"53404",
+    "addr:street":"State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.804581,42.735109,-87.804581,42.735109",
     "geom:latitude":42.735109,
     "geom:longitude":-87.804581,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85827169,
+        102191575,
+        404494985,
         85633793,
-        101732315,
+        101732325,
         102081763,
-        85827169
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"05f638a2d55b3b456597a0f640e9c16f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
-            "locality_id":101732315,
+            "localadmin_id":404494985,
+            "locality_id":101732325,
             "neighbourhood_id":85827169,
             "region_id":85688517,
             "venue_id":387262735
         }
     ],
     "wof:id":387262735,
-    "wof:lastmodified":1467089928,
+    "wof:lastmodified":1492108889,
     "wof:name":"Lincoln School Historic Apts",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",

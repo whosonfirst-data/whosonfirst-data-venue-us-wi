@@ -2,9 +2,14 @@
   "id": 807170513,
   "type": "Feature",
   "properties": {
+    "addr:full":"213 E Verleen Ave Waunakee WI 53597",
+    "addr:housenumber":"213",
+    "addr:postcode":"53597",
+    "addr:street":"E Verleen Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.454112,43.197098,-89.454112,43.197098",
     "geom:latitude":43.197098,
     "geom:longitude":-89.454112,
@@ -27,12 +32,7 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_503QL9OGiLGpQCaTuiO95Q_43.197098_-89.454112@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462604489,
     "wof:geomhash":"43168c5ade24827399d0650f6ccbdaef",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807170513
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807170513,
-    "wof:lastmodified":1467090558,
+    "wof:lastmodified":1491935723,
     "wof:name":"Parallax Information Service",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790183407,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 E Church St Belleville WI 53508",
+    "addr:housenumber":"130",
+    "addr:postcode":"53508",
+    "addr:street":"E Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.532343,42.857745,-89.532343,42.857745",
     "geom:latitude":42.857745,
     "geom:longitude":-89.532343,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"130 E Church St",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85804673,
         102081795
     ],
+    "wof:brand_id":1125156395,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YeJ1rI10S500zcMPahKjI_42.857745_-89.532343@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593803,
-    "wof:geomhash":"80c95924aa1741669323d16407ce7559",
+    "wof:geomhash":"720063daeb4a966079174c349bbf79e8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790183407,
-    "wof:lastmodified":1467090267,
+    "wof:lastmodified":1510699926,
     "wof:name":"First United Church Of Christ",
     "wof:parent_id":85804673,
     "wof:placetype":"venue",

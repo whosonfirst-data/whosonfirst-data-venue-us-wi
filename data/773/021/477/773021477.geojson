@@ -2,14 +2,20 @@
   "id": 773021477,
   "type": "Feature",
   "properties": {
+    "addr:full":"923 N Westhill Blvd Appleton WI 54914",
+    "addr:housenumber":"923",
+    "addr:postcode":"54914",
+    "addr:street":"N Westhill Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.46125,44.269593,-88.46125,44.269593",
     "geom:latitude":44.269593,
     "geom:longitude":-88.46125,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"923 N Westhill Blvd",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":420574675,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EgPZqjsIsAgmiMoKvBTdV_44.269593_-88.461250@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462582477,
-    "wof:geomhash":"5c96c49645913f03cba371191c2781e6",
+    "wof:geomhash":"a22962d28c5acff36087fb2b12cf89a7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773021477,
-    "wof:lastmodified":1467089939,
+    "wof:lastmodified":1510604079,
     "wof:name":"Petsmart",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

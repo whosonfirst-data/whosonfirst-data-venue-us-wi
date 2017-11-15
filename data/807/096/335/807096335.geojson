@@ -2,9 +2,14 @@
   "id": 807096335,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 Kay Dr Waunakee WI 53597",
+    "addr:housenumber":"308",
+    "addr:postcode":"53597",
+    "addr:street":"Kay Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.464902,43.188865,-89.464902,43.188865",
     "geom:latitude":43.188865,
     "geom:longitude":-89.464902,
@@ -28,12 +33,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oZ9e2Eh0SdRoCijmS9fXH_43.188865_-89.464902@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462603679,
     "wof:geomhash":"ef3fe5a75730052ab649fa54552e42e6",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807096335
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807096335,
-    "wof:lastmodified":1467090535,
+    "wof:lastmodified":1491935715,
     "wof:name":"Powerhouse Electric",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

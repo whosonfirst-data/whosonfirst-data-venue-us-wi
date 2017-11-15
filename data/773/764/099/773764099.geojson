@@ -2,14 +2,20 @@
   "id": 773764099,
   "type": "Feature",
   "properties": {
+    "addr:full":"650 N Westhill Blvd Appleton WI 54914",
+    "addr:housenumber":"650",
+    "addr:postcode":"54914",
+    "addr:street":"N Westhill Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.46092,44.265804,-88.46092,44.265804",
     "geom:latitude":44.265804,
     "geom:longitude":-88.46092,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"650 N Westhill Blvd",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125157803,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67YcMYWFJuAkTFsCiCOKrE_44.265804_-88.460920@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588200,
-    "wof:geomhash":"c3e72860936d31a5eedaaa2390c2b30c",
+    "wof:geomhash":"e6b7d7b52c8e16ea9930c0d36824a977",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773764099,
-    "wof:lastmodified":1467090129,
+    "wof:lastmodified":1510694857,
     "wof:name":"Charter Funding",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

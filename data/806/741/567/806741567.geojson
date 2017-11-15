@@ -2,14 +2,20 @@
   "id": 806741567,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 Delafield St Waukesha WI 53188",
+    "addr:housenumber":"1111",
+    "addr:postcode":"53188",
+    "addr:street":"Delafield St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.24141,43.024803,-88.24141,43.024803",
     "geom:latitude":43.024803,
     "geom:longitude":-88.24141,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1111 Delafield St",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125159043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LqpfYtU54L0w0cThtjlzH_43.024803_-88.241410@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600693,
-    "wof:geomhash":"a400a3d7ac20b946d15998b1d74d3263",
+    "wof:geomhash":"61c8378f7271913ab60161912d20092c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806741567,
-    "wof:lastmodified":1467090451,
+    "wof:lastmodified":1510613107,
     "wof:name":"Medical Center Pharmacy",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773652959,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 S Wisconsin St Elkhorn WI 53121",
+    "addr:housenumber":"11",
+    "addr:postcode":"53121",
+    "addr:street":"S Wisconsin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.543465,42.67174,-88.543465,42.67174",
     "geom:latitude":42.67174,
     "geom:longitude":-88.543465,
@@ -29,7 +34,14 @@
         "jeweler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494705,
+        85633793,
+        101732245,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33SHKpQsCmecGgMZgKW3Nw_42.671740_-88.543465@1294253271"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462587347,
     "wof:geomhash":"8570389c9ebf719215e4b1531bac9824",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404494705,
+            "locality_id":101732245,
+            "region_id":85688517,
+            "venue_id":773652959
+        }
+    ],
     "wof:id":773652959,
-    "wof:lastmodified":1467090103,
+    "wof:lastmodified":1492102982,
     "wof:name":"Biederman Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

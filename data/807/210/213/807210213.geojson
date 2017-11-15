@@ -2,14 +2,20 @@
   "id": 807210213,
   "type": "Feature",
   "properties": {
+    "addr:full":"1250 Radisson St Green Bay WI 54302",
+    "addr:housenumber":"1250",
+    "addr:postcode":"54302",
+    "addr:street":"Radisson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.98834,44.525309,-87.98834,44.525309",
     "geom:latitude":44.525309,
     "geom:longitude":-87.98834,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1250 Radisson St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125154889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yFhuqyjYfan1cacatmSmT_44.525309_-87.988340@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604902,
-    "wof:geomhash":"405230f55a48a63ee0705fd8da079c6c",
+    "wof:geomhash":"c994348fa55f453f6da8ceae88fa9d6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807210213,
-    "wof:lastmodified":1467090570,
+    "wof:lastmodified":1510697719,
     "wof:name":"International Union-Oper Engrs",
     "wof:parent_id":85877949,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806891053,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 W Main St Waunakee WI 53597",
+    "addr:housenumber":"300",
+    "addr:postcode":"53597",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.458539,43.191991,-89.458539,43.191991",
     "geom:latitude":43.191991,
     "geom:longitude":-89.458539,
@@ -27,12 +32,7 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sLqwkWkM4eO7J3uYZxE7g_43.191991_-89.458539@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462601940,
     "wof:geomhash":"115e7792d05c1b866cbd9ca7dc58af8d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806891053
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806891053,
-    "wof:lastmodified":1467090484,
+    "wof:lastmodified":1491935708,
     "wof:name":"First Baptist Church",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

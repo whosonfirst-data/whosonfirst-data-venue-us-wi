@@ -2,14 +2,20 @@
   "id": 773235683,
   "type": "Feature",
   "properties": {
+    "addr:full":"6636 Mineral Point Rd Madison WI 53705",
+    "addr:housenumber":"6636",
+    "addr:postcode":"53705",
+    "addr:street":"Mineral Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.49669,43.060835,-89.49669,43.060835",
     "geom:latitude":43.060835,
     "geom:longitude":-89.49669,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6636 Mineral Point Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125151789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2s377z0yYOelWwt0P7RzmG_43.060835_-89.496690@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584186,
-    "wof:geomhash":"2ba41976ab0f29c0486fcf2a8f035c81",
+    "wof:geomhash":"a97d25fded425a5a0f950d3c859dea22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773235683,
-    "wof:lastmodified":1467089997,
+    "wof:lastmodified":1510694976,
     "wof:name":"Insty-Prints",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",

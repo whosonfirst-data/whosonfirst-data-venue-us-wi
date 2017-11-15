@@ -2,14 +2,20 @@
   "id": 773544723,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 E Mifflin St Madison WI 53703",
+    "addr:housenumber":"312",
+    "addr:postcode":"53703",
+    "addr:street":"E Mifflin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.381579,43.078223,-89.381579,43.078223",
     "geom:latitude":43.078223,
     "geom:longitude":-89.381579,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"312 E Mifflin St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125157441,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_652IZmj257FQxGG8mBvSpg_43.078223_-89.381579@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586520,
-    "wof:geomhash":"f13d45257ad248616d08e20b0815d90c",
+    "wof:geomhash":"55bd7cdcb31a61567ea98fe6ac2a4786",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773544723,
-    "wof:lastmodified":1467090078,
+    "wof:lastmodified":1510697434,
     "wof:name":"Market Basket",
     "wof:parent_id":85878871,
     "wof:placetype":"venue",

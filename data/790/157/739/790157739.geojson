@@ -2,14 +2,20 @@
   "id": 790157739,
   "type": "Feature",
   "properties": {
+    "addr:full":"452 W 6th Ave Oshkosh WI 54902",
+    "addr:housenumber":"452",
+    "addr:postcode":"54902",
+    "addr:street":"W 6Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.549092,44.012452,-88.549092,44.012452",
     "geom:latitude":44.012452,
     "geom:longitude":-88.549092,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"452 W 6th Ave",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081801,
         85688517
     ],
+    "wof:brand_id":1125151969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Mm7mGNDNoBsI7QMmsFLXy_44.012452_-88.549092@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593575,
-    "wof:geomhash":"91405b9cbbc3bb2a5cd9eb636632e0a2",
+    "wof:geomhash":"93fd4aeff6eae0b642efb9883e03d339",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790157739,
-    "wof:lastmodified":1467090262,
+    "wof:lastmodified":1510613289,
     "wof:name":"American Bowling Congress",
     "wof:parent_id":85851167,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186143641,
   "type": "Feature",
   "properties": {
+    "addr:full":"3720 N 41st St Milwaukee WI 53216",
+    "addr:housenumber":"3720",
+    "addr:postcode":"53216",
+    "addr:street":"N 41St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.96418,43.085611,-87.96418,43.085611",
     "geom:latitude":43.085611,
     "geom:longitude":-87.96418,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870825,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870825
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"377f960da51d2d75102acea557997ace",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870825,
             "region_id":85688517,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":186143641,
-    "wof:lastmodified":1467089917,
+    "wof:lastmodified":1491926533,
     "wof:name":"Unity Sewer Water Excav LLC",
     "wof:parent_id":85870825,
     "wof:placetype":"venue",

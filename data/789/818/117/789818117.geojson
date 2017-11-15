@@ -2,14 +2,20 @@
   "id": 789818117,
   "type": "Feature",
   "properties": {
+    "addr:full":"3415 Gateway Rd Brookfield WI 53045",
+    "addr:housenumber":"3415",
+    "addr:postcode":"53045",
+    "addr:street":"Gateway Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.181231,43.081279,-88.181231,43.081279",
     "geom:latitude":43.081279,
     "geom:longitude":-88.181231,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3415 Gateway Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125154793,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hHsWjot6kAWqckcqha0gN_43.081279_-88.181231@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590774,
-    "wof:geomhash":"ce2aa3bb03935e982449c0bfb83d5b26",
+    "wof:geomhash":"58c3314a78a8454edbff96889ec34fb3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789818117,
-    "wof:lastmodified":1467090196,
+    "wof:lastmodified":1510693707,
     "wof:name":"Pro Staff",
     "wof:parent_id":85815589,
     "wof:placetype":"venue",

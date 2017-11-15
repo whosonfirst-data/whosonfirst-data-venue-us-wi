@@ -2,14 +2,20 @@
   "id": 773338207,
   "type": "Feature",
   "properties": {
+    "addr:full":"1687 S Westwoods Rd New Berlin WI 53146",
+    "addr:housenumber":"1687",
+    "addr:postcode":"53146",
+    "addr:street":"S Westwoods Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.156884,43.014193,-88.156884,43.014193",
     "geom:latitude":43.014193,
     "geom:longitude":-88.156884,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1687 S Westwoods Rd",
     "sg:city":"New Berlin",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":420575451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KBesqS1YBCIbzcaF25oCx_43.014193_-88.156884@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584970,
-    "wof:geomhash":"40ed882d76484911a4043eaa6c1b7b2b",
+    "wof:geomhash":"ac42fbd807900db99aa4993e2d9081a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773338207,
-    "wof:lastmodified":1467090030,
+    "wof:lastmodified":1510602071,
     "wof:name":"Motion Industries Inc",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807359609,
   "type": "Feature",
   "properties": {
+    "addr:full":"2725 W Oklahoma Ave Milwaukee WI 53215",
+    "addr:housenumber":"2725",
+    "addr:postcode":"53215",
+    "addr:street":"W Oklahoma Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.949064,42.98835,-87.949064,42.98835",
     "geom:latitude":42.98835,
     "geom:longitude":-87.949064,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2725 W Oklahoma Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,13 +52,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125150681,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34PrQz9n1jFkKZcdYXkf3h_42.988350_-87.949064@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606643,
-    "wof:geomhash":"9e76856856c1a0bfdba79831464f61ca",
+    "wof:geomhash":"8ff420782188093cd882de08cbce8bcb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":807359609,
-    "wof:lastmodified":1467090621,
+    "wof:lastmodified":1510698854,
     "wof:name":"Noodles & Company",
     "wof:parent_id":85870955,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773700083,
   "type": "Feature",
   "properties": {
+    "addr:full":"1250 Swan Rd De Pere WI 54115",
+    "addr:housenumber":"1250",
+    "addr:postcode":"54115",
+    "addr:street":"Swan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.041997,44.428757,-88.041997,44.428757",
     "geom:latitude":44.428757,
     "geom:longitude":-88.041997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1250 Swan Rd",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125155039,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gv9YY1lhdEvSGaEOHsSHd_44.428757_-88.041997@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587726,
-    "wof:geomhash":"1d31edcd84a853f6330972f4dd2a045d",
+    "wof:geomhash":"f8df7e5a332dee6b19c1662809103a26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773700083,
-    "wof:lastmodified":1467090114,
+    "wof:lastmodified":1510694957,
     "wof:name":"New Life Christian Fellowship",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

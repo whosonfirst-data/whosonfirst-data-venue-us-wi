@@ -2,9 +2,14 @@
   "id": 354394753,
   "type": "Feature",
   "properties": {
+    "addr:full":"1030 N 6th St Milwaukee WI 53212",
+    "addr:housenumber":"1030",
+    "addr:postcode":"53212",
+    "addr:street":"N 6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.918845,43.043902,-87.918845,43.043902",
     "geom:latitude":43.043902,
     "geom:longitude":-87.918845,
@@ -29,11 +34,13 @@
     "sg:website":"www.parking.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85882371,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85882371
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"78fffb1a9e1e5b7851d6b9e64b73bbb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85882371,
             "region_id":85688517,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":354394753,
-    "wof:lastmodified":1467089934,
+    "wof:lastmodified":1491887074,
     "wof:name":"CPS Parking",
     "wof:parent_id":85882371,
     "wof:placetype":"venue",

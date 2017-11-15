@@ -2,14 +2,20 @@
   "id": 807364313,
   "type": "Feature",
   "properties": {
+    "addr:full":"2965 Cahill Main Madison WI 53711",
+    "addr:housenumber":"2965",
+    "addr:postcode":"53711",
+    "addr:street":"Cahill Main",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.424846,43.016574,-89.424846,43.016574",
     "geom:latitude":43.016574,
     "geom:longitude":-89.424846,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2965 Cahill Main",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081795,
         85878883
     ],
+    "wof:brand_id":1125156315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BbW42nOXpk4KXHNGYcQJF_43.016574_-89.424846@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606712,
-    "wof:geomhash":"a1d21145cbeaeb225cf7634e6ba9c53e",
+    "wof:geomhash":"96e53589b768b2296f7347ab0a472bb2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807364313,
-    "wof:lastmodified":1467090623,
+    "wof:lastmodified":1510693709,
     "wof:name":"Tony Romas",
     "wof:parent_id":85878883,
     "wof:placetype":"venue",

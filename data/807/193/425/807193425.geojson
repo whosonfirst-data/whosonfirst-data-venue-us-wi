@@ -2,14 +2,20 @@
   "id": 807193425,
   "type": "Feature",
   "properties": {
+    "addr:full":"904 E Main St Waunakee WI 53597",
+    "addr:housenumber":"904",
+    "addr:postcode":"53597",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.441516,43.191964,-89.441516,43.191964",
     "geom:latitude":43.191964,
     "geom:longitude":-89.441516,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"904 E Main St",
     "sg:city":"Waunakee",
     "sg:classifiers":[
@@ -24,30 +30,18 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
+    "wof:brand_id":1125150099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kkNVgQ3068uHWuxRpadMn_43.191964_-89.441516@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604723,
-    "wof:geomhash":"821f3176de52956cde033f1a5170cc8d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807193425
-        }
-    ],
+    "wof:geomhash":"644a1f9a5facb0b6b375a1b30c20665d",
+    "wof:hierarchy":[],
     "wof:id":807193425,
-    "wof:lastmodified":1467090565,
+    "wof:lastmodified":1510695713,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

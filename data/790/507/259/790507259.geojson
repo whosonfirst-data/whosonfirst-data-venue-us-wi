@@ -2,14 +2,20 @@
   "id": 790507259,
   "type": "Feature",
   "properties": {
+    "addr:full":"281 N Casaloma Dr Appleton WI 54913",
+    "addr:housenumber":"281",
+    "addr:postcode":"54913",
+    "addr:street":"N Casaloma Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.476173,44.265733,-88.476173,44.265733",
     "geom:latitude":44.265733,
     "geom:longitude":-88.476173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"281 N Casaloma Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125154249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bqHnLudbEUuLsD4BXCdlr_44.265733_-88.476173@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596428,
-    "wof:geomhash":"93dea91814a1ca0c866af6398dee9c5a",
+    "wof:geomhash":"4349a402fe6f84c84b69bc85754cf511",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790507259,
-    "wof:lastmodified":1467090334,
+    "wof:lastmodified":1510695159,
     "wof:name":"S&K Famous Brand Menswear",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

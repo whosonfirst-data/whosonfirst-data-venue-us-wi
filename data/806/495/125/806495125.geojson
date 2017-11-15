@@ -2,14 +2,20 @@
   "id": 806495125,
   "type": "Feature",
   "properties": {
+    "addr:full":"1202 N Sherman Ave Madison WI 53704",
+    "addr:housenumber":"1202",
+    "addr:postcode":"53704",
+    "addr:street":"N Sherman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.363872,43.113188,-89.363872,43.113188",
     "geom:latitude":43.113188,
     "geom:longitude":-89.363872,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1202 N Sherman Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125151075,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56DHhLIdxcAqLMUGsGxJpO_43.113188_-89.363872@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598584,
-    "wof:geomhash":"6e704f29613ed98721c819f8f217e832",
+    "wof:geomhash":"e227f7f06aa9f14ab7b572eae6e65819",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806495125,
-    "wof:lastmodified":1467090393,
+    "wof:lastmodified":1510696086,
     "wof:name":"M & I Bank",
     "wof:parent_id":85878829,
     "wof:placetype":"venue",

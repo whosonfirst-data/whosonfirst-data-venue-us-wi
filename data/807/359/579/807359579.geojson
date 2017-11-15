@@ -2,14 +2,20 @@
   "id": 807359579,
   "type": "Feature",
   "properties": {
+    "addr:full":"1105 W Lincoln Ave Milwaukee WI 53215",
+    "addr:housenumber":"1105",
+    "addr:postcode":"53215",
+    "addr:street":"W Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.926341,43.002595,-87.926341,43.002595",
     "geom:latitude":43.002595,
     "geom:longitude":-87.926341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1105 W Lincoln Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125154443,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0G0vbocuVJBKnm5vRdYPwl_43.002595_-87.926341@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606643,
-    "wof:geomhash":"d47aaf3ee1f411849efd5c7acd21e56b",
+    "wof:geomhash":"0eb969ef03875e79730a960f231816fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807359579,
-    "wof:lastmodified":1467090621,
+    "wof:lastmodified":1510694785,
     "wof:name":"La Salsa",
     "wof:parent_id":85894491,
     "wof:placetype":"venue",

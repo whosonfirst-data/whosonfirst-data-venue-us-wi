@@ -2,9 +2,14 @@
   "id": 790064177,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Raemisch Rd Waunakee WI 53597",
+    "addr:housenumber":"220",
+    "addr:postcode":"53597",
+    "addr:street":"Raemisch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.437017,43.187745,-89.437017,43.187745",
     "geom:latitude":43.187745,
     "geom:longitude":-89.437017,
@@ -27,12 +32,7 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CpkODORL3k3LlaIGSFlRs_43.187745_-89.437017@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462592850,
     "wof:geomhash":"502ce835fac3e820a15c5c609c4d7e36",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790064177
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790064177,
-    "wof:lastmodified":1467090244,
+    "wof:lastmodified":1491935714,
     "wof:name":"Central States Construction",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

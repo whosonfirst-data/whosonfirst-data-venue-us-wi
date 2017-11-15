@@ -2,9 +2,14 @@
   "id": 387892229,
   "type": "Feature",
   "properties": {
+    "addr:full":"920 61st St Kenosha WI 53143",
+    "addr:housenumber":"920",
+    "addr:postcode":"53143",
+    "addr:street":"61St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.822422,42.579591,-87.822422,42.579591",
     "geom:latitude":42.579591,
     "geom:longitude":-87.822422,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85810813,
+        102191575,
+        404493393,
         85633793,
         101732567,
         102081309,
-        85810813
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"462af6d163ea5a92c9c73de94bc9a05f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081309,
+            "localadmin_id":404493393,
             "locality_id":101732567,
             "neighbourhood_id":85810813,
             "region_id":85688517,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":387892229,
-    "wof:lastmodified":1467089923,
+    "wof:lastmodified":1492112089,
     "wof:name":"Montessori Chld Hse of Kenosha",
     "wof:parent_id":85810813,
     "wof:placetype":"venue",

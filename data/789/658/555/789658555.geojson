@@ -2,9 +2,14 @@
   "id": 789658555,
   "type": "Feature",
   "properties": {
+    "addr:full":"6191 S 108th St Hales Corners WI 53130",
+    "addr:housenumber":"6191",
+    "addr:postcode":"53130",
+    "addr:street":"S 108Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.048489,42.933568,-88.048489,42.933568",
     "geom:latitude":42.933568,
     "geom:longitude":-88.048489,
@@ -24,7 +29,14 @@
     "sg:postcode":"53130",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494175,
+        85633793,
+        101733077,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Qkxsm2juW22xiTChx4jTj_42.933568_-88.048489@1294253271"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462589519,
     "wof:geomhash":"7bf9ddf0c100494397e01b1dd3e6d475",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494175,
+            "locality_id":101733077,
+            "region_id":85688517,
+            "venue_id":789658555
+        }
+    ],
     "wof:id":789658555,
-    "wof:lastmodified":1467090165,
+    "wof:lastmodified":1492111875,
     "wof:name":"Hales Corners Foot Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

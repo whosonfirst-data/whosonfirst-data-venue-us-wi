@@ -2,9 +2,14 @@
   "id": 807082741,
   "type": "Feature",
   "properties": {
+    "addr:full":"7240 Edgehill Rd Greendale WI 53129",
+    "addr:housenumber":"7240",
+    "addr:postcode":"53129",
+    "addr:street":"Edgehill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.004335,42.940742,-88.004335,42.940742",
     "geom:latitude":42.940742,
     "geom:longitude":-88.004335,
@@ -24,7 +29,14 @@
     "sg:postcode":"53129",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404492089,
+        85633793,
+        101733071,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CmcYP1FDjfi0xa6Lyxxeb_42.940742_-88.004335@1294253271"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462603556,
     "wof:geomhash":"5120e251a52421ab5426361a76625862",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492089,
+            "locality_id":101733071,
+            "region_id":85688517,
+            "venue_id":807082741
+        }
+    ],
     "wof:id":807082741,
-    "wof:lastmodified":1467090531,
+    "wof:lastmodified":1492103526,
     "wof:name":"Foleys Piano Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

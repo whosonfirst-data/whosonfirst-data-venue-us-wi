@@ -2,14 +2,20 @@
   "id": 806672393,
   "type": "Feature",
   "properties": {
+    "addr:full":"1002 6th St E Menomonie WI 54751",
+    "addr:housenumber":"1002",
+    "addr:postcode":"54751",
+    "addr:street":"6Th St E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.923387,44.873737,-91.923387,44.873737",
     "geom:latitude":44.873737,
     "geom:longitude":-91.923387,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1002 6th St E",
     "sg:city":"Menomonie",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081747,
         85688517
     ],
+    "wof:brand_id":1125150919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0p6bHXQZJ2d3rygYRIKu0J_44.873737_-91.923387@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600103,
-    "wof:geomhash":"e6c8ad6695981815b785c13c0beccb2a",
+    "wof:geomhash":"175e4f5a8cf2333787df628d017384a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806672393,
-    "wof:lastmodified":1467090435,
+    "wof:lastmodified":1510613227,
     "wof:name":"Grace Episcopal Church",
     "wof:parent_id":85837813,
     "wof:placetype":"venue",

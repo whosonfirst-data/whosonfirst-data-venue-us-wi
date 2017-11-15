@@ -2,14 +2,20 @@
   "id": 807022975,
   "type": "Feature",
   "properties": {
+    "addr:full":"5706 Durand Ave Racine WI 53406",
+    "addr:housenumber":"5706",
+    "addr:postcode":"53406",
+    "addr:street":"Durand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.849392,42.697378,-87.849392,42.697378",
     "geom:latitude":42.697378,
     "geom:longitude":-87.849392,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5706 Durand Ave",
     "sg:city":"Racine",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081763,
         85688517
     ],
+    "wof:brand_id":1125154771,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MuTKSyVXyMj5XZX6gUg7H_42.697378_-87.849392@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603061,
-    "wof:geomhash":"612f239ffe216b260c3907ad4b7db25e",
+    "wof:geomhash":"ed114f1ec3f195f01814e5117d2f5cd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807022975,
-    "wof:lastmodified":1467090515,
+    "wof:lastmodified":1510699042,
     "wof:name":"Mastercuts",
     "wof:parent_id":85854859,
     "wof:placetype":"venue",

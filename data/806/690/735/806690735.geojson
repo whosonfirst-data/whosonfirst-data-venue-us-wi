@@ -2,14 +2,20 @@
   "id": 806690735,
   "type": "Feature",
   "properties": {
+    "addr:full":"12308 Corporate Pkwy Mequon WI 53092",
+    "addr:housenumber":"12308",
+    "addr:postcode":"53092",
+    "addr:street":"Corporate Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.922041,43.24113,-87.922041,43.24113",
     "geom:latitude":43.24113,
     "geom:longitude":-87.922041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12308 Corporate Pkwy",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081873,
         85688517
     ],
+    "wof:brand_id":1125151651,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79OTsxKy80yECy5qZLim6Z_43.241130_-87.922041@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600264,
-    "wof:geomhash":"d8c66cbac7176609eff73c0b65fac061",
+    "wof:geomhash":"1f8d13fd5c752226af0ffac8b5bc0ab1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806690735,
-    "wof:lastmodified":1467090439,
+    "wof:lastmodified":1510695900,
     "wof:name":"KWIK KOPY Printing",
     "wof:parent_id":85829269,
     "wof:placetype":"venue",

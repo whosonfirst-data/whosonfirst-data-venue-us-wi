@@ -2,14 +2,20 @@
   "id": 807373151,
   "type": "Feature",
   "properties": {
+    "addr:full":"850 N Plankinton Ave Milwaukee WI 53203",
+    "addr:housenumber":"850",
+    "addr:postcode":"53203",
+    "addr:street":"N Plankinton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.913096,43.040986,-87.913096,43.040986",
     "geom:latitude":43.040986,
     "geom:longitude":-87.913096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"850 N Plankinton Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125155101,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lxvmnQEVzOZRXZZor0kDi_43.041315_-87.913351@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462606831,
-    "wof:geomhash":"38cc2e063541bf8ce67282d402d785c3",
+    "wof:geomhash":"5881e27d3b4045ab1fe765496b49b0f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807373151,
-    "wof:lastmodified":1467090627,
+    "wof:lastmodified":1510699583,
     "wof:name":"Benihana",
     "wof:parent_id":85882371,
     "wof:placetype":"venue",

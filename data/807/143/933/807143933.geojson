@@ -2,9 +2,14 @@
   "id": 807143933,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 76th St Franksville WI 53126",
+    "addr:housenumber":"110",
+    "addr:postcode":"53126",
+    "addr:street":"76Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.010913,42.843422,-88.010913,42.843422",
     "geom:latitude":42.843422,
     "geom:longitude":-88.010913,
@@ -27,7 +32,10 @@
         "topsoil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550141
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PZoC0j00DIEacHaLEfyxz_42.843422_-88.010913@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462604202,
     "wof:geomhash":"20af29a9d7e7714fa2f73e06e6483f88",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550141,
+            "venue_id":807143933
+        }
+    ],
     "wof:id":807143933,
-    "wof:lastmodified":1467090550,
+    "wof:lastmodified":1492098736,
     "wof:name":"Prokop Brothers",
     "wof:parent_id":420550141,
     "wof:placetype":"venue",

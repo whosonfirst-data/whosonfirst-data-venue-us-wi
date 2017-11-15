@@ -2,9 +2,14 @@
   "id": 773328875,
   "type": "Feature",
   "properties": {
+    "addr:full":"6160 Briggs Rd Waunakee WI 53597",
+    "addr:housenumber":"6160",
+    "addr:postcode":"53597",
+    "addr:street":"Briggs Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.469756,43.119816,-89.469756,43.119816",
     "geom:latitude":43.119816,
     "geom:longitude":-89.469756,
@@ -27,12 +32,7 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WFedg4m4tHOcqXKa8dVZq_43.119816_-89.469756@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462584901,
     "wof:geomhash":"2960bffe9070641d75a3220149e1899c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773328875
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773328875,
-    "wof:lastmodified":1467090028,
+    "wof:lastmodified":1491935708,
     "wof:name":"Hilltop Entertainment",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

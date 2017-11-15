@@ -2,9 +2,14 @@
   "id": 807391627,
   "type": "Feature",
   "properties": {
+    "addr:full":"1674 Walburg Rd Burlington WI 53105",
+    "addr:housenumber":"1674",
+    "addr:postcode":"53105",
+    "addr:street":"Walburg Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.315667,42.620758,-88.315667,42.620758",
     "geom:latitude":42.620758,
     "geom:longitude":-88.315667,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85865441,
+        102191575,
+        404494891,
         85633793,
         101733599,
         102081763,
-        85865441
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"99d09848f9632a1ad072baddf1d93a7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
+            "localadmin_id":404494891,
             "locality_id":101733599,
             "neighbourhood_id":85865441,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":807391627,
-    "wof:lastmodified":1467090635,
+    "wof:lastmodified":1492098792,
     "wof:name":"Interior Enhancement",
     "wof:parent_id":85865441,
     "wof:placetype":"venue",

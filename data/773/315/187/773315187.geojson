@@ -2,9 +2,14 @@
   "id": 773315187,
   "type": "Feature",
   "properties": {
+    "addr:full":"1120 S Division St Waunakee WI 53597",
+    "addr:housenumber":"1120",
+    "addr:postcode":"53597",
+    "addr:street":"S Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.446825,43.181089,-89.446825,43.181089",
     "geom:latitude":43.181089,
     "geom:longitude":-89.446825,
@@ -29,12 +34,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07f7qql17LHxUunnELK5NB_43.181089_-89.446825@1294253271"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462584806,
     "wof:geomhash":"dc9729e5a3d6c8171e9a07767f6926a9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773315187
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773315187,
-    "wof:lastmodified":1467090025,
+    "wof:lastmodified":1491935726,
     "wof:name":"Rohr's Papering & Painting Svc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

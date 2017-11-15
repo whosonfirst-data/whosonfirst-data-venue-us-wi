@@ -2,9 +2,14 @@
   "id": 773219473,
   "type": "Feature",
   "properties": {
+    "addr:full":"4401 Westport Rd Madison WI 53704",
+    "addr:housenumber":"4401",
+    "addr:postcode":"53704",
+    "addr:street":"Westport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.39696,43.144034,-89.39696,43.144034",
     "geom:latitude":43.144034,
     "geom:longitude":-89.39696,
@@ -27,12 +32,7 @@
         "welding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ikdqbd1HW8idlV7iAgdP9_43.144034_-89.396960@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462584070,
     "wof:geomhash":"2d331ab9fb1da88262c6da59d22c2347",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773219473
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773219473,
-    "wof:lastmodified":1467089992,
+    "wof:lastmodified":1491935682,
     "wof:name":"Cully's Weld Works",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

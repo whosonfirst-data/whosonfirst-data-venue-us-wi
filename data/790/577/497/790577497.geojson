@@ -2,9 +2,14 @@
   "id": 790577497,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Raemisch Rd Waunakee WI 53597",
+    "addr:housenumber":"201",
+    "addr:postcode":"53597",
+    "addr:street":"Raemisch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.436937,43.186932,-89.436937,43.186932",
     "geom:latitude":43.186932,
     "geom:longitude":-89.436937,
@@ -27,12 +32,7 @@
         "surgical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AVJ12Er2BYRk5dfaCfL9t_43.186932_-89.436937@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462597018,
     "wof:geomhash":"b3286addb7b0de4174a72d452b7f047b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790577497
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790577497,
-    "wof:lastmodified":1467090350,
+    "wof:lastmodified":1491935682,
     "wof:name":"Owens & Minor Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

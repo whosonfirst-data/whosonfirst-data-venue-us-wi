@@ -2,9 +2,14 @@
   "id": 790487503,
   "type": "Feature",
   "properties": {
+    "addr:full":"9124 Aspen Grove Ln Madison WI 53717",
+    "addr:housenumber":"9124",
+    "addr:postcode":"53717",
+    "addr:street":"Aspen Grove Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.545173,43.080939,-89.545173,43.080939",
     "geom:latitude":43.080939,
     "geom:longitude":-89.545173,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"88006857fb710892208838d564809065",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":790487503,
-    "wof:lastmodified":1467090329,
+    "wof:lastmodified":1491894111,
     "wof:name":"Sycamoredekalb LLC",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

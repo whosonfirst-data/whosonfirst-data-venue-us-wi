@@ -2,14 +2,20 @@
   "id": 806878803,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 E Walnut St Green Bay WI 54301",
+    "addr:housenumber":"500",
+    "addr:postcode":"54301",
+    "addr:street":"E Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.010469,44.512316,-88.010469,44.512316",
     "geom:latitude":44.512316,
     "geom:longitude":-88.010469,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 E Walnut St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125151789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cxEEBt1OajflTnZ1OJwvR_44.512316_-88.010469@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601845,
-    "wof:geomhash":"a6ae8d68197877152e7cb739635595c9",
+    "wof:geomhash":"38a5e53b3d273813a4562cac753caaaf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806878803,
-    "wof:lastmodified":1467090482,
+    "wof:lastmodified":1510694976,
     "wof:name":"Insty-Prints",
     "wof:parent_id":85877935,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387947473,
   "type": "Feature",
   "properties": {
+    "addr:full":"7119 W North Ave Milwaukee WI 53213",
+    "addr:housenumber":"7119",
+    "addr:postcode":"53213",
+    "addr:street":"W North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.001934,43.060666,-88.001934,43.060666",
     "geom:latitude":43.060666,
     "geom:longitude":-88.001934,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870829,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870829
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"6cf521f3e617aac2a8c7666c4d60e0cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870829,
             "region_id":85688517,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":387947473,
-    "wof:lastmodified":1467089930,
+    "wof:lastmodified":1491910479,
     "wof:name":"KLM Mortgage",
     "wof:parent_id":85870829,
     "wof:placetype":"venue",

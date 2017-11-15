@@ -2,14 +2,20 @@
   "id": 807337059,
   "type": "Feature",
   "properties": {
+    "addr:full":"812 S Fisk St Green Bay WI 54304",
+    "addr:housenumber":"812",
+    "addr:postcode":"54304",
+    "addr:street":"S Fisk St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.062001,44.519228,-88.062001,44.519228",
     "geom:latitude":44.519228,
     "geom:longitude":-88.062001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"812 S Fisk St",
     "sg:city":"Green Bay",
     "sg:classifiers":[],
@@ -31,13 +37,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125153899,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tlQ78oDPAbHRO7lB4wysK_44.519228_-88.062001@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462606310,
-    "wof:geomhash":"9b9cabe4e5980c80f4a3a9dfd550e875",
+    "wof:geomhash":"a8d72dd3cdba7e7aac364168a8954e1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807337059,
-    "wof:lastmodified":1467090612,
+    "wof:lastmodified":1510698864,
     "wof:name":"Shell Oil Products U S",
     "wof:parent_id":85877951,
     "wof:placetype":"venue",

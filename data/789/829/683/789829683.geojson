@@ -2,14 +2,20 @@
   "id": 789829683,
   "type": "Feature",
   "properties": {
+    "addr:full":"1803 Stewart Ave Aniwa WI 54401",
+    "addr:housenumber":"1803",
+    "addr:postcode":"54401",
+    "addr:street":"Stewart Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.656466,44.959057,-89.656466,44.959057",
     "geom:latitude":44.959057,
     "geom:longitude":-89.656466,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1803 Stewart Ave",
     "sg:city":"Aniwa",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081881,
         85868295
     ],
+    "wof:brand_id":1125151021,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36cMfBNHc2lSde7xzNrb2M_44.959057_-89.656466@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590869,
-    "wof:geomhash":"55c9413726061c26fcb7a51ed9ccfa74",
+    "wof:geomhash":"e95f0a3e9b844723e4bee05fcc1b9242",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789829683,
-    "wof:lastmodified":1467090199,
+    "wof:lastmodified":1510699657,
     "wof:name":"Standard Register Company",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",

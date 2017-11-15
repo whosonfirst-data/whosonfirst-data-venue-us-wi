@@ -2,9 +2,14 @@
   "id": 806697215,
   "type": "Feature",
   "properties": {
+    "addr:full":"81 Stam St Williams Bay WI 53191",
+    "addr:housenumber":"81",
+    "addr:postcode":"53191",
+    "addr:street":"Stam St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.54872,42.572092,-88.54872,42.572092",
     "geom:latitude":42.572092,
     "geom:longitude":-88.54872,
@@ -27,13 +32,7 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35o7ovMPGXHhlss4uiwsM8_42.572092_-88.548720@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462600313,
     "wof:geomhash":"f7e08bbe42736497dcf868134f8fda5a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806697215
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806697215,
-    "wof:lastmodified":1467090440,
+    "wof:lastmodified":1492109457,
     "wof:name":"Fellowship-Christian Believers",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

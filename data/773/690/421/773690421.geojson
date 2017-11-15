@@ -2,9 +2,14 @@
   "id": 773690421,
   "type": "Feature",
   "properties": {
+    "addr:full":"1765 State Rd 11 Burlington WI 53105",
+    "addr:housenumber":"1765;11",
+    "addr:postcode":"53105",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.377118,42.683697,-88.377118,42.683697",
     "geom:latitude":42.683697,
     "geom:longitude":-88.377118,
@@ -28,7 +33,13 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404492469,
+        85633793,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xU763ipjikfY8GOl2R3K5_42.683697_-88.377118@1294253271"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462587617,
     "wof:geomhash":"5d3d439b5e46ea65a9ef411ec631f98f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404492469,
+            "region_id":85688517,
+            "venue_id":773690421
+        }
+    ],
     "wof:id":773690421,
-    "wof:lastmodified":1467090112,
+    "wof:lastmodified":1492108877,
     "wof:name":"Buddy Short Salvage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

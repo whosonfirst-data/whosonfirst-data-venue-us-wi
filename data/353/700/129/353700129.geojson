@@ -2,9 +2,14 @@
   "id": 353700129,
   "type": "Feature",
   "properties": {
+    "addr:full":"6032 8th Ave Kenosha WI 53143",
+    "addr:housenumber":"6032",
+    "addr:postcode":"53143",
+    "addr:street":"8Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.820091,42.579877,-87.820091,42.579877",
     "geom:latitude":42.579877,
     "geom:longitude":-87.820091,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85810813,
+        102191575,
+        404493393,
         85633793,
         101732567,
         102081309,
-        85810813
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"1bf9bdc42a92d7aa8da2bb56b268656f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081309,
+            "localadmin_id":404493393,
             "locality_id":101732567,
             "neighbourhood_id":85810813,
             "region_id":85688517,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":353700129,
-    "wof:lastmodified":1467089891,
+    "wof:lastmodified":1492112089,
     "wof:name":"Armitage Academy",
     "wof:parent_id":85810813,
     "wof:placetype":"venue",

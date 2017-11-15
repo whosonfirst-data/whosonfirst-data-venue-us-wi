@@ -2,9 +2,14 @@
   "id": 806437075,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 Knightsbridge Rd Waunakee WI 53597",
+    "addr:housenumber":"601",
+    "addr:postcode":"53597",
+    "addr:street":"Knightsbridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.448174,43.183851,-89.448174,43.183851",
     "geom:latitude":43.183851,
     "geom:longitude":-89.448174,
@@ -27,12 +32,7 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SbTKWcLOjAduQ2UJ0xkUy_43.183851_-89.448174@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462598142,
     "wof:geomhash":"878ef4ed475e869f17e091a1d5b52b41",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806437075
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806437075,
-    "wof:lastmodified":1467090379,
+    "wof:lastmodified":1491935682,
     "wof:name":"Native Engineering Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

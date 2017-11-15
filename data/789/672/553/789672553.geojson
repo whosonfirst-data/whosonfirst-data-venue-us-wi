@@ -2,14 +2,20 @@
   "id": 789672553,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 N 6th St Sheboygan WI 53081",
+    "addr:housenumber":"525",
+    "addr:postcode":"53081",
+    "addr:street":"N 6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.709533,43.7506,-87.709533,43.7506",
     "geom:latitude":43.7506,
     "geom:longitude":-87.709533,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"525 N 6th St",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":1125159691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_607TxwNtK6mlSRRLryC0d8_43.750600_-87.709533@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462589645,
-    "wof:geomhash":"b2c5ce15b7c26f629ae155d955fde358",
+    "wof:geomhash":"f0229083c6c175e5ae2de9fed144b80e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":789672553,
-    "wof:lastmodified":1467090168,
+    "wof:lastmodified":1510695064,
     "wof:name":"Sheriffs Department",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773499871,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 E Magnolia Ave Manitowoc WI 54220",
+    "addr:housenumber":"700",
+    "addr:postcode":"54220",
+    "addr:street":"E Magnolia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.639344,44.117173,-87.639344,44.117173",
     "geom:latitude":44.117173,
     "geom:longitude":-87.639344,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"700 E Magnolia Ave",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":420575923,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rF2kcWMkkoMIKVU48fSAB_44.117173_-87.639344@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586204,
-    "wof:geomhash":"74dbefd572a1cacc9246daf766a72f56",
+    "wof:geomhash":"5b78583a1a570d0551278e51c73a8688",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773499871,
-    "wof:lastmodified":1467090068,
+    "wof:lastmodified":1510602881,
     "wof:name":"Fancy Nails",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806894229,
   "type": "Feature",
   "properties": {
+    "addr:full":"7921 337th Ave Twin Lakes WI 53105",
+    "addr:housenumber":"7921",
+    "addr:postcode":"53105",
+    "addr:street":"337Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.218727,42.561532,-88.218727,42.561532",
     "geom:latitude":42.561532,
     "geom:longitude":-88.218727,
@@ -30,7 +35,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aeDCz4ND1ypFNO8A62I6c_42.561532_-88.218727@1294253271"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1462601963,
     "wof:geomhash":"a005dac24112cfd1bd3557e74e6e0221",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":806894229
+        }
+    ],
     "wof:id":806894229,
-    "wof:lastmodified":1467090485,
+    "wof:lastmodified":1492103473,
     "wof:name":"Edwaard F Whalen Htng & Air",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

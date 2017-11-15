@@ -2,14 +2,20 @@
   "id": 806894843,
   "type": "Feature",
   "properties": {
+    "addr:full":"2880 Jackson St Oshkosh WI 54901",
+    "addr:housenumber":"2880",
+    "addr:postcode":"54901",
+    "addr:street":"Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.542816,44.052933,-88.542816,44.052933",
     "geom:latitude":44.052933,
     "geom:longitude":-88.542816,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2880 Jackson St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85827909,
         102081801
     ],
+    "wof:brand_id":420574295,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OIwnBvv2ahzh5HZVLxUrv_44.052933_-88.542816@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601973,
-    "wof:geomhash":"9070d93215027b1572c5300194a09bb7",
+    "wof:geomhash":"194ed7035842178547378f746a5c29d8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806894843,
-    "wof:lastmodified":1467090485,
+    "wof:lastmodified":1510604594,
     "wof:name":"Fedex",
     "wof:parent_id":85827909,
     "wof:placetype":"venue",

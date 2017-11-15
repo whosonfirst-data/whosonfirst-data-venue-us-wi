@@ -2,14 +2,20 @@
   "id": 806817833,
   "type": "Feature",
   "properties": {
+    "addr:full":"1735 W Silver Spring Dr Milwaukee WI 53209",
+    "addr:housenumber":"1735",
+    "addr:postcode":"53209",
+    "addr:street":"W Silver Spring Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.933065,43.118832,-87.933065,43.118832",
     "geom:latitude":43.118832,
     "geom:longitude":-87.933065,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1735 W Silver Spring Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125155625,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y5USHmGdCv6Toq4UEgwM0_43.118832_-87.933065@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601324,
-    "wof:geomhash":"c7992a650c2652cc71df962237604372",
+    "wof:geomhash":"3dc17f3561d4c130f9ef85230917a23d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806817833,
-    "wof:lastmodified":1467090468,
+    "wof:lastmodified":1510697625,
     "wof:name":"Jewel-Osco",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",

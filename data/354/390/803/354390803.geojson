@@ -2,9 +2,14 @@
   "id": 354390803,
   "type": "Feature",
   "properties": {
+    "addr:full":"4940 Hawthorne Dr New Berlin WI 53151",
+    "addr:housenumber":"4940",
+    "addr:postcode":"53151",
+    "addr:street":"Hawthorne Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.070135,42.955406,-88.070135,42.955406",
     "geom:latitude":42.955406,
     "geom:longitude":-88.070135,
@@ -31,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        420550229,
+        102191575,
+        404492511,
         85633793,
         101733503,
-        102081741
+        102081741,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,20 @@
     "wof:geomhash":"df0c0419ac3004c329524be1109fdcc4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081741,
+            "localadmin_id":404492511,
             "locality_id":101733503,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420550229,
             "region_id":85688517,
             "venue_id":354390803
         }
     ],
     "wof:id":354390803,
-    "wof:lastmodified":1467089938,
+    "wof:lastmodified":1492088061,
     "wof:name":"Consultants Unlimited",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

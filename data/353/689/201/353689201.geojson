@@ -2,9 +2,14 @@
   "id": 353689201,
   "type": "Feature",
   "properties": {
+    "addr:full":"10310 Lakeside Dr Mukwonago WI 53149",
+    "addr:housenumber":"10310",
+    "addr:postcode":"53149",
+    "addr:street":"Lakeside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.347325,42.85623,-88.347325,42.85623",
     "geom:latitude":42.85623,
     "geom:longitude":-88.347325,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688517,
         85633793,
-        102081883,
-        85865443
+        85865443,
+        102081883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"016bb58fa8c37fa06ed76ad50e682b0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081883,
-            "locality_id":-1,
             "neighbourhood_id":85865443,
             "region_id":85688517,
             "venue_id":353689201
         }
     ],
     "wof:id":353689201,
-    "wof:lastmodified":1467089891,
+    "wof:lastmodified":1492096436,
     "wof:name":"Chase Contracting LLC",
     "wof:parent_id":85865443,
     "wof:placetype":"venue",

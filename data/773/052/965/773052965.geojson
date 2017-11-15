@@ -2,9 +2,14 @@
   "id": 773052965,
   "type": "Feature",
   "properties": {
+    "addr:full":"5936 Hogan Rd Waunakee WI 53597",
+    "addr:housenumber":"5936",
+    "addr:postcode":"53597",
+    "addr:street":"Hogan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.42186,43.189175,-89.42186,43.189175",
     "geom:latitude":43.189175,
     "geom:longitude":-89.42186,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878869,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878869
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"7e2ee10a422ef41b3687c56b5a2cfb40",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878869,
             "region_id":85688517,
@@ -53,9 +62,9 @@
         }
     ],
     "wof:id":773052965,
-    "wof:lastmodified":1467089949,
+    "wof:lastmodified":1491935705,
     "wof:name":"Fabrita Orchard & Garden",
-    "wof:parent_id":85878869,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

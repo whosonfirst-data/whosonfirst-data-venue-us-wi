@@ -2,14 +2,20 @@
   "id": 354225997,
   "type": "Feature",
   "properties": {
+    "addr:full":"823 Union Ave Sheboygan WI 53081",
+    "addr:housenumber":"823",
+    "addr:postcode":"53081",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.714352,43.731829,-87.714352,43.731829",
     "geom:latitude":43.731829,
     "geom:longitude":-87.714352,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"823 Union Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101733397,
         102081869
     ],
+    "wof:brand_id":1125150141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IAKkuGvkzInb7JjSb9QA6_43.731829_-87.714352@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"965c4ebc72b1fe943694f5a64c35719a",
+    "wof:geomhash":"e67ae3d6d8bc71c39d378ed72b6df967",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":354225997,
-    "wof:lastmodified":1467089934,
+    "wof:lastmodified":1510694772,
     "wof:name":"Wesley United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789951981,
   "type": "Feature",
   "properties": {
+    "addr:full":"735 Lois Dr Sun Prairie WI 53590",
+    "addr:housenumber":"735",
+    "addr:postcode":"53590",
+    "addr:street":"Lois Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.236512,43.187649,-89.236512,43.187649",
     "geom:latitude":43.187649,
     "geom:longitude":-89.236512,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"735 Lois Dr",
     "sg:city":"Sun Prairie",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85878835,
         102081795
     ],
+    "wof:brand_id":1125150109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28GW99AQ9cGJeZrSKPq34L_43.187649_-89.236512@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591935,
-    "wof:geomhash":"c6d88d94561689a1c6d49d2ab47c04a0",
+    "wof:geomhash":"38d712de2ffd1e4000c2f4a1b34c64fb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":789951981,
-    "wof:lastmodified":1467090222,
+    "wof:lastmodified":1510694636,
     "wof:name":"Uswa",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

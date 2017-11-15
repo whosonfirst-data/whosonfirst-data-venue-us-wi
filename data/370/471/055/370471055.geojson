@@ -2,14 +2,20 @@
   "id": 370471055,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 16th Ave Monroe WI 53566",
+    "addr:housenumber":"505",
+    "addr:postcode":"53566",
+    "addr:street":"16Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.63991,42.607795,-89.63991,42.607795",
     "geom:latitude":42.607795,
     "geom:longitude":-89.63991,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"505 16th Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101732713,
         102081827
     ],
+    "wof:brand_id":1125159699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Eftay4EstAWOr8g6fiJmB_42.607795_-89.639910@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"ac852ff99e3cd45d5e044b6e6c5abaf0",
+    "wof:geomhash":"2efeabba25949a0db54e4bf9c2df53db",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":370471055,
-    "wof:lastmodified":1467089901,
+    "wof:lastmodified":1510695065,
     "wof:name":"St John's United Church-Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

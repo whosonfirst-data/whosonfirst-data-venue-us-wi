@@ -2,9 +2,14 @@
   "id": 353741075,
   "type": "Feature",
   "properties": {
+    "addr:full":"4129 23rd Ave Kenosha WI 53140",
+    "addr:housenumber":"4129",
+    "addr:postcode":"53140",
+    "addr:street":"23Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.836859,42.597327,-87.836859,42.597327",
     "geom:latitude":42.597327,
     "geom:longitude":-87.836859,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85810813,
+        102191575,
+        404493393,
         85633793,
         101732567,
         102081309,
-        85810813
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"9ec181affb5f0141e2de695a7a8a63ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081309,
+            "localadmin_id":404493393,
             "locality_id":101732567,
             "neighbourhood_id":85810813,
             "region_id":85688517,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":353741075,
-    "wof:lastmodified":1467089886,
+    "wof:lastmodified":1492108777,
     "wof:name":"Liaison Productions",
     "wof:parent_id":85810813,
     "wof:placetype":"venue",

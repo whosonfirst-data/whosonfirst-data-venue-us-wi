@@ -2,9 +2,14 @@
   "id": 807397987,
   "type": "Feature",
   "properties": {
+    "addr:full":"9151 W Loomis Rd Franklin WI 53132",
+    "addr:housenumber":"9151",
+    "addr:postcode":"53132",
+    "addr:street":"W Loomis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.028884,42.900659,-88.028884,42.900659",
     "geom:latitude":42.900659,
     "geom:longitude":-88.028884,
@@ -25,7 +30,14 @@
     "sg:province":"WI",
     "sg:website":"http://www.mcfls.org/franklin",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PjvSeDWanLbLYrQQNyqCk_42.900659_-88.028884@1303262806"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1462607238,
     "wof:geomhash":"6e33a24d0701ab729c55f9b1c45ea150",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":807397987
+        }
+    ],
     "wof:id":807397987,
-    "wof:lastmodified":1467090637,
+    "wof:lastmodified":1492103522,
     "wof:name":"Franklin Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

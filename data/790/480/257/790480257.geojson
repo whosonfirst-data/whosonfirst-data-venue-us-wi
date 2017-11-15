@@ -2,9 +2,14 @@
   "id": 790480257,
   "type": "Feature",
   "properties": {
+    "addr:full":"22500 Plank Rd Kansasville WI 53139",
+    "addr:housenumber":"22500",
+    "addr:postcode":"53139",
+    "addr:street":"Plank Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.104337,42.727637,-88.104337,42.727637",
     "geom:latitude":42.727637,
     "geom:longitude":-88.104337,
@@ -24,7 +29,13 @@
     "sg:postcode":"53139",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404492317,
+        85633793,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dVi926gvJKtVeeMhNasqP_42.727637_-88.104337@1294253271"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462596192,
     "wof:geomhash":"4368b204376272fe00f4c526849aeddf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404492317,
+            "region_id":85688517,
+            "venue_id":790480257
+        }
+    ],
     "wof:id":790480257,
-    "wof:lastmodified":1467090327,
+    "wof:lastmodified":1492103572,
     "wof:name":"August Storck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

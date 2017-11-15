@@ -2,9 +2,14 @@
   "id": 806762635,
   "type": "Feature",
   "properties": {
+    "addr:full":"18825 1st St Union Grove WI 53182",
+    "addr:housenumber":"18825",
+    "addr:postcode":"53182",
+    "addr:street":"1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.035795,42.669611,-88.035795,42.669611",
     "geom:latitude":42.669611,
     "geom:longitude":-88.035795,
@@ -27,7 +32,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493397,
+        85633793,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RXtZmoxFosgaMesKdi0HY_42.669611_-88.035795@1294253271"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462600868,
     "wof:geomhash":"4bdc63cea978848953a577235fefb6e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493397,
+            "region_id":85688517,
+            "venue_id":806762635
+        }
+    ],
     "wof:id":806762635,
-    "wof:lastmodified":1467090455,
+    "wof:lastmodified":1492103495,
     "wof:name":"Union Square Hometown CAF",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

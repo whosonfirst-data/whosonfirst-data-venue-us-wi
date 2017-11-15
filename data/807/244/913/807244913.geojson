@@ -2,14 +2,20 @@
   "id": 807244913,
   "type": "Feature",
   "properties": {
+    "addr:full":"9396 State Hwy 16 Onalaska WI 54650",
+    "addr:housenumber":"9396",
+    "addr:postcode":"54650",
+    "addr:street":"State Hwy 16",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.195325,43.871263,-91.195325,43.871263",
     "geom:latitude":43.871263,
     "geom:longitude":-91.195325,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9396 State Hwy 16",
     "sg:city":"Onalaska",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081301,
         85825891
     ],
+    "wof:brand_id":1125157349,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WSO5ecVfQYIdbSK59zgTv_43.871263_-91.195325@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605276,
-    "wof:geomhash":"53356ea22a37b908f5f213859bc36e0f",
+    "wof:geomhash":"94331fa2f8eeba4dd0bfb440c5640788",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807244913,
-    "wof:lastmodified":1467090581,
+    "wof:lastmodified":1510699579,
     "wof:name":"CHI-Chis",
     "wof:parent_id":85825891,
     "wof:placetype":"venue",

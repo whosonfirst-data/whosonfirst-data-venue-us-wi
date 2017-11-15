@@ -2,14 +2,20 @@
   "id": 773730473,
   "type": "Feature",
   "properties": {
+    "addr:full":"7515 W Layton Ave Milwaukee WI 53220",
+    "addr:housenumber":"7515",
+    "addr:postcode":"53220",
+    "addr:street":"W Layton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.007385,42.959186,-88.007385,42.959186",
     "geom:latitude":42.959186,
     "geom:longitude":-88.007385,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7515 W Layton Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         404494171,
         101733073
     ],
+    "wof:brand_id":1125151241,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1X9EHEjNpWXNphbcYsg81O_42.959186_-88.007385@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587951,
-    "wof:geomhash":"12f28a5330e47752cd8954738dfed1ae",
+    "wof:geomhash":"79d5b026f4fb18e263f6f063321ba69a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":773730473,
-    "wof:lastmodified":1467090121,
+    "wof:lastmodified":1510697263,
     "wof:name":"Vitamin Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

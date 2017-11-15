@@ -2,14 +2,20 @@
   "id": 790258695,
   "type": "Feature",
   "properties": {
+    "addr:full":"658 W Ridgeview Dr Appleton WI 54911",
+    "addr:housenumber":"658",
+    "addr:postcode":"54911",
+    "addr:street":"W Ridgeview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.413092,44.289485,-88.413092,44.289485",
     "geom:latitude":44.289485,
     "geom:longitude":-88.413092,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"658 W Ridgeview Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125157699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CCgs9PgwhTTvyCgZrCsKm_44.289485_-88.413092@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462594411,
-    "wof:geomhash":"9e03e6fbb3c4a1b93790169a9396b9fb",
+    "wof:geomhash":"68df49aead780f592f6f8a1b9f26ff9b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790258695,
-    "wof:lastmodified":1467090282,
+    "wof:lastmodified":1510694902,
     "wof:name":"Physicians Mutual Insurance Co",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

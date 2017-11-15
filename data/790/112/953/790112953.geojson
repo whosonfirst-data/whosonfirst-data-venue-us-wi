@@ -2,9 +2,14 @@
   "id": 790112953,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Meadow Oak Trl Waunakee WI 53597",
+    "addr:housenumber":"100",
+    "addr:postcode":"53597",
+    "addr:street":"Meadow Oak Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.451388,43.185959,-89.451388,43.185959",
     "geom:latitude":43.185959,
     "geom:longitude":-89.451388,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GJUYaIc7kWhpIgb6nMsjW_43.185959_-89.451388@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462593239,
     "wof:geomhash":"c581fd2d220981e808523769bfe88301",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790112953
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790112953,
-    "wof:lastmodified":1467090254,
+    "wof:lastmodified":1491935727,
     "wof:name":"Diane Baal",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773353381,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 E Main St Waunakee WI 53597",
+    "addr:housenumber":"300",
+    "addr:postcode":"53597",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.449646,43.191897,-89.449646,43.191897",
     "geom:latitude":43.191897,
     "geom:longitude":-89.449646,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KkBemxeKSKsTHNetrkXIU_43.191897_-89.449646@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462585074,
     "wof:geomhash":"3f72933b8a4cc2def8ba9fb19581646f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773353381
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773353381,
-    "wof:lastmodified":1467090034,
+    "wof:lastmodified":1491935674,
     "wof:name":"Elements of Design By Anne",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

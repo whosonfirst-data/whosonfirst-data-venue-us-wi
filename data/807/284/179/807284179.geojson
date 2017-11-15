@@ -2,9 +2,14 @@
   "id": 807284179,
   "type": "Feature",
   "properties": {
+    "addr:full":"1302 Spahn Dr Waunakee WI 53597",
+    "addr:housenumber":"1302",
+    "addr:postcode":"53597",
+    "addr:street":"Spahn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.469522,43.177976,-89.469522,43.177976",
     "geom:latitude":43.177976,
     "geom:longitude":-89.469522,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26t9C05pVUgroIERgLJHIV_43.177976_-89.469522@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462605689,
     "wof:geomhash":"60f49ff9aab9db895b000c7f86e5f2bf",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807284179
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807284179,
-    "wof:lastmodified":1467090594,
+    "wof:lastmodified":1491935696,
     "wof:name":"Steve Ingalls",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

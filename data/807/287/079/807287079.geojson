@@ -2,14 +2,20 @@
   "id": 807287079,
   "type": "Feature",
   "properties": {
+    "addr:full":"2245 Hayden Ave Altoona WI 54720",
+    "addr:housenumber":"2245",
+    "addr:postcode":"54720",
+    "addr:street":"Hayden Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.444049,44.805357,-91.444049,44.805357",
     "geom:latitude":44.805357,
     "geom:longitude":-91.444049,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2245 Hayden Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125151761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0As219w8yvzOeZzIdzDII6_44.805357_-91.444049@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605716,
-    "wof:geomhash":"868cbc5a556c46c517723ab123ba5eec",
+    "wof:geomhash":"4be7e1738cf2c2a29f6899575bc475ad",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807287079,
-    "wof:lastmodified":1467090595,
+    "wof:lastmodified":1510693698,
     "wof:name":"Bethlehem Lutheran Church",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

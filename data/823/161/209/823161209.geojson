@@ -2,14 +2,20 @@
   "id": 823161209,
   "type": "Feature",
   "properties": {
+    "addr:full":"6931 N Belmont Ln Milwaukee WI 53217",
+    "addr:housenumber":"6931",
+    "addr:postcode":"53217",
+    "addr:street":"N Belmont Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.90019,43.1429,-87.90019,43.1429",
     "geom:latitude":43.1429,
     "geom:longitude":-87.90019,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6931 N Belmont Ln",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125150269,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UBTWs4WlYsSqpkxklF40N_43.142900_-87.900190@1303262809"
     },
     "wof:country":"US",
     "wof:created":1462607814,
-    "wof:geomhash":"ac57b3a1760c3831d751a52246bf09a8",
+    "wof:geomhash":"495db8f01a1300a55a5d158be2021e42",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":823161209,
-    "wof:lastmodified":1467090653,
+    "wof:lastmodified":1510613305,
     "wof:name":"U.S. Bank",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",

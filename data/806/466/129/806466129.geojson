@@ -2,9 +2,14 @@
   "id": 806466129,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 School Dr Waunakee WI 53597",
+    "addr:housenumber":"101",
+    "addr:postcode":"53597",
+    "addr:street":"School Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.458708,43.184819,-89.458708,43.184819",
     "geom:latitude":43.184819,
     "geom:longitude":-89.458708,
@@ -27,12 +32,7 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RI94nhISmX4dsaKtp6bHe_43.184819_-89.458708@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462598362,
     "wof:geomhash":"56a31c30e2458213cc7be3992b0155b9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806466129
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806466129,
-    "wof:lastmodified":1467090386,
+    "wof:lastmodified":1491935678,
     "wof:name":"North American Mechanical Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

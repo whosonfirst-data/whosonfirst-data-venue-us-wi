@@ -2,9 +2,14 @@
   "id": 773484213,
   "type": "Feature",
   "properties": {
+    "addr:full":"3661 Sequoia Trl Verona WI 53593",
+    "addr:housenumber":"3661",
+    "addr:postcode":"53593",
+    "addr:street":"Sequoia Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.60075,43.057193,-89.60075,43.057193",
     "geom:latitude":43.057193,
     "geom:longitude":-89.60075,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"b1d0fea56a06bd73a9d5f9b7f75e74b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":773484213,
-    "wof:lastmodified":1467090064,
+    "wof:lastmodified":1491894045,
     "wof:name":"New Century LLC",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

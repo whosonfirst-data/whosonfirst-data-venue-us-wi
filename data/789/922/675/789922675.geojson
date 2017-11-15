@@ -2,6 +2,10 @@
   "id": 789922675,
   "type": "Feature",
   "properties": {
+    "addr:full":"2901 University Ave Madison WI 53705",
+    "addr:housenumber":"2901",
+    "addr:postcode":"53705",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789922675,
-    "wof:lastmodified":1467090216,
+    "wof:lastmodified":1472654575,
     "wof:name":"Party Port",
     "wof:parent_id":85868277,
     "wof:placetype":"venue",

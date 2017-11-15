@@ -2,14 +2,20 @@
   "id": 789712739,
   "type": "Feature",
   "properties": {
+    "addr:full":"3225 W Spencer St Appleton WI 54914",
+    "addr:housenumber":"3225",
+    "addr:postcode":"54914",
+    "addr:street":"W Spencer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.451011,44.258603,-88.451011,44.258603",
     "geom:latitude":44.258603,
     "geom:longitude":-88.451011,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3225 W Spencer St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125157281,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5D6b4WCTEITBYfcFIBkFrK_44.258603_-88.451011@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462589953,
-    "wof:geomhash":"8e19a87da3412eadbca4a8ad5b6d0e4a",
+    "wof:geomhash":"c75cd57d9c0d686cad05342872132c51",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789712739,
-    "wof:lastmodified":1467090176,
+    "wof:lastmodified":1510696752,
     "wof:name":"Trane Co",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

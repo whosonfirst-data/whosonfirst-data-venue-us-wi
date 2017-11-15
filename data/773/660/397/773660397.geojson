@@ -2,14 +2,20 @@
   "id": 773660397,
   "type": "Feature",
   "properties": {
+    "addr:full":"1509 N Harmony Dr Janesville WI 53545",
+    "addr:housenumber":"1509",
+    "addr:postcode":"53545",
+    "addr:street":"N Harmony Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.997729,42.704085,-88.997729,42.704085",
     "geom:latitude":42.704085,
     "geom:longitude":-88.997729,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1509 N Harmony Dr",
     "sg:city":"Janesville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081829,
         85688517
     ],
+    "wof:brand_id":420574853,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iULxDKQftCZTPeI6MNqjK_42.704085_-88.997729@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587399,
-    "wof:geomhash":"07b39e902773fa2b114eacda0428718a",
+    "wof:geomhash":"166e5f6c3b5c6a1a17ed57f4c1b0812e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773660397,
-    "wof:lastmodified":1467090105,
+    "wof:lastmodified":1510604531,
     "wof:name":"Ladies Workout Express",
     "wof:parent_id":85803103,
     "wof:placetype":"venue",

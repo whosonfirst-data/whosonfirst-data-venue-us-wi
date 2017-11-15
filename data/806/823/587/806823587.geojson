@@ -2,14 +2,20 @@
   "id": 806823587,
   "type": "Feature",
   "properties": {
+    "addr:full":"918 W Somers St Milwaukee WI 53205",
+    "addr:housenumber":"918",
+    "addr:postcode":"53205",
+    "addr:street":"W Somers St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.922655,43.05008,-87.922655,43.05008",
     "geom:latitude":43.05008,
     "geom:longitude":-87.922655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"918 W Somers St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125157971,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67kj95wZHauc0OiUZMoV4n_43.050080_-87.922655@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601371,
-    "wof:geomhash":"ca54b35c4dad58d81974b2d53523baa0",
+    "wof:geomhash":"5d5ac95f7d5ce745053f26871a7f3ca4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":806823587,
-    "wof:lastmodified":1467090470,
+    "wof:lastmodified":1510697566,
     "wof:name":"Sara Lee Bakery Group Inc",
     "wof:parent_id":420550063,
     "wof:placetype":"venue",

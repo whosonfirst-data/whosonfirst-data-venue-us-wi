@@ -2,9 +2,14 @@
   "id": 790237997,
   "type": "Feature",
   "properties": {
+    "addr:full":"394 Fair Oaks Dr Williams Bay WI 53191",
+    "addr:housenumber":"394",
+    "addr:postcode":"53191",
+    "addr:street":"Fair Oaks Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.556349,42.581814,-88.556349,42.581814",
     "geom:latitude":42.581814,
     "geom:longitude":-88.556349,
@@ -24,7 +29,10 @@
     "sg:postcode":"53191",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Kbn9q0il8k360BZE6sjiK_42.581814_-88.556349@1294253271"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462594235,
     "wof:geomhash":"7dcaf7ecf4bb42f0678f12a4406cb3b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550197,
+            "venue_id":790237997
+        }
+    ],
     "wof:id":790237997,
-    "wof:lastmodified":1467090278,
+    "wof:lastmodified":1492112036,
     "wof:name":"Platinum Custom Homes",
     "wof:parent_id":420550197,
     "wof:placetype":"venue",

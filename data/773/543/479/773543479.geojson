@@ -2,14 +2,20 @@
   "id": 773543479,
   "type": "Feature",
   "properties": {
+    "addr:full":"4103 N 35th St Milwaukee WI 53216",
+    "addr:housenumber":"4103",
+    "addr:postcode":"53216",
+    "addr:street":"N 35Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.957031,43.093504,-87.957031,43.093504",
     "geom:latitude":43.093504,
     "geom:longitude":-87.957031,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4103 N 35th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125150403,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yFG0GGldJSSoBrHuqQZGX_43.093504_-87.957031@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586509,
-    "wof:geomhash":"878df8405525c56b0ca85501bf03913a",
+    "wof:geomhash":"382726fb3a7edd7b63d014140854bf58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773543479,
-    "wof:lastmodified":1467090078,
+    "wof:lastmodified":1510693887,
     "wof:name":"Bethel AME Church",
     "wof:parent_id":85870907,
     "wof:placetype":"venue",

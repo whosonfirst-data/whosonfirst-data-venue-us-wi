@@ -2,9 +2,14 @@
   "id": 807152437,
   "type": "Feature",
   "properties": {
+    "addr:full":"3542 Sabaka Trl Verona WI 53593",
+    "addr:housenumber":"3542",
+    "addr:postcode":"53593",
+    "addr:street":"Sabaka Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.589586,43.046932,-89.589586,43.046932",
     "geom:latitude":43.046932,
     "geom:longitude":-89.589586,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"a21b308904a822804f9903ab8fe093b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":807152437,
-    "wof:lastmodified":1467090553,
+    "wof:lastmodified":1491893978,
     "wof:name":"Mobile Instrs of Wisconsin",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

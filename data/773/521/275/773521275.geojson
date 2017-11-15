@@ -2,14 +2,20 @@
   "id": 773521275,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Cambridge Ave Waukesha WI 53188",
+    "addr:housenumber":"120",
+    "addr:postcode":"53188",
+    "addr:street":"Cambridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.255756,43.008499,-88.255756,43.008499",
     "geom:latitude":43.008499,
     "geom:longitude":-88.255756,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 Cambridge Ave",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125152419,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QCOCYExXjwFe5Le5Kcco8_43.008499_-88.255756@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586351,
-    "wof:geomhash":"858fe6566424f4c14c488ba29b461e00",
+    "wof:geomhash":"d8b1214da7c23bface211dd9426b8b3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773521275,
-    "wof:lastmodified":1467090073,
+    "wof:lastmodified":1510694885,
     "wof:name":"Park Place Apartments",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",

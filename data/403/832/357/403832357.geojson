@@ -2,14 +2,20 @@
   "id": 403832357,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Leroy St Rothschild WI 54474",
+    "addr:housenumber":"101",
+    "addr:postcode":"54474",
+    "addr:street":"Leroy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.627676,44.880658,-89.627676,44.880658",
     "geom:latitude":44.880658,
     "geom:longitude":-89.627676,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 Leroy St",
     "sg:city":"Rothschild",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102081881,
         85865437
     ],
+    "wof:brand_id":1125153707,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TH1eYijtg6d5ahUQ8vxhJ_44.880658_-89.627676@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"09b54f9a2bd8651fadfdee3a03bf1aa5",
+    "wof:geomhash":"8a22a24985fb774afce12d1d2262ece2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":403832357,
-    "wof:lastmodified":1467089917,
+    "wof:lastmodified":1510693862,
     "wof:name":"Pampered Chef",
     "wof:parent_id":85865437,
     "wof:placetype":"venue",

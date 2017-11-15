@@ -2,14 +2,20 @@
   "id": 807092851,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Victor Ct Plymouth WI 53073",
+    "addr:housenumber":"27",
+    "addr:postcode":"53073",
+    "addr:street":"Victor Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.982543,43.753546,-87.982543,43.753546",
     "geom:latitude":43.753546,
     "geom:longitude":-87.982543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"27 Victor Ct",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081869,
         85836705
     ],
+    "wof:brand_id":420574429,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MjXrEyXatZnNnxSo3e6Zz_43.753546_-87.982543@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603643,
-    "wof:geomhash":"3759ae4a47b49dbd8d752a44e4b102f6",
+    "wof:geomhash":"35f78ab08214ff895069250f4a950912",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807092851,
-    "wof:lastmodified":1467090534,
+    "wof:lastmodified":1510604795,
     "wof:name":"Thrivent Financial-Lutherans",
     "wof:parent_id":85836705,
     "wof:placetype":"venue",

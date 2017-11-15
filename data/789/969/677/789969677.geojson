@@ -2,9 +2,14 @@
   "id": 789969677,
   "type": "Feature",
   "properties": {
+    "addr:full":"606 Cooper Rd Waunakee WI 53597",
+    "addr:housenumber":"606",
+    "addr:postcode":"53597",
+    "addr:street":"Cooper Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.4447,43.190969,-89.4447,43.190969",
     "geom:latitude":43.190969,
     "geom:longitude":-89.4447,
@@ -31,12 +36,7 @@
     ],
     "sg:website":"www.germaniadairy.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UyZFlbZPaHVciA410aAop_43.190969_-89.444700@1294253271"
@@ -44,17 +44,9 @@
     "wof:country":"US",
     "wof:created":1462592079,
     "wof:geomhash":"a37e75f732d30c1ddde5e17abc59fab6",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789969677
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789969677,
-    "wof:lastmodified":1467090225,
+    "wof:lastmodified":1491935680,
     "wof:name":"Germania Dairy Automation Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

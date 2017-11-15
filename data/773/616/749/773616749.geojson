@@ -2,14 +2,20 @@
   "id": 773616749,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 E Main St Sun Prairie WI 53590",
+    "addr:housenumber":"215",
+    "addr:postcode":"53590",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.212491,43.183114,-89.212491,43.183114",
     "geom:latitude":43.183114,
     "geom:longitude":-89.212491,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 E Main St",
     "sg:city":"Sun Prairie",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85878835,
         102081795
     ],
+    "wof:brand_id":1125158575,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HMfbY3EtevvmRgleg6Fpt_43.183114_-89.212491@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587068,
-    "wof:geomhash":"4843badc3d651f44bdfb83794384d6c3",
+    "wof:geomhash":"549bb315dbea0132d98d26a8cd0bf31d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773616749,
-    "wof:lastmodified":1467090095,
+    "wof:lastmodified":1510697291,
     "wof:name":"Main Street Barber Shop",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773596565,
   "type": "Feature",
   "properties": {
+    "addr:full":"10365 Hillview Rd Eleva WI 54738",
+    "addr:housenumber":"10365",
+    "addr:postcode":"54738",
+    "addr:street":"Hillview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.407097,44.676633,-91.407097,44.676633",
     "geom:latitude":44.676633,
     "geom:longitude":-91.407097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10365 Hillview Rd",
     "sg:city":"Eleva",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125151709,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dTcEWdRNL4IL90YWlV29k_44.676633_-91.407097@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586920,
-    "wof:geomhash":"eef7b4d74a3d2a17b6ca98e95f01eae1",
+    "wof:geomhash":"53c80e6d77075d68ea78b5b93fd936d0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773596565,
-    "wof:lastmodified":1467090090,
+    "wof:lastmodified":1510693984,
     "wof:name":"American Federation of St",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

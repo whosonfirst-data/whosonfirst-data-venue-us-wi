@@ -2,14 +2,20 @@
   "id": 790005723,
   "type": "Feature",
   "properties": {
+    "addr:full":"4506 Lake Cir Windsor WI 53598",
+    "addr:housenumber":"4506",
+    "addr:postcode":"53598",
+    "addr:street":"Lake Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.344089,43.195775,-89.344089,43.195775",
     "geom:latitude":43.195775,
     "geom:longitude":-89.344089,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4506 Lake Cir",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081795,
         85878869
     ],
+    "wof:brand_id":420573963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EkWxVEujdEw6X4L9tCbmu_43.195775_-89.344089@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592375,
-    "wof:geomhash":"8cb1d1e29a80253a89c00533320d4e54",
+    "wof:geomhash":"95995efa09a542cb0ada95648866f09c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790005723,
-    "wof:lastmodified":1467090233,
+    "wof:lastmodified":1510603289,
     "wof:name":"Super 8 Motel",
     "wof:parent_id":85878869,
     "wof:placetype":"venue",

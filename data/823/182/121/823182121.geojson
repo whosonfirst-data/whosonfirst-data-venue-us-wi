@@ -2,14 +2,20 @@
   "id": 823182121,
   "type": "Feature",
   "properties": {
+    "addr:full":"1905 Mound Ave Beloit WI 53511",
+    "addr:housenumber":"1905",
+    "addr:postcode":"53511",
+    "addr:street":"Mound Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.029036,42.525171,-89.029036,42.525171",
     "geom:latitude":42.525171,
     "geom:longitude":-89.029036,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1905 Mound Ave",
     "sg:city":"Beloit",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102081829,
         85688517
     ],
+    "wof:brand_id":1125152965,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yu1BL7ZBfCYivo7ynU2vl_42.525171_-89.029036@1303262811"
     },
     "wof:country":"US",
     "wof:created":1462608092,
-    "wof:geomhash":"e7305e568555f3abd21ecad634e171b6",
+    "wof:geomhash":"6f42ef6fcf8fc24399d548cd344cdbb4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":823182121,
-    "wof:lastmodified":1467090661,
+    "wof:lastmodified":1510612913,
     "wof:name":"New Zion Baptist Church",
     "wof:parent_id":85812915,
     "wof:placetype":"venue",

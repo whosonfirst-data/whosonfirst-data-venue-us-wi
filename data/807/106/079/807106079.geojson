@@ -2,14 +2,20 @@
   "id": 807106079,
   "type": "Feature",
   "properties": {
+    "addr:full":"1316 W Forest Home Ave Milwaukee WI 53204",
+    "addr:housenumber":"1316",
+    "addr:postcode":"53204",
+    "addr:street":"W Forest Home Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.930864,43.010603,-87.930864,43.010603",
     "geom:latitude":43.010603,
     "geom:longitude":-87.930864,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1316 W Forest Home Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":420575987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7krw63W95OgmeCzL5eQVT5_43.010603_-87.930864@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603795,
-    "wof:geomhash":"e369782c3d562856ec836024d68c35e7",
+    "wof:geomhash":"d286acdfae0108ebc655b0b98998cc67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807106079,
-    "wof:lastmodified":1467090538,
+    "wof:lastmodified":1510622703,
     "wof:name":"Osco Drug",
     "wof:parent_id":85870893,
     "wof:placetype":"venue",

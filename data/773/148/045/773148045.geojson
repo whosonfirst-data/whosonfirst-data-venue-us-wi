@@ -2,14 +2,20 @@
   "id": 773148045,
   "type": "Feature",
   "properties": {
+    "addr:full":"3225 Blueberry Rd Colby WI 54421",
+    "addr:housenumber":"3225",
+    "addr:postcode":"54421",
+    "addr:street":"Blueberry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.277035,44.887755,-90.277035,44.887755",
     "geom:latitude":44.887755,
     "geom:longitude":-90.277035,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3225 Blueberry Rd",
     "sg:city":"Colby",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85832133,
         102081881
     ],
+    "wof:brand_id":1125150223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zJuvhLDEaZLqLvmF5ZEVF_44.887755_-90.277035@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583489,
-    "wof:geomhash":"987822f764d525f443df0afed631bb32",
+    "wof:geomhash":"61a3db8b2eabf2456336884ef4e24cee",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773148045,
-    "wof:lastmodified":1467089973,
+    "wof:lastmodified":1510699320,
     "wof:name":"Natural Resources Dept",
     "wof:parent_id":85832133,
     "wof:placetype":"venue",

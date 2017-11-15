@@ -2,9 +2,14 @@
   "id": 773513061,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 E 2nd St Waunakee WI 53597",
+    "addr:housenumber":"105",
+    "addr:postcode":"53597",
+    "addr:street":"E 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.455107,43.190805,-89.455107,43.190805",
     "geom:latitude":43.190805,
     "geom:longitude":-89.455107,
@@ -27,12 +32,7 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34YeGpsalYYwFmKswpBUYt_43.190805_-89.455107@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462586294,
     "wof:geomhash":"b70136c50ebae4d4c631fd027b6bcebd",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773513061
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773513061,
-    "wof:lastmodified":1467090071,
+    "wof:lastmodified":1491935683,
     "wof:name":"Fehrenbach Studio M",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789907259,
   "type": "Feature",
   "properties": {
+    "addr:full":"5380 State Rd 85 Eau Claire WI 54701",
+    "addr:housenumber":"5380;85",
+    "addr:postcode":"54701",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789907259,
-    "wof:lastmodified":1467090213,
+    "wof:lastmodified":1472654527,
     "wof:name":"Monarch Paving Co",
     "wof:parent_id":85848105,
     "wof:placetype":"venue",

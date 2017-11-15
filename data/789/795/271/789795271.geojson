@@ -2,9 +2,14 @@
   "id": 789795271,
   "type": "Feature",
   "properties": {
+    "addr:full":"2665 Sunset Park Dr Lake Geneva WI 53147",
+    "addr:housenumber":"2665",
+    "addr:postcode":"53147",
+    "addr:street":"Sunset Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.493411,42.589686,-88.493411,42.589686",
     "geom:latitude":42.589686,
     "geom:longitude":-88.493411,
@@ -27,13 +32,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57WBlQcnHaRTJgaoglDQD0_42.589686_-88.493411@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462590607,
     "wof:geomhash":"5ca7a549c53df41da29ff31a332da25a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":789795271
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789795271,
-    "wof:lastmodified":1467090192,
+    "wof:lastmodified":1492103564,
     "wof:name":"Building Systems Inc",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

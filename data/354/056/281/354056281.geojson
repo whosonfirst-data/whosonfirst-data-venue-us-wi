@@ -2,9 +2,14 @@
   "id": 354056281,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 S Park St Madison WI 53715",
+    "addr:housenumber":"20",
+    "addr:postcode":"53715",
+    "addr:street":"S Park St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.400926,43.06656,-89.400926,43.06656",
     "geom:latitude":43.06656,
     "geom:longitude":-89.400926,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85868283,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85868283
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"dddfa1055d2f8046275ec0acbaa15863",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85868283,
             "region_id":85688517,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":354056281,
-    "wof:lastmodified":1467089934,
+    "wof:lastmodified":1491921804,
     "wof:name":"Frank W Kilpatrick Dr",
     "wof:parent_id":85868283,
     "wof:placetype":"venue",

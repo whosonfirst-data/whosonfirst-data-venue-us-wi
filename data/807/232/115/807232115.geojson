@@ -2,9 +2,14 @@
   "id": 807232115,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Lance Dr Twin Lakes WI 53181",
+    "addr:housenumber":"201",
+    "addr:postcode":"53181",
+    "addr:street":"Lance Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.256791,42.5301,-88.256791,42.5301",
     "geom:latitude":42.5301,
     "geom:longitude":-88.256791,
@@ -27,7 +32,14 @@
         "resort"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493323,
+        85633793,
+        101732579,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gGt26JCKsiQE9kMsCD37v_42.530100_-88.256791@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462605136,
     "wof:geomhash":"2f74592b2b02b1549d9ee23c1ea6a588",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493323,
+            "locality_id":101732579,
+            "region_id":85688517,
+            "venue_id":807232115
+        }
+    ],
     "wof:id":807232115,
-    "wof:lastmodified":1467090577,
+    "wof:lastmodified":1492087971,
     "wof:name":"Pink House Resort & Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

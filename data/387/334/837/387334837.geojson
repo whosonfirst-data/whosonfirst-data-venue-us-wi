@@ -2,14 +2,20 @@
   "id": 387334837,
   "type": "Feature",
   "properties": {
+    "addr:full":"1422 Greenwood Rd Greenville WI 54942",
+    "addr:housenumber":"1422",
+    "addr:postcode":"54942",
+    "addr:street":"Greenwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.516387,44.292088,-88.516387,44.292088",
     "geom:latitude":44.292088,
     "geom:longitude":-88.516387,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1422 Greenwood Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125151709,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21tujNmyRIJJJv2uVOpkVT_44.292088_-88.516387@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"175aa0b8bc89fcb4c2d3f52a6fd5243d",
+    "wof:geomhash":"c0743c10222c87bf87386c6913e252a5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":387334837,
-    "wof:lastmodified":1467089924,
+    "wof:lastmodified":1510693984,
     "wof:name":"American Federation of St",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

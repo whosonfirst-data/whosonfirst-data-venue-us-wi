@@ -2,14 +2,20 @@
   "id": 773242773,
   "type": "Feature",
   "properties": {
+    "addr:full":"3020 E College Ave Appleton WI 54915",
+    "addr:housenumber":"3020",
+    "addr:postcode":"54915",
+    "addr:street":"E College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.359723,44.25858,-88.359723,44.25858",
     "geom:latitude":44.25858,
     "geom:longitude":-88.359723,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3020 E College Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081851,
         85688517
     ],
+    "wof:brand_id":1125151979,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56A2Ifk0iXKWB83nxKqyNj_44.258580_-88.359723@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584235,
-    "wof:geomhash":"66f7a7ddbadd3e3e6b9a994f4d076f37",
+    "wof:geomhash":"539424c0a7d9689c3a563274a8a17d73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773242773,
-    "wof:lastmodified":1467089999,
+    "wof:lastmodified":1510695914,
     "wof:name":"Cleaning Authority",
     "wof:parent_id":85857401,
     "wof:placetype":"venue",

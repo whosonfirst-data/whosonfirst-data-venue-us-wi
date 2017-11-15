@@ -2,9 +2,14 @@
   "id": 806746345,
   "type": "Feature",
   "properties": {
+    "addr:full":"1407 Dover Dr Waunakee WI 53597",
+    "addr:housenumber":"1407",
+    "addr:postcode":"53597",
+    "addr:street":"Dover Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.444558,43.179605,-89.444558,43.179605",
     "geom:latitude":43.179605,
     "geom:longitude":-89.444558,
@@ -27,12 +32,7 @@
         "photographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dt3khf3gOFiWKr2H9RtEx_43.179605_-89.444558@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462600732,
     "wof:geomhash":"7052290fde245b61df020edf1c2027f0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806746345
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806746345,
-    "wof:lastmodified":1467090452,
+    "wof:lastmodified":1491935730,
     "wof:name":"Portraits By Christine",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

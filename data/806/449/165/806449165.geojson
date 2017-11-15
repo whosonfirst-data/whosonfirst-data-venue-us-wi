@@ -2,14 +2,20 @@
   "id": 806449165,
   "type": "Feature",
   "properties": {
+    "addr:full":"6774 W Greenfield Ave Milwaukee WI 53214",
+    "addr:housenumber":"6774",
+    "addr:postcode":"53214",
+    "addr:street":"W Greenfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.997029,43.016772,-87.997029,43.016772",
     "geom:latitude":43.016772,
     "geom:longitude":-87.997029,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6774 W Greenfield Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":420574921,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2T4SJfm1AwByFeFOn7s1lx_43.016772_-87.997029@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598239,
-    "wof:geomhash":"da337b631b8a747752a5a25f038d1096",
+    "wof:geomhash":"ad6fdd53e8ababba6c28b36e94fb2ea7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806449165,
-    "wof:lastmodified":1467090382,
+    "wof:lastmodified":1510604548,
     "wof:name":"Sears Optical",
     "wof:parent_id":85870837,
     "wof:placetype":"venue",

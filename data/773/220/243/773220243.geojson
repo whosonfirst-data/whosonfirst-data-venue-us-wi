@@ -2,9 +2,14 @@
   "id": 773220243,
   "type": "Feature",
   "properties": {
+    "addr:full":"5485 Willow Rd Waunakee WI 53597",
+    "addr:housenumber":"5485",
+    "addr:postcode":"53597",
+    "addr:street":"Willow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.413774,43.15082,-89.413774,43.15082",
     "geom:latitude":43.15082,
     "geom:longitude":-89.413774,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iQarw16fbTR61cdv24hM3_43.150820_-89.413774@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462584076,
     "wof:geomhash":"7101be5a8f6d71e8c58902217d29df91",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773220243
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773220243,
-    "wof:lastmodified":1467089992,
+    "wof:lastmodified":1491935699,
     "wof:name":"Willows Tavern",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

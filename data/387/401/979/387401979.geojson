@@ -2,9 +2,14 @@
   "id": 387401979,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 21st St Racine WI 53403",
+    "addr:housenumber":"1800",
+    "addr:postcode":"53403",
+    "addr:street":"21St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.801388,42.704332,-87.801388,42.704332",
     "geom:latitude":42.704332,
     "geom:longitude":-87.801388,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85827169,
+        102191575,
+        404494985,
         85633793,
-        101732315,
+        101732325,
         102081763,
-        85827169
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"0117b79a51b5c0d6a21991fd24654711",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
-            "locality_id":101732315,
+            "localadmin_id":404494985,
+            "locality_id":101732325,
             "neighbourhood_id":85827169,
             "region_id":85688517,
             "venue_id":387401979
         }
     ],
     "wof:id":387401979,
-    "wof:lastmodified":1467089931,
+    "wof:lastmodified":1492097563,
     "wof:name":"Custom Components",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",

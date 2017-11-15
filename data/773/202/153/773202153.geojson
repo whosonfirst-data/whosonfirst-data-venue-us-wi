@@ -2,14 +2,20 @@
   "id": 773202153,
   "type": "Feature",
   "properties": {
+    "addr:full":"158 E Geneva Sq Lake Geneva WI 53147",
+    "addr:housenumber":"158",
+    "addr:postcode":"53147",
+    "addr:street":"E Geneva Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.424804,42.606602,-88.424804,42.606602",
     "geom:latitude":42.606602,
     "geom:longitude":-88.424804,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"158 E Geneva Sq",
     "sg:city":"Lake Geneva",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081883,
         85812017
     ],
+    "wof:brand_id":1125152131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rODJRJRZTZwxXjsadJBhF_42.606602_-88.424804@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583945,
-    "wof:geomhash":"9460e4a6c8096bed73428b1e92bd4f1b",
+    "wof:geomhash":"789c2a8e022479eec1eca9f7aff740e4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773202153,
-    "wof:lastmodified":1467089986,
+    "wof:lastmodified":1510695268,
     "wof:name":"CTX Mortgage Co",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

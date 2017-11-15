@@ -2,9 +2,14 @@
   "id": 773243751,
   "type": "Feature",
   "properties": {
+    "addr:full":"5700 312th Ave Salem WI 53168",
+    "addr:housenumber":"5700",
+    "addr:postcode":"53168",
+    "addr:street":"312Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.186833,42.587232,-88.186833,42.587232",
     "geom:latitude":42.587232,
     "geom:longitude":-88.186833,
@@ -27,7 +32,10 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XJy4F5HW5gfsZRcx7jWOU_42.587232_-88.186833@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462584241,
     "wof:geomhash":"12cef232b7f733a6cd8ddb717f44830f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":773243751
+        }
+    ],
     "wof:id":773243751,
-    "wof:lastmodified":1467089999,
+    "wof:lastmodified":1492088080,
     "wof:name":"Stein Farm",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

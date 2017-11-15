@@ -2,14 +2,20 @@
   "id": 790127279,
   "type": "Feature",
   "properties": {
+    "addr:full":"1502 Indiana Ave Sheboygan WI 53081",
+    "addr:housenumber":"1502",
+    "addr:postcode":"53081",
+    "addr:street":"Indiana Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.726248,43.743288,-87.726248,43.743288",
     "geom:latitude":43.743288,
     "geom:longitude":-87.726248,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1502 Indiana Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":420575095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kpQNR36G9ozMcrNyAPv90_43.743288_-87.726248@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593342,
-    "wof:geomhash":"2e9006aedd986e5488222b2ca6dde8c6",
+    "wof:geomhash":"68768ddafc014c4811f8f11b0ae2bc22",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790127279,
-    "wof:lastmodified":1467090256,
+    "wof:lastmodified":1510602501,
     "wof:name":"Labor Ready Inc",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

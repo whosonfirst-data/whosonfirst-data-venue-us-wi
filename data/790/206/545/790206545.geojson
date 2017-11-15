@@ -2,9 +2,14 @@
   "id": 790206545,
   "type": "Feature",
   "properties": {
+    "addr:full":"1405 Wexford Dr Waunakee WI 53597",
+    "addr:housenumber":"1405",
+    "addr:postcode":"53597",
+    "addr:street":"Wexford Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.445762,43.181365,-89.445762,43.181365",
     "geom:latitude":43.181365,
     "geom:longitude":-89.445762,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q07lj2O87bflvbAxaXlso_43.181365_-89.445762@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462594004,
     "wof:geomhash":"b88ba4a6c770767bea2645e826c8d988",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790206545
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790206545,
-    "wof:lastmodified":1467090272,
+    "wof:lastmodified":1491935718,
     "wof:name":"Allstate",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

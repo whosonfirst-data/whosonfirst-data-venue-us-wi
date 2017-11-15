@@ -2,14 +2,20 @@
   "id": 337380853,
   "type": "Feature",
   "properties": {
+    "addr:full":"1534 Lenard St Wausau WI 54401",
+    "addr:housenumber":"1534",
+    "addr:postcode":"54401",
+    "addr:street":"Lenard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.634735,44.984901,-89.634735,44.984901",
     "geom:latitude":44.984901,
     "geom:longitude":-89.634735,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1534 Lenard St",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102081881,
         85868295
     ],
+    "wof:brand_id":1125152183,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NbFFWtPbvbYhSdzFRSPsX_44.984901_-89.634735@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"6ddc9e44076b9254386b202019e3c769",
+    "wof:geomhash":"a83d415508f218139d258a8c35d2e54b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":337380853,
-    "wof:lastmodified":1467089894,
+    "wof:lastmodified":1510693998,
     "wof:name":"Womens International Bowl",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",

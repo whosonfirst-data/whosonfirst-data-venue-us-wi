@@ -2,14 +2,20 @@
   "id": 823164391,
   "type": "Feature",
   "properties": {
+    "addr:full":"4585 S 76th St Milwaukee WI 53220",
+    "addr:housenumber":"4585",
+    "addr:postcode":"53220",
+    "addr:street":"S 76Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.008392,42.961694,-88.008392,42.961694",
     "geom:latitude":42.961694,
     "geom:longitude":-88.008392,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4585 S 76th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -93,13 +99,14 @@
         404494171,
         101733073
     ],
+    "wof:brand_id":1125159733,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nZ4WiKyKCE4SW3Iu0rZSv_42.961694_-88.008392@1303262810"
     },
     "wof:country":"US",
     "wof:created":1462607858,
-    "wof:geomhash":"2b15b1ed799ddab8cf0e505df0bfcc34",
+    "wof:geomhash":"c206b8465385a99ce4a1aff8969a3dd9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +130,7 @@
         }
     ],
     "wof:id":823164391,
-    "wof:lastmodified":1467090654,
+    "wof:lastmodified":1510698013,
     "wof:name":"Ultimate Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

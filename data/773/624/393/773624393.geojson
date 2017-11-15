@@ -2,14 +2,20 @@
   "id": 773624393,
   "type": "Feature",
   "properties": {
+    "addr:full":"410 Forest Ave Sheboygan Falls WI 53085",
+    "addr:housenumber":"410",
+    "addr:postcode":"53085",
+    "addr:street":"Forest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.80879,43.743278,-87.80879,43.743278",
     "geom:latitude":43.743278,
     "geom:longitude":-87.80879,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"410 Forest Ave",
     "sg:city":"Sheboygan Falls",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":1125152173,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oxO63v26U96fUtBdkCaCh_43.743278_-87.808790@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587126,
-    "wof:geomhash":"5a11c8beb6cbf7a9e4d2cd4d82266314",
+    "wof:geomhash":"0592f83df7dd2c18705351aebe05d2c2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":773624393,
-    "wof:lastmodified":1467090097,
+    "wof:lastmodified":1510699945,
     "wof:name":"Sodexho",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

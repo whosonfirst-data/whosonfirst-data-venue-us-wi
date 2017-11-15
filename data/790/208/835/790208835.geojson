@@ -2,14 +2,20 @@
   "id": 790208835,
   "type": "Feature",
   "properties": {
+    "addr:full":"4490 Trillium Ln Slinger WI 53086",
+    "addr:housenumber":"4490",
+    "addr:postcode":"53086",
+    "addr:street":"Trillium Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.259974,43.322715,-88.259974,43.322715",
     "geom:latitude":43.322715,
     "geom:longitude":-88.259974,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4490 Trillium Ln",
     "sg:city":"Slinger",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85802369,
         102081745
     ],
+    "wof:brand_id":420574139,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RDND7kSmxJgg7LRoiGRQB_43.322715_-88.259974@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462594020,
-    "wof:geomhash":"c23275e0247f1f9bbd053820299cb932",
+    "wof:geomhash":"4f68e53d306518410a72f250e328b327",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":790208835,
-    "wof:lastmodified":1467090272,
+    "wof:lastmodified":1510603924,
     "wof:name":"Herbalife Distributor",
     "wof:parent_id":85802369,
     "wof:placetype":"venue",

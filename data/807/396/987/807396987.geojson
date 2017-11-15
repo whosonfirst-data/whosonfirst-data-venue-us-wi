@@ -2,9 +2,14 @@
   "id": 807396987,
   "type": "Feature",
   "properties": {
+    "addr:full":"5120 W Ryan Rd Franklin WI 53132",
+    "addr:housenumber":"5120",
+    "addr:postcode":"53132",
+    "addr:street":"W Ryan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.981134,42.872924,-87.981134,42.872924",
     "geom:latitude":42.872924,
     "geom:longitude":-87.981134,
@@ -24,7 +29,14 @@
     "sg:postcode":"53132",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HFGZtaklbtm1sW8rqJU8E_42.872924_-87.981134@1303262806"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462607211,
     "wof:geomhash":"91249b46de3f4e3b83c8c3be767c1d2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":807396987
+        }
+    ],
     "wof:id":807396987,
-    "wof:lastmodified":1467090637,
+    "wof:lastmodified":1492101750,
     "wof:name":"Andy's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 403861353,
   "type": "Feature",
   "properties": {
+    "addr:full":"7058 Mineral Point Rd Madison WI 53717",
+    "addr:housenumber":"7058",
+    "addr:postcode":"53717",
+    "addr:street":"Mineral Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.504174,43.060764,-89.504174,43.060764",
     "geom:latitude":43.060764,
     "geom:longitude":-89.504174,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7058 Mineral Point Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -29,23 +35,27 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
+    "wof:brand_id":1125151807,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Qzgzni2BUarTSxi03qcsv_43.060764_-89.504174@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"a750841564f28e171045b28ed73887ae",
+    "wof:geomhash":"f5e045390145528fef05c6da5ff79fad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +63,7 @@
         }
     ],
     "wof:id":403861353,
-    "wof:lastmodified":1467089921,
+    "wof:lastmodified":1510693835,
     "wof:name":"United States Cellular Corp",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

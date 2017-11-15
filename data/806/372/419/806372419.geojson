@@ -2,14 +2,20 @@
   "id": 806372419,
   "type": "Feature",
   "properties": {
+    "addr:full":"3849 Enterprise Dr Sheboygan WI 53083",
+    "addr:housenumber":"3849",
+    "addr:postcode":"53083",
+    "addr:street":"Enterprise Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.757754,43.785705,-87.757754,43.785705",
     "geom:latitude":43.785705,
     "geom:longitude":-87.757754,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3849 Enterprise Dr",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":1125153771,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1H5lYyfgAGuGCU5OB492r1_43.785705_-87.757754@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462597617,
-    "wof:geomhash":"8bd549ab9e8f498bcb3529e82a3e928a",
+    "wof:geomhash":"bced5e6ef6679a7fe148a43cc1f00865",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":806372419,
-    "wof:lastmodified":1467090365,
+    "wof:lastmodified":1510693977,
     "wof:name":"Grand Rental Station",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

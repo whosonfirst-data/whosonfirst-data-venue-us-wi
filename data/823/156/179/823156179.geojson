@@ -2,14 +2,20 @@
   "id": 823156179,
   "type": "Feature",
   "properties": {
+    "addr:full":"1212 S 108th St Milwaukee Milwaukee WI 53214",
+    "addr:housenumber":"1212",
+    "addr:postcode":"53214",
+    "addr:street":"S 108Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.047007,43.019001,-88.047007,43.019001",
     "geom:latitude":43.019001,
     "geom:longitude":-88.047007,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1212 S 108th St Milwaukee",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,13 +54,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125156713,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kQwK4WDKVLyfESaII0MqY_43.019001_-88.047007@1303262809"
     },
     "wof:country":"US",
     "wof:created":1462607750,
-    "wof:geomhash":"fbd4e97fcc72c5e4dcc82abbcad129ba",
+    "wof:geomhash":"8c2c47a2f66b70d677bb491b87acfcc5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":823156179,
-    "wof:lastmodified":1467090650,
+    "wof:lastmodified":1510604937,
     "wof:name":"Car-X Auto Service",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",

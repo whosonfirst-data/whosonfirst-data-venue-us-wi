@@ -2,9 +2,14 @@
   "id": 773366403,
   "type": "Feature",
   "properties": {
+    "addr:full":"705 Madison St Lake Geneva WI 53147",
+    "addr:housenumber":"705",
+    "addr:postcode":"53147",
+    "addr:street":"Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.438452,42.598861,-88.438452,42.598861",
     "geom:latitude":42.598861,
     "geom:longitude":-88.438452,
@@ -29,13 +34,7 @@
     ],
     "sg:website":"www.genevaonline.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15Hkw5MmsyXUvG35zAw83e_42.598861_-88.438452@1294253271"
@@ -43,18 +42,9 @@
     "wof:country":"US",
     "wof:created":1462585155,
     "wof:geomhash":"be72a91ce30d36a950f390274426e0a2",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":773366403
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773366403,
-    "wof:lastmodified":1467090037,
+    "wof:lastmodified":1492103557,
     "wof:name":"Geneva On-Line",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

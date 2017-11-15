@@ -2,14 +2,20 @@
   "id": 806506913,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 Cottonwood Ave Hartland WI 53029",
+    "addr:housenumber":"505",
+    "addr:postcode":"53029",
+    "addr:street":"Cottonwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.348165,43.096993,-88.348165,43.096993",
     "geom:latitude":43.096993,
     "geom:longitude":-88.348165,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"505 Cottonwood Ave",
     "sg:city":"Hartland",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":420574547,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6t2aPuncu3qVqD2tbLCh3a_43.096993_-88.348165@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598687,
-    "wof:geomhash":"a56f909439e1a239c811d682e8992f27",
+    "wof:geomhash":"2692ecd4b752d95b681554fcadd1d595",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806506913,
-    "wof:lastmodified":1467090396,
+    "wof:lastmodified":1510603871,
     "wof:name":"Piggly Wiggly",
     "wof:parent_id":85808383,
     "wof:placetype":"venue",

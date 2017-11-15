@@ -2,14 +2,20 @@
   "id": 807225227,
   "type": "Feature",
   "properties": {
+    "addr:full":"1206 Ontario St Oshkosh WI 54901",
+    "addr:housenumber":"1206",
+    "addr:postcode":"54901",
+    "addr:street":"Ontario St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.545933,44.035062,-88.545933,44.035062",
     "geom:latitude":44.035062,
     "geom:longitude":-88.545933,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1206 Ontario St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081801,
         85688517
     ],
+    "wof:brand_id":1125151761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pcB39LgtRtudzydJPbBR9_44.035062_-88.545933@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605068,
-    "wof:geomhash":"82bdcb67793c2bbbc9ab44c5f0281790",
+    "wof:geomhash":"0c1f6d249ed83b263922d0e528bbd790",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807225227,
-    "wof:lastmodified":1467090575,
+    "wof:lastmodified":1510693698,
     "wof:name":"Bethlehem Lutheran Church",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",

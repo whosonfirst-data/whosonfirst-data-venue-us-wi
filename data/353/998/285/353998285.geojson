@@ -2,9 +2,14 @@
   "id": 353998285,
   "type": "Feature",
   "properties": {
+    "addr:full":"1704 Savannah Way Waunakee WI 53597",
+    "addr:housenumber":"1704",
+    "addr:postcode":"53597",
+    "addr:street":"Savannah Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.435719,43.172096,-89.435719,43.172096",
     "geom:latitude":43.172096,
     "geom:longitude":-89.435719,
@@ -27,31 +32,16 @@
         "investor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        102081795,
-        85868279
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eScGS5jmp2jHhJnKRd0s1_43.172096_-89.435719@1294253271"
     },
     "wof:country":"US",
     "wof:geomhash":"849af529aab5eb8dd797afac9fbbd9b3",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081795,
-            "locality_id":-1,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":353998285
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":353998285,
-    "wof:lastmodified":1467089888,
+    "wof:lastmodified":1491935671,
     "wof:name":"S & H Investment of Menomonie",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

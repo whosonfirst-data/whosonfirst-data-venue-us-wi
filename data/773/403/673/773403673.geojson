@@ -2,9 +2,14 @@
   "id": 773403673,
   "type": "Feature",
   "properties": {
+    "addr:full":"3099 Co Rd O Delavan WI 53115",
+    "addr:housenumber":"3099",
+    "addr:postcode":"53115",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.09075,42.687828,-88.09075,42.687828",
     "geom:latitude":42.687828,
     "geom:longitude":-88.09075,
@@ -27,7 +32,13 @@
         "dock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404492317,
+        85633793,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qsCTksB4TzrBlbGEqI9Vy_42.687828_-88.090750@1294253271"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462585427,
     "wof:geomhash":"88c7546f18bb261d8ab353d4c84d9dd4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404492317,
+            "region_id":85688517,
+            "venue_id":773403673
+        }
+    ],
     "wof:id":773403673,
-    "wof:lastmodified":1467090045,
+    "wof:lastmodified":1492103386,
     "wof:name":"Premier Pier Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

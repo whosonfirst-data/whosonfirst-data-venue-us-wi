@@ -2,9 +2,14 @@
   "id": 370658729,
   "type": "Feature",
   "properties": {
+    "addr:full":"15550 W Small Rd New Berlin WI 53151",
+    "addr:housenumber":"15550",
+    "addr:postcode":"53151",
+    "addr:street":"W Small Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.099413,42.951082,-88.099413,42.951082",
     "geom:latitude":42.951082,
     "geom:longitude":-88.099413,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        420550229,
+        102191575,
+        404492511,
         85633793,
         101733503,
-        102081741
+        102081741,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"2f383bb9975e721b065bb03a7c8278c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081741,
+            "localadmin_id":404492511,
             "locality_id":101733503,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420550229,
             "region_id":85688517,
             "venue_id":370658729
         }
     ],
     "wof:id":370658729,
-    "wof:lastmodified":1467089897,
+    "wof:lastmodified":1492088064,
     "wof:name":"Dick Westridge Auto Plaza",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

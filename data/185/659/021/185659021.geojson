@@ -2,9 +2,14 @@
   "id": 185659021,
   "type": "Feature",
   "properties": {
+    "addr:full":"1680 96th St Sturtevant WI 53177",
+    "addr:housenumber":"1680",
+    "addr:postcode":"53177",
+    "addr:street":"96Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.902408,42.718983,-87.902408,42.718983",
     "geom:latitude":42.718983,
     "geom:longitude":-87.902408,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85854859,
+        102191575,
+        404494985,
         85633793,
-        101732321,
+        101732325,
         102081763,
-        85854859
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"edea9eed6337519394426308ccea04e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
-            "locality_id":101732321,
+            "localadmin_id":404494985,
+            "locality_id":101732325,
             "neighbourhood_id":85854859,
             "region_id":85688517,
             "venue_id":185659021
         }
     ],
     "wof:id":185659021,
-    "wof:lastmodified":1467089883,
+    "wof:lastmodified":1492097569,
     "wof:name":"B C Auto Repair Inc",
     "wof:parent_id":85854859,
     "wof:placetype":"venue",

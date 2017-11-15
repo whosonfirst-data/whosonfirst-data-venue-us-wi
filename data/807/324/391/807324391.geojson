@@ -2,9 +2,14 @@
   "id": 807324391,
   "type": "Feature",
   "properties": {
+    "addr:full":"2237 State Rd 11 Elkhorn WI 53121",
+    "addr:housenumber":"2237;11",
+    "addr:postcode":"53121",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.411172,42.691194,-88.411172,42.691194",
     "geom:latitude":42.691194,
     "geom:longitude":-88.411172,
@@ -24,7 +29,13 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404492469,
+        85633793,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mhFCfrIqM2rK9r9zf023T_42.691194_-88.411172@1294253271"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462606121,
     "wof:geomhash":"76478e8c0536f1ce3ec240efc490a51b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404492469,
+            "region_id":85688517,
+            "venue_id":807324391
+        }
+    ],
     "wof:id":807324391,
-    "wof:lastmodified":1467090607,
+    "wof:lastmodified":1492098951,
     "wof:name":"Rodney Wuttke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

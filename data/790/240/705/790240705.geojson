@@ -2,9 +2,14 @@
   "id": 790240705,
   "type": "Feature",
   "properties": {
+    "addr:full":"2788 Walden Ln Lake Geneva WI 53147",
+    "addr:housenumber":"2788",
+    "addr:postcode":"53147",
+    "addr:street":"Walden Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.492238,42.593456,-88.492238,42.593456",
     "geom:latitude":42.593456,
     "geom:longitude":-88.492238,
@@ -27,13 +32,7 @@
         "psychologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iHtX0YcbjTWBy1bUHiEGJ_42.593456_-88.492238@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462594253,
     "wof:geomhash":"c57ea0d164731c2e2bd5ad18d4f7e1c2",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":790240705
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790240705,
-    "wof:lastmodified":1467090279,
+    "wof:lastmodified":1492108934,
     "wof:name":"Keith D Gibson",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

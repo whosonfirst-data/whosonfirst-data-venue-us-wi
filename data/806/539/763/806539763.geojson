@@ -2,9 +2,14 @@
   "id": 806539763,
   "type": "Feature",
   "properties": {
+    "addr:full":"608 E Main St Waunakee WI 53597",
+    "addr:housenumber":"608",
+    "addr:postcode":"53597",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.442887,43.191929,-89.442887,43.191929",
     "geom:latitude":43.191929,
     "geom:longitude":-89.442887,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vVOhZL2CAJTpUS6meoND9_43.191929_-89.442887@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462598951,
     "wof:geomhash":"a071b7eedb0768fa7a4b694b6c8f4c5b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806539763
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806539763,
-    "wof:lastmodified":1467090404,
+    "wof:lastmodified":1491935708,
     "wof:name":"H & R Carpets Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

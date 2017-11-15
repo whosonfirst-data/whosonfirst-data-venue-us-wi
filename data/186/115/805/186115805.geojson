@@ -2,9 +2,14 @@
   "id": 186115805,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 W State St Burlington WI 53105",
+    "addr:housenumber":"604",
+    "addr:postcode":"53105",
+    "addr:street":"W State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.292305,42.674262,-88.292305,42.674262",
     "geom:latitude":42.674262,
     "geom:longitude":-88.292305,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85865439,
+        102191575,
+        404494889,
         85633793,
-        101733617,
+        101732231,
         102081763,
-        85865439
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"2a70a41d8ecef60a487f12dcdf70b693",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
-            "locality_id":101733617,
+            "localadmin_id":404494889,
+            "locality_id":101732231,
             "neighbourhood_id":85865439,
             "region_id":85688517,
             "venue_id":186115805
         }
     ],
     "wof:id":186115805,
-    "wof:lastmodified":1467089914,
+    "wof:lastmodified":1492108873,
     "wof:name":"Wedding Photographer The",
     "wof:parent_id":85865439,
     "wof:placetype":"venue",

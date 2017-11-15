@@ -2,9 +2,14 @@
   "id": 807331075,
   "type": "Feature",
   "properties": {
+    "addr:full":"5720 S 41st St Milwaukee WI 53221",
+    "addr:housenumber":"5720",
+    "addr:postcode":"53221",
+    "addr:street":"S 41St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.966455,42.941012,-87.966455,42.941012",
     "geom:latitude":42.941012,
     "geom:longitude":-87.966455,
@@ -38,7 +43,14 @@
     ],
     "sg:website":"http://www.petemay.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494171,
+        85633793,
+        101733073,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QFMmnvW61wIyOc9vZpPYt_42.941537_-87.966404@1293134755"
@@ -46,9 +58,19 @@
     "wof:country":"US",
     "wof:created":1462606209,
     "wof:geomhash":"e212814171828a312c5a33ee4f3221b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494171,
+            "locality_id":101733073,
+            "region_id":85688517,
+            "venue_id":807331075
+        }
+    ],
     "wof:id":807331075,
-    "wof:lastmodified":1467090610,
+    "wof:lastmodified":1492095244,
     "wof:name":"May Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

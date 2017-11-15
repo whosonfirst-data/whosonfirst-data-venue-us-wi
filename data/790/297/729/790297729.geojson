@@ -2,14 +2,20 @@
   "id": 790297729,
   "type": "Feature",
   "properties": {
+    "addr:full":"2003 Ross Ave Schofield WI 54476",
+    "addr:housenumber":"2003",
+    "addr:postcode":"54476",
+    "addr:street":"Ross Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.595122,44.912749,-89.595122,44.912749",
     "geom:latitude":44.912749,
     "geom:longitude":-89.595122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2003 Ross Ave",
     "sg:city":"Schofield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081881,
         85854809
     ],
+    "wof:brand_id":1125156855,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hCqbt1q9VBcvnGydX2PxE_44.912749_-89.595122@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462594750,
-    "wof:geomhash":"ab9c87886611cb675d32df90840217ed",
+    "wof:geomhash":"2a8a4d4be4c1e23630105e5c1aca6f76",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790297729,
-    "wof:lastmodified":1467090290,
+    "wof:lastmodified":1510694079,
     "wof:name":"Sugar Shack",
     "wof:parent_id":85854809,
     "wof:placetype":"venue",

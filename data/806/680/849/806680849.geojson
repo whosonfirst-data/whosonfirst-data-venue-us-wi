@@ -2,14 +2,20 @@
   "id": 806680849,
   "type": "Feature",
   "properties": {
+    "addr:full":"1779 Thierer Rd Madison WI 53704",
+    "addr:housenumber":"1779",
+    "addr:postcode":"53704",
+    "addr:street":"Thierer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.313505,43.122962,-89.313505,43.122962",
     "geom:latitude":43.122962,
     "geom:longitude":-89.313505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1779 Thierer Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":420575703,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NkuB9xBjELz4Gj98SwyYk_43.122962_-89.313505@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600177,
-    "wof:geomhash":"e979c9a11297d1b9e04a17543420721c",
+    "wof:geomhash":"94df857cb794caa66913e971721503c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806680849,
-    "wof:lastmodified":1467090437,
+    "wof:lastmodified":1510602444,
     "wof:name":"US Naval Recruiting",
     "wof:parent_id":85878851,
     "wof:placetype":"venue",

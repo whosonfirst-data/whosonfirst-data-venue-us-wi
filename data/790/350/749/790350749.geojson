@@ -2,14 +2,20 @@
   "id": 790350749,
   "type": "Feature",
   "properties": {
+    "addr:full":"1107 Riders Club Rd Onalaska WI 54650",
+    "addr:housenumber":"1107",
+    "addr:postcode":"54650",
+    "addr:street":"Riders Club Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.220912,43.905536,-91.220912,43.905536",
     "geom:latitude":43.905536,
     "geom:longitude":-91.220912,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1107 Riders Club Rd",
     "sg:city":"Onalaska",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081301,
         85825891
     ],
+    "wof:brand_id":420574971,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KZw4TZBjG2bv21QL1cMo3_43.905536_-91.220912@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462595143,
-    "wof:geomhash":"db1745d5c2d4fa99f5a10742818815d8",
+    "wof:geomhash":"5a2b6028016a57232b41be0aeff168a6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790350749,
-    "wof:lastmodified":1467090301,
+    "wof:lastmodified":1510603892,
     "wof:name":"Farm Service Agency",
     "wof:parent_id":85825891,
     "wof:placetype":"venue",

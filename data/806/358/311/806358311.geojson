@@ -2,9 +2,14 @@
   "id": 806358311,
   "type": "Feature",
   "properties": {
+    "addr:full":"1588 Center Dr Genoa City WI 53128",
+    "addr:housenumber":"1588",
+    "addr:postcode":"53128",
+    "addr:street":"Center Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.328486,42.549305,-88.328486,42.549305",
     "geom:latitude":42.549305,
     "geom:longitude":-88.328486,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85865441,
+        102191575,
+        404494891,
         85633793,
         101733599,
         102081763,
-        85865441
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"e419fd3c04031f2b65120b1b462a5fc3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
+            "localadmin_id":404494891,
             "locality_id":101733599,
             "neighbourhood_id":85865441,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":806358311,
-    "wof:lastmodified":1467090361,
+    "wof:lastmodified":1492109456,
     "wof:name":"Talon Woodworking & Remodeling",
     "wof:parent_id":85865441,
     "wof:placetype":"venue",

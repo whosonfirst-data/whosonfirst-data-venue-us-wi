@@ -2,9 +2,14 @@
   "id": 789743461,
   "type": "Feature",
   "properties": {
+    "addr:full":"529 Co Rd H Genoa City WI 53128",
+    "addr:housenumber":"529",
+    "addr:postcode":"53128",
+    "addr:street":"Co Rd H",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.337256,42.509615,-88.337256,42.509615",
     "geom:latitude":42.509615,
     "geom:longitude":-88.337256,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85865441,
+        102191575,
+        404494891,
         85633793,
         101733599,
         102081763,
-        85865441
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"256ff65313d6456dca1cea32bd7d28ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
+            "localadmin_id":404494891,
             "locality_id":101733599,
             "neighbourhood_id":85865441,
             "region_id":85688517,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":789743461,
-    "wof:lastmodified":1467090182,
+    "wof:lastmodified":1492098713,
     "wof:name":"DK Construction",
     "wof:parent_id":85865441,
     "wof:placetype":"venue",

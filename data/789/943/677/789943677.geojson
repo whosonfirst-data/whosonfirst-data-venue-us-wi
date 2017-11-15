@@ -2,14 +2,20 @@
   "id": 789943677,
   "type": "Feature",
   "properties": {
+    "addr:full":"6912 Moenning Rd Sheboygan WI 53081",
+    "addr:housenumber":"6912",
+    "addr:postcode":"53081",
+    "addr:street":"Moenning Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.740459,43.674787,-87.740459,43.674787",
     "geom:latitude":43.674787,
     "geom:longitude":-87.740459,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6912 Moenning Rd",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85854963,
         102081869
     ],
+    "wof:brand_id":1125158551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68JAkQguDX5szZhGWw1MF6_43.674787_-87.740459@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591820,
-    "wof:geomhash":"47dc296066709036a8ef0c6655989d54",
+    "wof:geomhash":"e66ed002e559b082557b39546d582e8c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":789943677,
-    "wof:lastmodified":1467090220,
+    "wof:lastmodified":1510697797,
     "wof:name":"Internationl Assn Machinsts/Ae",
     "wof:parent_id":85854963,
     "wof:placetype":"venue",

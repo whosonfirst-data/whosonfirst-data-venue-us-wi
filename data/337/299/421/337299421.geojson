@@ -2,14 +2,20 @@
   "id": 337299421,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 S Stoughton Rd Madison WI 53716",
+    "addr:housenumber":"1301",
+    "addr:postcode":"53716",
+    "addr:street":"S Stoughton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.310051,43.077677,-89.310051,43.077677",
     "geom:latitude":43.077677,
     "geom:longitude":-89.310051,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1301 S Stoughton Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102081795,
         85878857
     ],
+    "wof:brand_id":1125158981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nG4A8tz2H1mYRmmDml2Mk_43.077677_-89.310051@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ec043e31f7b74044aa39b39a00eddca",
+    "wof:geomhash":"4f9c76807f076a559b16f178bbf1d386",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":337299421,
-    "wof:lastmodified":1467089893,
+    "wof:lastmodified":1510698690,
     "wof:name":"Ferrellgas L P",
     "wof:parent_id":85878857,
     "wof:placetype":"venue",

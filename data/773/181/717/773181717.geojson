@@ -2,14 +2,20 @@
   "id": 773181717,
   "type": "Feature",
   "properties": {
+    "addr:full":"622 22nd St N La Crosse WI 54601",
+    "addr:housenumber":"622",
+    "addr:postcode":"54601",
+    "addr:street":"22Nd St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.223419,43.818514,-91.223419,43.818514",
     "geom:latitude":43.818514,
     "geom:longitude":-91.223419,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"622 22nd St N",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081301,
         85688517
     ],
+    "wof:brand_id":1125159523,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gN6jcpe7YbGjj88eHrApP_43.818514_-91.223419@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583762,
-    "wof:geomhash":"0f0ade4ca3085e243310fba5c2cd0b8d",
+    "wof:geomhash":"0fdfdc55f3912b0a023d01c28a2ae076",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773181717,
-    "wof:lastmodified":1467089981,
+    "wof:lastmodified":1510696642,
     "wof:name":"Country Cupboard",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",

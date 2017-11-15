@@ -2,9 +2,14 @@
   "id": 807034479,
   "type": "Feature",
   "properties": {
+    "addr:full":"30114 52nd St Salem WI 53168",
+    "addr:housenumber":"30114",
+    "addr:postcode":"53168",
+    "addr:street":"52Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.175365,42.589836,-88.175365,42.589836",
     "geom:latitude":42.589836,
     "geom:longitude":-88.175365,
@@ -24,7 +29,10 @@
     "sg:postcode":"53168",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Qy8lUQdEyrIN4czenRASY_42.589836_-88.175365@1294253271"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462603158,
     "wof:geomhash":"440313c66fae00b1033cd71be2f2f0cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":807034479
+        }
+    ],
     "wof:id":807034479,
-    "wof:lastmodified":1467090518,
+    "wof:lastmodified":1492103542,
     "wof:name":"Wellness Opportunities Group",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

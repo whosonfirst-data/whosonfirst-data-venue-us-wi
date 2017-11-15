@@ -2,9 +2,14 @@
   "id": 806724545,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 W Main St Waunakee WI 53597",
+    "addr:housenumber":"212",
+    "addr:postcode":"53597",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.456973,43.191895,-89.456973,43.191895",
     "geom:latitude":43.191895,
     "geom:longitude":-89.456973,
@@ -27,12 +32,7 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CHMgctRAQTpUp79Iwb5MO_43.191895_-89.456973@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462600540,
     "wof:geomhash":"71dd5256ac9b219a2cd47f22069b108c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806724545
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806724545,
-    "wof:lastmodified":1467090447,
+    "wof:lastmodified":1491935674,
     "wof:name":"Whopatooi Gift Basket & Stuff",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

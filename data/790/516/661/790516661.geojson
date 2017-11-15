@@ -2,14 +2,20 @@
   "id": 790516661,
   "type": "Feature",
   "properties": {
+    "addr:full":"4211 W Beltline Hwy Madison WI 53711",
+    "addr:housenumber":"4211",
+    "addr:postcode":"53711",
+    "addr:street":"W Beltline Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.448401,43.034861,-89.448401,43.034861",
     "geom:latitude":43.034861,
     "geom:longitude":-89.448401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4211 W Beltline Hwy",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85878867,
         102081795
     ],
+    "wof:brand_id":420574895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FSaB7VP9TsWNGYONc7BcW_43.034861_-89.448401@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596503,
-    "wof:geomhash":"e31e04c1f2e7ae630f2baf4019d43acf",
+    "wof:geomhash":"adf0942dd6886ea0552a3d3f3a5f4ffb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":790516661,
-    "wof:lastmodified":1467090336,
+    "wof:lastmodified":1510623333,
     "wof:name":"Terminix International Co",
     "wof:parent_id":85878867,
     "wof:placetype":"venue",

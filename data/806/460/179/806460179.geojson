@@ -2,9 +2,14 @@
   "id": 806460179,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 Center St Lake Geneva WI 53147",
+    "addr:housenumber":"312",
+    "addr:postcode":"53147",
+    "addr:street":"Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.433712,42.593396,-88.433712,42.593396",
     "geom:latitude":42.593396,
     "geom:longitude":-88.433712,
@@ -27,13 +32,7 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7goZLkbvoSPEZaYEyYECXp_42.593396_-88.433712@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462598313,
     "wof:geomhash":"2324f73f9d7ad51e46b358f796dee7e8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806460179
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806460179,
-    "wof:lastmodified":1467090385,
+    "wof:lastmodified":1492112096,
     "wof:name":"Lake Geneva Oral Surgery LTD",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

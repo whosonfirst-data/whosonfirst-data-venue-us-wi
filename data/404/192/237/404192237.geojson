@@ -2,9 +2,14 @@
   "id": 404192237,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 W Geneva St Elkhorn WI 53121",
+    "addr:housenumber":"135",
+    "addr:postcode":"53121",
+    "addr:street":"W Geneva St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.545196,42.670198,-88.545196,42.670198",
     "geom:latitude":42.670198,
     "geom:longitude":-88.545196,
@@ -28,10 +33,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
         85633793,
-        101732245,
-        102081883
+        420550177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +44,15 @@
     "wof:geomhash":"af1fc8c2414d02d272da40e66e3d77d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101732245,
-            "neighbourhood_id":-1,
-            "region_id":85688517,
+            "neighbourhood_id":420550177,
             "venue_id":404192237
         }
     ],
     "wof:id":404192237,
-    "wof:lastmodified":1467089911,
+    "wof:lastmodified":1492088068,
     "wof:name":"Johnson Law Offices",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

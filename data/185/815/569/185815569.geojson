@@ -2,14 +2,20 @@
   "id": 185815569,
   "type": "Feature",
   "properties": {
+    "addr:full":"2499 Co Rd Ss Rice Lake WI 54868",
+    "addr:housenumber":"2499",
+    "addr:postcode":"54868",
+    "addr:street":"Co Rd Ss",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.755059,45.55929,-91.755059,45.55929",
     "geom:latitude":45.55929,
     "geom:longitude":-91.755059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2499 Co Rd Ss",
     "sg:city":"Rice Lake",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         85633793,
         85688517
     ],
+    "wof:brand_id":1125157817,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qFGo0apYh1i5kEXMNSC7q_45.559290_-91.755059@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"cdc83cc628920542866b62b22f9d4a5a",
+    "wof:geomhash":"0b28eb8b3156ac7553cc6c4223167739",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":185815569,
-    "wof:lastmodified":1467089884,
+    "wof:lastmodified":1510694200,
     "wof:name":"Country Suites By Carlson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

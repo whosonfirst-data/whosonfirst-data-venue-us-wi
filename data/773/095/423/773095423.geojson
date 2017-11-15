@@ -2,14 +2,20 @@
   "id": 773095423,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 Wisconsin Ave Madison WI 53703",
+    "addr:housenumber":"312",
+    "addr:postcode":"53703",
+    "addr:street":"Wisconsin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.387818,43.077357,-89.387818,43.077357",
     "geom:latitude":43.077357,
     "geom:longitude":-89.387818,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"312 Wisconsin Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125155725,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3m1FzDI9TXhwwWHHV6270c_43.077357_-89.387818@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583119,
-    "wof:geomhash":"c72c6a220e76f0495d1df7ac2c56ab86",
+    "wof:geomhash":"f873fdea67d6d4d33e195ff9c720c9f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773095423,
-    "wof:lastmodified":1467089960,
+    "wof:lastmodified":1510697284,
     "wof:name":"Bethel Lutheran Church",
     "wof:parent_id":85878859,
     "wof:placetype":"venue",

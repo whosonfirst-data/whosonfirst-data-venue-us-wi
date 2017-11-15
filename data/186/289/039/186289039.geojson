@@ -2,9 +2,14 @@
   "id": 186289039,
   "type": "Feature",
   "properties": {
+    "addr:full":"3113 Kinzie Ave Racine WI 53405",
+    "addr:housenumber":"",
+    "addr:postcode":"3113;53405",
+    "addr:street":"Kinzie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.817004,42.722508,-87.817004,42.722508",
     "geom:latitude":42.722508,
     "geom:longitude":-87.817004,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85827169,
+        102191575,
+        404494985,
         85633793,
-        101732315,
+        101732325,
         102081763,
-        85827169
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"8f3215c56e8de9b4d6af54cc976919dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
-            "locality_id":101732315,
+            "localadmin_id":404494985,
+            "locality_id":101732325,
             "neighbourhood_id":85827169,
             "region_id":85688517,
             "venue_id":186289039
         }
     ],
     "wof:id":186289039,
-    "wof:lastmodified":1467089917,
+    "wof:lastmodified":1492108889,
     "wof:name":"Perfect Touch Cleaners",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",

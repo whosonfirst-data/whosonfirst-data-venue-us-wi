@@ -2,9 +2,14 @@
   "id": 807045015,
   "type": "Feature",
   "properties": {
+    "addr:full":"5626 Woodland Dr Waunakee WI 53597",
+    "addr:housenumber":"5626",
+    "addr:postcode":"53597",
+    "addr:street":"Woodland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.438376,43.176001,-89.438376,43.176001",
     "geom:latitude":43.176001,
     "geom:longitude":-89.438376,
@@ -28,12 +33,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DRpL1YzjFPi1Qj441eBAq_43.176001_-89.438376@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462603250,
     "wof:geomhash":"bda5b96a44931de2ad815ed805cd7f81",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807045015
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807045015,
-    "wof:lastmodified":1467090521,
+    "wof:lastmodified":1491935679,
     "wof:name":"Mobile Glass Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

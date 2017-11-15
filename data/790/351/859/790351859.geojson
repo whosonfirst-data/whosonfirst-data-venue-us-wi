@@ -2,14 +2,20 @@
   "id": 790351859,
   "type": "Feature",
   "properties": {
+    "addr:full":"2347 W Broadway Monona WI 53716",
+    "addr:housenumber":"2347",
+    "addr:postcode":"53716",
+    "addr:street":"W Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.351223,43.047032,-89.351223,43.047032",
     "geom:latitude":43.047032,
     "geom:longitude":-89.351223,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2347 W Broadway",
     "sg:city":"Monona",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081795,
         85878883
     ],
+    "wof:brand_id":420574425,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KoqVGZKhxpp4ck2LReNSM_43.047032_-89.351223@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462595151,
-    "wof:geomhash":"f0c9eb008684337fa88ee43d032c8c18",
+    "wof:geomhash":"31f254917343257b55603765afcfd76f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790351859,
-    "wof:lastmodified":1467090301,
+    "wof:lastmodified":1510604426,
     "wof:name":"Famous Footwear",
     "wof:parent_id":85878883,
     "wof:placetype":"venue",

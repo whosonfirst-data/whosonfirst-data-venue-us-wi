@@ -2,14 +2,20 @@
   "id": 773680601,
   "type": "Feature",
   "properties": {
+    "addr:full":"624 N 103rd St Milwaukee WI 53226",
+    "addr:housenumber":"624",
+    "addr:postcode":"53226",
+    "addr:street":"N 103Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.040883,43.035662,-88.040883,43.035662",
     "geom:latitude":43.035662,
     "geom:longitude":-88.040883,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"624 N 103rd St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125156841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LJfFB4Q01zBVRw3Xf0DiA_43.035662_-88.040883@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587546,
-    "wof:geomhash":"6eb9097d082aabeebeaf5a4982d82475",
+    "wof:geomhash":"397c95750d21ed545bba9634b4769e5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773680601,
-    "wof:lastmodified":1467090109,
+    "wof:lastmodified":1510696906,
     "wof:name":"Sisters Of Charity",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",

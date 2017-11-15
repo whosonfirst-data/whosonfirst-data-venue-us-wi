@@ -2,14 +2,20 @@
   "id": 806716157,
   "type": "Feature",
   "properties": {
+    "addr:full":"590 Pewaukee Rd Pewaukee WI 53072",
+    "addr:housenumber":"590",
+    "addr:postcode":"53072",
+    "addr:street":"Pewaukee Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.244098,43.096961,-88.244098,43.096961",
     "geom:latitude":43.096961,
     "geom:longitude":-88.244098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"590 Pewaukee Rd",
     "sg:city":"Pewaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125156571,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4a6NXL19rTgPGwKnRcbqoc_43.096961_-88.244098@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600470,
-    "wof:geomhash":"81883d333afbfd4c4cb01e5f8a8f6bdc",
+    "wof:geomhash":"551f7b52833c9663f1a59257c0e4fd33",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806716157,
-    "wof:lastmodified":1467090445,
+    "wof:lastmodified":1510696823,
     "wof:name":"GE Medical Systems",
     "wof:parent_id":85815589,
     "wof:placetype":"venue",

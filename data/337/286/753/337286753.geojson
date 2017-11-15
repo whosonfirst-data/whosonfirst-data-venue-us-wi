@@ -2,14 +2,20 @@
   "id": 337286753,
   "type": "Feature",
   "properties": {
+    "addr:full":"3030 Plover Rd Wisconsin Rapids WI 54494",
+    "addr:housenumber":"3030",
+    "addr:postcode":"54494",
+    "addr:street":"Plover Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.7918,44.406356,-89.7918,44.406356",
     "geom:latitude":44.406356,
     "geom:longitude":-89.7918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3030 Plover Rd",
     "sg:city":"Wisconsin Rapids",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         101733013,
         102081737
     ],
+    "wof:brand_id":1125157877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ipXw0NfM5YoGQ5UWbHpMA_44.406356_-89.791800@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"763b5d3797838e1fe36e5cebd2b3689a",
+    "wof:geomhash":"26c5e3cce5739abdbce2b3a908daa323",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":337286753,
-    "wof:lastmodified":1467089893,
+    "wof:lastmodified":1510693947,
     "wof:name":"Kwik Trip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

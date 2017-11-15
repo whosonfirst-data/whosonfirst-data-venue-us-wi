@@ -2,14 +2,20 @@
   "id": 790202849,
   "type": "Feature",
   "properties": {
+    "addr:full":"2219 Wilson Ave Sheboygan WI 53081",
+    "addr:housenumber":"2219",
+    "addr:postcode":"53081",
+    "addr:street":"Wilson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.734811,43.723667,-87.734811,43.723667",
     "geom:latitude":43.723667,
     "geom:longitude":-87.734811,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2219 Wilson Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":420574547,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_324v1giFlveGHeXVhkznyq_43.723667_-87.734811@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593979,
-    "wof:geomhash":"ef3c3745522c6ac2157a31ae4e0b351d",
+    "wof:geomhash":"f50802836351546f39d62c89c35895f6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":790202849,
-    "wof:lastmodified":1467090271,
+    "wof:lastmodified":1510603870,
     "wof:name":"Piggly Wiggly",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

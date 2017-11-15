@@ -2,14 +2,20 @@
   "id": 807367395,
   "type": "Feature",
   "properties": {
+    "addr:full":"2581 Packerland Dr Green Bay WI 54313",
+    "addr:housenumber":"2581",
+    "addr:postcode":"54313",
+    "addr:street":"Packerland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.10374,44.49671,-88.10374,44.49671",
     "geom:latitude":44.49671,
     "geom:longitude":-88.10374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2581 Packerland Dr",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125156315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rx58ZUHFFRsvDaLA7rf5Q_44.496710_-88.103740@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606757,
-    "wof:geomhash":"31adfc6f54b858bad9b5588b9a943aaa",
+    "wof:geomhash":"69340a5e99646ce2c45303957dcc9544",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807367395,
-    "wof:lastmodified":1467090625,
+    "wof:lastmodified":1510693709,
     "wof:name":"Tony Romas",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",

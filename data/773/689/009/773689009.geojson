@@ -2,14 +2,20 @@
   "id": 773689009,
   "type": "Feature",
   "properties": {
+    "addr:full":"1551 S 108th St Milwaukee WI 53214",
+    "addr:housenumber":"1551",
+    "addr:postcode":"53214",
+    "addr:street":"S 108Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.046817,43.015962,-88.046817,43.015962",
     "geom:latitude":43.015962,
     "geom:longitude":-88.046817,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1551 S 108th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125153353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Pqsqlks8xlg9wzgzC4CF9_43.015962_-88.046817@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587608,
-    "wof:geomhash":"2aefc3d856cdbea699bbf5e4811fc12a",
+    "wof:geomhash":"a26fb91b00881e3300c6d74a42b18358",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773689009,
-    "wof:lastmodified":1467090111,
+    "wof:lastmodified":1510695785,
     "wof:name":"All Fund Mortgage",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",

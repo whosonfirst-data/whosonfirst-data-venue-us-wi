@@ -2,14 +2,20 @@
   "id": 773482211,
   "type": "Feature",
   "properties": {
+    "addr:full":"8948 W Watertown Plank Rd Milwaukee WI 53226",
+    "addr:housenumber":"8948",
+    "addr:postcode":"53226",
+    "addr:street":"W Watertown Plank Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.022442,43.045698,-88.022442,43.045698",
     "geom:latitude":43.045698,
     "geom:longitude":-88.022442,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8948 W Watertown Plank Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125153717,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wXWkSezGIpi7W9MbnkqkA_43.045698_-88.022442@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586086,
-    "wof:geomhash":"98178d8dc7335da1a411a19ad0c1b929",
+    "wof:geomhash":"e8ad467ab75cbbf029dbd03c297a46ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773482211,
-    "wof:lastmodified":1467090064,
+    "wof:lastmodified":1510694613,
     "wof:name":"Ronald Mc Donald House",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773742011,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 W 5th Ave Oshkosh WI 54902",
+    "addr:housenumber":"1401",
+    "addr:postcode":"54902",
+    "addr:street":"W 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.573081,44.013476,-88.573081,44.013476",
     "geom:latitude":44.013476,
     "geom:longitude":-88.573081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 W 5th Ave",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081801,
         85819403
     ],
+    "wof:brand_id":1125155123,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VzJbQ6259DsTvVeg6lHS0_44.013476_-88.573081@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588036,
-    "wof:geomhash":"bc0228603f6dfdf1ae47bbb41a34bbc6",
+    "wof:geomhash":"4531d7fba4f91ddb701e72ce2744eb96",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773742011,
-    "wof:lastmodified":1467090124,
+    "wof:lastmodified":1510694061,
     "wof:name":"Franklin Elementary School",
     "wof:parent_id":85819403,
     "wof:placetype":"venue",

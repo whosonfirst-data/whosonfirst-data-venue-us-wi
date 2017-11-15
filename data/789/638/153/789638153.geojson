@@ -2,9 +2,14 @@
   "id": 789638153,
   "type": "Feature",
   "properties": {
+    "addr:full":"3501 Washington Ave Racine WI 53405",
+    "addr:housenumber":"3501",
+    "addr:postcode":"53405",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.822381,42.71868,-87.822381,42.71868",
     "geom:latitude":42.71868,
     "geom:longitude":-87.822381,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854859,
+        85827169,
         102191575,
         404494985,
         85633793,
         101732325,
         102081763,
-        85688517
+        85688517,
+        85854859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,25 @@
             "county_id":102081763,
             "localadmin_id":404494985,
             "locality_id":101732325,
+            "neighbourhood_id":85827169,
+            "region_id":85688517,
+            "venue_id":789638153
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494985,
+            "locality_id":101732325,
             "neighbourhood_id":85854859,
             "region_id":85688517,
             "venue_id":789638153
         }
     ],
     "wof:id":789638153,
-    "wof:lastmodified":1467090161,
+    "wof:lastmodified":1492103570,
     "wof:name":"Littlest Gift Shop",
-    "wof:parent_id":85854859,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

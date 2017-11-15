@@ -2,14 +2,20 @@
   "id": 773761359,
   "type": "Feature",
   "properties": {
+    "addr:full":"4862 Trantin Ct Waunakee WI 53597",
+    "addr:housenumber":"4862",
+    "addr:postcode":"53597",
+    "addr:street":"Trantin Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.44068,43.122662,-89.44068,43.122662",
     "geom:latitude":43.122662,
     "geom:longitude":-89.44068,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4862 Trantin Ct",
     "sg:city":"Waunakee",
     "sg:classifiers":[
@@ -28,30 +34,18 @@
         "direct"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
+    "wof:brand_id":420574773,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qKVcOj2jbBI1dz573iVWz_43.122662_-89.440680@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588181,
-    "wof:geomhash":"f9540548c657a39419d3ab6e7e3255a8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773761359
-        }
-    ],
+    "wof:geomhash":"76980028b826c2db875237d0f6239a4f",
+    "wof:hierarchy":[],
     "wof:id":773761359,
-    "wof:lastmodified":1467090128,
+    "wof:lastmodified":1510603852,
     "wof:name":"UPS Stores The",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807397013,
   "type": "Feature",
   "properties": {
+    "addr:full":"8885 S 68th St Franklin WI 53132",
+    "addr:housenumber":"8885",
+    "addr:postcode":"53132",
+    "addr:street":"S 68Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.000167,42.880678,-88.000167,42.880678",
     "geom:latitude":42.880678,
     "geom:longitude":-88.000167,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"http://www.milwaukeedems.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Hgk2dG18vpHqs3NFpO11j_42.880678_-88.000167@1303262806"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462607211,
     "wof:geomhash":"897f1af82bf02c0dfa5771ac5c144994",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":807397013
+        }
+    ],
     "wof:id":807397013,
-    "wof:lastmodified":1467090637,
+    "wof:lastmodified":1492103530,
     "wof:name":"Sheriffs Dept- Hse Corrections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

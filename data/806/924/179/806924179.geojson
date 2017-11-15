@@ -2,14 +2,20 @@
   "id": 806924179,
   "type": "Feature",
   "properties": {
+    "addr:full":"2456 S 18th St Manitowoc WI 54220",
+    "addr:housenumber":"2456",
+    "addr:postcode":"54220",
+    "addr:street":"S 18Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.671912,44.071318,-87.671912,44.071318",
     "geom:latitude":44.071318,
     "geom:longitude":-87.671912,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2456 S 18th St",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":420575619,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Tt3gzvPJHWVOVmoUELhaS_44.071318_-87.671912@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602226,
-    "wof:geomhash":"b5323c299d6c9cabc9ded19a1dd905cb",
+    "wof:geomhash":"75333e67c88b09844f12d13f07a7f04a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806924179,
-    "wof:lastmodified":1467090491,
+    "wof:lastmodified":1510602378,
     "wof:name":"Motorola",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773474573,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 S 18th Ave Sturgeon Bay WI 54235",
+    "addr:housenumber":"345",
+    "addr:postcode":"54235",
+    "addr:street":"S 18Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.351537,44.832756,-87.351537,44.832756",
     "geom:latitude":44.832756,
     "geom:longitude":-87.351537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"345 S 18th Ave",
     "sg:city":"Sturgeon Bay",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081831,
         85688517
     ],
+    "wof:brand_id":1125152573,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3utQ3v3mQcVqXV7F5GNQ9o_44.832756_-87.351537@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586019,
-    "wof:geomhash":"47281c982efdc0b9bb7241918fcf9249",
+    "wof:geomhash":"705b2be6523a9270b5abda0b8fa77490",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773474573,
-    "wof:lastmodified":1467090062,
+    "wof:lastmodified":1510698841,
     "wof:name":"Beltone Hearing Aid Center",
     "wof:parent_id":85851043,
     "wof:placetype":"venue",

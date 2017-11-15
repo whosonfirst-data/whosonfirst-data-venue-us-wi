@@ -2,14 +2,20 @@
   "id": 807367555,
   "type": "Feature",
   "properties": {
+    "addr:full":"2412 Grand Ave Wausau WI 54403",
+    "addr:housenumber":"2412",
+    "addr:postcode":"54403",
+    "addr:street":"Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.615513,44.932482,-89.615513,44.932482",
     "geom:latitude":44.932482,
     "geom:longitude":-89.615513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2412 Grand Ave",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081881,
         85854809
     ],
+    "wof:brand_id":1125150833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oz8es0CuBSBmE0jnUwqmP_44.932482_-89.615513@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606759,
-    "wof:geomhash":"56b3c66166866c6ead551c8a61040184",
+    "wof:geomhash":"b9595145757ca490a5b5108a097044e0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807367555,
-    "wof:lastmodified":1467090625,
+    "wof:lastmodified":1510695417,
     "wof:name":"Lee's Famous Recipe Chicken",
     "wof:parent_id":85854809,
     "wof:placetype":"venue",

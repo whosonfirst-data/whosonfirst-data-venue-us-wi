@@ -2,9 +2,14 @@
   "id": 773403743,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 N Madison St Waunakee WI 53597",
+    "addr:housenumber":"107",
+    "addr:postcode":"53597",
+    "addr:street":"N Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.451766,43.191951,-89.451766,43.191951",
     "geom:latitude":43.191951,
     "geom:longitude":-89.451766,
@@ -38,12 +43,7 @@
         "plumbing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ds71GynMCzYdQQOzyoZHz_43.191951_-89.451766@1294253271"
@@ -51,17 +51,9 @@
     "wof:country":"US",
     "wof:created":1462585428,
     "wof:geomhash":"1b1c8be9c90778ed967debb5162f309f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773403743
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773403743,
-    "wof:lastmodified":1467090045,
+    "wof:lastmodified":1491935690,
     "wof:name":"Alienman Paintball Supply",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

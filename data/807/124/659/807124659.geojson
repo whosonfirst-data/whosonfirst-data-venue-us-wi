@@ -2,14 +2,20 @@
   "id": 807124659,
   "type": "Feature",
   "properties": {
+    "addr:full":"620 Mark Ave Sheboygan Falls WI 53085",
+    "addr:housenumber":"620",
+    "addr:postcode":"53085",
+    "addr:street":"Mark Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.818392,43.720428,-87.818392,43.720428",
     "geom:latitude":43.720428,
     "geom:longitude":-87.818392,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"620 Mark Ave",
     "sg:city":"Sheboygan Falls",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85820559,
         102081869
     ],
+    "wof:brand_id":420575137,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KfEX2sbE5Hhc7PkeTjkxY_43.720428_-87.818392@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603997,
-    "wof:geomhash":"099bdfc32458f5557203730144782a20",
+    "wof:geomhash":"a6ee8de5dc99038afb4329590467335a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":807124659,
-    "wof:lastmodified":1467090544,
+    "wof:lastmodified":1510602463,
     "wof:name":"Disabled American Veterans",
     "wof:parent_id":85820559,
     "wof:placetype":"venue",

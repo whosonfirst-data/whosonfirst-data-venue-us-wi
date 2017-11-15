@@ -2,14 +2,20 @@
   "id": 790164247,
   "type": "Feature",
   "properties": {
+    "addr:full":"2243 Crary St Green Bay WI 54304",
+    "addr:housenumber":"2243",
+    "addr:postcode":"54304",
+    "addr:street":"Crary St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.051484,44.486069,-88.051484,44.486069",
     "geom:latitude":44.486069,
     "geom:longitude":-88.051484,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2243 Crary St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125150593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iTuOqz4VyfXM94r9SKXJE_44.486069_-88.051484@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593637,
-    "wof:geomhash":"9e817c3a0a84b6a80b3b1fe3f02971a0",
+    "wof:geomhash":"3ad64db5095a314162dd37f9e5df7b09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790164247,
-    "wof:lastmodified":1467090264,
+    "wof:lastmodified":1510613421,
     "wof:name":"Lutheran Social Svc",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",

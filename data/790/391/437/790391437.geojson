@@ -2,14 +2,20 @@
   "id": 790391437,
   "type": "Feature",
   "properties": {
+    "addr:full":"2830 Ramada Way Green Bay WI 54304",
+    "addr:housenumber":"2830",
+    "addr:postcode":"54304",
+    "addr:street":"Ramada Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.07808,44.47365,-88.07808,44.47365",
     "geom:latitude":44.47365,
     "geom:longitude":-88.07808,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2830 Ramada Way",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":420574433,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QUtGpLlSR3hG55RoMHbhE_44.473650_-88.078080@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462595477,
-    "wof:geomhash":"9c849ca8a7e019037e09ba24f8b70e8b",
+    "wof:geomhash":"1940cac70ac79363063cadaa4998c4a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790391437,
-    "wof:lastmodified":1467090309,
+    "wof:lastmodified":1510608385,
     "wof:name":"Morgan Stanley",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

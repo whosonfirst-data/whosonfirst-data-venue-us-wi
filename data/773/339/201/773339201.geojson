@@ -2,14 +2,20 @@
   "id": 773339201,
   "type": "Feature",
   "properties": {
+    "addr:full":"1605 Manhattan Dr Waukesha WI 53186",
+    "addr:housenumber":"1605",
+    "addr:postcode":"53186",
+    "addr:street":"Manhattan Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.20736,43.022046,-88.20736,43.022046",
     "geom:latitude":43.022046,
     "geom:longitude":-88.20736,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1605 Manhattan Dr",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125150285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15Kz6vr2dnfYyePLHGpTzN_43.022046_-88.207360@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584976,
-    "wof:geomhash":"e6ff3c923336b9f9ff5b06f68ed56740",
+    "wof:geomhash":"b0a55ef3363c30d2463d9ba462468c63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773339201,
-    "wof:lastmodified":1467090030,
+    "wof:lastmodified":1510695359,
     "wof:name":"Orkin Exterminating Co",
     "wof:parent_id":85815589,
     "wof:placetype":"venue",

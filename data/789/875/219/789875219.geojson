@@ -2,14 +2,20 @@
   "id": 789875219,
   "type": "Feature",
   "properties": {
+    "addr:full":"7910 S Hallberg Rd Lake Nebagamon WI 54849",
+    "addr:housenumber":"7910",
+    "addr:postcode":"54849",
+    "addr:street":"S Hallberg Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.748165,46.477672,-91.748165,46.477672",
     "geom:latitude":46.477672,
     "geom:longitude":-91.748165,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7910 S Hallberg Rd",
     "sg:city":"Lake Nebagamon",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081291,
         85827153
     ],
+    "wof:brand_id":420575827,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qqAi5A0yMydWJ8nIyuDpY_46.477672_-91.748165@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591227,
-    "wof:geomhash":"246ab1e5d803b8f03cce06d39071c436",
+    "wof:geomhash":"ab2e595eef5c99e5d228c65cc1ddd4b6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789875219,
-    "wof:lastmodified":1467090207,
+    "wof:lastmodified":1510602922,
     "wof:name":"Interntnal Assn of Lions Clubs",
     "wof:parent_id":85827153,
     "wof:placetype":"venue",

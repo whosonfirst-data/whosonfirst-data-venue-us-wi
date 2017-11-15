@@ -2,9 +2,14 @@
   "id": 773090947,
   "type": "Feature",
   "properties": {
+    "addr:full":"5440 Willow Rd Waunakee WI 53597",
+    "addr:housenumber":"5440",
+    "addr:postcode":"53597",
+    "addr:street":"Willow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.41373,43.15154,-89.41373,43.15154",
     "geom:latitude":43.15154,
     "geom:longitude":-89.41373,
@@ -35,12 +40,7 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HmsHZl56f0Fm1sak7f9De_43.151540_-89.413730@1294253271"
@@ -48,17 +48,9 @@
     "wof:country":"US",
     "wof:created":1462583086,
     "wof:geomhash":"c5186d136aad37b56813340224bc8295",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773090947
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773090947,
-    "wof:lastmodified":1467089959,
+    "wof:lastmodified":1491935709,
     "wof:name":"Marina Video",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

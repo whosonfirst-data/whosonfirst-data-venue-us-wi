@@ -2,9 +2,14 @@
   "id": 773091753,
   "type": "Feature",
   "properties": {
+    "addr:full":"3219 Co Rd H Lake Geneva WI 53147",
+    "addr:housenumber":"3219",
+    "addr:postcode":"53147",
+    "addr:street":"Co Rd H",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.447375,42.608462,-88.447375,42.608462",
     "geom:latitude":42.608462,
     "geom:longitude":-88.447375,
@@ -27,13 +32,7 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57hPZqmdDRKx8evGvRApPM_42.608462_-88.447375@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462583092,
     "wof:geomhash":"e3f730e9c0ec106f8bfc5d17d20df963",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":773091753
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773091753,
-    "wof:lastmodified":1467089960,
+    "wof:lastmodified":1492088068,
     "wof:name":"Petite Styling Salon",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

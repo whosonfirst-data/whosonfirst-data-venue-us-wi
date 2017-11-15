@@ -2,9 +2,14 @@
   "id": 773608259,
   "type": "Feature",
   "properties": {
+    "addr:full":"996 State Rd 20 East Troy WI 53120",
+    "addr:housenumber":"996;20",
+    "addr:postcode":"53120",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.346843,42.789062,-88.346843,42.789062",
     "geom:latitude":42.789062,
     "geom:longitude":-88.346843,
@@ -24,7 +29,13 @@
     "sg:postcode":"53120",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494703,
+        85633793,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zr5V53hVMF0XEa8CTRbFJ_42.789062_-88.346843@1294253271"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462586997,
     "wof:geomhash":"f28e4e27d1303631a9ba1a96460e1b7f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404494703,
+            "region_id":85688517,
+            "venue_id":773608259
+        }
+    ],
     "wof:id":773608259,
-    "wof:lastmodified":1467090093,
+    "wof:lastmodified":1492109459,
     "wof:name":"Woodcut Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

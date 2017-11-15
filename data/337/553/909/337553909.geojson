@@ -2,14 +2,20 @@
   "id": 337553909,
   "type": "Feature",
   "properties": {
+    "addr:full":"750 Windsor St Sun Prairie WI 53590",
+    "addr:housenumber":"750",
+    "addr:postcode":"53590",
+    "addr:street":"Windsor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.224243,43.187586,-89.224243,43.187586",
     "geom:latitude":43.187586,
     "geom:longitude":-89.224243,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"750 Windsor St",
     "sg:city":"Sun Prairie",
     "sg:classifiers":[
@@ -40,12 +46,13 @@
         102081795,
         85878835
     ],
+    "wof:brand_id":1125154993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3y7AzzCE9Io5jixJNm0jXv_43.187586_-89.224243@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"4364a4e8179bf1e626b3ba1fd4bdd43a",
+    "wof:geomhash":"6627a2ee912b6c6d64194de187758a63",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":337553909,
-    "wof:lastmodified":1467089892,
+    "wof:lastmodified":1510698768,
     "wof:name":"Ecolab Inc",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

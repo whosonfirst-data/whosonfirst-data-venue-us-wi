@@ -2,14 +2,20 @@
   "id": 790179369,
   "type": "Feature",
   "properties": {
+    "addr:full":"127 Jefferson St Oregon WI 53575",
+    "addr:housenumber":"127",
+    "addr:postcode":"53575",
+    "addr:street":"Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.385799,42.92677,-89.385799,42.92677",
     "geom:latitude":42.92677,
     "geom:longitude":-89.385799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"127 Jefferson St",
     "sg:city":"Oregon",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85829451,
         102081795
     ],
+    "wof:brand_id":1125151075,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YoQTkTAPWF9lYIYE19xHB_42.926770_-89.385799@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593769,
-    "wof:geomhash":"f2debff89f8d11da06fe0bc6ed0b649c",
+    "wof:geomhash":"bf63ab48b478145404a208de79835d53",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":790179369,
-    "wof:lastmodified":1467090267,
+    "wof:lastmodified":1510696085,
     "wof:name":"M & I Bank",
     "wof:parent_id":85829451,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790523695,
   "type": "Feature",
   "properties": {
+    "addr:full":"4425 N Port Washington Rd Milwaukee WI 53212",
+    "addr:housenumber":"4425",
+    "addr:postcode":"53212",
+    "addr:street":"N Port Washington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.917075,43.098067,-87.917075,43.098067",
     "geom:latitude":43.098067,
     "geom:longitude":-87.917075,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4425 N Port Washington Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125156599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FwqmhkWoBko5QEawBldfS_43.098067_-87.917075@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596570,
-    "wof:geomhash":"cf207cc01bfd30381a12aa007910ab28",
+    "wof:geomhash":"1781e0f5e4837c8b561dee3d299b8b7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790523695,
-    "wof:lastmodified":1467090337,
+    "wof:lastmodified":1510694627,
     "wof:name":"Kimberly-Clark",
     "wof:parent_id":85870875,
     "wof:placetype":"venue",

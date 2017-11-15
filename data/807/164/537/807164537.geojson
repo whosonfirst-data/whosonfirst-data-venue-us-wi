@@ -2,14 +2,20 @@
   "id": 807164537,
   "type": "Feature",
   "properties": {
+    "addr:full":"8370 Murphy Dr Middleton WI 53562",
+    "addr:housenumber":"8370",
+    "addr:postcode":"53562",
+    "addr:street":"Murphy Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.525013,43.09854,-89.525013,43.09854",
     "geom:latitude":43.09854,
     "geom:longitude":-89.525013,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8370 Murphy Dr",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -28,23 +34,28 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
+    "wof:brand_id":1125155589,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Zq3aIxzZOfIM9884HMHCy_43.098540_-89.525013@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604423,
-    "wof:geomhash":"67d1ecd868fbef572450764fe6adbd0e",
+    "wof:geomhash":"4ac77bc6311e7339c857b953b1d3e4a6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -52,7 +63,7 @@
         }
     ],
     "wof:id":807164537,
-    "wof:lastmodified":1467090557,
+    "wof:lastmodified":1510694031,
     "wof:name":"Crescent Electric Supply Co",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

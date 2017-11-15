@@ -2,14 +2,20 @@
   "id": 806408781,
   "type": "Feature",
   "properties": {
+    "addr:full":"795 N Van Buren St Milwaukee WI 53202",
+    "addr:housenumber":"795",
+    "addr:postcode":"53202",
+    "addr:street":"N Van Buren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.902985,43.040298,-87.902985,43.040298",
     "geom:latitude":43.040298,
     "geom:longitude":-87.902985,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"795 N Van Buren St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125153835,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_305ay6ZoeXQRlbHo4H8iIc_43.040298_-87.902985@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462597910,
-    "wof:geomhash":"3cf9b5a2d0b3facd6387a1955f93e911",
+    "wof:geomhash":"3d1adae0e5244b0b5b89e51c25ec423a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806408781,
-    "wof:lastmodified":1467090372,
+    "wof:lastmodified":1510696918,
     "wof:name":"American Heart Association",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",

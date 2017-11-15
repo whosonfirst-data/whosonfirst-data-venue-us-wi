@@ -2,9 +2,14 @@
   "id": 337294097,
   "type": "Feature",
   "properties": {
+    "addr:full":"3235 W Mc Kinley Blvd Milwaukee WI 53208",
+    "addr:housenumber":"3235",
+    "addr:postcode":"53208",
+    "addr:street":"W Mc Kinley Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.954776,43.0472,-87.954776,43.0472",
     "geom:latitude":43.0472,
     "geom:longitude":-87.954776,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870967,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870967
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"90eb0844d6aff533bfb240eb05f76e75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870967,
             "region_id":85688517,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":337294097,
-    "wof:lastmodified":1467089895,
+    "wof:lastmodified":1491918255,
     "wof:name":"Green Family Inc",
     "wof:parent_id":85870967,
     "wof:placetype":"venue",

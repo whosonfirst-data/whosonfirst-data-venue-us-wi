@@ -2,9 +2,14 @@
   "id": 789820129,
   "type": "Feature",
   "properties": {
+    "addr:full":"3780 124th St Pleasant Prairie WI 53158",
+    "addr:housenumber":"3780",
+    "addr:postcode":"53158",
+    "addr:street":"124Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.851386,42.498201,-87.851386,42.498201",
     "geom:latitude":42.498201,
     "geom:longitude":-87.851386,
@@ -27,7 +32,14 @@
         "chemical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493401,
+        85633793,
+        101732575,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HVxjFylU2JWpoJsPIDDyN_42.498201_-87.851386@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462590789,
     "wof:geomhash":"51fe8f4b0364c3e8d8b828885edbdd7a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493401,
+            "locality_id":101732575,
+            "region_id":85688517,
+            "venue_id":789820129
+        }
+    ],
     "wof:id":789820129,
-    "wof:lastmodified":1467090197,
+    "wof:lastmodified":1492103503,
     "wof:name":"Hydrite Chemical Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

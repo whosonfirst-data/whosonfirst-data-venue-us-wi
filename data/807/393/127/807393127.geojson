@@ -2,9 +2,14 @@
   "id": 807393127,
   "type": "Feature",
   "properties": {
+    "addr:full":"4001 County Road G Caledonia WI 53108",
+    "addr:housenumber":"4001",
+    "addr:postcode":"53108",
+    "addr:street":"County Road G",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.971703,42.807999,-87.971703,42.807999",
     "geom:latitude":42.807999,
     "geom:longitude":-87.971703,
@@ -28,7 +33,10 @@
         "sitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FJIIrNjoPZvljgKH77By1_42.807999_-87.971703@1303262806"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462607120,
     "wof:geomhash":"d74e9b33866803d9af22a6a9b30be9f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550151,
+            "venue_id":807393127
+        }
+    ],
     "wof:id":807393127,
-    "wof:lastmodified":1467090635,
+    "wof:lastmodified":1492103406,
     "wof:name":"Bryerlane Pet Resort",
     "wof:parent_id":420550151,
     "wof:placetype":"venue",

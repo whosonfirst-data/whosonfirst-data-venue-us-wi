@@ -2,9 +2,14 @@
   "id": 807335573,
   "type": "Feature",
   "properties": {
+    "addr:full":"8225 McHenry St Burlington WI 53105",
+    "addr:housenumber":"8225",
+    "addr:postcode":"53105",
+    "addr:street":"Mchenry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.296303,42.6236,-88.296303,42.6236",
     "geom:latitude":42.6236,
     "geom:longitude":-88.296303,
@@ -31,7 +36,14 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494891,
+        85633793,
+        101733599,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L3HiBrpN6kqpxiei2P8Il_42.623369_-88.296740@1293134755"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1462606277,
     "wof:geomhash":"23dc2600d1034a3bbcb8d2459fcfc48b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494891,
+            "locality_id":101733599,
+            "region_id":85688517,
+            "venue_id":807335573
+        }
+    ],
     "wof:id":807335573,
-    "wof:lastmodified":1467090612,
+    "wof:lastmodified":1492111805,
     "wof:name":"Countryside Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

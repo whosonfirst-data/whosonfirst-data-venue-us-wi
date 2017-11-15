@@ -2,9 +2,14 @@
   "id": 807028831,
   "type": "Feature",
   "properties": {
+    "addr:full":"2002 200th Ave Union Grove WI 53182",
+    "addr:housenumber":"2002",
+    "addr:postcode":"53182",
+    "addr:street":"200Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.05184,42.63264,-88.05184,42.63264",
     "geom:latitude":42.63264,
     "geom:longitude":-88.05184,
@@ -27,7 +32,13 @@
         "equine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493397,
+        85633793,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZKmoBu8pTd8Lm4ODQcYQ5_42.632640_-88.051840@1294253271"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462603115,
     "wof:geomhash":"27a648a283e73549529b9dba4dc77259",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493397,
+            "region_id":85688517,
+            "venue_id":807028831
+        }
+    ],
     "wof:id":807028831,
-    "wof:lastmodified":1467090517,
+    "wof:lastmodified":1492103496,
     "wof:name":"Spring Willow Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

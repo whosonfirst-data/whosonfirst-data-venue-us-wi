@@ -2,14 +2,20 @@
   "id": 773567819,
   "type": "Feature",
   "properties": {
+    "addr:full":"131 W Wilson St Madison WI 53703",
+    "addr:housenumber":"131",
+    "addr:postcode":"53703",
+    "addr:street":"W Wilson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.384056,43.070596,-89.384056,43.070596",
     "geom:latitude":43.070596,
     "geom:longitude":-89.384056,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"131 W Wilson St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125155999,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6y1mlh2nXNCX1zhzCgqDYA_43.070596_-89.384056@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586705,
-    "wof:geomhash":"493e6ab3080e2921b4f1b9e2c5b8ad10",
+    "wof:geomhash":"91dfed3a027d537474c3c478745f6a05",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773567819,
-    "wof:lastmodified":1467090084,
+    "wof:lastmodified":1510694034,
     "wof:name":"Storagetek",
     "wof:parent_id":85878825,
     "wof:placetype":"venue",

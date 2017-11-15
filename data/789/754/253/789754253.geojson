@@ -2,9 +2,14 @@
   "id": 789754253,
   "type": "Feature",
   "properties": {
+    "addr:full":"128 Fairbrook Dr Waunakee WI 53597",
+    "addr:housenumber":"128",
+    "addr:postcode":"53597",
+    "addr:street":"Fairbrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.458536,43.195389,-89.458536,43.195389",
     "geom:latitude":43.195389,
     "geom:longitude":-89.458536,
@@ -27,12 +32,7 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PS2HnLhUwQpwam10ZgkyC_43.195389_-89.458536@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462590285,
     "wof:geomhash":"84d52e24a73a79926f4f2f12f9907b69",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789754253
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789754253,
-    "wof:lastmodified":1467090185,
+    "wof:lastmodified":1491935688,
     "wof:name":"Your Computer Mentor",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

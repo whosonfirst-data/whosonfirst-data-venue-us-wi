@@ -2,9 +2,14 @@
   "id": 790554341,
   "type": "Feature",
   "properties": {
+    "addr:full":"727 Geneva St Lake Geneva WI 53147",
+    "addr:housenumber":"727",
+    "addr:postcode":"53147",
+    "addr:street":"Geneva St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.434905,42.593055,-88.434905,42.593055",
     "geom:latitude":42.593055,
     "geom:longitude":-88.434905,
@@ -27,13 +32,7 @@
         "jeweler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0okorMglUlxjfxfL3BHtLI_42.593055_-88.434905@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462596832,
     "wof:geomhash":"e325858733d153b8efb1eaeef0848058",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":790554341
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790554341,
-    "wof:lastmodified":1467090344,
+    "wof:lastmodified":1492098827,
     "wof:name":"In All Her Glory",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

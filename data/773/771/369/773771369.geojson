@@ -2,14 +2,20 @@
   "id": 773771369,
   "type": "Feature",
   "properties": {
+    "addr:full":"4716 Vernon Rd Madison WI 53704",
+    "addr:housenumber":"4716",
+    "addr:postcode":"53704",
+    "addr:street":"Vernon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.29002,43.109245,-89.29002,43.109245",
     "geom:latitude":43.109245,
     "geom:longitude":-89.29002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4716 Vernon Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85878835,
         102081795
     ],
+    "wof:brand_id":420575719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4twleZ4mBIFR09oziVj06B_43.109245_-89.290020@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588252,
-    "wof:geomhash":"94843293a0514f6138d6dedda7d1e52d",
+    "wof:geomhash":"ff8eb42c4d777ae0e6a0b9a29d582de4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773771369,
-    "wof:lastmodified":1467090130,
+    "wof:lastmodified":1510602885,
     "wof:name":"Guaranty Bank",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

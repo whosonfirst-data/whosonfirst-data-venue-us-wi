@@ -2,9 +2,14 @@
   "id": 387775769,
   "type": "Feature",
   "properties": {
+    "addr:full":"3150 W Burleigh St Milwaukee WI 53210",
+    "addr:housenumber":"3150",
+    "addr:postcode":"53210",
+    "addr:street":"W Burleigh St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.95508,43.075213,-87.95508,43.075213",
     "geom:latitude":43.075213,
     "geom:longitude":-87.95508,
@@ -46,10 +51,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870825,
+        102191575,
+        404492091,
         85633793,
         101732987,
-        102081837
+        102081837,
+        85688517,
+        85870877,
+        85870943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,19 +69,40 @@
     "wof:geomhash":"6d51cf3d0cc9a02cb1242787750deba4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85870825,
+            "region_id":85688517,
+            "venue_id":387775769
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870877,
+            "region_id":85688517,
+            "venue_id":387775769
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870943,
             "region_id":85688517,
             "venue_id":387775769
         }
     ],
     "wof:id":387775769,
-    "wof:lastmodified":1467089930,
+    "wof:lastmodified":1491926538,
     "wof:name":"Logemann Brothers Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

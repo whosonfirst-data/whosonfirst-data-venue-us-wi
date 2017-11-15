@@ -2,9 +2,14 @@
   "id": 789679571,
   "type": "Feature",
   "properties": {
+    "addr:full":"1913 Manchester Xing Waunakee WI 53597",
+    "addr:housenumber":"1913",
+    "addr:postcode":"53597",
+    "addr:street":"Manchester Xing",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.439049,43.176256,-89.439049,43.176256",
     "geom:latitude":43.176256,
     "geom:longitude":-89.439049,
@@ -28,12 +33,7 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54dq8wBTLqjepGKRKqRSuS_43.176256_-89.439049@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462589697,
     "wof:geomhash":"703840058cffb91bbc5ba69e71f45564",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789679571
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789679571,
-    "wof:lastmodified":1467090169,
+    "wof:lastmodified":1491935684,
     "wof:name":"Homestead Living Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

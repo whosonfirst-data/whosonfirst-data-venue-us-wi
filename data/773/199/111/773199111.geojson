@@ -2,14 +2,20 @@
   "id": 773199111,
   "type": "Feature",
   "properties": {
+    "addr:full":"1837 North Ave Sheboygan WI 53083",
+    "addr:housenumber":"1837",
+    "addr:postcode":"53083",
+    "addr:street":"North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.730745,43.773858,-87.730745,43.773858",
     "geom:latitude":43.773858,
     "geom:longitude":-87.730745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1837 North Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":420575743,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HjAQ59UwGPf94DfbKyMg3_43.773858_-87.730745@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583926,
-    "wof:geomhash":"a012efe8ac57112ff358a43fd2018f67",
+    "wof:geomhash":"ad9df89ad27f2982d0dcbfae8953cba3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773199111,
-    "wof:lastmodified":1467089986,
+    "wof:lastmodified":1510607561,
     "wof:name":"Coca-Cola Bottling Co",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

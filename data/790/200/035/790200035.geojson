@@ -2,9 +2,14 @@
   "id": 790200035,
   "type": "Feature",
   "properties": {
+    "addr:full":"6323 328th Ave Salem WI 53168",
+    "addr:housenumber":"6323",
+    "addr:postcode":"53168",
+    "addr:street":"328Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.204497,42.57957,-88.204497,42.57957",
     "geom:latitude":42.57957,
     "geom:longitude":-88.204497,
@@ -28,7 +33,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NYiYRxITLjNuDlA55YiJL_42.579570_-88.204497@1294253271"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462593958,
     "wof:geomhash":"b4ff13b7029befea7c3e8f86748d0b58",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":790200035
+        }
+    ],
     "wof:id":790200035,
-    "wof:lastmodified":1467090271,
+    "wof:lastmodified":1492112035,
     "wof:name":"Quality Home Ceramics",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

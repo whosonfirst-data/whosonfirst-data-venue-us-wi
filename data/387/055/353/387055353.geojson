@@ -2,14 +2,20 @@
   "id": 387055353,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 N Executive Dr Brookfield WI 53005",
+    "addr:housenumber":"400",
+    "addr:postcode":"53005",
+    "addr:street":"N Executive Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.114724,43.035749,-88.114724,43.035749",
     "geom:latitude":43.035749,
     "geom:longitude":-88.114724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 N Executive Dr",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102081741,
         85808849
     ],
+    "wof:brand_id":1125151791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4n0IGIuVpbXtupScXwD7y6_43.035749_-88.114724@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"37fd4ee666c82089ea3f63b324feaf07",
+    "wof:geomhash":"70fe2b232ae0e65b1a0d8404d9f0b828",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387055353,
-    "wof:lastmodified":1467089924,
+    "wof:lastmodified":1510699964,
     "wof:name":"Intel Corp",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",

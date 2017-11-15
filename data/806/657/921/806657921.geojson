@@ -2,14 +2,20 @@
   "id": 806657921,
   "type": "Feature",
   "properties": {
+    "addr:full":"12645 W Capitol Dr Brookfield WI 53005",
+    "addr:housenumber":"12645",
+    "addr:postcode":"53005",
+    "addr:street":"W Capitol Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.071195,43.088977,-88.071195,43.088977",
     "geom:latitude":43.088977,
     "geom:longitude":-88.071195,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12645 W Capitol Dr",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -31,33 +37,34 @@
     "wof:belongsto":[
         85870871,
         102191575,
-        404495623,
+        404492091,
         85633793,
-        101733513,
-        102081741,
+        101732987,
+        102081837,
         85688517
     ],
+    "wof:brand_id":420573809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ks5chb6pv9fPDXp18tjYd_43.088977_-88.071195@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462599978,
-    "wof:geomhash":"c83f3d3d5c463e9676b30fa12e1ad744",
+    "wof:geomhash":"f1966c03d3a5ef0026a1baed50b7bc73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081741,
-            "localadmin_id":404495623,
-            "locality_id":101733513,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870871,
             "region_id":85688517,
             "venue_id":806657921
         }
     ],
     "wof:id":806657921,
-    "wof:lastmodified":1467090431,
+    "wof:lastmodified":1510603477,
     "wof:name":"Payless Shoe Source",
     "wof:parent_id":85870871,
     "wof:placetype":"venue",

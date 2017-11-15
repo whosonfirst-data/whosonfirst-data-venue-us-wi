@@ -2,14 +2,20 @@
   "id": 790624553,
   "type": "Feature",
   "properties": {
+    "addr:full":"832 Hackett St Beloit WI 53511",
+    "addr:housenumber":"832",
+    "addr:postcode":"53511",
+    "addr:street":"Hackett St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.051571,42.506535,-89.051571,42.506535",
     "geom:latitude":42.506535,
     "geom:longitude":-89.051571,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"832 Hackett St",
     "sg:city":"Beloit",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081829,
         85810961
     ],
+    "wof:brand_id":1125152167,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70xJofvJvhUE01jumYUuR0_42.506535_-89.051571@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462597458,
-    "wof:geomhash":"9ec608c198ec9872a861ee9a0765f434",
+    "wof:geomhash":"d680e27606ffd83fa34036eeb2f0c0e5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790624553,
-    "wof:lastmodified":1467090360,
+    "wof:lastmodified":1510693952,
     "wof:name":"Order of Eastern Star of",
     "wof:parent_id":85810961,
     "wof:placetype":"venue",

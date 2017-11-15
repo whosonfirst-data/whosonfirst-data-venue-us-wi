@@ -2,14 +2,20 @@
   "id": 790012975,
   "type": "Feature",
   "properties": {
+    "addr:full":"885 Parkview Rd Green Bay WI 54304",
+    "addr:housenumber":"885",
+    "addr:postcode":"54304",
+    "addr:street":"Parkview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.082405,44.465459,-88.082405,44.465459",
     "geom:latitude":44.465459,
     "geom:longitude":-88.082405,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"885 Parkview Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125151959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_412VT279D3oXRnGa4mOii3_44.465459_-88.082405@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592428,
-    "wof:geomhash":"ba06066f970630af900956e210134066",
+    "wof:geomhash":"26b16ca33aed806bca26c2679c7a16db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790012975,
-    "wof:lastmodified":1467090234,
+    "wof:lastmodified":1510699564,
     "wof:name":"Praxair Inc",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

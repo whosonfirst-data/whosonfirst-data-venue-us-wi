@@ -2,9 +2,14 @@
   "id": 773663861,
   "type": "Feature",
   "properties": {
+    "addr:full":"8719 Sterman Rd East Troy WI 53120",
+    "addr:housenumber":"8719",
+    "addr:postcode":"53120",
+    "addr:street":"Sterman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.493957,42.806778,-88.493957,42.806778",
     "geom:latitude":42.806778,
     "geom:longitude":-88.493957,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494469,
+        85633793,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QfENAxf2XVt1Xa1gHJXDb_42.806778_-88.493957@1294253271"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462587426,
     "wof:geomhash":"7581cd1321d93486f88f7b8f9d1adb3d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404494469,
+            "region_id":85688517,
+            "venue_id":773663861
+        }
+    ],
     "wof:id":773663861,
-    "wof:lastmodified":1467090105,
+    "wof:lastmodified":1492098692,
     "wof:name":"Tim Gorman Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

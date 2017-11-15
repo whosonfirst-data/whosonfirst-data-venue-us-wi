@@ -2,14 +2,20 @@
   "id": 807101317,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 S Koeller St Oshkosh WI 54902",
+    "addr:housenumber":"350",
+    "addr:postcode":"54902",
+    "addr:street":"S Koeller St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.581499,44.012413,-88.581499,44.012413",
     "geom:latitude":44.012413,
     "geom:longitude":-88.581499,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"350 S Koeller St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081801,
         85819403
     ],
+    "wof:brand_id":420574957,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PtoQuYhBKE371DUR5zVad_44.012413_-88.581499@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603747,
-    "wof:geomhash":"963f0cefaa10f274008294aaacc60ccf",
+    "wof:geomhash":"b1d689a5962c433fef0c0eef47453026",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807101317,
-    "wof:lastmodified":1467090536,
+    "wof:lastmodified":1510604338,
     "wof:name":"Midas Muffler",
     "wof:parent_id":85819403,
     "wof:placetype":"venue",

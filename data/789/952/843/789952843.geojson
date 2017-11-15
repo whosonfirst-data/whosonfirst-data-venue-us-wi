@@ -2,9 +2,14 @@
   "id": 789952843,
   "type": "Feature",
   "properties": {
+    "addr:full":"6850 S 109th St Franklin WI 53132",
+    "addr:housenumber":"6850",
+    "addr:postcode":"53132",
+    "addr:street":"S 109Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.049551,42.919285,-88.049551,42.919285",
     "geom:latitude":42.919285,
     "geom:longitude":-88.049551,
@@ -29,7 +34,14 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5B1BazVtNtd4BQSYvRkc1a_42.919285_-88.049551@1294253271"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462591942,
     "wof:geomhash":"1420b115f8d08a6f442959cd88a6a2cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":789952843
+        }
+    ],
     "wof:id":789952843,
-    "wof:lastmodified":1467090222,
+    "wof:lastmodified":1492102972,
     "wof:name":"Bonded Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

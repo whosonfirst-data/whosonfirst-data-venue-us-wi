@@ -2,9 +2,14 @@
   "id": 806763893,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 S Madison St Waunakee WI 53597",
+    "addr:housenumber":"116",
+    "addr:postcode":"53597",
+    "addr:street":"S Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.451923,43.191239,-89.451923,43.191239",
     "geom:latitude":43.191239,
     "geom:longitude":-89.451923,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6V7Nz2Ixda09EhHtaUZAWT_43.191239_-89.451923@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462600877,
     "wof:geomhash":"e3d55620fff64d2bec690359e0089239",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806763893
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806763893,
-    "wof:lastmodified":1467090456,
+    "wof:lastmodified":1491935730,
     "wof:name":"Auto Loc Doc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

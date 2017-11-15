@@ -2,14 +2,20 @@
   "id": 807401603,
   "type": "Feature",
   "properties": {
+    "addr:full":"8907 S Howell Ave Oak Creek WI 53154",
+    "addr:housenumber":"8907",
+    "addr:postcode":"53154",
+    "addr:street":"S Howell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.912783,42.882215,-87.912783,42.882215",
     "geom:latitude":42.882215,
     "geom:longitude":-87.912783,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8907 S Howell Ave",
     "sg:city":"Oak Creek",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         85688517,
         420550135
     ],
+    "wof:brand_id":420574513,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45ztVNfYUDDzTrx3mRkv0y_42.882215_-87.912783@1303262807"
     },
     "wof:country":"US",
     "wof:created":1462607318,
-    "wof:geomhash":"473ebf057704d380bcfc62f38e67a604",
+    "wof:geomhash":"079f33e5ca07b2133868a2f8dee9e167",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,7 +80,7 @@
         }
     ],
     "wof:id":807401603,
-    "wof:lastmodified":1467090639,
+    "wof:lastmodified":1510604611,
     "wof:name":"FedEx Office Print & Ship Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

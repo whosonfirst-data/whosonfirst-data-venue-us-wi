@@ -2,9 +2,14 @@
   "id": 807247381,
   "type": "Feature",
   "properties": {
+    "addr:full":"2115 Parview Rd Middleton WI 53562",
+    "addr:housenumber":"2115",
+    "addr:postcode":"53562",
+    "addr:street":"Parview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.532086,43.098344,-89.532086,43.098344",
     "geom:latitude":43.098344,
     "geom:longitude":-89.532086,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"d1a6715b761de95b69a5f05c99f99d13",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":807247381,
-    "wof:lastmodified":1467090582,
+    "wof:lastmodified":1491894117,
     "wof:name":"Triggs Siding & Home Imprv Co",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

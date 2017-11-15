@@ -2,9 +2,14 @@
   "id": 790423699,
   "type": "Feature",
   "properties": {
+    "addr:full":"3250 Tulip Rd Lake Geneva WI 53147",
+    "addr:housenumber":"3250",
+    "addr:postcode":"53147",
+    "addr:street":"Tulip Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.479635,42.608748,-88.479635,42.608748",
     "geom:latitude":42.608748,
     "geom:longitude":-88.479635,
@@ -24,13 +29,7 @@
     "sg:postcode":"53147",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DNThqLevdAR9aifnhH0q9_42.608748_-88.479635@1294253271"
@@ -38,18 +37,9 @@
     "wof:country":"US",
     "wof:created":1462595709,
     "wof:geomhash":"2229df15804179b6025fa20c59c647ad",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":790423699
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790423699,
-    "wof:lastmodified":1467090315,
+    "wof:lastmodified":1492103560,
     "wof:name":"Shane P Hansen",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

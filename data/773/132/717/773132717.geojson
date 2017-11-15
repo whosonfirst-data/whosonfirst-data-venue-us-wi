@@ -2,9 +2,14 @@
   "id": 773132717,
   "type": "Feature",
   "properties": {
+    "addr:full":"1626 S Harbor Dr Milwaukee WI 53207",
+    "addr:housenumber":"1626",
+    "addr:postcode":"53207",
+    "addr:street":"S Harbor Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.894977,43.00799,-87.894977,43.00799",
     "geom:latitude":43.00799,
     "geom:longitude":-87.894977,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85870891,
-        102081837
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +51,18 @@
     "wof:geomhash":"7cdfe25342430ed09cc89dc43212679f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870891,
             "region_id":85688517,
             "venue_id":773132717
         }
     ],
     "wof:id":773132717,
-    "wof:lastmodified":1467089969,
+    "wof:lastmodified":1492108932,
     "wof:name":"S T Svc",
     "wof:parent_id":85870891,
     "wof:placetype":"venue",

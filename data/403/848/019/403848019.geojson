@@ -2,14 +2,20 @@
   "id": 403848019,
   "type": "Feature",
   "properties": {
+    "addr:full":"5300 S 76th St Greendale WI 53129",
+    "addr:housenumber":"5300",
+    "addr:postcode":"53129",
+    "addr:street":"S 76Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.008476,42.946837,-88.008476,42.946837",
     "geom:latitude":42.946837,
     "geom:longitude":-88.008476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5300 S 76th St",
     "sg:city":"Greendale",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102081837,
         85870865
     ],
+    "wof:brand_id":1125151913,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EcqKoc994HTt0hVOu9Cwy_42.946837_-88.008476@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"2a5bbe05f7512642e943508c05045efa",
+    "wof:geomhash":"f3ebd7ca1aac39cbac8a0e81a53bd6b8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":403848019,
-    "wof:lastmodified":1467089918,
+    "wof:lastmodified":1510699396,
     "wof:name":"Steak Escape",
     "wof:parent_id":85870865,
     "wof:placetype":"venue",

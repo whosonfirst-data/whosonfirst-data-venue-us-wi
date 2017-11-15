@@ -2,14 +2,20 @@
   "id": 773222929,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 E Mifflin St Madison WI 53703",
+    "addr:housenumber":"2",
+    "addr:postcode":"53703",
+    "addr:street":"E Mifflin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.384126,43.076195,-89.384126,43.076195",
     "geom:latitude":43.076195,
     "geom:longitude":-89.384126,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 E Mifflin St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125151789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HLRtr1Yfedzb1WFg5mO8e_43.076195_-89.384126@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584095,
-    "wof:geomhash":"77a9de63fa40d4475147e4f206fad3bf",
+    "wof:geomhash":"d883d59291ad272f9f20b82bb262fc1c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773222929,
-    "wof:lastmodified":1467089993,
+    "wof:lastmodified":1510694975,
     "wof:name":"Insty-Prints",
     "wof:parent_id":85878827,
     "wof:placetype":"venue",

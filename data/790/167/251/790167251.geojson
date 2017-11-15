@@ -2,14 +2,20 @@
   "id": 790167251,
   "type": "Feature",
   "properties": {
+    "addr:full":"6605 Mineral Point Rd Madison WI 53705",
+    "addr:housenumber":"6605",
+    "addr:postcode":"53705",
+    "addr:street":"Mineral Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.497048,43.060676,-89.497048,43.060676",
     "geom:latitude":43.060676,
     "geom:longitude":-89.497048,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6605 Mineral Point Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125151267,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GKnKjuyGrMrHDmmFxzBio_43.060676_-89.497048@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593666,
-    "wof:geomhash":"39fa6391b7474b4a7213aa375ded05cf",
+    "wof:geomhash":"0629d171a45d707fc7ff1875a0fc9794",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790167251,
-    "wof:lastmodified":1467090264,
+    "wof:lastmodified":1510699354,
     "wof:name":"H & R Block Financial Advisors",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",

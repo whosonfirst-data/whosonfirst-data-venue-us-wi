@@ -2,14 +2,20 @@
   "id": 387926849,
   "type": "Feature",
   "properties": {
+    "addr:full":"750 Regent St Madison WI 53715",
+    "addr:housenumber":"750",
+    "addr:postcode":"53715",
+    "addr:street":"Regent St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.395976,43.06726,-89.395976,43.06726",
     "geom:latitude":43.06726,
     "geom:longitude":-89.395976,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"750 Regent St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -30,23 +36,27 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85868283,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85868283
+        85688517
     ],
+    "wof:brand_id":1125156007,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_582h4Gx7bnAXzYnOTBoc8a_43.067260_-89.395976@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"c519b5cb10c124b84f8a4c5ae5e8e5e6",
+    "wof:geomhash":"ec888c1f9dcb6607160ad82d323dc665",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85868283,
             "region_id":85688517,
@@ -54,7 +64,7 @@
         }
     ],
     "wof:id":387926849,
-    "wof:lastmodified":1467089925,
+    "wof:lastmodified":1510697081,
     "wof:name":"US Small Business Adm",
     "wof:parent_id":85868283,
     "wof:placetype":"venue",

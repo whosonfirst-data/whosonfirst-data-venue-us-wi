@@ -2,14 +2,20 @@
   "id": 807107009,
   "type": "Feature",
   "properties": {
+    "addr:full":"5711 Willow Rd Plymouth WI 53073",
+    "addr:housenumber":"5711",
+    "addr:postcode":"53073",
+    "addr:street":"Willow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.921233,43.746666,-87.921233,43.746666",
     "geom:latitude":43.746666,
     "geom:longitude":-87.921233,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5711 Willow Rd",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081869,
         85836705
     ],
+    "wof:brand_id":1125158623,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mOBdar4sIpYw3NDkkwwpK_43.746666_-87.921233@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603805,
-    "wof:geomhash":"43f8b3241383db1f8ade4bfa9cdfbac6",
+    "wof:geomhash":"b0da739c2e87b4030d7f3d25063f48d2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807107009,
-    "wof:lastmodified":1467090538,
+    "wof:lastmodified":1510695692,
     "wof:name":"SBA Towers Inc",
     "wof:parent_id":85836705,
     "wof:placetype":"venue",

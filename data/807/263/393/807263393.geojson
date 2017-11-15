@@ -2,9 +2,14 @@
   "id": 807263393,
   "type": "Feature",
   "properties": {
+    "addr:full":"402 W Main St Waunakee WI 53597",
+    "addr:housenumber":"402",
+    "addr:postcode":"53597",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.460298,43.191941,-89.460298,43.191941",
     "geom:latitude":43.191941,
     "geom:longitude":-89.460298,
@@ -30,12 +35,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LPUjPAvCMXC6Cskq5Qag0_43.191941_-89.460298@1294253271"
@@ -43,17 +43,9 @@
     "wof:country":"US",
     "wof:created":1462605463,
     "wof:geomhash":"7c67837f5651bdd0cc018e88dff0e37a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807263393
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807263393,
-    "wof:lastmodified":1467090587,
+    "wof:lastmodified":1491935726,
     "wof:name":"Greiber Heating & Sheet Metal",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773497545,
   "type": "Feature",
   "properties": {
+    "addr:full":"8500 Research Way Middleton WI 53562",
+    "addr:housenumber":"8500",
+    "addr:postcode":"53562",
+    "addr:street":"Research Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.532621,43.09323,-89.532621,43.09323",
     "geom:latitude":43.09323,
     "geom:longitude":-89.532621,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"13eb4e16166ee0412d75ab5ca649d721",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":773497545,
-    "wof:lastmodified":1467090068,
+    "wof:lastmodified":1491893978,
     "wof:name":"Wisconsin Analytical RES Svcs",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

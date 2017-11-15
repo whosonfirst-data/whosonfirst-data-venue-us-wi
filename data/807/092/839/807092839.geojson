@@ -2,9 +2,14 @@
   "id": 807092839,
   "type": "Feature",
   "properties": {
+    "addr:full":"8429 Oakmont Dr Madison WI 53717",
+    "addr:housenumber":"8429",
+    "addr:postcode":"53717",
+    "addr:street":"Oakmont Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.528043,43.068977,-89.528043,43.068977",
     "geom:latitude":43.068977,
     "geom:longitude":-89.528043,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"26bc6d6e1c60127bbec4e2b7ee23ca1e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":807092839,
-    "wof:lastmodified":1467090534,
+    "wof:lastmodified":1491894047,
     "wof:name":"Ric Design",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790518049,
   "type": "Feature",
   "properties": {
+    "addr:full":"627 14th Ave N Onalaska WI 54650",
+    "addr:housenumber":"627",
+    "addr:postcode":"54650",
+    "addr:street":"14Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.216958,43.89044,-91.216958,43.89044",
     "geom:latitude":43.89044,
     "geom:longitude":-91.216958,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"627 14th Ave N",
     "sg:city":"Onalaska",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081301,
         85825891
     ],
+    "wof:brand_id":1125151223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2M35v411sBevl9sa8vY41x_43.890440_-91.216958@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596528,
-    "wof:geomhash":"0c4514230289fe7e9afd0ab3c789fa7d",
+    "wof:geomhash":"2c5a08c9de4944d001f6b0b01df2256e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790518049,
-    "wof:lastmodified":1467090336,
+    "wof:lastmodified":1510697269,
     "wof:name":"Indoff Inc",
     "wof:parent_id":85825891,
     "wof:placetype":"venue",

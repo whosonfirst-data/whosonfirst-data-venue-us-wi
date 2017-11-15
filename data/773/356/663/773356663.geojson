@@ -2,14 +2,20 @@
   "id": 773356663,
   "type": "Feature",
   "properties": {
+    "addr:full":"2323 S 102nd St Milwaukee WI 53227",
+    "addr:housenumber":"2323",
+    "addr:postcode":"53227",
+    "addr:street":"S 102Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.041291,43.000864,-88.041291,43.000864",
     "geom:latitude":43.000864,
     "geom:longitude":-88.041291,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2323 S 102nd St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125150463,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KT6jlwu2wpbhT1cZWKxfm_43.000864_-88.041291@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585095,
-    "wof:geomhash":"737b2ac930a6e2d6b6c49f1ea5e87bae",
+    "wof:geomhash":"291c57ae5397af15cfb3cae901431a15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773356663,
-    "wof:lastmodified":1467090034,
+    "wof:lastmodified":1510694146,
     "wof:name":"Pitney Bowes",
     "wof:parent_id":85870861,
     "wof:placetype":"venue",

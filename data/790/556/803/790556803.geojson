@@ -2,9 +2,14 @@
   "id": 790556803,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 N Broadway St Milwaukee WI 53202",
+    "addr:housenumber":"601",
+    "addr:postcode":"53202",
+    "addr:street":"N Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.907827,43.03865,-87.907827,43.03865",
     "geom:latitude":43.03865,
     "geom:longitude":-87.907827,
@@ -31,7 +36,8 @@
         85633793,
         101732987,
         102081837,
-        85688517
+        85688517,
+        85870999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +56,22 @@
             "neighbourhood_id":85867289,
             "region_id":85688517,
             "venue_id":790556803
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870999,
+            "region_id":85688517,
+            "venue_id":790556803
         }
     ],
     "wof:id":790556803,
-    "wof:lastmodified":1467090345,
+    "wof:lastmodified":1491921245,
     "wof:name":"Paris Dr David A DDS SC",
-    "wof:parent_id":85867289,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

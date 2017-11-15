@@ -2,14 +2,20 @@
   "id": 807369211,
   "type": "Feature",
   "properties": {
+    "addr:full":"961 W Clairemont Ave  Eau Claire WI 54701",
+    "addr:housenumber":"961",
+    "addr:postcode":"54701",
+    "addr:street":"W Clairemont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.512999,44.792594,-91.512999,44.792594",
     "geom:latitude":44.792594,
     "geom:longitude":-91.512999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"961 W Clairemont Ave ",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":420575677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yLUJSSTBR3jqxM6uBGltE_44.792594_-91.512999@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606779,
-    "wof:geomhash":"0c8915560e843a695a3161fc888b57fe",
+    "wof:geomhash":"0ea1b4c3d8f240ee485319b83d40b726",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807369211,
-    "wof:lastmodified":1467090625,
+    "wof:lastmodified":1510602900,
     "wof:name":"China Buffet",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

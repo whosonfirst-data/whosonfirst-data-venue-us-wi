@@ -2,9 +2,14 @@
   "id": 806460475,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 E Hunt Ave Twin Lakes WI 53181",
+    "addr:housenumber":"311",
+    "addr:postcode":"53181",
+    "addr:street":"E Hunt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.248383,42.53286,-88.248383,42.53286",
     "geom:latitude":42.53286,
     "geom:longitude":-88.248383,
@@ -27,7 +32,14 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493323,
+        85633793,
+        101732579,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NcwVuxtfQhlydJWbXtiGg_42.532860_-88.248383@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462598316,
     "wof:geomhash":"1bf1cb4d523ed3549d5ee84228f2518c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493323,
+            "locality_id":101732579,
+            "region_id":85688517,
+            "venue_id":806460475
+        }
+    ],
     "wof:id":806460475,
-    "wof:lastmodified":1467090385,
+    "wof:lastmodified":1492098689,
     "wof:name":"Cukla Painting & Decorating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807341997,
   "type": "Feature",
   "properties": {
+    "addr:full":"5694 Marsh Rd Elkhorn WI 53121",
+    "addr:housenumber":"5694",
+    "addr:postcode":"53121",
+    "addr:street":"Marsh Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.578976,42.64792,-88.578976,42.64792",
     "geom:latitude":42.64792,
     "geom:longitude":-88.578976,
@@ -22,7 +27,10 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qdXExUNgwBJMiOq064pSW_42.647920_-88.578976@1294253271"
@@ -30,9 +38,15 @@
     "wof:country":"US",
     "wof:created":1462606376,
     "wof:geomhash":"f3f5b41a53beba6d440ce7092d49a25c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550177,
+            "venue_id":807341997
+        }
+    ],
     "wof:id":807341997,
-    "wof:lastmodified":1467090614,
+    "wof:lastmodified":1492098952,
     "wof:name":"Reu Leveren",
     "wof:parent_id":420550177,
     "wof:placetype":"venue",

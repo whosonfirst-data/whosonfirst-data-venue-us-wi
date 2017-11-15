@@ -2,14 +2,20 @@
   "id": 807298537,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 S Century Ave Waunakee WI 53597",
+    "addr:housenumber":"215",
+    "addr:postcode":"53597",
+    "addr:street":"S Century Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461692,43.190676,-89.461692,43.190676",
     "geom:latitude":43.190676,
     "geom:longitude":-89.461692,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 S Century Ave",
     "sg:city":"Waunakee",
     "sg:classifiers":[
@@ -28,30 +34,18 @@
         "shipping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
+    "wof:brand_id":420573877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03c7Pat0hLlw26CdVeSQYq_43.190676_-89.461692@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605835,
-    "wof:geomhash":"5548822eab257fd71457fc32933bd3e3",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807298537
-        }
-    ],
+    "wof:geomhash":"3ffa88016e2eb3cd59f95a7eadec6645",
+    "wof:hierarchy":[],
     "wof:id":807298537,
-    "wof:lastmodified":1467090599,
+    "wof:lastmodified":1510603438,
     "wof:name":"UPS Store",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

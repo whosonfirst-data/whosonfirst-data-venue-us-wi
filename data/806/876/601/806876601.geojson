@@ -2,9 +2,14 @@
   "id": 806876601,
   "type": "Feature",
   "properties": {
+    "addr:full":"5712 W Peninsula Rd Waterford WI 53185",
+    "addr:housenumber":"5712",
+    "addr:postcode":"53185",
+    "addr:street":"W Peninsula Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.218677,42.793698,-88.218677,42.793698",
     "geom:latitude":42.793698,
     "geom:longitude":-88.218677,
@@ -33,7 +38,14 @@
     ],
     "sg:website":"www.anspect.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494995,
+        85633793,
+        101733611,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Y6S2Dy5SRgkLW0nVHgnji_42.793698_-88.218677@1294253271"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1462601824,
     "wof:geomhash":"5dc24cd721402851e2a62247d46bfad1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494995,
+            "locality_id":101733611,
+            "region_id":85688517,
+            "venue_id":806876601
+        }
+    ],
     "wof:id":806876601,
-    "wof:lastmodified":1467090481,
+    "wof:lastmodified":1492112127,
     "wof:name":"Anderson Home Inspection Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

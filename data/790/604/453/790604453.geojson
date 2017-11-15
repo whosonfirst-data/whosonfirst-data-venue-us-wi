@@ -2,14 +2,20 @@
   "id": 790604453,
   "type": "Feature",
   "properties": {
+    "addr:full":"3618 Lexington Ave Madison WI 53714",
+    "addr:housenumber":"3618",
+    "addr:postcode":"53714",
+    "addr:street":"Lexington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.319937,43.110621,-89.319937,43.110621",
     "geom:latitude":43.110621,
     "geom:longitude":-89.319937,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3618 Lexington Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":420575465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gyvdArPDYCpX918p1qMrR_43.110621_-89.319937@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462597259,
-    "wof:geomhash":"b71855e8e43908f300e06f34f69290be",
+    "wof:geomhash":"c47d092a8062fa6967c74f08bc9c9b0d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790604453,
-    "wof:lastmodified":1467090356,
+    "wof:lastmodified":1510602103,
     "wof:name":"Ferguson Enterprises Inc",
     "wof:parent_id":85878851,
     "wof:placetype":"venue",

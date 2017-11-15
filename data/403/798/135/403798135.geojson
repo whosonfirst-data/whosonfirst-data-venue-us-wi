@@ -2,9 +2,14 @@
   "id": 403798135,
   "type": "Feature",
   "properties": {
+    "addr:full":"1773 N Bloomfield Rd Lake Geneva WI 53147",
+    "addr:housenumber":"1773",
+    "addr:postcode":"53147",
+    "addr:street":"N Bloomfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.382448,42.574544,-88.382448,42.574544",
     "geom:latitude":42.574544,
     "geom:longitude":-88.382448,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85865441,
+        102191575,
+        404494891,
         85633793,
         101733599,
         102081763,
-        85865441
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"df4a5b25de5a9e860c22b97906eaaa4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
+            "localadmin_id":404494891,
             "locality_id":101733599,
             "neighbourhood_id":85865441,
             "region_id":85688517,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":403798135,
-    "wof:lastmodified":1467089918,
+    "wof:lastmodified":1492097566,
     "wof:name":"McL Construction Corp",
     "wof:parent_id":85865441,
     "wof:placetype":"venue",

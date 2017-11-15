@@ -2,14 +2,20 @@
   "id": 790253149,
   "type": "Feature",
   "properties": {
+    "addr:full":"2629 Eastern Ave Plymouth WI 53073",
+    "addr:housenumber":"2629",
+    "addr:postcode":"53073",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.95044,43.747044,-87.95044,43.747044",
     "geom:latitude":43.747044,
     "geom:longitude":-87.95044,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2629 Eastern Ave",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081869,
         85836705
     ],
+    "wof:brand_id":1125152067,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jx4NsI3c8a0A8sk3ERHeZ_43.747044_-87.950440@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462594362,
-    "wof:geomhash":"b4306637e61fb57c6e4f4756610c6b9e",
+    "wof:geomhash":"1c706799dac33c44098ca0bff7f29357",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790253149,
-    "wof:lastmodified":1467090281,
+    "wof:lastmodified":1510695079,
     "wof:name":"West Coast Video",
     "wof:parent_id":85836705,
     "wof:placetype":"venue",

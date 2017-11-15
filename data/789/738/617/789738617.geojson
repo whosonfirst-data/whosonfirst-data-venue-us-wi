@@ -2,9 +2,14 @@
   "id": 789738617,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 N Century Ave Waunakee WI 53597",
+    "addr:housenumber":"301",
+    "addr:postcode":"53597",
+    "addr:street":"N Century Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461789,43.195792,-89.461789,43.195792",
     "geom:latitude":43.195792,
     "geom:longitude":-89.461789,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oDUinmRfkjlE6OPd1JEu4_43.195792_-89.461789@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462590163,
     "wof:geomhash":"31697af9cab139d43e07f889e206ed1e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789738617
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789738617,
-    "wof:lastmodified":1467090181,
+    "wof:lastmodified":1491935675,
     "wof:name":"Rex's Innkeeper",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

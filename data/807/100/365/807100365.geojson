@@ -2,6 +2,10 @@
   "id": 807100365,
   "type": "Feature",
   "properties": {
+    "addr:full":"4130 State Rd 93 Eau Claire WI 54701",
+    "addr:housenumber":"4130;93",
+    "addr:postcode":"54701",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":807100365,
-    "wof:lastmodified":1467090536,
+    "wof:lastmodified":1472654137,
     "wof:name":"Chippewa Valley Open Mri",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

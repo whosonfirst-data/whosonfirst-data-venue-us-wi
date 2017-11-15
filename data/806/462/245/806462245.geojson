@@ -2,9 +2,14 @@
   "id": 806462245,
   "type": "Feature",
   "properties": {
+    "addr:full":"7777 Bunbury Ct Verona WI 53593",
+    "addr:housenumber":"7777",
+    "addr:postcode":"53593",
+    "addr:street":"Bunbury Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.588223,43.048655,-89.588223,43.048655",
     "geom:latitude":43.048655,
     "geom:longitude":-89.588223,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"3e366ba7baf25568222beaca8a12ed03",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":806462245,
-    "wof:lastmodified":1467090385,
+    "wof:lastmodified":1491894022,
     "wof:name":"Solar Expectations",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

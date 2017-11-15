@@ -2,14 +2,20 @@
   "id": 807363641,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 State St Madison WI 53703",
+    "addr:housenumber":"401",
+    "addr:postcode":"53703",
+    "addr:street":"State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.391696,43.074862,-89.391696,43.074862",
     "geom:latitude":43.074862,
     "geom:longitude":-89.391696,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"401 State St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":420575645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0flnQ7u95sv4wqEMgagoUX_43.074862_-89.391696@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606703,
-    "wof:geomhash":"551d05c5a27e14a994ab64732a308c79",
+    "wof:geomhash":"b2da59673ae0402bf76e2291334d86a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807363641,
-    "wof:lastmodified":1467090623,
+    "wof:lastmodified":1510602470,
     "wof:name":"Jamba Juice",
     "wof:parent_id":85878887,
     "wof:placetype":"venue",

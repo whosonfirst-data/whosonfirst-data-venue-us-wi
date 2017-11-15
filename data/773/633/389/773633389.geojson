@@ -2,9 +2,14 @@
   "id": 773633389,
   "type": "Feature",
   "properties": {
+    "addr:full":"5580 Basswood St Greendale WI 53129",
+    "addr:housenumber":"5580",
+    "addr:postcode":"53129",
+    "addr:street":"Basswood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.994159,42.944843,-87.994159,42.944843",
     "geom:latitude":42.944843,
     "geom:longitude":-87.994159,
@@ -27,7 +32,15 @@
         "sharpening"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867297,
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tzsHw9slJJn7jaH8pFwhC_42.944843_-87.994159@1294253271"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462587197,
     "wof:geomhash":"ed4223659095ed1c18180be6da3ab2cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85867297,
+            "region_id":85688517,
+            "venue_id":773633389
+        }
+    ],
     "wof:id":773633389,
-    "wof:lastmodified":1467090099,
+    "wof:lastmodified":1492111874,
     "wof:name":"Lau's Salon Shear Sharpening",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

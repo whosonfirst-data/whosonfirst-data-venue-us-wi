@@ -2,14 +2,20 @@
   "id": 806574253,
   "type": "Feature",
   "properties": {
+    "addr:full":"17260 W Bluemound Rd Brookfield WI 53045",
+    "addr:housenumber":"17260",
+    "addr:postcode":"53045",
+    "addr:street":"W Bluemound Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.128386,43.036099,-88.128386,43.036099",
     "geom:latitude":43.036099,
     "geom:longitude":-88.128386,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17260 W Bluemound Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125153913,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fwwG98STOGiRIPHVQLOsG_43.036099_-88.128386@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462599266,
-    "wof:geomhash":"b8c892dae92e2baf698f8f804d25df3f",
+    "wof:geomhash":"5bb90631459d5cd0b872d570abd25343",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806574253,
-    "wof:lastmodified":1467090412,
+    "wof:lastmodified":1510699415,
     "wof:name":"Wolf Camera and Video",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",

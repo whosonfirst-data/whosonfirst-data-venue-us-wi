@@ -2,14 +2,20 @@
   "id": 790487247,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Maritime Dr Manitowoc WI 54220",
+    "addr:housenumber":"10",
+    "addr:postcode":"54220",
+    "addr:street":"Maritime Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.659967,44.093039,-87.659967,44.093039",
     "geom:latitude":44.093039,
     "geom:longitude":-87.659967,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10 Maritime Dr",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":1125151405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kezLG9V5SnZRiIbJc3kaO_44.093039_-87.659967@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596270,
-    "wof:geomhash":"1dd328221d02c667c7480f6b13ca48d5",
+    "wof:geomhash":"aa361c8d2740707083007163a1bef040",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790487247,
-    "wof:lastmodified":1467090329,
+    "wof:lastmodified":1510699336,
     "wof:name":"Bumper To Bumper Auto Parts",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

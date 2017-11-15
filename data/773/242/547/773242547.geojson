@@ -2,14 +2,20 @@
   "id": 773242547,
   "type": "Feature",
   "properties": {
+    "addr:full":"10360 Cedarburg Rd Thiensville WI 53092",
+    "addr:housenumber":"10360",
+    "addr:postcode":"53092",
+    "addr:street":"Cedarburg Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.972408,43.206456,-87.972408,43.206456",
     "geom:latitude":43.206456,
     "geom:longitude":-87.972408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10360 Cedarburg Rd",
     "sg:city":"Thiensville",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102081873,
         85688517
     ],
+    "wof:brand_id":1125157877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49acBM2qYNKE9kKhSGBhae_43.206456_-87.972408@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584233,
-    "wof:geomhash":"e108f42fb70116a23cd44eef85c07c82",
+    "wof:geomhash":"c64ada184d1c573ae31a8659f65589c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":773242547,
-    "wof:lastmodified":1467089999,
+    "wof:lastmodified":1510693947,
     "wof:name":"Kwik Trip",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",

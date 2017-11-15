@@ -2,9 +2,14 @@
   "id": 807102033,
   "type": "Feature",
   "properties": {
+    "addr:full":"912 Bethel Cir Waunakee WI 53597",
+    "addr:housenumber":"912",
+    "addr:postcode":"53597",
+    "addr:street":"Bethel Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.435182,43.180046,-89.435182,43.180046",
     "geom:latitude":43.180046,
     "geom:longitude":-89.435182,
@@ -37,12 +42,7 @@
     ],
     "sg:website":"www.humanerestraint.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QyP3lIQxBUbHm5HfwWrHn_43.180046_-89.435182@1294253271"
@@ -50,17 +50,9 @@
     "wof:country":"US",
     "wof:created":1462603754,
     "wof:geomhash":"3e33bf51e92dacd07f6fda6351f9ae2c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807102033
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807102033,
-    "wof:lastmodified":1467090537,
+    "wof:lastmodified":1491935697,
     "wof:name":"Humane Restraint Co Inc Ofc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

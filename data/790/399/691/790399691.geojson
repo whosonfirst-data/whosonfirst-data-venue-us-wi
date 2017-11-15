@@ -2,9 +2,14 @@
   "id": 790399691,
   "type": "Feature",
   "properties": {
+    "addr:full":"4801 W Center St Milwaukee WI 53210",
+    "addr:housenumber":"4801",
+    "addr:postcode":"53210",
+    "addr:street":"W Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.974942,43.067952,-87.974942,43.067952",
     "geom:latitude":43.067952,
     "geom:longitude":-87.974942,
@@ -35,7 +40,8 @@
         85633793,
         101732987,
         102081837,
-        85688517
+        85688517,
+        420550049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +60,22 @@
             "neighbourhood_id":85870829,
             "region_id":85688517,
             "venue_id":790399691
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":420550049,
+            "region_id":85688517,
+            "venue_id":790399691
         }
     ],
     "wof:id":790399691,
-    "wof:lastmodified":1467090311,
+    "wof:lastmodified":1491910489,
     "wof:name":"Bearings Incorporated",
-    "wof:parent_id":85870829,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

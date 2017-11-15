@@ -2,9 +2,14 @@
   "id": 169759059,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 S 27th St Milwaukee WI 53215",
+    "addr:housenumber":"3333",
+    "addr:postcode":"53215",
+    "addr:street":"S 27Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.948393,42.983718,-87.948393,42.983718",
     "geom:latitude":42.983718,
     "geom:longitude":-87.948393,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870955,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870955
+        85688517
     ],
     "wof:brand_id":420574425,
     "wof:breaches":[],
@@ -40,9 +47,10 @@
     "wof:geomhash":"bc1c02489318bd6f2a03b53631b12ee4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870955,
             "region_id":85688517,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":169759059,
-    "wof:lastmodified":1467089909,
+    "wof:lastmodified":1492108875,
     "wof:name":"Famous Footwear",
     "wof:parent_id":85870955,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790253293,
   "type": "Feature",
   "properties": {
+    "addr:full":"28415 75th St Salem WI 53168",
+    "addr:housenumber":"28415",
+    "addr:postcode":"53168",
+    "addr:street":"75Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.15393,42.568416,-88.15393,42.568416",
     "geom:latitude":42.568416,
     "geom:longitude":-88.15393,
@@ -29,7 +34,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08N5aZ8K3zuElIO9occqGE_42.568416_-88.153930@1294253271"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462594363,
     "wof:geomhash":"e832736568286a36ee132ff0468992b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":790253293
+        }
+    ],
     "wof:id":790253293,
-    "wof:lastmodified":1467090281,
+    "wof:lastmodified":1492103471,
     "wof:name":"Webster Trucking",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

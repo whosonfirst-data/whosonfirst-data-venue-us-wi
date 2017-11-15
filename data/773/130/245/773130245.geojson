@@ -2,9 +2,14 @@
   "id": 773130245,
   "type": "Feature",
   "properties": {
+    "addr:full":"9401 W 5 Mile Rd Franksville WI 53126",
+    "addr:housenumber":"9401",
+    "addr:postcode":"53126",
+    "addr:street":"W 5 Mile Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.036892,42.80089,-88.036892,42.80089",
     "geom:latitude":42.80089,
     "geom:longitude":-88.036892,
@@ -28,7 +33,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550141
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZIjMZruQaoUmv8VlaCcBK_42.800890_-88.036892@1294253271"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462583361,
     "wof:geomhash":"f3002e6b626165c1683eae74ca4ca087",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550141,
+            "venue_id":773130245
+        }
+    ],
     "wof:id":773130245,
-    "wof:lastmodified":1467089968,
+    "wof:lastmodified":1492098731,
     "wof:name":"Bob Adams Inc",
     "wof:parent_id":420550141,
     "wof:placetype":"venue",

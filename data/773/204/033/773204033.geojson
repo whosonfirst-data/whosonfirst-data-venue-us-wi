@@ -2,9 +2,14 @@
   "id": 773204033,
   "type": "Feature",
   "properties": {
+    "addr:full":"7605 W Old Sauk Rd Verona WI 53593",
+    "addr:housenumber":"7605",
+    "addr:postcode":"53593",
+    "addr:street":"W Old Sauk Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.563342,43.074709,-89.563342,43.074709",
     "geom:latitude":43.074709,
     "geom:longitude":-89.563342,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +53,10 @@
     "wof:geomhash":"44c1aefa54ebddce8c458febb9d19563",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":773204033,
-    "wof:lastmodified":1467089987,
+    "wof:lastmodified":1491893997,
     "wof:name":"Dick Wickman Studios",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

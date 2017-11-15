@@ -2,9 +2,14 @@
   "id": 790131621,
   "type": "Feature",
   "properties": {
+    "addr:full":"5371 Mariner's Cove Dr Madison WI 53704",
+    "addr:housenumber":"5371",
+    "addr:postcode":"53704",
+    "addr:street":"Mariner'S Cove Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.405394,43.150314,-89.405394,43.150314",
     "geom:latitude":43.150314,
     "geom:longitude":-89.405394,
@@ -27,12 +32,7 @@
         "association"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04tb3cRTdGQPNd9gpfZ8Ed_43.150314_-89.405394@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462593371,
     "wof:geomhash":"4efc1af7cc232f354fc33ae57d52416e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790131621
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790131621,
-    "wof:lastmodified":1467090257,
+    "wof:lastmodified":1491935711,
     "wof:name":"Mariners Cove Condominiums",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

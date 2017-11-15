@@ -2,14 +2,20 @@
   "id": 790081051,
   "type": "Feature",
   "properties": {
+    "addr:full":"1120 Oak St Bloomer WI 54724",
+    "addr:housenumber":"1120",
+    "addr:postcode":"54724",
+    "addr:street":"Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.491822,45.104887,-91.491822,45.104887",
     "geom:latitude":45.104887,
     "geom:longitude":-91.491822,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1120 Oak St",
     "sg:city":"Bloomer",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081787,
         85837071
     ],
+    "wof:brand_id":1125151969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7l5Z3mSMtcMrzsoLF0Eajh_45.104887_-91.491822@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592977,
-    "wof:geomhash":"7ec725ae43b2256dff5f9d6e790304ff",
+    "wof:geomhash":"696f8c9e75f9b31e030e85857a6b90b5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790081051,
-    "wof:lastmodified":1467090248,
+    "wof:lastmodified":1510613289,
     "wof:name":"American Bowling Congress",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",

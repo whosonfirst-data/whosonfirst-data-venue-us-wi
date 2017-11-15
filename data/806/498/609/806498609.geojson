@@ -2,14 +2,20 @@
   "id": 806498609,
   "type": "Feature",
   "properties": {
+    "addr:full":"6929 Donnybill Rd De Forest WI 53532",
+    "addr:housenumber":"6929",
+    "addr:postcode":"53532",
+    "addr:street":"Donnybill Rd De Forest",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.307706,43.225301,-89.307706,43.225301",
     "geom:latitude":43.225301,
     "geom:longitude":-89.307706,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6929 Donnybill Rd",
     "sg:city":"De Forest",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85852311,
         102081795
     ],
+    "wof:brand_id":1125159737,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dXcIm6ufpf0evrPqSlZD8_43.225301_-89.307706@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598612,
-    "wof:geomhash":"a5f27a8ea271c540806d15e6064b7abe",
+    "wof:geomhash":"a5eb3be4bb759b28d702b15a4c4ff143",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":806498609,
-    "wof:lastmodified":1467090394,
+    "wof:lastmodified":1510698012,
     "wof:name":"United States Power Squad",
     "wof:parent_id":85852311,
     "wof:placetype":"venue",

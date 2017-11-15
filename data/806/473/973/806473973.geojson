@@ -2,9 +2,14 @@
   "id": 806473973,
   "type": "Feature",
   "properties": {
+    "addr:full":"907 Bristol Dr Waunakee WI 53597",
+    "addr:housenumber":"907",
+    "addr:postcode":"53597",
+    "addr:street":"Bristol Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.449752,43.182644,-89.449752,43.182644",
     "geom:latitude":43.182644,
     "geom:longitude":-89.449752,
@@ -27,12 +32,7 @@
         "tuxedo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33BzFSoAGtbjFp7s7cQ7Zq_43.182644_-89.449752@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462598416,
     "wof:geomhash":"0a85a00ef11b55f70843fbf129fde607",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806473973
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806473973,
-    "wof:lastmodified":1467090388,
+    "wof:lastmodified":1491935718,
     "wof:name":"Elegant Affair",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

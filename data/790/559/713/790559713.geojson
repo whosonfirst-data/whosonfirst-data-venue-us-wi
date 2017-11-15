@@ -2,14 +2,20 @@
   "id": 790559713,
   "type": "Feature",
   "properties": {
+    "addr:full":"1406 Perimeter Rd Mt Horeb WI 53572",
+    "addr:housenumber":"1406",
+    "addr:postcode":"53572",
+    "addr:street":"Perimeter Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.721009,43.012079,-89.721009,43.012079",
     "geom:latitude":43.012079,
     "geom:longitude":-89.721009,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1406 Perimeter Rd",
     "sg:city":"Mt Horeb",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85828611,
         102081795
     ],
+    "wof:brand_id":420575707,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CzRMqc97mjejNAftMxFVn_43.012079_-89.721009@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596874,
-    "wof:geomhash":"5e051ad433299f5962217b1d5aef89d4",
+    "wof:geomhash":"6738ed2581d03d4dc68c81bbabf1f0df",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790559713,
-    "wof:lastmodified":1467090345,
+    "wof:lastmodified":1510602538,
     "wof:name":"Avon Products",
     "wof:parent_id":85828611,
     "wof:placetype":"venue",

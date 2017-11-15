@@ -2,14 +2,20 @@
   "id": 773618773,
   "type": "Feature",
   "properties": {
+    "addr:full":"240 W 9th Ave Oshkosh WI 54902",
+    "addr:housenumber":"240",
+    "addr:postcode":"54902",
+    "addr:street":"W 9Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.544268,44.010493,-88.544268,44.010493",
     "geom:latitude":44.010493,
     "geom:longitude":-88.544268,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"240 W 9th Ave",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081801,
         85688517
     ],
+    "wof:brand_id":1125151381,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mn3xMx21pl0B8Xy4W4c9G_44.010493_-88.544268@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587090,
-    "wof:geomhash":"a03c1ccef827abb6e37dcb0b81aee36e",
+    "wof:geomhash":"c50bc528dd404dd69b036cb60f8dfa10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773618773,
-    "wof:lastmodified":1467090095,
+    "wof:lastmodified":1510695307,
     "wof:name":"Peace Lutheran Church",
     "wof:parent_id":85851167,
     "wof:placetype":"venue",

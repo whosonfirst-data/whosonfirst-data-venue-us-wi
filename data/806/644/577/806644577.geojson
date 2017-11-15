@@ -2,9 +2,14 @@
   "id": 806644577,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Knightsbridge Rd Waunakee WI 53597",
+    "addr:housenumber":"500",
+    "addr:postcode":"53597",
+    "addr:street":"Knightsbridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.449976,43.183847,-89.449976,43.183847",
     "geom:latitude":43.183847,
     "geom:longitude":-89.449976,
@@ -27,12 +32,7 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3G65FzoZ4zI1sFEAV4ZOao_43.183847_-89.449976@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462599855,
     "wof:geomhash":"8a8387c99e0fad9176638fe599d2bb6f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806644577
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806644577,
-    "wof:lastmodified":1467090428,
+    "wof:lastmodified":1491935694,
     "wof:name":"Essence Builders",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

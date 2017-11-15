@@ -2,14 +2,20 @@
   "id": 806722483,
   "type": "Feature",
   "properties": {
+    "addr:full":"7517 State Hwy 54 Shiocton WI 54170",
+    "addr:housenumber":"7517",
+    "addr:postcode":"54170",
+    "addr:street":"State Hwy 54",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.565357,44.449342,-88.565357,44.449342",
     "geom:latitude":44.449342,
     "geom:longitude":-88.565357,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7517 State Hwy 54",
     "sg:city":"Shiocton",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85803271,
         102081851
     ],
+    "wof:brand_id":1125158965,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xIrCuq38od8XV4Qy2fjmU_44.449342_-88.565357@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600524,
-    "wof:geomhash":"2a6568206f3e50e4bd3161712c55b8db",
+    "wof:geomhash":"d9edae1b2738ee25a1032ccefc99f5be",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":806722483,
-    "wof:lastmodified":1467090446,
+    "wof:lastmodified":1510695346,
     "wof:name":"County Garage",
     "wof:parent_id":85803271,
     "wof:placetype":"venue",

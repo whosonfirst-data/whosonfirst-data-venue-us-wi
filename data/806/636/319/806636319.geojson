@@ -2,14 +2,20 @@
   "id": 806636319,
   "type": "Feature",
   "properties": {
+    "addr:full":"3175 Hillside Dr Delafield WI 53018",
+    "addr:housenumber":"3175",
+    "addr:postcode":"53018",
+    "addr:street":"Hillside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.363626,43.049742,-88.363626,43.049742",
     "geom:latitude":43.049742,
     "geom:longitude":-88.363626,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3175 Hillside Dr",
     "sg:city":"Delafield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":420575631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xpASY3POIFHlE3APAjmwz_43.049742_-88.363626@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462599786,
-    "wof:geomhash":"ded496007dd9dd7049a59114f1651912",
+    "wof:geomhash":"b7e9b86a3054e01b0e2402ac65dac565",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806636319,
-    "wof:lastmodified":1467090426,
+    "wof:lastmodified":1510614629,
     "wof:name":"Children's World Learning Ctr",
     "wof:parent_id":85808383,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806649967,
   "type": "Feature",
   "properties": {
+    "addr:full":"2831 W Beltline Hwy Middleton WI 53562",
+    "addr:housenumber":"2831",
+    "addr:postcode":"53562",
+    "addr:street":"W Beltline Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.519143,43.0935,-89.519143,43.0935",
     "geom:latitude":43.0935,
     "geom:longitude":-89.519143,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2831 W Beltline Hwy",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -25,23 +31,28 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
+    "wof:brand_id":1125156379,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zFdLXgNNgFnPNEq972mg3_43.093500_-89.519143@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462599905,
-    "wof:geomhash":"4dc91f1894f3d9593bd2f0099a784de1",
+    "wof:geomhash":"17643efba27354a9a4cefe4b3b4ec907",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -49,7 +60,7 @@
         }
     ],
     "wof:id":806649967,
-    "wof:lastmodified":1467090429,
+    "wof:lastmodified":1510699360,
     "wof:name":"Cousins Subs",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

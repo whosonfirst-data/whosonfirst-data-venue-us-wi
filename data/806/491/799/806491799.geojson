@@ -2,14 +2,20 @@
   "id": 806491799,
   "type": "Feature",
   "properties": {
+    "addr:full":"2716 Marshall Ct Madison WI 53705",
+    "addr:housenumber":"2716",
+    "addr:postcode":"53705",
+    "addr:street":"Marshall Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.437683,43.075635,-89.437683,43.075635",
     "geom:latitude":43.075635,
     "geom:longitude":-89.437683,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2716 Marshall Ct",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125153717,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bAxIBElMq4PLleHeXE1cl_43.075635_-89.437683@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598555,
-    "wof:geomhash":"05b83330242dcfac23ed8dce4131f6ce",
+    "wof:geomhash":"1e300cafa6bdee5b6a80d3e729918602",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806491799,
-    "wof:lastmodified":1467090392,
+    "wof:lastmodified":1510694613,
     "wof:name":"Ronald Mc Donald House",
     "wof:parent_id":85868277,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806694627,
   "type": "Feature",
   "properties": {
+    "addr:full":"3128 W Ryan Rd Franklin WI 53132",
+    "addr:housenumber":"3128",
+    "addr:postcode":"53132",
+    "addr:street":"W Ryan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.958444,42.872725,-87.958444,42.872725",
     "geom:latitude":42.872725,
     "geom:longitude":-87.958444,
@@ -31,7 +36,14 @@
     ],
     "sg:website":"www.steamcleaningsterilizing.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UkWglGZhpVawDMmJkjVHL_42.872725_-87.958444@1294253271"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1462600293,
     "wof:geomhash":"37bc63d9a75455d29fa0679d6b5cbc86",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":806694627
+        }
+    ],
     "wof:id":806694627,
-    "wof:lastmodified":1467090440,
+    "wof:lastmodified":1492098745,
     "wof:name":"Steam Cleaning Sterilizing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

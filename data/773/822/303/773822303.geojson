@@ -2,14 +2,20 @@
   "id": 773822303,
   "type": "Feature",
   "properties": {
+    "addr:full":"2950 S Chase Ave Milwaukee WI 53207",
+    "addr:housenumber":"2950",
+    "addr:postcode":"53207",
+    "addr:street":"S Chase Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.909302,42.990013,-87.909302,42.990013",
     "geom:latitude":42.990013,
     "geom:longitude":-87.909302,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2950 S Chase Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125151233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oq3pNJLBPd7F8wGf0JaSR_42.990013_-87.909302@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588651,
-    "wof:geomhash":"01713dca0f31deafe0c556d59e890d00",
+    "wof:geomhash":"368b2aa78df6d2c0d8a6e40787391d45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773822303,
-    "wof:lastmodified":1467090142,
+    "wof:lastmodified":1510694072,
     "wof:name":"Qualex Inc",
     "wof:parent_id":85867297,
     "wof:placetype":"venue",

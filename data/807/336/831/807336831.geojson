@@ -2,9 +2,14 @@
   "id": 807336831,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 S Division St Waunakee WI 53597",
+    "addr:housenumber":"300",
+    "addr:postcode":"53597",
+    "addr:street":"S Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.446861,43.189729,-89.446861,43.189729",
     "geom:latitude":43.189729,
     "geom:longitude":-89.446861,
@@ -21,12 +26,7 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SMETcc1irvg3IyENq7Pjn_43.189729_-89.446861@1294253271"
@@ -34,17 +34,9 @@
     "wof:country":"US",
     "wof:created":1462606307,
     "wof:geomhash":"16968f337958cfbf543d4715a1ecbfe6",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807336831
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807336831,
-    "wof:lastmodified":1467090612,
+    "wof:lastmodified":1491935695,
     "wof:name":"Meffert Oil Co Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

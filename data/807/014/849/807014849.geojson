@@ -2,9 +2,14 @@
   "id": 807014849,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 Sunset Ln Waunakee WI 53597",
+    "addr:housenumber":"505",
+    "addr:postcode":"53597",
+    "addr:street":"Sunset Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.465414,43.19365,-89.465414,43.19365",
     "geom:latitude":43.19365,
     "geom:longitude":-89.465414,
@@ -27,12 +32,7 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kLmlPtVDdeqp62NLZZLmr_43.193650_-89.465414@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462602986,
     "wof:geomhash":"13d20a27f539134d7dae2cdbb7cc7819",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807014849
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807014849,
-    "wof:lastmodified":1467090513,
+    "wof:lastmodified":1491935696,
     "wof:name":"H & H Self Storage",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

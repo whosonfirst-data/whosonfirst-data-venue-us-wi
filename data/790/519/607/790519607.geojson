@@ -2,14 +2,20 @@
   "id": 790519607,
   "type": "Feature",
   "properties": {
+    "addr:full":"4822 E Washington Ave Madison WI 53704",
+    "addr:housenumber":"4822",
+    "addr:postcode":"53704",
+    "addr:street":"E Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.301244,43.132996,-89.301244,43.132996",
     "geom:latitude":43.132996,
     "geom:longitude":-89.301244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4822 E Washington Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85878835,
         102081795
     ],
+    "wof:brand_id":420574085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HC41XCgNOnnCa2k7neRTk_43.132996_-89.301244@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596539,
-    "wof:geomhash":"d754b3f1c799667121791e9b9edfb88c",
+    "wof:geomhash":"f0510a87f9636d9b969653bd56068222",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790519607,
-    "wof:lastmodified":1467090336,
+    "wof:lastmodified":1510604033,
     "wof:name":"Comfort Inn",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

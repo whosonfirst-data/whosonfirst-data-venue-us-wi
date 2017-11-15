@@ -2,14 +2,20 @@
   "id": 790005427,
   "type": "Feature",
   "properties": {
+    "addr:full":"1145 Huckleberry St Edgar WI 54426",
+    "addr:housenumber":"1145",
+    "addr:postcode":"54426",
+    "addr:street":"Huckleberry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.07635,44.91644,-90.07635,44.91644",
     "geom:latitude":44.91644,
     "geom:longitude":-90.07635,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1145 Huckleberry St",
     "sg:city":"Edgar",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85832133,
         102081881
     ],
+    "wof:brand_id":1125150595,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kkq6IvWQ7AR4UlaChvoPe_44.916440_-90.076350@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592373,
-    "wof:geomhash":"56a71e82d76768891796be82dbe9ac95",
+    "wof:geomhash":"a77bc6dd48ebc5d096c487f7552eafb0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790005427,
-    "wof:lastmodified":1467090233,
+    "wof:lastmodified":1510613419,
     "wof:name":"St John Lutheran Church",
     "wof:parent_id":85832133,
     "wof:placetype":"venue",

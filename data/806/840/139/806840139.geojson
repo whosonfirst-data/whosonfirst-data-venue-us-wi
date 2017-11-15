@@ -2,9 +2,14 @@
   "id": 806840139,
   "type": "Feature",
   "properties": {
+    "addr:full":"1060 Proctor Dr Elkhorn WI 53121",
+    "addr:housenumber":"1060",
+    "addr:postcode":"53121",
+    "addr:street":"Proctor Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.524823,42.659336,-88.524823,42.659336",
     "geom:latitude":42.659336,
     "geom:longitude":-88.524823,
@@ -31,13 +36,7 @@
     ],
     "sg:website":"www.royalbox.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UMtDPgyJVPzpcbLh9vC4G_42.659336_-88.524823@1294253271"
@@ -45,18 +44,9 @@
     "wof:country":"US",
     "wof:created":1462601510,
     "wof:geomhash":"feba30cf012a3d1475470b9616eeb258",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806840139
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806840139,
-    "wof:lastmodified":1467090473,
+    "wof:lastmodified":1492103495,
     "wof:name":"Royal Group",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

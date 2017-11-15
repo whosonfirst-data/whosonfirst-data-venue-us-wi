@@ -2,9 +2,14 @@
   "id": 370995279,
   "type": "Feature",
   "properties": {
+    "addr:full":"37028 91st St Twin Lakes WI 53128",
+    "addr:housenumber":"37028",
+    "addr:postcode":"53128",
+    "addr:street":"91St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.280739,42.541867,-88.280739,42.541867",
     "geom:latitude":42.541867,
     "geom:longitude":-88.280739,
@@ -29,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688517,
+        102191575,
+        404493403,
         85633793,
-        85688517
+        101733671,
+        102081309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +49,17 @@
     "wof:geomhash":"e82af92f215eed8dbd23167ee53dd92e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081309,
+            "localadmin_id":404493403,
+            "locality_id":101733671,
             "region_id":85688517,
             "venue_id":370995279
         }
     ],
     "wof:id":370995279,
-    "wof:lastmodified":1467089906,
+    "wof:lastmodified":1492108776,
     "wof:name":"Artistic Hair Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

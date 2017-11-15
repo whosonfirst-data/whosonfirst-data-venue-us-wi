@@ -2,9 +2,14 @@
   "id": 790079637,
   "type": "Feature",
   "properties": {
+    "addr:full":"233 S Century Ave Waunakee WI 53597",
+    "addr:housenumber":"233",
+    "addr:postcode":"53597",
+    "addr:street":"S Century Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461691,43.190459,-89.461691,43.190459",
     "geom:latitude":43.190459,
     "geom:longitude":-89.461691,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zMj5qRAlxX8B0RwcCumrW_43.190459_-89.461691@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462592968,
     "wof:geomhash":"c1f880cf2f1faff68ee639e6a6edd23a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790079637
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790079637,
-    "wof:lastmodified":1467090247,
+    "wof:lastmodified":1491935675,
     "wof:name":"Harris Pharmacy",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

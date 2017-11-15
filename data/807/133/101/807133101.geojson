@@ -2,9 +2,14 @@
   "id": 807133101,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Water St Waunakee WI 53597",
+    "addr:housenumber":"106",
+    "addr:postcode":"53597",
+    "addr:street":"Water St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.453363,43.192156,-89.453363,43.192156",
     "geom:latitude":43.192156,
     "geom:longitude":-89.453363,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70M5V7RwsyElwMNdulr1sm_43.192156_-89.453363@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462604085,
     "wof:geomhash":"114d3bf6a271e8dc9b95d388c3e83189",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807133101
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807133101,
-    "wof:lastmodified":1467090546,
+    "wof:lastmodified":1491935687,
     "wof:name":"Mc Gettigan Co Realtors",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

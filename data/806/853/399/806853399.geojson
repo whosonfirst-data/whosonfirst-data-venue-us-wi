@@ -2,14 +2,20 @@
   "id": 806853399,
   "type": "Feature",
   "properties": {
+    "addr:full":"944 E Gorham St Madison WI 53703",
+    "addr:housenumber":"944",
+    "addr:postcode":"53703",
+    "addr:street":"E Gorham St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.375635,43.086132,-89.375635,43.086132",
     "geom:latitude":43.086132,
     "geom:longitude":-89.375635,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"944 E Gorham St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125158721,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GrGuuXf84NIexi8LFkiud_43.086132_-89.375635@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601636,
-    "wof:geomhash":"a5b607a86c0c50a8ca910c6b562b43af",
+    "wof:geomhash":"1c64b4bb4ef3e34b8639e5864ed3f3ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806853399,
-    "wof:lastmodified":1467090476,
+    "wof:lastmodified":1510695832,
     "wof:name":"Christ Presbyterian Church",
     "wof:parent_id":85878889,
     "wof:placetype":"venue",

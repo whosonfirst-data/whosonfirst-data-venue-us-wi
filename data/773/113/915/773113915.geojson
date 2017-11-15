@@ -2,14 +2,20 @@
   "id": 773113915,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 Main St Union Grove WI 53182",
+    "addr:housenumber":"720",
+    "addr:postcode":"53182",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.782575,42.724475,-87.782575,42.724475",
     "geom:latitude":42.724475,
     "geom:longitude":-87.782575,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"720 Main St",
     "sg:city":"Union Grove",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081763,
         85688517
     ],
+    "wof:brand_id":1125151405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SSL3oty4lRGm5PTPzqLp5_42.724475_-87.782575@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583247,
-    "wof:geomhash":"b7ee41726111a44fff21480742e11559",
+    "wof:geomhash":"012ddbebf9c307b55ecfda2baff49e63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773113915,
-    "wof:lastmodified":1467089965,
+    "wof:lastmodified":1510699336,
     "wof:name":"Bumper To Bumper Auto Parts",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",

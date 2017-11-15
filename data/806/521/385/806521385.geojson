@@ -2,9 +2,14 @@
   "id": 806521385,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 E Main St Waunakee WI 53597",
+    "addr:housenumber":"105",
+    "addr:postcode":"53597",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.453324,43.191984,-89.453324,43.191984",
     "geom:latitude":43.191984,
     "geom:longitude":-89.453324,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7etdGLOjXen2wddeIeYuPc_43.191984_-89.453324@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462598798,
     "wof:geomhash":"0b097d13b6be2a127ba2914263b0bf1d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806521385
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806521385,
-    "wof:lastmodified":1467090399,
+    "wof:lastmodified":1491935682,
     "wof:name":"Assoc Agencies Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

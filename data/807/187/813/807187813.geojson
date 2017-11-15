@@ -2,9 +2,14 @@
   "id": 807187813,
   "type": "Feature",
   "properties": {
+    "addr:full":"5475 Westshire Cir Waunakee WI 53597",
+    "addr:housenumber":"5475",
+    "addr:postcode":"53597",
+    "addr:street":"Westshire Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.411666,43.14955,-89.411666,43.14955",
     "geom:latitude":43.14955,
     "geom:longitude":-89.411666,
@@ -33,12 +38,7 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46R08ldUuTk9gT53fA4oKM_43.149550_-89.411666@1294253271"
@@ -46,17 +46,9 @@
     "wof:country":"US",
     "wof:created":1462604669,
     "wof:geomhash":"c0f523cedcc9342f9cce4170614c0ad7",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807187813
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807187813,
-    "wof:lastmodified":1467090563,
+    "wof:lastmodified":1491935704,
     "wof:name":"Sylvan Crossing At Westshire",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

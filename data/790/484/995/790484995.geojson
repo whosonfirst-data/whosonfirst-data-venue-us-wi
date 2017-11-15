@@ -2,9 +2,14 @@
   "id": 790484995,
   "type": "Feature",
   "properties": {
+    "addr:full":"3790 Swoboda Rd Verona WI 53593",
+    "addr:housenumber":"",
+    "addr:postcode":"3790;53593",
+    "addr:street":"Swoboda Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.591359,43.057548,-89.591359,43.057548",
     "geom:latitude":43.057548,
     "geom:longitude":-89.591359,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"d227146bf1013d0a0e90ad11db062622",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":790484995,
-    "wof:lastmodified":1467090328,
+    "wof:lastmodified":1491894079,
     "wof:name":"Samsid Designs",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

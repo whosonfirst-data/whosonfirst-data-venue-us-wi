@@ -2,14 +2,20 @@
   "id": 789702897,
   "type": "Feature",
   "properties": {
+    "addr:full":"228 W State St Hartford WI 53027",
+    "addr:housenumber":"228",
+    "addr:postcode":"53027",
+    "addr:street":"W State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.381235,43.321408,-88.381235,43.321408",
     "geom:latitude":43.321408,
     "geom:longitude":-88.381235,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"228 W State St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081745,
         85688517
     ],
+    "wof:brand_id":1125159699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7l5EomU4ftYxZX8UkWjAUz_43.321408_-88.381235@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462589878,
-    "wof:geomhash":"816ec83280094ebffceda86dd90ca514",
+    "wof:geomhash":"6c9ad3b53f98832f85002a4894790404",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789702897,
-    "wof:lastmodified":1467090174,
+    "wof:lastmodified":1510695065,
     "wof:name":"St John's United Church-Christ",
     "wof:parent_id":85841573,
     "wof:placetype":"venue",

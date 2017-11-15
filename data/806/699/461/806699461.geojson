@@ -2,14 +2,20 @@
   "id": 806699461,
   "type": "Feature",
   "properties": {
+    "addr:full":"1336 Cedarton Pkwy Grafton WI 53024",
+    "addr:housenumber":"1336",
+    "addr:postcode":"53024",
+    "addr:street":"Cedarton Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.97819,43.329805,-87.97819,43.329805",
     "geom:latitude":43.329805,
     "geom:longitude":-87.97819,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1336 Cedarton Pkwy",
     "sg:city":"Grafton",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85868895,
         102081873
     ],
+    "wof:brand_id":420575385,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GoYx6iFqoMVi6zxAJtF67_43.329805_-87.978190@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600331,
-    "wof:geomhash":"790f9f5fe311b00527718afb4d04a798",
+    "wof:geomhash":"2ebb8dba55198ccaf653e83ca9bc7256",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":806699461,
-    "wof:lastmodified":1467090441,
+    "wof:lastmodified":1510602564,
     "wof:name":"Delta Kappa Gamma Society",
     "wof:parent_id":85868895,
     "wof:placetype":"venue",

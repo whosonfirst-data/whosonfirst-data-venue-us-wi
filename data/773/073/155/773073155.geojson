@@ -2,9 +2,14 @@
   "id": 773073155,
   "type": "Feature",
   "properties": {
+    "addr:full":"18009 65th Ct Franksville WI 53126",
+    "addr:housenumber":"18009",
+    "addr:postcode":"53126",
+    "addr:street":"65Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.038568,42.754786,-88.038568,42.754786",
     "geom:latitude":42.754786,
     "geom:longitude":-88.038568,
@@ -27,7 +32,13 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494999,
+        85633793,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gvB6RcPgglKQOct3ZWNzl_42.754786_-88.038568@1294253271"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462582957,
     "wof:geomhash":"7eb789f6eb78d0521d1c7f913d38e2ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494999,
+            "region_id":85688517,
+            "venue_id":773073155
+        }
+    ],
     "wof:id":773073155,
-    "wof:lastmodified":1467089955,
+    "wof:lastmodified":1492108870,
     "wof:name":"Staneks Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

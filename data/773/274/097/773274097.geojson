@@ -2,9 +2,14 @@
   "id": 773274097,
   "type": "Feature",
   "properties": {
+    "addr:full":"6511 203rd Ave Bristol WI 53104",
+    "addr:housenumber":"6511",
+    "addr:postcode":"53104",
+    "addr:street":"203Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.054259,42.579878,-88.054259,42.579878",
     "geom:latitude":42.579878,
     "geom:longitude":-88.054259,
@@ -29,7 +34,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493391,
+        85633793,
+        101732581,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mPEk2Ns8dDgmQNZbzgPTI_42.579878_-88.054259@1294253271"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462584471,
     "wof:geomhash":"a38dfe2fdf25b78f76c2dee778b6a882",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493391,
+            "locality_id":101732581,
+            "region_id":85688517,
+            "venue_id":773274097
+        }
+    ],
     "wof:id":773274097,
-    "wof:lastmodified":1467090011,
+    "wof:lastmodified":1492097568,
     "wof:name":"Steve F Piekarski Trucking LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

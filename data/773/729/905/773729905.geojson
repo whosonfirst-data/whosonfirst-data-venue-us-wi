@@ -2,14 +2,20 @@
   "id": 773729905,
   "type": "Feature",
   "properties": {
+    "addr:full":"717 Zimbal Ave Sheboygan WI 53081",
+    "addr:housenumber":"717",
+    "addr:postcode":"53081",
+    "addr:street":"Zimbal Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.712731,43.763704,-87.712731,43.763704",
     "geom:latitude":43.763704,
     "geom:longitude":-87.712731,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"717 Zimbal Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":1125150063,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rU8xMR9PqZ150p2vlK4aC_43.763704_-87.712731@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587947,
-    "wof:geomhash":"dec720f24e5c59e228f5b694ae89789f",
+    "wof:geomhash":"4c28897b050e7e2cdef0e4b34149ed11",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773729905,
-    "wof:lastmodified":1467090121,
+    "wof:lastmodified":1510695806,
     "wof:name":"Axa Advisors",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

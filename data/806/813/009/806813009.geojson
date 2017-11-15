@@ -2,9 +2,14 @@
   "id": 806813009,
   "type": "Feature",
   "properties": {
+    "addr:full":"4652 Lakeville Rd Walworth WI 53184",
+    "addr:housenumber":"",
+    "addr:postcode":"4652;53184",
+    "addr:street":"Lakeville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.538502,42.509475,-88.538502,42.509475",
     "geom:latitude":42.509475,
     "geom:longitude":-88.538502,
@@ -27,13 +32,7 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mqXHYxdcKDefbBMV8ur9l_42.509475_-88.538502@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462601288,
     "wof:geomhash":"2b2b986611b1b71c6c1c689f9847782c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806813009
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806813009,
-    "wof:lastmodified":1467090467,
+    "wof:lastmodified":1492103504,
     "wof:name":"Jacks Window Cleaning",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

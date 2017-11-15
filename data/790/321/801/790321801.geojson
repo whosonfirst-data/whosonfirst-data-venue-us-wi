@@ -2,9 +2,14 @@
   "id": 790321801,
   "type": "Feature",
   "properties": {
+    "addr:full":"6255 Industrial Ct Greendale WI 53129",
+    "addr:housenumber":"6255",
+    "addr:postcode":"53129",
+    "addr:street":"Industrial Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.994049,42.93302,-87.994049,42.93302",
     "geom:latitude":42.93302,
     "geom:longitude":-87.994049,
@@ -31,7 +36,14 @@
         "cable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404492089,
+        85633793,
+        101733071,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IUNXJISPxPsAWCaQZM8hp_42.933020_-87.994049@1294253271"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1462594927,
     "wof:geomhash":"3bf8cc6fa7693729320467ec883c6d8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492089,
+            "locality_id":101733071,
+            "region_id":85688517,
+            "venue_id":790321801
+        }
+    ],
     "wof:id":790321801,
-    "wof:lastmodified":1467090295,
+    "wof:lastmodified":1492108907,
     "wof:name":"Ade Electronics Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

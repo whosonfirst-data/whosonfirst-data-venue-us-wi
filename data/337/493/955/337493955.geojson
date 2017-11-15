@@ -2,9 +2,14 @@
   "id": 337493955,
   "type": "Feature",
   "properties": {
+    "addr:full":"3001 Elm St East Troy WI 53120",
+    "addr:housenumber":"3001",
+    "addr:postcode":"53120",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.409773,42.78994,-88.409773,42.78994",
     "geom:latitude":42.78994,
     "geom:longitude":-88.409773,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688517,
+        102191575,
+        404494701,
         85633793,
         101732243,
         102081883
@@ -38,17 +45,17 @@
     "wof:geomhash":"52d8fb6a059d7854340ceabf8c8d256b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081883,
+            "localadmin_id":404494701,
             "locality_id":101732243,
-            "neighbourhood_id":-1,
             "region_id":85688517,
             "venue_id":337493955
         }
     ],
     "wof:id":337493955,
-    "wof:lastmodified":1467089893,
+    "wof:lastmodified":1492111887,
     "wof:name":"St Peter's School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

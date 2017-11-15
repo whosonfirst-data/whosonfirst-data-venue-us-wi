@@ -2,9 +2,14 @@
   "id": 823156597,
   "type": "Feature",
   "properties": {
+    "addr:full":"2916 W Forest Home Ave Milwaukee WI 53215",
+    "addr:housenumber":"2916",
+    "addr:postcode":"53215",
+    "addr:street":"W Forest Home Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.950737,42.999328,-87.950737,42.999328",
     "geom:latitude":42.999328,
     "geom:longitude":-87.950737,
@@ -33,14 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85870927,
+        85870955,
         102191575,
         404492091,
         85633793,
         101732987,
         102081837,
         85688517,
-        85870955
+        85870927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +61,7 @@
             "county_id":102081837,
             "localadmin_id":404492091,
             "locality_id":101732987,
-            "neighbourhood_id":85870927,
+            "neighbourhood_id":85870955,
             "region_id":85688517,
             "venue_id":823156597
         },
@@ -66,15 +71,15 @@
             "county_id":102081837,
             "localadmin_id":404492091,
             "locality_id":101732987,
-            "neighbourhood_id":85870955,
+            "neighbourhood_id":85870927,
             "region_id":85688517,
             "venue_id":823156597
         }
     ],
     "wof:id":823156597,
-    "wof:lastmodified":1467090651,
+    "wof:lastmodified":1492103383,
     "wof:name":"Waka Chan Tattoo Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

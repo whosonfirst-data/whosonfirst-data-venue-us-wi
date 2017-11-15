@@ -2,9 +2,14 @@
   "id": 387824387,
   "type": "Feature",
   "properties": {
+    "addr:full":"5601 S Pennsylvania Ave Cudahy WI 53110",
+    "addr:housenumber":"5601",
+    "addr:postcode":"53110",
+    "addr:street":"S Pennsylvania Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.880009,42.94306,-87.880009,42.94306",
     "geom:latitude":42.94306,
     "geom:longitude":-87.880009,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870975,
+        102191575,
+        404492091,
         85633793,
-        101733063,
+        101732987,
         102081837,
-        85870975
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"c91de41110fa20287e13ba9101cb0fb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":101733063,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870975,
             "region_id":85688517,
             "venue_id":387824387
         }
     ],
     "wof:id":387824387,
-    "wof:lastmodified":1467089925,
+    "wof:lastmodified":1492088061,
     "wof:name":"Milwaukee Windows Plus LLC",
     "wof:parent_id":85870975,
     "wof:placetype":"venue",

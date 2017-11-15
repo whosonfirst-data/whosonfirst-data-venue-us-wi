@@ -2,14 +2,20 @@
   "id": 807193479,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 N 35th St Milwaukee WI 53208",
+    "addr:housenumber":"1201",
+    "addr:postcode":"53208",
+    "addr:street":"N 35Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.957749,43.043948,-87.957749,43.043948",
     "geom:latitude":43.043948,
     "geom:longitude":-87.957749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1201 N 35th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":420573809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VVZWXe72phkCT9lBMqtA7_43.043948_-87.957749@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604729,
-    "wof:geomhash":"51bbb588d2daae0fade78228db10561d",
+    "wof:geomhash":"bfdafd73921b380c212957fcbc6d6ac7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807193479,
-    "wof:lastmodified":1467090565,
+    "wof:lastmodified":1510603478,
     "wof:name":"Payless Shoe Source",
     "wof:parent_id":85870967,
     "wof:placetype":"venue",

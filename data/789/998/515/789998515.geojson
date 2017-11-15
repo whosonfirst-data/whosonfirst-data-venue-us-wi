@@ -2,14 +2,20 @@
   "id": 789998515,
   "type": "Feature",
   "properties": {
+    "addr:full":"5430 W Louise Pl Milwaukee WI 53216",
+    "addr:housenumber":"5430",
+    "addr:postcode":"53216",
+    "addr:street":"W Louise Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.981775,43.077608,-87.981775,43.077608",
     "geom:latitude":43.077608,
     "geom:longitude":-87.981775,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5430 W Louise Pl",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125150465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RqPsnAyRU2g35UQm3KTcX_43.077608_-87.981775@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592319,
-    "wof:geomhash":"39c90b105c07b3dde596f678bf6a1735",
+    "wof:geomhash":"5417e18909bf9ef67d5c43878dbe55c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789998515,
-    "wof:lastmodified":1467090231,
+    "wof:lastmodified":1510694143,
     "wof:name":"Pre-Paid Legal Svc Inc",
     "wof:parent_id":420550059,
     "wof:placetype":"venue",

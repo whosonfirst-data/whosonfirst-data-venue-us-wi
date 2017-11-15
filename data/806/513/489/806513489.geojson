@@ -2,14 +2,20 @@
   "id": 806513489,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 S Nicolet Rd Appleton WI 54914",
+    "addr:housenumber":"333",
+    "addr:postcode":"54914",
+    "addr:street":"S Nicolet Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.469107,44.258601,-88.469107,44.258601",
     "geom:latitude":44.258601,
     "geom:longitude":-88.469107,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"333 S Nicolet Rd",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125150803,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wTXXj4ia9flFFjdS7BRZA_44.258601_-88.469107@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598741,
-    "wof:geomhash":"5b8ae8a12d564e53d5473e8f978781ab",
+    "wof:geomhash":"ad66a75fcd9745c532eb43cd2c104fc3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806513489,
-    "wof:lastmodified":1467090397,
+    "wof:lastmodified":1510697334,
     "wof:name":"Investment Centers Of America",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

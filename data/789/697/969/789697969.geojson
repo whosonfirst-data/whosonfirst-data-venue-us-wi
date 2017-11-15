@@ -2,9 +2,14 @@
   "id": 789697969,
   "type": "Feature",
   "properties": {
+    "addr:full":"10400 W Parklane Ct Hales Corners WI 53130",
+    "addr:housenumber":"10400",
+    "addr:postcode":"53130",
+    "addr:street":"W Parklane Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.045704,42.932585,-88.045704,42.932585",
     "geom:latitude":42.932585,
     "geom:longitude":-88.045704,
@@ -29,7 +34,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494175,
+        85633793,
+        101733077,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Oz2ylaDSkf0QrrOFt7I0H_42.932585_-88.045704@1294253271"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462589844,
     "wof:geomhash":"a4c10b53c9c72783cb98a93924a075e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494175,
+            "locality_id":101733077,
+            "region_id":85688517,
+            "venue_id":789697969
+        }
+    ],
     "wof:id":789697969,
-    "wof:lastmodified":1467090173,
+    "wof:lastmodified":1492102971,
     "wof:name":"Snow Mobiles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

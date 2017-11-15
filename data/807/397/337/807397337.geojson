@@ -2,9 +2,14 @@
   "id": 807397337,
   "type": "Feature",
   "properties": {
+    "addr:full":"7700 S Lovers Lane Rd Franklin WI 53132",
+    "addr:housenumber":"7700",
+    "addr:postcode":"53132",
+    "addr:street":"S Lovers Lane Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.039032,42.905708,-88.039032,42.905708",
     "geom:latitude":42.905708,
     "geom:longitude":-88.039032,
@@ -33,7 +38,14 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5u942yYu92uY8LYf5soimV_42.905708_-88.039032@1303262806"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1462607219,
     "wof:geomhash":"ade90643172f8daa17fd918223da34a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":807397337
+        }
+    ],
     "wof:id":807397337,
-    "wof:lastmodified":1467090637,
+    "wof:lastmodified":1492098698,
     "wof:name":"Wyndham Village Retail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

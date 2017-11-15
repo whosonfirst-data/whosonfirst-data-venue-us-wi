@@ -2,14 +2,20 @@
   "id": 807273001,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Keighley Cir Madison WI 53719",
+    "addr:housenumber":"25",
+    "addr:postcode":"53719",
+    "addr:street":"Keighley Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.502117,43.020525,-89.502117,43.020525",
     "geom:latitude":43.020525,
     "geom:longitude":-89.502117,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"25 Keighley Cir",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":420574901,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1i2mADU8N2vHbA1mTCHruT_43.020525_-89.502117@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605574,
-    "wof:geomhash":"ec951e9a4abc85554efd257840ae1f16",
+    "wof:geomhash":"1926b848cb527a28ece9282c76afd0fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807273001,
-    "wof:lastmodified":1467090590,
+    "wof:lastmodified":1510604240,
     "wof:name":"Comfort Keepers",
     "wof:parent_id":85878885,
     "wof:placetype":"venue",

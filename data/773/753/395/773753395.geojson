@@ -2,9 +2,14 @@
   "id": 773753395,
   "type": "Feature",
   "properties": {
+    "addr:full":"261 Junction Rd Madison WI 53717",
+    "addr:housenumber":"261",
+    "addr:postcode":"53717",
+    "addr:street":"Junction Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.524902,43.072643,-89.524902,43.072643",
     "geom:latitude":43.072643,
     "geom:longitude":-89.524902,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"b5c45709857e59554f48dd1477baf6d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":773753395,
-    "wof:lastmodified":1467090126,
+    "wof:lastmodified":1491894091,
     "wof:name":"Anchor Bank",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

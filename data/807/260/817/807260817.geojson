@@ -2,14 +2,20 @@
   "id": 807260817,
   "type": "Feature",
   "properties": {
+    "addr:full":"1123 Vilas Ave Madison WI 53715",
+    "addr:housenumber":"1123",
+    "addr:postcode":"53715",
+    "addr:street":"Vilas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.405371,43.06306,-89.405371,43.06306",
     "geom:latitude":43.06306,
     "geom:longitude":-89.405371,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1123 Vilas Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125153563,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RZuljNgaAQObafRTF1qd0_43.063060_-89.405371@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605438,
-    "wof:geomhash":"93fdea7016e130e3da9f3d5add875def",
+    "wof:geomhash":"8d61233b6d04e389ffa8b09137fc0ec4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807260817,
-    "wof:lastmodified":1467090587,
+    "wof:lastmodified":1510693204,
     "wof:name":"Trinity United Methdst Church",
     "wof:parent_id":85878849,
     "wof:placetype":"venue",

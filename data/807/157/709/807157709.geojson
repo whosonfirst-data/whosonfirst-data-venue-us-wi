@@ -2,14 +2,20 @@
   "id": 807157709,
   "type": "Feature",
   "properties": {
+    "addr:full":"546 Park Ave Delavan WI 53115",
+    "addr:housenumber":"546",
+    "addr:postcode":"53115",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.630997,42.626831,-88.630997,42.626831",
     "geom:latitude":42.626831,
     "geom:longitude":-88.630997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"546 Park Ave",
     "sg:city":"Delavan",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081883,
         85829149
     ],
+    "wof:brand_id":1125151969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jbC71gzrWhyd9f0qiCWqY_42.626831_-88.630997@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604346,
-    "wof:geomhash":"6e07f78ab6fa141e0b826ca82726dbf3",
+    "wof:geomhash":"a5b4c438b9e9d107585049b6932cf8e8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807157709,
-    "wof:lastmodified":1467090554,
+    "wof:lastmodified":1510613289,
     "wof:name":"American Bowling Congress",
     "wof:parent_id":85829149,
     "wof:placetype":"venue",

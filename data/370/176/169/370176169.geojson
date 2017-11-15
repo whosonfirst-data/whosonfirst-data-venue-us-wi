@@ -2,14 +2,20 @@
   "id": 370176169,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 N Metro Dr Appleton WI 54913",
+    "addr:housenumber":"310",
+    "addr:postcode":"54913",
+    "addr:street":"N Metro Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.473429,44.265068,-88.473429,44.265068",
     "geom:latitude":44.265068,
     "geom:longitude":-88.473429,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"310 N Metro Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125156827,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71uQQsGJ0JO3IsCly4Fii8_44.265068_-88.473429@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"e4c782e6ac10645d4fda920e6a66eb6c",
+    "wof:geomhash":"b6d093ab83c4c918021d2eec86b78116",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":370176169,
-    "wof:lastmodified":1467089904,
+    "wof:lastmodified":1510613403,
     "wof:name":"Residence Inn By Marriott",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

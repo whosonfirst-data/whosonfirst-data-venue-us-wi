@@ -2,14 +2,20 @@
   "id": 806416033,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Day St Green Bay WI 54302",
+    "addr:housenumber":"500",
+    "addr:postcode":"54302",
+    "addr:street":"Day St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.005902,44.520492,-88.005902,44.520492",
     "geom:latitude":44.520492,
     "geom:longitude":-88.005902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 Day St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125151549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UUOMKzmqBrIzdaODn1kQH_44.520492_-88.005902@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462597981,
-    "wof:geomhash":"4699e2abc5b6487cf085b9a025b620ba",
+    "wof:geomhash":"784ec78a74d54331d800c5d31d64f96d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806416033,
-    "wof:lastmodified":1467090374,
+    "wof:lastmodified":1510695399,
     "wof:name":"Georgia-Pacific Corp",
     "wof:parent_id":85877935,
     "wof:placetype":"venue",

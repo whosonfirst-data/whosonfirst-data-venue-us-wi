@@ -2,14 +2,20 @@
   "id": 807216289,
   "type": "Feature",
   "properties": {
+    "addr:full":"1721 Thierer Rd Madison WI 53704",
+    "addr:housenumber":"1721",
+    "addr:postcode":"53704",
+    "addr:street":"Thierer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.311265,43.121474,-89.311265,43.121474",
     "geom:latitude":43.121474,
     "geom:longitude":-89.311265,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1721 Thierer Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125151571,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4853B9S54lgdUrXRDGmpmD_43.121474_-89.311265@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604960,
-    "wof:geomhash":"5d025ac78ec4bfaf6635927e13597bcb",
+    "wof:geomhash":"2622c9168dad695210d2cd606a191b42",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807216289,
-    "wof:lastmodified":1467090572,
+    "wof:lastmodified":1510697607,
     "wof:name":"Salvation Army Family Store",
     "wof:parent_id":85878851,
     "wof:placetype":"venue",

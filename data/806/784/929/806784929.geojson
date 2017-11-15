@@ -2,14 +2,20 @@
   "id": 806784929,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 S Midvale Blvd Madison WI 53711",
+    "addr:housenumber":"525",
+    "addr:postcode":"53711",
+    "addr:street":"S Midvale Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.451039,43.054183,-89.451039,43.054183",
     "geom:latitude":43.054183,
     "geom:longitude":-89.451039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"525 S Midvale Blvd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125154609,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Z57fgnFccEQN4tcvNFj1M_43.054183_-89.451039@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601060,
-    "wof:geomhash":"555bb2ba8932f755128417caac531465",
+    "wof:geomhash":"7021cc86ff85d53cb16495504da3896f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806784929,
-    "wof:lastmodified":1467090460,
+    "wof:lastmodified":1510694005,
     "wof:name":"Buck's Pizza",
     "wof:parent_id":85878833,
     "wof:placetype":"venue",

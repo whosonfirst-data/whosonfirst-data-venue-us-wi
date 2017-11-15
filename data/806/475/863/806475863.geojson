@@ -2,14 +2,20 @@
   "id": 806475863,
   "type": "Feature",
   "properties": {
+    "addr:full":"1210 S 10th St Sheboygan WI 53081",
+    "addr:housenumber":"1210",
+    "addr:postcode":"53081",
+    "addr:street":"S 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.716365,43.741139,-87.716365,43.741139",
     "geom:latitude":43.741139,
     "geom:longitude":-87.716365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1210 S 10th St",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":1125151103,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ECY2cvuB1Nt0c8d52qHWq_43.741139_-87.716365@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598429,
-    "wof:geomhash":"72e9c0ee3f7f3640affb79b6073b3222",
+    "wof:geomhash":"54c7e87357c9191ee442f03691fff257",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806475863,
-    "wof:lastmodified":1467090388,
+    "wof:lastmodified":1510697583,
     "wof:name":"ABF Freight System Inc",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

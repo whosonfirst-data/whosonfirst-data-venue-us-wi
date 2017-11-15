@@ -2,14 +2,20 @@
   "id": 790045603,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 N Bridge St Chippewa Falls WI 54729",
+    "addr:housenumber":"202",
+    "addr:postcode":"54729",
+    "addr:street":"N Bridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.393237,44.936991,-91.393237,44.936991",
     "geom:latitude":44.936991,
     "geom:longitude":-91.393237,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"202 N Bridge St",
     "sg:city":"Chippewa Falls",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081787,
         85837071
     ],
+    "wof:brand_id":1125150803,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66Ukg0DckiqdVHVEAotRZw_44.936991_-91.393237@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592683,
-    "wof:geomhash":"673a55f19f4eb214e32912334ad50757",
+    "wof:geomhash":"4b5320330b160bf1029dfc25b56bda7f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790045603,
-    "wof:lastmodified":1467090241,
+    "wof:lastmodified":1510697334,
     "wof:name":"Investment Centers Of America",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807236951,
   "type": "Feature",
   "properties": {
+    "addr:full":"416 Patrick Ave Waunakee WI 53597",
+    "addr:housenumber":"416",
+    "addr:postcode":"53597",
+    "addr:street":"Patrick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.448568,43.195944,-89.448568,43.195944",
     "geom:latitude":43.195944,
     "geom:longitude":-89.448568,
@@ -27,12 +32,7 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mKuoxTBXiY0ZgOt89gmjS_43.195944_-89.448568@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462605182,
     "wof:geomhash":"80ce1ae39129114fe6699e4609fe3288",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807236951
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807236951,
-    "wof:lastmodified":1467090579,
+    "wof:lastmodified":1491935715,
     "wof:name":"Lord & Savior Evangelical Chr",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

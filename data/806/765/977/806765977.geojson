@@ -2,6 +2,10 @@
   "id": 806765977,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 N State St Appleton WI 54911",
+    "addr:housenumber":"123",
+    "addr:postcode":"54911",
+    "addr:street":"N State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806765977,
-    "wof:lastmodified":1467090456,
+    "wof:lastmodified":1472654594,
     "wof:name":"Sprint",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

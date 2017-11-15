@@ -2,9 +2,14 @@
   "id": 806452635,
   "type": "Feature",
   "properties": {
+    "addr:full":"4810 Division Rd Waterford WI 53185",
+    "addr:housenumber":"4810",
+    "addr:postcode":"53185",
+    "addr:street":"Division Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.181647,42.785232,-88.181647,42.785232",
     "geom:latitude":42.785232,
     "geom:longitude":-88.181647,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494901,
+        85633793,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kw0mSGTkZwa39PR83gB4U_42.785232_-88.181647@1294253271"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462598262,
     "wof:geomhash":"c1b0c5444750241e4eaa2e5706302e03",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494901,
+            "region_id":85688517,
+            "venue_id":806452635
+        }
+    ],
     "wof:id":806452635,
-    "wof:lastmodified":1467090383,
+    "wof:lastmodified":1492103472,
     "wof:name":"P Nannemann Masonry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

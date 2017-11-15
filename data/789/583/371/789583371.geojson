@@ -2,9 +2,14 @@
   "id": 789583371,
   "type": "Feature",
   "properties": {
+    "addr:full":"5667 Steeplechase Dr Waunakee WI 53597",
+    "addr:housenumber":"5667",
+    "addr:postcode":"53597",
+    "addr:street":"Steeplechase Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.427879,43.164296,-89.427879,43.164296",
     "geom:latitude":43.164296,
     "geom:longitude":-89.427879,
@@ -28,12 +33,7 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59cJqJNVxpIaL7rNKeQpOZ_43.164296_-89.427879@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462588935,
     "wof:geomhash":"97dc7796e9c9eef5a772e5a6d69071b9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789583371
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789583371,
-    "wof:lastmodified":1467090149,
+    "wof:lastmodified":1491935710,
     "wof:name":"Evergreen Photography LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

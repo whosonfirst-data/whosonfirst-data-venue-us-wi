@@ -2,14 +2,20 @@
   "id": 807198065,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 E Towne Mall Madison WI 53704",
+    "addr:housenumber":"20",
+    "addr:postcode":"53704",
+    "addr:street":"E Towne Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.304436,43.12796,-89.304436,43.12796",
     "geom:latitude":43.12796,
     "geom:longitude":-89.304436,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 E Towne Mall",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125150179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56GcaNsbU0y0yY9dumWL4J_43.127960_-89.304436@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604779,
-    "wof:geomhash":"58b7e207b300eae281deb49583e5d4d1",
+    "wof:geomhash":"6ba54698b34a2d44e2697dd2ec3592a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807198065,
-    "wof:lastmodified":1467090567,
+    "wof:lastmodified":1510694919,
     "wof:name":"Master Cuts",
     "wof:parent_id":85878851,
     "wof:placetype":"venue",

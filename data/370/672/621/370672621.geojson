@@ -2,9 +2,14 @@
   "id": 370672621,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 South St Waunakee WI 53597",
+    "addr:housenumber":"105",
+    "addr:postcode":"53597",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.455031,43.19085,-89.455031,43.19085",
     "geom:latitude":43.19085,
     "geom:longitude":-89.455031,
@@ -25,31 +30,16 @@
     "sg:province":"WI",
     "sg:website":"www.waunakeetribune.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        102081795,
-        85868279
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_409bm47IVizHSH50Ltj2xK_43.190850_-89.455031@1294253271"
     },
     "wof:country":"US",
     "wof:geomhash":"882058be17593660bbf0bd431f02cb4e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081795,
-            "locality_id":-1,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":370672621
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":370672621,
-    "wof:lastmodified":1467089898,
+    "wof:lastmodified":1491935698,
     "wof:name":"Waunakee Tribune",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

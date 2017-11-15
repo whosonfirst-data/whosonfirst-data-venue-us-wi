@@ -2,9 +2,14 @@
   "id": 806376035,
   "type": "Feature",
   "properties": {
+    "addr:full":"27043 S Elm Ln Waterford WI 53185",
+    "addr:housenumber":"27043",
+    "addr:postcode":"53185",
+    "addr:street":"S Elm Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.168293,42.812545,-88.168293,42.812545",
     "geom:latitude":42.812545,
     "geom:longitude":-88.168293,
@@ -28,7 +33,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494901,
+        85633793,
+        101733595,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57gWLZCPSiTiGapjFaEabD_42.812545_-88.168293@1294253271"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462597644,
     "wof:geomhash":"604141149e6dcdbe8e8b97725a42352b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494901,
+            "locality_id":101733595,
+            "region_id":85688517,
+            "venue_id":806376035
+        }
+    ],
     "wof:id":806376035,
-    "wof:lastmodified":1467090365,
+    "wof:lastmodified":1492103398,
     "wof:name":"Ken Smelcer Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

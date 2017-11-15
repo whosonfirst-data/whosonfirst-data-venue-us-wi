@@ -2,9 +2,14 @@
   "id": 807209015,
   "type": "Feature",
   "properties": {
+    "addr:full":"5326 Westport Rd Madison WI 53704",
+    "addr:housenumber":"5326",
+    "addr:postcode":"53704",
+    "addr:street":"Westport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.40424,43.150812,-89.40424,43.150812",
     "geom:latitude":43.150812,
     "geom:longitude":-89.40424,
@@ -24,12 +29,7 @@
     "sg:postcode":"53704",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4G4MYleVf47p9Mbj1wLJID_43.150812_-89.404240@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462604891,
     "wof:geomhash":"71128f65a7631c2759a6b9f286716b2a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807209015
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807209015,
-    "wof:lastmodified":1467090570,
+    "wof:lastmodified":1491935687,
     "wof:name":"Vicena Designs",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

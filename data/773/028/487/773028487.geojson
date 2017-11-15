@@ -2,14 +2,20 @@
   "id": 773028487,
   "type": "Feature",
   "properties": {
+    "addr:full":"518 School Ave Oshkosh WI 54901",
+    "addr:housenumber":"518",
+    "addr:postcode":"54901",
+    "addr:street":"School Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.529786,44.01679,-88.529786,44.01679",
     "geom:latitude":44.01679,
     "geom:longitude":-88.529786,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"518 School Ave",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081801,
         85688517
     ],
+    "wof:brand_id":1125158811,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WvcNiVFvjqGFr1N4NRPiu_44.016790_-88.529786@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462582553,
-    "wof:geomhash":"85eb4a5669880ecb3796ebb1278d5ee4",
+    "wof:geomhash":"f1979b34e765446237d168e07d885690",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773028487,
-    "wof:lastmodified":1467089941,
+    "wof:lastmodified":1510697442,
     "wof:name":"Maintenance Department",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",

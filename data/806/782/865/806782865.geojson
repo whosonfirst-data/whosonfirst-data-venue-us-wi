@@ -2,14 +2,20 @@
   "id": 806782865,
   "type": "Feature",
   "properties": {
+    "addr:full":"1210 Fourier Dr Madison WI 53717",
+    "addr:housenumber":"1210",
+    "addr:postcode":"53717",
+    "addr:street":"Fourier Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.524984,43.082348,-89.524984,43.082348",
     "geom:latitude":43.082348,
     "geom:longitude":-89.524984,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1210 Fourier Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,23 +43,28 @@
     "sg:website":"www.earthtech.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
+    "wof:brand_id":1125154633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JWRT0ldaPk2x1UnTykfY2_43.082348_-89.524984@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601043,
-    "wof:geomhash":"71688c8e90ed0995ab059bc1b9e79347",
+    "wof:geomhash":"563737e3bd66669de4f3b39a028e5a6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -61,7 +72,7 @@
         }
     ],
     "wof:id":806782865,
-    "wof:lastmodified":1467090460,
+    "wof:lastmodified":1510697731,
     "wof:name":"Earth Tech Inc",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

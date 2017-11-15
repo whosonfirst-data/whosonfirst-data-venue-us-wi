@@ -2,14 +2,20 @@
   "id": 370417213,
   "type": "Feature",
   "properties": {
+    "addr:full":"420 S Willson Dr Altoona WI 54720",
+    "addr:housenumber":"420",
+    "addr:postcode":"54720",
+    "addr:street":"S Willson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.45305,44.803799,-91.45305,44.803799",
     "geom:latitude":44.803799,
     "geom:longitude":-91.45305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"420 S Willson Dr",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125153661,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6olqMXOgmLGMVirDMZYfVl_44.803799_-91.453050@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b83632bbd5dd95b9ff5deb3b6df999c",
+    "wof:geomhash":"28ee98c9a286fc1ce2daa25b45c4a293",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":370417213,
-    "wof:lastmodified":1467089901,
+    "wof:lastmodified":1510697473,
     "wof:name":"Abbott Laboratories",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807195413,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 South St Waunakee WI 53597",
+    "addr:housenumber":"104",
+    "addr:postcode":"53597",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.455181,43.190852,-89.455181,43.190852",
     "geom:latitude":43.190852,
     "geom:longitude":-89.455181,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0saUzMf671RpLvPxITab67_43.190852_-89.455181@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462604745,
     "wof:geomhash":"acb69f57a277ed02f07dbed2734f4107",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807195413
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807195413,
-    "wof:lastmodified":1467090566,
+    "wof:lastmodified":1491935687,
     "wof:name":"Moose Investments",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

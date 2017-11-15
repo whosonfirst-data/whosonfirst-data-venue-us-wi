@@ -2,9 +2,14 @@
   "id": 773551177,
   "type": "Feature",
   "properties": {
+    "addr:full":"328 Raemisch Rd Waunakee WI 53597",
+    "addr:housenumber":"328",
+    "addr:postcode":"53597",
+    "addr:street":"Raemisch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.436983,43.182414,-89.436983,43.182414",
     "geom:latitude":43.182414,
     "geom:longitude":-89.436983,
@@ -28,12 +33,7 @@
         "dairy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ji9mVeM02z8E4bkuLdJNc_43.182414_-89.436983@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462586575,
     "wof:geomhash":"3ad68b60c38be37a87abfae26de5db0b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773551177
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773551177,
-    "wof:lastmodified":1467090080,
+    "wof:lastmodified":1491935717,
     "wof:name":"Professional Dairy Svc Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

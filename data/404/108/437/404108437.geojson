@@ -2,9 +2,14 @@
   "id": 404108437,
   "type": "Feature",
   "properties": {
+    "addr:full":"8455 194th Ave Bristol WI 53104",
+    "addr:housenumber":"8455",
+    "addr:postcode":"53104",
+    "addr:street":"194Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.043033,42.552599,-88.043033,42.552599",
     "geom:latitude":42.552599,
     "geom:longitude":-88.043033,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688517,
+        102191575,
+        404493391,
         85633793,
         101732581,
         102081309
@@ -41,17 +48,17 @@
     "wof:geomhash":"7ba4fb4f906a58e385ad05e55adb9832",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081309,
+            "localadmin_id":404493391,
             "locality_id":101732581,
-            "neighbourhood_id":-1,
             "region_id":85688517,
             "venue_id":404108437
         }
     ],
     "wof:id":404108437,
-    "wof:lastmodified":1467089909,
+    "wof:lastmodified":1492098711,
     "wof:name":"J & K Granite & Marble Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

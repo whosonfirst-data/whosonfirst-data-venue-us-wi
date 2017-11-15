@@ -2,14 +2,20 @@
   "id": 807369047,
   "type": "Feature",
   "properties": {
+    "addr:full":"3620 Gateway Dr Eau Claire WI 54701",
+    "addr:housenumber":"3620",
+    "addr:postcode":"54701",
+    "addr:street":"Gateway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.43295,44.782716,-91.43295,44.782716",
     "geom:latitude":44.782716,
     "geom:longitude":-91.43295,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3620 Gateway Dr",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125151367,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uM4EIhckK261JGvySbJme_44.782716_-91.432950@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606778,
-    "wof:geomhash":"6e555d9ba7725188ec8de279b88e1f4c",
+    "wof:geomhash":"968aaee7a0be110e71f2a5d2a2dc4b7e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807369047,
-    "wof:lastmodified":1467090625,
+    "wof:lastmodified":1510696777,
     "wof:name":"Jade Garden",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806928901,
   "type": "Feature",
   "properties": {
+    "addr:full":"2175 Main St Green Bay WI 54302",
+    "addr:housenumber":"2175",
+    "addr:postcode":"54302",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.971426,44.486573,-87.971426,44.486573",
     "geom:latitude":44.486573,
     "geom:longitude":-87.971426,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2175 Main St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125151805,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1I9QZHmyuZQ4P2yUuUPlPH_44.486573_-87.971426@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602264,
-    "wof:geomhash":"d2d9593a4b93e46aa9cb0ba6adb76e9b",
+    "wof:geomhash":"263eefe96e07a25a646d81c37a368eed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806928901,
-    "wof:lastmodified":1467090493,
+    "wof:lastmodified":1510693834,
     "wof:name":"Tires Plus",
     "wof:parent_id":85877953,
     "wof:placetype":"venue",

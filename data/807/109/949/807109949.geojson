@@ -2,14 +2,20 @@
   "id": 807109949,
   "type": "Feature",
   "properties": {
+    "addr:full":"3369 W Brewster St Appleton WI 54914",
+    "addr:housenumber":"3369",
+    "addr:postcode":"54914",
+    "addr:street":"W Brewster St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.456846,44.27493,-88.456846,44.27493",
     "geom:latitude":44.27493,
     "geom:longitude":-88.456846,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3369 W Brewster St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":420574971,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46SZGV80hcGmBXbt6N8SG9_44.274930_-88.456846@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603833,
-    "wof:geomhash":"4bb47a85902aed93d95f36315161e613",
+    "wof:geomhash":"e7720368a7743bac1e8cb48409b0234e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807109949,
-    "wof:lastmodified":1467090539,
+    "wof:lastmodified":1510603892,
     "wof:name":"Farm Service Agency",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

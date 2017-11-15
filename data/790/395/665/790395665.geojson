@@ -2,9 +2,14 @@
   "id": 790395665,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 5th St Waunakee WI 53597",
+    "addr:housenumber":"510",
+    "addr:postcode":"53597",
+    "addr:street":"5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.463564,43.187681,-89.463564,43.187681",
     "geom:latitude":43.187681,
     "geom:longitude":-89.463564,
@@ -27,12 +32,7 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XXEkNYkcyGHwLLksUmNZY_43.187681_-89.463564@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462595505,
     "wof:geomhash":"19eac994a81bf77f8c572235956cda93",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790395665
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790395665,
-    "wof:lastmodified":1467090310,
+    "wof:lastmodified":1491935693,
     "wof:name":"Niles K Bakke DDS",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

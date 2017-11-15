@@ -2,9 +2,14 @@
   "id": 806411981,
   "type": "Feature",
   "properties": {
+    "addr:full":"8613 Fairway Pl Middleton WI 53562",
+    "addr:housenumber":"8613",
+    "addr:postcode":"53562",
+    "addr:street":"Fairway Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.534158,43.10309,-89.534158,43.10309",
     "geom:latitude":43.10309,
     "geom:longitude":-89.534158,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +56,10 @@
     "wof:geomhash":"16f82c34438de8372d7b835ebbd0b989",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":806411981,
-    "wof:lastmodified":1467090373,
+    "wof:lastmodified":1491894021,
     "wof:name":"Maple Leaf Cabinetry & Mllwk",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789975133,
   "type": "Feature",
   "properties": {
+    "addr:full":"4801 Washington Rd Kenosha WI 53144",
+    "addr:housenumber":"4801",
+    "addr:postcode":"53144",
+    "addr:street":"Washington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.868302,42.603222,-87.868302,42.603222",
     "geom:latitude":42.603222,
     "geom:longitude":-87.868302,
@@ -24,7 +29,13 @@
     "sg:postcode":"53144",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493407,
+        85633793,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76ygkVc3gk4BCM57ZkneuK_42.603222_-87.868302@1294253271"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462592128,
     "wof:geomhash":"95e435311a140ca1f986e9e2b49dff4e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493407,
+            "region_id":85688517,
+            "venue_id":789975133
+        }
+    ],
     "wof:id":789975133,
-    "wof:lastmodified":1467090227,
+    "wof:lastmodified":1492098688,
     "wof:name":"Kenosha Development Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

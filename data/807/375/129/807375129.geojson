@@ -2,14 +2,20 @@
   "id": 807375129,
   "type": "Feature",
   "properties": {
+    "addr:full":"219 Cottage Grove Rd  Madison WI 53716",
+    "addr:housenumber":"219",
+    "addr:postcode":"53716",
+    "addr:street":"Cottage Grove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.322399,43.083631,-89.322399,43.083631",
     "geom:latitude":43.083631,
     "geom:longitude":-89.322399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"219 Cottage Grove Rd ",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125154609,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DetKLxSO7W7K93XGT2ZE7_43.083654_-89.321869@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462606861,
-    "wof:geomhash":"77e3c2976c0040ce8750ca234ff1d7ef",
+    "wof:geomhash":"6471f8ca70331ff3fc8ee3d2f774b6d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807375129,
-    "wof:lastmodified":1467090628,
+    "wof:lastmodified":1510694005,
     "wof:name":"Buck's Pizza",
     "wof:parent_id":85878857,
     "wof:placetype":"venue",

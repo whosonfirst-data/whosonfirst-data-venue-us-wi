@@ -2,14 +2,20 @@
   "id": 807105511,
   "type": "Feature",
   "properties": {
+    "addr:full":"2307 S Webster Ave Green Bay WI 54301",
+    "addr:housenumber":"2307",
+    "addr:postcode":"54301",
+    "addr:street":"S Webster Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.025075,44.479606,-88.025075,44.479606",
     "geom:latitude":44.479606,
     "geom:longitude":-88.025075,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2307 S Webster Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125150783,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oEfLBzkwSjFrCzvMhXW2J_44.479606_-88.025075@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603789,
-    "wof:geomhash":"fc9d25026a36fb52cdef5c454bd77fa2",
+    "wof:geomhash":"2a701c14207c9c5fc7be0c258d5081fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807105511,
-    "wof:lastmodified":1467090538,
+    "wof:lastmodified":1510698801,
     "wof:name":"Royal Cleaners",
     "wof:parent_id":85877931,
     "wof:placetype":"venue",

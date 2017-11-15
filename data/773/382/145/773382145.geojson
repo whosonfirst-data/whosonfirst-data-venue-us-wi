@@ -2,14 +2,20 @@
   "id": 773382145,
   "type": "Feature",
   "properties": {
+    "addr:full":"557 W State St Hartford WI 53027",
+    "addr:housenumber":"557",
+    "addr:postcode":"53027",
+    "addr:street":"W State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.388057,43.32551,-88.388057,43.32551",
     "geom:latitude":43.32551,
     "geom:longitude":-88.388057,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"557 W State St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081745,
         85688517
     ],
+    "wof:brand_id":1125152183,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mvMBsGNjNyBoaElb8U91n_43.325510_-88.388057@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585267,
-    "wof:geomhash":"fc83beafc0b2d401263128d6bf51556b",
+    "wof:geomhash":"4cbb4bef46d4335045f83a90adbb1791",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773382145,
-    "wof:lastmodified":1467090040,
+    "wof:lastmodified":1510693997,
     "wof:name":"Womens International Bowl",
     "wof:parent_id":85841573,
     "wof:placetype":"venue",

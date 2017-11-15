@@ -2,9 +2,14 @@
   "id": 806462565,
   "type": "Feature",
   "properties": {
+    "addr:full":"1033 Main St Union Grove WI 53182",
+    "addr:housenumber":"1033",
+    "addr:postcode":"53182",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.051802,42.687258,-88.051802,42.687258",
     "geom:latitude":42.687258,
     "geom:longitude":-88.051802,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494991,
+        85633793,
+        101732347,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jnCjxigFp62S2hbQ8hfg0_42.687258_-88.051802@1294253271"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462598336,
     "wof:geomhash":"90c365233429e205aa9a9294e7ee93d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494991,
+            "locality_id":101732347,
+            "region_id":85688517,
+            "venue_id":806462565
+        }
+    ],
     "wof:id":806462565,
-    "wof:lastmodified":1467090385,
+    "wof:lastmodified":1492103388,
     "wof:name":"Dakota Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

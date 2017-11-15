@@ -2,9 +2,14 @@
   "id": 773152775,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 Co Rd Dd Burlington WI 53105",
+    "addr:housenumber":"701",
+    "addr:postcode":"53105",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.307131,42.721029,-88.307131,42.721029",
     "geom:latitude":42.721029,
     "geom:longitude":-88.307131,
@@ -27,7 +32,14 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494989,
+        85633793,
+        101732343,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4r71fapcVHS3ieFK8Wc8Ae_42.721029_-88.307131@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462583543,
     "wof:geomhash":"a1e11381c73ee4e36cf8e11e8981d543",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494989,
+            "locality_id":101732343,
+            "region_id":85688517,
+            "venue_id":773152775
+        }
+    ],
     "wof:id":773152775,
-    "wof:lastmodified":1467089974,
+    "wof:lastmodified":1492097573,
     "wof:name":"Thomas P Imp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806414147,
   "type": "Feature",
   "properties": {
+    "addr:full":"1702 Savannah Way Waunakee WI 53597",
+    "addr:housenumber":"1702",
+    "addr:postcode":"53597",
+    "addr:street":"Savannah Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.435736,43.172079,-89.435736,43.172079",
     "geom:latitude":43.172079,
     "geom:longitude":-89.435736,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LHcZoQrkw0XtmLQMY5eUf_43.172079_-89.435736@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462597968,
     "wof:geomhash":"fb2c192e257cb31a893ee2f3c9ac1cb9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806414147
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806414147,
-    "wof:lastmodified":1467090374,
+    "wof:lastmodified":1491935706,
     "wof:name":"Ab-Solute Appraisels LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790122863,
   "type": "Feature",
   "properties": {
+    "addr:full":"6909 Seybold Rd Madison WI 53719",
+    "addr:housenumber":"6909",
+    "addr:postcode":"53719",
+    "addr:street":"Seybold Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.49781,43.05169,-89.49781,43.05169",
     "geom:latitude":43.05169,
     "geom:longitude":-89.49781,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6909 Seybold Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125158111,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mS7YJOtpatILjdeqAjrO3_43.051690_-89.497810@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593312,
-    "wof:geomhash":"f5b383a7ccb2a66766e946bc3723bc14",
+    "wof:geomhash":"2268a92a5dfb55cfc1dba91b12715ae0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790122863,
-    "wof:lastmodified":1467090256,
+    "wof:lastmodified":1510696727,
     "wof:name":"ICI Dulux Paint Centers",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",

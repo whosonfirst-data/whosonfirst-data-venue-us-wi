@@ -2,14 +2,20 @@
   "id": 807252321,
   "type": "Feature",
   "properties": {
+    "addr:full":"1919 W Ryan Rd Oak Creek WI 53154",
+    "addr:housenumber":"1919",
+    "addr:postcode":"53154",
+    "addr:street":"W Ryan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.941572,42.872485,-87.941572,42.872485",
     "geom:latitude":42.872485,
     "geom:longitude":-87.941572,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1919 W Ryan Rd",
     "sg:city":"Oak Creek",
     "sg:classifiers":[
@@ -30,33 +36,23 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420550071,
+        420550135,
         102191575,
         404494177,
         85633793,
         101733079,
         102081837,
-        85688517,
-        420550135
+        85688517
     ],
+    "wof:brand_id":1125153383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FumwIeypUZhogO1vb67Mf_42.872485_-87.941572@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605347,
-    "wof:geomhash":"34021b23a951fa9bc040478a0e7e7551",
+    "wof:geomhash":"743d8e253593a4e71506bb1d579c0ab4",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081837,
-            "localadmin_id":404494177,
-            "locality_id":101733079,
-            "neighbourhood_id":420550071,
-            "region_id":85688517,
-            "venue_id":807252321
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -69,9 +65,9 @@
         }
     ],
     "wof:id":807252321,
-    "wof:lastmodified":1467090584,
+    "wof:lastmodified":1510695717,
     "wof:name":"Flying J Travel Plaza",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

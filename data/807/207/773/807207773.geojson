@@ -2,9 +2,14 @@
   "id": 807207773,
   "type": "Feature",
   "properties": {
+    "addr:full":"1380 Park Pl Union Grove WI 53182",
+    "addr:housenumber":"1380",
+    "addr:postcode":"53182",
+    "addr:street":"Park Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.056764,42.688666,-88.056764,42.688666",
     "geom:latitude":42.688666,
     "geom:longitude":-88.056764,
@@ -33,7 +38,14 @@
         "dwelling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494991,
+        85633793,
+        101732347,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bFgPdbKFOnpIWYY12NJoX_42.688666_-88.056764@1294253271"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1462604875,
     "wof:geomhash":"5dd84658a405cf2a9504b62b63e6a094",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494991,
+            "locality_id":101732347,
+            "region_id":85688517,
+            "venue_id":807207773
+        }
+    ],
     "wof:id":807207773,
-    "wof:lastmodified":1467090570,
+    "wof:lastmodified":1492103392,
     "wof:name":"Hillpark Heights",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

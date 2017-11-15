@@ -2,14 +2,20 @@
   "id": 773578983,
   "type": "Feature",
   "properties": {
+    "addr:full":"4935 Sunset Rd Manitowoc WI 54220",
+    "addr:housenumber":"4935",
+    "addr:postcode":"54220",
+    "addr:street":"Sunset Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.709919,44.120375,-87.709919,44.120375",
     "geom:latitude":44.120375,
     "geom:longitude":-87.709919,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4935 Sunset Rd",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081871,
         85827947
     ],
+    "wof:brand_id":420574429,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43up1qz4QctkjQtgaGJCSv_44.120375_-87.709919@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586797,
-    "wof:geomhash":"025bbce66313ea4bb41f93143acc4014",
+    "wof:geomhash":"3a08a1b694e1d9fcc5e016e18a9d897e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773578983,
-    "wof:lastmodified":1467090086,
+    "wof:lastmodified":1510604794,
     "wof:name":"Thrivent Financial-Lutherans",
     "wof:parent_id":85827947,
     "wof:placetype":"venue",

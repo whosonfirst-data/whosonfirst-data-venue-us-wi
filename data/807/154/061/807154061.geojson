@@ -2,9 +2,14 @@
   "id": 807154061,
   "type": "Feature",
   "properties": {
+    "addr:full":"8831 S Greenview Dr Middleton WI 53562",
+    "addr:housenumber":"8831",
+    "addr:postcode":"53562",
+    "addr:street":"S Greenview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.541318,43.096937,-89.541318,43.096937",
     "geom:latitude":43.096937,
     "geom:longitude":-89.541318,
@@ -29,11 +34,13 @@
     "sg:website":"www.toppromotions.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"2dde0e71a9b08b972eb02dc82ebaad2e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":807154061,
-    "wof:lastmodified":1467090553,
+    "wof:lastmodified":1491894018,
     "wof:name":"Top Promotions Inc",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

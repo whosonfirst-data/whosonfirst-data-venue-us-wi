@@ -2,14 +2,20 @@
   "id": 773231545,
   "type": "Feature",
   "properties": {
+    "addr:full":"5214 Loruth Ter Madison WI 53711",
+    "addr:housenumber":"5214",
+    "addr:postcode":"53711",
+    "addr:street":"Loruth Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.469938,43.043042,-89.469938,43.043042",
     "geom:latitude":43.043042,
     "geom:longitude":-89.469938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5214 Loruth Ter",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125158989,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46kitLidjeXAZMUqRqtN6a_43.043042_-89.469938@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584155,
-    "wof:geomhash":"899863f052516e070a539477548ba091",
+    "wof:geomhash":"fb8eb3f44b93775ced3374aab32006d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773231545,
-    "wof:lastmodified":1467089996,
+    "wof:lastmodified":1510698690,
     "wof:name":"Fuller Brush Co",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",

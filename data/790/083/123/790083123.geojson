@@ -2,14 +2,20 @@
   "id": 790083123,
   "type": "Feature",
   "properties": {
+    "addr:full":"4156 Chestnut Rd Colby WI 54421",
+    "addr:housenumber":"4156",
+    "addr:postcode":"54421",
+    "addr:street":"Chestnut Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.258514,44.897332,-90.258514,44.897332",
     "geom:latitude":44.897332,
     "geom:longitude":-90.258514,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4156 Chestnut Rd",
     "sg:city":"Colby",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85832133,
         102081881
     ],
+    "wof:brand_id":1125150053,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NhGt8KA6FZAXqEi7CKMaO_44.897332_-90.258514@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592992,
-    "wof:geomhash":"b684d0f7850693f7791488c362dac8f2",
+    "wof:geomhash":"9a09c0036db2ae9369a5df0e138e2b0f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790083123,
-    "wof:lastmodified":1467090248,
+    "wof:lastmodified":1510695755,
     "wof:name":"Shear Perfection",
     "wof:parent_id":85832133,
     "wof:placetype":"venue",

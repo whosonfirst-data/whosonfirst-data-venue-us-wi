@@ -2,14 +2,20 @@
   "id": 807191155,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 S Military Ave Green Bay WI 54303",
+    "addr:housenumber":"101",
+    "addr:postcode":"54303",
+    "addr:street":"S Military Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.060547,44.528821,-88.060547,44.528821",
     "geom:latitude":44.528821,
     "geom:longitude":-88.060547,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 S Military Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125156443,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qfhzKtcRXGNtGTE8GncmY_44.528821_-88.060547@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604701,
-    "wof:geomhash":"b95f47cf2fddf8e66be863d78f2e4649",
+    "wof:geomhash":"59bcf04ab8355674ed5e259fa1202f2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807191155,
-    "wof:lastmodified":1467090564,
+    "wof:lastmodified":1510694598,
     "wof:name":"Northwest Airlines",
     "wof:parent_id":85877951,
     "wof:placetype":"venue",

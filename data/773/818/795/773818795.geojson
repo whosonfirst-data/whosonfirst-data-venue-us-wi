@@ -2,14 +2,20 @@
   "id": 773818795,
   "type": "Feature",
   "properties": {
+    "addr:full":"5765 N 76th St Milwaukee WI 53218",
+    "addr:housenumber":"5765",
+    "addr:postcode":"53218",
+    "addr:street":"N 76Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.006055,43.122073,-88.006055,43.122073",
     "geom:latitude":43.122073,
     "geom:longitude":-88.006055,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5765 N 76th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125154535,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YJPHgRZUR8UR4eTaxr9TB_43.122073_-88.006055@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588624,
-    "wof:geomhash":"ecb01f0e06b5238b0fe0fa0004730dde",
+    "wof:geomhash":"97612701caad4ebde1439a44d48c78fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773818795,
-    "wof:lastmodified":1467090141,
+    "wof:lastmodified":1510613564,
     "wof:name":"Just Nails",
     "wof:parent_id":85870903,
     "wof:placetype":"venue",

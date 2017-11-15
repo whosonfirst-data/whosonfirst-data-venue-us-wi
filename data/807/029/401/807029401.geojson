@@ -2,9 +2,14 @@
   "id": 807029401,
   "type": "Feature",
   "properties": {
+    "addr:full":"7001 W North Ave Milwaukee WI 53213",
+    "addr:housenumber":"7001",
+    "addr:postcode":"53213",
+    "addr:street":"W North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.000869,43.060741,-88.000869,43.060741",
     "geom:latitude":43.060741,
     "geom:longitude":-88.000869,
@@ -31,7 +36,8 @@
         85633793,
         101732987,
         102081837,
-        85688517
+        85688517,
+        85870913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +56,22 @@
             "neighbourhood_id":85870829,
             "region_id":85688517,
             "venue_id":807029401
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870913,
+            "region_id":85688517,
+            "venue_id":807029401
         }
     ],
     "wof:id":807029401,
-    "wof:lastmodified":1467090517,
+    "wof:lastmodified":1491910474,
     "wof:name":"Alfa Flower Shop Inc",
-    "wof:parent_id":85870829,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

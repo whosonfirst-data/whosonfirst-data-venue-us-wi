@@ -2,14 +2,20 @@
   "id": 773477799,
   "type": "Feature",
   "properties": {
+    "addr:full":"3310 Douglas Ave Racine WI 53402",
+    "addr:housenumber":"3310",
+    "addr:postcode":"53402",
+    "addr:street":"Douglas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.801705,42.760743,-87.801705,42.760743",
     "geom:latitude":42.760743,
     "geom:longitude":-87.801705,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3310 Douglas Ave",
     "sg:city":"Racine",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081763,
         85688517
     ],
+    "wof:brand_id":1125152741,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NvByhKuQrxfyAO7XaZmDT_42.760743_-87.801705@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586055,
-    "wof:geomhash":"a0de7e3bb214a1b180c72f3290fe5b0e",
+    "wof:geomhash":"6fcd0581a40ad8552e75c8cca0c4d8c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773477799,
-    "wof:lastmodified":1467090063,
+    "wof:lastmodified":1510613103,
     "wof:name":"Speedway Superamerica LLC",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",

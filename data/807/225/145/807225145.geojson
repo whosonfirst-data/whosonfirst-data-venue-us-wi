@@ -2,14 +2,20 @@
   "id": 807225145,
   "type": "Feature",
   "properties": {
+    "addr:full":"6906 Colony Dr Madison WI 53717",
+    "addr:housenumber":"6906",
+    "addr:postcode":"53717",
+    "addr:street":"Colony Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.502446,43.068504,-89.502446,43.068504",
     "geom:latitude":43.068504,
     "geom:longitude":-89.502446,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6906 Colony Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125156995,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50Z9GITA1uzD3DvwUUbrO0_43.068504_-89.502446@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605067,
-    "wof:geomhash":"ec26814934fc1529fe1b351e02b87d86",
+    "wof:geomhash":"b8bc3b3e67229c8dffa5d4d1b719fa3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807225145,
-    "wof:lastmodified":1467090575,
+    "wof:lastmodified":1510697501,
     "wof:name":"Korean Presbyterian Church",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",

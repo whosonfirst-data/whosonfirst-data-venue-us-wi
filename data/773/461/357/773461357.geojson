@@ -2,14 +2,20 @@
   "id": 773461357,
   "type": "Feature",
   "properties": {
+    "addr:full":"1710 W Washington St Appleton WI 54914",
+    "addr:housenumber":"1710",
+    "addr:postcode":"54914",
+    "addr:street":"W Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.431383,44.263117,-88.431383,44.263117",
     "geom:latitude":44.263117,
     "geom:longitude":-88.431383,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1710 W Washington St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125153501,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VOXNAORfa0ASVQHrVOd2X_44.263117_-88.431383@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585925,
-    "wof:geomhash":"dc327113ff4af978a62f17006073ed42",
+    "wof:geomhash":"32531c83703b9524277b73f3a25be5ce",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773461357,
-    "wof:lastmodified":1467090059,
+    "wof:lastmodified":1510696031,
     "wof:name":"Aramark Uniform Svc",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

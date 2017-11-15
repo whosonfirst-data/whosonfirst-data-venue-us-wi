@@ -2,14 +2,20 @@
   "id": 773669415,
   "type": "Feature",
   "properties": {
+    "addr:full":"10945 N Port Washington Rd Thiensville WI 53092",
+    "addr:housenumber":"10945",
+    "addr:postcode":"53092",
+    "addr:street":"N Port Washington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.924078,43.213854,-87.924078,43.213854",
     "geom:latitude":43.213854,
     "geom:longitude":-87.924078,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10945 N Port Washington Rd",
     "sg:city":"Thiensville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081873,
         85688517
     ],
+    "wof:brand_id":1125154063,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YPV4fCKCSXdBe5lHw2z4v_43.213854_-87.924078@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587463,
-    "wof:geomhash":"3b14b76f3ec26faa91ece8bd81e8df37",
+    "wof:geomhash":"4a87c99d2e7fe3ecf8f91270d5394032",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773669415,
-    "wof:lastmodified":1467090107,
+    "wof:lastmodified":1510695323,
     "wof:name":"Novacare Pa Inc",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387551535,
   "type": "Feature",
   "properties": {
+    "addr:full":"3706 Superior Ave Sheboygan WI 53081",
+    "addr:housenumber":"3706",
+    "addr:postcode":"53081",
+    "addr:street":"Superior Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.75521,43.761118,-87.75521,43.761118",
     "geom:latitude":43.761118,
     "geom:longitude":-87.75521,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3706 Superior Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         102081869,
         85818209
     ],
+    "wof:brand_id":1125158215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZCiNBGggxhcIaG5sfXKuT_43.761118_-87.755210@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f8697d308f9ee8c76d47fb20d8737c8",
+    "wof:geomhash":"8365874f9e49b3a4f16a8842b8773bd4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387551535,
-    "wof:lastmodified":1467089923,
+    "wof:lastmodified":1510699387,
     "wof:name":"Village Green Apartments",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

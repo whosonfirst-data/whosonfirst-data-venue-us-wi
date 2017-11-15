@@ -2,9 +2,14 @@
   "id": 353814803,
   "type": "Feature",
   "properties": {
+    "addr:full":"5910 Washington Ave Racine WI 53406",
+    "addr:housenumber":"5910",
+    "addr:postcode":"53406",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.850907,42.7191,-87.850907,42.7191",
     "geom:latitude":42.7191,
     "geom:longitude":-87.850907,
@@ -32,11 +37,13 @@
     "sg:website":"www.townefordinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85854859,
+        102191575,
+        404494985,
         85633793,
-        101732321,
+        101732325,
         102081763,
-        85854859
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +53,18 @@
     "wof:geomhash":"a1a1bb6481a153eb578829820c77b628",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
-            "locality_id":101732321,
+            "localadmin_id":404494985,
+            "locality_id":101732325,
             "neighbourhood_id":85854859,
             "region_id":85688517,
             "venue_id":353814803
         }
     ],
     "wof:id":353814803,
-    "wof:lastmodified":1467089887,
+    "wof:lastmodified":1492108948,
     "wof:name":"Towne Ford Inc",
     "wof:parent_id":85854859,
     "wof:placetype":"venue",

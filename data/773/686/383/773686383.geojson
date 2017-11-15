@@ -2,9 +2,14 @@
   "id": 773686383,
   "type": "Feature",
   "properties": {
+    "addr:full":"2761 Buell Dr East Troy WI 53120",
+    "addr:housenumber":"2761",
+    "addr:postcode":"53120",
+    "addr:street":"Buell Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.399903,42.779109,-88.399903,42.779109",
     "geom:latitude":42.779109,
     "geom:longitude":-88.399903,
@@ -28,7 +33,14 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494701,
+        85633793,
+        101732243,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7msAr9kId0x9sjqc3BKqaE_42.779109_-88.399903@1294253271"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462587590,
     "wof:geomhash":"0876cdf2520f32875a613147a667a41c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404494701,
+            "locality_id":101732243,
+            "region_id":85688517,
+            "venue_id":773686383
+        }
+    ],
     "wof:id":773686383,
-    "wof:lastmodified":1467090111,
+    "wof:lastmodified":1492109459,
     "wof:name":"Wow Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807230175,
   "type": "Feature",
   "properties": {
+    "addr:full":"248 W Centralia St Elkhorn WI 53121",
+    "addr:housenumber":"248",
+    "addr:postcode":"53121",
+    "addr:street":"W Centralia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.54724,42.66625,-88.54724,42.66625",
     "geom:latitude":42.66625,
     "geom:longitude":-88.54724,
@@ -30,7 +35,10 @@
     ],
     "sg:website":"www.akrubber.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kBfBivItSOPlweB8DvBs5_42.666250_-88.547240@1294253271"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1462605120,
     "wof:geomhash":"758f5fdd0a01e504b98b01f07f6bd182",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550177,
+            "venue_id":807230175
+        }
+    ],
     "wof:id":807230175,
-    "wof:lastmodified":1467090577,
+    "wof:lastmodified":1492098836,
     "wof:name":"A K Rubber Products Co",
     "wof:parent_id":420550177,
     "wof:placetype":"venue",

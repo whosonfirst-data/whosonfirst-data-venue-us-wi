@@ -2,14 +2,20 @@
   "id": 773502953,
   "type": "Feature",
   "properties": {
+    "addr:full":"2139 E Springs Dr Madison WI 53704",
+    "addr:housenumber":"2139",
+    "addr:postcode":"53704",
+    "addr:street":"E Springs Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.296335,43.12592,-89.296335,43.12592",
     "geom:latitude":43.12592,
     "geom:longitude":-89.296335,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2139 E Springs Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85878835,
         102081795
     ],
+    "wof:brand_id":1125154237,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OIvfikd8f0mWMHvvYCalN_43.125920_-89.296335@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586224,
-    "wof:geomhash":"0d8e7376ff65166d321e7fc2b0f904d3",
+    "wof:geomhash":"35f129eaf8eb3b5df8603c43df1be4f1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":773502953,
-    "wof:lastmodified":1467090069,
+    "wof:lastmodified":1510694888,
     "wof:name":"Microtel Inns & Suites",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

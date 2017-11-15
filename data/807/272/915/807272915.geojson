@@ -2,9 +2,14 @@
   "id": 807272915,
   "type": "Feature",
   "properties": {
+    "addr:full":"1321 Cherry Genoa City WI 53157",
+    "addr:housenumber":"1321",
+    "addr:postcode":"53157",
+    "addr:street":"Cherry",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.362136,42.538486,-88.362136,42.538486",
     "geom:latitude":42.538486,
     "geom:longitude":-88.362136,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85865441,
+        102191575,
+        404494891,
         85633793,
         101733599,
         102081763,
-        85865441
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"01d28e06c1452dcccd75816ad4bee8d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
+            "localadmin_id":404494891,
             "locality_id":101733599,
             "neighbourhood_id":85865441,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":807272915,
-    "wof:lastmodified":1467090590,
+    "wof:lastmodified":1492092836,
     "wof:name":"Pell Lake Sanitary",
     "wof:parent_id":85865441,
     "wof:placetype":"venue",

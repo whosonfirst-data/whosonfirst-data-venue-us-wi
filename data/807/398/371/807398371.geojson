@@ -2,14 +2,20 @@
   "id": 807398371,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 57th St Kenosha WI 53140",
+    "addr:housenumber":"625",
+    "addr:postcode":"53140",
+    "addr:street":"57Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.818675,42.584142,-87.818675,42.584142",
     "geom:latitude":42.584142,
     "geom:longitude":-87.818675,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"625 57th St",
     "sg:city":"Kenosha",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102081309,
         85688517
     ],
+    "wof:brand_id":1125150269,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Wb7nGgTdIfa8mexFykrlm_42.584142_-87.818675@1303262806"
     },
     "wof:country":"US",
     "wof:created":1462607245,
-    "wof:geomhash":"af3088570b8ee58f2c3d1f69b4394d4f",
+    "wof:geomhash":"fdb790dbd8a71ff5ad8a3327d5a76f86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":807398371,
-    "wof:lastmodified":1467090637,
+    "wof:lastmodified":1510613306,
     "wof:name":"U.S. Bank",
     "wof:parent_id":85810813,
     "wof:placetype":"venue",

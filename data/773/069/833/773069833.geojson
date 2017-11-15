@@ -2,14 +2,20 @@
   "id": 773069833,
   "type": "Feature",
   "properties": {
+    "addr:full":"702 N Midvale Blvd Madison WI 53705",
+    "addr:housenumber":"702",
+    "addr:postcode":"53705",
+    "addr:street":"N Midvale Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.451208,43.074606,-89.451208,43.074606",
     "geom:latitude":43.074606,
     "geom:longitude":-89.451208,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"702 N Midvale Blvd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125156207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eHUB6LxbtVWyYiFWsZ3W5_43.074606_-89.451208@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462582934,
-    "wof:geomhash":"e4e8098da9e0a0541fb8ca5446b84101",
+    "wof:geomhash":"4908c9f9011c1ab55e0986a21671dc02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773069833,
-    "wof:lastmodified":1467089954,
+    "wof:lastmodified":1510698947,
     "wof:name":"Christopher & Banks Inc",
     "wof:parent_id":85868277,
     "wof:placetype":"venue",

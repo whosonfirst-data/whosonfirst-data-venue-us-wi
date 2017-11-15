@@ -2,9 +2,14 @@
   "id": 806446849,
   "type": "Feature",
   "properties": {
+    "addr:full":"10826 W Godsell Rd Hales Corners WI 53130",
+    "addr:housenumber":"10826",
+    "addr:postcode":"53130",
+    "addr:street":"W Godsell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.049397,42.939298,-88.049397,42.939298",
     "geom:latitude":42.939298,
     "geom:longitude":-88.049397,
@@ -29,7 +34,14 @@
         "deck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494175,
+        85633793,
+        101733077,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L1su67KWnYrguzJHq8WBS_42.939298_-88.049397@1294253271"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462598223,
     "wof:geomhash":"dd2057e5da9f2dca0509d53403ad2f59",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494175,
+            "locality_id":101733077,
+            "region_id":85688517,
+            "venue_id":806446849
+        }
+    ],
     "wof:id":806446849,
-    "wof:lastmodified":1467090382,
+    "wof:lastmodified":1492108908,
     "wof:name":"Decks By Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 823185683,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Frank H St Waunakee WI 53597",
+    "addr:housenumber":"1001",
+    "addr:postcode":"53597",
+    "addr:street":"Frank H St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.433994,43.190023,-89.433994,43.190023",
     "geom:latitude":43.190023,
     "geom:longitude":-89.433994,
@@ -50,12 +55,7 @@
     ],
     "sg:website":"http://www.waunakeeremodeling.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pKkOcOH5R0siILYijglZF_43.190023_-89.433994@1303262812"
@@ -63,17 +63,9 @@
     "wof:country":"US",
     "wof:created":1462608140,
     "wof:geomhash":"8cb3d79d2c9703d3c2b0236bb2eaf2a4",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":823185683
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823185683,
-    "wof:lastmodified":1467090663,
+    "wof:lastmodified":1491935707,
     "wof:name":"Waunakee Remodeling Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

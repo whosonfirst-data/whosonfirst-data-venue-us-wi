@@ -2,14 +2,20 @@
   "id": 773460421,
   "type": "Feature",
   "properties": {
+    "addr:full":"1215 Thorndale St Green Bay WI 54304",
+    "addr:housenumber":"1215",
+    "addr:postcode":"54304",
+    "addr:street":"Thorndale St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.057447,44.503013,-88.057447,44.503013",
     "geom:latitude":44.503013,
     "geom:longitude":-88.057447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1215 Thorndale St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":420575827,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XhZSee9EgQRlQ54DUkFyN_44.503013_-88.057447@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585919,
-    "wof:geomhash":"af30f8fc2290c1182e7c95b8b12852b0",
+    "wof:geomhash":"975acae2849cfa01187b76278c25eba6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773460421,
-    "wof:lastmodified":1467090059,
+    "wof:lastmodified":1510602923,
     "wof:name":"Interntnal Assn of Lions Clubs",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",

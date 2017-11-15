@@ -2,14 +2,20 @@
   "id": 807074567,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 N Sunnyslope Rd Brookfield WI 53005",
+    "addr:housenumber":"150",
+    "addr:postcode":"53005",
+    "addr:street":"N Sunnyslope Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.086781,43.035053,-88.086781,43.035053",
     "geom:latitude":43.035053,
     "geom:longitude":-88.086781,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 N Sunnyslope Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125151619,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IjwHbbVGarijlEDO7E4IA_43.035053_-88.086781@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603492,
-    "wof:geomhash":"c175c25d12d9e0bc358c17b389a501e4",
+    "wof:geomhash":"b6c9c15935967a88bcbbe61a24f430f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807074567,
-    "wof:lastmodified":1467090529,
+    "wof:lastmodified":1510696956,
     "wof:name":"World Financial Group",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",

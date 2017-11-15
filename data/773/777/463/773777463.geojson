@@ -2,9 +2,14 @@
   "id": 773777463,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 Stearns Rd Fontana WI 53125",
+    "addr:housenumber":"350",
+    "addr:postcode":"53125",
+    "addr:street":"Stearns Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.57074,42.560515,-88.57074,42.560515",
     "geom:latitude":42.560515,
     "geom:longitude":-88.57074,
@@ -27,7 +32,10 @@
         "investor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13dGuxsepJdVRB3E1GdGRm_42.560515_-88.570740@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462588300,
     "wof:geomhash":"f0a50f44416de8ffdf75e9fb8f1ed821",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550197,
+            "venue_id":773777463
+        }
+    ],
     "wof:id":773777463,
-    "wof:lastmodified":1467090132,
+    "wof:lastmodified":1492098712,
     "wof:name":"Lakeland Property Investors",
     "wof:parent_id":420550197,
     "wof:placetype":"venue",

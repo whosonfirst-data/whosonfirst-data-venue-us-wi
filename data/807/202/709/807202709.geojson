@@ -2,9 +2,14 @@
   "id": 807202709,
   "type": "Feature",
   "properties": {
+    "addr:full":"5301 S 108th St Hales Corners WI 53130",
+    "addr:housenumber":"5301",
+    "addr:postcode":"53130",
+    "addr:street":"S 108Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.048336,42.948545,-88.048336,42.948545",
     "geom:latitude":42.948545,
     "geom:longitude":-88.048336,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494175,
+        85633793,
+        101733077,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XeWlRyciFPPdftkdyA4Eb_42.948545_-88.048336@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462604824,
     "wof:geomhash":"65d83eb411287bcb080d8bab3f0dbe29",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494175,
+            "locality_id":101733077,
+            "region_id":85688517,
+            "venue_id":807202709
+        }
+    ],
     "wof:id":807202709,
-    "wof:lastmodified":1467090568,
+    "wof:lastmodified":1492103514,
     "wof:name":"Great Clips",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

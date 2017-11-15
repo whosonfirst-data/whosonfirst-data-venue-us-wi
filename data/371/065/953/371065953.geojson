@@ -2,9 +2,14 @@
   "id": 371065953,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 Douglas Ave Racine WI 53402",
+    "addr:housenumber":"1234",
+    "addr:postcode":"53402",
+    "addr:street":"Douglas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.789357,42.736336,-87.789357,42.736336",
     "geom:latitude":42.736336,
     "geom:longitude":-87.789357,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85827169,
+        102191575,
+        404494985,
         85633793,
-        101732315,
+        101732325,
         102081763,
-        85827169
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"9834b0df41f00d4e04092bb9751c6620",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
-            "locality_id":101732315,
+            "localadmin_id":404494985,
+            "locality_id":101732325,
             "neighbourhood_id":85827169,
             "region_id":85688517,
             "venue_id":371065953
         }
     ],
     "wof:id":371065953,
-    "wof:lastmodified":1467089914,
+    "wof:lastmodified":1492103458,
     "wof:name":"American Legion Post 546",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",

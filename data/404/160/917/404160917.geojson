@@ -2,9 +2,14 @@
   "id": 404160917,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 E South St Lake Geneva WI 53147",
+    "addr:housenumber":"113 e",
+    "addr:postcode":"53147",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.418522,42.574699,-88.418522,42.574699",
     "geom:latitude":42.574699,
     "geom:longitude":-88.418522,
@@ -27,32 +32,16 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3h2ueLD10uaotV53Ajfhcw_42.574699_-88.418522@1294253271"
     },
     "wof:country":"US",
     "wof:geomhash":"7fd5bd486f5480779ebc0b6580d4f239",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":404160917
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":404160917,
-    "wof:lastmodified":1467089911,
+    "wof:lastmodified":1492097566,
     "wof:name":"Kidder Drywall",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

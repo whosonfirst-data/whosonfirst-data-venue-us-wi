@@ -2,14 +2,20 @@
   "id": 773702583,
   "type": "Feature",
   "properties": {
+    "addr:full":"1402 Union Ave Sheboygan WI 53081",
+    "addr:housenumber":"1402",
+    "addr:postcode":"53081",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.72344,43.732131,-87.72344,43.732131",
     "geom:latitude":43.732131,
     "geom:longitude":-87.72344,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1402 Union Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":420575371,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ltu1qyIQoG2Vwy58ELeus_43.732131_-87.723440@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587744,
-    "wof:geomhash":"2506d3aa13b83731022e7b31b7519ded",
+    "wof:geomhash":"bf612cdba9c7d4b07e53eed6ed4c34cc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773702583,
-    "wof:lastmodified":1467090114,
+    "wof:lastmodified":1510602097,
     "wof:name":"Hair Affair",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

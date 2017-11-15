@@ -2,14 +2,20 @@
   "id": 773135491,
   "type": "Feature",
   "properties": {
+    "addr:full":"1777 Elk Ln Kaukauna WI 54130",
+    "addr:housenumber":"1777",
+    "addr:postcode":"54130",
+    "addr:street":"Elk Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.275496,44.396126,-88.275496,44.396126",
     "geom:latitude":44.396126,
     "geom:longitude":-88.275496,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1777 Elk Ln",
     "sg:city":"Kaukauna",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85803271,
         102081851
     ],
+    "wof:brand_id":1125152297,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EEZ6CMoX5b2p1ndvoJgYh_44.396126_-88.275496@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583405,
-    "wof:geomhash":"6a3b26d7789e8cba649c570ad0c1adac",
+    "wof:geomhash":"df61898d3d03a6cb3f196fef04538626",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":773135491,
-    "wof:lastmodified":1467089970,
+    "wof:lastmodified":1510695695,
     "wof:name":"Pace International Union",
     "wof:parent_id":85803271,
     "wof:placetype":"venue",

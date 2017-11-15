@@ -2,9 +2,14 @@
   "id": 773137991,
   "type": "Feature",
   "properties": {
+    "addr:full":"810 Spahn Dr Waunakee WI 53597",
+    "addr:housenumber":"810",
+    "addr:postcode":"53597",
+    "addr:street":"Spahn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.462697,43.180852,-89.462697,43.180852",
     "geom:latitude":43.180852,
     "geom:longitude":-89.462697,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5s8QtOFid2M49P0ttXs1im_43.180852_-89.462697@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462583422,
     "wof:geomhash":"34693ec954343cc20dd3ae435995018b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773137991
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773137991,
-    "wof:lastmodified":1467089970,
+    "wof:lastmodified":1491935717,
     "wof:name":"Aspen Garage Door",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

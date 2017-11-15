@@ -2,9 +2,14 @@
   "id": 773821423,
   "type": "Feature",
   "properties": {
+    "addr:full":"1105 Centennial Pkwy Waunakee WI 53597",
+    "addr:housenumber":"1105",
+    "addr:postcode":"53597",
+    "addr:street":"Centennial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.468506,43.181681,-89.468506,43.181681",
     "geom:latitude":43.181681,
     "geom:longitude":-89.468506,
@@ -29,12 +34,7 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_706EgQ0KzJZYLMczv1tWBL_43.181681_-89.468506@1294253271"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462588643,
     "wof:geomhash":"54d670eecbd852c71e451d3a39e350fe",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773821423
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773821423,
-    "wof:lastmodified":1467090141,
+    "wof:lastmodified":1491935727,
     "wof:name":"Peaceful Valley Trucking Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

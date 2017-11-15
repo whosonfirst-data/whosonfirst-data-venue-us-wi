@@ -2,14 +2,20 @@
   "id": 806560669,
   "type": "Feature",
   "properties": {
+    "addr:full":"2821 E 2nd St Superior WI 54880",
+    "addr:housenumber":"2821",
+    "addr:postcode":"54880",
+    "addr:street":"E 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.038253,46.699637,-92.038253,46.699637",
     "geom:latitude":46.699637,
     "geom:longitude":-92.038253,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2821 E 2nd St",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102081291,
         85688517
     ],
+    "wof:brand_id":1125156211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uykke0yWCOTy71UIaJSgZ_46.699637_-92.038253@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462599134,
-    "wof:geomhash":"bdf67895e3be25eef7276f6a283700ee",
+    "wof:geomhash":"c3baa5b12319b33b76cb586199dcd2e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":806560669,
-    "wof:lastmodified":1467090409,
+    "wof:lastmodified":1510699590,
     "wof:name":"Citgo Quik Food Mart",
     "wof:parent_id":85802865,
     "wof:placetype":"venue",

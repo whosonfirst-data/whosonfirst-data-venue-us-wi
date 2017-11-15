@@ -2,9 +2,14 @@
   "id": 807129575,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 E Main St Waunakee WI 53597",
+    "addr:housenumber":"101",
+    "addr:postcode":"53597",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.45329,43.191908,-89.45329,43.191908",
     "geom:latitude":43.191908,
     "geom:longitude":-89.45329,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zrr9wIIJnZkktAFJHR6IU_43.191908_-89.453290@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462604043,
     "wof:geomhash":"15c4f3473870f25a6fdf9b118c2606e2",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807129575
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807129575,
-    "wof:lastmodified":1467090545,
+    "wof:lastmodified":1491935722,
     "wof:name":"Whistle Stop Bar & Grill",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806693331,
   "type": "Feature",
   "properties": {
+    "addr:full":"615 N Military Ave Green Bay WI 54303",
+    "addr:housenumber":"615",
+    "addr:postcode":"54303",
+    "addr:street":"N Military Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.053115,44.539876,-88.053115,44.539876",
     "geom:latitude":44.539876,
     "geom:longitude":-88.053115,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"615 N Military Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125156755,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HLJbd8J8cVT35rQINGzKO_44.539876_-88.053115@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600283,
-    "wof:geomhash":"0d3b2cae556e07a2dc125f18ea5cacfb",
+    "wof:geomhash":"b0e4b6c9becf110074ceaebbc54c4756",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806693331,
-    "wof:lastmodified":1467090440,
+    "wof:lastmodified":1510694896,
     "wof:name":"Flowerama",
     "wof:parent_id":85877951,
     "wof:placetype":"venue",

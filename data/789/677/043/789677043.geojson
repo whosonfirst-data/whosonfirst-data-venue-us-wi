@@ -2,14 +2,20 @@
   "id": 789677043,
   "type": "Feature",
   "properties": {
+    "addr:full":"7401 Mineral Point Rd Madison WI 53705",
+    "addr:housenumber":"7401",
+    "addr:postcode":"53705",
+    "addr:street":"Mineral Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.512371,43.060502,-89.512371,43.060502",
     "geom:latitude":43.060502,
     "geom:longitude":-89.512371,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7401 Mineral Point Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125154489,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bkPQTp26OaHLP5NKNhuhG_43.060502_-89.512371@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462589679,
-    "wof:geomhash":"dfcd5c732466808a281b25f5730129e9",
+    "wof:geomhash":"777b5e647eb3f1aca106753cc6df621d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":789677043,
-    "wof:lastmodified":1467090169,
+    "wof:lastmodified":1510695960,
     "wof:name":"Shopko",
     "wof:parent_id":85834009,
     "wof:placetype":"venue",

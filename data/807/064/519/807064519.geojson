@@ -2,9 +2,14 @@
   "id": 807064519,
   "type": "Feature",
   "properties": {
+    "addr:full":"1436 E Forest Hill Ave Oak Creek WI 53154",
+    "addr:housenumber":"1436",
+    "addr:postcode":"53154",
+    "addr:street":"E Forest Hill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.89604,42.89377,-87.89604,42.89377",
     "geom:latitude":42.89377,
     "geom:longitude":-87.89604,
@@ -28,14 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420550071,
+        420550135,
         102191575,
         404494177,
         85633793,
         101733079,
         102081837,
-        85688517,
-        420550135
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +55,15 @@
             "county_id":102081837,
             "localadmin_id":404494177,
             "locality_id":101733079,
-            "neighbourhood_id":420550071,
-            "region_id":85688517,
-            "venue_id":807064519
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081837,
-            "localadmin_id":404494177,
-            "locality_id":101733079,
             "neighbourhood_id":420550135,
             "region_id":85688517,
             "venue_id":807064519
         }
     ],
     "wof:id":807064519,
-    "wof:lastmodified":1467090526,
+    "wof:lastmodified":1492103665,
     "wof:name":"James Barbian",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 806771009,
   "type": "Feature",
   "properties": {
+    "addr:full":"1018 Ann St Madison WI 53713",
+    "addr:housenumber":"1018",
+    "addr:postcode":"53713",
+    "addr:street":"Ann St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.401918,43.035091,-89.401918,43.035091",
     "geom:latitude":43.035091,
     "geom:longitude":-89.401918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1018 Ann St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85878867,
         102081795
     ],
+    "wof:brand_id":420574359,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TkIrqJ7r4UDncD5sCAehR_43.035091_-89.401918@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600937,
-    "wof:geomhash":"b9846d4a01fd76743ce36b2d098fa1cd",
+    "wof:geomhash":"7a0224b047b2b2d0bb9f5574cd296902",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":806771009,
-    "wof:lastmodified":1467090457,
+    "wof:lastmodified":1510604166,
     "wof:name":"United Rentals",
     "wof:parent_id":85878867,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773275377,
   "type": "Feature",
   "properties": {
+    "addr:full":"17920 Ucker Point Creek Rd Kiel WI 53042",
+    "addr:housenumber":"17920",
+    "addr:postcode":"53042",
+    "addr:street":"Ucker Point Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.002568,43.964281,-88.002568,43.964281",
     "geom:latitude":43.964281,
     "geom:longitude":-88.002568,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17920 Ucker Point Creek Rd",
     "sg:city":"Kiel",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":1125151709,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0a4Dl5CTHEeATlGVYVdQoJ_43.964281_-88.002568@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584482,
-    "wof:geomhash":"10035f56beaaf073b0ed9bbae312e624",
+    "wof:geomhash":"1be7ee9cdf959310a5399609f0fda5c4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773275377,
-    "wof:lastmodified":1467090011,
+    "wof:lastmodified":1510693985,
     "wof:name":"American Federation of St",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

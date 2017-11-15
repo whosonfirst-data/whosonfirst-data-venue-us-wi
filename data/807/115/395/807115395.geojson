@@ -2,14 +2,20 @@
   "id": 807115395,
   "type": "Feature",
   "properties": {
+    "addr:full":"317 Bay Park Sq Green Bay WI 54304",
+    "addr:housenumber":"317",
+    "addr:postcode":"54304",
+    "addr:street":"Bay Park Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.067614,44.484517,-88.067614,44.484517",
     "geom:latitude":44.484517,
     "geom:longitude":-88.067614,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"317 Bay Park Sq",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125154771,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mWnt4na2jgJJCtOZtvpvj_44.484517_-88.067614@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603893,
-    "wof:geomhash":"137405a5a8d4a837fa41bb30cb5d40bc",
+    "wof:geomhash":"3c902aece04d46f08567b8403fb2cd3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807115395,
-    "wof:lastmodified":1467090541,
+    "wof:lastmodified":1510699042,
     "wof:name":"Mastercuts",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",

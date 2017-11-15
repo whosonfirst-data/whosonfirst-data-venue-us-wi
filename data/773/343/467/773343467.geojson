@@ -2,9 +2,14 @@
   "id": 773343467,
   "type": "Feature",
   "properties": {
+    "addr:full":"738 W Main St Lake Geneva WI 53147",
+    "addr:housenumber":"738",
+    "addr:postcode":"53147",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.434762,42.591651,-88.434762,42.591651",
     "geom:latitude":42.591651,
     "geom:longitude":-88.434762,
@@ -31,13 +36,7 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CPA5ectaTjOHGnfp910hi_42.591651_-88.434762@1294253271"
@@ -45,18 +44,9 @@
     "wof:country":"US",
     "wof:created":1462585003,
     "wof:geomhash":"21730135872ee99420921a99f4f08dfe",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":773343467
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773343467,
-    "wof:lastmodified":1467090031,
+    "wof:lastmodified":1492097569,
     "wof:name":"Global Gourmet & Village Baker",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

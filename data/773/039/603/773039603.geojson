@@ -2,14 +2,20 @@
   "id": 773039603,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Wisconsin St Lake Geneva WI 53147",
+    "addr:housenumber":"900",
+    "addr:postcode":"53147",
+    "addr:street":"Wisconsin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.438584,42.594253,-88.438584,42.594253",
     "geom:latitude":42.594253,
     "geom:longitude":-88.438584,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"900 Wisconsin St",
     "sg:city":"Lake Geneva",
     "sg:classifiers":[
@@ -27,32 +33,18 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
+    "wof:brand_id":1125150349,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53xHuHVwM7CdYZ2KOeu2G9_42.594253_-88.438584@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462582660,
-    "wof:geomhash":"4ab4f84d50717361fa600d621ae7a652",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":773039603
-        }
-    ],
+    "wof:geomhash":"097f42ed8c7e7bc9e5e36060367e67c4",
+    "wof:hierarchy":[],
     "wof:id":773039603,
-    "wof:lastmodified":1467089945,
+    "wof:lastmodified":1510697240,
     "wof:name":"Central Elementary School",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

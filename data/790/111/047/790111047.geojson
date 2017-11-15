@@ -2,14 +2,20 @@
   "id": 790111047,
   "type": "Feature",
   "properties": {
+    "addr:full":"2112 Rudolph Rd Eau Claire WI 54701",
+    "addr:housenumber":"2112",
+    "addr:postcode":"54701",
+    "addr:street":"Rudolph Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.478529,44.796516,-91.478529,44.796516",
     "geom:latitude":44.796516,
     "geom:longitude":-91.478529,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2112 Rudolph Rd",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125155121,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33CYt3IHR57e5wkV13v0hw_44.796516_-91.478529@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593227,
-    "wof:geomhash":"d9ea85a5d3e6f83dcab343011a0104ad",
+    "wof:geomhash":"84fdb50240cc43000ae4e85d3f63c11d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790111047,
-    "wof:lastmodified":1467090253,
+    "wof:lastmodified":1510694062,
     "wof:name":"First Presbyterian Church Inc",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

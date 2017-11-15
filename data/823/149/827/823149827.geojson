@@ -2,14 +2,20 @@
   "id": 823149827,
   "type": "Feature",
   "properties": {
+    "addr:full":"1814 E Wood Pl Milwaukee WI 53211",
+    "addr:housenumber":"1814",
+    "addr:postcode":"53211",
+    "addr:street":"E Wood Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.887281,43.09261,-87.887281,43.09261",
     "geom:latitude":43.09261,
     "geom:longitude":-87.887281,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1814 E Wood Pl",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125154987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WYE1TFkHsHxcI4ejs6MDz_43.092610_-87.887281@1303262808"
     },
     "wof:country":"US",
     "wof:created":1462607666,
-    "wof:geomhash":"ab681db0f08b7c66593b39ba72dbf2e3",
+    "wof:geomhash":"4d4ec9fbadf640e31dd74ef758809f13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823149827,
-    "wof:lastmodified":1467090648,
+    "wof:lastmodified":1510695872,
     "wof:name":"Dominican Sisters",
     "wof:parent_id":85870879,
     "wof:placetype":"venue",

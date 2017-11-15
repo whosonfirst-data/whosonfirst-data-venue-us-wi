@@ -2,14 +2,20 @@
   "id": 789854959,
   "type": "Feature",
   "properties": {
+    "addr:full":"126 N Central Ave Marshfield WI 54449",
+    "addr:housenumber":"126",
+    "addr:postcode":"54449",
+    "addr:street":"N Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.154201,44.69126,-90.154201,44.69126",
     "geom:latitude":44.69126,
     "geom:longitude":-90.154201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"126 N Central Ave",
     "sg:city":"Marshfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85832133,
         102081881
     ],
+    "wof:brand_id":1125152079,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bu7uIXYrofia8a2cPnI3n_44.691260_-90.154201@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591066,
-    "wof:geomhash":"d140c6b9c387a07943904d39234c97ad",
+    "wof:geomhash":"f65a872d99eafd5a38ba9a9e5ba318d9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":789854959,
-    "wof:lastmodified":1467090203,
+    "wof:lastmodified":1510697802,
     "wof:name":"Big Apple Bagels",
     "wof:parent_id":85832133,
     "wof:placetype":"venue",

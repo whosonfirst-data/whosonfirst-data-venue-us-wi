@@ -2,9 +2,14 @@
   "id": 807391255,
   "type": "Feature",
   "properties": {
+    "addr:full":"8405 328th Ave Burlington WI 53105",
+    "addr:housenumber":"8405",
+    "addr:postcode":"53105",
+    "addr:street":"328Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.207397,42.554429,-88.207397,42.554429",
     "geom:latitude":42.554429,
     "geom:longitude":-88.207397,
@@ -33,7 +38,10 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IpRcEswo29Z7cMy93Kxhh_42.554429_-88.207397@1303262806"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1462607087,
     "wof:geomhash":"34c5cd0e4389fbfa3a25dc699ec3afef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":807391255
+        }
+    ],
     "wof:id":807391255,
-    "wof:lastmodified":1467090634,
+    "wof:lastmodified":1492097637,
     "wof:name":"Defilippo Real Estate",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

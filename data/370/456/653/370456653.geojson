@@ -2,9 +2,14 @@
   "id": 370456653,
   "type": "Feature",
   "properties": {
+    "addr:full":"5909 S 27th St Milwaukee WI 53221",
+    "addr:housenumber":"5909",
+    "addr:postcode":"53221",
+    "addr:street":"S 27Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.949366,42.935135,-87.949366,42.935135",
     "geom:latitude":42.935135,
     "geom:longitude":-87.949366,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870897,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870897
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"e20ef0700ca6b65d9ee74b6dda81b74d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870897,
             "region_id":85688517,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":370456653,
-    "wof:lastmodified":1467089900,
+    "wof:lastmodified":1492108875,
     "wof:name":"KJK",
     "wof:parent_id":85870897,
     "wof:placetype":"venue",

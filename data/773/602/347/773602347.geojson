@@ -2,14 +2,20 @@
   "id": 773602347,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 S Pinckney St Madison WI 53703",
+    "addr:housenumber":"3",
+    "addr:postcode":"53703",
+    "addr:street":"S Pinckney St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.382062,43.074693,-89.382062,43.074693",
     "geom:latitude":43.074693,
     "geom:longitude":-89.382062,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3 S Pinckney St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125151849,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79aAm67Iqb7m818X4zzrTA_43.074693_-89.382062@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586957,
-    "wof:geomhash":"6c9dd552cfb16f4d412c6e96f910cdcd",
+    "wof:geomhash":"d51ff0d746195ed5afec145f67066a7c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773602347,
-    "wof:lastmodified":1467090091,
+    "wof:lastmodified":1510697644,
     "wof:name":"NAACP",
     "wof:parent_id":85878845,
     "wof:placetype":"venue",

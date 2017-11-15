@@ -2,9 +2,14 @@
   "id": 404199321,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 376th Ave Burlington WI 53105",
+    "addr:housenumber":"3401",
+    "addr:postcode":"53105",
+    "addr:street":"376Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.266486,42.608115,-88.266486,42.608115",
     "geom:latitude":42.608115,
     "geom:longitude":-88.266486,
@@ -29,8 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688517,
+        102191575,
+        404493325,
         85633793,
-        85688517
+        102081309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +48,16 @@
     "wof:geomhash":"3b9b6ee77db645560e7fa0de842c37e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081309,
+            "localadmin_id":404493325,
             "region_id":85688517,
             "venue_id":404199321
         }
     ],
     "wof:id":404199321,
-    "wof:lastmodified":1467089909,
+    "wof:lastmodified":1492097565,
     "wof:name":"Robers View Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

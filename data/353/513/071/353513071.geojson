@@ -2,9 +2,14 @@
   "id": 353513071,
   "type": "Feature",
   "properties": {
+    "addr:full":"12545 W Burleigh Blvd Brookfield WI 53005",
+    "addr:housenumber":"12545",
+    "addr:postcode":"53005",
+    "addr:street":"W Burleigh Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.068395,43.074455,-88.068395,43.074455",
     "geom:latitude":43.074455,
     "geom:longitude":-88.068395,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870871,
+        102191575,
+        404492091,
         85633793,
-        101733089,
+        101732987,
         102081837,
-        85870871
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"cf5a1773b04ab157aa165e07e9652ec6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":101733089,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870871,
             "region_id":85688517,
             "venue_id":353513071
         }
     ],
     "wof:id":353513071,
-    "wof:lastmodified":1467089890,
+    "wof:lastmodified":1491898524,
     "wof:name":"Clean Air Technologies Inc",
     "wof:parent_id":85870871,
     "wof:placetype":"venue",

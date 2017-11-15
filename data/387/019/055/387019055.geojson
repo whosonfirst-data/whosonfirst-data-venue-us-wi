@@ -2,9 +2,14 @@
   "id": 387019055,
   "type": "Feature",
   "properties": {
+    "addr:full":"2625 S Greeley St Milwaukee WI 53207",
+    "addr:housenumber":"2625",
+    "addr:postcode":"53207",
+    "addr:street":"S Greeley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.909263,42.996729,-87.909263,42.996729",
     "geom:latitude":42.996729,
     "geom:longitude":-87.909263,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85867297,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85867297
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"67cd75a29a6ded0bac60da2e1b946a58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85867297,
             "region_id":85688517,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":387019055,
-    "wof:lastmodified":1467089928,
+    "wof:lastmodified":1492111898,
     "wof:name":"Hide House The",
     "wof:parent_id":85867297,
     "wof:placetype":"venue",

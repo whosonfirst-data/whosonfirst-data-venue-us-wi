@@ -2,9 +2,14 @@
   "id": 337399243,
   "type": "Feature",
   "properties": {
+    "addr:full":"4257 S Rutland Ave Milwaukee WI 53235",
+    "addr:housenumber":"4257",
+    "addr:postcode":"53235",
+    "addr:street":"S Rutland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.883591,42.967107,-87.883591,42.967107",
     "geom:latitude":42.967107,
     "geom:longitude":-87.883591,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85894493,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85894493
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"11927a57b14582d263f73b98be9efad0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85894493,
             "region_id":85688517,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":337399243,
-    "wof:lastmodified":1467089893,
+    "wof:lastmodified":1491913378,
     "wof:name":"Sisters Of St Francis-Assisi",
     "wof:parent_id":85894493,
     "wof:placetype":"venue",

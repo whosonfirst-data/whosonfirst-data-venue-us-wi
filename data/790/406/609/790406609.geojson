@@ -2,9 +2,14 @@
   "id": 790406609,
   "type": "Feature",
   "properties": {
+    "addr:full":"217 Raemisch Rd Waunakee WI 53597",
+    "addr:housenumber":"217",
+    "addr:postcode":"53597",
+    "addr:street":"Raemisch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.436866,43.187583,-89.436866,43.187583",
     "geom:latitude":43.187583,
     "geom:longitude":-89.436866,
@@ -29,12 +34,7 @@
     ],
     "sg:website":"www.efdrilling.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4e0DiHfwVX2dhoQkTeW3Ml_43.187583_-89.436866@1294253271"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462595584,
     "wof:geomhash":"de14e2ac53e08d2e91fd1036f182e7fa",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790406609
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790406609,
-    "wof:lastmodified":1467090312,
+    "wof:lastmodified":1491935710,
     "wof:name":"Environmental & Foundation Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

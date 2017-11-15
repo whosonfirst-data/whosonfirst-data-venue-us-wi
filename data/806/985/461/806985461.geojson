@@ -2,9 +2,14 @@
   "id": 806985461,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 Sunset Ln Waunakee WI 53597",
+    "addr:housenumber":"212",
+    "addr:postcode":"53597",
+    "addr:street":"Sunset Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.462551,43.193838,-89.462551,43.193838",
     "geom:latitude":43.193838,
     "geom:longitude":-89.462551,
@@ -29,12 +34,7 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jxPky7ZeSafB1fZjW4Tn0_43.193838_-89.462551@1294253271"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462602740,
     "wof:geomhash":"4f4bdba1a49599e1228640a6b8679642",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806985461
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806985461,
-    "wof:lastmodified":1467090505,
+    "wof:lastmodified":1491935701,
     "wof:name":"Betthauser Trucking LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

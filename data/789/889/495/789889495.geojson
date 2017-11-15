@@ -2,14 +2,20 @@
   "id": 789889495,
   "type": "Feature",
   "properties": {
+    "addr:full":"650 Forest Ave Sheboygan Falls WI 53085",
+    "addr:housenumber":"650",
+    "addr:postcode":"53085",
+    "addr:street":"Forest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.80521,43.740871,-87.80521,43.740871",
     "geom:latitude":43.740871,
     "geom:longitude":-87.80521,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"650 Forest Ave",
     "sg:city":"Sheboygan Falls",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":420574971,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zY6fPTyRdOX6FcYFugsAK_43.740871_-87.805210@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591367,
-    "wof:geomhash":"dd35289a994ac6e9c7f4ff11e70347d9",
+    "wof:geomhash":"a64c28c16b2fea0ce6103323d6c44dad",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789889495,
-    "wof:lastmodified":1467090210,
+    "wof:lastmodified":1510603892,
     "wof:name":"Farm Service Agency",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

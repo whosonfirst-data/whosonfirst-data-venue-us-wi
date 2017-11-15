@@ -2,9 +2,14 @@
   "id": 773235491,
   "type": "Feature",
   "properties": {
+    "addr:full":"1221 John Q Hammons Dr Madison WI 53717",
+    "addr:housenumber":"1221",
+    "addr:postcode":"53717",
+    "addr:street":"John Q Hammons Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.524058,43.083161,-89.524058,43.083161",
     "geom:latitude":43.083161,
     "geom:longitude":-89.524058,
@@ -29,11 +34,13 @@
     "sg:website":"www.suby.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"6cec1ce05947ca2c538efceeb70731ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":773235491,
-    "wof:lastmodified":1467089997,
+    "wof:lastmodified":1491894068,
     "wof:name":"Suby Von Haden & Assoc",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

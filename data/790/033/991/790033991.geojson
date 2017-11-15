@@ -2,9 +2,14 @@
   "id": 790033991,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Cross St Waunakee WI 53597",
+    "addr:housenumber":"200",
+    "addr:postcode":"53597",
+    "addr:street":"Cross St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.454233,43.192882,-89.454233,43.192882",
     "geom:latitude":43.192882,
     "geom:longitude":-89.454233,
@@ -28,12 +33,7 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_312gUouXBhOOvMJQAMd2fR_43.192882_-89.454233@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462592600,
     "wof:geomhash":"add9657789406a5f520be140833270da",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790033991
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790033991,
-    "wof:lastmodified":1467090238,
+    "wof:lastmodified":1491935709,
     "wof:name":"Creekwood Assisted Living LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

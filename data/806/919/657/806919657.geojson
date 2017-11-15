@@ -2,14 +2,20 @@
   "id": 806919657,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 Bay Park Sq Green Bay WI 54304",
+    "addr:housenumber":"345",
+    "addr:postcode":"54304",
+    "addr:street":"Bay Park Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.067633,44.484526,-88.067633,44.484526",
     "geom:latitude":44.484526,
     "geom:longitude":-88.067633,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"345 Bay Park Sq",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":420575065,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pYX1hMrtU7iOm5MU3ZdR5_44.484526_-88.067633@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602171,
-    "wof:geomhash":"6edf7c9d39d220761792bec2a24da43b",
+    "wof:geomhash":"2a47618be1d6ac1a8c003b1a8fedc07c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806919657,
-    "wof:lastmodified":1467090491,
+    "wof:lastmodified":1510602420,
     "wof:name":"Limited Too",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",

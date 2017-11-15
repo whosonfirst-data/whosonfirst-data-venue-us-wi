@@ -2,14 +2,20 @@
   "id": 773388651,
   "type": "Feature",
   "properties": {
+    "addr:full":"2940 E College Ave Appleton WI 54915",
+    "addr:housenumber":"2940",
+    "addr:postcode":"54915",
+    "addr:street":"E College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.358917,44.258575,-88.358917,44.258575",
     "geom:latitude":44.258575,
     "geom:longitude":-88.358917,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2940 E College Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081851,
         85688517
     ],
+    "wof:brand_id":1125150641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DcWFN15iTRnFLCCyAfkeh_44.258575_-88.358917@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585313,
-    "wof:geomhash":"afa32d507f7816f54e1913811f9f9542",
+    "wof:geomhash":"97ffc9a7273f709d287a6fd94e6c8dc5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773388651,
-    "wof:lastmodified":1467090042,
+    "wof:lastmodified":1510613320,
     "wof:name":"Tuffy Auto Svc Ctr",
     "wof:parent_id":85857401,
     "wof:placetype":"venue",

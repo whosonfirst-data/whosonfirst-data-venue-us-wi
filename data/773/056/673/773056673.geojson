@@ -2,14 +2,20 @@
   "id": 773056673,
   "type": "Feature",
   "properties": {
+    "addr:full":"4538 Verona Rd Madison WI 53711",
+    "addr:housenumber":"4538",
+    "addr:postcode":"53711",
+    "addr:street":"Verona Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.453491,43.03653,-89.453491,43.03653",
     "geom:latitude":43.03653,
     "geom:longitude":-89.453491,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4538 Verona Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":420574649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uLeLJIEGt4oazwdQ01ocF_43.036530_-89.453491@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462582818,
-    "wof:geomhash":"4f77e3e44707d7ccb8b85e05b53a148c",
+    "wof:geomhash":"6f23bfccc330550ef7a39909720714c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773056673,
-    "wof:lastmodified":1467089950,
+    "wof:lastmodified":1510615915,
     "wof:name":"Staples The Office Superstore",
     "wof:parent_id":85878885,
     "wof:placetype":"venue",

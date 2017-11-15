@@ -2,9 +2,14 @@
   "id": 806609405,
   "type": "Feature",
   "properties": {
+    "addr:full":"4231 W Grange Ave Milwaukee WI 53221",
+    "addr:housenumber":"4231",
+    "addr:postcode":"53221",
+    "addr:street":"W Grange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.968464,42.944819,-87.968464,42.944819",
     "geom:latitude":42.944819,
     "geom:longitude":-87.968464,
@@ -24,7 +29,14 @@
     "sg:postcode":"53221",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494171,
+        85633793,
+        101733073,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3M9d8KtFCig4N4POwS5l8T_42.944819_-87.968464@1294253271"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462599561,
     "wof:geomhash":"2ed8dfd075527863875d4869b9a6a5ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494171,
+            "locality_id":101733073,
+            "region_id":85688517,
+            "venue_id":806609405
+        }
+    ],
     "wof:id":806609405,
-    "wof:lastmodified":1467090420,
+    "wof:lastmodified":1492111804,
     "wof:name":"Klein Insurance Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

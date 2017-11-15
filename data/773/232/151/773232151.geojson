@@ -2,14 +2,20 @@
   "id": 773232151,
   "type": "Feature",
   "properties": {
+    "addr:full":"4513 Milwaukee St Madison WI 53714",
+    "addr:housenumber":"4513",
+    "addr:postcode":"53714",
+    "addr:street":"Milwaukee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.303415,43.098716,-89.303415,43.098716",
     "geom:latitude":43.098716,
     "geom:longitude":-89.303415,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4513 Milwaukee St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85878835,
         102081795
     ],
+    "wof:brand_id":1125155463,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uKtoVxFytFpcGEOmWXkvj_43.098716_-89.303415@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584160,
-    "wof:geomhash":"d4ba391c904ef502aba44ad0d0aa5fcd",
+    "wof:geomhash":"8ce865bea3d23b84109d1e3e0381e0c5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773232151,
-    "wof:lastmodified":1467089996,
+    "wof:lastmodified":1510694229,
     "wof:name":"Bank One National Assn Chicago",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

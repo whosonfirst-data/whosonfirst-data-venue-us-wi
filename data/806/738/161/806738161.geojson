@@ -2,9 +2,14 @@
   "id": 806738161,
   "type": "Feature",
   "properties": {
+    "addr:full":"11616 136th Ave Kenosha WI 53142",
+    "addr:housenumber":"11616",
+    "addr:postcode":"53142",
+    "addr:street":"136Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.970964,42.507541,-87.970964,42.507541",
     "geom:latitude":42.507541,
     "geom:longitude":-87.970964,
@@ -27,7 +32,14 @@
         "marketing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493391,
+        85633793,
+        101732581,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pr0MvQq2NqiSjmtjjzRkm_42.507541_-87.970964@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462600664,
     "wof:geomhash":"6a688396a3c8a28ad0cfeda58fecbc55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493391,
+            "locality_id":101732581,
+            "region_id":85688517,
+            "venue_id":806738161
+        }
+    ],
     "wof:id":806738161,
-    "wof:lastmodified":1467090450,
+    "wof:lastmodified":1492108891,
     "wof:name":"ITI Marketing Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

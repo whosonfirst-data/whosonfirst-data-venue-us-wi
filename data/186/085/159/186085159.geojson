@@ -2,9 +2,14 @@
   "id": 186085159,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 South St Waunakee WI 53597",
+    "addr:housenumber":"104",
+    "addr:postcode":"53597",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.455181,43.190852,-89.455181,43.190852",
     "geom:latitude":43.190852,
     "geom:longitude":-89.455181,
@@ -28,31 +33,16 @@
         "dancing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        102081795,
-        85868279
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lt2Au4JTb1w7eRgs0bHw2_43.190852_-89.455181@1294253271"
     },
     "wof:country":"US",
     "wof:geomhash":"acb69f57a277ed02f07dbed2734f4107",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081795,
-            "locality_id":-1,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":186085159
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":186085159,
-    "wof:lastmodified":1467089915,
+    "wof:lastmodified":1491935705,
     "wof:name":"Studio One Dance School",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773731217,
   "type": "Feature",
   "properties": {
+    "addr:full":"2258 22nd Ave Kenosha WI 53140",
+    "addr:housenumber":"2258",
+    "addr:postcode":"53140",
+    "addr:street":"22Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.835923,42.615955,-87.835923,42.615955",
     "geom:latitude":42.615955,
     "geom:longitude":-87.835923,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2258 22nd Ave",
     "sg:city":"Kenosha",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081309,
         85688517
     ],
+    "wof:brand_id":1125157803,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lA8NbGlUghbchiIMkQywh_42.615955_-87.835923@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587956,
-    "wof:geomhash":"513d6a9f5b1bae63351816e090ce0f6a",
+    "wof:geomhash":"76578915bb69618532df5569d76d12e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773731217,
-    "wof:lastmodified":1467090121,
+    "wof:lastmodified":1510694858,
     "wof:name":"Charter Funding",
     "wof:parent_id":85810813,
     "wof:placetype":"venue",

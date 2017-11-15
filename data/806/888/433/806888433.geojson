@@ -2,9 +2,14 @@
   "id": 806888433,
   "type": "Feature",
   "properties": {
+    "addr:full":"806 S Division St Waunakee WI 53597",
+    "addr:housenumber":"806",
+    "addr:postcode":"53597",
+    "addr:street":"S Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.447239,43.186476,-89.447239,43.186476",
     "geom:latitude":43.186476,
     "geom:longitude":-89.447239,
@@ -32,12 +37,7 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FBiBvKQnKR89jDneln9iA_43.186476_-89.447239@1294253271"
@@ -45,17 +45,9 @@
     "wof:country":"US",
     "wof:created":1462601918,
     "wof:geomhash":"c09ecebb43b2148bf0137d6d4d29c948",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806888433
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806888433,
-    "wof:lastmodified":1467090484,
+    "wof:lastmodified":1491935678,
     "wof:name":"Pineview Veterinary Clinic",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

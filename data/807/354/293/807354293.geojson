@@ -2,14 +2,20 @@
   "id": 807354293,
   "type": "Feature",
   "properties": {
+    "addr:full":"W156n5531 Pilgrim Rd Menomonee Falls WI 53051",
+    "addr:housenumber":"w156n5531",
+    "addr:postcode":"53051",
+    "addr:street":"Pilgrim Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.1055,43.11978,-88.1055,43.11978",
     "geom:latitude":43.11978,
     "geom:longitude":-88.1055,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"W156n5531 Pilgrim Rd",
     "sg:city":"Menomonee Falls",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125153957,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IzNUlD1R1tqtXPBJ53RLN_43.119780_-88.105500@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606563,
-    "wof:geomhash":"0c0194be56c133219077d47149074fce",
+    "wof:geomhash":"124049629f0d79491fb751c9c43ffa26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807354293,
-    "wof:lastmodified":1467090619,
+    "wof:lastmodified":1510700008,
     "wof:name":"Figaro's Pizza",
     "wof:parent_id":85832419,
     "wof:placetype":"venue",

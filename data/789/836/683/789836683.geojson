@@ -2,9 +2,14 @@
   "id": 789836683,
   "type": "Feature",
   "properties": {
+    "addr:full":"647 E Geneva St Williams Bay WI 53191",
+    "addr:housenumber":"647",
+    "addr:postcode":"53191",
+    "addr:street":"E Geneva St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.524098,42.578815,-88.524098,42.578815",
     "geom:latitude":42.578815,
     "geom:longitude":-88.524098,
@@ -27,13 +32,7 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DYqewKS6PNsazcpWcgLTx_42.578815_-88.524098@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462590918,
     "wof:geomhash":"cbd4336fcf6b26d809bdd07bb96d4bd8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":789836683
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789836683,
-    "wof:lastmodified":1467090200,
+    "wof:lastmodified":1492098892,
     "wof:name":"Valley Painting",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

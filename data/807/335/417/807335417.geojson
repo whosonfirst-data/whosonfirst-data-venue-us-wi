@@ -2,9 +2,14 @@
   "id": 807335417,
   "type": "Feature",
   "properties": {
+    "addr:full":"33911 Geneva Rd Burlington WI 53105",
+    "addr:housenumber":"",
+    "addr:postcode":"33911;53105",
+    "addr:street":"Geneva Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.221452,42.580478,-88.221452,42.580478",
     "geom:latitude":42.580478,
     "geom:longitude":-88.221452,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4k0l0gudUFxCKRBZW4fLdW_42.580418_-88.221052@1293134755"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462606274,
     "wof:geomhash":"8c3f3de4c4684ec1604dae32cccf9ca8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":807335417
+        }
+    ],
     "wof:id":807335417,
-    "wof:lastmodified":1467090612,
+    "wof:lastmodified":1492098857,
     "wof:name":"Glembocki Concrete",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

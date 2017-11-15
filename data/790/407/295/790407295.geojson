@@ -2,9 +2,14 @@
   "id": 790407295,
   "type": "Feature",
   "properties": {
+    "addr:full":"1620 Foxridge Ct Middleton WI 53562",
+    "addr:housenumber":"1620",
+    "addr:postcode":"53562",
+    "addr:street":"Foxridge Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.515386,43.091676,-89.515386,43.091676",
     "geom:latitude":43.091676,
     "geom:longitude":-89.515386,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +53,10 @@
     "wof:geomhash":"6ff4671fdb3b6d87ef0ce59172985fd5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":790407295,
-    "wof:lastmodified":1467090312,
+    "wof:lastmodified":1491894083,
     "wof:name":"Randall Cabinetry",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

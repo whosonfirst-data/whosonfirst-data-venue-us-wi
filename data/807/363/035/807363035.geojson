@@ -2,9 +2,14 @@
   "id": 807363035,
   "type": "Feature",
   "properties": {
+    "addr:full":"219 S Century Ave Waunakee WI 53597",
+    "addr:housenumber":"219",
+    "addr:postcode":"53597",
+    "addr:street":"S Century Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461722,43.190787,-89.461722,43.190787",
     "geom:latitude":43.190787,
     "geom:longitude":-89.461722,
@@ -29,12 +34,7 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6055vjb0Nsyc2iT4xzrdc2_43.190787_-89.461722@1299784598"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462606696,
     "wof:geomhash":"0d10e2358aa78a860b07a2e8e8f29e4a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807363035
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807363035,
-    "wof:lastmodified":1467090623,
+    "wof:lastmodified":1491935704,
     "wof:name":"Papa Murphy's",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

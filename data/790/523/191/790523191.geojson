@@ -2,14 +2,20 @@
   "id": 790523191,
   "type": "Feature",
   "properties": {
+    "addr:full":"1039 E Grand Ave Rothschild WI 54474",
+    "addr:housenumber":"1039",
+    "addr:postcode":"54474",
+    "addr:street":"E Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.613558,44.896987,-89.613558,44.896987",
     "geom:latitude":44.896987,
     "geom:longitude":-89.613558,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1039 E Grand Ave",
     "sg:city":"Rothschild",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081881,
         85854809
     ],
+    "wof:brand_id":1125154489,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6v1Y41spq7TufA3zpKehdR_44.896987_-89.613558@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596566,
-    "wof:geomhash":"c74b9d4176a232c189229f77219aae99",
+    "wof:geomhash":"a6bd7fb79217a1460f3fb23a2f750462",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790523191,
-    "wof:lastmodified":1467090337,
+    "wof:lastmodified":1510695960,
     "wof:name":"Shopko",
     "wof:parent_id":85854809,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790003295,
   "type": "Feature",
   "properties": {
+    "addr:full":"5210 186th St Chippewa Falls WI 54729",
+    "addr:housenumber":"5210",
+    "addr:postcode":"54729",
+    "addr:street":"186Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.295286,44.917373,-91.295286,44.917373",
     "geom:latitude":44.917373,
     "geom:longitude":-91.295286,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5210 186th St",
     "sg:city":"Chippewa Falls",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081787,
         85837071
     ],
+    "wof:brand_id":1125157029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2r2LwfQ97UV02kNP4r2ufe_44.917373_-91.295286@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592352,
-    "wof:geomhash":"b579cc7fb3513cab18fab4d71c710d97",
+    "wof:geomhash":"b365e52928ca25405b1e34723ba5f255",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790003295,
-    "wof:lastmodified":1467090232,
+    "wof:lastmodified":1510696717,
     "wof:name":"Novus Windshield Repair",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",

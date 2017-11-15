@@ -2,14 +2,20 @@
   "id": 807380257,
   "type": "Feature",
   "properties": {
+    "addr:full":"W63N152 Washington Ave Cedarburg WI 53012",
+    "addr:housenumber":"",
+    "addr:postcode":"53012",
+    "addr:street":"W63N152 Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.988197,43.280201,-87.988197,43.280201",
     "geom:latitude":43.280201,
     "geom:longitude":-87.988197,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"W63N152 Washington Ave",
     "sg:city":"Cedarburg",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081873,
         85688517
     ],
+    "wof:brand_id":420575987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ut8rx4b8DlaUhp75CpTRD_43.280201_-87.988197@1303262805"
     },
     "wof:country":"US",
     "wof:created":1462606923,
-    "wof:geomhash":"3d46dbd67daeabfba4d5c58f0c5054b3",
+    "wof:geomhash":"590e8ef07088c2218899eda0472734d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807380257,
-    "wof:lastmodified":1467090630,
+    "wof:lastmodified":1510602836,
     "wof:name":"Osco Drug",
     "wof:parent_id":85823669,
     "wof:placetype":"venue",

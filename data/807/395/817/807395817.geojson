@@ -2,9 +2,14 @@
   "id": 807395817,
   "type": "Feature",
   "properties": {
+    "addr:full":"6015 Clover Ln Greendale WI 53129",
+    "addr:housenumber":"6015",
+    "addr:postcode":"53129",
+    "addr:street":"Clover Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.993914,42.93659,-87.993914,42.93659",
     "geom:latitude":42.93659,
     "geom:longitude":-87.993914,
@@ -18,7 +23,14 @@
     "sg:postcode":"53129",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404492089,
+        85633793,
+        101733071,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WMJOCz27QpUkI7x9O4tJA_42.936590_-87.993914@1303262806"
@@ -26,9 +38,19 @@
     "wof:country":"US",
     "wof:created":1462607180,
     "wof:geomhash":"3c64fe8b3901c805a3f27a390241807f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492089,
+            "locality_id":101733071,
+            "region_id":85688517,
+            "venue_id":807395817
+        }
+    ],
     "wof:id":807395817,
-    "wof:lastmodified":1467090636,
+    "wof:lastmodified":1492103529,
     "wof:name":"Greendale Playschool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

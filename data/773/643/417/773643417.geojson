@@ -2,14 +2,20 @@
   "id": 773643417,
   "type": "Feature",
   "properties": {
+    "addr:full":"2002 Eastern Ave Plymouth WI 53073",
+    "addr:housenumber":"2002",
+    "addr:postcode":"53073",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.960219,43.747179,-87.960219,43.747179",
     "geom:latitude":43.747179,
     "geom:longitude":-87.960219,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2002 Eastern Ave",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081869,
         85836705
     ],
+    "wof:brand_id":1125151075,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BTHqUxp6eDoKg5lwCJ1Gi_43.747179_-87.960219@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587279,
-    "wof:geomhash":"1068ca62239313ce92acea58c7f07ec5",
+    "wof:geomhash":"d24707db8568b26fcdea33a8fecffba5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773643417,
-    "wof:lastmodified":1467090101,
+    "wof:lastmodified":1510696087,
     "wof:name":"M & I Bank",
     "wof:parent_id":85836705,
     "wof:placetype":"venue",

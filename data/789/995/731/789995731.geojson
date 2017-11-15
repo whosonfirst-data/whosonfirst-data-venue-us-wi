@@ -2,14 +2,20 @@
   "id": 789995731,
   "type": "Feature",
   "properties": {
+    "addr:full":"6368 Lake Rd Windsor WI 53598",
+    "addr:housenumber":"6368",
+    "addr:postcode":"53598",
+    "addr:street":"Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.34306,43.195057,-89.34306,43.195057",
     "geom:latitude":43.195057,
     "geom:longitude":-89.34306,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6368 Lake Rd",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85852311,
         102081795
     ],
+    "wof:brand_id":1125151861,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rr1LATBreJewGG8eBauyn_43.195057_-89.343060@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592294,
-    "wof:geomhash":"6dd696a4f30ac19fd792571bdb04d490",
+    "wof:geomhash":"e1f928680fecd1e8657c26118d86c910",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789995731,
-    "wof:lastmodified":1467090231,
+    "wof:lastmodified":1510699640,
     "wof:name":"Stock Building Supply",
     "wof:parent_id":85852311,
     "wof:placetype":"venue",

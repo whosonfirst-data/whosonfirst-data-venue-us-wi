@@ -2,9 +2,14 @@
   "id": 806376333,
   "type": "Feature",
   "properties": {
+    "addr:full":"3072 Marshall Ln Lake Geneva WI 53147",
+    "addr:housenumber":"3072",
+    "addr:postcode":"53147",
+    "addr:street":"Marshall Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.455289,42.603425,-88.455289,42.603425",
     "geom:latitude":42.603425,
     "geom:longitude":-88.455289,
@@ -34,13 +39,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_515diZk9RViPFAQpipKfAT_42.603425_-88.455289@1294253271"
@@ -48,18 +47,9 @@
     "wof:country":"US",
     "wof:created":1462597646,
     "wof:geomhash":"59d1702fe2386409ec3304c7de8cc27b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806376333
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806376333,
-    "wof:lastmodified":1467090365,
+    "wof:lastmodified":1492098828,
     "wof:name":"A Notch Above Tree Service",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

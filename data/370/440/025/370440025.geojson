@@ -2,9 +2,14 @@
   "id": 370440025,
   "type": "Feature",
   "properties": {
+    "addr:full":"30445 Durand Ave Burlington WI 53105",
+    "addr:housenumber":"30445",
+    "addr:postcode":"53105",
+    "addr:street":"Durand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.236333,42.680225,-88.236333,42.680225",
     "geom:latitude":42.680225,
     "geom:longitude":-88.236333,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85865439,
+        102191575,
+        404494889,
         85633793,
-        101733617,
+        101732231,
         102081763,
-        85865439
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"35f85f6d1232d02ec770c08b085a7bef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
-            "locality_id":101733617,
+            "localadmin_id":404494889,
+            "locality_id":101732231,
             "neighbourhood_id":85865439,
             "region_id":85688517,
             "venue_id":370440025
         }
     ],
     "wof:id":370440025,
-    "wof:lastmodified":1467089901,
+    "wof:lastmodified":1492096438,
     "wof:name":"Browns Lake Home Court LLC",
     "wof:parent_id":85865439,
     "wof:placetype":"venue",

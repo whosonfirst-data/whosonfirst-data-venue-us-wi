@@ -2,9 +2,14 @@
   "id": 773481129,
   "type": "Feature",
   "properties": {
+    "addr:full":"1908 Manchester Xing Waunakee WI 53597",
+    "addr:housenumber":"1908",
+    "addr:postcode":"53597",
+    "addr:street":"Manchester Xing",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.438985,43.176437,-89.438985,43.176437",
     "geom:latitude":43.176437,
     "geom:longitude":-89.438985,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04xAFGyNUjf9iZEByNWqaV_43.176437_-89.438985@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462586079,
     "wof:geomhash":"2532a9d7735bb706236a3f47e8504e91",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773481129
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773481129,
-    "wof:lastmodified":1467090064,
+    "wof:lastmodified":1491935707,
     "wof:name":"Musical Pathways LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

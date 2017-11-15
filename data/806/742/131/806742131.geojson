@@ -2,9 +2,14 @@
   "id": 806742131,
   "type": "Feature",
   "properties": {
+    "addr:full":"846 W Main St Lake Geneva WI 53147",
+    "addr:housenumber":"846",
+    "addr:postcode":"53147",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.436349,42.591686,-88.436349,42.591686",
     "geom:latitude":42.591686,
     "geom:longitude":-88.436349,
@@ -28,13 +33,7 @@
         "yoga"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23c9MXzelR6dRaFsfxTGIV_42.591686_-88.436349@1294253271"
@@ -42,18 +41,9 @@
     "wof:country":"US",
     "wof:created":1462600697,
     "wof:geomhash":"8646fb679404c0b834deabafd577596b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806742131
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806742131,
-    "wof:lastmodified":1467090451,
+    "wof:lastmodified":1492103568,
     "wof:name":"Yoga Place",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

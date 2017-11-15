@@ -2,14 +2,20 @@
   "id": 773590727,
   "type": "Feature",
   "properties": {
+    "addr:full":"3415 Calumet Ave Manitowoc WI 54220",
+    "addr:housenumber":"3415",
+    "addr:postcode":"54220",
+    "addr:street":"Calumet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.68975,44.084246,-87.68975,44.084246",
     "geom:latitude":44.084246,
     "geom:longitude":-87.68975,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3415 Calumet Ave",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":1125154489,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66PYx8vTZW5smjLReO5gbN_44.084246_-87.689750@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586878,
-    "wof:geomhash":"f8ea42a6fac1133abedc1401e1924305",
+    "wof:geomhash":"cb940b6b1d8fbb2d20ab3143f068ca65",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773590727,
-    "wof:lastmodified":1467090089,
+    "wof:lastmodified":1510695960,
     "wof:name":"Shopko",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

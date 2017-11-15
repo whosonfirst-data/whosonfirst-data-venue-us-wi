@@ -2,9 +2,14 @@
   "id": 773477527,
   "type": "Feature",
   "properties": {
+    "addr:full":"2667 Kittie Ct East Troy WI 53120",
+    "addr:housenumber":"2667",
+    "addr:postcode":"53120",
+    "addr:street":"Kittie Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.42756,42.81378,-88.42756,42.81378",
     "geom:latitude":42.81378,
     "geom:longitude":-88.42756,
@@ -24,7 +29,13 @@
     "sg:postcode":"53120",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494469,
+        85633793,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WqDqus3LN5pZ4ZBl3NoW2_42.813780_-88.427560@1294253271"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462586053,
     "wof:geomhash":"5fc61d2794c3098c7327cf55ab0d0c74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404494469,
+            "region_id":85688517,
+            "venue_id":773477527
+        }
+    ],
     "wof:id":773477527,
-    "wof:lastmodified":1467090063,
+    "wof:lastmodified":1492112071,
     "wof:name":"Bording Excellence L L C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

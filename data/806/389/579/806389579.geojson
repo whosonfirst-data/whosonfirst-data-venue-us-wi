@@ -2,9 +2,14 @@
   "id": 806389579,
   "type": "Feature",
   "properties": {
+    "addr:full":"3172 Bretsch Rd Elkhorn WI 53121",
+    "addr:housenumber":"",
+    "addr:postcode":"3172;53121",
+    "addr:street":"Bretsch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.460756,42.766126,-88.460756,42.766126",
     "geom:latitude":42.766126,
     "geom:longitude":-88.460756,
@@ -27,7 +32,13 @@
         "coin"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494469,
+        85633793,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZQxQDNQ8hms1Qi1NLlOBa_42.766126_-88.460756@1294253271"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462597749,
     "wof:geomhash":"dda653e86ef15abfdfdc6914994a0b13",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404494469,
+            "region_id":85688517,
+            "venue_id":806389579
+        }
+    ],
     "wof:id":806389579,
-    "wof:lastmodified":1467090368,
+    "wof:lastmodified":1492103468,
     "wof:name":"Troy Deeast Laundry LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

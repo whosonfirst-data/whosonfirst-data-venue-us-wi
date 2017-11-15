@@ -2,9 +2,14 @@
   "id": 773653915,
   "type": "Feature",
   "properties": {
+    "addr:full":"614 11th Ave Union Grove WI 53182",
+    "addr:housenumber":"614",
+    "addr:postcode":"53182",
+    "addr:street":"11Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.046593,42.686544,-88.046593,42.686544",
     "geom:latitude":42.686544,
     "geom:longitude":-88.046593,
@@ -24,7 +29,14 @@
     "sg:postcode":"53182",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494991,
+        85633793,
+        101732347,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1caFjeIiw1ZEeRvE1PyuXi_42.686544_-88.046593@1294253271"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462587353,
     "wof:geomhash":"bdb75888e597a247e6565ce0b4148f09",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494991,
+            "locality_id":101732347,
+            "region_id":85688517,
+            "venue_id":773653915
+        }
+    ],
     "wof:id":773653915,
-    "wof:lastmodified":1467090103,
+    "wof:lastmodified":1492103647,
     "wof:name":"Church of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

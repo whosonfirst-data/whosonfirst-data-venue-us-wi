@@ -2,9 +2,14 @@
   "id": 790448363,
   "type": "Feature",
   "properties": {
+    "addr:full":"38941 89th Pl Powers Lake WI 53105",
+    "addr:housenumber":"38941",
+    "addr:postcode":"53105",
+    "addr:street":"89Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.282691,42.544343,-88.282691,42.544343",
     "geom:latitude":42.544343,
     "geom:longitude":-88.282691,
@@ -30,7 +35,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493403,
+        85633793,
+        101733671,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XZ1KGTN0H6Fb7zm2wBbaX_42.544343_-88.282691@1294253271"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462595902,
     "wof:geomhash":"f7ca6f37e5024882282379919e091615",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493403,
+            "locality_id":101733671,
+            "region_id":85688517,
+            "venue_id":790448363
+        }
+    ],
     "wof:id":790448363,
-    "wof:lastmodified":1467090320,
+    "wof:lastmodified":1492098662,
     "wof:name":"Spek Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

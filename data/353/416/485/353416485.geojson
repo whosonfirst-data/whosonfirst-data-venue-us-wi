@@ -2,14 +2,20 @@
   "id": 353416485,
   "type": "Feature",
   "properties": {
+    "addr:full":"1218 S Maple Ave Green Bay WI 54304",
+    "addr:housenumber":"1218",
+    "addr:postcode":"54304",
+    "addr:street":"S Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.033274,44.503783,-88.033274,44.503783",
     "geom:latitude":44.503783,
     "geom:longitude":-88.033274,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1218 S Maple Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102081867,
         85877931
     ],
+    "wof:brand_id":1125150487,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2girormvVqnLFoDILsAIdg_44.503783_-88.033274@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"4e12a024b2a693b06b64b33f36bbd3f3",
+    "wof:geomhash":"0b4d91d43035d607a6e0789172a24af0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":353416485,
-    "wof:lastmodified":1467089889,
+    "wof:lastmodified":1510699989,
     "wof:name":"Furniture Medic Inc",
     "wof:parent_id":85877931,
     "wof:placetype":"venue",

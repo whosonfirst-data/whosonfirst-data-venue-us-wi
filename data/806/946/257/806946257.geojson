@@ -2,9 +2,14 @@
   "id": 806946257,
   "type": "Feature",
   "properties": {
+    "addr:full":"5449 Westshire Cir Waunakee WI 53597",
+    "addr:housenumber":"5449",
+    "addr:postcode":"53597",
+    "addr:street":"Westshire Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.412604,43.150377,-89.412604,43.150377",
     "geom:latitude":43.150377,
     "geom:longitude":-89.412604,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TpQw566lE8h6zQ3jJZr8f_43.150377_-89.412604@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462602408,
     "wof:geomhash":"4373a7d2ccace69746596b55bb3e66dc",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806946257
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806946257,
-    "wof:lastmodified":1467090496,
+    "wof:lastmodified":1491935704,
     "wof:name":"Metropolitan Housing Deve",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

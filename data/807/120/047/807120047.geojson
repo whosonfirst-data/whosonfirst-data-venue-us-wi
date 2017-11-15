@@ -2,9 +2,14 @@
   "id": 807120047,
   "type": "Feature",
   "properties": {
+    "addr:full":"5337 W River Rd Waunakee WI 53597",
+    "addr:housenumber":"5337",
+    "addr:postcode":"53597",
+    "addr:street":"W River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.405936,43.159132,-89.405936,43.159132",
     "geom:latitude":43.159132,
     "geom:longitude":-89.405936,
@@ -27,12 +32,7 @@
         "military"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PyrYO01evrF1BdzHomFh6_43.159132_-89.405936@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462603938,
     "wof:geomhash":"fdef55cac48ad5a867480f99ad9ed512",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807120047
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807120047,
-    "wof:lastmodified":1467090542,
+    "wof:lastmodified":1491935687,
     "wof:name":"American Legion",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

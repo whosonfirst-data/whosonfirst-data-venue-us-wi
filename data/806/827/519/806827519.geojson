@@ -2,9 +2,14 @@
   "id": 806827519,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 E Geneva St Williams Bay WI 53191",
+    "addr:housenumber":"7",
+    "addr:postcode":"53191",
+    "addr:street":"E Geneva St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.533746,42.578805,-88.533746,42.578805",
     "geom:latitude":42.578805,
     "geom:longitude":-88.533746,
@@ -27,13 +32,7 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mTiU14pY6YupzghdYPYbL_42.578805_-88.533746@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462601402,
     "wof:geomhash":"69ab572cd03f2fe905287b10eac31727",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806827519
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806827519,
-    "wof:lastmodified":1467090470,
+    "wof:lastmodified":1492109458,
     "wof:name":"Geneva Lake Law Enforcement",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

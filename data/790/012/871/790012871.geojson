@@ -2,9 +2,14 @@
   "id": 790012871,
   "type": "Feature",
   "properties": {
+    "addr:full":"5290 Shilling Ln Waunakee WI 53597",
+    "addr:housenumber":"5290",
+    "addr:postcode":"53597",
+    "addr:street":"Shilling Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.442925,43.145907,-89.442925,43.145907",
     "geom:latitude":43.145907,
     "geom:longitude":-89.442925,
@@ -29,12 +34,7 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sH35UTNEAiknUsYNkdsKJ_43.145907_-89.442925@1294253271"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462592427,
     "wof:geomhash":"24cb5a91b68db6a8cd2f2d4c9641caa7",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790012871
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790012871,
-    "wof:lastmodified":1467090234,
+    "wof:lastmodified":1491935724,
     "wof:name":"Top Ntch Rsidential Coml Clean",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

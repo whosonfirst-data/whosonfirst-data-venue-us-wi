@@ -2,14 +2,20 @@
   "id": 806446603,
   "type": "Feature",
   "properties": {
+    "addr:full":"273 Schemmer St Burlington WI 53105",
+    "addr:housenumber":"273",
+    "addr:postcode":"53105",
+    "addr:street":"Schemmer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.284116,42.673354,-88.284116,42.673354",
     "geom:latitude":42.673354,
     "geom:longitude":-88.284116,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"273 Schemmer St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081763,
         85688517
     ],
+    "wof:brand_id":1125158131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xZpUg4xHHFAoTBxOjwtVN_42.673354_-88.284116@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598222,
-    "wof:geomhash":"3ecd2874aba7fd2e13f04b47fd51ede1",
+    "wof:geomhash":"43b5a4a07980fd5bbee7e117c219c6d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806446603,
-    "wof:lastmodified":1467090382,
+    "wof:lastmodified":1510698909,
     "wof:name":"Magic Mirror",
     "wof:parent_id":85865439,
     "wof:placetype":"venue",

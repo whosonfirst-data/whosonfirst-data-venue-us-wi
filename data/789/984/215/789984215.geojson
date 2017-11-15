@@ -2,9 +2,14 @@
   "id": 789984215,
   "type": "Feature",
   "properties": {
+    "addr:full":"3450 Church Rd Elkhorn WI 53121",
+    "addr:housenumber":"3450",
+    "addr:postcode":"53121",
+    "addr:street":"Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.470203,42.740237,-88.470203,42.740237",
     "geom:latitude":42.740237,
     "geom:longitude":-88.470203,
@@ -28,7 +33,13 @@
         "cleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404492465,
+        85633793,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VenAydn9c811B9l1FWOzn_42.740237_-88.470203@1294253271"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462592203,
     "wof:geomhash":"16358d455dfd6d2012c5e33267a9238d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404492465,
+            "region_id":85688517,
+            "venue_id":789984215
+        }
+    ],
     "wof:id":789984215,
-    "wof:lastmodified":1467090228,
+    "wof:lastmodified":1492108942,
     "wof:name":"Its Just ME",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

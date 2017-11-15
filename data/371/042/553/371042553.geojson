@@ -2,14 +2,20 @@
   "id": 371042553,
   "type": "Feature",
   "properties": {
+    "addr:full":"520 South Blvd Baraboo WI 53913",
+    "addr:housenumber":"520",
+    "addr:postcode":"53913",
+    "addr:street":"South Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.751432,43.460493,-89.751432,43.460493",
     "geom:latitude":43.460493,
     "geom:longitude":-89.751432,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"520 South Blvd",
     "sg:city":"Baraboo",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         101733429,
         102081845
     ],
+    "wof:brand_id":1125150593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BVqLz7Epbr63lIGxZcDV2_43.460493_-89.751432@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"870e6059a1ad103f5612ce7e6a0a45d1",
+    "wof:geomhash":"494c53f67c1cc6b9adef6b25f7a30344",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":371042553,
-    "wof:lastmodified":1467089913,
+    "wof:lastmodified":1510613420,
     "wof:name":"Lutheran Social Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789958057,
   "type": "Feature",
   "properties": {
+    "addr:full":"5580 Moonlight Dr Waunakee WI 53597",
+    "addr:housenumber":"5580",
+    "addr:postcode":"53597",
+    "addr:street":"Moonlight Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.422777,43.160814,-89.422777,43.160814",
     "geom:latitude":43.160814,
     "geom:longitude":-89.422777,
@@ -27,12 +32,7 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zedWLb6AK2m4y1Zc3SWe4_43.160814_-89.422777@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462591981,
     "wof:geomhash":"c73d83d786c1ac220a24e0fb430327bf",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789958057
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789958057,
-    "wof:lastmodified":1467090223,
+    "wof:lastmodified":1491935698,
     "wof:name":"Don's Painting & Home Svc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

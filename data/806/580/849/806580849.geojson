@@ -2,14 +2,20 @@
   "id": 806580849,
   "type": "Feature",
   "properties": {
+    "addr:full":"6611 Flagstone Ct Greenville WI 54942",
+    "addr:housenumber":"6611",
+    "addr:postcode":"54942",
+    "addr:street":"Flagstone Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.522721,44.277732,-88.522721,44.277732",
     "geom:latitude":44.277732,
     "geom:longitude":-88.522721,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6611 Flagstone Ct",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125152645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sinTgfa7CizUyinTCTwL1_44.277732_-88.522721@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462599316,
-    "wof:geomhash":"7232d4ae4ab12779f110e64ea103e5c1",
+    "wof:geomhash":"40c0b7fd9c4fec4103045e4eed1afc12",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806580849,
-    "wof:lastmodified":1467090413,
+    "wof:lastmodified":1510699628,
     "wof:name":"Computer Doctor",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

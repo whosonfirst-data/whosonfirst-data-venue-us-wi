@@ -2,6 +2,10 @@
   "id": 789980123,
   "type": "Feature",
   "properties": {
+    "addr:full":"1350 E Locust St Milwaukee WI 53212",
+    "addr:housenumber":"1350",
+    "addr:postcode":"53212",
+    "addr:street":"E Locust St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789980123,
-    "wof:lastmodified":1467090228,
+    "wof:lastmodified":1472654629,
     "wof:name":"Milwaukee Housing Authority",
     "wof:parent_id":85870879,
     "wof:placetype":"venue",

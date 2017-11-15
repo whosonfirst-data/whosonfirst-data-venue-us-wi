@@ -2,9 +2,14 @@
   "id": 773416043,
   "type": "Feature",
   "properties": {
+    "addr:full":"508 Rupert Rd Waunakee WI 53597",
+    "addr:housenumber":"508",
+    "addr:postcode":"53597",
+    "addr:street":"Rupert Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.468742,43.186434,-89.468742,43.186434",
     "geom:latitude":43.186434,
     "geom:longitude":-89.468742,
@@ -27,12 +32,7 @@
         "administrative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uRunvwbqknKSkLyU2aaKW_43.186434_-89.468742@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462585542,
     "wof:geomhash":"4371ef8f8af3b46d5f4923556218e629",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773416043
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773416043,
-    "wof:lastmodified":1467090049,
+    "wof:lastmodified":1491935713,
     "wof:name":"Terry Norby LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

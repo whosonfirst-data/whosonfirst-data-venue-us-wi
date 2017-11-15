@@ -2,14 +2,20 @@
   "id": 806732575,
   "type": "Feature",
   "properties": {
+    "addr:full":"914 Quay St Manitowoc WI 54220",
+    "addr:housenumber":"914",
+    "addr:postcode":"54220",
+    "addr:street":"Quay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.660437,44.091179,-87.660437,44.091179",
     "geom:latitude":44.091179,
     "geom:longitude":-87.660437,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"914 Quay St",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":420575587,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34bLOW0hbgoL4HVRxrcAK6_44.091179_-87.660437@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600606,
-    "wof:geomhash":"533e53e088c10c6c673afaf3f70b3ea3",
+    "wof:geomhash":"26cd900a50b98906421a888cd5131bdb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806732575,
-    "wof:lastmodified":1467090448,
+    "wof:lastmodified":1510602890,
     "wof:name":"Revenue Dept",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

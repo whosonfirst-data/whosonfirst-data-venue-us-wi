@@ -2,9 +2,14 @@
   "id": 773135439,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 W Main St Waunakee WI 53597",
+    "addr:housenumber":"500",
+    "addr:postcode":"53597",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461767,43.192029,-89.461767,43.192029",
     "geom:latitude":43.192029,
     "geom:longitude":-89.461767,
@@ -27,12 +32,7 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61YJzZTWr3mWm6iTUY60Pv_43.192029_-89.461767@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462583405,
     "wof:geomhash":"4300888da63340c00c6b57953942dcae",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773135439
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773135439,
-    "wof:lastmodified":1467089970,
+    "wof:lastmodified":1491935706,
     "wof:name":"Waunakee Fire Dept",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

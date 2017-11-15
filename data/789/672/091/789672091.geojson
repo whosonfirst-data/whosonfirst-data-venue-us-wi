@@ -2,14 +2,20 @@
   "id": 789672091,
   "type": "Feature",
   "properties": {
+    "addr:full":"6117 Johnson St Mc Farland WI 53558",
+    "addr:housenumber":"6117",
+    "addr:postcode":"53558",
+    "addr:street":"Johnson St Mc Farland",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.29128,43.009566,-89.29128,43.009566",
     "geom:latitude":43.009566,
     "geom:longitude":-89.29128,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6117 Johnson St",
     "sg:city":"Mc Farland",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081795,
         85878883
     ],
+    "wof:brand_id":1125153317,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VRY2ezgq6xaJlZzvKwvuX_43.009566_-89.291280@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462589642,
-    "wof:geomhash":"0025a91b4c38cf6faa6bf930b8a6b0e6",
+    "wof:geomhash":"cddcf6cd22144e58eaefdbb028008262",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789672091,
-    "wof:lastmodified":1467090168,
+    "wof:lastmodified":1510699509,
     "wof:name":"La Petite Academy Inc",
     "wof:parent_id":85878883,
     "wof:placetype":"venue",

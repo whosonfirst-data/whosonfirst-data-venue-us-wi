@@ -2,6 +2,10 @@
   "id": 773188189,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 West Blvd Racine WI 53405",
+    "addr:housenumber":"1234",
+    "addr:postcode":"53405",
+    "addr:street":"West Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":773188189,
-    "wof:lastmodified":1467089982,
+    "wof:lastmodified":1472654712,
     "wof:name":"Valet",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",

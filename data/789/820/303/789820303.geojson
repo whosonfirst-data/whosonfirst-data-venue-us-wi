@@ -2,14 +2,20 @@
   "id": 789820303,
   "type": "Feature",
   "properties": {
+    "addr:full":"241 S Century Ave Waunakee WI 53597",
+    "addr:housenumber":"241",
+    "addr:postcode":"53597",
+    "addr:street":"S Century Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461691,43.190363,-89.461691,43.190363",
     "geom:latitude":43.190363,
     "geom:longitude":-89.461691,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"241 S Century Ave",
     "sg:city":"Waunakee",
     "sg:classifiers":[
@@ -28,30 +34,18 @@
         "hair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
+    "wof:brand_id":420573895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tzZ7b7t7gqlHoTGCmszYw_43.190363_-89.461691@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590790,
-    "wof:geomhash":"dcab8475e4ea8dfd4f146767f3800884",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789820303
-        }
-    ],
+    "wof:geomhash":"d1e610cceb9252919536e240ec46283e",
+    "wof:hierarchy":[],
     "wof:id":789820303,
-    "wof:lastmodified":1467090197,
+    "wof:lastmodified":1510603088,
     "wof:name":"Great Clips",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

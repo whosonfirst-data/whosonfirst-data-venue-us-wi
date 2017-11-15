@@ -2,9 +2,14 @@
   "id": 773691979,
   "type": "Feature",
   "properties": {
+    "addr:full":"2856 Walden Ln Lake Geneva WI 53147",
+    "addr:housenumber":"2856",
+    "addr:postcode":"53147",
+    "addr:street":"Walden Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.493009,42.590684,-88.493009,42.590684",
     "geom:latitude":42.590684,
     "geom:longitude":-88.493009,
@@ -27,13 +32,7 @@
         "motion"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wavjZIVvt1hu28SJZT4hM_42.590684_-88.493009@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462587629,
     "wof:geomhash":"eb604c6f3a46cd6f3502b9067693dcff",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":773691979
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773691979,
-    "wof:lastmodified":1467090112,
+    "wof:lastmodified":1492108927,
     "wof:name":"Kovia Productions",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

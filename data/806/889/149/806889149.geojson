@@ -2,9 +2,14 @@
   "id": 806889149,
   "type": "Feature",
   "properties": {
+    "addr:full":"4565 S River Ridge Blvd Milwaukee WI 53228",
+    "addr:housenumber":"4565",
+    "addr:postcode":"53228",
+    "addr:street":"S River Ridge Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.062177,42.962753,-88.062177,42.962753",
     "geom:latitude":42.962753,
     "geom:longitude":-88.062177,
@@ -27,7 +32,14 @@
         "catering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494171,
+        85633793,
+        101733073,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ieb9csrwMV2KzEWu5NiPD_42.962753_-88.062177@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462601923,
     "wof:geomhash":"ea709b0c9369be64b5027264d05d56b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494171,
+            "locality_id":101733073,
+            "region_id":85688517,
+            "venue_id":806889149
+        }
+    ],
     "wof:id":806889149,
-    "wof:lastmodified":1467090484,
+    "wof:lastmodified":1492103429,
     "wof:name":"Professional Food Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773154307,
   "type": "Feature",
   "properties": {
+    "addr:full":"509 E Main St Waunakee WI 53597",
+    "addr:housenumber":"509",
+    "addr:postcode":"53597",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.44684,43.191977,-89.44684,43.191977",
     "geom:latitude":43.191977,
     "geom:longitude":-89.44684,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PCErT75m1ft3UKtHwR4xK_43.191977_-89.446840@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462583553,
     "wof:geomhash":"dd90846d790d59bca543146c1c225386",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773154307
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773154307,
-    "wof:lastmodified":1467089974,
+    "wof:lastmodified":1491935701,
     "wof:name":"American Family Insurance",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

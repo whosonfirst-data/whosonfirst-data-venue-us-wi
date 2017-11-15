@@ -2,9 +2,14 @@
   "id": 806854849,
   "type": "Feature",
   "properties": {
+    "addr:full":"5375 Mariner's Cove Dr Madison WI 53704",
+    "addr:housenumber":"5375",
+    "addr:postcode":"53704",
+    "addr:street":"Mariner'S Cove Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.405186,43.150287,-89.405186,43.150287",
     "geom:latitude":43.150287,
     "geom:longitude":-89.405186,
@@ -29,12 +34,7 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SFBLlmoq7KVLwIiDnWHmK_43.150287_-89.405186@1294253271"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462601647,
     "wof:geomhash":"8f01af9076f67d503aa49e8dc1225a86",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806854849
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806854849,
-    "wof:lastmodified":1467090476,
+    "wof:lastmodified":1491935678,
     "wof:name":"T & S Innovations Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

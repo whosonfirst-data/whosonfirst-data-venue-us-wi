@@ -2,14 +2,20 @@
   "id": 773777689,
   "type": "Feature",
   "properties": {
+    "addr:full":"10675 Co Rd Tt Hortonville WI 54944",
+    "addr:housenumber":"10675",
+    "addr:postcode":"54944",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.733626,44.330605,-88.733626,44.330605",
     "geom:latitude":44.330605,
     "geom:longitude":-88.733626,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10675 Co Rd Tt",
     "sg:city":"Hortonville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125155841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2J2LphNSRJupLyVUbhUKqY_44.330605_-88.733626@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588301,
-    "wof:geomhash":"21d2ff83fa20744e4bd7d004d7b3a82c",
+    "wof:geomhash":"992ad64223373093ebca881b6e8ece7d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773777689,
-    "wof:lastmodified":1467090132,
+    "wof:lastmodified":1510697488,
     "wof:name":"Sentry Insurance Co",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790174873,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 N Cogswell Dr Silver Lake WI 53170",
+    "addr:housenumber":"122",
+    "addr:postcode":"53170",
+    "addr:street":"N Cogswell Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.166093,42.549621,-88.166093,42.549621",
     "geom:latitude":42.549621,
     "geom:longitude":-88.166093,
@@ -27,7 +32,10 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NMOoqUQtoVJzKKHriiSna_42.549621_-88.166093@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462593735,
     "wof:geomhash":"8b22f727f1c502b20f13dd08803bef66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":790174873
+        }
+    ],
     "wof:id":790174873,
-    "wof:lastmodified":1467090266,
+    "wof:lastmodified":1492109455,
     "wof:name":"John C Smith Painting & Pprng",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

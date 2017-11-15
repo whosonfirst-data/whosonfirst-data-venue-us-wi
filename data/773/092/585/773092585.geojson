@@ -2,14 +2,20 @@
   "id": 773092585,
   "type": "Feature",
   "properties": {
+    "addr:full":"436 Westgate Mall Madison WI 53711",
+    "addr:housenumber":"436",
+    "addr:postcode":"53711",
+    "addr:street":"Westgate Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.472245,43.051962,-89.472245,43.051962",
     "geom:latitude":43.051962,
     "geom:longitude":-89.472245,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"436 Westgate Mall",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125156207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1K5keNVCkt4SfL2eUw5XgD_43.051962_-89.472245@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583097,
-    "wof:geomhash":"86511f846e8f23d12829e16aa1345dbe",
+    "wof:geomhash":"c72abd18ea2302a1aeccf4946c7467b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773092585,
-    "wof:lastmodified":1467089960,
+    "wof:lastmodified":1510698947,
     "wof:name":"Christopher & Banks Inc",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",

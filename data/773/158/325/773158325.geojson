@@ -2,14 +2,20 @@
   "id": 773158325,
   "type": "Feature",
   "properties": {
+    "addr:full":"3705 Kadow St Manitowoc WI 54220",
+    "addr:housenumber":"3705",
+    "addr:postcode":"54220",
+    "addr:street":"Kadow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.694979,44.082684,-87.694979,44.082684",
     "geom:latitude":44.082684,
     "geom:longitude":-87.694979,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3705 Kadow St",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":420574591,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iHY4t5py5uezbSeftHDmV_44.082684_-87.694979@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583578,
-    "wof:geomhash":"c9b0f4e2bda8c76a438377740f2539c0",
+    "wof:geomhash":"9f633fa00686e76a4256c6fe3a85442b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773158325,
-    "wof:lastmodified":1467089975,
+    "wof:lastmodified":1510604642,
     "wof:name":"Northwestern Mutual Financial",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

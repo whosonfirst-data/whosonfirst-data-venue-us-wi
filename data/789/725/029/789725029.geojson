@@ -2,9 +2,14 @@
   "id": 789725029,
   "type": "Feature",
   "properties": {
+    "addr:full":"2624 W Beltline Hwy Middleton WI 53562",
+    "addr:housenumber":"2624",
+    "addr:postcode":"53562",
+    "addr:street":"W Beltline Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.519375,43.092952,-89.519375,43.092952",
     "geom:latitude":43.092952,
     "geom:longitude":-89.519375,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"9f75934b45ede280b711af2d6c6f7e76",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":789725029,
-    "wof:lastmodified":1467090179,
+    "wof:lastmodified":1491894048,
     "wof:name":"Bruce Co Of Wisconsin Inc",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

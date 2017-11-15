@@ -2,14 +2,20 @@
   "id": 807217405,
   "type": "Feature",
   "properties": {
+    "addr:full":"1790 S Riverside Dr Beloit WI 53511",
+    "addr:housenumber":"1790",
+    "addr:postcode":"53511",
+    "addr:street":"S Riverside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.03437,42.520997,-89.03437,42.520997",
     "geom:latitude":42.520997,
     "geom:longitude":-89.03437,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1790 S Riverside Dr",
     "sg:city":"Beloit",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081829,
         85688517
     ],
+    "wof:brand_id":420574921,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lBwJcKxFxQnrr6P5Q0IRk_42.520997_-89.034370@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604970,
-    "wof:geomhash":"b6f7c711a7a09e5e491e9b384a496df7",
+    "wof:geomhash":"674007d93c48f84b231cee93cb7003e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807217405,
-    "wof:lastmodified":1467090573,
+    "wof:lastmodified":1510608696,
     "wof:name":"Sears Optical",
     "wof:parent_id":85812915,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790337981,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 N Mall Dr Appleton WI 54913",
+    "addr:housenumber":"305",
+    "addr:postcode":"54913",
+    "addr:street":"N Mall Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.470408,44.263551,-88.470408,44.263551",
     "geom:latitude":44.263551,
     "geom:longitude":-88.470408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"305 N Mall Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":420575493,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jiw6ga2LPrTqjpVXg2HTK_44.263551_-88.470408@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462595046,
-    "wof:geomhash":"4f1481a30360c23e95b3e4bf67338954",
+    "wof:geomhash":"1fc840f070f59e5917a0c11c3cf79b89",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790337981,
-    "wof:lastmodified":1467090298,
+    "wof:lastmodified":1510601948,
     "wof:name":"Jenny Craig Weight Loss Ctr",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370962115,
   "type": "Feature",
   "properties": {
+    "addr:full":"2445 N 124th St Brookfield WI 53005",
+    "addr:housenumber":"2445",
+    "addr:postcode":"53005",
+    "addr:street":"N 124Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.06692,43.062042,-88.06692,43.062042",
     "geom:latitude":43.062042,
     "geom:longitude":-88.06692,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870871,
+        102191575,
+        404492091,
         85633793,
-        101733089,
+        101732987,
         102081837,
-        85870871
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"b821955bf5eb8674ee63deeeee32e3c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":101733089,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870871,
             "region_id":85688517,
             "venue_id":370962115
         }
     ],
     "wof:id":370962115,
-    "wof:lastmodified":1467089903,
+    "wof:lastmodified":1491898492,
     "wof:name":"Tuesday Morning 183",
     "wof:parent_id":85870871,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806692955,
   "type": "Feature",
   "properties": {
+    "addr:full":"2003 Co Rd U Wausau WI 54401",
+    "addr:housenumber":"2003",
+    "addr:postcode":"54401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.661311,44.986855,-89.661311,44.986855",
     "geom:latitude":44.986855,
     "geom:longitude":-89.661311,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2003 Co Rd U",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081881,
         85868295
     ],
+    "wof:brand_id":420575465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_405FwnHLj1a8cPrFQtRjGV_44.986855_-89.661311@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600280,
-    "wof:geomhash":"4bee185dfcebdafb7d545970e02f8196",
+    "wof:geomhash":"1115c8fa1cfd32ba4f14c854e60bdbf5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806692955,
-    "wof:lastmodified":1467090439,
+    "wof:lastmodified":1510602103,
     "wof:name":"Ferguson Enterprises Inc",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",

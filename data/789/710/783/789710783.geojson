@@ -2,9 +2,14 @@
   "id": 789710783,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 W Copper Cir Madison WI 53717",
+    "addr:housenumber":"10",
+    "addr:postcode":"53717",
+    "addr:street":"W Copper Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.520457,43.069017,-89.520457,43.069017",
     "geom:latitude":43.069017,
     "geom:longitude":-89.520457,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"1df9c6a65955424da7abfd59fced05f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":789710783,
-    "wof:lastmodified":1467090176,
+    "wof:lastmodified":1491894070,
     "wof:name":"Susans Small Step Forward",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806769517,
   "type": "Feature",
   "properties": {
+    "addr:full":"2584 Whitmore Rd Elkhorn WI 53121",
+    "addr:housenumber":"2584",
+    "addr:postcode":"53121",
+    "addr:street":"Whitmore Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.429361,42.71306,-88.429361,42.71306",
     "geom:latitude":42.71306,
     "geom:longitude":-88.429361,
@@ -29,7 +34,13 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404492465,
+        85633793,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GoFsi6z2LyZjfdZADnLHZ_42.713060_-88.429361@1294253271"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1462600925,
     "wof:geomhash":"358cf976aca8e171a651f115ea523c32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404492465,
+            "region_id":85688517,
+            "venue_id":806769517
+        }
+    ],
     "wof:id":806769517,
-    "wof:lastmodified":1467090457,
+    "wof:lastmodified":1492103377,
     "wof:name":"Papenfus Trucking LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

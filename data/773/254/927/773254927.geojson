@@ -2,9 +2,14 @@
   "id": 773254927,
   "type": "Feature",
   "properties": {
+    "addr:full":"2304 65th Dr Franksville WI 53126",
+    "addr:housenumber":"2304",
+    "addr:postcode":"53126",
+    "addr:street":"65Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.0324,42.747865,-88.0324,42.747865",
     "geom:latitude":42.747865,
     "geom:longitude":-88.0324,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494999,
+        85633793,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OjUbAYlAT4qToORnXWiSZ_42.747865_-88.032400@1294253271"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462584329,
     "wof:geomhash":"72215c1461a5a29ab80f85cbcf991100",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494999,
+            "region_id":85688517,
+            "venue_id":773254927
+        }
+    ],
     "wof:id":773254927,
-    "wof:lastmodified":1467090003,
+    "wof:lastmodified":1492108874,
     "wof:name":"Arnie Christiansen Mason",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807396519,
   "type": "Feature",
   "properties": {
+    "addr:full":"9419 S 27th St Franklin WI 53132",
+    "addr:housenumber":"9419",
+    "addr:postcode":"53132",
+    "addr:street":"S 27Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.951202,42.8736,-87.951202,42.8736",
     "geom:latitude":42.8736,
     "geom:longitude":-87.951202,
@@ -25,14 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420550071,
+        420550135,
         102191575,
         404494177,
         85633793,
         101733079,
         102081837,
-        85688517,
-        420550135
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,25 +52,15 @@
             "county_id":102081837,
             "localadmin_id":404494177,
             "locality_id":101733079,
-            "neighbourhood_id":420550071,
-            "region_id":85688517,
-            "venue_id":807396519
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081837,
-            "localadmin_id":404494177,
-            "locality_id":101733079,
             "neighbourhood_id":420550135,
             "region_id":85688517,
             "venue_id":807396519
         }
     ],
     "wof:id":807396519,
-    "wof:lastmodified":1467090637,
+    "wof:lastmodified":1492098700,
     "wof:name":"Traveler's Motel",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

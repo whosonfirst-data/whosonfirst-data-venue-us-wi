@@ -2,14 +2,20 @@
   "id": 807106705,
   "type": "Feature",
   "properties": {
+    "addr:full":"323 S 18th Ave Sturgeon Bay WI 54235",
+    "addr:housenumber":"323",
+    "addr:postcode":"54235",
+    "addr:street":"S 18Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.351538,44.832963,-87.351538,44.832963",
     "geom:latitude":44.832963,
     "geom:longitude":-87.351538,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"323 S 18th Ave",
     "sg:city":"Sturgeon Bay",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081831,
         85688517
     ],
+    "wof:brand_id":1125155113,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3glP8XXaIV3b368hxAHedj_44.832963_-87.351538@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603801,
-    "wof:geomhash":"6e72f16128b35037f4fd2bf19ac8802f",
+    "wof:geomhash":"6ef5ac5c394224a96fcb5e34836bd154",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807106705,
-    "wof:lastmodified":1467090538,
+    "wof:lastmodified":1510696829,
     "wof:name":"Dermatology Associates",
     "wof:parent_id":85851043,
     "wof:placetype":"venue",

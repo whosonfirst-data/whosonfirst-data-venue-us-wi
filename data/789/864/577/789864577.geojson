@@ -2,9 +2,14 @@
   "id": 789864577,
   "type": "Feature",
   "properties": {
+    "addr:full":"9357 S 33rd St Franklin WI 53132",
+    "addr:housenumber":"9357",
+    "addr:postcode":"53132",
+    "addr:street":"S 33Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.958725,42.874713,-87.958725,42.874713",
     "geom:latitude":42.874713,
     "geom:longitude":-87.958725,
@@ -29,7 +34,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KW8j7Gj1aYpDZzt3cTR3w_42.874713_-87.958725@1294253271"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462591144,
     "wof:geomhash":"98689accfa93d3cc04905f91dc1401ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":789864577
+        }
+    ],
     "wof:id":789864577,
-    "wof:lastmodified":1467090205,
+    "wof:lastmodified":1492098699,
     "wof:name":"Top Maker LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

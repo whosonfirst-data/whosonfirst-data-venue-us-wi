@@ -2,9 +2,14 @@
   "id": 807326817,
   "type": "Feature",
   "properties": {
+    "addr:full":"410 Hillside Rd Lake Geneva WI 53147",
+    "addr:housenumber":"410",
+    "addr:postcode":"53147",
+    "addr:street":"Hillside Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.462252,42.512691,-88.462252,42.512691",
     "geom:latitude":42.512691,
     "geom:longitude":-88.462252,
@@ -23,13 +28,7 @@
         "wheat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZFIRWe9bV5Ol5Es21Iaas_42.512691_-88.462252@1294253271"
@@ -37,18 +36,9 @@
     "wof:country":"US",
     "wof:created":1462606152,
     "wof:geomhash":"837a0c2ceb61243e35fb609256478ad2",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":807326817
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807326817,
-    "wof:lastmodified":1467090608,
+    "wof:lastmodified":1492087971,
     "wof:name":"Steven Loudenbeck",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

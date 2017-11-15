@@ -2,14 +2,20 @@
   "id": 806789995,
   "type": "Feature",
   "properties": {
+    "addr:full":"3429 Co Hwy H Lake Geneva WI 53147",
+    "addr:housenumber":"3429",
+    "addr:postcode":"53147",
+    "addr:street":"Co Hwy H",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.476891,42.616524,-88.476891,42.616524",
     "geom:latitude":42.616524,
     "geom:longitude":-88.476891,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3429 Co Hwy H",
     "sg:city":"Lake Geneva",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081883,
         85812017
     ],
+    "wof:brand_id":1125156855,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UdmNn2ty1z4kvgCw6nyPW_42.616524_-88.476891@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601104,
-    "wof:geomhash":"55fabf4ecfa322f0d60d62b1799d3708",
+    "wof:geomhash":"2538eaae63a91291b54c9157118f25d0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806789995,
-    "wof:lastmodified":1467090462,
+    "wof:lastmodified":1510694079,
     "wof:name":"Sugar Shack",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

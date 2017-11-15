@@ -2,9 +2,14 @@
   "id": 387878311,
   "type": "Feature",
   "properties": {
+    "addr:full":"5418 Blue Bill Park Dr S Madison WI 53597",
+    "addr:housenumber":"5418",
+    "addr:postcode":"53597",
+    "addr:street":"Blue Bill Park Dr S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.410401,43.152209,-89.410401,43.152209",
     "geom:latitude":43.152209,
     "geom:longitude":-89.410401,
@@ -27,31 +32,16 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        102081795,
-        85868279
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4id0zcQ7ExR0i7ID3wq4ih_43.152209_-89.410401@1294253271"
     },
     "wof:country":"US",
     "wof:geomhash":"21ee389c7d8e3c6bd89ac9685110016a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081795,
-            "locality_id":-1,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":387878311
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":387878311,
-    "wof:lastmodified":1467089927,
+    "wof:lastmodified":1491935705,
     "wof:name":"Kelley Williamson Mobil",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

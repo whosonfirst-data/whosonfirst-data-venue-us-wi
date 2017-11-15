@@ -2,14 +2,20 @@
   "id": 773817547,
   "type": "Feature",
   "properties": {
+    "addr:full":"608 N 1st Ave St Nazianz WI 54232",
+    "addr:housenumber":"608",
+    "addr:postcode":"54232",
+    "addr:street":"N 1St Ave St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.926469,44.015274,-87.926469,44.015274",
     "geom:latitude":44.015274,
     "geom:longitude":-87.926469,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"608 N 1st Ave",
     "sg:city":"St Nazianz",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":1125152633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qPgpYi9eeZV1ZFR24aaKC_44.015274_-87.926469@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588613,
-    "wof:geomhash":"864e0e2a4abfe9d0449339ed36d292d8",
+    "wof:geomhash":"6bd96dbcf67b714eca658211e4294620",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773817547,
-    "wof:lastmodified":1467090141,
+    "wof:lastmodified":1510697377,
     "wof:name":"Waste Water Treatment Plant",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807095591,
   "type": "Feature",
   "properties": {
+    "addr:full":"2500 N Lynndale Dr Appleton WI 54914",
+    "addr:housenumber":"2500",
+    "addr:postcode":"54914",
+    "addr:street":"N Lynndale Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.446487,44.285245,-88.446487,44.285245",
     "geom:latitude":44.285245,
     "geom:longitude":-88.446487,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2500 N Lynndale Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":420575363,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37fsiBMfJWfCimO4DoKXIJ_44.285245_-88.446487@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603670,
-    "wof:geomhash":"0dcf9f5b0845570590d07d4457b785fa",
+    "wof:geomhash":"d4f959eacb0e258f006a5ff10f54e7a0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807095591,
-    "wof:lastmodified":1467090534,
+    "wof:lastmodified":1510602458,
     "wof:name":"ADT Security Services Inc",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

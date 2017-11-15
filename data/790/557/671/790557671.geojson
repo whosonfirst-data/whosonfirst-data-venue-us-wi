@@ -2,14 +2,20 @@
   "id": 790557671,
   "type": "Feature",
   "properties": {
+    "addr:full":"3812 W Burleigh St Milwaukee WI 53210",
+    "addr:housenumber":"3812",
+    "addr:postcode":"53210",
+    "addr:street":"W Burleigh St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.961973,43.075275,-87.961973,43.075275",
     "geom:latitude":43.075275,
     "geom:longitude":-87.961973,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3812 W Burleigh St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":420575631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2l13pl7EOfBdO8w3etFOZu_43.075275_-87.961973@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596858,
-    "wof:geomhash":"7fea403bf14553c640a1508222f2cd48",
+    "wof:geomhash":"b116fdc67d017ccf3e35cc3e389a3168",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790557671,
-    "wof:lastmodified":1467090345,
+    "wof:lastmodified":1510601968,
     "wof:name":"Children's World Learning Ctr",
     "wof:parent_id":85870825,
     "wof:placetype":"venue",

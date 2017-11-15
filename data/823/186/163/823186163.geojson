@@ -2,6 +2,10 @@
   "id": 823186163,
   "type": "Feature",
   "properties": {
+    "addr:full":"5005 University Ave # 160 Madison WI 53705",
+    "addr:housenumber":"5005;160",
+    "addr:postcode":"53705",
+    "addr:street":"University Ave #",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":823186163,
-    "wof:lastmodified":1467090663,
+    "wof:lastmodified":1472654047,
     "wof:name":"Innovative Health Clinic",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",

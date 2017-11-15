@@ -2,9 +2,14 @@
   "id": 370148023,
   "type": "Feature",
   "properties": {
+    "addr:full":"7233 N 38th St Milwaukee WI 53209",
+    "addr:housenumber":"7233",
+    "addr:postcode":"53209",
+    "addr:street":"N 38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.959238,43.148811,-87.959238,43.148811",
     "geom:latitude":43.148811,
     "geom:longitude":-87.959238,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870811,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870811
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"08252cc737f8c7b4219d6c20703f5ed5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870811,
             "region_id":85688517,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":370148023,
-    "wof:lastmodified":1467089906,
+    "wof:lastmodified":1491915717,
     "wof:name":"A Mixture of Fun and Learning",
     "wof:parent_id":85870811,
     "wof:placetype":"venue",

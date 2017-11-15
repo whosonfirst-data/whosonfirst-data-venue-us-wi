@@ -2,9 +2,14 @@
   "id": 790527355,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 Kingston Way Waunakee WI 53597",
+    "addr:housenumber":"109",
+    "addr:postcode":"53597",
+    "addr:street":"Kingston Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.45539,43.18175,-89.45539,43.18175",
     "geom:latitude":43.18175,
     "geom:longitude":-89.45539,
@@ -28,12 +33,7 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RPt3tHuJHOFRUgEBZh46f_43.181750_-89.455390@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462596601,
     "wof:geomhash":"6301b84f7fc22622d18c2f2d02286f1f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790527355
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790527355,
-    "wof:lastmodified":1467090338,
+    "wof:lastmodified":1491935728,
     "wof:name":"Radel Ventures LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

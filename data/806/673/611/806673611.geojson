@@ -2,14 +2,20 @@
   "id": 806673611,
   "type": "Feature",
   "properties": {
+    "addr:full":"2410 Pennsylvania Ave Madison WI 53704",
+    "addr:housenumber":"2410",
+    "addr:postcode":"53704",
+    "addr:street":"Pennsylvania Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.357917,43.106697,-89.357917,43.106697",
     "geom:latitude":43.106697,
     "geom:longitude":-89.357917,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2410 Pennsylvania Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125157087,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ystXrnXPvEdQ91Z4mBJLG_43.106697_-89.357917@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600113,
-    "wof:geomhash":"3cbe3f495b1b6ad32edbed24350d703b",
+    "wof:geomhash":"567622f055128af69d52e69840b06eaf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806673611,
-    "wof:lastmodified":1467090435,
+    "wof:lastmodified":1510693785,
     "wof:name":"US Army Reserve Ctr",
     "wof:parent_id":85878841,
     "wof:placetype":"venue",

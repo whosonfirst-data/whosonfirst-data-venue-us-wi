@@ -2,14 +2,20 @@
   "id": 790126161,
   "type": "Feature",
   "properties": {
+    "addr:full":"1732 Eagan Rd Madison WI 53704",
+    "addr:housenumber":"1732",
+    "addr:postcode":"53704",
+    "addr:street":"Eagan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.308604,43.124187,-89.308604,43.124187",
     "geom:latitude":43.124187,
     "geom:longitude":-89.308604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1732 Eagan Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125152959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fcDzRtNgeD7rst4cS5GhE_43.124187_-89.308604@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593335,
-    "wof:geomhash":"278a101880b14a58e3d022b21e58b7ae",
+    "wof:geomhash":"46a5fc1642497ab7a6124982fc86af18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790126161,
-    "wof:lastmodified":1467090256,
+    "wof:lastmodified":1510699013,
     "wof:name":"Learning Express",
     "wof:parent_id":85878851,
     "wof:placetype":"venue",

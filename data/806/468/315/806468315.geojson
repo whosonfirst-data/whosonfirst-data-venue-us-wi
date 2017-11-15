@@ -2,9 +2,14 @@
   "id": 806468315,
   "type": "Feature",
   "properties": {
+    "addr:full":"218 South Rd Genoa City WI 53128",
+    "addr:housenumber":"218",
+    "addr:postcode":"53128",
+    "addr:street":"South Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.311564,42.497926,-88.311564,42.497926",
     "geom:latitude":42.497926,
     "geom:longitude":-88.311564,
@@ -26,11 +31,13 @@
     "sg:website":"www.wgfloor.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85865441,
+        102191575,
+        404494891,
         85633793,
         101733599,
         102081763,
-        85865441
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +48,10 @@
     "wof:geomhash":"1af1276b6748eba9fa851dcc2e4a0737",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
+            "localadmin_id":404494891,
             "locality_id":101733599,
             "neighbourhood_id":85865441,
             "region_id":85688517,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":806468315,
-    "wof:lastmodified":1467090387,
+    "wof:lastmodified":1492103416,
     "wof:name":"Sto-Cote",
     "wof:parent_id":85865441,
     "wof:placetype":"venue",

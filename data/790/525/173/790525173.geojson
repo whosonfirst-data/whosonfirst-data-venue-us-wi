@@ -2,14 +2,20 @@
   "id": 790525173,
   "type": "Feature",
   "properties": {
+    "addr:full":"1450 W Main Ave De Pere WI 54115",
+    "addr:housenumber":"1450",
+    "addr:postcode":"54115",
+    "addr:street":"W Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.104662,44.458472,-88.104662,44.458472",
     "geom:latitude":44.458472,
     "geom:longitude":-88.104662,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1450 W Main Ave",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125154489,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Vs8MRoXm9iN3hxxekQvrD_44.458472_-88.104662@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596585,
-    "wof:geomhash":"fb9d23b5d441f9b120a3885ebd0abbbe",
+    "wof:geomhash":"bfeeea0bb30dc01ada7f16632b0325a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790525173,
-    "wof:lastmodified":1467090338,
+    "wof:lastmodified":1510695960,
     "wof:name":"Shopko",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790207989,
   "type": "Feature",
   "properties": {
+    "addr:full":"8617 Fairway Pl Middleton WI 53562",
+    "addr:housenumber":"8617",
+    "addr:postcode":"53562",
+    "addr:street":"Fairway Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.533465,43.10309,-89.533465,43.10309",
     "geom:latitude":43.10309,
     "geom:longitude":-89.533465,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"b5b6d0f6532cbaec9f3212a088bff7ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":790207989,
-    "wof:lastmodified":1467090272,
+    "wof:lastmodified":1491894017,
     "wof:name":"J K Machine Design-Fabricators",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

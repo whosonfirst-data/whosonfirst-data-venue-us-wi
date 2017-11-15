@@ -2,9 +2,14 @@
   "id": 790355549,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 S Kinnickinnic Ave Milwaukee WI 53207",
+    "addr:housenumber":"2201",
+    "addr:postcode":"53207",
+    "addr:street":"S Kinnickinnic Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.904749,43.003557,-87.904749,43.003557",
     "geom:latitude":43.003557,
     "geom:longitude":-87.904749,
@@ -34,7 +39,8 @@
         85633793,
         101732987,
         102081837,
-        85688517
+        85688517,
+        85870973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +59,22 @@
             "neighbourhood_id":85870847,
             "region_id":85688517,
             "venue_id":790355549
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870973,
+            "region_id":85688517,
+            "venue_id":790355549
         }
     ],
     "wof:id":790355549,
-    "wof:lastmodified":1467090302,
+    "wof:lastmodified":1492095298,
     "wof:name":"Bayview Area Redcats",
-    "wof:parent_id":85870847,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

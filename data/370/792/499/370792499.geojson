@@ -2,9 +2,14 @@
   "id": 370792499,
   "type": "Feature",
   "properties": {
+    "addr:full":"4624 35th Ave Kenosha WI 53144",
+    "addr:housenumber":"4624",
+    "addr:postcode":"53144",
+    "addr:street":"35Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.851396,42.594063,-87.851396,42.594063",
     "geom:latitude":42.594063,
     "geom:longitude":-87.851396,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85810813,
+        102191575,
+        404493393,
         85633793,
         101732567,
         102081309,
-        85810813
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"918dcd00ffda5d64b0b78e7457848a8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081309,
+            "localadmin_id":404493393,
             "locality_id":101732567,
             "neighbourhood_id":85810813,
             "region_id":85688517,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":370792499,
-    "wof:lastmodified":1467089900,
+    "wof:lastmodified":1492097565,
     "wof:name":"Duanna's Little Rascals",
     "wof:parent_id":85810813,
     "wof:placetype":"venue",

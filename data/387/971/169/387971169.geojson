@@ -2,14 +2,20 @@
   "id": 387971169,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 W Pleasant St Portage WI 53901",
+    "addr:housenumber":"211",
+    "addr:postcode":"53901",
+    "addr:street":"W Pleasant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.462653,43.540959,-89.462653,43.540959",
     "geom:latitude":43.540959,
     "geom:longitude":-89.462653,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"211 W Pleasant St",
     "sg:city":"Portage",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101733203,
         102081841
     ],
+    "wof:brand_id":1125150139,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SccuGJpcKlU6vyISZMh0Q_43.540959_-89.462653@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"6612640903b8356c78b87e3e71fe90ff",
+    "wof:geomhash":"14009975a4612a104e11991c30d4cbdd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387971169,
-    "wof:lastmodified":1467089927,
+    "wof:lastmodified":1510696879,
     "wof:name":"St John's Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806785287,
   "type": "Feature",
   "properties": {
+    "addr:full":"5319 41st St Kenosha WI 53144",
+    "addr:housenumber":"5319",
+    "addr:postcode":"53144",
+    "addr:street":"41St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.87228,42.599518,-87.87228,42.599518",
     "geom:latitude":42.599518,
     "geom:longitude":-87.87228,
@@ -28,7 +33,14 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493393,
+        85633793,
+        101732567,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0n3h2K8oAalvgD7B7jruY3_42.599518_-87.872280@1294253271"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462601063,
     "wof:geomhash":"6ebe09faf2ec1795b7091d898fe2a45f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493393,
+            "locality_id":101732567,
+            "region_id":85688517,
+            "venue_id":806785287
+        }
+    ],
     "wof:id":806785287,
-    "wof:lastmodified":1467090460,
+    "wof:lastmodified":1492103541,
     "wof:name":"Technet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

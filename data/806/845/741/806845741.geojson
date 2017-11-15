@@ -2,9 +2,14 @@
   "id": 806845741,
   "type": "Feature",
   "properties": {
+    "addr:full":"7680 Big Bend Dr Big Bend WI 53103",
+    "addr:housenumber":"7680",
+    "addr:postcode":"53103",
+    "addr:street":"Big Bend Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.212216,42.905359,-88.212216,42.905359",
     "geom:latitude":42.905359,
     "geom:longitude":-88.212216,
@@ -30,7 +35,15 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420550231,
+        102191575,
+        404495679,
+        85633793,
+        101733515,
+        102081741,
+        85688517
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7b3hQT2u15qWDM4YX2wXFM_42.905359_-88.212216@1294253271"
@@ -38,9 +51,20 @@
     "wof:country":"US",
     "wof:created":1462601570,
     "wof:geomhash":"23c0e452449581816dc6c020f0fc6442",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081741,
+            "localadmin_id":404495679,
+            "locality_id":101733515,
+            "neighbourhood_id":420550231,
+            "region_id":85688517,
+            "venue_id":806845741
+        }
+    ],
     "wof:id":806845741,
-    "wof:lastmodified":1467090474,
+    "wof:lastmodified":1492098697,
     "wof:name":"Moraine Displays Inc",
     "wof:parent_id":420550231,
     "wof:placetype":"venue",

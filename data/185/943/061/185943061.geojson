@@ -2,9 +2,14 @@
   "id": 185943061,
   "type": "Feature",
   "properties": {
+    "addr:full":"138 E Geneva Sq Lake Geneva WI 53147",
+    "addr:housenumber":"138",
+    "addr:postcode":"53147",
+    "addr:street":"E Geneva Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.424764,42.606551,-88.424764,42.606551",
     "geom:latitude":42.606551,
     "geom:longitude":-88.424764,
@@ -30,32 +35,16 @@
         "furnishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ah159kmzF3nfffDILzJO3_42.606551_-88.424764@1294253271"
     },
     "wof:country":"US",
     "wof:geomhash":"d973fc1763201cedceef0f4079edcab6",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":185943061
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":185943061,
-    "wof:lastmodified":1467089884,
+    "wof:lastmodified":1492108874,
     "wof:name":"Paper Dolls Ltd",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

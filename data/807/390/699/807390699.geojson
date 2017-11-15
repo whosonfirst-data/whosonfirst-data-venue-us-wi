@@ -2,9 +2,14 @@
   "id": 807390699,
   "type": "Feature",
   "properties": {
+    "addr:full":"8255 McHenry St Burlington WI 53105",
+    "addr:housenumber":"8255",
+    "addr:postcode":"53105",
+    "addr:street":"Mchenry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.300797,42.621399,-88.300797,42.621399",
     "geom:latitude":42.621399,
     "geom:longitude":-88.300797,
@@ -28,7 +33,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494891,
+        85633793,
+        101733599,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PVbwh34UWBdzdy7LlyrD1_42.621399_-88.300797@1303262806"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462607081,
     "wof:geomhash":"05bceb14dc6c0be355c6cee7f26dd155",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494891,
+            "locality_id":101733599,
+            "region_id":85688517,
+            "venue_id":807390699
+        }
+    ],
     "wof:id":807390699,
-    "wof:lastmodified":1467090634,
+    "wof:lastmodified":1492102984,
     "wof:name":"Advantage Autobody Specialist Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

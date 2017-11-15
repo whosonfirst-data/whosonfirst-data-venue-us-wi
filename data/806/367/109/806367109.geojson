@@ -2,9 +2,14 @@
   "id": 806367109,
   "type": "Feature",
   "properties": {
+    "addr:full":"1302 Falcon Ct Middleton WI 53562",
+    "addr:housenumber":"1302",
+    "addr:postcode":"53562",
+    "addr:street":"Falcon Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.518316,43.085812,-89.518316,43.085812",
     "geom:latitude":43.085812,
     "geom:longitude":-89.518316,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"50d202540b67dca65e1aa448f17ac61f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":806367109,
-    "wof:lastmodified":1467090363,
+    "wof:lastmodified":1491893995,
     "wof:name":"Herrling Construction",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

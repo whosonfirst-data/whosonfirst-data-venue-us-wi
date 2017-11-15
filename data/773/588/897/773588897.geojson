@@ -2,9 +2,14 @@
   "id": 773588897,
   "type": "Feature",
   "properties": {
+    "addr:full":"4001 W Capitol Dr Milwaukee WI 53216",
+    "addr:housenumber":"4001",
+    "addr:postcode":"53216",
+    "addr:street":"W Capitol Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.964225,43.089822,-87.964225,43.089822",
     "geom:latitude":43.089822,
     "geom:longitude":-87.964225,
@@ -31,7 +36,8 @@
         85633793,
         101732987,
         102081837,
-        85688517
+        85688517,
+        85870907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +56,22 @@
             "neighbourhood_id":85870825,
             "region_id":85688517,
             "venue_id":773588897
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870907,
+            "region_id":85688517,
+            "venue_id":773588897
         }
     ],
     "wof:id":773588897,
-    "wof:lastmodified":1467090088,
+    "wof:lastmodified":1491926533,
     "wof:name":"Blood Pressure In AA Families",
-    "wof:parent_id":85870825,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

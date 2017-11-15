@@ -2,14 +2,20 @@
   "id": 807190145,
   "type": "Feature",
   "properties": {
+    "addr:full":"2660 N Mayfair Rd Milwaukee WI 53222",
+    "addr:housenumber":"2660",
+    "addr:postcode":"53222",
+    "addr:street":"N Mayfair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.047612,43.060747,-88.047612,43.060747",
     "geom:latitude":43.060747,
     "geom:longitude":-88.047612,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2660 N Mayfair Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125153569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1H3ELblgVRXrgj06XUa07M_43.060747_-88.047612@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604691,
-    "wof:geomhash":"a679a83c19cdd52e942c030bc93129d6",
+    "wof:geomhash":"94f794e650fa8ea723646d907bc8a773",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807190145,
-    "wof:lastmodified":1467090564,
+    "wof:lastmodified":1510693206,
     "wof:name":"U S Bank National Association",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",

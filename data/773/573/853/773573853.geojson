@@ -2,14 +2,20 @@
   "id": 773573853,
   "type": "Feature",
   "properties": {
+    "addr:full":"1634 S 108th St Milwaukee WI 53214",
+    "addr:housenumber":"1634",
+    "addr:postcode":"53214",
+    "addr:street":"S 108Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.046821,43.014801,-88.046821,43.014801",
     "geom:latitude":43.014801,
     "geom:longitude":-88.046821,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1634 S 108th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125155213,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NbSoLgnheZKjGaymJxEDT_43.014801_-88.046821@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586758,
-    "wof:geomhash":"5ec184abe13de96a8136dbe5c15c0635",
+    "wof:geomhash":"3511271284b185719abe0126b864b4a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773573853,
-    "wof:lastmodified":1467090085,
+    "wof:lastmodified":1510695369,
     "wof:name":"Allied Building Products Corp",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",

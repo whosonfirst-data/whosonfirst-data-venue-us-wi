@@ -2,9 +2,14 @@
   "id": 789938277,
   "type": "Feature",
   "properties": {
+    "addr:full":"3475 Springfield Rd Lake Geneva WI 53147",
+    "addr:housenumber":"3475",
+    "addr:postcode":"53147",
+    "addr:street":"Springfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.478068,42.617459,-88.478068,42.617459",
     "geom:latitude":42.617459,
     "geom:longitude":-88.478068,
@@ -25,13 +30,7 @@
     "sg:province":"WI",
     "sg:website":"www.dynastybi.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07Yw60XsrkRoirkr8t8Q1p_42.617459_-88.478068@1294253271"
@@ -39,18 +38,9 @@
     "wof:country":"US",
     "wof:created":1462591775,
     "wof:geomhash":"af8c35feaf0cdb7e0bbcf6c3cf1cfac9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":789938277
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789938277,
-    "wof:lastmodified":1467090219,
+    "wof:lastmodified":1492103455,
     "wof:name":"DEG Music Products Inc",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 404190163,
   "type": "Feature",
   "properties": {
+    "addr:full":"6200 W Bluemound Rd Milwaukee WI 53213",
+    "addr:housenumber":"6200",
+    "addr:postcode":"53213",
+    "addr:street":"W Bluemound Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.991059,43.036252,-87.991059,43.036252",
     "geom:latitude":43.036252,
     "geom:longitude":-87.991059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6200 W Bluemound Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102081837,
         85870887
     ],
+    "wof:brand_id":1125157981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OY6CzS98yUzI9VraXeLE8_43.036252_-87.991059@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"53f20f3639fa9e59abcce55cffac6a79",
+    "wof:geomhash":"a0fe757b3dbcb36c92d5a3f280baf6de",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":404190163,
-    "wof:lastmodified":1467089911,
+    "wof:lastmodified":1510694790,
     "wof:name":"Teamsters Local Union",
     "wof:parent_id":85870887,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806930327,
   "type": "Feature",
   "properties": {
+    "addr:full":"5510 22nd St Kenosha WI 53144",
+    "addr:housenumber":"5510",
+    "addr:postcode":"53144",
+    "addr:street":"22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.870705,42.619626,-87.870705,42.619626",
     "geom:latitude":42.619626,
     "geom:longitude":-87.870705,
@@ -28,7 +33,13 @@
         "perfume"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493407,
+        85633793,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Z37bZEA7ksyR71PD4TcNE_42.619626_-87.870705@1294253271"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462602278,
     "wof:geomhash":"f7508211c0103a4774a14e031ed9c83e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493407,
+            "region_id":85688517,
+            "venue_id":806930327
+        }
+    ],
     "wof:id":806930327,
-    "wof:lastmodified":1467090493,
+    "wof:lastmodified":1492103542,
     "wof:name":"Brandie Smiddy Avon Consultant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

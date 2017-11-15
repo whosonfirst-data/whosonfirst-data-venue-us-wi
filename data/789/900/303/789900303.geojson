@@ -2,9 +2,14 @@
   "id": 789900303,
   "type": "Feature",
   "properties": {
+    "addr:full":"731 W Main St Lake Geneva WI 53147",
+    "addr:housenumber":"731",
+    "addr:postcode":"53147",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.434861,42.591803,-88.434861,42.591803",
     "geom:latitude":42.591803,
     "geom:longitude":-88.434861,
@@ -27,13 +32,7 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EGYCAzsqTvojWJkl1YiRu_42.591803_-88.434861@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462591448,
     "wof:geomhash":"31f8eeb051959e93932478c07e1a1dfe",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":789900303
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789900303,
-    "wof:lastmodified":1467090212,
+    "wof:lastmodified":1492111900,
     "wof:name":"Bouquet's Of Lake Geneva",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

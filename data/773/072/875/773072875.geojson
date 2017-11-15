@@ -2,14 +2,20 @@
   "id": 773072875,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 Owen Rd Madison WI 53716",
+    "addr:housenumber":"112",
+    "addr:postcode":"53716",
+    "addr:street":"Owen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.326967,43.05694,-89.326967,43.05694",
     "geom:latitude":43.05694,
     "geom:longitude":-89.326967,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"112 Owen Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":420575173,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CqJL2RxnCC2rDKoc8Z7sA_43.056940_-89.326967@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462582955,
-    "wof:geomhash":"74941ab0820d6ee31f4e2984fc3df88d",
+    "wof:geomhash":"9590fe95a8d9f469e3161a57bb627054",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773072875,
-    "wof:lastmodified":1467089955,
+    "wof:lastmodified":1510602718,
     "wof:name":"United States Postal Service",
     "wof:parent_id":85878847,
     "wof:placetype":"venue",

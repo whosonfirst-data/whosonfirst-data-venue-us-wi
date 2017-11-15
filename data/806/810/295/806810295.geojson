@@ -2,9 +2,14 @@
   "id": 806810295,
   "type": "Feature",
   "properties": {
+    "addr:full":"1501 Wexford Dr Waunakee WI 53597",
+    "addr:housenumber":"1501",
+    "addr:postcode":"53597",
+    "addr:street":"Wexford Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.444712,43.181349,-89.444712,43.181349",
     "geom:latitude":43.181349,
     "geom:longitude":-89.444712,
@@ -27,12 +32,7 @@
         "map"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xlKVrI6kNxnrRFM676yVu_43.181349_-89.444712@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462601267,
     "wof:geomhash":"76af097d6eca358bd3e8a82f46909981",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806810295
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806810295,
-    "wof:lastmodified":1467090466,
+    "wof:lastmodified":1491935719,
     "wof:name":"Magellan Mapping Co",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

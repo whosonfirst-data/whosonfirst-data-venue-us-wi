@@ -2,14 +2,20 @@
   "id": 806392513,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 E Towne Mall Madison WI 53704",
+    "addr:housenumber":"24",
+    "addr:postcode":"53704",
+    "addr:street":"E Towne Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.304435,43.127967,-89.304435,43.127967",
     "geom:latitude":43.127967,
     "geom:longitude":-89.304435,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"24 E Towne Mall",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125152599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59SLIRZbJ0yGI8RZ4VCF1u_43.127967_-89.304435@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462597775,
-    "wof:geomhash":"bdd1437886763fd9af81d6853e1d9a4b",
+    "wof:geomhash":"dc3dcfdf8f192c396f877c5cc3b0c87f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806392513,
-    "wof:lastmodified":1467090369,
+    "wof:lastmodified":1510695218,
     "wof:name":"Hot Topic Inc",
     "wof:parent_id":85878851,
     "wof:placetype":"venue",

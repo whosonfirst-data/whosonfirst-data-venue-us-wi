@@ -2,9 +2,14 @@
   "id": 773310129,
   "type": "Feature",
   "properties": {
+    "addr:full":"532 Mary Knoll Ct Twin Lakes WI 53181",
+    "addr:housenumber":"532",
+    "addr:postcode":"53181",
+    "addr:street":"Mary Knoll Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.24831,42.519817,-88.24831,42.519817",
     "geom:latitude":42.519817,
     "geom:longitude":-88.24831,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493323,
+        85633793,
+        101732579,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0h3habtPuhjguXTR82qJAd_42.519817_-88.248310@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462584763,
     "wof:geomhash":"6e663a0b9a434d5b91c2f5f2713dcc9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493323,
+            "locality_id":101732579,
+            "region_id":85688517,
+            "venue_id":773310129
+        }
+    ],
     "wof:id":773310129,
-    "wof:lastmodified":1467090024,
+    "wof:lastmodified":1492087966,
     "wof:name":"Richard Sayers Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

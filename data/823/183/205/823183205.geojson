@@ -2,14 +2,20 @@
   "id": 823183205,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 S Main St Edgerton WI 53534",
+    "addr:housenumber":"1",
+    "addr:postcode":"53534",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.069458,42.8335,-89.069458,42.8335",
     "geom:latitude":42.8335,
     "geom:longitude":-89.069458,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 S Main St",
     "sg:city":"Edgerton",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85836935,
         102081829
     ],
+    "wof:brand_id":1125155015,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PiH7Vg38seiw2w7RqMnPp_42.833500_-89.069458@1303262811"
     },
     "wof:country":"US",
     "wof:created":1462608105,
-    "wof:geomhash":"124597c4dff87b2a3dfb3f99ee82e244",
+    "wof:geomhash":"022135faf8a4d7a9f63bda9178d41e7d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":823183205,
-    "wof:lastmodified":1467090662,
+    "wof:lastmodified":1510700056,
     "wof:name":"Hot Stuff Pizza",
     "wof:parent_id":85836935,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807145581,
   "type": "Feature",
   "properties": {
+    "addr:full":"6800 Washington Ave Racine WI 53406",
+    "addr:housenumber":"6800",
+    "addr:postcode":"53406",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.862961,42.719265,-87.862961,42.719265",
     "geom:latitude":42.719265,
     "geom:longitude":-87.862961,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6800 Washington Ave",
     "sg:city":"Racine",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081763,
         85688517
     ],
+    "wof:brand_id":420575915,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sglFJ6KuTxndZEEh6uY7W_42.719265_-87.862961@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604219,
-    "wof:geomhash":"695fcab18cb216d5ad8cc7c5da4fc809",
+    "wof:geomhash":"650ddd96129a0aae250bc6cc130cf934",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807145581,
-    "wof:lastmodified":1467090550,
+    "wof:lastmodified":1510602848,
     "wof:name":"Chicago Title Insurance Co",
     "wof:parent_id":85854859,
     "wof:placetype":"venue",

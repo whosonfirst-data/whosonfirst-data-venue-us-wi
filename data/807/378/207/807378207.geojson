@@ -2,6 +2,10 @@
   "id": 807378207,
   "type": "Feature",
   "properties": {
+    "addr:full":"555 S Executive Dr Fl 2 Brookfield WI 53005",
+    "addr:housenumber":"555;2",
+    "addr:postcode":"53005",
+    "addr:street":"S Executive Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":807378207,
-    "wof:lastmodified":1467090629,
+    "wof:lastmodified":1472654563,
     "wof:name":"AT&T",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",

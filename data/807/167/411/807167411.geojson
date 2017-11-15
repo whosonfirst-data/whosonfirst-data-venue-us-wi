@@ -2,9 +2,14 @@
   "id": 807167411,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 S Shore Dr Delavan WI 53115",
+    "addr:housenumber":"2501",
+    "addr:postcode":"53115",
+    "addr:street":"S Shore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.596618,42.602792,-88.596618,42.602792",
     "geom:latitude":42.602792,
     "geom:longitude":-88.596618,
@@ -30,7 +35,10 @@
         "blown"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_625ZPxbf8YU5rNxPc5O4uP_42.602792_-88.596618@1294253271"
@@ -38,11 +46,17 @@
     "wof:country":"US",
     "wof:created":1462604453,
     "wof:geomhash":"934c8faae3de919235ac69d08ccb711e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550197,
+            "venue_id":807167411
+        }
+    ],
     "wof:id":807167411,
-    "wof:lastmodified":1467090558,
+    "wof:lastmodified":1492098952,
     "wof:name":"Gifford Collections LLC",
-    "wof:parent_id":420550177,
+    "wof:parent_id":420550197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

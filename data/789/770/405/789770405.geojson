@@ -2,9 +2,14 @@
   "id": 789770405,
   "type": "Feature",
   "properties": {
+    "addr:full":"28916 Beach Dr Waterford WI 53185",
+    "addr:housenumber":"28916",
+    "addr:postcode":"53185",
+    "addr:street":"Beach Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.210099,42.809666,-88.210099,42.809666",
     "geom:latitude":42.809666,
     "geom:longitude":-88.210099,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494995,
+        85633793,
+        101733611,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47zDbiTbpEWDuVhwFFwYDD_42.809666_-88.210099@1294253271"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462590404,
     "wof:geomhash":"71473701e71a681ea6ef5b4873ef836a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494995,
+            "locality_id":101733611,
+            "region_id":85688517,
+            "venue_id":789770405
+        }
+    ],
     "wof:id":789770405,
-    "wof:lastmodified":1467090188,
+    "wof:lastmodified":1492111803,
     "wof:name":"Leo Burke Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

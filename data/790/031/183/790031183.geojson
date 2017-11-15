@@ -2,14 +2,20 @@
   "id": 790031183,
   "type": "Feature",
   "properties": {
+    "addr:full":"421 S Farwell St Eau Claire WI 54701",
+    "addr:housenumber":"421",
+    "addr:postcode":"54701",
+    "addr:street":"S Farwell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.497022,44.810072,-91.497022,44.810072",
     "geom:latitude":44.810072,
     "geom:longitude":-91.497022,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"421 S Farwell St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125152117,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wjgkY2g1n5msrXkf3hu6i_44.810072_-91.497022@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592581,
-    "wof:geomhash":"fc57a176815c30776aee0e0feff545bb",
+    "wof:geomhash":"255829e260ee314a3d95a3ca2c2ac959",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790031183,
-    "wof:lastmodified":1467090238,
+    "wof:lastmodified":1510613197,
     "wof:name":"Unitarian Universalist Church",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

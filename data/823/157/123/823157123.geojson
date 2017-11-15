@@ -2,9 +2,14 @@
   "id": 823157123,
   "type": "Feature",
   "properties": {
+    "addr:full":"2675 S 28th St Milwaukee WI 53215",
+    "addr:housenumber":"2675",
+    "addr:postcode":"53215",
+    "addr:street":"S 28Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.949341,42.996309,-87.949341,42.996309",
     "geom:latitude":42.996309,
     "geom:longitude":-87.949341,
@@ -30,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85870927,
+        85870955,
         102191575,
         404492091,
         85633793,
         101732987,
         102081837,
         85688517,
-        85870955
+        85870927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +58,7 @@
             "county_id":102081837,
             "localadmin_id":404492091,
             "locality_id":101732987,
-            "neighbourhood_id":85870927,
+            "neighbourhood_id":85870955,
             "region_id":85688517,
             "venue_id":823157123
         },
@@ -63,15 +68,15 @@
             "county_id":102081837,
             "localadmin_id":404492091,
             "locality_id":101732987,
-            "neighbourhood_id":85870955,
+            "neighbourhood_id":85870927,
             "region_id":85688517,
             "venue_id":823157123
         }
     ],
     "wof:id":823157123,
-    "wof:lastmodified":1467090651,
+    "wof:lastmodified":1492095423,
     "wof:name":"Country Stuffins",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

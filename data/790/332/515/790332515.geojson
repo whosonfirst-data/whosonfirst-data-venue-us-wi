@@ -2,9 +2,14 @@
   "id": 790332515,
   "type": "Feature",
   "properties": {
+    "addr:full":"6146 Co Hwy K Waunakee WI 53597",
+    "addr:housenumber":"6146",
+    "addr:postcode":"53597",
+    "addr:street":"Co Hwy K",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.47034,43.148375,-89.47034,43.148375",
     "geom:latitude":43.148375,
     "geom:longitude":-89.47034,
@@ -27,12 +32,7 @@
         "tattooing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sxQPVRxF7iobYixDSj9Yt_43.148375_-89.470340@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462595009,
     "wof:geomhash":"953f53c3d26812b5ff9e8a894aed069c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790332515
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790332515,
-    "wof:lastmodified":1467090297,
+    "wof:lastmodified":1491935685,
     "wof:name":"Forever Beautiful",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789807757,
   "type": "Feature",
   "properties": {
+    "addr:full":"1313 State St Union Grove WI 53182",
+    "addr:housenumber":"1313",
+    "addr:postcode":"53182",
+    "addr:street":"State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.050559,42.684038,-88.050559,42.684038",
     "geom:latitude":42.684038,
     "geom:longitude":-88.050559,
@@ -27,7 +32,14 @@
         "bean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494991,
+        85633793,
+        101732347,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oOY91mhmaibpKQpE5cFQi_42.684038_-88.050559@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462590697,
     "wof:geomhash":"56499587b91a7e4b870f2240ef741603",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494991,
+            "locality_id":101732347,
+            "region_id":85688517,
+            "venue_id":789807757
+        }
+    ],
     "wof:id":789807757,
-    "wof:lastmodified":1467090195,
+    "wof:lastmodified":1492103387,
     "wof:name":"Racine Grain Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789909685,
   "type": "Feature",
   "properties": {
+    "addr:full":"13306 US Hwy 151 Valders WI 54245",
+    "addr:housenumber":"13306",
+    "addr:postcode":"54245",
+    "addr:street":"Us Hwy 151",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.85234,44.074762,-87.85234,44.074762",
     "geom:latitude":44.074762,
     "geom:longitude":-87.85234,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13306 US Hwy 151",
     "sg:city":"Valders",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081871,
         85827947
     ],
+    "wof:brand_id":1125158623,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64b3l9YsfBuIOQ73AOgmfT_44.074762_-87.852340@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591537,
-    "wof:geomhash":"79e9937c80fb4ad37be25feb6621bfff",
+    "wof:geomhash":"7b5643f2cd80375b824ce60103597979",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789909685,
-    "wof:lastmodified":1467090214,
+    "wof:lastmodified":1510695692,
     "wof:name":"SBA Towers Inc",
     "wof:parent_id":85827947,
     "wof:placetype":"venue",

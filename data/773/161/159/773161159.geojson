@@ -2,9 +2,14 @@
   "id": 773161159,
   "type": "Feature",
   "properties": {
+    "addr:full":"5387 Mary Lake Rd Waunakee WI 53597",
+    "addr:housenumber":"5387",
+    "addr:postcode":"53597",
+    "addr:street":"Mary Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.422459,43.151828,-89.422459,43.151828",
     "geom:latitude":43.151828,
     "geom:longitude":-89.422459,
@@ -27,12 +32,7 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_332QSWccjispo2BsOAwQNb_43.151828_-89.422459@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462583599,
     "wof:geomhash":"fb2bd312f2374599d344a8a700a47a70",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773161159
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773161159,
-    "wof:lastmodified":1467089976,
+    "wof:lastmodified":1491935699,
     "wof:name":"Westport Utility Dist",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

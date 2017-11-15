@@ -2,9 +2,14 @@
   "id": 807266451,
   "type": "Feature",
   "properties": {
+    "addr:full":"6740 Burma Rd Waterford WI 53185",
+    "addr:housenumber":"",
+    "addr:postcode":"6740;53185",
+    "addr:street":"Burma Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.203206,42.810558,-88.203206,42.810558",
     "geom:latitude":42.810558,
     "geom:longitude":-88.203206,
@@ -24,7 +29,14 @@
     "sg:postcode":"53185",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494995,
+        85633793,
+        101733611,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cgDNu97NQDLE79r4KoZAW_42.810558_-88.203206@1294253271"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462605503,
     "wof:geomhash":"d2381f93f9903da6b736d1fc7d7f6bb0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494995,
+            "locality_id":101733611,
+            "region_id":85688517,
+            "venue_id":807266451
+        }
+    ],
     "wof:id":807266451,
-    "wof:lastmodified":1467090588,
+    "wof:lastmodified":1492112074,
     "wof:name":"Supreme Carpet Installati",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 403823715,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 Commerce Dr Racine WI 53406",
+    "addr:housenumber":"1100",
+    "addr:postcode":"53406",
+    "addr:street":"Commerce Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.887509,42.721716,-87.887509,42.721716",
     "geom:latitude":42.721716,
     "geom:longitude":-87.887509,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85854859,
+        102191575,
+        404494985,
         85633793,
-        101732321,
+        101732325,
         102081763,
-        85854859
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"91900e51a78a372d446ed773d0014c93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
-            "locality_id":101732321,
+            "localadmin_id":404494985,
+            "locality_id":101732325,
             "neighbourhood_id":85854859,
             "region_id":85688517,
             "venue_id":403823715
         }
     ],
     "wof:id":403823715,
-    "wof:lastmodified":1467089921,
+    "wof:lastmodified":1492108814,
     "wof:name":"Modern Woodman of America",
     "wof:parent_id":85854859,
     "wof:placetype":"venue",

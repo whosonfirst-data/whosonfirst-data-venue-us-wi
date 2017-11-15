@@ -2,14 +2,20 @@
   "id": 790032415,
   "type": "Feature",
   "properties": {
+    "addr:full":"1125 Wittmann Dr Menasha WI 54952",
+    "addr:housenumber":"1125",
+    "addr:postcode":"54952",
+    "addr:street":"Wittmann Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.425047,44.226687,-88.425047,44.226687",
     "geom:latitude":44.226687,
     "geom:longitude":-88.425047,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1125 Wittmann Dr",
     "sg:city":"Menasha",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081801,
         85807543
     ],
+    "wof:brand_id":1125157981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NOsmAj7oQRBHupLBVcfld_44.226687_-88.425047@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592590,
-    "wof:geomhash":"0ceb31f13cd21d4d410a14c0de8f2b8a",
+    "wof:geomhash":"7946f5a89406223b5dbcbd07627828fc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790032415,
-    "wof:lastmodified":1467090238,
+    "wof:lastmodified":1510694790,
     "wof:name":"Teamsters Local Union",
     "wof:parent_id":85807543,
     "wof:placetype":"venue",

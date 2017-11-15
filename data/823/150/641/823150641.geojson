@@ -2,6 +2,10 @@
   "id": 823150641,
   "type": "Feature",
   "properties": {
+    "addr:full":"2121 E Capitol Dr Apt 403 Milwaukee WI 53211",
+    "addr:housenumber":"2121;403",
+    "addr:postcode":"53211",
+    "addr:street":"E Capitol Dr Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":823150641,
-    "wof:lastmodified":1467090648,
+    "wof:lastmodified":1472653948,
     "wof:name":"Boyd",
     "wof:parent_id":85870911,
     "wof:placetype":"venue",

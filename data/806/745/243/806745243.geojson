@@ -2,14 +2,20 @@
   "id": 806745243,
   "type": "Feature",
   "properties": {
+    "addr:full":"1421 Broadway St S Menomonie WI 54751",
+    "addr:housenumber":"1421",
+    "addr:postcode":"54751",
+    "addr:street":"Broadway St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.929837,44.869928,-91.929837,44.869928",
     "geom:latitude":44.869928,
     "geom:longitude":-91.929837,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1421 Broadway St S",
     "sg:city":"Menomonie",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081747,
         85688517
     ],
+    "wof:brand_id":420575705,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JB4jYQjPJM5biGIix7OSl_44.869928_-91.929837@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600724,
-    "wof:geomhash":"22d6328f338cf8c7d0aa866271ba50b6",
+    "wof:geomhash":"dfbe17185d17400fc5b4d6dcac88feba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806745243,
-    "wof:lastmodified":1467090451,
+    "wof:lastmodified":1510614622,
     "wof:name":"Westaff",
     "wof:parent_id":85837813,
     "wof:placetype":"venue",

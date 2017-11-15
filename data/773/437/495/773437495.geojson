@@ -2,14 +2,20 @@
   "id": 773437495,
   "type": "Feature",
   "properties": {
+    "addr:full":"3311 Calumet Ave Manitowoc WI 54220",
+    "addr:housenumber":"3311",
+    "addr:postcode":"54220",
+    "addr:street":"Calumet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.690735,44.083687,-87.690735,44.083687",
     "geom:latitude":44.083687,
     "geom:longitude":-87.690735,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3311 Calumet Ave",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":1125151597,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3US8pFEphU4Jgx9e768A78_44.083687_-87.690735@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585738,
-    "wof:geomhash":"a3b4f291e054e2d129afec141c5aa65a",
+    "wof:geomhash":"a8743fd0a523ed8f5a8c42db7e85b9ff",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773437495,
-    "wof:lastmodified":1467090054,
+    "wof:lastmodified":1510693869,
     "wof:name":"Healthsouth Sports Medicine",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

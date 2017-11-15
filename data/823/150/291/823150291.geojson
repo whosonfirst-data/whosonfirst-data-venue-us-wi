@@ -2,14 +2,20 @@
   "id": 823150291,
   "type": "Feature",
   "properties": {
+    "addr:full":"3116 N Downer Ave Milwaukee WI 53211",
+    "addr:housenumber":"3116",
+    "addr:postcode":"53211",
+    "addr:street":"N Downer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.877893,43.074818,-87.877893,43.074818",
     "geom:latitude":43.074818,
     "geom:longitude":-87.877893,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3116 N Downer Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125152903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nG8oB1QhBTDjxjBTKWlcy_43.074818_-87.877893@1303262808"
     },
     "wof:country":"US",
     "wof:created":1462607671,
-    "wof:geomhash":"11b4f62e58651fa6bed424d789229c7f",
+    "wof:geomhash":"0f3979b6ac8a769bcd8c7afe9dababb9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":823150291,
-    "wof:lastmodified":1467090648,
+    "wof:lastmodified":1510695168,
     "wof:name":"Quiznos Classic Subs",
     "wof:parent_id":85870911,
     "wof:placetype":"venue",

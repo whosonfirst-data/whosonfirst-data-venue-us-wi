@@ -2,9 +2,14 @@
   "id": 789895285,
   "type": "Feature",
   "properties": {
+    "addr:full":"2015 Energy Dr East Troy WI 53120",
+    "addr:housenumber":"2015",
+    "addr:postcode":"53120",
+    "addr:street":"Energy Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.39016,42.790146,-88.39016,42.790146",
     "geom:latitude":42.790146,
     "geom:longitude":-88.39016,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"www.trenttube.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494701,
+        85633793,
+        101732243,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37scB07sQ4YmBHNhpnbd1Z_42.790146_-88.390160@1294253271"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462591407,
     "wof:geomhash":"2ecef0ca5b14d3573a9845f1a55257f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404494701,
+            "locality_id":101732243,
+            "region_id":85688517,
+            "venue_id":789895285
+        }
+    ],
     "wof:id":789895285,
-    "wof:lastmodified":1467090211,
+    "wof:lastmodified":1492103486,
     "wof:name":"Trent Tube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

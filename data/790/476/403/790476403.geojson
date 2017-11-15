@@ -2,14 +2,20 @@
   "id": 790476403,
   "type": "Feature",
   "properties": {
+    "addr:full":"16950 W Bluemound Rd Brookfield WI 53005",
+    "addr:housenumber":"16950",
+    "addr:postcode":"53005",
+    "addr:street":"W Bluemound Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.12153,43.037047,-88.12153,43.037047",
     "geom:latitude":43.037047,
     "geom:longitude":-88.12153,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16950 W Bluemound Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":420575341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bBQ30mq3UBL8HRmOBTMi3_43.037047_-88.121530@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596162,
-    "wof:geomhash":"78929f67320c7963a32c2bdb40afae34",
+    "wof:geomhash":"4ae5f2475a26e848271586bb93fc4951",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790476403,
-    "wof:lastmodified":1467090326,
+    "wof:lastmodified":1510602400,
     "wof:name":"Stein Mart",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773568553,
   "type": "Feature",
   "properties": {
+    "addr:full":"7058 Mineral Point Rd Madison WI 53717",
+    "addr:housenumber":"7058",
+    "addr:postcode":"53717",
+    "addr:street":"Mineral Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.504174,43.060764,-89.504174,43.060764",
     "geom:latitude":43.060764,
     "geom:longitude":-89.504174,
@@ -29,11 +34,13 @@
     "sg:website":"www.tqdiamonds.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"a750841564f28e171045b28ed73887ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":773568553,
-    "wof:lastmodified":1467090084,
+    "wof:lastmodified":1491893992,
     "wof:name":"T Q Diamonds",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

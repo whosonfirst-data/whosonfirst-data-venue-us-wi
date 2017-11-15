@@ -2,9 +2,14 @@
   "id": 789764255,
   "type": "Feature",
   "properties": {
+    "addr:full":"4902 Pine Cone Cir Middleton WI 53562",
+    "addr:housenumber":"4902",
+    "addr:postcode":"53562",
+    "addr:street":"Pine Cone Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.587382,43.12041,-89.587382,43.12041",
     "geom:latitude":43.12041,
     "geom:longitude":-89.587382,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"a09685962e9ea24446cdc62cc4d8af7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":789764255,
-    "wof:lastmodified":1467090186,
+    "wof:lastmodified":1491894083,
     "wof:name":"McGinley Statz Remodeling LLC",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

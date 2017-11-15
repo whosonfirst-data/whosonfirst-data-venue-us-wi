@@ -2,9 +2,14 @@
   "id": 404204993,
   "type": "Feature",
   "properties": {
+    "addr:full":"10711 S 27th St Franklin WI 53132",
+    "addr:housenumber":"10711",
+    "addr:postcode":"53132",
+    "addr:street":"S 27Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.952026,42.845386,-87.952026,42.845386",
     "geom:latitude":42.845386,
     "geom:longitude":-87.952026,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        420550135,
+        102191575,
+        404494177,
         85633793,
-        101733067,
-        102081837
+        101733079,
+        102081837,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"cd838031add83e1694c8886c23c6fc66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":101733067,
-            "neighbourhood_id":-1,
+            "localadmin_id":404494177,
+            "locality_id":101733079,
+            "neighbourhood_id":420550135,
             "region_id":85688517,
             "venue_id":404204993
         }
     ],
     "wof:id":404204993,
-    "wof:lastmodified":1467089912,
+    "wof:lastmodified":1492097571,
     "wof:name":"Car Sales",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

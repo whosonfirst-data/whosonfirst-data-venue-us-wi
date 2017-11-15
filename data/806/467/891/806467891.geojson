@@ -2,9 +2,14 @@
   "id": 806467891,
   "type": "Feature",
   "properties": {
+    "addr:full":"29200 52nd St Salem WI 53168",
+    "addr:housenumber":"29200",
+    "addr:postcode":"53168",
+    "addr:street":"52Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.164072,42.589884,-88.164072,42.589884",
     "geom:latitude":42.589884,
     "geom:longitude":-88.164072,
@@ -27,7 +32,10 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4x4Red7kCeWdv8jWdbY7Xi_42.589884_-88.164072@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462598374,
     "wof:geomhash":"28c437cef6cef5c61078f5b4e477f0a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":806467891
+        }
+    ],
     "wof:id":806467891,
-    "wof:lastmodified":1467090386,
+    "wof:lastmodified":1492103566,
     "wof:name":"Yonke Properties",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

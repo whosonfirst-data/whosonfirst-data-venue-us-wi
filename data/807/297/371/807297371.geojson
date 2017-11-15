@@ -2,14 +2,20 @@
   "id": 807297371,
   "type": "Feature",
   "properties": {
+    "addr:full":"325 S Jefferson St Green Bay WI 54301",
+    "addr:housenumber":"325",
+    "addr:postcode":"54301",
+    "addr:street":"S Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.01556,44.510005,-88.01556,44.510005",
     "geom:latitude":44.510005,
     "geom:longitude":-88.01556,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"325 S Jefferson St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125155049,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IhvPG2zJ55QDZfpDLZxfH_44.510005_-88.015560@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605825,
-    "wof:geomhash":"ab3d13b9fc7d33b65ca377a5c06b77ed",
+    "wof:geomhash":"1d9a08d368024484e56e1959180f5620",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807297371,
-    "wof:lastmodified":1467090598,
+    "wof:lastmodified":1510698725,
     "wof:name":"Royal Alliance Associates",
     "wof:parent_id":85877935,
     "wof:placetype":"venue",

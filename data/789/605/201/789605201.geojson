@@ -2,14 +2,20 @@
   "id": 789605201,
   "type": "Feature",
   "properties": {
+    "addr:full":"1918 Bartillon Dr Madison WI 53704",
+    "addr:housenumber":"1918",
+    "addr:postcode":"53704",
+    "addr:street":"Bartillon Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.323179,43.125144,-89.323179,43.125144",
     "geom:latitude":43.125144,
     "geom:longitude":-89.323179,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1918 Bartillon Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125151817,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rHTTlzNQoMf8RHdmnLRzf_43.125144_-89.323179@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462589105,
-    "wof:geomhash":"223f852f609890f4103bd4d475ff1711",
+    "wof:geomhash":"bfa3f88b7208665e848aa72af3315485",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789605201,
-    "wof:lastmodified":1467090155,
+    "wof:lastmodified":1510699271,
     "wof:name":"Airborne",
     "wof:parent_id":85878851,
     "wof:placetype":"venue",

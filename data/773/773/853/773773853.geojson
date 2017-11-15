@@ -2,9 +2,14 @@
   "id": 773773853,
   "type": "Feature",
   "properties": {
+    "addr:full":"3440 State Rd 67 Lake Geneva WI 53147",
+    "addr:housenumber":"3440;67",
+    "addr:postcode":"53147",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.540798,42.617697,-88.540798,42.617697",
     "geom:latitude":42.617697,
     "geom:longitude":-88.540798,
@@ -27,7 +32,10 @@
         "special"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46ckOj7MH7DsPOvbQYxdVi_42.617697_-88.540798@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462588270,
     "wof:geomhash":"35f7adbfe92a9649ac45ec7c2e1f1570",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550197,
+            "venue_id":773773853
+        }
+    ],
     "wof:id":773773853,
-    "wof:lastmodified":1467090131,
+    "wof:lastmodified":1492111900,
     "wof:name":"Best Storage",
     "wof:parent_id":420550197,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790408435,
   "type": "Feature",
   "properties": {
+    "addr:full":"809 Turnberry Dr Waunakee WI 53597",
+    "addr:housenumber":"809",
+    "addr:postcode":"53597",
+    "addr:street":"Turnberry Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.455402,43.20178,-89.455402,43.20178",
     "geom:latitude":43.20178,
     "geom:longitude":-89.455402,
@@ -33,12 +38,7 @@
     ],
     "sg:website":"www.ciaspeakers.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JXD9T6SUQPNeJIiJ50Kn8_43.201780_-89.455402@1294253271"
@@ -46,17 +46,9 @@
     "wof:country":"US",
     "wof:created":1462595601,
     "wof:geomhash":"9c79a53bd6a17139d2bc355746b8ca85",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790408435
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790408435,
-    "wof:lastmodified":1467090312,
+    "wof:lastmodified":1491935714,
     "wof:name":"Contemporary Issues Agency",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

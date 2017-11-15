@@ -2,9 +2,14 @@
   "id": 806874839,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 W Main St Waunakee WI 53597",
+    "addr:housenumber":"140",
+    "addr:postcode":"53597",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.455724,43.191876,-89.455724,43.191876",
     "geom:latitude":43.191876,
     "geom:longitude":-89.455724,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SxXVUvWANXHHVCPFgHica_43.191876_-89.455724@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462601811,
     "wof:geomhash":"7538231f0e57edae36dd61398afecfea",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806874839
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806874839,
-    "wof:lastmodified":1467090481,
+    "wof:lastmodified":1491935676,
     "wof:name":"Ship Shape Pet Grooming",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

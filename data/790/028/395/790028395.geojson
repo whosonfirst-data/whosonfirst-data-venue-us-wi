@@ -2,14 +2,20 @@
   "id": 790028395,
   "type": "Feature",
   "properties": {
+    "addr:full":"10400 W Innovation Dr Milwaukee WI 53226",
+    "addr:housenumber":"10400",
+    "addr:postcode":"53226",
+    "addr:street":"W Innovation Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.036497,43.040513,-88.036497,43.040513",
     "geom:latitude":43.040513,
     "geom:longitude":-88.036497,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10400 W Innovation Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125157763,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WdQ98NOGzgDDbXVlmcFFP_43.040513_-88.036497@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592562,
-    "wof:geomhash":"818219a55273d7e3ccf6ebb5a1a230d0",
+    "wof:geomhash":"c36038c4a18ec5e41332cd3bcfec7035",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790028395,
-    "wof:lastmodified":1467090237,
+    "wof:lastmodified":1510698749,
     "wof:name":"Ajilon Finance",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",

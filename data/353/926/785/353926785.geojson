@@ -2,14 +2,20 @@
   "id": 353926785,
   "type": "Feature",
   "properties": {
+    "addr:full":"1235 Menomonie St Eau Claire WI 54703",
+    "addr:housenumber":"1235",
+    "addr:postcode":"54703",
+    "addr:street":"Menomonie St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.528094,44.800049,-91.528094,44.800049",
     "geom:latitude":44.800049,
     "geom:longitude":-91.528094,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1235 Menomonie St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -40,12 +46,13 @@
         102081761,
         85848105
     ],
+    "wof:brand_id":1125151649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1p06Mv8WZlAQz2Tz5PVQQC_44.800049_-91.528094@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"fb0a68b07afee4b8632f065ae00066ac",
+    "wof:geomhash":"bfea45c35bbc7a445787190c879ca178",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":353926785,
-    "wof:lastmodified":1467089888,
+    "wof:lastmodified":1510695202,
     "wof:name":"Johnson Controls Inc",
     "wof:parent_id":85848105,
     "wof:placetype":"venue",

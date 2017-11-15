@@ -2,14 +2,20 @@
   "id": 807359819,
   "type": "Feature",
   "properties": {
+    "addr:full":"6900 N Santa Monica Blvd Milwaukee WI 53217",
+    "addr:housenumber":"6900",
+    "addr:postcode":"53217",
+    "addr:street":"N Santa Monica Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.902868,43.142111,-87.902868,43.142111",
     "geom:latitude":43.142111,
     "geom:longitude":-87.902868,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6900 N Santa Monica Blvd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125151089,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67jw3In0Qiyok8Mb5tkdX3_43.142111_-87.902868@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606647,
-    "wof:geomhash":"cac454f9b92bb8981047f74890dd4c25",
+    "wof:geomhash":"5d41848929713eea85c30a0ddd9c8d06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807359819,
-    "wof:lastmodified":1467090621,
+    "wof:lastmodified":1510695434,
     "wof:name":"Rosati's Pizza",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",

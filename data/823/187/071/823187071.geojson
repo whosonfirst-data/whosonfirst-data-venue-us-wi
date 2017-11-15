@@ -2,9 +2,14 @@
   "id": 823187071,
   "type": "Feature",
   "properties": {
+    "addr:full":"7940 Tree Ln Madison WI 53717",
+    "addr:housenumber":"7940",
+    "addr:postcode":"53717",
+    "addr:street":"Tree Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.520119,43.06258,-89.520119,43.06258",
     "geom:latitude":43.06258,
     "geom:longitude":-89.520119,
@@ -32,11 +37,13 @@
     "sg:website":"http://www.hairstation.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +54,10 @@
     "wof:geomhash":"17b5565ae0a16ed2c6325341b1762201",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":823187071,
-    "wof:lastmodified":1467090664,
+    "wof:lastmodified":1491894027,
     "wof:name":"The Hair Station",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

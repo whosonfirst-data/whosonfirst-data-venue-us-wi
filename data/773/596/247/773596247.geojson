@@ -2,9 +2,14 @@
   "id": 773596247,
   "type": "Feature",
   "properties": {
+    "addr:full":"1106 Turnberry Dr Waunakee WI 53597",
+    "addr:housenumber":"1106",
+    "addr:postcode":"53597",
+    "addr:street":"Turnberry Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.457452,43.200055,-89.457452,43.200055",
     "geom:latitude":43.200055,
     "geom:longitude":-89.457452,
@@ -27,12 +32,7 @@
         "hypnotist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NFV7K9ezRUvG62UdovUmr_43.200055_-89.457452@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462586918,
     "wof:geomhash":"3cc22c63f9e8c47c8aa59a25ebeaf999",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773596247
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773596247,
-    "wof:lastmodified":1467090090,
+    "wof:lastmodified":1491935713,
     "wof:name":"Positive Changes Hypnosis",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

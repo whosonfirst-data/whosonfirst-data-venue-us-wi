@@ -2,9 +2,14 @@
   "id": 185757189,
   "type": "Feature",
   "properties": {
+    "addr:full":"734 N 26th St Milwaukee WI 53233",
+    "addr:housenumber":"734",
+    "addr:postcode":"53233",
+    "addr:street":"N 26Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.946218,43.038852,-87.946218,43.038852",
     "geom:latitude":43.038852,
     "geom:longitude":-87.946218,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870967,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870967
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"7c81d41e8f4978de60ca68e8897ed9f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870967,
             "region_id":85688517,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":185757189,
-    "wof:lastmodified":1467089884,
+    "wof:lastmodified":1491918257,
     "wof:name":"Wisconsin Committee On Occupa",
     "wof:parent_id":85870967,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806815907,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 Williams St Williams Bay WI 53191",
+    "addr:housenumber":"230",
+    "addr:postcode":"53191",
+    "addr:street":"Williams St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.54413,42.581777,-88.54413,42.581777",
     "geom:latitude":42.581777,
     "geom:longitude":-88.54413,
@@ -27,7 +32,10 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ekf3HrVw19L3OrQWv2Bpc_42.581777_-88.544130@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462601310,
     "wof:geomhash":"6627fa7e03698b1f3ca8bbd3942ea6b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550197,
+            "venue_id":806815907
+        }
+    ],
     "wof:id":806815907,
-    "wof:lastmodified":1467090468,
+    "wof:lastmodified":1492098714,
     "wof:name":"Williams Bay Garage",
     "wof:parent_id":420550197,
     "wof:placetype":"venue",

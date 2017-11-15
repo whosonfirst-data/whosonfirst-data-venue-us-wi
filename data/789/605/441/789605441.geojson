@@ -2,14 +2,20 @@
   "id": 789605441,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Wisconsin St Eau Claire WI 54703",
+    "addr:housenumber":"800",
+    "addr:postcode":"54703",
+    "addr:street":"Wisconsin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.497554,44.815965,-91.497554,44.815965",
     "geom:latitude":44.815965,
     "geom:longitude":-91.497554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"800 Wisconsin St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125153835,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MgWhhvr1UAGVKa5P5mt0e_44.815965_-91.497554@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462589107,
-    "wof:geomhash":"8f8c6432d2318155e82b71eda779d53a",
+    "wof:geomhash":"4feec316c35c243ef1abb374a13f851a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789605441,
-    "wof:lastmodified":1467090155,
+    "wof:lastmodified":1510696918,
     "wof:name":"American Heart Association",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

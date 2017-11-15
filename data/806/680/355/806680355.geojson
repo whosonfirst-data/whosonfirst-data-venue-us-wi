@@ -2,9 +2,14 @@
   "id": 806680355,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Liechty Dr Williams Bay WI 53191",
+    "addr:housenumber":"41",
+    "addr:postcode":"53191",
+    "addr:street":"Liechty Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.542433,42.573213,-88.542433,42.573213",
     "geom:latitude":42.573213,
     "geom:longitude":-88.542433,
@@ -24,13 +29,7 @@
     "sg:postcode":"53191",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5g5R4X8nUSXV5YvnGx0vYJ_42.573213_-88.542433@1294253271"
@@ -38,18 +37,9 @@
     "wof:country":"US",
     "wof:created":1462600174,
     "wof:geomhash":"12c034cc165bcb0345c9391329edc533",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806680355
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806680355,
-    "wof:lastmodified":1467090436,
+    "wof:lastmodified":1492109457,
     "wof:name":"Stronger Than Before",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789970485,
   "type": "Feature",
   "properties": {
+    "addr:full":"960 Proctor Dr Elkhorn WI 53121",
+    "addr:housenumber":"960",
+    "addr:postcode":"53121",
+    "addr:street":"Proctor Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.532834,42.661064,-88.532834,42.661064",
     "geom:latitude":42.661064,
     "geom:longitude":-88.532834,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494705,
+        85633793,
+        101732245,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HDoxwIa73kxdGfL5gf0dN_42.661064_-88.532834@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462592085,
     "wof:geomhash":"9ae2b06c6e664410844d864a2353188a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404494705,
+            "locality_id":101732245,
+            "region_id":85688517,
+            "venue_id":789970485
+        }
+    ],
     "wof:id":789970485,
-    "wof:lastmodified":1467090226,
+    "wof:lastmodified":1492098835,
     "wof:name":"Intertractor Distribution Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

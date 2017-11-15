@@ -2,9 +2,14 @@
   "id": 790267877,
   "type": "Feature",
   "properties": {
+    "addr:full":"924 Williams St Lake Geneva WI 53147",
+    "addr:housenumber":"924",
+    "addr:postcode":"53147",
+    "addr:street":"Williams St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.43574,42.600795,-88.43574,42.600795",
     "geom:latitude":42.600795,
     "geom:longitude":-88.43574,
@@ -27,13 +32,7 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KVutJcNrhzhzuR7EQ7eCK_42.600795_-88.435740@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462594480,
     "wof:geomhash":"f5076a3113c4df9bab6fa0e5dd70d743",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":790267877
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790267877,
-    "wof:lastmodified":1467090284,
+    "wof:lastmodified":1492098827,
     "wof:name":"Chamberlain & Hennignfield",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

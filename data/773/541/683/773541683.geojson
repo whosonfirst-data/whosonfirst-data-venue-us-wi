@@ -2,9 +2,14 @@
   "id": 773541683,
   "type": "Feature",
   "properties": {
+    "addr:full":"5354 Blue Bill Park Dr S Madison WI 53704",
+    "addr:housenumber":"5354",
+    "addr:postcode":"53704",
+    "addr:street":"Blue Bill Park Dr S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.409785,43.148894,-89.409785,43.148894",
     "geom:latitude":43.148894,
     "geom:longitude":-89.409785,
@@ -27,12 +32,7 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7N00tAcwqzgJKH4uAsIEVj_43.148894_-89.409785@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462586488,
     "wof:geomhash":"f94bdd6f6322631f237e2cf0baaee15b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773541683
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773541683,
-    "wof:lastmodified":1467090078,
+    "wof:lastmodified":1491935688,
     "wof:name":"Willows Tavern",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

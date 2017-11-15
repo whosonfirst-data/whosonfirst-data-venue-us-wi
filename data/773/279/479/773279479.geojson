@@ -2,14 +2,20 @@
   "id": 773279479,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 17th St Racine WI 53403",
+    "addr:housenumber":"625",
+    "addr:postcode":"53403",
+    "addr:street":"17Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.78791,42.710776,-87.78791,42.710776",
     "geom:latitude":42.710776,
     "geom:longitude":-87.78791,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"625 17th St",
     "sg:city":"Racine",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081763,
         85688517
     ],
+    "wof:brand_id":1125155039,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NJif6VZxL0sxRNinWnteJ_42.710776_-87.787910@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584512,
-    "wof:geomhash":"7f6fc37108f27060215a78baa1290c41",
+    "wof:geomhash":"1721f6733a64bc3efc8a4846e28cb2e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773279479,
-    "wof:lastmodified":1467090012,
+    "wof:lastmodified":1510694957,
     "wof:name":"New Life Christian Fellowship",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",

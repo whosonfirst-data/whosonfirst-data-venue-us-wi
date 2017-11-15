@@ -2,9 +2,14 @@
   "id": 370617429,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 Main St Racine WI 53403",
+    "addr:housenumber":"701",
+    "addr:postcode":"53403",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.782575,42.724475,-87.782575,42.724475",
     "geom:latitude":42.724475,
     "geom:longitude":-87.782575,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85827169,
+        102191575,
+        404494985,
         85633793,
-        101732315,
+        101732325,
         102081763,
-        85827169
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"b7ee41726111a44fff21480742e11559",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
-            "locality_id":101732315,
+            "localadmin_id":404494985,
+            "locality_id":101732325,
             "neighbourhood_id":85827169,
             "region_id":85688517,
             "venue_id":370617429
         }
     ],
     "wof:id":370617429,
-    "wof:lastmodified":1467089898,
+    "wof:lastmodified":1492108888,
     "wof:name":"Racine Cnty Hstrcal Soc Museum",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",

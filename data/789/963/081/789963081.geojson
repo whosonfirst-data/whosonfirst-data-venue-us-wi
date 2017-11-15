@@ -2,14 +2,20 @@
   "id": 789963081,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 Rankin St Manitowoc WI 54220",
+    "addr:housenumber":"1901",
+    "addr:postcode":"54220",
+    "addr:street":"Rankin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.672991,44.107237,-87.672991,44.107237",
     "geom:latitude":44.107237,
     "geom:longitude":-87.672991,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1901 Rankin St",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":1125152745,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hz4g1PR5fwDvExZkJd3wz_44.107237_-87.672991@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592023,
-    "wof:geomhash":"af086504e85065323aa34ad840bdbfcd",
+    "wof:geomhash":"1354a0630934ed3f2cd9012cf05f822b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789963081,
-    "wof:lastmodified":1467090224,
+    "wof:lastmodified":1510613090,
     "wof:name":"Swimming Pool",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

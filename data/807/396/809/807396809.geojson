@@ -2,9 +2,14 @@
   "id": 807396809,
   "type": "Feature",
   "properties": {
+    "addr:full":"7449 Carter Cir S Franklin WI 53132",
+    "addr:housenumber":"7449",
+    "addr:postcode":"53132",
+    "addr:street":"Carter Cir S Franklin",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.006249,42.910775,-88.006249,42.910775",
     "geom:latitude":42.910775,
     "geom:longitude":-88.006249,
@@ -33,7 +38,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RkMsYAdxTo1ZNFxo6JSl5_42.910775_-88.006249@1303262806"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1462607206,
     "wof:geomhash":"d24257d5d40acb598540f13b5965aa0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":807396809
+        }
+    ],
     "wof:id":807396809,
-    "wof:lastmodified":1467090637,
+    "wof:lastmodified":1492111899,
     "wof:name":"Sindy S Cleaning Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

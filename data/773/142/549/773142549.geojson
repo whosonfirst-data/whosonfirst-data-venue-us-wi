@@ -2,9 +2,14 @@
   "id": 773142549,
   "type": "Feature",
   "properties": {
+    "addr:full":"1626 Evergreen Ln Lake Geneva WI 53147",
+    "addr:housenumber":"1626",
+    "addr:postcode":"53147",
+    "addr:street":"Evergreen Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.44791,42.588261,-88.44791,42.588261",
     "geom:latitude":42.588261,
     "geom:longitude":-88.44791,
@@ -27,13 +32,7 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PcARsSbuxodfNC1wSszP8_42.588261_-88.447910@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462583452,
     "wof:geomhash":"ef99b4a06a38d9031d682dd0993f7c8d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":773142549
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773142549,
-    "wof:lastmodified":1467089972,
+    "wof:lastmodified":1492097567,
     "wof:name":"Geneva Lake Boat Line Inc",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

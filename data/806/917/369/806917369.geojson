@@ -2,14 +2,20 @@
   "id": 806917369,
   "type": "Feature",
   "properties": {
+    "addr:full":"3669 Enterprise Dr Sheboygan WI 53083",
+    "addr:housenumber":"3669",
+    "addr:postcode":"53083",
+    "addr:street":"Enterprise Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.760843,43.78524,-87.760843,43.78524",
     "geom:latitude":43.78524,
     "geom:longitude":-87.760843,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3669 Enterprise Dr",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":420575451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1soS7J9MxHITKQHnCDioUv_43.785240_-87.760843@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602153,
-    "wof:geomhash":"5ec8cf3705cb267e997be10d3af283dd",
+    "wof:geomhash":"171a213d3cbf888fbab918ff4d8fd37a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806917369,
-    "wof:lastmodified":1467090490,
+    "wof:lastmodified":1510602071,
     "wof:name":"Motion Industries Inc",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

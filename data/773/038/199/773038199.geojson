@@ -2,14 +2,20 @@
   "id": 773038199,
   "type": "Feature",
   "properties": {
+    "addr:full":"3900 W Brown Deer Rd Milwaukee WI 53209",
+    "addr:housenumber":"3900",
+    "addr:postcode":"53209",
+    "addr:street":"W Brown Deer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.958421,43.178511,-87.958421,43.178511",
     "geom:latitude":43.178511,
     "geom:longitude":-87.958421,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3900 W Brown Deer Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125155729,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3X9FWUCOxwUont4NkrgubH_43.178511_-87.958421@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462582645,
-    "wof:geomhash":"2fc8b2a684a5c6475427ce6007ed8d0e",
+    "wof:geomhash":"816e170005d35147e3e7650cb5a68575",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773038199,
-    "wof:lastmodified":1467089945,
+    "wof:lastmodified":1510697286,
     "wof:name":"Carriage Cleaners",
     "wof:parent_id":85894487,
     "wof:placetype":"venue",

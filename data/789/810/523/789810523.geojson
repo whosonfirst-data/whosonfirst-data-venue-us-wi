@@ -2,14 +2,20 @@
   "id": 789810523,
   "type": "Feature",
   "properties": {
+    "addr:full":"712 S Gammon Rd Madison WI 53719",
+    "addr:housenumber":"712",
+    "addr:postcode":"53719",
+    "addr:street":"S Gammon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.503233,43.049562,-89.503233,43.049562",
     "geom:latitude":43.049562,
     "geom:longitude":-89.503233,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"712 S Gammon Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":420575539,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qk7BIDjIb4BX0jFcu3iB8_43.049562_-89.503233@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590717,
-    "wof:geomhash":"c575d571af229be1148c8b86ff7f4557",
+    "wof:geomhash":"52654ab730491c8b53aa4ba9937b2883",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789810523,
-    "wof:lastmodified":1467090195,
+    "wof:lastmodified":1510602694,
     "wof:name":"Household Finance",
     "wof:parent_id":85878885,
     "wof:placetype":"venue",

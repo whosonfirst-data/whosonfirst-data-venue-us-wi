@@ -2,14 +2,20 @@
   "id": 354061049,
   "type": "Feature",
   "properties": {
+    "addr:full":"69 N 28th St Superior WI 54880",
+    "addr:housenumber":"69",
+    "addr:postcode":"54880",
+    "addr:street":"N 28Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.079386,46.706255,-92.079386,46.706255",
     "geom:latitude":46.706255,
     "geom:longitude":-92.079386,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"69 N 28th St",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         101732327,
         102081291
     ],
+    "wof:brand_id":1125157799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5exMcgjbxQBK0V7kYeJDvu_46.706255_-92.079386@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"cd2ba28d1cf9d4cd4bb3055bd3c6f512",
+    "wof:geomhash":"a28a7f31fb40888b22b9c0a02aef627a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":354061049,
-    "wof:lastmodified":1467089936,
+    "wof:lastmodified":1510698903,
     "wof:name":"Cardsmart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

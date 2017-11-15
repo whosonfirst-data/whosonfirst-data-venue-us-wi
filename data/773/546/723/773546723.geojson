@@ -2,9 +2,14 @@
   "id": 773546723,
   "type": "Feature",
   "properties": {
+    "addr:full":"503 Lexington Dr Waunakee WI 53597",
+    "addr:housenumber":"503",
+    "addr:postcode":"53597",
+    "addr:street":"Lexington Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.447942,43.200693,-89.447942,43.200693",
     "geom:latitude":43.200693,
     "geom:longitude":-89.447942,
@@ -27,12 +32,7 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nTKF2fJLFMJ7vIs2joNih_43.200693_-89.447942@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462586544,
     "wof:geomhash":"430c894976f55d401ec69ca89b382962",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773546723
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773546723,
-    "wof:lastmodified":1467090079,
+    "wof:lastmodified":1491935725,
     "wof:name":"Scott Ripp Custom Remodeling",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

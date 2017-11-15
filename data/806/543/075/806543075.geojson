@@ -2,14 +2,20 @@
   "id": 806543075,
   "type": "Feature",
   "properties": {
+    "addr:full":"9930 52nd St Kenosha WI 53144",
+    "addr:housenumber":"9930",
+    "addr:postcode":"53144",
+    "addr:street":"52Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.928622,42.589397,-87.928622,42.589397",
     "geom:latitude":42.589397,
     "geom:longitude":-87.928622,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9930 52nd St",
     "sg:city":"Kenosha",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081309,
         85688517
     ],
+    "wof:brand_id":1125150599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_049JVO7RUZ9fH4Gn0upc9U_42.589397_-87.928622@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598984,
-    "wof:geomhash":"df7ff938b3b1675a034fca5c6b7946bf",
+    "wof:geomhash":"54feeca32e97a9b3e2c3288ff497c0e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806543075,
-    "wof:lastmodified":1467090404,
+    "wof:lastmodified":1510613424,
     "wof:name":"Airport Traffic Control Tower",
     "wof:parent_id":85852717,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806455725,
   "type": "Feature",
   "properties": {
+    "addr:full":"630 Cross St La Crosse WI 54601",
+    "addr:housenumber":"630",
+    "addr:postcode":"54601",
+    "addr:street":"Cross St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.256056,43.80802,-91.256056,43.80802",
     "geom:latitude":43.80802,
     "geom:longitude":-91.256056,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"630 Cross St",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081301,
         85688517
     ],
+    "wof:brand_id":1125159699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iW2lBjrLA9CtD8EQyrHrj_43.808020_-91.256056@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598282,
-    "wof:geomhash":"1ebfde88663f5cddaf3c69cdb0390c71",
+    "wof:geomhash":"821795795d268bf420b33a49a54518e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806455725,
-    "wof:lastmodified":1467090384,
+    "wof:lastmodified":1510695064,
     "wof:name":"St John's United Church-Christ",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",

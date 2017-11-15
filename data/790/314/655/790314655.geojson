@@ -2,14 +2,20 @@
   "id": 790314655,
   "type": "Feature",
   "properties": {
+    "addr:full":"4319 Expo Dr Manitowoc WI 54220",
+    "addr:housenumber":"4319",
+    "addr:postcode":"54220",
+    "addr:street":"Expo Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.701224,44.08077,-87.701224,44.08077",
     "geom:latitude":44.08077,
     "geom:longitude":-87.701224,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4319 Expo Dr",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":420574971,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5On8x8ZItvjXxcrKBnRk2o_44.080770_-87.701224@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462594880,
-    "wof:geomhash":"0ad2f05294e0377d047f9e71cfd48d33",
+    "wof:geomhash":"93cafd3b178a3dd7f37ac2879aa7fcf5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790314655,
-    "wof:lastmodified":1467090294,
+    "wof:lastmodified":1510603893,
     "wof:name":"Farm Service Agency",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

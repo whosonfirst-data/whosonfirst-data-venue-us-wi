@@ -2,14 +2,20 @@
   "id": 807261791,
   "type": "Feature",
   "properties": {
+    "addr:full":"4650 W Spencer St Appleton WI 54914",
+    "addr:housenumber":"4650",
+    "addr:postcode":"54914",
+    "addr:street":"W Spencer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.470584,44.25866,-88.470584,44.25866",
     "geom:latitude":44.25866,
     "geom:longitude":-88.470584,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4650 W Spencer St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125150673,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4w5zgtUcErKJTwGu5GAFOF_44.258660_-88.470584@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605447,
-    "wof:geomhash":"edcbaf1fd944da966047afd0751a9faf",
+    "wof:geomhash":"0c2b61485fcf840b8ed31c89b39a1a4d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807261791,
-    "wof:lastmodified":1467090587,
+    "wof:lastmodified":1510696927,
     "wof:name":"International Paper Co",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

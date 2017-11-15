@@ -2,14 +2,20 @@
   "id": 807282345,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 S Memorial Dr Appleton WI 54911",
+    "addr:housenumber":"100",
+    "addr:postcode":"54911",
+    "addr:street":"S Memorial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.415302,44.261331,-88.415302,44.261331",
     "geom:latitude":44.261331,
     "geom:longitude":-88.415302,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 S Memorial Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125151789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02WGHwyBOeve7RdPELZNYd_44.261331_-88.415302@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605672,
-    "wof:geomhash":"05801b16d7ec98048f6f9e29a64e6484",
+    "wof:geomhash":"4a6a6d5db5c635993fcac92e6b2608f0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807282345,
-    "wof:lastmodified":1467090594,
+    "wof:lastmodified":1510694976,
     "wof:name":"Insty-Prints",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

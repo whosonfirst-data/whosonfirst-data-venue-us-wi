@@ -2,9 +2,14 @@
   "id": 806838599,
   "type": "Feature",
   "properties": {
+    "addr:full":"1143 N Bloomfield Rd Lake Geneva WI 53147",
+    "addr:housenumber":"1143",
+    "addr:postcode":"53147",
+    "addr:street":"N Bloomfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.358382,42.574439,-88.358382,42.574439",
     "geom:latitude":42.574439,
     "geom:longitude":-88.358382,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85865441,
+        102191575,
+        404494891,
         85633793,
         101733599,
         102081763,
-        85865441
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"9e3edcf5565a304e6f13c8d2a443f9c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
+            "localadmin_id":404494891,
             "locality_id":101733599,
             "neighbourhood_id":85865441,
             "region_id":85688517,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":806838599,
-    "wof:lastmodified":1467090473,
+    "wof:lastmodified":1492109458,
     "wof:name":"Creative Built Decks",
     "wof:parent_id":85865441,
     "wof:placetype":"venue",

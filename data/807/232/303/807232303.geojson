@@ -2,9 +2,14 @@
   "id": 807232303,
   "type": "Feature",
   "properties": {
+    "addr:full":"1219 Middleton St Middleton WI 53562",
+    "addr:housenumber":"1219",
+    "addr:postcode":"53562",
+    "addr:street":"Middleton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.508456,43.089129,-89.508456,43.089129",
     "geom:latitude":43.089129,
     "geom:longitude":-89.508456,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"f19cb1f1652de6a5713b397911c6a16e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":807232303,
-    "wof:lastmodified":1467090577,
+    "wof:lastmodified":1491894031,
     "wof:name":"Wes Masonry",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

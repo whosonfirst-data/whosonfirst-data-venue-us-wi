@@ -2,9 +2,14 @@
   "id": 370269311,
   "type": "Feature",
   "properties": {
+    "addr:full":"5653 Steeplechase Dr Waunakee WI 53597",
+    "addr:housenumber":"5653",
+    "addr:postcode":"53597",
+    "addr:street":"Steeplechase Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.428294,43.164169,-89.428294,43.164169",
     "geom:latitude":43.164169,
     "geom:longitude":-89.428294,
@@ -28,31 +33,16 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        102081795,
-        85868279
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Kdl0w8ylAIBnN2m4GuwAS_43.164169_-89.428294@1294253271"
     },
     "wof:country":"US",
     "wof:geomhash":"f04570a62c2875c67d949d71f6dc0b32",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081795,
-            "locality_id":-1,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":370269311
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":370269311,
-    "wof:lastmodified":1467089904,
+    "wof:lastmodified":1491935698,
     "wof:name":"Straus Printing Co Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

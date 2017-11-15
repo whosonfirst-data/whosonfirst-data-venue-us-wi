@@ -2,14 +2,20 @@
   "id": 807107095,
   "type": "Feature",
   "properties": {
+    "addr:full":"2006 Stewart Ave Wausau WI 54401",
+    "addr:housenumber":"2006",
+    "addr:postcode":"54401",
+    "addr:street":"Stewart Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.661959,44.958873,-89.661959,44.958873",
     "geom:latitude":44.958873,
     "geom:longitude":-89.661959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2006 Stewart Ave",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081881,
         85868295
     ],
+    "wof:brand_id":420573963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51EyIyhlSC7T6pCisMnjB5_44.958873_-89.661959@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603806,
-    "wof:geomhash":"08c75bbb3f7f14bb31dc7fe501f75fbe",
+    "wof:geomhash":"6a6bb38ec4da185bfc9fea56849d308e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807107095,
-    "wof:lastmodified":1467090538,
+    "wof:lastmodified":1510603289,
     "wof:name":"Super 8 Motel",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",

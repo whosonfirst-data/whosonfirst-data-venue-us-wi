@@ -2,9 +2,14 @@
   "id": 806954371,
   "type": "Feature",
   "properties": {
+    "addr:full":"7036 State Rd 50 Lake Geneva WI 53147",
+    "addr:housenumber":"7036;50",
+    "addr:postcode":"53147",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.403339,42.595082,-88.403339,42.595082",
     "geom:latitude":42.595082,
     "geom:longitude":-88.403339,
@@ -28,13 +33,7 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13JFj9guufJaKnrcadD1vN_42.595082_-88.403339@1294253271"
@@ -42,18 +41,9 @@
     "wof:country":"US",
     "wof:created":1462602480,
     "wof:geomhash":"75bcd05d2ee321983614e02ef314a0e1",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806954371
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806954371,
-    "wof:lastmodified":1467090498,
+    "wof:lastmodified":1492112093,
     "wof:name":"Timberidge Home Owners Assoc",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

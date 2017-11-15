@@ -2,14 +2,20 @@
   "id": 790204247,
   "type": "Feature",
   "properties": {
+    "addr:full":"1515 Randolph Ct Manitowoc WI 54220",
+    "addr:housenumber":"1515",
+    "addr:postcode":"54220",
+    "addr:street":"Randolph Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.709111,44.080838,-87.709111,44.080838",
     "geom:latitude":44.080838,
     "geom:longitude":-87.709111,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1515 Randolph Ct",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":1125155113,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MiF2MrlZ0xSKci9T3rf4c_44.080838_-87.709111@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593988,
-    "wof:geomhash":"a0ab57ad69a220563106ec1019dab9e6",
+    "wof:geomhash":"234d82f8650e9855b2443f2823f9e521",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790204247,
-    "wof:lastmodified":1467090271,
+    "wof:lastmodified":1510696829,
     "wof:name":"Dermatology Associates",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

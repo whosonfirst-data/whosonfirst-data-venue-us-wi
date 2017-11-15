@@ -2,14 +2,20 @@
   "id": 773842177,
   "type": "Feature",
   "properties": {
+    "addr:full":"845 N 35th St Milwaukee WI 53208",
+    "addr:housenumber":"845",
+    "addr:postcode":"53208",
+    "addr:street":"N 35Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.957761,43.041052,-87.957761,43.041052",
     "geom:latitude":43.041052,
     "geom:longitude":-87.957761,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"845 N 35th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":420575363,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24aqrGGKJ27kt3CpNirUCN_43.041052_-87.957761@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588839,
-    "wof:geomhash":"c955ebad5f2c897a1d43ade9266ba7ef",
+    "wof:geomhash":"c57c1b336c7eccc5058d0d2718fbfa1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773842177,
-    "wof:lastmodified":1467090147,
+    "wof:lastmodified":1510602458,
     "wof:name":"ADT Security Services Inc",
     "wof:parent_id":85870967,
     "wof:placetype":"venue",

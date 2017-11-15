@@ -2,14 +2,20 @@
   "id": 789815177,
   "type": "Feature",
   "properties": {
+    "addr:full":"7630 Pershing Blvd Kenosha WI 53142",
+    "addr:housenumber":"7630",
+    "addr:postcode":"53142",
+    "addr:street":"Pershing Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.857692,42.564142,-87.857692,42.564142",
     "geom:latitude":42.564142,
     "geom:longitude":-87.857692,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7630 Pershing Blvd",
     "sg:city":"Kenosha",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081309,
         85688517
     ],
+    "wof:brand_id":420574921,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aIyPHqLWN1rQAsI0Zhorp_42.564142_-87.857692@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590753,
-    "wof:geomhash":"b52a39152af5c8277ef892b479ad417c",
+    "wof:geomhash":"e28fbb5c5ad7666ba92c56e69834ca2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789815177,
-    "wof:lastmodified":1467090196,
+    "wof:lastmodified":1510604549,
     "wof:name":"Sears Optical",
     "wof:parent_id":85810813,
     "wof:placetype":"venue",

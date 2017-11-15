@@ -2,9 +2,14 @@
   "id": 773329173,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 Edwards Blvd Lake Geneva WI 53147",
+    "addr:housenumber":"250",
+    "addr:postcode":"53147",
+    "addr:street":"Edwards Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.414161,42.590245,-88.414161,42.590245",
     "geom:latitude":42.590245,
     "geom:longitude":-88.414161,
@@ -28,13 +33,7 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uUbfrhAzcsmll5C4S4fjs_42.590245_-88.414161@1294253271"
@@ -42,18 +41,9 @@
     "wof:country":"US",
     "wof:created":1462584903,
     "wof:geomhash":"27aad5c81c93fa2a4020b2a1fe9e4a45",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":773329173
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773329173,
-    "wof:lastmodified":1467090028,
+    "wof:lastmodified":1492097569,
     "wof:name":"Garvey Inc",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

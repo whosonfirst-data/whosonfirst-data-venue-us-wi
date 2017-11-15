@@ -2,14 +2,20 @@
   "id": 806797941,
   "type": "Feature",
   "properties": {
+    "addr:full":"2649 State Hwy 175 Richfield WI 53076",
+    "addr:housenumber":"2649",
+    "addr:postcode":"53076",
+    "addr:street":"State Hwy 175",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.21708,43.289023,-88.21708,43.289023",
     "geom:latitude":43.289023,
     "geom:longitude":-88.21708,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2649 State Hwy 175",
     "sg:city":"Richfield",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85846371,
         102081745
     ],
+    "wof:brand_id":1125152527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CwAuUYwStzGlh88EemXPi_43.289023_-88.217080@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601169,
-    "wof:geomhash":"56d1f62b00e67797bbb22f5694fcc909",
+    "wof:geomhash":"1a6bfd9122bce3023e5a35a15eca8dbf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":806797941,
-    "wof:lastmodified":1467090463,
+    "wof:lastmodified":1510698919,
     "wof:name":"Federated Insurance Co",
     "wof:parent_id":85846371,
     "wof:placetype":"venue",

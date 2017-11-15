@@ -2,14 +2,20 @@
   "id": 807372429,
   "type": "Feature",
   "properties": {
+    "addr:full":"6021 W Mequon Rd Thiensville WI 53092",
+    "addr:housenumber":"6021",
+    "addr:postcode":"53092",
+    "addr:street":"W Mequon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.984467,43.221505,-87.984467,43.221505",
     "geom:latitude":43.221505,
     "geom:longitude":-87.984467,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6021 W Mequon Rd",
     "sg:city":"Thiensville",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081873,
         85688517
     ],
+    "wof:brand_id":1125150527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XqqHILNl2zV4RDmQBjBr3_43.221400_-87.984829@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462606822,
-    "wof:geomhash":"f7053d6b1d3886bebd69880fdb4fbd1d",
+    "wof:geomhash":"33e57b75bdf2573e8352da9ef39d6a2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807372429,
-    "wof:lastmodified":1467090627,
+    "wof:lastmodified":1510696976,
     "wof:name":"Roly Poly Sandwiches",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807356091,
   "type": "Feature",
   "properties": {
+    "addr:full":"6804 Green Bay Rd Kenosha WI 53142",
+    "addr:housenumber":"6804",
+    "addr:postcode":"53142",
+    "addr:street":"Green Bay Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.886194,42.573003,-87.886194,42.573003",
     "geom:latitude":42.573003,
     "geom:longitude":-87.886194,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6804 Green Bay Rd",
     "sg:city":"Kenosha",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081309,
         85688517
     ],
+    "wof:brand_id":1125151089,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64ClW97gohD8RRiIgvtxCr_42.573003_-87.886194@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606595,
-    "wof:geomhash":"2d8a8c465a1be3648c16a50d48ab5f1d",
+    "wof:geomhash":"1311e4c4693332d33d6d583c0a1d0182",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807356091,
-    "wof:lastmodified":1467090620,
+    "wof:lastmodified":1510695434,
     "wof:name":"Rosati's Pizza",
     "wof:parent_id":85852717,
     "wof:placetype":"venue",

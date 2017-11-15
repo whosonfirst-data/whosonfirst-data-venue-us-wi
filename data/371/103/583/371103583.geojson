@@ -2,9 +2,14 @@
   "id": 371103583,
   "type": "Feature",
   "properties": {
+    "addr:full":"764 Swan Dr Mukwonago WI 53149",
+    "addr:housenumber":"764",
+    "addr:postcode":"53149",
+    "addr:street":"Swan Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.315919,42.867052,-88.315919,42.867052",
     "geom:latitude":42.867052,
     "geom:longitude":-88.315919,
@@ -42,7 +47,6 @@
     "wof:geomhash":"9868922d775ab64dbbe35845710ae6f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081741,
             "locality_id":101732227,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":371103583,
-    "wof:lastmodified":1467089913,
+    "wof:lastmodified":1492111887,
     "wof:name":"CSC Reman LLC",
     "wof:parent_id":85838789,
     "wof:placetype":"venue",

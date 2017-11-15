@@ -2,14 +2,20 @@
   "id": 807263983,
   "type": "Feature",
   "properties": {
+    "addr:full":"1160 Weather Ridge Rd Chippewa Falls WI 54729",
+    "addr:housenumber":"1160",
+    "addr:postcode":"54729",
+    "addr:street":"Weather Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.369514,44.946341,-91.369514,44.946341",
     "geom:latitude":44.946341,
     "geom:longitude":-91.369514,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1160 Weather Ridge Rd",
     "sg:city":"Chippewa Falls",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081787,
         85837071
     ],
+    "wof:brand_id":420574971,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AjC8Z4TEwHNQVujRjpmSt_44.946341_-91.369514@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605471,
-    "wof:geomhash":"4cfaac831f5d06ebd268b7ca0ecd1ce3",
+    "wof:geomhash":"e88677ab5aa0a64ac70b9a73175f90ce",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807263983,
-    "wof:lastmodified":1467090588,
+    "wof:lastmodified":1510603893,
     "wof:name":"Farm Service Agency",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",

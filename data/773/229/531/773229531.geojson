@@ -2,14 +2,20 @@
   "id": 773229531,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 E Grand Ave Beloit WI 53511",
+    "addr:housenumber":"500",
+    "addr:postcode":"53511",
+    "addr:street":"E Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.030892,42.499624,-89.030892,42.499624",
     "geom:latitude":42.499624,
     "geom:longitude":-89.030892,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 E Grand Ave",
     "sg:city":"Beloit",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081829,
         85688517
     ],
+    "wof:brand_id":1125151075,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MIDl8Cs36MkBUN0Ml1ugN_42.499624_-89.030892@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584138,
-    "wof:geomhash":"4bb8ca5f0dfb1dbc51eaf180a5077fe7",
+    "wof:geomhash":"ac537f577700b819851c48a62d4d35fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773229531,
-    "wof:lastmodified":1467089995,
+    "wof:lastmodified":1510696087,
     "wof:name":"M & I Bank",
     "wof:parent_id":85812915,
     "wof:placetype":"venue",

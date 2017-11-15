@@ -2,9 +2,14 @@
   "id": 773314701,
   "type": "Feature",
   "properties": {
+    "addr:full":"5511 Washington Rd Kenosha WI 53144",
+    "addr:housenumber":"5511",
+    "addr:postcode":"53144",
+    "addr:street":"Washington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.873838,42.603351,-87.873838,42.603351",
     "geom:latitude":42.603351,
     "geom:longitude":-87.873838,
@@ -27,7 +32,14 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493393,
+        85633793,
+        101732567,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62fWMSqgxTB0t4t00n6gfo_42.603351_-87.873838@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462584803,
     "wof:geomhash":"b7315123546a04e986509a08c75f45f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493393,
+            "locality_id":101732567,
+            "region_id":85688517,
+            "venue_id":773314701
+        }
+    ],
     "wof:id":773314701,
-    "wof:lastmodified":1467090025,
+    "wof:lastmodified":1492108948,
     "wof:name":"R & M Decorating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

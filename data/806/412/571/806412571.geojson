@@ -2,9 +2,14 @@
   "id": 806412571,
   "type": "Feature",
   "properties": {
+    "addr:full":"5492 Gerend Rd Waunakee WI 53597",
+    "addr:housenumber":"5492",
+    "addr:postcode":"53597",
+    "addr:street":"Gerend Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.424018,43.159171,-89.424018,43.159171",
     "geom:latitude":43.159171,
     "geom:longitude":-89.424018,
@@ -29,12 +34,7 @@
         "carpentry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QY4MVBIfbEVhiI1H0znEU_43.159171_-89.424018@1294253271"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462597956,
     "wof:geomhash":"99ccba63802f108a9c57fdbb185cca80",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806412571
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806412571,
-    "wof:lastmodified":1467090373,
+    "wof:lastmodified":1491935720,
     "wof:name":"Ghering Construction",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

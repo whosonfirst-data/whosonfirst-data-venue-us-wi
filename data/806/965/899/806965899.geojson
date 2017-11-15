@@ -2,9 +2,14 @@
   "id": 806965899,
   "type": "Feature",
   "properties": {
+    "addr:full":"570 Fellows Rd Genoa City WI 53128",
+    "addr:housenumber":"570",
+    "addr:postcode":"53128",
+    "addr:street":"Fellows Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.334221,42.498695,-88.334221,42.498695",
     "geom:latitude":42.498695,
     "geom:longitude":-88.334221,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85865441,
+        102191575,
+        404494891,
         85633793,
         101733599,
         102081763,
-        85865441
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"d276bc1b622d2a832ebfc371c285a474",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
+            "localadmin_id":404494891,
             "locality_id":101733599,
             "neighbourhood_id":85865441,
             "region_id":85688517,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":806965899,
-    "wof:lastmodified":1467090501,
+    "wof:lastmodified":1492098828,
     "wof:name":"Genoa City Recreation Program",
     "wof:parent_id":85865441,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807374967,
   "type": "Feature",
   "properties": {
+    "addr:full":"5518 University Ave Madison WI 53705",
+    "addr:housenumber":"5518",
+    "addr:postcode":"53705",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.476399,43.083337,-89.476399,43.083337",
     "geom:latitude":43.083337,
     "geom:longitude":-89.476399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5518 University Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -45,13 +51,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125153339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10L4E8dnglsBG9LZVEcVSA_43.083386_-89.476433@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462606854,
-    "wof:geomhash":"212d6a134be93be12955152a52c950f7",
+    "wof:geomhash":"1ca19e7576648c6b78ddcd676f3f32f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":807374967,
-    "wof:lastmodified":1467090628,
+    "wof:lastmodified":1510699017,
     "wof:name":"The Original Pancake House",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",

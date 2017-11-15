@@ -2,9 +2,14 @@
   "id": 773714957,
   "type": "Feature",
   "properties": {
+    "addr:full":"6959 S Loomis Rd Wind Lake WI 53185",
+    "addr:housenumber":"6959",
+    "addr:postcode":"53185",
+    "addr:street":"S Loomis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.163899,42.814102,-88.163899,42.814102",
     "geom:latitude":42.814102,
     "geom:longitude":-88.163899,
@@ -24,7 +29,14 @@
     "sg:postcode":"53185",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494901,
+        85633793,
+        101733595,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50uBS1O88DZl0dePNfPZV9_42.814102_-88.163899@1294253271"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462587836,
     "wof:geomhash":"ba6612f2898d8c6b434db380f465d68a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494901,
+            "locality_id":101733595,
+            "region_id":85688517,
+            "venue_id":773714957
+        }
+    ],
     "wof:id":773714957,
-    "wof:lastmodified":1467090117,
+    "wof:lastmodified":1492112072,
     "wof:name":"Old Penny Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

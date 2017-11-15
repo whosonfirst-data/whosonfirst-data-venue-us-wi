@@ -2,14 +2,20 @@
   "id": 807015023,
   "type": "Feature",
   "properties": {
+    "addr:full":"2511 Eastern Ave Plymouth WI 53073",
+    "addr:housenumber":"2511",
+    "addr:postcode":"53073",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.949047,43.747047,-87.949047,43.747047",
     "geom:latitude":43.747047,
     "geom:longitude":-87.949047,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2511 Eastern Ave",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081869,
         85836705
     ],
+    "wof:brand_id":1125150803,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UhUQVOePjxOR4akmbrHW9_43.747047_-87.949047@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602987,
-    "wof:geomhash":"6ed38cf843e98138101e0fa74a2b8efd",
+    "wof:geomhash":"eee1b7d81db8a6069e18dfc504c6e699",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807015023,
-    "wof:lastmodified":1467090513,
+    "wof:lastmodified":1510697334,
     "wof:name":"Investment Centers Of America",
     "wof:parent_id":85836705,
     "wof:placetype":"venue",

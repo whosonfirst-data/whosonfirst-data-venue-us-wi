@@ -2,14 +2,20 @@
   "id": 807354523,
   "type": "Feature",
   "properties": {
+    "addr:full":"1390 Capitol Dr Pewaukee WI 53072",
+    "addr:housenumber":"1390",
+    "addr:postcode":"53072",
+    "addr:street":"Capitol Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.233777,43.083192,-88.233777,43.083192",
     "geom:latitude":43.083192,
     "geom:longitude":-88.233777,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1390 Capitol Dr",
     "sg:city":"Pewaukee",
     "sg:classifiers":[
@@ -46,13 +52,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125150681,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38pnGOAP9MI42BG6LUO5iY_43.083192_-88.233777@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606566,
-    "wof:geomhash":"dfefa125d4c83b67e58cc289ad01065e",
+    "wof:geomhash":"27ec0f4331232fe11da8affcd7ba2bf9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":807354523,
-    "wof:lastmodified":1467090619,
+    "wof:lastmodified":1510698854,
     "wof:name":"Noodles & Company",
     "wof:parent_id":85815589,
     "wof:placetype":"venue",

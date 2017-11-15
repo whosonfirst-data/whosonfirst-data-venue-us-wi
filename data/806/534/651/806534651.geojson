@@ -2,9 +2,14 @@
   "id": 806534651,
   "type": "Feature",
   "properties": {
+    "addr:full":"1288 136th Ave Union Grove WI 53182",
+    "addr:housenumber":"1288",
+    "addr:postcode":"53182",
+    "addr:street":"136Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.972863,42.62331,-87.972863,42.62331",
     "geom:latitude":42.62331,
     "geom:longitude":-87.972863,
@@ -29,7 +34,13 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493397,
+        85633793,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0h0X3X5b5Ppb1G2Y12u8qT_42.623310_-87.972863@1294253271"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1462598910,
     "wof:geomhash":"539b5966cdc5dbc82d8f38a712d72969",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493397,
+            "region_id":85688517,
+            "venue_id":806534651
+        }
+    ],
     "wof:id":806534651,
-    "wof:lastmodified":1467090402,
+    "wof:lastmodified":1492103541,
     "wof:name":"Lawn Plus Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 371193199,
   "type": "Feature",
   "properties": {
+    "addr:full":"3947 S 76th St Milwaukee WI 53220",
+    "addr:housenumber":"3947",
+    "addr:postcode":"53220",
+    "addr:street":"S 76Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.008065,42.973242,-88.008065,42.973242",
     "geom:latitude":42.973242,
     "geom:longitude":-88.008065,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        420550055,
+        102191575,
+        404492091,
         85633793,
         101732987,
-        102081837
+        102081837,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"cd3f8afae76dd6e5b37890a0691ec54c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420550055,
             "region_id":85688517,
             "venue_id":371193199
         }
     ],
     "wof:id":371193199,
-    "wof:lastmodified":1467089912,
+    "wof:lastmodified":1492108864,
     "wof:name":"Alfies Hairstyling",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

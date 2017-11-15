@@ -2,9 +2,14 @@
   "id": 773364477,
   "type": "Feature",
   "properties": {
+    "addr:full":"5813 Co Hwy K Waunakee WI 53597",
+    "addr:housenumber":"5813",
+    "addr:postcode":"53597",
+    "addr:street":"Co Hwy K",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.44282,43.147673,-89.44282,43.147673",
     "geom:latitude":43.147673,
     "geom:longitude":-89.44282,
@@ -27,12 +32,7 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tBDUxf0CeS0Hr0HXth9BO_43.147673_-89.442820@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462585143,
     "wof:geomhash":"8bd97e3a02c45beff228512509a7bf21",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773364477
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773364477,
-    "wof:lastmodified":1467090036,
+    "wof:lastmodified":1491935685,
     "wof:name":"Servicemaster Small Business",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

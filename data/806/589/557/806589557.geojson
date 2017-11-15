@@ -2,9 +2,14 @@
   "id": 806589557,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 S Century Ave Waunakee WI 53597",
+    "addr:housenumber":"225",
+    "addr:postcode":"53597",
+    "addr:street":"S Century Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461692,43.190556,-89.461692,43.190556",
     "geom:latitude":43.190556,
     "geom:longitude":-89.461692,
@@ -27,12 +32,7 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oRd8WF2l4oDRelnIeeAHX_43.190556_-89.461692@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462599396,
     "wof:geomhash":"68606f68730abf2e88a47f4a4d8188ff",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806589557
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806589557,
-    "wof:lastmodified":1467090415,
+    "wof:lastmodified":1491935729,
     "wof:name":"Spring Garden Restaurant",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

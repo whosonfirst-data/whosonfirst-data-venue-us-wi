@@ -2,14 +2,20 @@
   "id": 807361805,
   "type": "Feature",
   "properties": {
+    "addr:full":"2747 Milwaukee Rd Beloit WI 53511",
+    "addr:housenumber":"2747",
+    "addr:postcode":"53511",
+    "addr:street":"Milwaukee Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.987819,42.522728,-88.987819,42.522728",
     "geom:latitude":42.522728,
     "geom:longitude":-88.987819,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2747 Milwaukee Rd",
     "sg:city":"Beloit",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081829,
         85688517
     ],
+    "wof:brand_id":1125150761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PS8A2lXLCluHP7s56Uu5p_42.522728_-88.987819@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606682,
-    "wof:geomhash":"4e99724ae7392033c82694c8b99323cb",
+    "wof:geomhash":"da1f81a5c93722e7284a5f57e94fa802",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807361805,
-    "wof:lastmodified":1467090622,
+    "wof:lastmodified":1510697651,
     "wof:name":"Atlanta Bread Company",
     "wof:parent_id":85842871,
     "wof:placetype":"venue",

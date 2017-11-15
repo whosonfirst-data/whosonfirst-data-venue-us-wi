@@ -2,14 +2,20 @@
   "id": 773499201,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 N Franklin St Port Washington WI 53074",
+    "addr:housenumber":"122",
+    "addr:postcode":"53074",
+    "addr:street":"N Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.869161,43.387821,-87.869161,43.387821",
     "geom:latitude":43.387821,
     "geom:longitude":-87.869161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"122 N Franklin St",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081873,
         85828641
     ],
+    "wof:brand_id":1125151075,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63JVdKF6kQTPeMNwwPZrco_43.387821_-87.869161@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586200,
-    "wof:geomhash":"4f950d0e31e4cade4ffbd8b5459f6692",
+    "wof:geomhash":"fd70f271d0a73f3f14b481d32be570ad",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773499201,
-    "wof:lastmodified":1467090068,
+    "wof:lastmodified":1510696086,
     "wof:name":"M & I Bank",
     "wof:parent_id":85828641,
     "wof:placetype":"venue",

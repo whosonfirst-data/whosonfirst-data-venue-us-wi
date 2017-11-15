@@ -2,14 +2,20 @@
   "id": 790493761,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 River Pl Monona WI 53716",
+    "addr:housenumber":"400",
+    "addr:postcode":"53716",
+    "addr:street":"River Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.325087,43.045597,-89.325087,43.045597",
     "geom:latitude":43.045597,
     "geom:longitude":-89.325087,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 River Pl",
     "sg:city":"Monona",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081795,
         85878883
     ],
+    "wof:brand_id":1125150099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iQ7mlyptXbDppMdfRokBO_43.045597_-89.325087@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596318,
-    "wof:geomhash":"6a3ea849ad7199082a9e55963e48a4ab",
+    "wof:geomhash":"d59a0d28abe25bb91c32d7cb4fcad580",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790493761,
-    "wof:lastmodified":1467090330,
+    "wof:lastmodified":1510695714,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":85878883,
     "wof:placetype":"venue",

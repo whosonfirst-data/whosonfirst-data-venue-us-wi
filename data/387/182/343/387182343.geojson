@@ -2,9 +2,14 @@
   "id": 387182343,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 8th St Waunakee WI 53597",
+    "addr:housenumber":"101",
+    "addr:postcode":"53597",
+    "addr:street":"8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.456615,43.185469,-89.456615,43.185469",
     "geom:latitude":43.185469,
     "geom:longitude":-89.456615,
@@ -24,31 +29,16 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        102081795,
-        85868279
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01ybaaOr1kGc4MtuUpacIc_43.185469_-89.456615@1294253271"
     },
     "wof:country":"US",
     "wof:geomhash":"8dbace7aa1cfa088ac41b12a435e7c7a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081795,
-            "locality_id":-1,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":387182343
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":387182343,
-    "wof:lastmodified":1467089929,
+    "wof:lastmodified":1491935723,
     "wof:name":"Janko Farms LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

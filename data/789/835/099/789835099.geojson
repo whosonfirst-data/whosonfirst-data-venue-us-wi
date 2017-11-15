@@ -2,9 +2,14 @@
   "id": 789835099,
   "type": "Feature",
   "properties": {
+    "addr:full":"354 Forest Dr Williams Bay WI 53191",
+    "addr:housenumber":"354",
+    "addr:postcode":"53191",
+    "addr:street":"Forest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.554705,42.576216,-88.554705,42.576216",
     "geom:latitude":42.576216,
     "geom:longitude":-88.554705,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7e55uZ7rbQ6AvvCz72Rzjd_42.576216_-88.554705@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462590907,
     "wof:geomhash":"082824c77fd4cf3615cdcc843a8ee381",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550197,
+            "venue_id":789835099
+        }
+    ],
     "wof:id":789835099,
-    "wof:lastmodified":1467090200,
+    "wof:lastmodified":1492112035,
     "wof:name":"Retro Homes LLC",
     "wof:parent_id":420550197,
     "wof:placetype":"venue",

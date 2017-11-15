@@ -2,14 +2,20 @@
   "id": 790406059,
   "type": "Feature",
   "properties": {
+    "addr:full":"3282 S 50th St Milwaukee WI 53219",
+    "addr:housenumber":"3282",
+    "addr:postcode":"53219",
+    "addr:street":"S 50Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.976359,42.986297,-87.976359,42.986297",
     "geom:latitude":42.986297,
     "geom:longitude":-87.976359,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3282 S 50th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125150427,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44xwkj9SEQazf9Au0uWTxx_42.986297_-87.976359@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462595580,
-    "wof:geomhash":"adebee99d2f3a236b28a0cd1c05f7118",
+    "wof:geomhash":"2730cd941db2e97021252b166da16116",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790406059,
-    "wof:lastmodified":1467090312,
+    "wof:lastmodified":1510694663,
     "wof:name":"Vineyard Christian Fellowship",
     "wof:parent_id":85870867,
     "wof:placetype":"venue",

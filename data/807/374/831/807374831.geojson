@@ -2,14 +2,20 @@
   "id": 807374831,
   "type": "Feature",
   "properties": {
+    "addr:full":"213 E Towne Mall Madison WI 53704",
+    "addr:housenumber":"213",
+    "addr:postcode":"53704",
+    "addr:street":"E Towne Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.304194,43.127938,-89.304194,43.127938",
     "geom:latitude":43.127938,
     "geom:longitude":-89.304194,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"213 E Towne Mall",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125151913,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hC4e9pgyRTqnWtObgvdaK_43.128235_-89.304210@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462606853,
-    "wof:geomhash":"e533465e62a0d0999578aa05cf8172c1",
+    "wof:geomhash":"a3342a63f28e5ee9af0aeac342784797",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807374831,
-    "wof:lastmodified":1467090628,
+    "wof:lastmodified":1510699395,
     "wof:name":"Steak Escape",
     "wof:parent_id":85878851,
     "wof:placetype":"venue",

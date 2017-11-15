@@ -2,14 +2,20 @@
   "id": 790499289,
   "type": "Feature",
   "properties": {
+    "addr:full":"7617 Mineral Point Rd Madison WI 53705",
+    "addr:housenumber":"7617",
+    "addr:postcode":"53705",
+    "addr:street":"Mineral Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.513946,43.060505,-89.513946,43.060505",
     "geom:latitude":43.060505,
     "geom:longitude":-89.513946,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7617 Mineral Point Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":420574433,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GFSNAzde7kNZnrbSkotQi_43.060505_-89.513946@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596362,
-    "wof:geomhash":"53c2e18d45af16145af1ae24f952d423",
+    "wof:geomhash":"7d7a76965564293059f98b267aad1f42",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790499289,
-    "wof:lastmodified":1467090332,
+    "wof:lastmodified":1510608385,
     "wof:name":"Morgan Stanley",
     "wof:parent_id":85834009,
     "wof:placetype":"venue",

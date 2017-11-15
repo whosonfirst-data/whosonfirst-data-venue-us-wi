@@ -2,9 +2,14 @@
   "id": 387449679,
   "type": "Feature",
   "properties": {
+    "addr:full":"8611 S Market Pl Oak Creek WI 53154",
+    "addr:housenumber":"8611",
+    "addr:postcode":"53154",
+    "addr:street":"S Market Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.863789,42.88628,-87.863789,42.88628",
     "geom:latitude":42.88628,
     "geom:longitude":-87.863789,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85809659,
+        102191575,
+        404494177,
         85633793,
         101733079,
         102081837,
-        85809659
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"012b508117fc199f694a3123518c6ab2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404494177,
             "locality_id":101733079,
             "neighbourhood_id":85809659,
             "region_id":85688517,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":387449679,
-    "wof:lastmodified":1467089932,
+    "wof:lastmodified":1492108817,
     "wof:name":"Michaels Travel Inc",
     "wof:parent_id":85809659,
     "wof:placetype":"venue",

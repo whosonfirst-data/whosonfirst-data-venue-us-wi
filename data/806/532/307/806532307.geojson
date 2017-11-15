@@ -2,14 +2,20 @@
   "id": 806532307,
   "type": "Feature",
   "properties": {
+    "addr:full":"249 S Century Ave Waunakee WI 53597",
+    "addr:housenumber":"249",
+    "addr:postcode":"53597",
+    "addr:street":"S Century Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.46169,43.190267,-89.46169,43.190267",
     "geom:latitude":43.190267,
     "geom:longitude":-89.46169,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"249 S Century Ave",
     "sg:city":"Waunakee",
     "sg:classifiers":[
@@ -29,30 +35,18 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
+    "wof:brand_id":1125153147,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MFAk7MmZy2v5JMGvwO6b6_43.190267_-89.461690@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598886,
-    "wof:geomhash":"61519af4c47ed2f67fbfb13f268440bc",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806532307
-        }
-    ],
+    "wof:geomhash":"43bf264dae3b8c321b103364b45f1471",
+    "wof:hierarchy":[],
     "wof:id":806532307,
-    "wof:lastmodified":1467090402,
+    "wof:lastmodified":1510613262,
     "wof:name":"First Federal Savings Bank",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

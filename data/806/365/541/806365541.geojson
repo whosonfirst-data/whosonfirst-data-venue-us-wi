@@ -2,14 +2,20 @@
   "id": 806365541,
   "type": "Feature",
   "properties": {
+    "addr:full":"15445 W Bluemound Rd Brookfield WI 53005",
+    "addr:housenumber":"15445",
+    "addr:postcode":"53005",
+    "addr:street":"W Bluemound Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.105476,43.035841,-88.105476,43.035841",
     "geom:latitude":43.035841,
     "geom:longitude":-88.105476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15445 W Bluemound Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125151241,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kurboF0iGsijezffwmmO5_43.035841_-88.105476@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462597545,
-    "wof:geomhash":"d3e593c72bfff74ca1fe6bb9cc11e4f3",
+    "wof:geomhash":"84cc8fa57d8d1f490e3317d28e27206c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806365541,
-    "wof:lastmodified":1467090363,
+    "wof:lastmodified":1510697263,
     "wof:name":"Vitamin Shoppe",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",

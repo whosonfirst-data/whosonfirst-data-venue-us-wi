@@ -2,14 +2,20 @@
   "id": 790518563,
   "type": "Feature",
   "properties": {
+    "addr:full":"2350 W Pershing St Appleton WI 54914",
+    "addr:housenumber":"2350",
+    "addr:postcode":"54914",
+    "addr:street":"W Pershing St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.443659,44.28414,-88.443659,44.28414",
     "geom:latitude":44.28414,
     "geom:longitude":-88.443659,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2350 W Pershing St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125159539,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Zohbuiasnj5BNpgpIOZR0_44.284140_-88.443659@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596531,
-    "wof:geomhash":"a67ee4f6f5c4c220d909d75b3ec8d9b3",
+    "wof:geomhash":"836957a7f1ac5716518afd0fc8111cc4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790518563,
-    "wof:lastmodified":1467090336,
+    "wof:lastmodified":1510695345,
     "wof:name":"Eaton Corp",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

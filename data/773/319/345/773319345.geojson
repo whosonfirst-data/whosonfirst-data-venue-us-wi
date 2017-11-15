@@ -2,9 +2,14 @@
   "id": 773319345,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 Knightsbridge Rd Waunakee WI 53597",
+    "addr:housenumber":"510",
+    "addr:postcode":"53597",
+    "addr:street":"Knightsbridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.449842,43.183772,-89.449842,43.183772",
     "geom:latitude":43.183772,
     "geom:longitude":-89.449842,
@@ -35,12 +40,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Mw3nxF1fNGPQUDGUiLshw_43.183772_-89.449842@1294253271"
@@ -48,17 +48,9 @@
     "wof:country":"US",
     "wof:created":1462584838,
     "wof:geomhash":"dff74e2136823afe62873013994c2009",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773319345
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773319345,
-    "wof:lastmodified":1467090026,
+    "wof:lastmodified":1491935683,
     "wof:name":"Warner Intergrated Solutions",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

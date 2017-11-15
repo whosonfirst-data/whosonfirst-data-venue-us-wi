@@ -2,9 +2,14 @@
   "id": 790150783,
   "type": "Feature",
   "properties": {
+    "addr:full":"7320 Old Sauk Rd Madison WI 53717",
+    "addr:housenumber":"7320",
+    "addr:postcode":"53717",
+    "addr:street":"Old Sauk Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.508556,43.075232,-89.508556,43.075232",
     "geom:latitude":43.075232,
     "geom:longitude":-89.508556,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"a7bb688d0d1f9d61e7645a9924fa2f24",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":790150783,
-    "wof:lastmodified":1467090261,
+    "wof:lastmodified":1491894013,
     "wof:name":"Interlink Helping Cultures",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

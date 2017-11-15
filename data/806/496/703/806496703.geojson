@@ -2,14 +2,20 @@
   "id": 806496703,
   "type": "Feature",
   "properties": {
+    "addr:full":"2809 S 5th Ct Milwaukee WI 53207",
+    "addr:housenumber":"2809",
+    "addr:postcode":"53207",
+    "addr:street":"S 5Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.916588,42.992008,-87.916588,42.992008",
     "geom:latitude":42.992008,
     "geom:longitude":-87.916588,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2809 S 5th Ct",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125154659,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53uZA3AxR9TiDyHts7FKgb_42.992008_-87.916588@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598599,
-    "wof:geomhash":"01d1ae2801cd777440390ee82a3d5ded",
+    "wof:geomhash":"d6343a9016a5478b1ffc708bf95aedd5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806496703,
-    "wof:lastmodified":1467090393,
+    "wof:lastmodified":1510694721,
     "wof:name":"Lamar Advertising Co",
     "wof:parent_id":85867297,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790310487,
   "type": "Feature",
   "properties": {
+    "addr:full":"2217 American Legion Dr Cross Plains WI 53528",
+    "addr:housenumber":"2217",
+    "addr:postcode":"53528",
+    "addr:street":"American Legion Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.648978,43.115051,-89.648978,43.115051",
     "geom:latitude":43.115051,
     "geom:longitude":-89.648978,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2217 American Legion Dr",
     "sg:city":"Cross Plains",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85841675,
         102081795
     ],
+    "wof:brand_id":420573811,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GzBd0eJXC08xfvlHms5nC_43.115051_-89.648978@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462594850,
-    "wof:geomhash":"d71577465a1cfb67a0d70ca99c833b13",
+    "wof:geomhash":"7050f3044835fc650503413b303aa748",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790310487,
-    "wof:lastmodified":1467090293,
+    "wof:lastmodified":1510603363,
     "wof:name":"American Legion",
     "wof:parent_id":85841675,
     "wof:placetype":"venue",

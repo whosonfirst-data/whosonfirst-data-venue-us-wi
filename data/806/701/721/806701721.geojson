@@ -2,9 +2,14 @@
   "id": 806701721,
   "type": "Feature",
   "properties": {
+    "addr:full":"5668 S Woodland Dr Waunakee WI 53597",
+    "addr:housenumber":"5668",
+    "addr:postcode":"53597",
+    "addr:street":"S Woodland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.431973,43.165375,-89.431973,43.165375",
     "geom:latitude":43.165375,
     "geom:longitude":-89.431973,
@@ -28,12 +33,7 @@
         "animal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WEo3zsXJAedvbkl8rvjF4_43.165375_-89.431973@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462600351,
     "wof:geomhash":"5caa763f40e9a180000b2fdc91f9750f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806701721
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806701721,
-    "wof:lastmodified":1467090441,
+    "wof:lastmodified":1491935718,
     "wof:name":"Divall Arabians",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773757053,
   "type": "Feature",
   "properties": {
+    "addr:full":"964 N 115th St Milwaukee WI 53226",
+    "addr:housenumber":"964",
+    "addr:postcode":"53226",
+    "addr:street":"N 115Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.056123,43.040927,-88.056123,43.040927",
     "geom:latitude":43.040927,
     "geom:longitude":-88.056123,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"964 N 115th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125156383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hhxpQWT82UC9ozjKDyWi4_43.040927_-88.056123@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588147,
-    "wof:geomhash":"b447fee89ab474ebab7c52576aa98e6d",
+    "wof:geomhash":"7b695128e2b182493700796ccf6070c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773757053,
-    "wof:lastmodified":1467090127,
+    "wof:lastmodified":1510698492,
     "wof:name":"Eaton Corporation",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",

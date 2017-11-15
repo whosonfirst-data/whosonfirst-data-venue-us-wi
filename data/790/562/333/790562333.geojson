@@ -2,14 +2,20 @@
   "id": 790562333,
   "type": "Feature",
   "properties": {
+    "addr:full":"1330 S Midvale Blvd Madison WI 53711",
+    "addr:housenumber":"1330",
+    "addr:postcode":"53711",
+    "addr:street":"S Midvale Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.451441,43.03826,-89.451441,43.03826",
     "geom:latitude":43.03826,
     "geom:longitude":-89.451441,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1330 S Midvale Blvd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85878867,
         102081795
     ],
+    "wof:brand_id":1125151405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hZqu4F7g3zz4JDN9Hfu1E_43.038260_-89.451441@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596892,
-    "wof:geomhash":"dc47e43f5458b40319b9486d5045874e",
+    "wof:geomhash":"d03ee872174178c5542e0160a9c97e80",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790562333,
-    "wof:lastmodified":1467090346,
+    "wof:lastmodified":1510699336,
     "wof:name":"Bumper To Bumper Auto Parts",
     "wof:parent_id":85878867,
     "wof:placetype":"venue",

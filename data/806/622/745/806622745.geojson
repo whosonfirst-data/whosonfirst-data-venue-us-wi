@@ -2,9 +2,14 @@
   "id": 806622745,
   "type": "Feature",
   "properties": {
+    "addr:full":"11319 Tuttle Rd Trevor WI 53179",
+    "addr:housenumber":"11319",
+    "addr:postcode":"53179",
+    "addr:street":"Tuttle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.16702,42.517974,-88.16702,42.517974",
     "geom:latitude":42.517974,
     "geom:longitude":-88.16702,
@@ -27,7 +32,10 @@
         "welding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21F9HYInjBEX1IyMG8kSpo_42.517974_-88.167020@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462599674,
     "wof:geomhash":"fb8d66ad5fe687dfb1f77227b36b84ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":806622745
+        }
+    ],
     "wof:id":806622745,
-    "wof:lastmodified":1467090423,
+    "wof:lastmodified":1492087969,
     "wof:name":"D D Welding",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

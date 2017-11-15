@@ -2,9 +2,14 @@
   "id": 789960571,
   "type": "Feature",
   "properties": {
+    "addr:full":"813 5th St Waunakee WI 53597",
+    "addr:housenumber":"813",
+    "addr:postcode":"53597",
+    "addr:street":"5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.468667,43.187947,-89.468667,43.187947",
     "geom:latitude":43.187947,
     "geom:longitude":-89.468667,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3haTiV4o7A9Awyo1kWc5n7_43.187947_-89.468667@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462592004,
     "wof:geomhash":"803a91e1099d89af8fd7ea31459120ef",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789960571
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789960571,
-    "wof:lastmodified":1467090224,
+    "wof:lastmodified":1491935695,
     "wof:name":"Bills Cleaning Service",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

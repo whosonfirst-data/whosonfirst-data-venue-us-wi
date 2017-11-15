@@ -2,14 +2,20 @@
   "id": 789848965,
   "type": "Feature",
   "properties": {
+    "addr:full":"551 Alpine Dr Green Bay WI 54302",
+    "addr:housenumber":"551",
+    "addr:postcode":"54302",
+    "addr:street":"Alpine Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.947899,44.490029,-87.947899,44.490029",
     "geom:latitude":44.490029,
     "geom:longitude":-87.947899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"551 Alpine Dr",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125151549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NC1ISLoYJmoX0nxUH894j_44.490029_-87.947899@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591020,
-    "wof:geomhash":"d779d3f9ddc8d3e1d8dd0170e08bcc9f",
+    "wof:geomhash":"0a8928f74dc3faaebc70e70ef176d509",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789848965,
-    "wof:lastmodified":1467090202,
+    "wof:lastmodified":1510695398,
     "wof:name":"Georgia-Pacific Corp",
     "wof:parent_id":85877953,
     "wof:placetype":"venue",

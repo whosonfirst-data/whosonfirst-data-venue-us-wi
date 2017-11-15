@@ -2,9 +2,14 @@
   "id": 790099327,
   "type": "Feature",
   "properties": {
+    "addr:full":"8131 S 56th St Franklin WI 53132",
+    "addr:housenumber":"8131",
+    "addr:postcode":"53132",
+    "addr:street":"S 56Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.985481,42.896871,-87.985481,42.896871",
     "geom:latitude":42.896871,
     "geom:longitude":-87.985481,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vuzv2YkDWwtQJHbN69YG3_42.896871_-87.985481@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462593118,
     "wof:geomhash":"76610c9b4ee675b1aa26614ed2d3fb4b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":790099327
+        }
+    ],
     "wof:id":790099327,
-    "wof:lastmodified":1467090251,
+    "wof:lastmodified":1492098696,
     "wof:name":"Red Oak Homes LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 823134139,
   "type": "Feature",
   "properties": {
+    "addr:full":"11340 Fox River Rd Wilmot WI 53192",
+    "addr:housenumber":"11340",
+    "addr:postcode":"53192",
+    "addr:street":"Fox River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.182863,42.511851,-88.182863,42.511851",
     "geom:latitude":42.511851,
     "geom:longitude":-88.182863,
@@ -24,7 +29,10 @@
     "sg:postcode":"53192",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pNZrBWcxWYDE0QRAvDJr3_42.511851_-88.182863@1303262807"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462607403,
     "wof:geomhash":"50a1338321cf26ff4fd6c9f975216f9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":823134139
+        }
+    ],
     "wof:id":823134139,
-    "wof:lastmodified":1467090641,
+    "wof:lastmodified":1492103507,
     "wof:name":"Fox River Gournet Foods",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

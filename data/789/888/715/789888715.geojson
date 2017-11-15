@@ -2,9 +2,14 @@
   "id": 789888715,
   "type": "Feature",
   "properties": {
+    "addr:full":"5387 Mariner's Cove Dr Madison WI 53704",
+    "addr:housenumber":"5387",
+    "addr:postcode":"53704",
+    "addr:street":"Mariner'S Cove Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.404788,43.15029,-89.404788,43.15029",
     "geom:latitude":43.15029,
     "geom:longitude":-89.404788,
@@ -27,12 +32,7 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sCJsYXiG5vPzQGDYouVPq_43.150290_-89.404788@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462591358,
     "wof:geomhash":"f631802f5c8189a422d30a7f97ff6626",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789888715
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789888715,
-    "wof:lastmodified":1467090210,
+    "wof:lastmodified":1491935686,
     "wof:name":"Medearis At Consult",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

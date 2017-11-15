@@ -2,9 +2,14 @@
   "id": 806774889,
   "type": "Feature",
   "properties": {
+    "addr:full":"5385 W River Rd Waunakee WI 53597",
+    "addr:housenumber":"5385",
+    "addr:postcode":"53597",
+    "addr:street":"W River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.407413,43.159142,-89.407413,43.159142",
     "geom:latitude":43.159142,
     "geom:longitude":-89.407413,
@@ -29,12 +34,7 @@
     ],
     "sg:website":"www.wingra.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AaN9tMavcF6ZAQqXMqmOk_43.159142_-89.407413@1294253271"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462600975,
     "wof:geomhash":"1611c28baaec43c810788b45a77dbf7f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806774889
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806774889,
-    "wof:lastmodified":1467090458,
+    "wof:lastmodified":1491935688,
     "wof:name":"Wingra Redi-Mix Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

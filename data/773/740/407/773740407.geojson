@@ -2,14 +2,20 @@
   "id": 773740407,
   "type": "Feature",
   "properties": {
+    "addr:full":"335 Elgin St Green Bay WI 54303",
+    "addr:housenumber":"335",
+    "addr:postcode":"54303",
+    "addr:street":"Elgin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.084721,44.535579,-88.084721,44.535579",
     "geom:latitude":44.535579,
     "geom:longitude":-88.084721,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"335 Elgin St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125155735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50cZuGpb1TbLIlaNry1Cu6_44.535579_-88.084721@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588023,
-    "wof:geomhash":"3e83adc6e5febc834d4783388a40c62a",
+    "wof:geomhash":"6b67add873cb41b76a76ce8e0aab9195",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773740407,
-    "wof:lastmodified":1467090123,
+    "wof:lastmodified":1510699770,
     "wof:name":"Cemex",
     "wof:parent_id":85877951,
     "wof:placetype":"venue",

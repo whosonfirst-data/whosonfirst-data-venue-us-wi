@@ -2,9 +2,14 @@
   "id": 807145261,
   "type": "Feature",
   "properties": {
+    "addr:full":"7849 336th Ave Burlington WI 53105",
+    "addr:housenumber":"7849",
+    "addr:postcode":"53105",
+    "addr:street":"336Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.217351,42.560918,-88.217351,42.560918",
     "geom:latitude":42.560918,
     "geom:longitude":-88.217351,
@@ -27,7 +32,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4v2w5lhg9cs7FM2Xu9SMqp_42.560918_-88.217351@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462604216,
     "wof:geomhash":"20f289ffc4dad6efdfaf9513c214247a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":807145261
+        }
+    ],
     "wof:id":807145261,
-    "wof:lastmodified":1467090550,
+    "wof:lastmodified":1492098722,
     "wof:name":"Perrin Trucking Co",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

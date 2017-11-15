@@ -2,14 +2,20 @@
   "id": 806532277,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 54th Ave E Superior WI 54880",
+    "addr:housenumber":"510",
+    "addr:postcode":"54880",
+    "addr:street":"54Th Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.008345,46.671012,-92.008345,46.671012",
     "geom:latitude":46.671012,
     "geom:longitude":-92.008345,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"510 54th Ave E",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081291,
         85827153
     ],
+    "wof:brand_id":1125151059,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5u12ftRjMHj220QEBlMuRi_46.671012_-92.008345@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598886,
-    "wof:geomhash":"e4771bfa7940a46b1c6423ce5e4ab920",
+    "wof:geomhash":"40c426f800fcf77bc9c22c84c74a5869",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806532277,
-    "wof:lastmodified":1467090402,
+    "wof:lastmodified":1510613138,
     "wof:name":"Union Pacific Railroad Company",
     "wof:parent_id":85827153,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 354127709,
   "type": "Feature",
   "properties": {
+    "addr:full":"7696 State Rd 21 and 73 Wautoma WI 54982",
+    "addr:housenumber":"7696;21 and 73",
+    "addr:postcode":"54982",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.267467,44.068538,-89.267467,44.068538",
     "geom:latitude":44.068538,
     "geom:longitude":-89.267467,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7696 State Rd 21 and 73",
     "sg:city":"Wautoma",
     "sg:classifiers":[
@@ -28,12 +34,13 @@
         85633793,
         85688517
     ],
+    "wof:brand_id":1125154589,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47CWMd3RAcOA8kEJDluDwi_44.068538_-89.267467@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"c2a6d4360fbf010ac6f977ea530a1ac7",
+    "wof:geomhash":"8b2d4fbaff41cb338983bae084e56388",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,7 +52,7 @@
         }
     ],
     "wof:id":354127709,
-    "wof:lastmodified":1467089937,
+    "wof:lastmodified":1510613345,
     "wof:name":"Americ Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

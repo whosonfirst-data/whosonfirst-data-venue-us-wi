@@ -2,14 +2,20 @@
   "id": 789813759,
   "type": "Feature",
   "properties": {
+    "addr:full":"1616 W Highland Ave Appleton WI 54914",
+    "addr:housenumber":"1616",
+    "addr:postcode":"54914",
+    "addr:street":"W Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.431275,44.268808,-88.431275,44.268808",
     "geom:latitude":44.268808,
     "geom:longitude":-88.431275,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1616 W Highland Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125154565,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6czKsKYPieIr1z3qtlV9Dy_44.268808_-88.431275@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590743,
-    "wof:geomhash":"04f9c0b847aa43743d9c082b5d36bfe9",
+    "wof:geomhash":"2afcfe5a45fbf3db55fed9808124fb62",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789813759,
-    "wof:lastmodified":1467090196,
+    "wof:lastmodified":1510695256,
     "wof:name":"Rainbow International Carpet",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

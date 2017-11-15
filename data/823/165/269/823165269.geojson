@@ -2,14 +2,20 @@
   "id": 823165269,
   "type": "Feature",
   "properties": {
+    "addr:full":"5300 S 76th St Milwaukee WI 53220",
+    "addr:housenumber":"5300",
+    "addr:postcode":"53220",
+    "addr:street":"S 76Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.008263,42.955179,-88.008263,42.955179",
     "geom:latitude":42.955179,
     "geom:longitude":-88.008263,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5300 S 76th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -34,29 +40,30 @@
     "wof:belongsto":[
         85870865,
         102191575,
-        404492089,
+        404492091,
         85633793,
-        101733071,
+        101732987,
         102081837,
         85688517,
         420558473,
         404494171,
         101733073
     ],
+    "wof:brand_id":420575045,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JiNJn6mYrAcM7dMQUQsl0_42.955179_-88.008263@1303262810"
     },
     "wof:country":"US",
     "wof:created":1462607873,
-    "wof:geomhash":"01a7a39c8a65a840b5e6ea8e57dd16e8",
+    "wof:geomhash":"f8fa7050234180952e0fdb38f73e0b9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "localadmin_id":404492089,
-            "locality_id":101733071,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870865,
             "region_id":85688517,
             "venue_id":823165269
@@ -73,9 +80,9 @@
         }
     ],
     "wof:id":823165269,
-    "wof:lastmodified":1467090654,
+    "wof:lastmodified":1510602434,
     "wof:name":"Motherhood Maternity",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

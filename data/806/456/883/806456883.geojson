@@ -2,9 +2,14 @@
   "id": 806456883,
   "type": "Feature",
   "properties": {
+    "addr:full":"3901 W Capitol Dr Milwaukee WI 53216",
+    "addr:housenumber":"3901",
+    "addr:postcode":"53216",
+    "addr:street":"W Capitol Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.963128,43.089828,-87.963128,43.089828",
     "geom:latitude":43.089828,
     "geom:longitude":-87.963128,
@@ -35,7 +40,8 @@
         85633793,
         101732987,
         102081837,
-        85688517
+        85688517,
+        85870907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +60,22 @@
             "neighbourhood_id":85870825,
             "region_id":85688517,
             "venue_id":806456883
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870907,
+            "region_id":85688517,
+            "venue_id":806456883
         }
     ],
     "wof:id":806456883,
-    "wof:lastmodified":1467090384,
+    "wof:lastmodified":1491926545,
     "wof:name":"Mike's Standard Svc",
-    "wof:parent_id":85870825,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

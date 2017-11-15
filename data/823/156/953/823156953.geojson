@@ -2,9 +2,14 @@
   "id": 823156953,
   "type": "Feature",
   "properties": {
+    "addr:full":"3126 S 22nd St Milwaukee WI 53215",
+    "addr:housenumber":"3126",
+    "addr:postcode":"53215",
+    "addr:street":"S 22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.942309,42.987959,-87.942309,42.987959",
     "geom:latitude":42.987959,
     "geom:longitude":-87.942309,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85870927,
+        85870955,
         102191575,
         404492091,
         85633793,
         101732987,
         102081837,
         85688517,
-        85870955
+        85870927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +56,7 @@
             "county_id":102081837,
             "localadmin_id":404492091,
             "locality_id":101732987,
-            "neighbourhood_id":85870927,
+            "neighbourhood_id":85870955,
             "region_id":85688517,
             "venue_id":823156953
         },
@@ -61,15 +66,15 @@
             "county_id":102081837,
             "localadmin_id":404492091,
             "locality_id":101732987,
-            "neighbourhood_id":85870955,
+            "neighbourhood_id":85870927,
             "region_id":85688517,
             "venue_id":823156953
         }
     ],
     "wof:id":823156953,
-    "wof:lastmodified":1467090651,
+    "wof:lastmodified":1492095252,
     "wof:name":"Upholstery Doktor Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

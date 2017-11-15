@@ -2,9 +2,14 @@
   "id": 807328165,
   "type": "Feature",
   "properties": {
+    "addr:full":"3288 State Rd 20 East Troy WI 53120",
+    "addr:housenumber":"3288;20",
+    "addr:postcode":"53120",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.463215,42.792882,-88.463215,42.792882",
     "geom:latitude":42.792882,
     "geom:longitude":-88.463215,
@@ -22,7 +27,10 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550199
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39o923U2UwD0nCbD8Hufvk_42.792882_-88.463215@1294253271"
@@ -30,9 +38,15 @@
     "wof:country":"US",
     "wof:created":1462606174,
     "wof:geomhash":"805e0e704bf25dd824f9fd2ec8056ab8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550199,
+            "venue_id":807328165
+        }
+    ],
     "wof:id":807328165,
-    "wof:lastmodified":1467090608,
+    "wof:lastmodified":1492103442,
     "wof:name":"Dean Healey",
     "wof:parent_id":420550199,
     "wof:placetype":"venue",

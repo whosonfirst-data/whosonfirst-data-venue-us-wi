@@ -2,9 +2,14 @@
   "id": 370271679,
   "type": "Feature",
   "properties": {
+    "addr:full":"237 S Century Ave Waunakee WI 53597",
+    "addr:housenumber":"237",
+    "addr:postcode":"53597",
+    "addr:street":"S Century Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461691,43.190411,-89.461691,43.190411",
     "geom:latitude":43.190411,
     "geom:longitude":-89.461691,
@@ -30,12 +35,7 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        102081795,
-        85868279
-    ],
+    "wof:belongsto":[],
     "wof:brand_id":420573911,
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +43,9 @@
     },
     "wof:country":"US",
     "wof:geomhash":"047cfea80ecef48b17cceed5f1dc03e1",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081795,
-            "locality_id":-1,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":370271679
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":370271679,
-    "wof:lastmodified":1467089903,
+    "wof:lastmodified":1491935705,
     "wof:name":"Movie Gallery",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

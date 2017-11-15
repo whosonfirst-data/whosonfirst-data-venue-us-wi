@@ -2,9 +2,14 @@
   "id": 790147259,
   "type": "Feature",
   "properties": {
+    "addr:full":"6078 Oncken Rd Waunakee WI 53597",
+    "addr:housenumber":"6078",
+    "addr:postcode":"53597",
+    "addr:street":"Oncken Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.462717,43.137393,-89.462717,43.137393",
     "geom:latitude":43.137393,
     "geom:longitude":-89.462717,
@@ -29,12 +34,7 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Bp9n3e6tuykcjQB4TlJCJ_43.137393_-89.462717@1294253271"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462593487,
     "wof:geomhash":"c2a3dd4e38e76d91bb02252f6a058657",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790147259
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790147259,
-    "wof:lastmodified":1467090260,
+    "wof:lastmodified":1491935706,
     "wof:name":"Waunakee Sand & Gravel Co",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

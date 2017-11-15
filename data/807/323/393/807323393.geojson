@@ -2,14 +2,20 @@
   "id": 807323393,
   "type": "Feature",
   "properties": {
+    "addr:full":"4621 W National Ave Milwaukee WI 53214",
+    "addr:housenumber":"4621",
+    "addr:postcode":"53214",
+    "addr:street":"W National Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.972028,43.020212,-87.972028,43.020212",
     "geom:latitude":43.020212,
     "geom:longitude":-87.972028,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4621 W National Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125150109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gKnArKMHqTHvQeJN8DyVq_43.020140_-87.972183@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462606109,
-    "wof:geomhash":"fbd8b79d7caec728a3c33d9304d0116a",
+    "wof:geomhash":"c0517c39699240790fda4bc142b05f0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807323393,
-    "wof:lastmodified":1467090607,
+    "wof:lastmodified":1510694637,
     "wof:name":"Uswa",
     "wof:parent_id":85870923,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807084403,
   "type": "Feature",
   "properties": {
+    "addr:full":"5477 Westshire Cir Waunakee WI 53597",
+    "addr:housenumber":"5477",
+    "addr:postcode":"53597",
+    "addr:street":"Westshire Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.411684,43.14961,-89.411684,43.14961",
     "geom:latitude":43.14961,
     "geom:longitude":-89.411684,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5g4UeuZgt1RkSeWMowRchi_43.149610_-89.411684@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462603569,
     "wof:geomhash":"7f45aa2f9d3307e9af6771258226df46",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807084403
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807084403,
-    "wof:lastmodified":1467090531,
+    "wof:lastmodified":1491935704,
     "wof:name":"Westshire Hair Salon",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790480941,
   "type": "Feature",
   "properties": {
+    "addr:full":"5424 Co Rd G Caledonia WI 53108",
+    "addr:housenumber":"5424",
+    "addr:postcode":"53108",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.984677,42.815431,-87.984677,42.815431",
     "geom:latitude":42.815431,
     "geom:longitude":-87.984677,
@@ -28,7 +33,10 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550141
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TtGaYdS0YhrA7jkGdMyck_42.815431_-87.984677@1294253271"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462596202,
     "wof:geomhash":"a35ad9ccdf74e0bd05c2618af2a14791",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550141,
+            "venue_id":790480941
+        }
+    ],
     "wof:id":790480941,
-    "wof:lastmodified":1467090327,
+    "wof:lastmodified":1492103487,
     "wof:name":"Viking Arms Inc",
     "wof:parent_id":420550141,
     "wof:placetype":"venue",

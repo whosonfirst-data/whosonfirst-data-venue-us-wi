@@ -2,9 +2,14 @@
   "id": 790362231,
   "type": "Feature",
   "properties": {
+    "addr:full":"6348 373rd Ave Burlington WI 53105",
+    "addr:housenumber":"6348",
+    "addr:postcode":"53105",
+    "addr:street":"373Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.263777,42.578685,-88.263777,42.578685",
     "geom:latitude":42.578685,
     "geom:longitude":-88.263777,
@@ -27,7 +32,13 @@
         "counselor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493325,
+        85633793,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58ac2qlhugrQRD2sTmSe0Y_42.578685_-88.263777@1294253271"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462595245,
     "wof:geomhash":"a579756255108dac1388a8babd36d72a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493325,
+            "region_id":85688517,
+            "venue_id":790362231
+        }
+    ],
     "wof:id":790362231,
-    "wof:lastmodified":1467090303,
+    "wof:lastmodified":1492112036,
     "wof:name":"Brooks Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

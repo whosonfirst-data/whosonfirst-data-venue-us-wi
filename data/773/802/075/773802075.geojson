@@ -2,14 +2,20 @@
   "id": 773802075,
   "type": "Feature",
   "properties": {
+    "addr:full":"1352 Hiawatha Cir Green Bay WI 54313",
+    "addr:housenumber":"1352",
+    "addr:postcode":"54313",
+    "addr:street":"Hiawatha Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.096803,44.482425,-88.096803,44.482425",
     "geom:latitude":44.482425,
     "geom:longitude":-88.096803,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1352 Hiawatha Cir",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125155381,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YOiP1REB0GzFV4FZ4XsxL_44.482425_-88.096803@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588488,
-    "wof:geomhash":"8b6760140f7ad5c8433cc31b0c5e601a",
+    "wof:geomhash":"70d9439b11efa8a143e1d5983232bcab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773802075,
-    "wof:lastmodified":1467090137,
+    "wof:lastmodified":1510613259,
     "wof:name":"Kitchen Solvers",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

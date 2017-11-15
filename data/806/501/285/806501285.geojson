@@ -2,14 +2,20 @@
   "id": 806501285,
   "type": "Feature",
   "properties": {
+    "addr:full":"824 Wisconsin Ave Sheboygan WI 53081",
+    "addr:housenumber":"824",
+    "addr:postcode":"53081",
+    "addr:street":"Wisconsin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.714309,43.753147,-87.714309,43.753147",
     "geom:latitude":43.753147,
     "geom:longitude":-87.714309,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"824 Wisconsin Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":1125159727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EcCLul0ZeVZSmfqBWuEV9_43.753147_-87.714309@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598637,
-    "wof:geomhash":"28df0c9289bc1404e88e865791c49b27",
+    "wof:geomhash":"71f94a6cf0803c2579f117893bbab898",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806501285,
-    "wof:lastmodified":1467090394,
+    "wof:lastmodified":1510697222,
     "wof:name":"Trinity Lutheran School",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

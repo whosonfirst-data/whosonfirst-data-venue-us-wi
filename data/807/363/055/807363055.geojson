@@ -2,9 +2,14 @@
   "id": 807363055,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 W Main St Waunakee WI 53597",
+    "addr:housenumber":"501",
+    "addr:postcode":"53597",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461721,43.192032,-89.461721,43.192032",
     "geom:latitude":43.192032,
     "geom:longitude":-89.461721,
@@ -30,12 +35,7 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LJNySRXsgPDPDTIapVtdj_43.192032_-89.461721@1299784598"
@@ -43,17 +43,9 @@
     "wof:country":"US",
     "wof:created":1462606696,
     "wof:geomhash":"36725a9b95f0cf881e4e25b6c6d2ce0d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807363055
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807363055,
-    "wof:lastmodified":1467090623,
+    "wof:lastmodified":1491935680,
     "wof:name":"Milio's Sandwiches",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

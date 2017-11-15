@@ -2,9 +2,14 @@
   "id": 807044041,
   "type": "Feature",
   "properties": {
+    "addr:full":"7627 S Loomis Rd Waterford WI 53185",
+    "addr:housenumber":"7627",
+    "addr:postcode":"53185",
+    "addr:street":"S Loomis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.160501,42.824123,-88.160501,42.824123",
     "geom:latitude":42.824123,
     "geom:longitude":-88.160501,
@@ -27,7 +32,14 @@
         "antique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494901,
+        85633793,
+        101733595,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tuHLBirVAVcq9scYmCkxg_42.824123_-88.160501@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462603243,
     "wof:geomhash":"f60a2ffec919d27def34485005c549dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494901,
+            "locality_id":101733595,
+            "region_id":85688517,
+            "venue_id":807044041
+        }
+    ],
     "wof:id":807044041,
-    "wof:lastmodified":1467090521,
+    "wof:lastmodified":1492103342,
     "wof:name":"Rustic Road Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

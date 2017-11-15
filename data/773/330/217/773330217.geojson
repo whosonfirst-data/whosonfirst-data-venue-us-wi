@@ -2,9 +2,14 @@
   "id": 773330217,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 Grant St Waunakee WI 53597",
+    "addr:housenumber":"308",
+    "addr:postcode":"53597",
+    "addr:street":"Grant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.450299,43.190798,-89.450299,43.190798",
     "geom:latitude":43.190798,
     "geom:longitude":-89.450299,
@@ -28,12 +33,7 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OYLVMPaldVyoZAvmrMg6t_43.190798_-89.450299@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462584916,
     "wof:geomhash":"884c149b2cf2b9cc7ae10259b80ca8c6",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773330217
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773330217,
-    "wof:lastmodified":1467090028,
+    "wof:lastmodified":1491935700,
     "wof:name":"Windward Consulting LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

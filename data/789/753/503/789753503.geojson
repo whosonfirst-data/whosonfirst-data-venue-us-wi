@@ -2,14 +2,20 @@
   "id": 789753503,
   "type": "Feature",
   "properties": {
+    "addr:full":"8029 W Chestnut St Wauwatosa WI 53213",
+    "addr:housenumber":"8029",
+    "addr:postcode":"53213",
+    "addr:street":"W Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.014902,43.045931,-88.014902,43.045931",
     "geom:latitude":43.045931,
     "geom:longitude":-88.014902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8029 W Chestnut St",
     "sg:city":"Wauwatosa",
     "sg:classifiers":[
@@ -27,33 +33,34 @@
     "wof:belongsto":[
         85870835,
         102191575,
-        404494273,
+        404492091,
         85633793,
-        101733089,
+        101732987,
         102081837,
         85688517
     ],
+    "wof:brand_id":1125155841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hRmtzizUhiTjLuioagpPG_43.045931_-88.014902@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590280,
-    "wof:geomhash":"7bf1407460aef0ff354d5279042cefad",
+    "wof:geomhash":"ebe5ede3bf87a89078ad1efa17a6ca21",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "localadmin_id":404494273,
-            "locality_id":101733089,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870835,
             "region_id":85688517,
             "venue_id":789753503
         }
     ],
     "wof:id":789753503,
-    "wof:lastmodified":1467090184,
+    "wof:lastmodified":1510697488,
     "wof:name":"Sentry Insurance Co",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",

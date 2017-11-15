@@ -2,9 +2,14 @@
   "id": 807065075,
   "type": "Feature",
   "properties": {
+    "addr:full":"1026 Aralia Rd Genoa City WI 53128",
+    "addr:housenumber":"1026",
+    "addr:postcode":"53128",
+    "addr:street":"Aralia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.350068,42.550107,-88.350068,42.550107",
     "geom:latitude":42.550107,
     "geom:longitude":-88.350068,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85865441,
+        102191575,
+        404494891,
         85633793,
         101733599,
         102081763,
-        85865441
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"5f2c54923abd6397811500b329bd9054",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
+            "localadmin_id":404494891,
             "locality_id":101733599,
             "neighbourhood_id":85865441,
             "region_id":85688517,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":807065075,
-    "wof:lastmodified":1467090526,
+    "wof:lastmodified":1492098828,
     "wof:name":"Garcia Cleaning Service",
     "wof:parent_id":85865441,
     "wof:placetype":"venue",

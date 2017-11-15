@@ -2,9 +2,14 @@
   "id": 790233629,
   "type": "Feature",
   "properties": {
+    "addr:full":"5979 Co Hwy K Waunakee WI 53597",
+    "addr:housenumber":"5979",
+    "addr:postcode":"53597",
+    "addr:street":"Co Hwy K",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.455637,43.148164,-89.455637,43.148164",
     "geom:latitude":43.148164,
     "geom:longitude":-89.455637,
@@ -30,12 +35,7 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1N9U0Hb7MQepbbA3QDDvK5_43.148164_-89.455637@1294253271"
@@ -43,17 +43,9 @@
     "wof:country":"US",
     "wof:created":1462594201,
     "wof:geomhash":"613c6c033a5dfe3ace9c0ccfa1e0fb1d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790233629
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790233629,
-    "wof:lastmodified":1467090277,
+    "wof:lastmodified":1491935694,
     "wof:name":"Pulvermacher Construction LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

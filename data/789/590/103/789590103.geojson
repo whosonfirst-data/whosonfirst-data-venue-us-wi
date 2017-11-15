@@ -2,9 +2,14 @@
   "id": 789590103,
   "type": "Feature",
   "properties": {
+    "addr:full":"304 Edgemere Ct Waunakee WI 53597",
+    "addr:housenumber":"304",
+    "addr:postcode":"53597",
+    "addr:street":"Edgemere Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.459907,43.197967,-89.459907,43.197967",
     "geom:latitude":43.197967,
     "geom:longitude":-89.459907,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CRJaZNpK5Rkmai4s0Rq7j_43.197967_-89.459907@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462588987,
     "wof:geomhash":"89fbde376ec525ab94c8d453478295c9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789590103
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789590103,
-    "wof:lastmodified":1467090151,
+    "wof:lastmodified":1491935688,
     "wof:name":"Northland Capital LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

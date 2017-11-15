@@ -2,14 +2,20 @@
   "id": 790516447,
   "type": "Feature",
   "properties": {
+    "addr:full":"3700 Jackson St Oshkosh WI 54901",
+    "addr:housenumber":"3700",
+    "addr:postcode":"54901",
+    "addr:street":"Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.543295,44.072448,-88.543295,44.072448",
     "geom:latitude":44.072448,
     "geom:longitude":-88.543295,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3700 Jackson St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85827909,
         102081801
     ],
+    "wof:brand_id":1125155015,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Mo4xG3bUmdwPSo6Q6m6j1_44.072448_-88.543295@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596501,
-    "wof:geomhash":"4d4b24e8fa1f17d14e323fb7de7914de",
+    "wof:geomhash":"b676bd5a33a81e9b9ab791256e0d3592",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790516447,
-    "wof:lastmodified":1467090336,
+    "wof:lastmodified":1510700056,
     "wof:name":"Hot Stuff Pizza",
     "wof:parent_id":85827909,
     "wof:placetype":"venue",

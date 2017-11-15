@@ -2,14 +2,20 @@
   "id": 790568977,
   "type": "Feature",
   "properties": {
+    "addr:full":"5825 W Good Hope Rd Milwaukee WI 53223",
+    "addr:housenumber":"5825",
+    "addr:postcode":"53223",
+    "addr:street":"W Good Hope Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.982801,43.148477,-87.982801,43.148477",
     "geom:latitude":43.148477,
     "geom:longitude":-87.982801,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5825 W Good Hope Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125155819,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34PwtondVmrLD2Zeu5AsJq_43.148477_-87.982801@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596953,
-    "wof:geomhash":"4478d8b60350837a365605f4ed69c876",
+    "wof:geomhash":"305a053fc104c4c436ec2cadc8def672",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790568977,
-    "wof:lastmodified":1467090348,
+    "wof:lastmodified":1510695386,
     "wof:name":"PCA International LLC",
     "wof:parent_id":420550111,
     "wof:placetype":"venue",

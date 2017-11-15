@@ -2,9 +2,14 @@
   "id": 789862153,
   "type": "Feature",
   "properties": {
+    "addr:full":"830 W Main St Lake Geneva WI 53147",
+    "addr:housenumber":"830",
+    "addr:postcode":"53147",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.436551,42.591694,-88.436551,42.591694",
     "geom:latitude":42.591694,
     "geom:longitude":-88.436551,
@@ -27,13 +32,7 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3H5dI0skj8NGpmwl2ixK9y_42.591694_-88.436551@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462591123,
     "wof:geomhash":"f88f6b0c4d56e9d6ba6083d78f83f4bf",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":789862153
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789862153,
-    "wof:lastmodified":1467090205,
+    "wof:lastmodified":1492111893,
     "wof:name":"Lagniappe",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

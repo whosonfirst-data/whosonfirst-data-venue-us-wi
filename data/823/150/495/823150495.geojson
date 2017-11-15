@@ -2,14 +2,20 @@
   "id": 823150495,
   "type": "Feature",
   "properties": {
+    "addr:full":"2625 N Downer Ave Milwaukee WI 53211",
+    "addr:housenumber":"2625",
+    "addr:postcode":"53211",
+    "addr:street":"N Downer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.878021,43.066375,-87.878021,43.066375",
     "geom:latitude":43.066375,
     "geom:longitude":-87.878021,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2625 N Downer Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125153339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5d4wbuWGGQv77JxuvZmjx4_43.066375_-87.878021@1303262808"
     },
     "wof:country":"US",
     "wof:created":1462607674,
-    "wof:geomhash":"b54bceb67fa26ddf35bfaebe00e807f2",
+    "wof:geomhash":"fbdd38305b064cd8df52c7ecfa66a664",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":823150495,
-    "wof:lastmodified":1467090648,
+    "wof:lastmodified":1510699017,
     "wof:name":"The Original Pancake House",
     "wof:parent_id":85870945,
     "wof:placetype":"venue",

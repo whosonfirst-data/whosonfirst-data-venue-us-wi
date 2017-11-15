@@ -2,14 +2,20 @@
   "id": 807099467,
   "type": "Feature",
   "properties": {
+    "addr:full":"1331 American Dr Neenah WI 54956",
+    "addr:housenumber":"1331",
+    "addr:postcode":"54956",
+    "addr:street":"American Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.478319,44.215778,-88.478319,44.215778",
     "geom:latitude":44.215778,
     "geom:longitude":-88.478319,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1331 American Dr",
     "sg:city":"Neenah",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081801,
         85807543
     ],
+    "wof:brand_id":1125155407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jELIhKLdEWp4U8ek6dPLC_44.215778_-88.478319@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603715,
-    "wof:geomhash":"b40e41902721e827bb73aa56eeaae497",
+    "wof:geomhash":"eca29ad90206a4fa03caf4274d5c9d2a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807099467,
-    "wof:lastmodified":1467090536,
+    "wof:lastmodified":1510695074,
     "wof:name":"New Horizons Computer Learning",
     "wof:parent_id":85807543,
     "wof:placetype":"venue",

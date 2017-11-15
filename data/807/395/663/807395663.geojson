@@ -2,9 +2,14 @@
   "id": 807395663,
   "type": "Feature",
   "properties": {
+    "addr:full":"5407 Lory Dr Greendale WI 53129",
+    "addr:housenumber":"5407",
+    "addr:postcode":"53129",
+    "addr:street":"Lory Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.981705,42.942019,-87.981705,42.942019",
     "geom:latitude":42.942019,
     "geom:longitude":-87.981705,
@@ -24,7 +29,14 @@
     "sg:postcode":"53129",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404492089,
+        85633793,
+        101733071,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hTfh2GI9nIJ43tf1y4RkE_42.942019_-87.981705@1303262806"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462607176,
     "wof:geomhash":"fa78a57eb3c8d8a67a90c48ea1edb516",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492089,
+            "locality_id":101733071,
+            "region_id":85688517,
+            "venue_id":807395663
+        }
+    ],
     "wof:id":807395663,
-    "wof:lastmodified":1467090636,
+    "wof:lastmodified":1492103596,
     "wof:name":"Djs Antiques And Consignments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806439371,
   "type": "Feature",
   "properties": {
+    "addr:full":"871 Hansen Rd Green Bay WI 54304",
+    "addr:housenumber":"871",
+    "addr:postcode":"54304",
+    "addr:street":"Hansen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.071655,44.474472,-88.071655,44.474472",
     "geom:latitude":44.474472,
     "geom:longitude":-88.071655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"871 Hansen Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125150783,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5c4GgGydeOOZ53N8GiQraK_44.474472_-88.071655@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598163,
-    "wof:geomhash":"fd6d9ef04fe702c60e0bd5af7952f22a",
+    "wof:geomhash":"f01d5df3202abd2b9bf09a86db310737",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806439371,
-    "wof:lastmodified":1467090380,
+    "wof:lastmodified":1510698801,
     "wof:name":"Royal Cleaners",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

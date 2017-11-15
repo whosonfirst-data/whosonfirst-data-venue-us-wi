@@ -2,14 +2,20 @@
   "id": 790214101,
   "type": "Feature",
   "properties": {
+    "addr:full":"931 S Bird St Sun Prairie WI 53590",
+    "addr:housenumber":"931",
+    "addr:postcode":"53590",
+    "addr:street":"S Bird St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.226795,43.170401,-89.226795,43.170401",
     "geom:latitude":43.170401,
     "geom:longitude":-89.226795,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"931 S Bird St",
     "sg:city":"Sun Prairie",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85878835,
         102081795
     ],
+    "wof:brand_id":1125155989,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uL93FI5U737EehMG4lfne_43.170401_-89.226795@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462594057,
-    "wof:geomhash":"cf536f2187c06f73e560c5e6b0404255",
+    "wof:geomhash":"037574a5d82069a85a15a41cfc657490",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790214101,
-    "wof:lastmodified":1467090273,
+    "wof:lastmodified":1510697366,
     "wof:name":"Snap-On Tools Co",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

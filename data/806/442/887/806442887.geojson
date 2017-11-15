@@ -2,14 +2,20 @@
   "id": 806442887,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 Riverside Dr Green Bay WI 54301",
+    "addr:housenumber":"2301",
+    "addr:postcode":"54301",
+    "addr:street":"Riverside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.031765,44.481465,-88.031765,44.481465",
     "geom:latitude":44.481465,
     "geom:longitude":-88.031765,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2301 Riverside Dr",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125155505,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2g8Ohr9rLNL40ai9FaUWFu_44.481465_-88.031765@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598188,
-    "wof:geomhash":"8af89883037a78e7ed9d0a143fea1a57",
+    "wof:geomhash":"ca8d9c68fbcb5b536180069fb3d8caf0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806442887,
-    "wof:lastmodified":1467090381,
+    "wof:lastmodified":1510696755,
     "wof:name":"Junior Achievement",
     "wof:parent_id":85877931,
     "wof:placetype":"venue",

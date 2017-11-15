@@ -2,14 +2,20 @@
   "id": 823193303,
   "type": "Feature",
   "properties": {
+    "addr:full":"1115 Riders Club Rd Onalaska WI 54650",
+    "addr:housenumber":"1115",
+    "addr:postcode":"54650",
+    "addr:street":"Riders Club Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.22271,43.90554,-91.22271,43.90554",
     "geom:latitude":43.90554,
     "geom:longitude":-91.22271,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1115 Riders Club Rd",
     "sg:city":"Onalaska",
     "sg:classifiers":[
@@ -59,13 +65,14 @@
         102081301,
         85825891
     ],
+    "wof:brand_id":1125153275,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ULJAqIY7yEuqaEKslP2lf_43.905540_-91.222710@1303262812"
     },
     "wof:country":"US",
     "wof:created":1462608242,
-    "wof:geomhash":"7b4b714a05efc00ca5618a69262d2fcc",
+    "wof:geomhash":"96dad236bcc00333be6c6362bcd89f49",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -77,7 +84,7 @@
         }
     ],
     "wof:id":823193303,
-    "wof:lastmodified":1467090666,
+    "wof:lastmodified":1510698835,
     "wof:name":"Alltel Wireless",
     "wof:parent_id":85825891,
     "wof:placetype":"venue",

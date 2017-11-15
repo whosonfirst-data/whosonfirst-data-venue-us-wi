@@ -2,9 +2,14 @@
   "id": 789727405,
   "type": "Feature",
   "properties": {
+    "addr:full":"5757 Emerald Grove Ln Waunakee WI 53597",
+    "addr:housenumber":"5757",
+    "addr:postcode":"53597",
+    "addr:street":"Emerald Grove Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.439107,43.17529,-89.439107,43.17529",
     "geom:latitude":43.17529,
     "geom:longitude":-89.439107,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RgpaEAuORmwbA9J2UDlor_43.175290_-89.439107@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462590085,
     "wof:geomhash":"76f016fa72b4e4dda90f83cef88ead73",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789727405
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789727405,
-    "wof:lastmodified":1467090179,
+    "wof:lastmodified":1491935684,
     "wof:name":"Lord Svior Evang Ltheran Churc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807021035,
   "type": "Feature",
   "properties": {
+    "addr:full":"2925 Fish Hatchery Rd Fitchburg WI 53713",
+    "addr:housenumber":"2925",
+    "addr:postcode":"53713",
+    "addr:street":"Fish Hatchery Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.411782,43.027613,-89.411782,43.027613",
     "geom:latitude":43.027613,
     "geom:longitude":-89.411782,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2925 Fish Hatchery Rd",
     "sg:city":"Fitchburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081795,
         85878883
     ],
+    "wof:brand_id":1125157531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03s5svumed2MKDgMfALdqW_43.027613_-89.411782@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603047,
-    "wof:geomhash":"8e8e791e7c3bb941f077b8971e5fbeb2",
+    "wof:geomhash":"c4f965b41c784666eae4f68ce7d1a1e5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807021035,
-    "wof:lastmodified":1467090514,
+    "wof:lastmodified":1510695841,
     "wof:name":"Valley View Apartments",
     "wof:parent_id":85878883,
     "wof:placetype":"venue",

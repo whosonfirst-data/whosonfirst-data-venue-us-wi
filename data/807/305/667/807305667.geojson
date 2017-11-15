@@ -2,14 +2,20 @@
   "id": 807305667,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600 Stewart Ave Wausau WI 54401",
+    "addr:housenumber":"2600",
+    "addr:postcode":"54401",
+    "addr:street":"Stewart Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.668273,44.957602,-89.668273,44.957602",
     "geom:latitude":44.957602,
     "geom:longitude":-89.668273,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2600 Stewart Ave",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081881,
         85868295
     ],
+    "wof:brand_id":1125151165,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Vocieal683bFNrBU37SZp_44.957602_-89.668273@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605914,
-    "wof:geomhash":"fb64b46d6c1d4cbd6ea89a1376673699",
+    "wof:geomhash":"37f0c248199d2fce3075acb184104bc0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807305667,
-    "wof:lastmodified":1467090601,
+    "wof:lastmodified":1510698751,
     "wof:name":"Bankers Life",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",

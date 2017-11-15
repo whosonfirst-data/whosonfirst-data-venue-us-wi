@@ -2,14 +2,20 @@
   "id": 773573983,
   "type": "Feature",
   "properties": {
+    "addr:full":"1238 Geele Ave Sheboygan WI 53083",
+    "addr:housenumber":"1238",
+    "addr:postcode":"53083",
+    "addr:street":"Geele Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.71981,43.768494,-87.71981,43.768494",
     "geom:latitude":43.768494,
     "geom:longitude":-87.71981,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1238 Geele Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":1125150225,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01DjPBqVo61x0SezzPNRXy_43.768494_-87.719810@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586760,
-    "wof:geomhash":"44470d998465608aa6fd1ea7d9a061d0",
+    "wof:geomhash":"39c365e85547ee92205149e85b9a16c8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773573983,
-    "wof:lastmodified":1467090085,
+    "wof:lastmodified":1510699318,
     "wof:name":"Washington Elementary School",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

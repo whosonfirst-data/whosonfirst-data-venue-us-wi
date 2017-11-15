@@ -2,14 +2,20 @@
   "id": 807258021,
   "type": "Feature",
   "properties": {
+    "addr:full":"4454 S 108th St Milwaukee WI 53228",
+    "addr:housenumber":"4454",
+    "addr:postcode":"53228",
+    "addr:street":"S 108Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.047772,42.963456,-88.047772,42.963456",
     "geom:latitude":42.963456,
     "geom:longitude":-88.047772,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4454 S 108th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -32,33 +38,34 @@
     "wof:belongsto":[
         85870957,
         102191575,
-        404494171,
+        404492091,
         85633793,
-        101733073,
+        101732987,
         102081837,
         85688517
     ],
+    "wof:brand_id":420575665,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kl0RbQI9WuQbW2vhhBZdV_42.963456_-88.047772@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605411,
-    "wof:geomhash":"0abdab752bedeb6dc1ed485a7e3069be",
+    "wof:geomhash":"83a73de6d17ace81494a566b48595887",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "localadmin_id":404494171,
-            "locality_id":101733073,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870957,
             "region_id":85688517,
             "venue_id":807258021
         }
     ],
     "wof:id":807258021,
-    "wof:lastmodified":1467090586,
+    "wof:lastmodified":1510602705,
     "wof:name":"Wild Birds Unlimited",
     "wof:parent_id":85870957,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807368793,
   "type": "Feature",
   "properties": {
+    "addr:full":"4613 Keystone Xing Eau Claire WI 54701",
+    "addr:housenumber":"4613",
+    "addr:postcode":"54701",
+    "addr:street":"Keystone Xing",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.438177,44.771752,-91.438177,44.771752",
     "geom:latitude":44.771752,
     "geom:longitude":-91.438177,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4613 Keystone Xing",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":420575303,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jRK187O59waXn401YHb6E_44.771752_-91.438177@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606774,
-    "wof:geomhash":"42d93f31121665baedd6902a7bd117cc",
+    "wof:geomhash":"59a3d74cbaebbd0e39b7e07e565f02cb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807368793,
-    "wof:lastmodified":1467090625,
+    "wof:lastmodified":1510601933,
     "wof:name":"Cold Stone Creamery",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

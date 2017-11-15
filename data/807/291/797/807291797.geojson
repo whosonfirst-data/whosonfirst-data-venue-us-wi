@@ -2,14 +2,20 @@
   "id": 807291797,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 N Wisconsin St Port Washington WI 53074",
+    "addr:housenumber":"1000",
+    "addr:postcode":"53074",
+    "addr:street":"N Wisconsin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.870994,43.40058,-87.870994,43.40058",
     "geom:latitude":43.40058,
     "geom:longitude":-87.870994,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 N Wisconsin St",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081873,
         85828641
     ],
+    "wof:brand_id":1125153829,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qZxZaX9AdrSx6MlOiI6yF_43.400580_-87.870994@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605763,
-    "wof:geomhash":"acf3551a36258f9562f81c3974e8f5eb",
+    "wof:geomhash":"796d092033d47649e1b7cbfa36d866ad",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807291797,
-    "wof:lastmodified":1467090596,
+    "wof:lastmodified":1510693755,
     "wof:name":"Video Plus",
     "wof:parent_id":85828641,
     "wof:placetype":"venue",

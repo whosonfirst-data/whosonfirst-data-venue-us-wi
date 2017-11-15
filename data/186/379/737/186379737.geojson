@@ -2,9 +2,14 @@
   "id": 186379737,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 S 84th St Milwaukee WI 53214",
+    "addr:housenumber":"125",
+    "addr:postcode":"53214",
+    "addr:street":"S 84Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.017334,43.030939,-88.017334,43.030939",
     "geom:latitude":43.030939,
     "geom:longitude":-88.017334,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870835,
+        102191575,
+        404492091,
         85633793,
-        101733089,
+        101732987,
         102081837,
-        85870835
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"a588ad8d55262e85434c973851a8953f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":101733089,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870835,
             "region_id":85688517,
             "venue_id":186379737
         }
     ],
     "wof:id":186379737,
-    "wof:lastmodified":1467089916,
+    "wof:lastmodified":1491905748,
     "wof:name":"Opus Group",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",

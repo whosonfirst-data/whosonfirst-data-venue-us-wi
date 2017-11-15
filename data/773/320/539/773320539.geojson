@@ -2,14 +2,20 @@
   "id": 773320539,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 Mill St New London WI 54961",
+    "addr:housenumber":"1301",
+    "addr:postcode":"54961",
+    "addr:street":"Mill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.733393,44.382562,-88.733393,44.382562",
     "geom:latitude":44.382562,
     "geom:longitude":-88.733393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1301 Mill St",
     "sg:city":"New London",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125150807,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CIN5egCHZPyclacrcwWr1_44.382562_-88.733393@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584846,
-    "wof:geomhash":"c9a3e0a5b554d83ab50162ec78f3fc57",
+    "wof:geomhash":"d60d96818c4bf3ba9bf3649631055e69",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773320539,
-    "wof:lastmodified":1467090026,
+    "wof:lastmodified":1510697332,
     "wof:name":"Medicap Pharmacy",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

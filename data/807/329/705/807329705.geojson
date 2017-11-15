@@ -2,14 +2,20 @@
   "id": 807329705,
   "type": "Feature",
   "properties": {
+    "addr:full":"1237 N Van Buren St Milwaukee WI 53202",
+    "addr:housenumber":"1237",
+    "addr:postcode":"53202",
+    "addr:street":"N Van Buren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.903526,43.046198,-87.903526,43.046198",
     "geom:latitude":43.046198,
     "geom:longitude":-87.903526,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1237 N Van Buren St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":420575381,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IrUXEZLNNm0O5AMFQvlIy_43.046492_-87.903581@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462606194,
-    "wof:geomhash":"1f380bae6067d96da88aa3d7553a891b",
+    "wof:geomhash":"435ad8d97b00927b27b514778eff2839",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":807329705,
-    "wof:lastmodified":1467090609,
+    "wof:lastmodified":1510602974,
     "wof:name":"Bally Total Fitness",
     "wof:parent_id":85870833,
     "wof:placetype":"venue",

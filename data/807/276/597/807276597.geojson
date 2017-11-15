@@ -2,14 +2,20 @@
   "id": 807276597,
   "type": "Feature",
   "properties": {
+    "addr:full":"1224 Creek Dr West Bend WI 53090",
+    "addr:housenumber":"1224",
+    "addr:postcode":"53090",
+    "addr:street":"Creek Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.164064,43.433962,-88.164064,43.433962",
     "geom:latitude":43.433962,
     "geom:longitude":-88.164064,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1224 Creek Dr",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081745,
         85688517
     ],
+    "wof:brand_id":1125155159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IoQ01xpDxpg2Xclh5JJgo_43.433962_-88.164064@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605613,
-    "wof:geomhash":"8fdb4118ae70ea9c46200bec2ae5af76",
+    "wof:geomhash":"b3bd7fbc135eb891f58fbcbbfe719ec1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807276597,
-    "wof:lastmodified":1467090592,
+    "wof:lastmodified":1510697624,
     "wof:name":"Master Cleaners",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806512735,
   "type": "Feature",
   "properties": {
+    "addr:full":"2226 Eddy Ln Eau Claire WI 54703",
+    "addr:housenumber":"2226",
+    "addr:postcode":"54703",
+    "addr:street":"Eddy Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.477152,44.850788,-91.477152,44.850788",
     "geom:latitude":44.850788,
     "geom:longitude":-91.477152,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2226 Eddy Ln",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125153155,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48rizoC95covd7JyXenj7Q_44.850788_-91.477152@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598736,
-    "wof:geomhash":"e1ddf28ad51c5196d6054923921a346e",
+    "wof:geomhash":"b82b24ed23b2aeae45e60a6e1d3f77b0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806512735,
-    "wof:lastmodified":1467090397,
+    "wof:lastmodified":1510695883,
     "wof:name":"Hope Lutheran Church",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

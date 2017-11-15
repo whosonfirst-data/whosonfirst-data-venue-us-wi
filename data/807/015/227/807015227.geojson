@@ -2,9 +2,14 @@
   "id": 807015227,
   "type": "Feature",
   "properties": {
+    "addr:full":"12201 W Burleigh St Wauwatosa WI 53222",
+    "addr:housenumber":"12201",
+    "addr:postcode":"53222",
+    "addr:street":"W Burleigh St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.066608,43.074463,-88.066608,43.074463",
     "geom:latitude":43.074463,
     "geom:longitude":-88.066608,
@@ -30,11 +35,12 @@
     "wof:belongsto":[
         85870817,
         102191575,
-        404494273,
+        404492091,
         85633793,
-        101733089,
+        101732987,
         102081837,
-        85688517
+        85688517,
+        85870871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +54,27 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "localadmin_id":404494273,
-            "locality_id":101733089,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870817,
+            "region_id":85688517,
+            "venue_id":807015227
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870871,
             "region_id":85688517,
             "venue_id":807015227
         }
     ],
     "wof:id":807015227,
-    "wof:lastmodified":1467090513,
+    "wof:lastmodified":1491898493,
     "wof:name":"Acupuncture & Herbal Pharmacy",
-    "wof:parent_id":85870817,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

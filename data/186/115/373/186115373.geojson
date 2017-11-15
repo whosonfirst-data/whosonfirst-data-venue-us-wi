@@ -2,9 +2,14 @@
   "id": 186115373,
   "type": "Feature",
   "properties": {
+    "addr:full":"8643 S Glen Forest Ct Oak Creek WI 53154",
+    "addr:housenumber":"8643",
+    "addr:postcode":"53154",
+    "addr:street":"S Glen Forest Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.864679,42.886982,-87.864679,42.886982",
     "geom:latitude":42.886982,
     "geom:longitude":-87.864679,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85809659,
+        102191575,
+        404494177,
         85633793,
         101733079,
         102081837,
-        85809659
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"24cd899b210ca38d20d7a009bdca9649",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404494177,
             "locality_id":101733079,
             "neighbourhood_id":85809659,
             "region_id":85688517,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":186115373,
-    "wof:lastmodified":1467089914,
+    "wof:lastmodified":1492108816,
     "wof:name":"Q Electric Corp",
     "wof:parent_id":85809659,
     "wof:placetype":"venue",

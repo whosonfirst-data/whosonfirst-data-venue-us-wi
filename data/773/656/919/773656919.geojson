@@ -2,9 +2,14 @@
   "id": 773656919,
   "type": "Feature",
   "properties": {
+    "addr:full":"7218 Colony Dr Madison WI 53717",
+    "addr:housenumber":"7218",
+    "addr:postcode":"53717",
+    "addr:street":"Colony Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.508358,43.06911,-89.508358,43.06911",
     "geom:latitude":43.06911,
     "geom:longitude":-89.508358,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"70e076703b272f21f7043c54bd7eda1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":773656919,
-    "wof:lastmodified":1467090104,
+    "wof:lastmodified":1491894060,
     "wof:name":"Rosalind Gorden & Assoc",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

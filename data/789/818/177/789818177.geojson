@@ -2,14 +2,20 @@
   "id": 789818177,
   "type": "Feature",
   "properties": {
+    "addr:full":"3410 Oakwood Mall Dr Eau Claire WI 54701",
+    "addr:housenumber":"3410",
+    "addr:postcode":"54701",
+    "addr:street":"Oakwood Mall Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.445635,44.776386,-91.445635,44.776386",
     "geom:latitude":44.776386,
     "geom:longitude":-91.445635,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3410 Oakwood Mall Dr",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125150803,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fk1W2zZc5F40bhHInFR7g_44.776386_-91.445635@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590774,
-    "wof:geomhash":"a8ebba0109121e180f7994b0dbe8ff70",
+    "wof:geomhash":"df6f10445cf7c56f31a94194ba0ee744",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789818177,
-    "wof:lastmodified":1467090196,
+    "wof:lastmodified":1510697333,
     "wof:name":"Investment Centers Of America",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

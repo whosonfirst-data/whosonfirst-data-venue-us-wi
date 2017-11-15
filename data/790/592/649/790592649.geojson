@@ -2,9 +2,14 @@
   "id": 790592649,
   "type": "Feature",
   "properties": {
+    "addr:full":"5846 Endres Rd Waunakee WI 53597",
+    "addr:housenumber":"5846",
+    "addr:postcode":"53597",
+    "addr:street":"Endres Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.456752,43.176917,-89.456752,43.176917",
     "geom:latitude":43.176917,
     "geom:longitude":-89.456752,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_761iz7o8bXUPasIgzyS1TR_43.176917_-89.456752@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462597149,
     "wof:geomhash":"caec02cee180ce17bc3ffbeb85e04280",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790592649
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790592649,
-    "wof:lastmodified":1467090353,
+    "wof:lastmodified":1491935694,
     "wof:name":"John R Dremsa CLU",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

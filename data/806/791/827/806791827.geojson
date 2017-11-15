@@ -2,14 +2,20 @@
   "id": 806791827,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 S Main St Saukville WI 53080",
+    "addr:housenumber":"121",
+    "addr:postcode":"53080",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.941842,43.381662,-87.941842,43.381662",
     "geom:latitude":43.381662,
     "geom:longitude":-87.941842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"121 S Main St",
     "sg:city":"Saukville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081873,
         85828641
     ],
+    "wof:brand_id":1125152749,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OyhwmbecD7iGgnPbFwwId_43.381662_-87.941842@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601119,
-    "wof:geomhash":"237a9bf73fe45a20a45ce692c98347c9",
+    "wof:geomhash":"2a424329b0046e237490657ac7407daa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806791827,
-    "wof:lastmodified":1467090462,
+    "wof:lastmodified":1510613105,
     "wof:name":"Vocational Rehabilitation Div",
     "wof:parent_id":85828641,
     "wof:placetype":"venue",

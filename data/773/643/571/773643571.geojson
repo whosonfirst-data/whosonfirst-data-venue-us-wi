@@ -2,9 +2,14 @@
   "id": 773643571,
   "type": "Feature",
   "properties": {
+    "addr:full":"6536 S Lovers Lane Rd Franklin WI 53132",
+    "addr:housenumber":"6536",
+    "addr:postcode":"53132",
+    "addr:street":"S Lovers Lane Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.048419,42.928429,-88.048419,42.928429",
     "geom:latitude":42.928429,
     "geom:longitude":-88.048419,
@@ -24,7 +29,14 @@
     "sg:postcode":"53132",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MAgvQwAEqIL7lNOtH7EZH_42.928429_-88.048419@1294253271"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462587280,
     "wof:geomhash":"50c1ed55497b42083ebc1fbcd85e87b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":773643571
+        }
+    ],
     "wof:id":773643571,
-    "wof:lastmodified":1467090101,
+    "wof:lastmodified":1492102970,
     "wof:name":"Wolf Pools & Spas Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

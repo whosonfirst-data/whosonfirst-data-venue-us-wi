@@ -2,9 +2,14 @@
   "id": 773740623,
   "type": "Feature",
   "properties": {
+    "addr:full":"1802 Dover Dr Waunakee WI 53597",
+    "addr:housenumber":"1802",
+    "addr:postcode":"53597",
+    "addr:street":"Dover Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.438743,43.177328,-89.438743,43.177328",
     "geom:latitude":43.177328,
     "geom:longitude":-89.438743,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TURzQplCxdggEElzaQA31_43.177328_-89.438743@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462588025,
     "wof:geomhash":"f6bd5c8e91ea4b79bfaf41cd0e4de915",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773740623
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773740623,
-    "wof:lastmodified":1467090123,
+    "wof:lastmodified":1491935689,
     "wof:name":"Cheryl Farrell",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

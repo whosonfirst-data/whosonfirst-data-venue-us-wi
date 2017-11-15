@@ -2,9 +2,14 @@
   "id": 807356695,
   "type": "Feature",
   "properties": {
+    "addr:full":"2010 W Ryan Rd Oak Creek WI 53154",
+    "addr:housenumber":"2010",
+    "addr:postcode":"53154",
+    "addr:street":"W Ryan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.942597,42.873257,-87.942597,42.873257",
     "geom:latitude":42.873257,
     "geom:longitude":-87.942597,
@@ -33,7 +38,14 @@
         "wrap"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494177,
+        85633793,
+        101733079,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JrVzb24fR6I6X9N1cPVif_42.873257_-87.942597@1299784598"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1462606603,
     "wof:geomhash":"1baa4fecccc5535aa7c3c789d7e1e380",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494177,
+            "locality_id":101733079,
+            "region_id":85688517,
+            "venue_id":807356695
+        }
+    ],
     "wof:id":807356695,
-    "wof:lastmodified":1467090620,
+    "wof:lastmodified":1492103406,
     "wof:name":"Perkins Restaurant & Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

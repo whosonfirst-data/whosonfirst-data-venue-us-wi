@@ -2,9 +2,14 @@
   "id": 807123111,
   "type": "Feature",
   "properties": {
+    "addr:full":"1702 Alexandra Ct Waunakee WI 53597",
+    "addr:housenumber":"1702",
+    "addr:postcode":"53597",
+    "addr:street":"Alexandra Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.435313,43.171128,-89.435313,43.171128",
     "geom:latitude":43.171128,
     "geom:longitude":-89.435313,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09aceDJNX2GGNQNCuVKrlx_43.171128_-89.435313@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462603977,
     "wof:geomhash":"1bef1024bbc64febfdb80aa4f3c1d242",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807123111
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807123111,
-    "wof:lastmodified":1467090543,
+    "wof:lastmodified":1491935685,
     "wof:name":"Springman Real Estate LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

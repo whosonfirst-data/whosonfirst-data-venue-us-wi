@@ -2,9 +2,14 @@
   "id": 807046815,
   "type": "Feature",
   "properties": {
+    "addr:full":"26111 52nd St Salem WI 53168",
+    "addr:housenumber":"26111",
+    "addr:postcode":"53168",
+    "addr:street":"52Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.147932,42.589835,-88.147932,42.589835",
     "geom:latitude":42.589835,
     "geom:longitude":-88.147932,
@@ -30,7 +35,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404491699,
+        85633793,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VZE0PiIa0oF0CDcoBIsPK_42.589835_-88.147932@1294253271"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1462603264,
     "wof:geomhash":"f57f8412da4e81dd24901531cb3a1925",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404491699,
+            "region_id":85688517,
+            "venue_id":807046815
+        }
+    ],
     "wof:id":807046815,
-    "wof:lastmodified":1467090521,
+    "wof:lastmodified":1492112094,
     "wof:name":"C & N Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

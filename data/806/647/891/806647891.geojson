@@ -2,9 +2,14 @@
   "id": 806647891,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 S Westfield Rd Madison WI 53717",
+    "addr:housenumber":"333",
+    "addr:postcode":"53717",
+    "addr:street":"S Westfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.507719,43.063924,-89.507719,43.063924",
     "geom:latitude":43.063924,
     "geom:longitude":-89.507719,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517,
+        85834009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +52,30 @@
     "wof:geomhash":"7b1cc45b5b97240709a0f8c481677ea7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":806647891
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85834009,
             "region_id":85688517,
             "venue_id":806647891
         }
     ],
     "wof:id":806647891,
-    "wof:lastmodified":1467090429,
+    "wof:lastmodified":1491893975,
     "wof:name":"Anchorbank SSB",
-    "wof:parent_id":85878843,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

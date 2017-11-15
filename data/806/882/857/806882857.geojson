@@ -2,9 +2,14 @@
   "id": 806882857,
   "type": "Feature",
   "properties": {
+    "addr:full":"7201 S 76th St Franklin WI 53132",
+    "addr:housenumber":"7201",
+    "addr:postcode":"53132",
+    "addr:street":"S 76Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.009258,42.915648,-88.009258,42.915648",
     "geom:latitude":42.915648,
     "geom:longitude":-88.009258,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.roundys.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Y3keGigd5I3b5D56XnSu8_42.915648_-88.009258@1294253271"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462601877,
     "wof:geomhash":"c6a8d4d4582d27ff4a6a37a2fa58d51f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":806882857
+        }
+    ],
     "wof:id":806882857,
-    "wof:lastmodified":1467090482,
+    "wof:lastmodified":1492103511,
     "wof:name":"Pick'n Save",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

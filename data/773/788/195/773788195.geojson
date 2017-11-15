@@ -2,9 +2,14 @@
   "id": 773788195,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 S Wells St Lake Geneva WI 53147",
+    "addr:housenumber":"203",
+    "addr:postcode":"53147",
+    "addr:street":"S Wells St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.428845,42.588768,-88.428845,42.588768",
     "geom:latitude":42.588768,
     "geom:longitude":-88.428845,
@@ -28,13 +33,7 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Eyzqd8jcvgYTHLuCI1TLZ_42.588768_-88.428845@1294253271"
@@ -42,18 +41,9 @@
     "wof:country":"US",
     "wof:created":1462588375,
     "wof:geomhash":"d362f2d83fd8b313ed00f57e83b73d40",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":773788195
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773788195,
-    "wof:lastmodified":1467090134,
+    "wof:lastmodified":1492112095,
     "wof:name":"YMCA",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773289285,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 W Evergreen Dr Appleton WI 54913",
+    "addr:housenumber":"311",
+    "addr:postcode":"54913",
+    "addr:street":"W Evergreen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.409486,44.301832,-88.409486,44.301832",
     "geom:latitude":44.301832,
     "geom:longitude":-88.409486,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 W Evergreen Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081851,
         85688517
     ],
+    "wof:brand_id":420574339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4X07PBPFSWaAlOPWUvjFJc_44.301832_-88.409486@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584593,
-    "wof:geomhash":"d6b5953a838bf88293fd4d8784a8976d",
+    "wof:geomhash":"d400584a2f4ce852f52c1fa22a1dd64a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773289285,
-    "wof:lastmodified":1467090015,
+    "wof:lastmodified":1510604386,
     "wof:name":"First Assembly Of God",
     "wof:parent_id":85857401,
     "wof:placetype":"venue",

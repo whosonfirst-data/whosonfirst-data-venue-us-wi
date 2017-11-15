@@ -2,14 +2,20 @@
   "id": 806833183,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Thomas St Cornell WI 54732",
+    "addr:housenumber":"700",
+    "addr:postcode":"54732",
+    "addr:street":"Thomas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.143098,45.168369,-91.143098,45.168369",
     "geom:latitude":45.168369,
     "geom:longitude":-91.143098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"700 Thomas St",
     "sg:city":"Cornell",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081787,
         85837071
     ],
+    "wof:brand_id":1125154151,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PVSv5OHKI4gcap6Rhz6zV_45.168369_-91.143098@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601450,
-    "wof:geomhash":"2e4d9b5fafab7cd60018be2fd550b451",
+    "wof:geomhash":"afa1ce5585245b6d1f4381aa2c59f463",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806833183,
-    "wof:lastmodified":1467090472,
+    "wof:lastmodified":1510698732,
     "wof:name":"St Johns Lutheran Church",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",

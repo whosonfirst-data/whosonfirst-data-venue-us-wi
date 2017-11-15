@@ -2,9 +2,14 @@
   "id": 790522899,
   "type": "Feature",
   "properties": {
+    "addr:full":"16313 104th St Bristol WI 53104",
+    "addr:housenumber":"16313",
+    "addr:postcode":"53104",
+    "addr:street":"104Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.003924,42.524059,-88.003924,42.524059",
     "geom:latitude":42.524059,
     "geom:longitude":-88.003924,
@@ -28,7 +33,14 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493391,
+        85633793,
+        101732581,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FQgQ7Prr6ZpcxM1KUQAZI_42.524059_-88.003924@1294253271"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462596564,
     "wof:geomhash":"dc0c4bfdedf1d549f10b549fa7c75e8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493391,
+            "locality_id":101732581,
+            "region_id":85688517,
+            "venue_id":790522899
+        }
+    ],
     "wof:id":790522899,
-    "wof:lastmodified":1467090337,
+    "wof:lastmodified":1492097488,
     "wof:name":"Vanslochteren Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773571503,
   "type": "Feature",
   "properties": {
+    "addr:full":"425 S 3rd St Cornell WI 54732",
+    "addr:housenumber":"425",
+    "addr:postcode":"54732",
+    "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.149096,45.163849,-91.149096,45.163849",
     "geom:latitude":45.163849,
     "geom:longitude":-91.149096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"425 S 3rd St",
     "sg:city":"Cornell",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081787,
         85837071
     ],
+    "wof:brand_id":1125159311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jTO3mcRY9kTuwuwm853CI_45.163849_-91.149096@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586732,
-    "wof:geomhash":"bb0ca1e9e88e0d5c8762a4ddb3ede6ea",
+    "wof:geomhash":"bb1e04c44181881c9fe6968ab2c32ad2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773571503,
-    "wof:lastmodified":1467090085,
+    "wof:lastmodified":1510695248,
     "wof:name":"Mobil Mart",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",

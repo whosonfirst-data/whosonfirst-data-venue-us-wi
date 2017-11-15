@@ -2,14 +2,20 @@
   "id": 807371409,
   "type": "Feature",
   "properties": {
+    "addr:full":"3719 E Calumet St Appleton WI 54915",
+    "addr:housenumber":"3719",
+    "addr:postcode":"54915",
+    "addr:street":"E Calumet St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.366366,44.243871,-88.366366,44.243871",
     "geom:latitude":44.243871,
     "geom:longitude":-88.366366,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3719 E Calumet St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85813523,
         102081289
     ],
+    "wof:brand_id":1125150761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FMooZ9t6TEsNULACBIsCk_44.243871_-88.366366@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606809,
-    "wof:geomhash":"24564926d9ff4a9225a171f0935e9076",
+    "wof:geomhash":"aeb710a65af179835695e36ec22496fb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807371409,
-    "wof:lastmodified":1467090626,
+    "wof:lastmodified":1510697651,
     "wof:name":"Atlanta Bread Company",
     "wof:parent_id":85813523,
     "wof:placetype":"venue",

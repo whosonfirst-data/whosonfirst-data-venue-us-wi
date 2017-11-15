@@ -2,14 +2,20 @@
   "id": 773399445,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 W Parkway Blvd Appleton WI 54914",
+    "addr:housenumber":"720",
+    "addr:postcode":"54914",
+    "addr:street":"W Parkway Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.417149,44.278025,-88.417149,44.278025",
     "geom:latitude":44.278025,
     "geom:longitude":-88.417149,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"720 W Parkway Blvd",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":420574765,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zelcWSFwSDpqIvmRjNj8r_44.278025_-88.417149@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585395,
-    "wof:geomhash":"31728ca5bd80ea6c1c6a34d793fce112",
+    "wof:geomhash":"766ad616e4334dd97e37dd8e720d4974",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773399445,
-    "wof:lastmodified":1467090044,
+    "wof:lastmodified":1510604126,
     "wof:name":"Social Security Administration",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

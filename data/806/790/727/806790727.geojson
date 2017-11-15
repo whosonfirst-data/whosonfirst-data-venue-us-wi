@@ -2,9 +2,14 @@
   "id": 806790727,
   "type": "Feature",
   "properties": {
+    "addr:full":"223 S Century Ave Waunakee WI 53597",
+    "addr:housenumber":"223",
+    "addr:postcode":"53597",
+    "addr:street":"S Century Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461692,43.19058,-89.461692,43.19058",
     "geom:latitude":43.19058,
     "geom:longitude":-89.461692,
@@ -31,12 +36,7 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PK51WXEBPQCCtXAzUVqhC_43.190580_-89.461692@1294253271"
@@ -44,17 +44,9 @@
     "wof:country":"US",
     "wof:created":1462601110,
     "wof:geomhash":"9eee6555159735e81572de64bdb02971",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806790727
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806790727,
-    "wof:lastmodified":1467090462,
+    "wof:lastmodified":1491935701,
     "wof:name":"Cash Fast Financial Services",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

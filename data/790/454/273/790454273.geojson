@@ -2,9 +2,14 @@
   "id": 790454273,
   "type": "Feature",
   "properties": {
+    "addr:full":"5623 Woodland Dr Waunakee WI 53597",
+    "addr:housenumber":"5623",
+    "addr:postcode":"53597",
+    "addr:street":"Woodland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.438814,43.177285,-89.438814,43.177285",
     "geom:latitude":43.177285,
     "geom:longitude":-89.438814,
@@ -27,12 +32,7 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KVKiSRmAinubSqWBMKdNj_43.177285_-89.438814@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462595952,
     "wof:geomhash":"f4c494f3ff9811f8dfb44b1d1c84f3d3",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790454273
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790454273,
-    "wof:lastmodified":1467090321,
+    "wof:lastmodified":1491935719,
     "wof:name":"Hellenbrand & Hellenbrand",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

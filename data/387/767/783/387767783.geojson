@@ -2,9 +2,14 @@
   "id": 387767783,
   "type": "Feature",
   "properties": {
+    "addr:full":"4575 S 5th St Milwaukee WI 53207",
+    "addr:housenumber":"4575",
+    "addr:postcode":"53207",
+    "addr:street":"S 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.917087,42.961238,-87.917087,42.961238",
     "geom:latitude":42.961238,
     "geom:longitude":-87.917087,
@@ -26,11 +31,13 @@
     "sg:website":"www.tops.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85894489,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85894489
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,9 +47,10 @@
     "wof:geomhash":"8737ee3115cb152ad87b20f2398439ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85894489,
             "region_id":85688517,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":387767783,
-    "wof:lastmodified":1467089924,
+    "wof:lastmodified":1491931510,
     "wof:name":"Tops Club Inc",
     "wof:parent_id":85894489,
     "wof:placetype":"venue",

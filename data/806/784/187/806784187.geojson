@@ -2,9 +2,14 @@
   "id": 806784187,
   "type": "Feature",
   "properties": {
+    "addr:full":"6831 Big Bend Rd Waterford WI 53185",
+    "addr:housenumber":"6831",
+    "addr:postcode":"53185",
+    "addr:street":"Big Bend Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.19825,42.812351,-88.19825,42.812351",
     "geom:latitude":42.812351,
     "geom:longitude":-88.19825,
@@ -32,7 +37,14 @@
         "zoo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494995,
+        85633793,
+        101733611,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jMubhh9h9JEugR3dVX8TE_42.812351_-88.198250@1294253271"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1462601053,
     "wof:geomhash":"c7e8fb2adfa42e5981860e4ec3c2ee9c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494995,
+            "locality_id":101733611,
+            "region_id":85688517,
+            "venue_id":806784187
+        }
+    ],
     "wof:id":806784187,
-    "wof:lastmodified":1467090460,
+    "wof:lastmodified":1492103490,
     "wof:name":"Bear Den Petting Zoo & Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773324533,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Main St Onalaska WI 54650",
+    "addr:housenumber":"215",
+    "addr:postcode":"54650",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.23322,43.883023,-91.23322,43.883023",
     "geom:latitude":43.883023,
     "geom:longitude":-91.23322,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 Main St",
     "sg:city":"Onalaska",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081301,
         85688517
     ],
+    "wof:brand_id":1125158875,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BxQj85om4PWyLTvQwrcgv_43.883023_-91.233220@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584871,
-    "wof:geomhash":"c1a9d298c541aa671beb6c7dc3099d4b",
+    "wof:geomhash":"af8a81395ae54616fb051b40df0da993",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773324533,
-    "wof:lastmodified":1467090027,
+    "wof:lastmodified":1510697515,
     "wof:name":"Tom's Barber Shop",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",

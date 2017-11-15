@@ -2,9 +2,14 @@
   "id": 773519061,
   "type": "Feature",
   "properties": {
+    "addr:full":"1637 New St Union Grove WI 53182",
+    "addr:housenumber":"1637",
+    "addr:postcode":"53182",
+    "addr:street":"New St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.049357,42.679035,-88.049357,42.679035",
     "geom:latitude":42.679035,
     "geom:longitude":-88.049357,
@@ -28,7 +33,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494991,
+        85633793,
+        101732347,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Tk8zjSuESw5SAQm8tusGf_42.679035_-88.049357@1294253271"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462586337,
     "wof:geomhash":"92d078d84a9740d1865d71965f6ce795",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494991,
+            "locality_id":101732347,
+            "region_id":85688517,
+            "venue_id":773519061
+        }
+    ],
     "wof:id":773519061,
-    "wof:lastmodified":1467090073,
+    "wof:lastmodified":1492103386,
     "wof:name":"S&F Machining & Finishing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

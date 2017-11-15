@@ -2,14 +2,20 @@
   "id": 807273745,
   "type": "Feature",
   "properties": {
+    "addr:full":"2208 Cindy Ln New Holstein WI 53061",
+    "addr:housenumber":"2208",
+    "addr:postcode":"53061",
+    "addr:street":"Cindy Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.100964,43.953762,-88.100964,43.953762",
     "geom:latitude":43.953762,
     "geom:longitude":-88.100964,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2208 Cindy Ln",
     "sg:city":"New Holstein",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081289,
         85822647
     ],
+    "wof:brand_id":1125151739,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7g0zYHiEUy0dOjCTsBRuIW_43.953762_-88.100964@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605581,
-    "wof:geomhash":"c74c040c89589265dc473d8e58e8b829",
+    "wof:geomhash":"9750fbcea3cb76918c7bb724911bd7a1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807273745,
-    "wof:lastmodified":1467090591,
+    "wof:lastmodified":1510698808,
     "wof:name":"Lutheran Brotherhood Insurance",
     "wof:parent_id":85822647,
     "wof:placetype":"venue",

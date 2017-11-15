@@ -2,9 +2,14 @@
   "id": 186083785,
   "type": "Feature",
   "properties": {
+    "addr:full":"2210 Rapids Dr Racine WI 53404",
+    "addr:housenumber":"2210",
+    "addr:postcode":"53404",
+    "addr:street":"Rapids Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.81016,42.748321,-87.81016,42.748321",
     "geom:latitude":42.748321,
     "geom:longitude":-87.81016,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85827169,
+        102191575,
+        404494985,
         85633793,
-        101732315,
+        101732325,
         102081763,
-        85827169
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"4922c9572b915db505d08abaccdca74e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
-            "locality_id":101732315,
+            "localadmin_id":404494985,
+            "locality_id":101732325,
             "neighbourhood_id":85827169,
             "region_id":85688517,
             "venue_id":186083785
         }
     ],
     "wof:id":186083785,
-    "wof:lastmodified":1467089915,
+    "wof:lastmodified":1492111800,
     "wof:name":"TCF Bank",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789879009,
   "type": "Feature",
   "properties": {
+    "addr:full":"503 Wisconsin Ave Sheboygan WI 53081",
+    "addr:housenumber":"503",
+    "addr:postcode":"53081",
+    "addr:street":"Wisconsin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.709568,43.752605,-87.709568,43.752605",
     "geom:latitude":43.752605,
     "geom:longitude":-87.709568,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"503 Wisconsin Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":420574609,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7b54ujAm4OI1p9OQRikC50_43.752605_-87.709568@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591281,
-    "wof:geomhash":"d418b16d8cdd4c05e77d2e01e03297f4",
+    "wof:geomhash":"68bfa4b55564fcbbe1d94c84ef944f9b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789879009,
-    "wof:lastmodified":1467090208,
+    "wof:lastmodified":1510604113,
     "wof:name":"Catholic Charities",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

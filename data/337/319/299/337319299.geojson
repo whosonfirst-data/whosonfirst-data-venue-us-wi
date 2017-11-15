@@ -2,9 +2,14 @@
   "id": 337319299,
   "type": "Feature",
   "properties": {
+    "addr:full":"1220 Dewey Ave Milwaukee WI 53213",
+    "addr:housenumber":"1220",
+    "addr:postcode":"53213",
+    "addr:street":"Dewey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.009452,43.046193,-88.009452,43.046193",
     "geom:latitude":43.046193,
     "geom:longitude":-88.009452,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870835,
+        102191575,
+        404492091,
         85633793,
-        101733089,
+        101732987,
         102081837,
-        85870835
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"6eafccb0b9ff10864155594906ecf814",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":101733089,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870835,
             "region_id":85688517,
             "venue_id":337319299
         }
     ],
     "wof:id":337319299,
-    "wof:lastmodified":1467089894,
+    "wof:lastmodified":1491905767,
     "wof:name":"Aurora Behavioral Health",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789775667,
   "type": "Feature",
   "properties": {
+    "addr:full":"6135 S 108th St Hales Corners WI 53130",
+    "addr:housenumber":"6135",
+    "addr:postcode":"53130",
+    "addr:street":"S 108Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.048483,42.932469,-88.048483,42.932469",
     "geom:latitude":42.932469,
     "geom:longitude":-88.048483,
@@ -28,7 +33,14 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494175,
+        85633793,
+        101733077,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bHqxu4oApr7KQybLXWr8h_42.932469_-88.048483@1294253271"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462590444,
     "wof:geomhash":"2caf82372a6d1641dbe8e25b75205ad1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494175,
+            "locality_id":101733077,
+            "region_id":85688517,
+            "venue_id":789775667
+        }
+    ],
     "wof:id":789775667,
-    "wof:lastmodified":1467090189,
+    "wof:lastmodified":1492108906,
     "wof:name":"Carquest Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

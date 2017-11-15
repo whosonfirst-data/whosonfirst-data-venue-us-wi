@@ -2,9 +2,14 @@
   "id": 807393217,
   "type": "Feature",
   "properties": {
+    "addr:full":"13125 County Road G Caledonia WI 53108",
+    "addr:housenumber":"13125",
+    "addr:postcode":"53108",
+    "addr:street":"County Road G",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.944305,42.80759,-87.944305,42.80759",
     "geom:latitude":42.80759,
     "geom:longitude":-87.944305,
@@ -39,7 +44,10 @@
     ],
     "sg:website":"www.discoverystage.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EmSxREHkmVJnaWjf3hF0G_42.807590_-87.944305@1303262806"
@@ -47,9 +55,15 @@
     "wof:country":"US",
     "wof:created":1462607123,
     "wof:geomhash":"7f5b1cc8b3b0a6327e17e821349a036c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550151,
+            "venue_id":807393217
+        }
+    ],
     "wof:id":807393217,
-    "wof:lastmodified":1467090635,
+    "wof:lastmodified":1492098693,
     "wof:name":"Discovery Stage Preschool & Childcare Inc",
     "wof:parent_id":420550151,
     "wof:placetype":"venue",

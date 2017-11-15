@@ -2,14 +2,20 @@
   "id": 773564897,
   "type": "Feature",
   "properties": {
+    "addr:full":"10529 W North Ave Milwaukee WI 53226",
+    "addr:housenumber":"10529",
+    "addr:postcode":"53226",
+    "addr:street":"W North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.044616,43.060138,-88.044616,43.060138",
     "geom:latitude":43.060138,
     "geom:longitude":-88.044616,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10529 W North Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125151075,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fnOaTsyc6LJLvSod7jGF6_43.060138_-88.044616@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586686,
-    "wof:geomhash":"98d9bf55bf5b118f616c2afb8de603a1",
+    "wof:geomhash":"91fd17eda6bf6bbbe1464b854b8e7e03",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773564897,
-    "wof:lastmodified":1467090083,
+    "wof:lastmodified":1510696087,
     "wof:name":"M & I Bank",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",

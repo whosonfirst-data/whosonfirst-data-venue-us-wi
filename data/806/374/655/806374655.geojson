@@ -2,9 +2,14 @@
   "id": 806374655,
   "type": "Feature",
   "properties": {
+    "addr:full":"5656 Sawmill Ct Waunakee WI 53597",
+    "addr:housenumber":"5656",
+    "addr:postcode":"53597",
+    "addr:street":"Sawmill Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.430632,43.177337,-89.430632,43.177337",
     "geom:latitude":43.177337,
     "geom:longitude":-89.430632,
@@ -27,12 +32,7 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ipz5HMdDuFuarNNBmbFd3_43.177337_-89.430632@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462597634,
     "wof:geomhash":"4fd7e1ae9887fe9cbfd8e3c359e791c9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806374655
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806374655,
-    "wof:lastmodified":1467090365,
+    "wof:lastmodified":1491935678,
     "wof:name":"Kuehn Mike & Debbie",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

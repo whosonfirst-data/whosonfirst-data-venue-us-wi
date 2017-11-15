@@ -2,14 +2,20 @@
   "id": 773152591,
   "type": "Feature",
   "properties": {
+    "addr:full":"3123 N 9th St Sheboygan WI 53083",
+    "addr:housenumber":"3123",
+    "addr:postcode":"53083",
+    "addr:street":"N 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.714536,43.779681,-87.714536,43.779681",
     "geom:latitude":43.779681,
     "geom:longitude":-87.714536,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3123 N 9th St",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":1125151739,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lmRp2osTlNEIecsMxG1OY_43.779681_-87.714536@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583542,
-    "wof:geomhash":"edb001b22d0aea2ffd99cd96bed5cf0d",
+    "wof:geomhash":"ddf12b33e5e2438a8f415de3908b46c2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":773152591,
-    "wof:lastmodified":1467089974,
+    "wof:lastmodified":1510698809,
     "wof:name":"Lutheran Brotherhood Insurance",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

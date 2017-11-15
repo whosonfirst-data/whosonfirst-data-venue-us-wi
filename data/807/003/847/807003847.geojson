@@ -2,14 +2,20 @@
   "id": 807003847,
   "type": "Feature",
   "properties": {
+    "addr:full":"334 5th Ave S La Crosse WI 54601",
+    "addr:housenumber":"334",
+    "addr:postcode":"54601",
+    "addr:street":"5Th Ave S La Crosse",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.250224,43.809242,-91.250224,43.809242",
     "geom:latitude":43.809242,
     "geom:longitude":-91.250224,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"334 5th Ave S",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081301,
         85688517
     ],
+    "wof:brand_id":1125157971,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6B804a0A79iLiqQCKJik69_43.809242_-91.250224@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602889,
-    "wof:geomhash":"d56a49ca73ae54ee9f1f0a1bea11efbd",
+    "wof:geomhash":"4b60b90f5269ef0824758d7e172c7994",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807003847,
-    "wof:lastmodified":1467090510,
+    "wof:lastmodified":1510697566,
     "wof:name":"Sara Lee Bakery Group Inc",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",

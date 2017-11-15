@@ -2,6 +2,10 @@
   "id": 807389843,
   "type": "Feature",
   "properties": {
+    "addr:full":"10800 N Norway Dr 25 W Mequon WI 53097",
+    "addr:housenumber":"10800;25",
+    "addr:postcode":"53097",
+    "addr:street":"N Norway Dr;W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":807389843,
-    "wof:lastmodified":1467090634,
+    "wof:lastmodified":1472654594,
     "wof:name":"Key Milwaukee Magazine Inc",
     "wof:parent_id":85820667,
     "wof:placetype":"venue",

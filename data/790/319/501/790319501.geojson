@@ -2,14 +2,20 @@
   "id": 790319501,
   "type": "Feature",
   "properties": {
+    "addr:full":"3030 W Villard Ave Milwaukee WI 53209",
+    "addr:housenumber":"3030",
+    "addr:postcode":"53209",
+    "addr:street":"W Villard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.951101,43.111939,-87.951101,43.111939",
     "geom:latitude":43.111939,
     "geom:longitude":-87.951101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3030 W Villard Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":420575987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GLdqe8AVZBd97jHsV2HE6_43.111939_-87.951101@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462594912,
-    "wof:geomhash":"0f41d7b79e0bb2ed0e8d61e130e1dafc",
+    "wof:geomhash":"aea83b439c65c8eab5decc420089f234",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790319501,
-    "wof:lastmodified":1467090295,
+    "wof:lastmodified":1510622703,
     "wof:name":"Osco Drug",
     "wof:parent_id":85870907,
     "wof:placetype":"venue",

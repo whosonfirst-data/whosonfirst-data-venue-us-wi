@@ -2,14 +2,20 @@
   "id": 807258221,
   "type": "Feature",
   "properties": {
+    "addr:full":"7818 Big Sky Dr Madison WI 53719",
+    "addr:housenumber":"7818",
+    "addr:postcode":"53719",
+    "addr:street":"Big Sky Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.518583,43.0586,-89.518583,43.0586",
     "geom:latitude":43.0586,
     "geom:longitude":-89.518583,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7818 Big Sky Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125154225,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MKmStisjqQrl0KPQE656E_43.058600_-89.518583@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605414,
-    "wof:geomhash":"6dffbd4fa6808e45031469d5b5a8d7b2",
+    "wof:geomhash":"d388d5881347cc5ab55c68e0bf6c86d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807258221,
-    "wof:lastmodified":1467090586,
+    "wof:lastmodified":1510693989,
     "wof:name":"Juvenile Diabetes Foundation",
     "wof:parent_id":85834009,
     "wof:placetype":"venue",

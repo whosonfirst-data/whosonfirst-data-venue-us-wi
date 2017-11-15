@@ -2,14 +2,20 @@
   "id": 773019121,
   "type": "Feature",
   "properties": {
+    "addr:full":"786 Cormier Rd Green Bay WI 54304",
+    "addr:housenumber":"786",
+    "addr:postcode":"54304",
+    "addr:street":"Cormier Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.062055,44.488295,-88.062055,44.488295",
     "geom:latitude":44.488295,
     "geom:longitude":-88.062055,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"786 Cormier Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":420575631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EvY9faJz1c6sXErjyqXNp_44.488295_-88.062055@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462582449,
-    "wof:geomhash":"b291415337198135ebfa9b1be5542f8a",
+    "wof:geomhash":"0ae6811d9d85df083ca5b4429e12ed62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773019121,
-    "wof:lastmodified":1467089938,
+    "wof:lastmodified":1510601968,
     "wof:name":"Children's World Learning Ctr",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",

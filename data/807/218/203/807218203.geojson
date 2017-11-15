@@ -2,9 +2,14 @@
   "id": 807218203,
   "type": "Feature",
   "properties": {
+    "addr:full":"204 Kingston Way Waunakee WI 53597",
+    "addr:housenumber":"204",
+    "addr:postcode":"53597",
+    "addr:street":"Kingston Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.452827,43.182618,-89.452827,43.182618",
     "geom:latitude":43.182618,
     "geom:longitude":-89.452827,
@@ -27,12 +32,7 @@
         "auctioneer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gwaOzZplpHPdLvEpzdo7Z_43.182618_-89.452827@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462604982,
     "wof:geomhash":"05519f31a48619aa28a69e546723558c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807218203
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807218203,
-    "wof:lastmodified":1467090573,
+    "wof:lastmodified":1491935718,
     "wof:name":"Wisconsin Real Est Auctioneers",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

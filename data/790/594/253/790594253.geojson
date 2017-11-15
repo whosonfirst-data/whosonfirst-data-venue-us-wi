@@ -2,14 +2,20 @@
   "id": 790594253,
   "type": "Feature",
   "properties": {
+    "addr:full":"2801 International Ln Madison WI 53704",
+    "addr:housenumber":"2801",
+    "addr:postcode":"53704",
+    "addr:street":"International Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.349024,43.127373,-89.349024,43.127373",
     "geom:latitude":43.127373,
     "geom:longitude":-89.349024,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2801 International Ln",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125153947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yWFjp5LxrV701gDFXhYFI_43.127373_-89.349024@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462597161,
-    "wof:geomhash":"cb0b5fbb1514582d77a8d8915d05b905",
+    "wof:geomhash":"3e6a045cd32319a533a0b10ec8a8bd0c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790594253,
-    "wof:lastmodified":1467090353,
+    "wof:lastmodified":1510695229,
     "wof:name":"Decision One",
     "wof:parent_id":85878829,
     "wof:placetype":"venue",

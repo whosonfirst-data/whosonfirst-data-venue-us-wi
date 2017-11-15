@@ -2,9 +2,14 @@
   "id": 789604501,
   "type": "Feature",
   "properties": {
+    "addr:full":"1927 Fremont St East Troy WI 53120",
+    "addr:housenumber":"1927",
+    "addr:postcode":"53120",
+    "addr:street":"Fremont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.404053,42.791603,-88.404053,42.791603",
     "geom:latitude":42.791603,
     "geom:longitude":-88.404053,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494701,
+        85633793,
+        101732243,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SKsM4Vk2YdbsyzQ09vtdZ_42.791603_-88.404053@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462589100,
     "wof:geomhash":"b46f7cc7961e6309ed30ac8d0c301b84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404494701,
+            "locality_id":101732243,
+            "region_id":85688517,
+            "venue_id":789604501
+        }
+    ],
     "wof:id":789604501,
-    "wof:lastmodified":1467090154,
+    "wof:lastmodified":1492109460,
     "wof:name":"Mitchells Plastering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

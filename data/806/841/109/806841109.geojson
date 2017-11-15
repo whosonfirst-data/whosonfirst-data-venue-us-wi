@@ -2,14 +2,20 @@
   "id": 806841109,
   "type": "Feature",
   "properties": {
+    "addr:full":"2460 Milwaukee Rd Beloit WI 53511",
+    "addr:housenumber":"2460",
+    "addr:postcode":"53511",
+    "addr:street":"Milwaukee Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.994511,42.519722,-88.994511,42.519722",
     "geom:latitude":42.519722,
     "geom:longitude":-88.994511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2460 Milwaukee Rd",
     "sg:city":"Beloit",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081829,
         85688517
     ],
+    "wof:brand_id":1125151771,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22RY0L3OzbEHBZ0w2mCBcz_42.519722_-88.994511@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601517,
-    "wof:geomhash":"33eb944c441a450997079fc2e0590bbf",
+    "wof:geomhash":"6d7674d4a60f6c4647a9b9dc8bcfa6eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806841109,
-    "wof:lastmodified":1467090473,
+    "wof:lastmodified":1510696079,
     "wof:name":"Central Christian Church",
     "wof:parent_id":85842871,
     "wof:placetype":"venue",

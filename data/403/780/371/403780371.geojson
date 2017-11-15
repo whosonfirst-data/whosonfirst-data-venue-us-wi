@@ -2,9 +2,14 @@
   "id": 403780371,
   "type": "Feature",
   "properties": {
+    "addr:full":"18942 Tans Dr Muskego WI 53150",
+    "addr:housenumber":"",
+    "addr:postcode":"18942;53150",
+    "addr:street":"Tans Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.152502,42.923211,-88.152502,42.923211",
     "geom:latitude":42.923211,
     "geom:longitude":-88.152502,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        420550237,
+        102191575,
+        404492511,
         85633793,
-        101733509,
-        102081741
+        101733503,
+        102081741,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"3416e08ee0d4fae5d8ca497f15e4e37d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081741,
-            "locality_id":101733509,
-            "neighbourhood_id":-1,
+            "localadmin_id":404492511,
+            "locality_id":101733503,
+            "neighbourhood_id":420550237,
             "region_id":85688517,
             "venue_id":403780371
         }
     ],
     "wof:id":403780371,
-    "wof:lastmodified":1467089920,
+    "wof:lastmodified":1492096601,
     "wof:name":"N Lake Const",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

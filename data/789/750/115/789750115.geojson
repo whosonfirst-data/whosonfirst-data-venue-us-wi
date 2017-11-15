@@ -2,14 +2,20 @@
   "id": 789750115,
   "type": "Feature",
   "properties": {
+    "addr:full":"1463 Co Rd X Mosinee WI 54455",
+    "addr:housenumber":"1463",
+    "addr:postcode":"54455",
+    "addr:street":"Co Rd X",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.608727,44.819664,-89.608727,44.819664",
     "geom:latitude":44.819664,
     "geom:longitude":-89.608727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1463 Co Rd X",
     "sg:city":"Mosinee",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081881,
         85688517
     ],
+    "wof:brand_id":1125153859,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09kETGMgyHVAVceMI2YHLz_44.819664_-89.608727@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590254,
-    "wof:geomhash":"09400e15aa218c2af0b4ffb5ca2cba7b",
+    "wof:geomhash":"9936ff5973cfeedf8771fe417d1654b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789750115,
-    "wof:lastmodified":1467090184,
+    "wof:lastmodified":1510697170,
     "wof:name":"Dale Carnegie Training",
     "wof:parent_id":85865437,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 773822353,
   "type": "Feature",
   "properties": {
+    "addr:full":"5010 State Rd 85 Eau Claire WI 54701",
+    "addr:housenumber":"5010;85",
+    "addr:postcode":"54701",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773822353,
-    "wof:lastmodified":1467090142,
+    "wof:lastmodified":1472654997,
     "wof:name":"Thill Track & Tractor Svc",
     "wof:parent_id":85848105,
     "wof:placetype":"venue",

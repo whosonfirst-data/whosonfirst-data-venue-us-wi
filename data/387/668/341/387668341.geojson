@@ -2,9 +2,14 @@
   "id": 387668341,
   "type": "Feature",
   "properties": {
+    "addr:full":"9229 W Loomis Rd Franklin WI 53132",
+    "addr:housenumber":"9229",
+    "addr:postcode":"53132",
+    "addr:street":"W Loomis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.028258,42.90141,-88.028258,42.90141",
     "geom:latitude":42.90141,
     "geom:longitude":-88.028258,
@@ -31,6 +36,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688517,
+        102191575,
+        404494167,
         85633793,
         101733067,
         102081837
@@ -43,17 +50,17 @@
     "wof:geomhash":"4e29bae5094425545100f6a5cff84cdc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404494167,
             "locality_id":101733067,
-            "neighbourhood_id":-1,
             "region_id":85688517,
             "venue_id":387668341
         }
     ],
     "wof:id":387668341,
-    "wof:lastmodified":1467089929,
+    "wof:lastmodified":1492088065,
     "wof:name":"Franklin Health Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

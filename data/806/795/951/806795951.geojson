@@ -2,9 +2,14 @@
   "id": 806795951,
   "type": "Feature",
   "properties": {
+    "addr:full":"707 Augusta Dr Waunakee WI 53597",
+    "addr:housenumber":"707",
+    "addr:postcode":"53597",
+    "addr:street":"Augusta Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.455845,43.1985,-89.455845,43.1985",
     "geom:latitude":43.1985,
     "geom:longitude":-89.455845,
@@ -27,12 +32,7 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08JyXVPD7525rPrlVw9uoS_43.198500_-89.455845@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462601149,
     "wof:geomhash":"966cfa95da648e1090f9640cd649312b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806795951
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806795951,
-    "wof:lastmodified":1467090463,
+    "wof:lastmodified":1491935683,
     "wof:name":"Michael Schiffman Construction",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

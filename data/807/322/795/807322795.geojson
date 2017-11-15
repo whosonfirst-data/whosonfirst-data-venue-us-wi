@@ -2,9 +2,14 @@
   "id": 807322795,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 S Century Ave Waunakee WI 53597",
+    "addr:housenumber":"202",
+    "addr:postcode":"53597",
+    "addr:street":"S Century Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461769,43.19028,-89.461769,43.19028",
     "geom:latitude":43.19028,
     "geom:longitude":-89.461769,
@@ -31,12 +36,7 @@
     ],
     "sg:website":"http://www.deancare.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CYKwrmSL6wr7EbARzAPk3_43.190820_-89.461843@1293134755"
@@ -44,17 +44,9 @@
     "wof:country":"US",
     "wof:created":1462606097,
     "wof:geomhash":"2d68d890338a6da9af2db7d01e59de15",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807322795
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807322795,
-    "wof:lastmodified":1467090606,
+    "wof:lastmodified":1491935715,
     "wof:name":"Dean Health Systems, Inc.",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790242797,
   "type": "Feature",
   "properties": {
+    "addr:full":"3245 S Pinewood Creek Ct New Berlin WI 53151",
+    "addr:housenumber":"3245",
+    "addr:postcode":"53151",
+    "addr:street":"S Pinewood Creek Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.106657,42.986947,-88.106657,42.986947",
     "geom:latitude":42.986947,
     "geom:longitude":-88.106657,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3245 S Pinewood Creek Ct",
     "sg:city":"New Berlin",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125156331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DmIZ7jKcFyKMaNrqzVnEg_42.986947_-88.106657@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462594267,
-    "wof:geomhash":"c903bd74bab7c81af81936b5da4a584f",
+    "wof:geomhash":"59ae32c03274db78a2bd18bc98ff63f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790242797,
-    "wof:lastmodified":1467090279,
+    "wof:lastmodified":1510697031,
     "wof:name":"A Stitch In Time",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",

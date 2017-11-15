@@ -2,14 +2,20 @@
   "id": 806877737,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Jackson St Sun Prairie WI 53590",
+    "addr:housenumber":"120",
+    "addr:postcode":"53590",
+    "addr:street":"Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.225029,43.182734,-89.225029,43.182734",
     "geom:latitude":43.182734,
     "geom:longitude":-89.225029,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 Jackson St",
     "sg:city":"Sun Prairie",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85878835,
         102081795
     ],
+    "wof:brand_id":1125154425,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BviETwJ589Gc7K9ANOR8c_43.182734_-89.225029@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601832,
-    "wof:geomhash":"e8711b57613bd01c403b36f3dc515118",
+    "wof:geomhash":"83d8b0146c7512be6e6787b0f3fa5d46",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806877737,
-    "wof:lastmodified":1467090481,
+    "wof:lastmodified":1510613394,
     "wof:name":"Fashion Cleaners",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

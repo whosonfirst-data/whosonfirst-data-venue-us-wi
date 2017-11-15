@@ -2,9 +2,14 @@
   "id": 806532509,
   "type": "Feature",
   "properties": {
+    "addr:full":"605 Knightsbridge Rd Waunakee WI 53597",
+    "addr:housenumber":"605",
+    "addr:postcode":"53597",
+    "addr:street":"Knightsbridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.448135,43.183926,-89.448135,43.183926",
     "geom:latitude":43.183926,
     "geom:longitude":-89.448135,
@@ -27,12 +32,7 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gONduwGJbAzoaV1xviTQT_43.183926_-89.448135@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462598888,
     "wof:geomhash":"1fd4cd669cce95ea324f774d3d1dec00",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806532509
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806532509,
-    "wof:lastmodified":1467090402,
+    "wof:lastmodified":1491935678,
     "wof:name":"Patrice Douglas Skin Care Ctr",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

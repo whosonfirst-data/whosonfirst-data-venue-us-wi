@@ -2,6 +2,10 @@
   "id": 789583825,
   "type": "Feature",
   "properties": {
+    "addr:full":"5901 State Rd 93 Eau Claire WI 54701",
+    "addr:housenumber":"5901;93",
+    "addr:postcode":"54701",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789583825,
-    "wof:lastmodified":1467090149,
+    "wof:lastmodified":1472653923,
     "wof:name":"Kjelstad Plumbing Inc",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

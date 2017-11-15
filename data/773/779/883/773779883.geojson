@@ -2,14 +2,20 @@
   "id": 773779883,
   "type": "Feature",
   "properties": {
+    "addr:full":"2757 S 5th Ct Milwaukee WI 53207",
+    "addr:housenumber":"2757",
+    "addr:postcode":"53207",
+    "addr:street":"S 5Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.916288,42.991376,-87.916288,42.991376",
     "geom:latitude":42.991376,
     "geom:longitude":-87.916288,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2757 S 5th Ct",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125152413,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4d36ewSZLg1MoYBdbWH7ab_42.991376_-87.916288@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588317,
-    "wof:geomhash":"1560c2c745d564cd6eaf9031c5358837",
+    "wof:geomhash":"7f392bfc9bc18b7e6ce5672b442be6e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773779883,
-    "wof:lastmodified":1467090132,
+    "wof:lastmodified":1510694882,
     "wof:name":"Loomis Fargo & Co",
     "wof:parent_id":85867297,
     "wof:placetype":"venue",

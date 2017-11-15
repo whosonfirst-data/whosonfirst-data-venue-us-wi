@@ -2,14 +2,20 @@
   "id": 790192839,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 S Ridge Rd Green Bay WI 54304",
+    "addr:housenumber":"1301",
+    "addr:postcode":"54304",
+    "addr:street":"S Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.058706,44.510506,-88.058706,44.510506",
     "geom:latitude":44.510506,
     "geom:longitude":-88.058706,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1301 S Ridge Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125155577,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3v0GbNkSW9iExy9HxaBa5B_44.510506_-88.058706@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593877,
-    "wof:geomhash":"fb637d84ae4d8563dc8b534d6adbcd3a",
+    "wof:geomhash":"4d29ad38eeb75c6748a007bafb29861e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790192839,
-    "wof:lastmodified":1467090269,
+    "wof:lastmodified":1510699534,
     "wof:name":"Calvary Lutheran Church",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",

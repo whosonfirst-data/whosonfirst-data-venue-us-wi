@@ -2,9 +2,14 @@
   "id": 807200301,
   "type": "Feature",
   "properties": {
+    "addr:full":"1231 W Main St Twin Lakes WI 53181",
+    "addr:housenumber":"1231",
+    "addr:postcode":"53181",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.278414,42.523768,-88.278414,42.523768",
     "geom:latitude":42.523768,
     "geom:longitude":-88.278414,
@@ -27,7 +32,14 @@
         "investor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493323,
+        85633793,
+        101732579,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57t9pYYRprHFxocj0BeyXD_42.523768_-88.278414@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462604800,
     "wof:geomhash":"e8517f43c8c1485c03c41af93e71cb6b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493323,
+            "locality_id":101732579,
+            "region_id":85688517,
+            "venue_id":807200301
+        }
+    ],
     "wof:id":807200301,
-    "wof:lastmodified":1467090567,
+    "wof:lastmodified":1492103505,
     "wof:name":"Livingston Real Estate Investm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

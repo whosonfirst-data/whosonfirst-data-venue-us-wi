@@ -2,14 +2,20 @@
   "id": 807363879,
   "type": "Feature",
   "properties": {
+    "addr:full":"4933 Commercial Ave Madison WI 53704",
+    "addr:housenumber":"4933",
+    "addr:postcode":"53704",
+    "addr:street":"Commercial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.298729,43.106485,-89.298729,43.106485",
     "geom:latitude":43.106485,
     "geom:longitude":-89.298729,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4933 Commercial Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85878835,
         102081795
     ],
+    "wof:brand_id":1125151089,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1M5KBGbrqUBo6pJjSYy3DC_43.106485_-89.298729@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606706,
-    "wof:geomhash":"c3243a0cfe3b2f2ab6b4b4eda808cd3e",
+    "wof:geomhash":"bc090ed90be120929fc09c181c953bd0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807363879,
-    "wof:lastmodified":1467090623,
+    "wof:lastmodified":1510695435,
     "wof:name":"Rosati's Pizza",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

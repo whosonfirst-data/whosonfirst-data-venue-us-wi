@@ -2,14 +2,20 @@
   "id": 790271931,
   "type": "Feature",
   "properties": {
+    "addr:full":"3214 Kingsley Way Madison WI 53713",
+    "addr:housenumber":"3214",
+    "addr:postcode":"53713",
+    "addr:street":"Kingsley Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.401612,43.028958,-89.401612,43.028958",
     "geom:latitude":43.028958,
     "geom:longitude":-89.401612,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3214 Kingsley Way",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081795,
         85878883
     ],
+    "wof:brand_id":1125159369,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3L2TSlTbCLjTdcSHPcIlMF_43.028958_-89.401612@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462594516,
-    "wof:geomhash":"012a08854794fada0f0e6a818a5ef5c9",
+    "wof:geomhash":"1c47b49063bdccc2f7f10177b93b9a5a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790271931,
-    "wof:lastmodified":1467090285,
+    "wof:lastmodified":1510693227,
     "wof:name":"Simplexgrinnell LP",
     "wof:parent_id":85878883,
     "wof:placetype":"venue",

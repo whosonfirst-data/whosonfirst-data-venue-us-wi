@@ -2,14 +2,20 @@
   "id": 773024305,
   "type": "Feature",
   "properties": {
+    "addr:full":"182 W Trillium Ter Oak Creek WI 53154",
+    "addr:housenumber":"182",
+    "addr:postcode":"53154",
+    "addr:street":"W Trillium Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.91697,42.868072,-87.91697,42.868072",
     "geom:latitude":42.868072,
     "geom:longitude":-87.91697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"182 W Trillium Ter",
     "sg:city":"Oak Creek",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85688517,
         420550135
     ],
+    "wof:brand_id":1125150909,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tca2dI8fpwX0wBVaROKz8_42.868072_-87.916970@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462582508,
-    "wof:geomhash":"a4aacdbf59cb173711798061d15d5534",
+    "wof:geomhash":"53fbf92d96e2a5cc16f734495898247a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":773024305,
-    "wof:lastmodified":1467089940,
+    "wof:lastmodified":1510696734,
     "wof:name":"AIG Sunamerica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

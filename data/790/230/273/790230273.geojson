@@ -2,9 +2,14 @@
   "id": 790230273,
   "type": "Feature",
   "properties": {
+    "addr:full":"5903 Easy St Waunakee WI 53597",
+    "addr:housenumber":"5903",
+    "addr:postcode":"53597",
+    "addr:street":"Easy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.450735,43.206502,-89.450735,43.206502",
     "geom:latitude":43.206502,
     "geom:longitude":-89.450735,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6c4zRHIcqznWerzGoIHbVQ_43.206502_-89.450735@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462594172,
     "wof:geomhash":"6ddd283208cbafa3459c004f852d2287",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790230273
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790230273,
-    "wof:lastmodified":1467090277,
+    "wof:lastmodified":1491935693,
     "wof:name":"Sweat T Letters",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

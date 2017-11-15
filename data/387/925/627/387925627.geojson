@@ -2,9 +2,14 @@
   "id": 387925627,
   "type": "Feature",
   "properties": {
+    "addr:full":"19120 Spring St Union Grove WI 53182",
+    "addr:housenumber":"19120",
+    "addr:postcode":"53182",
+    "addr:street":"Spring St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.047227,42.704717,-88.047227,42.704717",
     "geom:latitude":42.704717,
     "geom:longitude":-88.047227,
@@ -29,8 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688517,
+        102191575,
+        404494999,
         85633793,
-        85688517
+        102081763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +48,16 @@
     "wof:geomhash":"e4de19185ac0b54a3e0c9f426357c524",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081763,
+            "localadmin_id":404494999,
             "region_id":85688517,
             "venue_id":387925627
         }
     ],
     "wof:id":387925627,
-    "wof:lastmodified":1467089921,
+    "wof:lastmodified":1492108816,
     "wof:name":"Belle City Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

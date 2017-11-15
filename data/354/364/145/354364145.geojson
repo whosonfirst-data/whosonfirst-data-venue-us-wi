@@ -2,9 +2,14 @@
   "id": 354364145,
   "type": "Feature",
   "properties": {
+    "addr:full":"804 South St Waunakee WI 53597",
+    "addr:housenumber":"804",
+    "addr:postcode":"53597",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.455492,43.183398,-89.455492,43.183398",
     "geom:latitude":43.183398,
     "geom:longitude":-89.455492,
@@ -28,31 +33,16 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        102081795,
-        85868279
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38enWHRQo9dtdxovwkMfVI_43.183398_-89.455492@1294253271"
     },
     "wof:country":"US",
     "wof:geomhash":"b0c7b3c8af583ffa9aee2a3fb7fd2795",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081795,
-            "locality_id":-1,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":354364145
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":354364145,
-    "wof:lastmodified":1467089936,
+    "wof:lastmodified":1491935705,
     "wof:name":"Belleville Properties LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

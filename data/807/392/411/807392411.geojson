@@ -2,9 +2,14 @@
   "id": 807392411,
   "type": "Feature",
   "properties": {
+    "addr:full":"32800 Geneva Rd Burlington WI 53105",
+    "addr:housenumber":"",
+    "addr:postcode":"32800;53105",
+    "addr:street":"Geneva Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.205009,42.57621,-88.205009,42.57621",
     "geom:latitude":42.57621,
     "geom:longitude":-88.205009,
@@ -18,7 +23,10 @@
     "sg:postcode":"53105",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EOV8CjBraWnpPn2dVJlqb_42.576210_-88.205009@1303262806"
@@ -26,9 +34,15 @@
     "wof:country":"US",
     "wof:created":1462607102,
     "wof:geomhash":"634351a4e72a1059f01ecab89801ec67",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":807392411
+        }
+    ],
     "wof:id":807392411,
-    "wof:lastmodified":1467090635,
+    "wof:lastmodified":1492111866,
     "wof:name":"The Sly Fox",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

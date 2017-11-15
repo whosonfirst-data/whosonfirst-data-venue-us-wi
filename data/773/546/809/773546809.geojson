@@ -2,9 +2,14 @@
   "id": 773546809,
   "type": "Feature",
   "properties": {
+    "addr:full":"4876 Overlook Dr Elkhorn WI 53121",
+    "addr:housenumber":"4876",
+    "addr:postcode":"53121",
+    "addr:street":"Overlook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.502975,42.608962,-88.502975,42.608962",
     "geom:latitude":42.608962,
     "geom:longitude":-88.502975,
@@ -32,13 +37,7 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vxvSLkHkCg9G1UPLBLm6I_42.608962_-88.502975@1294253271"
@@ -46,18 +45,9 @@
     "wof:country":"US",
     "wof:created":1462586545,
     "wof:geomhash":"d91edeba8d59f9b0f3967c2fb2b27229",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":773546809
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773546809,
-    "wof:lastmodified":1467090079,
+    "wof:lastmodified":1492108865,
     "wof:name":"Timms Technical Sales Inc",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

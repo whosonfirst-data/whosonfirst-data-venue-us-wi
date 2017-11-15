@@ -2,14 +2,20 @@
   "id": 807211965,
   "type": "Feature",
   "properties": {
+    "addr:full":"16955 W Rogers Dr New Berlin WI 53151",
+    "addr:housenumber":"16955",
+    "addr:postcode":"53151",
+    "addr:street":"W Rogers Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.124021,43.007339,-88.124021,43.007339",
     "geom:latitude":43.007339,
     "geom:longitude":-88.124021,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16955 W Rogers Dr",
     "sg:city":"New Berlin",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125156475,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mGJGbwVuuTLXU7EBfTck6_43.007339_-88.124021@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604919,
-    "wof:geomhash":"0448d1ff6d3ca91fa9d4f84fb9dbb1bf",
+    "wof:geomhash":"b99c2a404bd71c9c69009df3e91c2bcc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807211965,
-    "wof:lastmodified":1467090571,
+    "wof:lastmodified":1510696791,
     "wof:name":"Safety-Kleen Corp",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807240057,
   "type": "Feature",
   "properties": {
+    "addr:full":"7975 Highland Dr Big Bend WI 53103",
+    "addr:housenumber":"7975",
+    "addr:postcode":"53103",
+    "addr:street":"Highland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.222658,42.899041,-88.222658,42.899041",
     "geom:latitude":42.899041,
     "geom:longitude":-88.222658,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85868297,
+        102191575,
+        404495657,
         85633793,
         101733509,
         102081741,
-        85868297
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"811dd27883fbb62a24c0417723c37816",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081741,
+            "localadmin_id":404495657,
             "locality_id":101733509,
             "neighbourhood_id":85868297,
             "region_id":85688517,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":807240057,
-    "wof:lastmodified":1467090580,
+    "wof:lastmodified":1492098697,
     "wof:name":"Highland Home Service",
     "wof:parent_id":85868297,
     "wof:placetype":"venue",

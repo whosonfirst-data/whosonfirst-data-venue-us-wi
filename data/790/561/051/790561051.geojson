@@ -2,9 +2,14 @@
   "id": 790561051,
   "type": "Feature",
   "properties": {
+    "addr:full":"802 Main St Union Grove WI 53182",
+    "addr:housenumber":"802",
+    "addr:postcode":"53182",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.051968,42.690024,-88.051968,42.690024",
     "geom:latitude":42.690024,
     "geom:longitude":-88.051968,
@@ -24,7 +29,14 @@
     "sg:postcode":"53182",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494991,
+        85633793,
+        101732347,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aNahD0qrmmid0RhTd4Wvn_42.690024_-88.051968@1294253271"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462596883,
     "wof:geomhash":"a75c0d2d2a31cfefd76632bc6cf9e8c6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494991,
+            "locality_id":101732347,
+            "region_id":85688517,
+            "venue_id":790561051
+        }
+    ],
     "wof:id":790561051,
-    "wof:lastmodified":1467090346,
+    "wof:lastmodified":1492103651,
     "wof:name":"Quik Marathone Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

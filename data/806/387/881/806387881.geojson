@@ -2,9 +2,14 @@
   "id": 806387881,
   "type": "Feature",
   "properties": {
+    "addr:full":"331 S Beaumont Ave Kansasville WI 53139",
+    "addr:housenumber":"331",
+    "addr:postcode":"53139",
+    "addr:street":"S Beaumont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.110753,42.723475,-88.110753,42.723475",
     "geom:latitude":42.723475,
     "geom:longitude":-88.110753,
@@ -29,7 +34,13 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404492317,
+        85633793,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VWrC8IrLFF3cvTViE7DQT_42.723475_-88.110753@1294253271"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1462597738,
     "wof:geomhash":"b73087bcb0e9dfae51edcd24c90850bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404492317,
+            "region_id":85688517,
+            "venue_id":806387881
+        }
+    ],
     "wof:id":806387881,
-    "wof:lastmodified":1467090368,
+    "wof:lastmodified":1492103475,
     "wof:name":"Weiss Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807171077,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 N Century Ave Waunakee WI 53597",
+    "addr:housenumber":"401",
+    "addr:postcode":"53597",
+    "addr:street":"N Century Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461779,43.193909,-89.461779,43.193909",
     "geom:latitude":43.193909,
     "geom:longitude":-89.461779,
@@ -28,12 +33,7 @@
         "line"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1R5cxtqe4CZa09slRfXStq_43.193909_-89.461779@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462604494,
     "wof:geomhash":"ad45408d9e98323cb8503c17550e5e6c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807171077
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807171077,
-    "wof:lastmodified":1467090558,
+    "wof:lastmodified":1491935725,
     "wof:name":"Johnson & Marit Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

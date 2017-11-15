@@ -2,14 +2,20 @@
   "id": 807115697,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 Main St Bloomer WI 54724",
+    "addr:housenumber":"1401",
+    "addr:postcode":"54724",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.488823,45.10239,-91.488823,45.10239",
     "geom:latitude":45.10239,
     "geom:longitude":-91.488823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 Main St",
     "sg:city":"Bloomer",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081787,
         85837071
     ],
+    "wof:brand_id":1125158155,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cIlweYs1VSbdYpOMWsR5e_45.102390_-91.488823@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603896,
-    "wof:geomhash":"e88ce965b949671b8fa35e09402b1d0c",
+    "wof:geomhash":"31aba0c4abd6f64a62d5b608a6c6d93e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807115697,
-    "wof:lastmodified":1467090541,
+    "wof:lastmodified":1510697478,
     "wof:name":"Peoples State Bank",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",

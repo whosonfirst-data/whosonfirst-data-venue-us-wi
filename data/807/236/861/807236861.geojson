@@ -2,14 +2,20 @@
   "id": 807236861,
   "type": "Feature",
   "properties": {
+    "addr:full":"217 N 68th St Milwaukee WI 53213",
+    "addr:housenumber":"217",
+    "addr:postcode":"53213",
+    "addr:street":"N 68Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.997467,43.03304,-87.997467,43.03304",
     "geom:latitude":43.03304,
     "geom:longitude":-87.997467,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"217 N 68th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125154987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dgS4tdDBXG8kJvsQfbv2t_43.033040_-87.997467@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605181,
-    "wof:geomhash":"6d1d3f55d6802477f566f3a7fadbd9b6",
+    "wof:geomhash":"d949e9f737df35b7df27960fc31e38ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807236861,
-    "wof:lastmodified":1467090579,
+    "wof:lastmodified":1510695872,
     "wof:name":"Dominican Sisters",
     "wof:parent_id":85870887,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807392363,
   "type": "Feature",
   "properties": {
+    "addr:full":"725 Milwaukee Ave Burlington WI 53105",
+    "addr:housenumber":"725",
+    "addr:postcode":"53105",
+    "addr:street":"Milwaukee Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.272997,42.686321,-88.272997,42.686321",
     "geom:latitude":42.686321,
     "geom:longitude":-88.272997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"725 Milwaukee Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081763,
         85688517
     ],
+    "wof:brand_id":1125158801,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EAetAA78jKQlXYba995vO_42.686321_-88.272997@1303262806"
     },
     "wof:country":"US",
     "wof:created":1462607101,
-    "wof:geomhash":"ee886ac1b18cbee3be984b1e1ee60922",
+    "wof:geomhash":"2fbc402ac4203705a70dae098a8c90fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807392363,
-    "wof:lastmodified":1467090635,
+    "wof:lastmodified":1510613188,
     "wof:name":"Los Compadres",
     "wof:parent_id":85865439,
     "wof:placetype":"venue",

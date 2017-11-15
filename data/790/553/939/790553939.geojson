@@ -2,14 +2,20 @@
   "id": 790553939,
   "type": "Feature",
   "properties": {
+    "addr:full":"2802 E Johnson St Madison WI 53704",
+    "addr:housenumber":"2802",
+    "addr:postcode":"53704",
+    "addr:street":"E Johnson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.344365,43.103264,-89.344365,43.103264",
     "geom:latitude":43.103264,
     "geom:longitude":-89.344365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2802 E Johnson St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         85688517,
         85878879
     ],
+    "wof:brand_id":1125151789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FPf6etc63fITbWiQrZz13_43.103264_-89.344365@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596829,
-    "wof:geomhash":"8b3077de6bdf3b4348834247a6d575fe",
+    "wof:geomhash":"6fe041556ab26e841a1b50bded910925",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":790553939,
-    "wof:lastmodified":1467090344,
+    "wof:lastmodified":1510694974,
     "wof:name":"Insty-Prints",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

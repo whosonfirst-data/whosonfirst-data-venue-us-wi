@@ -2,14 +2,20 @@
   "id": 790116133,
   "type": "Feature",
   "properties": {
+    "addr:full":"2419 Spooner Ave Altoona WI 54720",
+    "addr:housenumber":"2419",
+    "addr:postcode":"54720",
+    "addr:street":"Spooner Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.45002,44.807141,-91.45002,44.807141",
     "geom:latitude":44.807141,
     "geom:longitude":-91.45002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2419 Spooner Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125153343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GDXiiEsd77pbBkq69YEix_44.807141_-91.450020@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593260,
-    "wof:geomhash":"55de74f3485e2a6e1582dbaa9d8ab26a",
+    "wof:geomhash":"d8204d501a18791437b32ad57ccc91b5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790116133,
-    "wof:lastmodified":1467090254,
+    "wof:lastmodified":1510699314,
     "wof:name":"URS Corp",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

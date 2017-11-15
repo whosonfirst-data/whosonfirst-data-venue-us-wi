@@ -2,9 +2,14 @@
   "id": 773410763,
   "type": "Feature",
   "properties": {
+    "addr:full":"4510 328th Ave Burlington WI 53105",
+    "addr:housenumber":"4510",
+    "addr:postcode":"53105",
+    "addr:street":"328Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.207821,42.596375,-88.207821,42.596375",
     "geom:latitude":42.596375,
     "geom:longitude":-88.207821,
@@ -24,7 +29,13 @@
     "sg:postcode":"53105",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493325,
+        85633793,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0enqQIEyaiOwsvLItS45jl_42.596375_-88.207821@1294253271"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462585494,
     "wof:geomhash":"d08e5a445782665f6cc4acaddaf66f5b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493325,
+            "region_id":85688517,
+            "venue_id":773410763
+        }
+    ],
     "wof:id":773410763,
-    "wof:lastmodified":1467090047,
+    "wof:lastmodified":1492103470,
     "wof:name":"Ide Realty Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

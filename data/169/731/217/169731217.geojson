@@ -2,9 +2,14 @@
   "id": 169731217,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 Havenwood Dr Lake Geneva WI 53147",
+    "addr:housenumber":"250",
+    "addr:postcode":"53147",
+    "addr:street":"Havenwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.425756,42.591652,-88.425756,42.591652",
     "geom:latitude":42.591652,
     "geom:longitude":-88.425756,
@@ -27,32 +32,16 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36yLs9vbkaMWaBgROVIJ4e_42.591652_-88.425756@1294253271"
     },
     "wof:country":"US",
     "wof:geomhash":"059a51b8dfd7e48d4fe3b6aa177e1238",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":169731217
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169731217,
-    "wof:lastmodified":1467089909,
+    "wof:lastmodified":1492097565,
     "wof:name":"Havenwood Apts",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

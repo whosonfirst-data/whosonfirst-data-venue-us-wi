@@ -2,9 +2,14 @@
   "id": 353711451,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 E Meadow Ter Oak Creek WI 53154",
+    "addr:housenumber":"900",
+    "addr:postcode":"53154",
+    "addr:street":"E Meadow Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.897612,42.881838,-87.897612,42.881838",
     "geom:latitude":42.881838,
     "geom:longitude":-87.897612,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        420550135,
+        102191575,
+        404494177,
         85633793,
         101733079,
-        102081837
+        102081837,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"c67162a6d3417fda8cf1c22374c216ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404494177,
             "locality_id":101733079,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420550135,
             "region_id":85688517,
             "venue_id":353711451
         }
     ],
     "wof:id":353711451,
-    "wof:lastmodified":1467089891,
+    "wof:lastmodified":1492108862,
     "wof:name":"Charlies Bakery",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

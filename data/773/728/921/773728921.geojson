@@ -2,14 +2,20 @@
   "id": 773728921,
   "type": "Feature",
   "properties": {
+    "addr:full":"1927 E John St Appleton WI 54915",
+    "addr:housenumber":"1927",
+    "addr:postcode":"54915",
+    "addr:street":"E John St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.37341,44.24951,-88.37341,44.24951",
     "geom:latitude":44.24951,
     "geom:longitude":-88.37341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1927 E John St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081851,
         85688517
     ],
+    "wof:brand_id":1125157501,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XKk53C1w706L7A00rjquc_44.249510_-88.373410@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587940,
-    "wof:geomhash":"6c9d574fb2b2167354ff11f447c3bfc8",
+    "wof:geomhash":"cc560451ff2420259a0ab8ad48f65bf2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773728921,
-    "wof:lastmodified":1467090120,
+    "wof:lastmodified":1510694027,
     "wof:name":"Sisters Of St Francis",
     "wof:parent_id":85857401,
     "wof:placetype":"venue",

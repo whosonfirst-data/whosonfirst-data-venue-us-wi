@@ -2,9 +2,14 @@
   "id": 370537445,
   "type": "Feature",
   "properties": {
+    "addr:full":"118 Fairbrook Dr Waunakee WI 53597",
+    "addr:housenumber":"118",
+    "addr:postcode":"53597",
+    "addr:street":"Fairbrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.459219,43.19583,-89.459219,43.19583",
     "geom:latitude":43.19583,
     "geom:longitude":-89.459219,
@@ -27,31 +32,16 @@
         "television"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        102081795,
-        85868279
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ABb3K4h62rI1ZBQDWMj0G_43.195830_-89.459219@1294253271"
     },
     "wof:country":"US",
     "wof:geomhash":"afb88a0991f5238ed2f0f698663caa59",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081795,
-            "locality_id":-1,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":370537445
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":370537445,
-    "wof:lastmodified":1467089900,
+    "wof:lastmodified":1491935700,
     "wof:name":"Cnn",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

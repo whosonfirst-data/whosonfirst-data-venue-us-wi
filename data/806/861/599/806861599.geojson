@@ -2,9 +2,14 @@
   "id": 806861599,
   "type": "Feature",
   "properties": {
+    "addr:full":"5741 Broad St Greendale WI 53129",
+    "addr:housenumber":"5741",
+    "addr:postcode":"53129",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.996107,42.939952,-87.996107,42.939952",
     "geom:latitude":42.939952,
     "geom:longitude":-87.996107,
@@ -28,7 +33,14 @@
         "us"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404492089,
+        85633793,
+        101733071,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zbNEpZJfGalQx15mRawtM_42.939952_-87.996107@1294253271"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462601702,
     "wof:geomhash":"526c85bb69641f8a9bfa3bd0f2fc3b56",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492089,
+            "locality_id":101733071,
+            "region_id":85688517,
+            "venue_id":806861599
+        }
+    ],
     "wof:id":806861599,
-    "wof:lastmodified":1467090478,
+    "wof:lastmodified":1492103525,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790359081,
   "type": "Feature",
   "properties": {
+    "addr:full":"8100 W Greenfield Ave West Allis WI 53214",
+    "addr:housenumber":"8100",
+    "addr:postcode":"53214",
+    "addr:street":"W Greenfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.012412,43.016668,-88.012412,43.016668",
     "geom:latitude":43.016668,
     "geom:longitude":-88.012412,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8100 W Greenfield Ave",
     "sg:city":"West Allis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125153985,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hf5S259dBUnitix20XZoA_43.016668_-88.012412@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462595218,
-    "wof:geomhash":"b3ba48c78dd5b014974c3b4d4ea47b90",
+    "wof:geomhash":"918fee98c13465699ec6e35b2f431535",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790359081,
-    "wof:lastmodified":1467090302,
+    "wof:lastmodified":1510699548,
     "wof:name":"Oreck Floor Care Ctr",
     "wof:parent_id":420550045,
     "wof:placetype":"venue",

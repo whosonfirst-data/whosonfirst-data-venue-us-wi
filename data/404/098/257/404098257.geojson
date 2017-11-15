@@ -2,9 +2,14 @@
   "id": 404098257,
   "type": "Feature",
   "properties": {
+    "addr:full":"1410 60th St Kenosha WI 53140",
+    "addr:housenumber":"1410",
+    "addr:postcode":"53140",
+    "addr:street":"60Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.827113,42.580825,-87.827113,42.580825",
     "geom:latitude":42.580825,
     "geom:longitude":-87.827113,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85810813,
+        102191575,
+        404493393,
         85633793,
         101732567,
         102081309,
-        85810813
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"fe11e227d074755df8224d2ebf5d7f10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081309,
+            "localadmin_id":404493393,
             "locality_id":101732567,
             "neighbourhood_id":85810813,
             "region_id":85688517,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":404098257,
-    "wof:lastmodified":1467089911,
+    "wof:lastmodified":1492097562,
     "wof:name":"US Consumer Products Safety",
     "wof:parent_id":85810813,
     "wof:placetype":"venue",

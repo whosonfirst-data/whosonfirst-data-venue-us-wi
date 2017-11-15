@@ -2,14 +2,20 @@
   "id": 387920317,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 E Wisconsin Ave Milwaukee WI 53202",
+    "addr:housenumber":"411",
+    "addr:postcode":"53202",
+    "addr:street":"E Wisconsin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.905357,43.038726,-87.905357,43.038726",
     "geom:latitude":43.038726,
     "geom:longitude":-87.905357,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"411 E Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102081837,
         85867289
     ],
+    "wof:brand_id":1125151637,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IqaXLntXzZNXCB5MXgtkV_43.038726_-87.905357@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f1790f257a7ebabc8dbb2c5b21eee86",
+    "wof:geomhash":"cbac74ac244087d7bef875e7516909f5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387920317,
-    "wof:lastmodified":1467089930,
+    "wof:lastmodified":1510695903,
     "wof:name":"Citigroup Global Markets Inc",
     "wof:parent_id":85867289,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807158861,
   "type": "Feature",
   "properties": {
+    "addr:full":"4682 Cottage Grove Rd Madison WI 53716",
+    "addr:housenumber":"4682",
+    "addr:postcode":"53716",
+    "addr:street":"Cottage Grove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.300812,43.084308,-89.300812,43.084308",
     "geom:latitude":43.084308,
     "geom:longitude":-89.300812,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4682 Cottage Grove Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85878835,
         102081795
     ],
+    "wof:brand_id":420575687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bSoxYUIrVwQECLFohbHBb_43.084308_-89.300812@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604364,
-    "wof:geomhash":"aa82dc497f6eb3a16f9e90556fc646d4",
+    "wof:geomhash":"0848e4faeedf03ecd7a770fe4097416f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":807158861,
-    "wof:lastmodified":1467090555,
+    "wof:lastmodified":1510602539,
     "wof:name":"Lovely Nails",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

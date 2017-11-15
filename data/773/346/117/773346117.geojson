@@ -2,14 +2,20 @@
   "id": 773346117,
   "type": "Feature",
   "properties": {
+    "addr:full":"4211 Maple Ct Kaukauna WI 54130",
+    "addr:housenumber":"4211",
+    "addr:postcode":"54130",
+    "addr:street":"Maple Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.299103,44.390519,-88.299103,44.390519",
     "geom:latitude":44.390519,
     "geom:longitude":-88.299103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4211 Maple Ct",
     "sg:city":"Kaukauna",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85803271,
         102081851
     ],
+    "wof:brand_id":1125156599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6l1nUdozYMeOplIhr8XDOU_44.390519_-88.299103@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585019,
-    "wof:geomhash":"6223c0e0b1d438c48b48b2ccb5007c6c",
+    "wof:geomhash":"f3dcdfdc53f42e3067524227c3d16a6e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773346117,
-    "wof:lastmodified":1467090032,
+    "wof:lastmodified":1510694627,
     "wof:name":"Kimberly-Clark",
     "wof:parent_id":85803271,
     "wof:placetype":"venue",

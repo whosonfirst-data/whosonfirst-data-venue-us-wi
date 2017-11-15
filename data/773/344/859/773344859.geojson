@@ -2,9 +2,14 @@
   "id": 773344859,
   "type": "Feature",
   "properties": {
+    "addr:full":"7475 Center Dr Waukesha WI 53189",
+    "addr:housenumber":"7475",
+    "addr:postcode":"53189",
+    "addr:street":"Center Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.248116,42.90786,-88.248116,42.90786",
     "geom:latitude":42.90786,
     "geom:longitude":-88.248116,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85868297,
+        102191575,
+        404495657,
         85633793,
         101733509,
         102081741,
-        85868297
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"e5c7762c00662d1ac531eb3592c2bf6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081741,
+            "localadmin_id":404495657,
             "locality_id":101733509,
             "neighbourhood_id":85868297,
             "region_id":85688517,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":773344859,
-    "wof:lastmodified":1467090032,
+    "wof:lastmodified":1492096439,
     "wof:name":"Express Computer Systems LLC",
     "wof:parent_id":85868297,
     "wof:placetype":"venue",

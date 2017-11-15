@@ -2,14 +2,20 @@
   "id": 790112651,
   "type": "Feature",
   "properties": {
+    "addr:full":"336 W Capitol Dr Milwaukee WI 53212",
+    "addr:housenumber":"336",
+    "addr:postcode":"53212",
+    "addr:street":"W Capitol Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.916882,43.08938,-87.916882,43.08938",
     "geom:latitude":43.08938,
     "geom:longitude":-87.916882,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"336 W Capitol Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125153751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BsZqvaXaaJq7CR0IWRfWx_43.089380_-87.916882@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593237,
-    "wof:geomhash":"77c78fecee29252edb2f392c16598c04",
+    "wof:geomhash":"493ca11b03f34db1454e0990f5878194",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790112651,
-    "wof:lastmodified":1467090254,
+    "wof:lastmodified":1510693813,
     "wof:name":"Classy Nails",
     "wof:parent_id":85870875,
     "wof:placetype":"venue",

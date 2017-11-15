@@ -2,9 +2,14 @@
   "id": 806647255,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 W Main St Waunakee WI 53597",
+    "addr:housenumber":"104",
+    "addr:postcode":"53597",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.455135,43.191863,-89.455135,43.191863",
     "geom:latitude":43.191863,
     "geom:longitude":-89.455135,
@@ -27,12 +32,7 @@
         "surveyor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_076M50Wa3jnyt0BIlrDEQ4_43.191863_-89.455135@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462599882,
     "wof:geomhash":"40dc154ef36d0317f33f559c2e1c0523",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806647255
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806647255,
-    "wof:lastmodified":1467090429,
+    "wof:lastmodified":1491935707,
     "wof:name":"Williamson Survey Co Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

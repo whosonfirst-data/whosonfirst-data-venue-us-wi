@@ -2,9 +2,14 @@
   "id": 806672165,
   "type": "Feature",
   "properties": {
+    "addr:full":"690 Valley View Ct Lake Geneva WI 53147",
+    "addr:housenumber":"690",
+    "addr:postcode":"53147",
+    "addr:street":"Valley View Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.318387,42.741163,-88.318387,42.741163",
     "geom:latitude":42.741163,
     "geom:longitude":-88.318387,
@@ -25,10 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85826135,
-        102081883
+        102191575,
+        404494989,
+        85633793,
+        101732343,
+        102081763,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +47,18 @@
     "wof:geomhash":"2a36bb796e24ccb1f96dc7ac0d245e6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081883,
+            "county_id":102081763,
+            "localadmin_id":404494989,
+            "locality_id":101732343,
             "neighbourhood_id":85826135,
             "region_id":85688517,
             "venue_id":806672165
         }
     ],
     "wof:id":806672165,
-    "wof:lastmodified":1467090435,
+    "wof:lastmodified":1492103645,
     "wof:name":"Stan Whit",
     "wof:parent_id":85826135,
     "wof:placetype":"venue",

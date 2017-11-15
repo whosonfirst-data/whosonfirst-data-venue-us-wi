@@ -2,9 +2,14 @@
   "id": 387053929,
   "type": "Feature",
   "properties": {
+    "addr:full":"828 N Broadway St Milwaukee WI 53202",
+    "addr:housenumber":"828",
+    "addr:postcode":"53202",
+    "addr:street":"N Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.908109,43.042014,-87.908109,43.042014",
     "geom:latitude":43.042014,
     "geom:longitude":-87.908109,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870999,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870999
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"1fddbf47c3bb44b1bc6d7bdbe04b8dfc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870999,
             "region_id":85688517,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":387053929,
-    "wof:lastmodified":1467089923,
+    "wof:lastmodified":1491921227,
     "wof:name":"Prosurance Group Inc",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",

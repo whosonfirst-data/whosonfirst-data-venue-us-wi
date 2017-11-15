@@ -2,14 +2,20 @@
   "id": 789681287,
   "type": "Feature",
   "properties": {
+    "addr:full":"2275 S 162nd St New Berlin WI 53151",
+    "addr:housenumber":"2275",
+    "addr:postcode":"53151",
+    "addr:street":"S 162Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.113424,43.006549,-88.113424,43.006549",
     "geom:latitude":43.006549,
     "geom:longitude":-88.113424,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2275 S 162nd St",
     "sg:city":"New Berlin",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":420575395,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fvOtu47XnJwAzNHagTInf_43.006549_-88.113424@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462589712,
-    "wof:geomhash":"360d581160fc21c7fef01a96ae37583f",
+    "wof:geomhash":"a6066d518a989da7f4e01b3780fea43d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":789681287,
-    "wof:lastmodified":1467090170,
+    "wof:lastmodified":1510602858,
     "wof:name":"Glass Doctor",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",

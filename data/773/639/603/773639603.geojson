@@ -2,14 +2,20 @@
   "id": 773639603,
   "type": "Feature",
   "properties": {
+    "addr:full":"3071 W Layton Ave Milwaukee WI 53221",
+    "addr:housenumber":"3071",
+    "addr:postcode":"53221",
+    "addr:street":"W Layton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.952727,42.959328,-87.952727,42.959328",
     "geom:latitude":42.959328,
     "geom:longitude":-87.952727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3071 W Layton Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125151809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59rx07evfDvjnvSFdWf0TL_42.959328_-87.952727@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587244,
-    "wof:geomhash":"71d5233177db8b1ca1fddc1ca3ce6811",
+    "wof:geomhash":"50eb285879487baa02a714f74f266ce3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773639603,
-    "wof:lastmodified":1467090100,
+    "wof:lastmodified":1510693839,
     "wof:name":"United Transportation Union",
     "wof:parent_id":85870931,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789899963,
   "type": "Feature",
   "properties": {
+    "addr:full":"2717 Birch St Eau Claire WI 54703",
+    "addr:housenumber":"2717",
+    "addr:postcode":"54703",
+    "addr:street":"Birch St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.469489,44.821361,-91.469489,44.821361",
     "geom:latitude":44.821361,
     "geom:longitude":-91.469489,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2717 Birch St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125158267,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1k1gYDlyq7vJF5Cljfzgq6_44.821361_-91.469489@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591446,
-    "wof:geomhash":"2f79a68d090a25e5509fdbea024db594",
+    "wof:geomhash":"ccde3f44c12802eba7a5ecc9228d9918",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789899963,
-    "wof:lastmodified":1467090212,
+    "wof:lastmodified":1510699343,
     "wof:name":"Cub Foods",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

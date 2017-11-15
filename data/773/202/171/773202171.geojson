@@ -2,14 +2,20 @@
   "id": 773202171,
   "type": "Feature",
   "properties": {
+    "addr:full":"2451 Longtail Beach Ln Suamico WI 54173",
+    "addr:housenumber":"2451",
+    "addr:postcode":"54173",
+    "addr:street":"Longtail Beach Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.013902,44.608934,-88.013902,44.608934",
     "geom:latitude":44.608934,
     "geom:longitude":-88.013902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2451 Longtail Beach Ln",
     "sg:city":"Suamico",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":420575791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sjJjile0CE8Ru7R8TgVww_44.608934_-88.013902@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583945,
-    "wof:geomhash":"13b075bb023f8f94d749b02b9decd6ea",
+    "wof:geomhash":"63f4316ca2f988d44b75e6a5a94dbff9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773202171,
-    "wof:lastmodified":1467089986,
+    "wof:lastmodified":1510602635,
     "wof:name":"Civil Air Patrol Inc",
     "wof:parent_id":85852587,
     "wof:placetype":"venue",

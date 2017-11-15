@@ -2,14 +2,20 @@
   "id": 790358447,
   "type": "Feature",
   "properties": {
+    "addr:full":"13195 Hampton Rd Butler WI 53007",
+    "addr:housenumber":"13195",
+    "addr:postcode":"53007",
+    "addr:street":"Hampton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.069711,43.104572,-88.069711,43.104572",
     "geom:latitude":43.104572,
     "geom:longitude":-88.069711,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13195 Hampton Rd",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125153569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6l8bInxAAbAZmz1RgT5sMP_43.104572_-88.069711@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462595213,
-    "wof:geomhash":"8540b1a569a8e6da0e7f302d0e2b2e52",
+    "wof:geomhash":"7e974488df0d647e9290e5ff795cc8f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790358447,
-    "wof:lastmodified":1467090302,
+    "wof:lastmodified":1510693206,
     "wof:name":"U S Bank National Association",
     "wof:parent_id":85870815,
     "wof:placetype":"venue",

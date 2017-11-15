@@ -2,14 +2,20 @@
   "id": 789906109,
   "type": "Feature",
   "properties": {
+    "addr:full":"1051 N Lynndale Dr Appleton WI 54914",
+    "addr:housenumber":"1051",
+    "addr:postcode":"54914",
+    "addr:street":"N Lynndale Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.446034,44.267185,-88.446034,44.267185",
     "geom:latitude":44.267185,
     "geom:longitude":-88.446034,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1051 N Lynndale Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125156539,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bhKezGeWaFJ5rIpkNRb6u_44.267185_-88.446034@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591494,
-    "wof:geomhash":"f5513a4bea3d9acf779a109b110b14c2",
+    "wof:geomhash":"3fb3b76539e4bbe1e16813763958a77c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":789906109,
-    "wof:lastmodified":1467090213,
+    "wof:lastmodified":1510697485,
     "wof:name":"Child Care Resource & Referral",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

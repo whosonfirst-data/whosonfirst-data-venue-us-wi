@@ -2,9 +2,14 @@
   "id": 806954417,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Bristol Dr Waunakee WI 53597",
+    "addr:housenumber":"900",
+    "addr:postcode":"53597",
+    "addr:street":"Bristol Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.449711,43.182745,-89.449711,43.182745",
     "geom:latitude":43.182745,
     "geom:longitude":-89.449711,
@@ -27,12 +32,7 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iF8t1fA0K72ub6BGbz3ob_43.182745_-89.449711@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462602480,
     "wof:geomhash":"a5408d8a719579d14d9c5b99e9adc08b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806954417
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806954417,
-    "wof:lastmodified":1467090498,
+    "wof:lastmodified":1491935680,
     "wof:name":"Stephen C Sash DVM",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

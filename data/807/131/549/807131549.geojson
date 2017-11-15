@@ -2,14 +2,20 @@
   "id": 807131549,
   "type": "Feature",
   "properties": {
+    "addr:full":"2151 Cater Rd Eau Claire WI 54701",
+    "addr:housenumber":"2151",
+    "addr:postcode":"54701",
+    "addr:street":"Cater Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.498849,44.748657,-91.498849,44.748657",
     "geom:latitude":44.748657,
     "geom:longitude":-91.498849,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2151 Cater Rd",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125159843,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6udLjmk2WD3h5ZzPmUTmUJ_44.748657_-91.498849@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604066,
-    "wof:geomhash":"e6ac30f8f02733a996ba501bdcc8ffe3",
+    "wof:geomhash":"af2f6d8a4f41306322f2ff06466e46be",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807131549,
-    "wof:lastmodified":1467090546,
+    "wof:lastmodified":1510694243,
     "wof:name":"Corporate Express Inc",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807110959,
   "type": "Feature",
   "properties": {
+    "addr:full":"208 E Main St Waunakee WI 53597",
+    "addr:housenumber":"208",
+    "addr:postcode":"53597",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.451929,43.191825,-89.451929,43.191825",
     "geom:latitude":43.191825,
     "geom:longitude":-89.451929,
@@ -25,12 +30,7 @@
     "sg:province":"WI",
     "sg:website":"www.kwiktrip.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UP4tRZWv7em35wcbryeug_43.191825_-89.451929@1294253271"
@@ -38,17 +38,9 @@
     "wof:country":"US",
     "wof:created":1462603843,
     "wof:geomhash":"c69c4d47163577334b26baa53efefc9b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807110959
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807110959,
-    "wof:lastmodified":1467090540,
+    "wof:lastmodified":1491935715,
     "wof:name":"KWIK Trip",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

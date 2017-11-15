@@ -2,14 +2,20 @@
   "id": 789887501,
   "type": "Feature",
   "properties": {
+    "addr:full":"2802 Heritage Dr Delafield WI 53018",
+    "addr:housenumber":"2802",
+    "addr:postcode":"53018",
+    "addr:street":"Heritage Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.373075,43.049959,-88.373075,43.049959",
     "geom:latitude":43.049959,
     "geom:longitude":-88.373075,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2802 Heritage Dr",
     "sg:city":"Delafield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125152429,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TWSFpwh4f8Nq7Zu2XKVbl_43.049959_-88.373075@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591349,
-    "wof:geomhash":"117dd815d1063e41b7d6fedec72c4d6c",
+    "wof:geomhash":"9a806c7dcde2318cf06cd020571edbd9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789887501,
-    "wof:lastmodified":1467090210,
+    "wof:lastmodified":1510693824,
     "wof:name":"Sterling Optical",
     "wof:parent_id":85808383,
     "wof:placetype":"venue",

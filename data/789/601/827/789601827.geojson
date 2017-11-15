@@ -2,14 +2,20 @@
   "id": 789601827,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 N Mall Dr Appleton WI 54913",
+    "addr:housenumber":"345",
+    "addr:postcode":"54913",
+    "addr:street":"N Mall Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.473379,44.264511,-88.473379,44.264511",
     "geom:latitude":44.264511,
     "geom:longitude":-88.473379,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"345 N Mall Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":420574739,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ry3DdTN8uey0wafCxBPuX_44.264511_-88.473379@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462589080,
-    "wof:geomhash":"0c553363aa38eff379deac57086ee9a2",
+    "wof:geomhash":"9cfefa0ac937a8976664420055acf1b4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789601827,
-    "wof:lastmodified":1467090154,
+    "wof:lastmodified":1510604198,
     "wof:name":"PETCO",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

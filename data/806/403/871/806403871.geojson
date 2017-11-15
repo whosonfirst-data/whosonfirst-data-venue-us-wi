@@ -2,14 +2,20 @@
   "id": 806403871,
   "type": "Feature",
   "properties": {
+    "addr:full":"7515 University Ave Middleton WI 53562",
+    "addr:housenumber":"7515",
+    "addr:postcode":"53562",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.512647,43.096764,-89.512647,43.096764",
     "geom:latitude":43.096764,
     "geom:longitude":-89.512647,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7515 University Ave",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081795,
         85841479
     ],
+    "wof:brand_id":1125159495,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kwr12gmcr1BZheC34TXal_43.096764_-89.512647@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462597867,
-    "wof:geomhash":"89c7412ce996442866e6aad06e9610f7",
+    "wof:geomhash":"183f95a562871dc626381db11e734521",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806403871,
-    "wof:lastmodified":1467090371,
+    "wof:lastmodified":1510695422,
     "wof:name":"Cenex Convenience Store",
     "wof:parent_id":85841479,
     "wof:placetype":"venue",

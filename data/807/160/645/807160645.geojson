@@ -2,9 +2,14 @@
   "id": 807160645,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 Manchester W Waunakee WI 53597",
+    "addr:housenumber":"1301",
+    "addr:postcode":"53597",
+    "addr:street":"Manchester W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.443376,43.178185,-89.443376,43.178185",
     "geom:latitude":43.178185,
     "geom:longitude":-89.443376,
@@ -29,12 +34,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TjSH91mFXmvgoPjfyLGZt_43.178185_-89.443376@1294253271"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462604385,
     "wof:geomhash":"4a6917f7c6d803369440b87d21b84c98",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807160645
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807160645,
-    "wof:lastmodified":1467090555,
+    "wof:lastmodified":1491935681,
     "wof:name":"Can Do Construction",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

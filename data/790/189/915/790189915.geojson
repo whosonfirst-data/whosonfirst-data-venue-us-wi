@@ -2,9 +2,14 @@
   "id": 790189915,
   "type": "Feature",
   "properties": {
+    "addr:full":"1561 Lake Shore Dr Lake Geneva WI 53147",
+    "addr:housenumber":"1561",
+    "addr:postcode":"53147",
+    "addr:street":"Lake Shore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.448263,42.58695,-88.448263,42.58695",
     "geom:latitude":42.58695,
     "geom:longitude":-88.448263,
@@ -27,13 +32,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38EpYDC89kMeWVpYKVO5oa_42.586950_-88.448263@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462593853,
     "wof:geomhash":"4bc85789d4e9ab19d214013e3b2e0e7d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":790189915
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790189915,
-    "wof:lastmodified":1467090269,
+    "wof:lastmodified":1492098856,
     "wof:name":"Orren Pickell Builders",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790510885,
   "type": "Feature",
   "properties": {
+    "addr:full":"2610 Stewart Ave Wausau WI 54401",
+    "addr:housenumber":"2610",
+    "addr:postcode":"54401",
+    "addr:street":"Stewart Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.668161,44.957716,-89.668161,44.957716",
     "geom:latitude":44.957716,
     "geom:longitude":-89.668161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2610 Stewart Ave",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081881,
         85868295
     ],
+    "wof:brand_id":1125150063,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4F1fmXCRUm6IuaHFabbUQ5_44.957716_-89.668161@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596459,
-    "wof:geomhash":"48ac074b6551c03549f9cbccdb7bd43c",
+    "wof:geomhash":"3c3764949cb9e05c0a5b39405ea9b1be",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790510885,
-    "wof:lastmodified":1467090334,
+    "wof:lastmodified":1510695808,
     "wof:name":"Axa Advisors",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",

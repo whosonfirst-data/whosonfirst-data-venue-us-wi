@@ -2,9 +2,14 @@
   "id": 807345487,
   "type": "Feature",
   "properties": {
+    "addr:full":"26505 Dover Line Rd Waterford WI 53185",
+    "addr:housenumber":"26505",
+    "addr:postcode":"53185",
+    "addr:street":"Dover Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.165436,42.762658,-88.165436,42.762658",
     "geom:latitude":42.762658,
     "geom:longitude":-88.165436,
@@ -24,7 +29,13 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494901,
+        85633793,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FhSQv3PvroNzcorjFytaU_42.762658_-88.165436@1294253271"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462606439,
     "wof:geomhash":"1539774619ed164d245b0d927602e32d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494901,
+            "region_id":85688517,
+            "venue_id":807345487
+        }
+    ],
     "wof:id":807345487,
-    "wof:lastmodified":1467090616,
+    "wof:lastmodified":1492103443,
     "wof:name":"Strueder Lawerence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

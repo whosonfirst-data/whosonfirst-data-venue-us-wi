@@ -2,9 +2,14 @@
   "id": 807119679,
   "type": "Feature",
   "properties": {
+    "addr:full":"7778 Noll Valley Rd Verona WI 53593",
+    "addr:housenumber":"7778",
+    "addr:postcode":"53593",
+    "addr:street":"Noll Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.593848,43.038932,-89.593848,43.038932",
     "geom:latitude":43.038932,
     "geom:longitude":-89.593848,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"bc06faf1a5ac1014c05bf45f9b1b78a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":807119679,
-    "wof:lastmodified":1467090542,
+    "wof:lastmodified":1491894098,
     "wof:name":"Scilog",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

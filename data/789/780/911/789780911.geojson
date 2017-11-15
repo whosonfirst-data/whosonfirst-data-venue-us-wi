@@ -2,6 +2,10 @@
   "id": 789780911,
   "type": "Feature",
   "properties": {
+    "addr:full":"2345 W Mill Rd Milwaukee WI 53209",
+    "addr:housenumber":"2345",
+    "addr:postcode":"53209",
+    "addr:street":"W Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789780911,
-    "wof:lastmodified":1467090190,
+    "wof:lastmodified":1472654348,
     "wof:name":"Birchwood Snow & Landscape",
     "wof:parent_id":85870803,
     "wof:placetype":"venue",

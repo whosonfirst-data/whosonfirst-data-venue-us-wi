@@ -2,9 +2,14 @@
   "id": 370517333,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 Raemisch Rd Waunakee WI 53597",
+    "addr:housenumber":"315",
+    "addr:postcode":"53597",
+    "addr:street":"Raemisch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.436854,43.186554,-89.436854,43.186554",
     "geom:latitude":43.186554,
     "geom:longitude":-89.436854,
@@ -29,31 +34,16 @@
         "conveying"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        102081795,
-        85868279
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43r4B5DlnMMBL4pr1gcsFH_43.186554_-89.436854@1294253271"
     },
     "wof:country":"US",
     "wof:geomhash":"962547c8b0832a39d4eb97d053181da4",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081795,
-            "locality_id":-1,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":370517333
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":370517333,
-    "wof:lastmodified":1467089903,
+    "wof:lastmodified":1491935672,
     "wof:name":"Alpha Engineering & Sales Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

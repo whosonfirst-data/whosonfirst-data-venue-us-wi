@@ -2,9 +2,14 @@
   "id": 387660745,
   "type": "Feature",
   "properties": {
+    "addr:full":"2020 Co Rd H Lake Geneva WI 53147",
+    "addr:housenumber":"2020",
+    "addr:postcode":"53147",
+    "addr:street":"Co Rd H",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.409976,42.561075,-88.409976,42.561075",
     "geom:latitude":42.561075,
     "geom:longitude":-88.409976,
@@ -29,32 +34,16 @@
         "mower"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aCGpahvYnwgkqgBJ9Pft3_42.561075_-88.409976@1294253271"
     },
     "wof:country":"US",
     "wof:geomhash":"c79448674ab3fab314e57f7afde97fa8",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":387660745
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":387660745,
-    "wof:lastmodified":1467089932,
+    "wof:lastmodified":1492108871,
     "wof:name":"B & M Lawn Mower Repair",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

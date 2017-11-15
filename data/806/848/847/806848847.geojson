@@ -2,14 +2,20 @@
   "id": 806848847,
   "type": "Feature",
   "properties": {
+    "addr:full":"4167 Co Rd Tt Sun Prairie WI 53590",
+    "addr:housenumber":"4167",
+    "addr:postcode":"53590",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.2414,43.111115,-89.2414,43.111115",
     "geom:latitude":43.111115,
     "geom:longitude":-89.2414,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4167 Co Rd Tt",
     "sg:city":"Sun Prairie",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081795,
         85847753
     ],
+    "wof:brand_id":1125151095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bL9NbaCTuNymTk1Q4UOCn_43.111115_-89.241400@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601597,
-    "wof:geomhash":"46bc8811f0beb0fa297cd3a828cbaec8",
+    "wof:geomhash":"047003fa755dc8f05fa975d13ec92839",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":806848847,
-    "wof:lastmodified":1467090475,
+    "wof:lastmodified":1510699972,
     "wof:name":"Stanley Home Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

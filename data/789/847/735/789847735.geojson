@@ -2,14 +2,20 @@
   "id": 789847735,
   "type": "Feature",
   "properties": {
+    "addr:full":"2114 International Ln Madison WI 53704",
+    "addr:housenumber":"2114",
+    "addr:postcode":"53704",
+    "addr:street":"International Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.351581,43.123702,-89.351581,43.123702",
     "geom:latitude":43.123702,
     "geom:longitude":-89.351581,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2114 International Ln",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125150607,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cYAyS0SKwm9GW3mwcYAlJ_43.123702_-89.351581@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591011,
-    "wof:geomhash":"e16b434d8bebc9191314f6919c7ae661",
+    "wof:geomhash":"7dced8a36418d2b4a0a7bc34191c828b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789847735,
-    "wof:lastmodified":1467090202,
+    "wof:lastmodified":1510697768,
     "wof:name":"Kraft Foods",
     "wof:parent_id":85878829,
     "wof:placetype":"venue",

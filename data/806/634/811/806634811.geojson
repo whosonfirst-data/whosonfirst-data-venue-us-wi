@@ -2,9 +2,14 @@
   "id": 806634811,
   "type": "Feature",
   "properties": {
+    "addr:full":"7724 Shorewood Dr Salem WI 53168",
+    "addr:housenumber":"7724",
+    "addr:postcode":"53168",
+    "addr:street":"Shorewood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.181344,42.564131,-88.181344,42.564131",
     "geom:latitude":42.564131,
     "geom:longitude":-88.181344,
@@ -27,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hRKoE2GEVlImD3cdRzIPQ_42.564131_-88.181344@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462599774,
     "wof:geomhash":"129d1a8026ca35ae1c6b2cacd84fa613",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":806634811
+        }
+    ],
     "wof:id":806634811,
-    "wof:lastmodified":1467090426,
+    "wof:lastmodified":1492103472,
     "wof:name":"Infini Tea",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

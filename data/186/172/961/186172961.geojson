@@ -2,9 +2,14 @@
   "id": 186172961,
   "type": "Feature",
   "properties": {
+    "addr:full":"6217 22nd Ave Kenosha WI 53143",
+    "addr:housenumber":"6217",
+    "addr:postcode":"53143",
+    "addr:street":"22Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.835471,42.577798,-87.835471,42.577798",
     "geom:latitude":42.577798,
     "geom:longitude":-87.835471,
@@ -33,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85810813,
+        102191575,
+        404493393,
         85633793,
         101732567,
         102081309,
-        85810813
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +54,10 @@
     "wof:geomhash":"ddad35e492ddae0eb6a20b16159d7f4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081309,
+            "localadmin_id":404493393,
             "locality_id":101732567,
             "neighbourhood_id":85810813,
             "region_id":85688517,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":186172961,
-    "wof:lastmodified":1467089915,
+    "wof:lastmodified":1492097563,
     "wof:name":"Eagle Sign Shop & Trophies",
     "wof:parent_id":85810813,
     "wof:placetype":"venue",

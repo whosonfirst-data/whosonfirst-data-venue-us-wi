@@ -2,14 +2,20 @@
   "id": 773713929,
   "type": "Feature",
   "properties": {
+    "addr:full":"1905 S Webster Ave Green Bay WI 54301",
+    "addr:housenumber":"1905",
+    "addr:postcode":"54301",
+    "addr:street":"S Webster Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.019046,44.488202,-88.019046,44.488202",
     "geom:latitude":44.488202,
     "geom:longitude":-88.019046,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1905 S Webster Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125158397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7W6dEMrhqbayIo2ZaHYs7h_44.488202_-88.019046@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587829,
-    "wof:geomhash":"ff591c91ef6cf4592f360476fee330ac",
+    "wof:geomhash":"1ef4a28bf71208ce4ad26441309d139f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":773713929,
-    "wof:lastmodified":1467090117,
+    "wof:lastmodified":1510694745,
     "wof:name":"Slim & Tone",
     "wof:parent_id":85877933,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370659275,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 W Wisconsin Ave Milwaukee WI 53208",
+    "addr:housenumber":"3401",
+    "addr:postcode":"53208",
+    "addr:street":"W Wisconsin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.956883,43.038684,-87.956883,43.038684",
     "geom:latitude":43.038684,
     "geom:longitude":-87.956883,
@@ -29,11 +34,13 @@
     "sg:website":"www.muhs.edu",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870967,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870967
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"8aa72cfdd95c91386b5e3e43ad8e3c56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870967,
             "region_id":85688517,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":370659275,
-    "wof:lastmodified":1467089899,
+    "wof:lastmodified":1491918256,
     "wof:name":"Marquette University High Schl",
     "wof:parent_id":85870967,
     "wof:placetype":"venue",

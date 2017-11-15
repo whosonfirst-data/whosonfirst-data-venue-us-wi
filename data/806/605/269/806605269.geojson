@@ -2,9 +2,14 @@
   "id": 806605269,
   "type": "Feature",
   "properties": {
+    "addr:full":"208 S Century Ave Waunakee WI 53597",
+    "addr:housenumber":"208",
+    "addr:postcode":"53597",
+    "addr:street":"S Century Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461842,43.190747,-89.461842,43.190747",
     "geom:latitude":43.190747,
     "geom:longitude":-89.461842,
@@ -27,12 +32,7 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uEOrGdHNH3yq1k8XzLvRo_43.190747_-89.461842@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462599531,
     "wof:geomhash":"6f27f213e291eaf5b90263384776aac9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806605269
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806605269,
-    "wof:lastmodified":1467090419,
+    "wof:lastmodified":1491935729,
     "wof:name":"UW Health",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

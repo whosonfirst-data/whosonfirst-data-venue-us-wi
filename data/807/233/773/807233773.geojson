@@ -2,9 +2,14 @@
   "id": 807233773,
   "type": "Feature",
   "properties": {
+    "addr:full":"6550 State Hwy 50 Lake Geneva WI 53147",
+    "addr:housenumber":"6550",
+    "addr:postcode":"53147",
+    "addr:street":"State Hwy 50",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.381537,42.596493,-88.381537,42.596493",
     "geom:latitude":42.596493,
     "geom:longitude":-88.381537,
@@ -28,13 +33,7 @@
         "training"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zQU0tiSHneLotr5rIX1Ld_42.596493_-88.381537@1294253271"
@@ -42,18 +41,9 @@
     "wof:country":"US",
     "wof:created":1462605154,
     "wof:geomhash":"7d0c2ca54c1400e7ad2ecf419161c349",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":807233773
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807233773,
-    "wof:lastmodified":1467090578,
+    "wof:lastmodified":1492098829,
     "wof:name":"Sugar Legacy Arabians",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

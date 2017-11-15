@@ -2,14 +2,20 @@
   "id": 806615479,
   "type": "Feature",
   "properties": {
+    "addr:full":"2109 Luann Ln Madison WI 53713",
+    "addr:housenumber":"2109",
+    "addr:postcode":"53713",
+    "addr:street":"Luann Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.415137,43.032646,-89.415137,43.032646",
     "geom:latitude":43.032646,
     "geom:longitude":-89.415137,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2109 Luann Ln",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081795,
         85878883
     ],
+    "wof:brand_id":1125153721,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ldp3soUn64daVmgLAyF7z_43.032646_-89.415137@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462599609,
-    "wof:geomhash":"19c364db2623ff7894c58e2312bc6771",
+    "wof:geomhash":"f23d365c1e93336c94c21d2389338ee8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806615479,
-    "wof:lastmodified":1467090421,
+    "wof:lastmodified":1510695749,
     "wof:name":"Spherion Staffing Group",
     "wof:parent_id":85878883,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773579279,
   "type": "Feature",
   "properties": {
+    "addr:full":"11307 W Rogers St West Allis WI 53227",
+    "addr:housenumber":"11307",
+    "addr:postcode":"53227",
+    "addr:street":"W Rogers St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.056321,43.008288,-88.056321,43.008288",
     "geom:latitude":43.008288,
     "geom:longitude":-88.056321,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11307 W Rogers St",
     "sg:city":"West Allis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125151103,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TliFfGt4IARdZ6UpDLEwM_43.008288_-88.056321@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586798,
-    "wof:geomhash":"5b2903e91ffbd0dc92c1fe052684feb7",
+    "wof:geomhash":"76ba69854e9aefeb3572ddbaa34ca95b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773579279,
-    "wof:lastmodified":1467090086,
+    "wof:lastmodified":1510697584,
     "wof:name":"ABF Freight System Inc",
     "wof:parent_id":85870861,
     "wof:placetype":"venue",

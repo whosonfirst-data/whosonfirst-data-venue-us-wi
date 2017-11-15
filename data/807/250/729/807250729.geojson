@@ -2,9 +2,14 @@
   "id": 807250729,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 E Main St Waunakee WI 53597",
+    "addr:housenumber":"604",
+    "addr:postcode":"53597",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.442828,43.191931,-89.442828,43.191931",
     "geom:latitude":43.191931,
     "geom:longitude":-89.442828,
@@ -25,12 +30,7 @@
     "sg:province":"WI",
     "sg:website":"www.kennedyhahn.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PSNIakbIk1WMsfw2NzF2q_43.191931_-89.442828@1294253271"
@@ -38,17 +38,9 @@
     "wof:country":"US",
     "wof:created":1462605331,
     "wof:geomhash":"57d1fed383c85aeca835edf697868c9f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807250729
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807250729,
-    "wof:lastmodified":1467090583,
+    "wof:lastmodified":1491935701,
     "wof:name":"Kennedy-Hahn Appliance",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

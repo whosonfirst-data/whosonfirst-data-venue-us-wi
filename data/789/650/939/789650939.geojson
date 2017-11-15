@@ -2,9 +2,14 @@
   "id": 789650939,
   "type": "Feature",
   "properties": {
+    "addr:full":"4340 Basswood Dr Lake Geneva WI 53147",
+    "addr:housenumber":"4340",
+    "addr:postcode":"53147",
+    "addr:street":"Basswood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.514143,42.551033,-88.514143,42.551033",
     "geom:latitude":42.551033,
     "geom:longitude":-88.514143,
@@ -29,13 +34,7 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ht1xdltrrmoCcYfwhmvEO_42.551033_-88.514143@1294253271"
@@ -43,18 +42,9 @@
     "wof:country":"US",
     "wof:created":1462589462,
     "wof:geomhash":"e0eaa0e0fcda07488d7d93c8e35d54d5",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":789650939
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789650939,
-    "wof:lastmodified":1467090164,
+    "wof:lastmodified":1492109454,
     "wof:name":"Majestic Marine Inc",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

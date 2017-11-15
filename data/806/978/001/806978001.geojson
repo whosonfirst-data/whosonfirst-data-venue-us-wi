@@ -2,14 +2,20 @@
   "id": 806978001,
   "type": "Feature",
   "properties": {
+    "addr:full":"3105 Calumet Ave Manitowoc WI 54220",
+    "addr:housenumber":"3105",
+    "addr:postcode":"54220",
+    "addr:street":"Calumet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.687303,44.08534,-87.687303,44.08534",
     "geom:latitude":44.08534,
     "geom:longitude":-87.687303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3105 Calumet Ave",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":1125152079,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RCsnI763bKRJsNFKD63Pf_44.085340_-87.687303@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602673,
-    "wof:geomhash":"32fb4429de11da527874d14c82ba0a70",
+    "wof:geomhash":"b39222cd15513bd3630a95aefefa6938",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806978001,
-    "wof:lastmodified":1467090504,
+    "wof:lastmodified":1510697801,
     "wof:name":"Big Apple Bagels",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

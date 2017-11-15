@@ -2,14 +2,20 @@
   "id": 807354031,
   "type": "Feature",
   "properties": {
+    "addr:full":"17800 W Bluemound Rd Brookfield WI 53045",
+    "addr:housenumber":"17800",
+    "addr:postcode":"53045",
+    "addr:street":"W Bluemound Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.134223,43.036717,-88.134223,43.036717",
     "geom:latitude":43.036717,
     "geom:longitude":-88.134223,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17800 W Bluemound Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125155177,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TEn6eveEduJHo7d7su31K_43.036717_-88.134223@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606560,
-    "wof:geomhash":"1f1063ce2adb9be050c07698226dafa8",
+    "wof:geomhash":"372da5d933b0ed0230481a8db6952dab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807354031,
-    "wof:lastmodified":1467090619,
+    "wof:lastmodified":1510699383,
     "wof:name":"Potbelly Sandwich Works",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",

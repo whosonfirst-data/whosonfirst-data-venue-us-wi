@@ -2,9 +2,14 @@
   "id": 806461721,
   "type": "Feature",
   "properties": {
+    "addr:full":"5307 S 108th St Hales Corners WI 53130",
+    "addr:housenumber":"5307",
+    "addr:postcode":"53130",
+    "addr:street":"S 108Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.048334,42.948657,-88.048334,42.948657",
     "geom:latitude":42.948657,
     "geom:longitude":-88.048334,
@@ -27,7 +32,14 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494175,
+        85633793,
+        101733077,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39QvvdQtdKFaNSdzsxoWOd_42.948657_-88.048334@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462598324,
     "wof:geomhash":"a505969e1fbc7c355be27381550675b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494175,
+            "locality_id":101733077,
+            "region_id":85688517,
+            "venue_id":806461721
+        }
+    ],
     "wof:id":806461721,
-    "wof:lastmodified":1467090385,
+    "wof:lastmodified":1492095241,
     "wof:name":"Smokers Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

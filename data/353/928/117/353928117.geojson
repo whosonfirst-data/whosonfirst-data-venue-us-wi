@@ -2,9 +2,14 @@
   "id": 353928117,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 E Walworth Ave Delavan WI 53115",
+    "addr:housenumber":"230",
+    "addr:postcode":"53115",
+    "addr:street":"E Walworth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.646904,42.633024,-88.646904,42.633024",
     "geom:latitude":42.633024,
     "geom:longitude":-88.646904,
@@ -42,7 +47,6 @@
     "wof:geomhash":"ef9f88ae3ecbabc4766b6f9c0e962a92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081883,
             "locality_id":101733549,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":353928117,
-    "wof:lastmodified":1467089891,
+    "wof:lastmodified":1492108862,
     "wof:name":"Tommy Guns Antique Mall",
     "wof:parent_id":85829149,
     "wof:placetype":"venue",

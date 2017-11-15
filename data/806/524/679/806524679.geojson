@@ -2,9 +2,14 @@
   "id": 806524679,
   "type": "Feature",
   "properties": {
+    "addr:full":"259 Sky Lane Dr Lake Geneva WI 53147",
+    "addr:housenumber":"259",
+    "addr:postcode":"53147",
+    "addr:street":"Sky Lane Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.449195,42.591411,-88.449195,42.591411",
     "geom:latitude":42.591411,
     "geom:longitude":-88.449195,
@@ -27,13 +32,7 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1L30YeYYDIC8VaEiF7jIwO_42.591411_-88.449195@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462598820,
     "wof:geomhash":"00182bda47e2046f76e93d3d42a7f371",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806524679
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806524679,
-    "wof:lastmodified":1467090400,
+    "wof:lastmodified":1492108929,
     "wof:name":"Smithlewis Inc",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

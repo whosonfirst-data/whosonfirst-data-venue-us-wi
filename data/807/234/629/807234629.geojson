@@ -2,9 +2,14 @@
   "id": 807234629,
   "type": "Feature",
   "properties": {
+    "addr:full":"5321 S 108th St Hales Corners WI 53130",
+    "addr:housenumber":"5321",
+    "addr:postcode":"53130",
+    "addr:street":"S 108Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.048323,42.948918,-88.048323,42.948918",
     "geom:latitude":42.948918,
     "geom:longitude":-88.048323,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494175,
+        85633793,
+        101733077,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66n4x93iq7SEGFQGhm4WR0_42.948918_-88.048323@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462605161,
     "wof:geomhash":"cfb802e10d379c0dff8f2a89e67185d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494175,
+            "locality_id":101733077,
+            "region_id":85688517,
+            "venue_id":807234629
+        }
+    ],
     "wof:id":807234629,
-    "wof:lastmodified":1467090578,
+    "wof:lastmodified":1492098736,
     "wof:name":"New Market Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

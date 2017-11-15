@@ -2,9 +2,14 @@
   "id": 370245665,
   "type": "Feature",
   "properties": {
+    "addr:full":"2658 S Kinnickinnic Ave Milwaukee WI 53207",
+    "addr:housenumber":"2658",
+    "addr:postcode":"53207",
+    "addr:street":"S Kinnickinnic Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.898446,42.996993,-87.898446,42.996993",
     "geom:latitude":42.996993,
     "geom:longitude":-87.898446,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870973,
+        102191575,
+        404492091,
         85633793,
+        101732987,
         102081837,
-        85870973
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +50,18 @@
     "wof:geomhash":"96945e40fbc64b452fb527f1bc046941",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":-1,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870973,
             "region_id":85688517,
             "venue_id":370245665
         }
     ],
     "wof:id":370245665,
-    "wof:lastmodified":1467089907,
+    "wof:lastmodified":1492108816,
     "wof:name":"Beittieanna Beads & Boutique",
     "wof:parent_id":85870973,
     "wof:placetype":"venue",

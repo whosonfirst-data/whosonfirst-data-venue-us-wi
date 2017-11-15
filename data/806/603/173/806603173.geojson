@@ -2,14 +2,20 @@
   "id": 806603173,
   "type": "Feature",
   "properties": {
+    "addr:full":"340 N Wisconsin St De Pere WI 54115",
+    "addr:housenumber":"340",
+    "addr:postcode":"54115",
+    "addr:street":"N Wisconsin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.059109,44.451912,-88.059109,44.451912",
     "geom:latitude":44.451912,
     "geom:longitude":-88.059109,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"340 N Wisconsin St",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125152677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ixoS24fr0bd33TlQ5fUTl_44.451912_-88.059109@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462599515,
-    "wof:geomhash":"04351a55271eb734f711e97a03ed0ec8",
+    "wof:geomhash":"0805d01a339f1828dc2339c29b9ec5f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806603173,
-    "wof:lastmodified":1467090418,
+    "wof:lastmodified":1510697145,
     "wof:name":"Siemens Energy & Automation",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

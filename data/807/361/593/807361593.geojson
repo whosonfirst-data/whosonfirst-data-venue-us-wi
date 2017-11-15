@@ -2,14 +2,20 @@
   "id": 807361593,
   "type": "Feature",
   "properties": {
+    "addr:full":"5318 Washington Ave Racine WI 53406",
+    "addr:housenumber":"5318",
+    "addr:postcode":"53406",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.843239,42.718833,-87.843239,42.718833",
     "geom:latitude":42.718833,
     "geom:longitude":-87.843239,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5318 Washington Ave",
     "sg:city":"Racine",
     "sg:classifiers":[
@@ -46,13 +52,14 @@
         102081763,
         85688517
     ],
+    "wof:brand_id":1125150681,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32WvCNwJVuau08VgcQf1i3_42.718833_-87.843239@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606676,
-    "wof:geomhash":"cd50ecbbd7ad4518b9ce0e6555173f4d",
+    "wof:geomhash":"36bcde912f43d54cc7e18043e894e721",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":807361593,
-    "wof:lastmodified":1467090622,
+    "wof:lastmodified":1510698854,
     "wof:name":"Noodles & Company",
     "wof:parent_id":85854859,
     "wof:placetype":"venue",

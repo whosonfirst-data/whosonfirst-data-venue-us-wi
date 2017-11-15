@@ -2,14 +2,20 @@
   "id": 807059229,
   "type": "Feature",
   "properties": {
+    "addr:full":"1906 Wright St Madison WI 53704",
+    "addr:housenumber":"1906",
+    "addr:postcode":"53704",
+    "addr:street":"Wright St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.33019,43.12481,-89.33019,43.12481",
     "geom:latitude":43.12481,
     "geom:longitude":-89.33019,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1906 Wright St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125155305,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XEubdWhZ0WdIlRMako95q_43.124810_-89.330190@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603365,
-    "wof:geomhash":"7d38670381152557f7e2d8a549e06519",
+    "wof:geomhash":"f25486cc1119225b524b9b363a4cb4a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807059229,
-    "wof:lastmodified":1467090524,
+    "wof:lastmodified":1510699916,
     "wof:name":"Schindler Elevator Corp",
     "wof:parent_id":85878851,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 403701907,
   "type": "Feature",
   "properties": {
+    "addr:full":"245 S Century Ave Waunakee WI 53597",
+    "addr:housenumber":"245",
+    "addr:postcode":"53597",
+    "addr:street":"S Century Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461691,43.190315,-89.461691,43.190315",
     "geom:latitude":43.190315,
     "geom:longitude":-89.461691,
@@ -34,31 +39,16 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        102081795,
-        85868279
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QL3mUwLLXtsJWXlq00fZH_43.190315_-89.461691@1294253271"
     },
     "wof:country":"US",
     "wof:geomhash":"19ebdfa90336c70b6ba28a7c370c65aa",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081795,
-            "locality_id":-1,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":403701907
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":403701907,
-    "wof:lastmodified":1467089920,
+    "wof:lastmodified":1491935672,
     "wof:name":"Quality Cellular",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

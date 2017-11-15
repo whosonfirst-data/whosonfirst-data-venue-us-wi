@@ -2,9 +2,14 @@
   "id": 823143805,
   "type": "Feature",
   "properties": {
+    "addr:full":"2323 S Lincoln Memorial Dr Milwaukee WI 53207",
+    "addr:housenumber":"2323",
+    "addr:postcode":"53207",
+    "addr:street":"S Lincoln Memorial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.890443,43.003558,-87.890443,43.003558",
     "geom:latitude":43.003558,
     "geom:longitude":-87.890443,
@@ -29,10 +34,13 @@
     "sg:website":"http://www.ci.mil.wi.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85870891,
-        102081837
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +51,18 @@
     "wof:geomhash":"b9e63ae0a5605007fa22b3ac6677cc0d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870891,
             "region_id":85688517,
             "venue_id":823143805
         }
     ],
     "wof:id":823143805,
-    "wof:lastmodified":1467090645,
+    "wof:lastmodified":1492095299,
     "wof:name":"Port Authority Of Milwaukee",
     "wof:parent_id":85870891,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806557783,
   "type": "Feature",
   "properties": {
+    "addr:full":"2702 Burek Ave Wausau WI 54401",
+    "addr:housenumber":"2702",
+    "addr:postcode":"54401",
+    "addr:street":"Burek Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.631338,44.996103,-89.631338,44.996103",
     "geom:latitude":44.996103,
     "geom:longitude":-89.631338,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2702 Burek Ave",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081881,
         85868295
     ],
+    "wof:brand_id":1125155381,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ODJtLa2FwxDvjUrAagV9q_44.996103_-89.631338@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462599101,
-    "wof:geomhash":"8a8431e8acbcf444977eb131ef664394",
+    "wof:geomhash":"7cf0447d86916bf83c18fc158bca155c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806557783,
-    "wof:lastmodified":1467090408,
+    "wof:lastmodified":1510613259,
     "wof:name":"Kitchen Solvers",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",

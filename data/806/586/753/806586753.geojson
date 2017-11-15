@@ -2,14 +2,20 @@
   "id": 806586753,
   "type": "Feature",
   "properties": {
+    "addr:full":"2700 S Oneida St Green Bay WI 54304",
+    "addr:housenumber":"2700",
+    "addr:postcode":"54304",
+    "addr:street":"S Oneida St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.074284,44.476564,-88.074284,44.476564",
     "geom:latitude":44.476564,
     "geom:longitude":-88.074284,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2700 S Oneida St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125151075,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JjRLAOWVd3qY1NrITyRf0_44.476564_-88.074284@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462599372,
-    "wof:geomhash":"a8651eb2104282427c146e96d47a89e9",
+    "wof:geomhash":"290ae14553abbbb22383e32bd51fdb4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806586753,
-    "wof:lastmodified":1467090415,
+    "wof:lastmodified":1510696086,
     "wof:name":"M & I Bank",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

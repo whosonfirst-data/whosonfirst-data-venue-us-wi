@@ -2,14 +2,20 @@
   "id": 789847219,
   "type": "Feature",
   "properties": {
+    "addr:full":"837 Riverfront Dr Sheboygan WI 53081",
+    "addr:housenumber":"837",
+    "addr:postcode":"53081",
+    "addr:street":"Riverfront Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.711337,43.746813,-87.711337,43.746813",
     "geom:latitude":43.746813,
     "geom:longitude":-87.711337,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"837 Riverfront Dr",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":420574429,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pCAztWNp8EtZ7KQBC4g7D_43.746813_-87.711337@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591007,
-    "wof:geomhash":"29a34404b204688a662d5a81d6997532",
+    "wof:geomhash":"7dffd5d9ac956ac74c23e239f31ce9cd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":789847219,
-    "wof:lastmodified":1467090202,
+    "wof:lastmodified":1510604795,
     "wof:name":"Thrivent Financial-Lutherans",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773631869,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 E Towne Mall Madison WI 53704",
+    "addr:housenumber":"135",
+    "addr:postcode":"53704",
+    "addr:street":"E Towne Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.304261,43.128122,-89.304261,43.128122",
     "geom:latitude":43.128122,
     "geom:longitude":-89.304261,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"135 E Towne Mall",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125151365,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sGarrBmMmSiXAgAgQWB5z_43.128122_-89.304261@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587184,
-    "wof:geomhash":"4578dc50ea8def580ccde17f14a377e9",
+    "wof:geomhash":"a36945f179c721479bcbb5661693444b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773631869,
-    "wof:lastmodified":1467090098,
+    "wof:lastmodified":1510696776,
     "wof:name":"J C Penney Optical",
     "wof:parent_id":85878851,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790521973,
   "type": "Feature",
   "properties": {
+    "addr:full":"725 N Progress Dr Saukville WI 53080",
+    "addr:housenumber":"725",
+    "addr:postcode":"53080",
+    "addr:street":"N Progress Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.947235,43.393367,-87.947235,43.393367",
     "geom:latitude":43.393367,
     "geom:longitude":-87.947235,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"725 N Progress Dr",
     "sg:city":"Saukville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081873,
         85828641
     ],
+    "wof:brand_id":1125154565,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3j5kSlY2hZyL8ucJ7YT9Ma_43.393367_-87.947235@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596558,
-    "wof:geomhash":"ad45c45df4200167f647980a54357e60",
+    "wof:geomhash":"6208caddf76c95c85bb6dcac68453e36",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790521973,
-    "wof:lastmodified":1467090337,
+    "wof:lastmodified":1510695256,
     "wof:name":"Rainbow International Carpet",
     "wof:parent_id":85828641,
     "wof:placetype":"venue",

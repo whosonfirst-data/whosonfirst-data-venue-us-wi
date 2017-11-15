@@ -2,9 +2,14 @@
   "id": 773706691,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Fish St Waunakee WI 53597",
+    "addr:housenumber":"104",
+    "addr:postcode":"53597",
+    "addr:street":"Fish St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.456894,43.191921,-89.456894,43.191921",
     "geom:latitude":43.191921,
     "geom:longitude":-89.456894,
@@ -28,12 +33,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SMGFwOqf94ZPEBvuQ4Zos_43.191921_-89.456894@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462587770,
     "wof:geomhash":"dc844bde0889e2e13c0e3038f793e857",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773706691
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773706691,
-    "wof:lastmodified":1467090115,
+    "wof:lastmodified":1491935690,
     "wof:name":"S & N Construction Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

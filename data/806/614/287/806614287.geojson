@@ -2,9 +2,14 @@
   "id": 806614287,
   "type": "Feature",
   "properties": {
+    "addr:full":"1402 Wimbleton Way Waunakee WI 53597",
+    "addr:housenumber":"1402",
+    "addr:postcode":"53597",
+    "addr:street":"Wimbleton Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.44459,43.176374,-89.44459,43.176374",
     "geom:latitude":43.176374,
     "geom:longitude":-89.44459,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PU27lxrjTy4lEtf8fyMIx_43.176374_-89.444590@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462599600,
     "wof:geomhash":"e4e15f88b0c017ed62423dd4296c8ea3",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806614287
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806614287,
-    "wof:lastmodified":1467090421,
+    "wof:lastmodified":1491935703,
     "wof:name":"Secura Insurance",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

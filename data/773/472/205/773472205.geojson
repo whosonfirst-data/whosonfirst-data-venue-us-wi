@@ -2,14 +2,20 @@
   "id": 773472205,
   "type": "Feature",
   "properties": {
+    "addr:full":"5771 Parkview Rd Sun Prairie WI 53590",
+    "addr:housenumber":"5771",
+    "addr:postcode":"53590",
+    "addr:street":"Parkview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.212942,43.164264,-89.212942,43.164264",
     "geom:latitude":43.164264,
     "geom:longitude":-89.212942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5771 Parkview Rd",
     "sg:city":"Sun Prairie",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85878835,
         102081795
     ],
+    "wof:brand_id":1125155841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QDTOj54qYyVSieHDDGiow_43.164264_-89.212942@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586004,
-    "wof:geomhash":"05cc0d190acc290794a633e394e1b1e3",
+    "wof:geomhash":"9b8e6f46ed83729f29eb21970a7e6324",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":773472205,
-    "wof:lastmodified":1467090061,
+    "wof:lastmodified":1510697488,
     "wof:name":"Sentry Insurance Co",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

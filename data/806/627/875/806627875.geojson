@@ -2,9 +2,14 @@
   "id": 806627875,
   "type": "Feature",
   "properties": {
+    "addr:full":"1050 Uniek Dr Waunakee WI 53597",
+    "addr:housenumber":"1050",
+    "addr:postcode":"53597",
+    "addr:street":"Uniek Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.43274,43.18238,-89.43274,43.18238",
     "geom:latitude":43.18238,
     "geom:longitude":-89.43274,
@@ -31,12 +36,7 @@
     ],
     "sg:website":"www.roundhouse-marketing.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rDsI3jidnj1bqZHshIHYg_43.182380_-89.432740@1294253271"
@@ -44,17 +44,9 @@
     "wof:country":"US",
     "wof:created":1462599719,
     "wof:geomhash":"60130078ea6c950dfc2ada37c9b39a42",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806627875
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806627875,
-    "wof:lastmodified":1467090424,
+    "wof:lastmodified":1491935729,
     "wof:name":"Roundhouse & Marketing Promo",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

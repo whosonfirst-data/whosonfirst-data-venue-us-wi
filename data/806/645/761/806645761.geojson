@@ -2,9 +2,14 @@
   "id": 806645761,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 Lance Dr Twin Lakes WI 53181",
+    "addr:housenumber":"116",
+    "addr:postcode":"53181",
+    "addr:street":"Lance Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.255037,42.530623,-88.255037,42.530623",
     "geom:latitude":42.530623,
     "geom:longitude":-88.255037,
@@ -24,7 +29,14 @@
     "sg:postcode":"53181",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493323,
+        85633793,
+        101732579,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79E94lEumWUdp93IeLZsPb_42.530623_-88.255037@1294253271"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462599866,
     "wof:geomhash":"96a27a09261e46e129da69c5d3565d78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493323,
+            "locality_id":101732579,
+            "region_id":85688517,
+            "venue_id":806645761
+        }
+    ],
     "wof:id":806645761,
-    "wof:lastmodified":1467090428,
+    "wof:lastmodified":1492087970,
     "wof:name":"Lancelot Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

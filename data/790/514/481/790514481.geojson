@@ -2,14 +2,20 @@
   "id": 790514481,
   "type": "Feature",
   "properties": {
+    "addr:full":"13845 Bishops Dr Brookfield WI 53005",
+    "addr:housenumber":"13845",
+    "addr:postcode":"53005",
+    "addr:street":"Bishops Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.084171,43.028718,-88.084171,43.028718",
     "geom:latitude":43.028718,
     "geom:longitude":-88.084171,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13845 Bishops Dr",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125153035,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54tiT2ZmgNG9L2uYxmLAJH_43.028718_-88.084171@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596486,
-    "wof:geomhash":"aeb0fa2230e41b6480b1092f5f81e77c",
+    "wof:geomhash":"33ca74edc3ff4cb35490b60c8f90ed32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790514481,
-    "wof:lastmodified":1467090335,
+    "wof:lastmodified":1510613162,
     "wof:name":"Lanier Worldwide Inc",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",

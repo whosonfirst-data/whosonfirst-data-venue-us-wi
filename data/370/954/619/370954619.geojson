@@ -2,14 +2,20 @@
   "id": 370954619,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 S Wacouta Ave Prairie Du Chien WI 53821",
+    "addr:housenumber":"710",
+    "addr:postcode":"53821",
+    "addr:street":"S Wacouta Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.144826,43.043819,-91.144826,43.043819",
     "geom:latitude":43.043819,
     "geom:longitude":-91.144826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"710 S Wacouta Ave",
     "sg:city":"Prairie Du Chien",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101732613,
         102081315
     ],
+    "wof:brand_id":1125153121,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7asw0xJXU2TWYNAnZjojxb_43.043819_-91.144826@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"0491d1f3bdd54fc16de04ca10b3de7fa",
+    "wof:geomhash":"4f5b0fdc7f8813b9cdc3f608acabaf2a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":370954619,
-    "wof:lastmodified":1467089906,
+    "wof:lastmodified":1510699546,
     "wof:name":"St John's Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807321963,
   "type": "Feature",
   "properties": {
+    "addr:full":"2400 55th Dr Union Grove WI 53182",
+    "addr:housenumber":"2400",
+    "addr:postcode":"53182",
+    "addr:street":"55Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.988074,42.7159,-87.988074,42.7159",
     "geom:latitude":42.7159,
     "geom:longitude":-87.988074,
@@ -26,8 +31,9 @@
     "wof:belongsto":[
         85688517,
         85633793,
-        101732321,
+        85827175,
         102081763,
+        101732321,
         85851727
     ],
     "wof:breaches":[],
@@ -41,6 +47,13 @@
         {
             "country_id":85633793,
             "county_id":102081763,
+            "neighbourhood_id":85827175,
+            "region_id":85688517,
+            "venue_id":807321963
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081763,
             "locality_id":101732321,
             "neighbourhood_id":85851727,
             "region_id":85688517,
@@ -48,9 +61,9 @@
         }
     ],
     "wof:id":807321963,
-    "wof:lastmodified":1467090606,
+    "wof:lastmodified":1492098947,
     "wof:name":"C H Kuiper & Son Farms",
-    "wof:parent_id":85851727,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

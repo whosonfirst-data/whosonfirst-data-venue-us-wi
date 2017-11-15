@@ -2,9 +2,14 @@
   "id": 185824003,
   "type": "Feature",
   "properties": {
+    "addr:full":"5850 Broad St Greendale WI 53129",
+    "addr:housenumber":"5850",
+    "addr:postcode":"53129",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.995981,42.938831,-87.995981,42.938831",
     "geom:latitude":42.938831,
     "geom:longitude":-87.995981,
@@ -31,6 +36,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688517,
+        102191575,
+        404492089,
         85633793,
         101733071,
         102081837
@@ -43,17 +50,17 @@
     "wof:geomhash":"77d5520659808bb1336d463335f4fc5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492089,
             "locality_id":101733071,
-            "neighbourhood_id":-1,
             "region_id":85688517,
             "venue_id":185824003
         }
     ],
     "wof:id":185824003,
-    "wof:lastmodified":1467089884,
+    "wof:lastmodified":1492108861,
     "wof:name":"Layton State Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

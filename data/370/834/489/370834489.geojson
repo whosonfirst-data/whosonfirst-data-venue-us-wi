@@ -2,9 +2,14 @@
   "id": 370834489,
   "type": "Feature",
   "properties": {
+    "addr:full":"5500 50th St Kenosha WI 53144",
+    "addr:housenumber":"5500",
+    "addr:postcode":"53144",
+    "addr:street":"50Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.872547,42.591465,-87.872547,42.591465",
     "geom:latitude":42.591465,
     "geom:longitude":-87.872547,
@@ -32,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85852717,
+        102191575,
+        404493393,
         85633793,
         101732567,
         102081309,
-        85852717
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +53,10 @@
     "wof:geomhash":"2482aeecd3872c4780f8023178bc2ba4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081309,
+            "localadmin_id":404493393,
             "locality_id":101732567,
             "neighbourhood_id":85852717,
             "region_id":85688517,
@@ -56,7 +64,7 @@
         }
     ],
     "wof:id":370834489,
-    "wof:lastmodified":1467089898,
+    "wof:lastmodified":1492097565,
     "wof:name":"A & R Door Services Inc",
     "wof:parent_id":85852717,
     "wof:placetype":"venue",

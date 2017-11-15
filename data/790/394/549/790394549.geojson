@@ -2,14 +2,20 @@
   "id": 790394549,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 S Barstow St Eau Claire WI 54701",
+    "addr:housenumber":"1",
+    "addr:postcode":"54701",
+    "addr:street":"S Barstow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.500638,44.8122,-91.500638,44.8122",
     "geom:latitude":44.8122,
     "geom:longitude":-91.500638,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 S Barstow St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125151711,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5r74dKGWc7WaGBnQA4IcFp_44.812200_-91.500638@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462595497,
-    "wof:geomhash":"4bb5188b2a895bbc1bf5777fc0724fc5",
+    "wof:geomhash":"5e8d7d05c329474acbdedc0f754df2e1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790394549,
-    "wof:lastmodified":1467090310,
+    "wof:lastmodified":1510696789,
     "wof:name":"Arthur Murray Dance Studio",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

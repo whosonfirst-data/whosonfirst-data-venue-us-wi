@@ -2,14 +2,20 @@
   "id": 790270727,
   "type": "Feature",
   "properties": {
+    "addr:full":"5940 N 76th St Milwaukee WI 53218",
+    "addr:housenumber":"5940",
+    "addr:postcode":"53218",
+    "addr:street":"N 76Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.005889,43.125197,-88.005889,43.125197",
     "geom:latitude":43.125197,
     "geom:longitude":-88.005889,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5940 N 76th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":420575095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FOemDUp2mYMesoLLkGmNH_43.125197_-88.005889@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462594507,
-    "wof:geomhash":"e83f8d04825a403d5c4d156a0f009e31",
+    "wof:geomhash":"61f6104740f0928b8d4391169af9dcce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790270727,
-    "wof:lastmodified":1467090284,
+    "wof:lastmodified":1510602502,
     "wof:name":"Labor Ready Inc",
     "wof:parent_id":85870903,
     "wof:placetype":"venue",

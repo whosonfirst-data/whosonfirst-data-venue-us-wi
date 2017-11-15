@@ -2,9 +2,14 @@
   "id": 790323281,
   "type": "Feature",
   "properties": {
+    "addr:full":"4240 Cleveland Rd Cross Plains WI 53528",
+    "addr:housenumber":"4240",
+    "addr:postcode":"53528",
+    "addr:street":"Cleveland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.607354,43.089093,-89.607354,43.089093",
     "geom:latitude":43.089093,
     "geom:longitude":-89.607354,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"3fdb74393ed5a496609d6660c2e94371",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":790323281,
-    "wof:lastmodified":1467090295,
+    "wof:lastmodified":1491894072,
     "wof:name":"Sage Construction Inc",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

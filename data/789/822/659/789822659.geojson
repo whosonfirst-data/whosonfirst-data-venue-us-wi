@@ -2,14 +2,20 @@
   "id": 789822659,
   "type": "Feature",
   "properties": {
+    "addr:full":"1524 N Edgewood Ave Appleton WI 54914",
+    "addr:housenumber":"1524",
+    "addr:postcode":"54914",
+    "addr:street":"N Edgewood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.43435,44.277054,-88.43435,44.277054",
     "geom:latitude":44.277054,
     "geom:longitude":-88.43435,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1524 N Edgewood Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125155841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jvKhNdL53GXymtxeNy0Ju_44.277054_-88.434350@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590812,
-    "wof:geomhash":"3e9aac2faeb5d6f896135fcfb1796f71",
+    "wof:geomhash":"b535db629e956878ebcd663a0c09006d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789822659,
-    "wof:lastmodified":1467090197,
+    "wof:lastmodified":1510697488,
     "wof:name":"Sentry Insurance Co",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

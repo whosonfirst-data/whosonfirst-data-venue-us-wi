@@ -2,14 +2,20 @@
   "id": 790582981,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Buol Rd West Salem WI 54669",
+    "addr:housenumber":"125",
+    "addr:postcode":"54669",
+    "addr:street":"Buol Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.070204,43.891204,-91.070204,43.891204",
     "geom:latitude":43.891204,
     "geom:longitude":-91.070204,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"125 Buol Rd",
     "sg:city":"West Salem",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081301,
         85825891
     ],
+    "wof:brand_id":1125154589,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DjiNvbeWwQVF1BgW2l5VF_43.891204_-91.070204@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462597065,
-    "wof:geomhash":"6a36da7e4c1995df619cedf179062945",
+    "wof:geomhash":"68d2de833cc5a4efe33df1305ad1b2a9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790582981,
-    "wof:lastmodified":1467090351,
+    "wof:lastmodified":1510613346,
     "wof:name":"Americ Inn",
     "wof:parent_id":85825891,
     "wof:placetype":"venue",

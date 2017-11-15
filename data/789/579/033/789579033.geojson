@@ -2,14 +2,20 @@
   "id": 789579033,
   "type": "Feature",
   "properties": {
+    "addr:full":"1112 S Park St Madison WI 53715",
+    "addr:housenumber":"1112",
+    "addr:postcode":"53715",
+    "addr:street":"S Park St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.397553,43.05531,-89.397553,43.05531",
     "geom:latitude":43.05531,
     "geom:longitude":-89.397553,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1112 S Park St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125151789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1s64iobYKZbNOD4mPaTiAj_43.055310_-89.397553@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588896,
-    "wof:geomhash":"48fdc4d7b0bc0905a32d9b25082e9875",
+    "wof:geomhash":"df07fd209948c49df6c004a5de305086",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789579033,
-    "wof:lastmodified":1467090148,
+    "wof:lastmodified":1510694976,
     "wof:name":"Insty-Prints",
     "wof:parent_id":85878849,
     "wof:placetype":"venue",

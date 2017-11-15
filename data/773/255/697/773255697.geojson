@@ -2,14 +2,20 @@
   "id": 773255697,
   "type": "Feature",
   "properties": {
+    "addr:full":"3071 Voyager Dr Green Bay WI 54311",
+    "addr:housenumber":"3071",
+    "addr:postcode":"54311",
+    "addr:street":"Voyager Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.92962,44.486101,-87.92962,44.486101",
     "geom:latitude":44.486101,
     "geom:longitude":-87.92962,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3071 Voyager Dr",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":420574971,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wxMXFfUG9ILTcFit9Aggg_44.486101_-87.929620@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584334,
-    "wof:geomhash":"e1e229554a1158d525a5d23279e81cc1",
+    "wof:geomhash":"dcd935c260c36fecf3a9584071ccd11c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773255697,
-    "wof:lastmodified":1467090003,
+    "wof:lastmodified":1510603893,
     "wof:name":"Farm Service Agency",
     "wof:parent_id":85877939,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790563517,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 South St Waunakee WI 53597",
+    "addr:housenumber":"113",
+    "addr:postcode":"53597",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.45503,43.190942,-89.45503,43.190942",
     "geom:latitude":43.190942,
     "geom:longitude":-89.45503,
@@ -27,12 +32,7 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oZgz6n4uEkkT6CSEIIHup_43.190942_-89.455030@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462596901,
     "wof:geomhash":"52a4076adecf867cd046f16e884e75be",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790563517
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790563517,
-    "wof:lastmodified":1467090346,
+    "wof:lastmodified":1491935684,
     "wof:name":"R BS Printing",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

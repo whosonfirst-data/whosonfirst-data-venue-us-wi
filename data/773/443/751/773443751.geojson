@@ -2,9 +2,14 @@
   "id": 773443751,
   "type": "Feature",
   "properties": {
+    "addr:full":"355 Sunny Hill Dr Elkhorn WI 53121",
+    "addr:housenumber":"355",
+    "addr:postcode":"53121",
+    "addr:street":"Sunny Hill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.53833,42.641395,-88.53833,42.641395",
     "geom:latitude":42.641395,
     "geom:longitude":-88.53833,
@@ -28,13 +33,7 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LzxigUYGo5FtVdtacucr4_42.641395_-88.538330@1294253271"
@@ -42,18 +41,9 @@
     "wof:country":"US",
     "wof:created":1462585792,
     "wof:geomhash":"0ae163aa24f69fed410ff808a72fdd37",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":773443751
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773443751,
-    "wof:lastmodified":1467090055,
+    "wof:lastmodified":1492101663,
     "wof:name":"Gipson Web Design",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

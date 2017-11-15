@@ -2,14 +2,20 @@
   "id": 806857765,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 S 68th St Milwaukee WI 53214",
+    "addr:housenumber":"112",
+    "addr:postcode":"53214",
+    "addr:street":"S 68Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.997313,43.031131,-87.997313,43.031131",
     "geom:latitude":43.031131,
     "geom:longitude":-87.997313,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"112 S 68th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125153987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tiucqEFooO3EjCyWLZGkr_43.031131_-87.997313@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601670,
-    "wof:geomhash":"02ec8aa533bac09eef9ff2f3da9771a5",
+    "wof:geomhash":"204dd9ae785cdbcf06e46675a5d2d944",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806857765,
-    "wof:lastmodified":1467090477,
+    "wof:lastmodified":1510699549,
     "wof:name":"Pennzoil 10 Minute Oil Change",
     "wof:parent_id":85870887,
     "wof:placetype":"venue",

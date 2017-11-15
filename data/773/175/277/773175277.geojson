@@ -2,14 +2,20 @@
   "id": 773175277,
   "type": "Feature",
   "properties": {
+    "addr:full":"2745 S 108th St Milwaukee WI 53227",
+    "addr:housenumber":"2745",
+    "addr:postcode":"53227",
+    "addr:street":"S 108Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.04711,42.994404,-88.04711,42.994404",
     "geom:latitude":42.994404,
     "geom:longitude":-88.04711,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2745 S 108th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125154783,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4N7AUwostrR7jMdxcSkrS6_42.994404_-88.047110@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583702,
-    "wof:geomhash":"85131708d237a408808ae4a7b84b3ca8",
+    "wof:geomhash":"e751957942da067a98bb7082618ae19e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773175277,
-    "wof:lastmodified":1467089980,
+    "wof:lastmodified":1510698934,
     "wof:name":"Nails 2000",
     "wof:parent_id":85870861,
     "wof:placetype":"venue",

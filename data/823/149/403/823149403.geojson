@@ -2,6 +2,10 @@
   "id": 823149403,
   "type": "Feature",
   "properties": {
+    "addr:full":"2545 N Maryland Ave Apt 102 Milwaukee WI 53211",
+    "addr:housenumber":"2545;102",
+    "addr:postcode":"53211",
+    "addr:street":"N Maryland Ave Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":823149403,
-    "wof:lastmodified":1467090647,
+    "wof:lastmodified":1472653923,
     "wof:name":"Bell Property Management Inc",
     "wof:parent_id":85870883,
     "wof:placetype":"venue",

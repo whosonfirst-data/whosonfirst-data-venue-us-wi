@@ -2,9 +2,14 @@
   "id": 807090421,
   "type": "Feature",
   "properties": {
+    "addr:full":"8611 S Howell Ave Oak Creek WI 53154",
+    "addr:housenumber":"8611",
+    "addr:postcode":"53154",
+    "addr:street":"S Howell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.912197,42.888563,-87.912197,42.888563",
     "geom:latitude":42.888563,
     "geom:longitude":-87.912197,
@@ -28,14 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420550071,
+        420550135,
         102191575,
         404494177,
         85633793,
         101733079,
         102081837,
-        85688517,
-        420550135
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +55,15 @@
             "county_id":102081837,
             "localadmin_id":404494177,
             "locality_id":101733079,
-            "neighbourhood_id":420550071,
-            "region_id":85688517,
-            "venue_id":807090421
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081837,
-            "localadmin_id":404494177,
-            "locality_id":101733079,
             "neighbourhood_id":420550135,
             "region_id":85688517,
             "venue_id":807090421
         }
     ],
     "wof:id":807090421,
-    "wof:lastmodified":1467090533,
+    "wof:lastmodified":1492103666,
     "wof:name":"Cost Cutters",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

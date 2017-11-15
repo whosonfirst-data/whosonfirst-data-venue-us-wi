@@ -2,14 +2,20 @@
   "id": 807380089,
   "type": "Feature",
   "properties": {
+    "addr:full":"W62N218 Washington Ave Cedarburg WI 53012",
+    "addr:housenumber":"",
+    "addr:postcode":"53012",
+    "addr:street":"W62N218 Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.987,43.283401,-87.987,43.283401",
     "geom:latitude":43.283401,
     "geom:longitude":-87.987,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"W62N218 Washington Ave",
     "sg:city":"Cedarburg",
     "sg:classifiers":[
@@ -47,13 +53,14 @@
         102081873,
         85688517
     ],
+    "wof:brand_id":1125153937,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1av02E34RlPner9Y6wDG3m_43.283401_-87.987000@1303262805"
     },
     "wof:country":"US",
     "wof:created":1462606921,
-    "wof:geomhash":"5f0a0529decba86519c73568144be90f",
+    "wof:geomhash":"953dcc5c48d0bb09fe99693cd3f10f82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":807380089,
-    "wof:lastmodified":1467090630,
+    "wof:lastmodified":1510697739,
     "wof:name":"Children's World Learning Centers",
     "wof:parent_id":85823669,
     "wof:placetype":"venue",

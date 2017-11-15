@@ -2,9 +2,14 @@
   "id": 806889053,
   "type": "Feature",
   "properties": {
+    "addr:full":"33501 Geneva Rd Burlington WI 53105",
+    "addr:housenumber":"",
+    "addr:postcode":"33501;53105",
+    "addr:street":"Geneva Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.217422,42.580843,-88.217422,42.580843",
     "geom:latitude":42.580843,
     "geom:longitude":-88.217422,
@@ -28,7 +33,10 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qotkkuigJJN8IhdwkGAvH_42.580843_-88.217422@1294253271"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462601922,
     "wof:geomhash":"02829d38d83da84cb7ee54a0aabdaf2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":806889053
+        }
+    ],
     "wof:id":806889053,
-    "wof:lastmodified":1467090484,
+    "wof:lastmodified":1492112038,
     "wof:name":"Treasure Chest Fund Inc",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

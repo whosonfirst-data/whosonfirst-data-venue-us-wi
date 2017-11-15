@@ -2,14 +2,20 @@
   "id": 807130397,
   "type": "Feature",
   "properties": {
+    "addr:full":"2400 Kilgust Rd Monona WI 53713",
+    "addr:housenumber":"2400",
+    "addr:postcode":"53713",
+    "addr:street":"Kilgust Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.351217,43.03943,-89.351217,43.03943",
     "geom:latitude":43.03943,
     "geom:longitude":-89.351217,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2400 Kilgust Rd",
     "sg:city":"Monona",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102081795,
         85878883
     ],
+    "wof:brand_id":1125151649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MbV3YuGjKONfRbpvEWT4o_43.039430_-89.351217@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604052,
-    "wof:geomhash":"5abd3b821ca7f4e40bc8f5e84dd4b32b",
+    "wof:geomhash":"8daf5a0814e7fdd38b2da0f8c1947119",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807130397,
-    "wof:lastmodified":1467090546,
+    "wof:lastmodified":1510695202,
     "wof:name":"Johnson Controls Inc",
     "wof:parent_id":85878883,
     "wof:placetype":"venue",

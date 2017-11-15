@@ -2,14 +2,20 @@
   "id": 789896381,
   "type": "Feature",
   "properties": {
+    "addr:full":"716 Market St Marathon WI 54448",
+    "addr:housenumber":"716",
+    "addr:postcode":"54448",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.838966,44.928616,-89.838966,44.928616",
     "geom:latitude":44.928616,
     "geom:longitude":-89.838966,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"716 Market St",
     "sg:city":"Marathon",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081881,
         85868295
     ],
+    "wof:brand_id":1125151093,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nx6xxXAnO5begitgIH38p_44.928616_-89.838966@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591416,
-    "wof:geomhash":"f12d1273af27c3e9cf926c84412cce17",
+    "wof:geomhash":"afa015d96926bfa78cedd8471ce1ef62",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789896381,
-    "wof:lastmodified":1467090211,
+    "wof:lastmodified":1510699974,
     "wof:name":"St Mary's School",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",

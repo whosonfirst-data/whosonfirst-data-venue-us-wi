@@ -2,14 +2,20 @@
   "id": 773470685,
   "type": "Feature",
   "properties": {
+    "addr:full":"550 Bayview Rd Mukwonago WI 53149",
+    "addr:housenumber":"550",
+    "addr:postcode":"53149",
+    "addr:street":"Bayview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.331859,42.851385,-88.331859,42.851385",
     "geom:latitude":42.851385,
     "geom:longitude":-88.331859,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"550 Bayview Rd",
     "sg:city":"Mukwonago",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081741,
         85838789
     ],
+    "wof:brand_id":420575585,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Q2ackBrtQ5iCw1OtdrWhX_42.851385_-88.331859@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585994,
-    "wof:geomhash":"13fc488e2efe51fcce77d284570a575d",
+    "wof:geomhash":"d46f6b5be37cf930a1a9a73e33f26d96",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773470685,
-    "wof:lastmodified":1467090061,
+    "wof:lastmodified":1510602971,
     "wof:name":"Remedy Intelligent Staffing",
     "wof:parent_id":85838789,
     "wof:placetype":"venue",

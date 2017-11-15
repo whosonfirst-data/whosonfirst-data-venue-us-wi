@@ -2,14 +2,20 @@
   "id": 807280147,
   "type": "Feature",
   "properties": {
+    "addr:full":"1773 Keehan Ln Green Bay WI 54311",
+    "addr:housenumber":"1773",
+    "addr:postcode":"54311",
+    "addr:street":"Keehan Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.964226,44.468567,-87.964226,44.468567",
     "geom:latitude":44.468567,
     "geom:longitude":-87.964226,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1773 Keehan Ln",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125157287,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VtaInKuCdfloKmomf0pbU_44.468567_-87.964226@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605647,
-    "wof:geomhash":"84c8a189922421e0670a4272a9490817",
+    "wof:geomhash":"c8268aa751ed54332b2c69d210a348a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807280147,
-    "wof:lastmodified":1467090593,
+    "wof:lastmodified":1510696750,
     "wof:name":"Unishippers Association",
     "wof:parent_id":85877953,
     "wof:placetype":"venue",

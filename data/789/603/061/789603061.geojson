@@ -2,9 +2,14 @@
   "id": 789603061,
   "type": "Feature",
   "properties": {
+    "addr:full":"6103 State Hwy 164 Waukesha WI 53189",
+    "addr:housenumber":"6103",
+    "addr:postcode":"53189",
+    "addr:street":"State Hwy 164",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.228637,42.935241,-88.228637,42.935241",
     "geom:latitude":42.935241,
     "geom:longitude":-88.228637,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85868297,
+        102191575,
+        404495657,
         85633793,
         101733509,
         102081741,
-        85868297
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"01978db485a657a1bca53fe8fcb3c815",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081741,
+            "localadmin_id":404495657,
             "locality_id":101733509,
             "neighbourhood_id":85868297,
             "region_id":85688517,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":789603061,
-    "wof:lastmodified":1467090154,
+    "wof:lastmodified":1492098702,
     "wof:name":"Lake Country Hygienic Ctr Inc",
     "wof:parent_id":85868297,
     "wof:placetype":"venue",

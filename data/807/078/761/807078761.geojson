@@ -2,9 +2,14 @@
   "id": 807078761,
   "type": "Feature",
   "properties": {
+    "addr:full":"2484 Co Rd G Delavan WI 53108",
+    "addr:housenumber":"2484",
+    "addr:postcode":"53108",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.954843,42.807898,-87.954843,42.807898",
     "geom:latitude":42.807898,
     "geom:longitude":-87.954843,
@@ -24,7 +29,10 @@
     "sg:postcode":"53108",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20S5QVVhCITEWRZFCcCCJz_42.807898_-87.954843@1294253271"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462603523,
     "wof:geomhash":"d40c9fff27d7d02f1abe7c980a052918",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550151,
+            "venue_id":807078761
+        }
+    ],
     "wof:id":807078761,
-    "wof:lastmodified":1467090530,
+    "wof:lastmodified":1492103402,
     "wof:name":"Millie's Restaurant & Shopping",
     "wof:parent_id":420550151,
     "wof:placetype":"venue",

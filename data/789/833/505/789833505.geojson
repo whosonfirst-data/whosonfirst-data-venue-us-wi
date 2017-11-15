@@ -2,14 +2,20 @@
   "id": 789833505,
   "type": "Feature",
   "properties": {
+    "addr:full":"2104 Co Rd H Stanley WI 54768",
+    "addr:housenumber":"2104",
+    "addr:postcode":"54768",
+    "addr:street":"Co Rd H",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.941949,44.792625,-90.941949,44.792625",
     "geom:latitude":44.792625,
     "geom:longitude":-90.941949,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2104 Co Rd H",
     "sg:city":"Stanley",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125159051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_656JIAeP06yAP7iMoKeoW9_44.792625_-90.941949@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590896,
-    "wof:geomhash":"92062d2dabbfb67bfd5f1a6fe0dca89f",
+    "wof:geomhash":"420c4d23859afbfb8e25f5d8297f2d32",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789833505,
-    "wof:lastmodified":1467090199,
+    "wof:lastmodified":1510697216,
     "wof:name":"New Life Tabernacle",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

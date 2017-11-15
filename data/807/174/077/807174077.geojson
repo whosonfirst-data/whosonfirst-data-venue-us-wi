@@ -2,14 +2,20 @@
   "id": 807174077,
   "type": "Feature",
   "properties": {
+    "addr:full":"1619 N Stoughton Rd Madison WI 53704",
+    "addr:housenumber":"1619",
+    "addr:postcode":"53704",
+    "addr:street":"N Stoughton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.324835,43.118516,-89.324835,43.118516",
     "geom:latitude":43.118516,
     "geom:longitude":-89.324835,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1619 N Stoughton Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125155471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0t7oRruUOR9yixbie3msBE_43.118516_-89.324835@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604528,
-    "wof:geomhash":"43cf63ee7e9c467e37115c7a31daa7f8",
+    "wof:geomhash":"d58dacd18ed36a1298b029eb7196d007",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":807174077,
-    "wof:lastmodified":1467090560,
+    "wof:lastmodified":1510612912,
     "wof:name":"Concentra Medical Center",
     "wof:parent_id":85878851,
     "wof:placetype":"venue",

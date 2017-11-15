@@ -2,9 +2,14 @@
   "id": 773712143,
   "type": "Feature",
   "properties": {
+    "addr:full":"3123 Sheard Rd Burlington WI 53105",
+    "addr:housenumber":"",
+    "addr:postcode":"3123;53105",
+    "addr:street":"Sheard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.169553,42.698383,-88.169553,42.698383",
     "geom:latitude":42.698383,
     "geom:longitude":-88.169553,
@@ -28,7 +33,11 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550143,
+        420550147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75bVWQwSQ7lm3yPaATlExQ_42.698383_-88.169553@1294253271"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462587817,
     "wof:geomhash":"1e591e2448995a7e7730009b36335ed2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550143,
+            "venue_id":773712143
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550147,
+            "venue_id":773712143
+        }
+    ],
     "wof:id":773712143,
-    "wof:lastmodified":1467090117,
+    "wof:lastmodified":1492092792,
     "wof:name":"Construx Concrete Works",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

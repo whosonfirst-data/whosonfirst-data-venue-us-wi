@@ -2,9 +2,14 @@
   "id": 807396207,
   "type": "Feature",
   "properties": {
+    "addr:full":"9745 S 58th St Franklin WI 53132",
+    "addr:housenumber":"9745",
+    "addr:postcode":"53132",
+    "addr:street":"S 58Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.988449,42.871846,-87.988449,42.871846",
     "geom:latitude":42.871846,
     "geom:longitude":-87.988449,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"http://www.napaautocare.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qSAV6jV7F01ykzSj40fpi_42.871846_-87.988449@1303262806"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462607189,
     "wof:geomhash":"ec8765ea0fe2e4d17c026830b1827600",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":807396207
+        }
+    ],
     "wof:id":807396207,
-    "wof:lastmodified":1467090636,
+    "wof:lastmodified":1492103407,
     "wof:name":"Huckstorf Diesel Pump & Injector Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

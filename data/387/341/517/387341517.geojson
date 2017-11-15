@@ -2,9 +2,14 @@
   "id": 387341517,
   "type": "Feature",
   "properties": {
+    "addr:full":"4343 S Kansas Ave Milwaukee WI 53235",
+    "addr:housenumber":"4343",
+    "addr:postcode":"53235",
+    "addr:street":"S Kansas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.887165,42.963943,-87.887165,42.963943",
     "geom:latitude":42.963943,
     "geom:longitude":-87.887165,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870983,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870983
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"7d34be5fa2f2136c5d9a0bb6c29457ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870983,
             "region_id":85688517,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":387341517,
-    "wof:lastmodified":1467089932,
+    "wof:lastmodified":1492098838,
     "wof:name":"Easterday Fluid Technologies",
     "wof:parent_id":85870983,
     "wof:placetype":"venue",

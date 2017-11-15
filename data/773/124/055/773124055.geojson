@@ -2,9 +2,14 @@
   "id": 773124055,
   "type": "Feature",
   "properties": {
+    "addr:full":"995 N Bloomfield Rd Lake Geneva WI 53128",
+    "addr:housenumber":"995",
+    "addr:postcode":"53128",
+    "addr:street":"N Bloomfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.354789,42.574511,-88.354789,42.574511",
     "geom:latitude":42.574511,
     "geom:longitude":-88.354789,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85865441,
+        102191575,
+        404494891,
         85633793,
         101733599,
         102081763,
-        85865441
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"ebeb863f042d660d8c50a5a66bee5c8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
+            "localadmin_id":404494891,
             "locality_id":101733599,
             "neighbourhood_id":85865441,
             "region_id":85688517,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":773124055,
-    "wof:lastmodified":1467089967,
+    "wof:lastmodified":1492097567,
     "wof:name":"Rev It Up",
     "wof:parent_id":85865441,
     "wof:placetype":"venue",

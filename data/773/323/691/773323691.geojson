@@ -2,14 +2,20 @@
   "id": 773323691,
   "type": "Feature",
   "properties": {
+    "addr:full":"2117 Monroe St Madison WI 53711",
+    "addr:housenumber":"2117",
+    "addr:postcode":"53711",
+    "addr:street":"Monroe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.420737,43.062459,-89.420737,43.062459",
     "geom:latitude":43.062459,
     "geom:longitude":-89.420737,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2117 Monroe St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125154987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZxWJKYTBSUu0jywAGq2xd_43.062459_-89.420737@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584866,
-    "wof:geomhash":"df2b10f6e2f3ce7f58cefbcf45db30b8",
+    "wof:geomhash":"0ffddbb479be0415861b7060a7bde4ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773323691,
-    "wof:lastmodified":1467090027,
+    "wof:lastmodified":1510695871,
     "wof:name":"Dominican Sisters",
     "wof:parent_id":85878833,
     "wof:placetype":"venue",

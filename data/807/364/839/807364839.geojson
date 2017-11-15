@@ -2,14 +2,20 @@
   "id": 807364839,
   "type": "Feature",
   "properties": {
+    "addr:full":"751 N High Point Rd Madison WI 53717",
+    "addr:housenumber":"751",
+    "addr:postcode":"53717",
+    "addr:street":"N High Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.518428,43.076342,-89.518428,43.076342",
     "geom:latitude":43.076342,
     "geom:longitude":-89.518428,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"751 N High Point Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -31,23 +37,28 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
+    "wof:brand_id":1125150761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sb2IlGLcRUIE2meEcb74M_43.076342_-89.518428@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606718,
-    "wof:geomhash":"23d817b1464ff110c85d5a2a6c02b2f2",
+    "wof:geomhash":"91c64d7100d506d0555c4529fc1ccf71",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -55,7 +66,7 @@
         }
     ],
     "wof:id":807364839,
-    "wof:lastmodified":1467090623,
+    "wof:lastmodified":1510697652,
     "wof:name":"Atlanta Bread Company",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

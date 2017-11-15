@@ -2,9 +2,14 @@
   "id": 790464677,
   "type": "Feature",
   "properties": {
+    "addr:full":"6525 375th Ave Burlington WI 53105",
+    "addr:housenumber":"6525",
+    "addr:postcode":"53105",
+    "addr:street":"375Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.263338,42.576136,-88.263338,42.576136",
     "geom:latitude":42.576136,
     "geom:longitude":-88.263338,
@@ -24,7 +29,13 @@
     "sg:postcode":"53105",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493325,
+        85633793,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VWso6Wgr6x38cLrVigNX1_42.576136_-88.263338@1294253271"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462596047,
     "wof:geomhash":"97f920a61f2dceb0109025387c5555be",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493325,
+            "region_id":85688517,
+            "venue_id":790464677
+        }
+    ],
     "wof:id":790464677,
-    "wof:lastmodified":1467090324,
+    "wof:lastmodified":1492103479,
     "wof:name":"Old World Mill Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

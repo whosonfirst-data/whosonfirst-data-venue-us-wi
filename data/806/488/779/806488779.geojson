@@ -2,9 +2,14 @@
   "id": 806488779,
   "type": "Feature",
   "properties": {
+    "addr:full":"1350 Elkhorn Rd Lake Geneva WI 53147",
+    "addr:housenumber":"1350",
+    "addr:postcode":"53147",
+    "addr:street":"Elkhorn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.442477,42.60235,-88.442477,42.60235",
     "geom:latitude":42.60235,
     "geom:longitude":-88.442477,
@@ -27,13 +32,7 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50UYVch7VpSoCPM8lw6Ynn_42.602350_-88.442477@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462598534,
     "wof:geomhash":"0cf21251a9b4a9692bd0204b9866ba1f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806488779
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806488779,
-    "wof:lastmodified":1467090391,
+    "wof:lastmodified":1492112093,
     "wof:name":"Geneva Hair Line",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

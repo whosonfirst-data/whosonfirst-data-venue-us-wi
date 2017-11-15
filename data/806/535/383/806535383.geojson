@@ -2,9 +2,14 @@
   "id": 806535383,
   "type": "Feature",
   "properties": {
+    "addr:full":"2608 Cameron St Delavan WI 53115",
+    "addr:housenumber":"2608",
+    "addr:postcode":"53115",
+    "addr:street":"Cameron St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.594937,42.601161,-88.594937,42.601161",
     "geom:latitude":42.601161,
     "geom:longitude":-88.594937,
@@ -27,7 +32,10 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4m18zn7ZvA8DESLjaUjpPi_42.601161_-88.594937@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462598919,
     "wof:geomhash":"e261a0fe70a0ea90af79991defb3985b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550177,
+            "venue_id":806535383
+        }
+    ],
     "wof:id":806535383,
-    "wof:lastmodified":1467090403,
+    "wof:lastmodified":1492103560,
     "wof:name":"After Hours Painting Now",
     "wof:parent_id":420550177,
     "wof:placetype":"venue",

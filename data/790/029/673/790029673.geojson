@@ -2,14 +2,20 @@
   "id": 790029673,
   "type": "Feature",
   "properties": {
+    "addr:full":"219 Paoli St Verona WI 53593",
+    "addr:housenumber":"219",
+    "addr:postcode":"53593",
+    "addr:street":"Paoli St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.541457,42.979397,-89.541457,42.979397",
     "geom:latitude":42.979397,
     "geom:longitude":-89.541457,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"219 Paoli St",
     "sg:city":"Verona",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125152345,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GTBFC8Rwpb3oEBPoKHmH1_42.979397_-89.541457@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592571,
-    "wof:geomhash":"ebf21df22edf0b507b528a8ef55024a8",
+    "wof:geomhash":"8a1977ad2b42155176dcc70cc72358ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790029673,
-    "wof:lastmodified":1467090238,
+    "wof:lastmodified":1510613372,
     "wof:name":"First Student Inc",
     "wof:parent_id":85819513,
     "wof:placetype":"venue",

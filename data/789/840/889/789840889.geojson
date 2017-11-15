@@ -2,14 +2,20 @@
   "id": 789840889,
   "type": "Feature",
   "properties": {
+    "addr:full":"1220 W Ranchito Ln Mequon WI 53092",
+    "addr:housenumber":"1220",
+    "addr:postcode":"53092",
+    "addr:street":"W Ranchito Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.923245,43.204845,-87.923245,43.204845",
     "geom:latitude":43.204845,
     "geom:longitude":-87.923245,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1220 W Ranchito Ln",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081873,
         85688517
     ],
+    "wof:brand_id":1125156081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jy9SDENTp85xTN8bLbCn9_43.204845_-87.923245@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590953,
-    "wof:geomhash":"ac76559687df9709a9c7f92694b93d9f",
+    "wof:geomhash":"2f95e9652a9c28ca88f28de2802cf27c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":789840889,
-    "wof:lastmodified":1467090201,
+    "wof:lastmodified":1510699299,
     "wof:name":"Fred Astaire Dance Studio",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",

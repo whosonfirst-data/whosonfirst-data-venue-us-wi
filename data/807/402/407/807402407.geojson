@@ -2,9 +2,14 @@
   "id": 807402407,
   "type": "Feature",
   "properties": {
+    "addr:full":"28611 75th St Unit B Salem WI 53168",
+    "addr:housenumber":"28611",
+    "addr:postcode":"53168",
+    "addr:street":"75Th St Unit B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.155751,42.568173,-88.155751,42.568173",
     "geom:latitude":42.568173,
     "geom:longitude":-88.155751,
@@ -24,7 +29,10 @@
     "sg:postcode":"53168",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0m8J1jS2U6MKzacYISUhSD_42.568173_-88.155751@1303262807"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462607338,
     "wof:geomhash":"baaa495465efff7997413550a9affb73",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":807402407
+        }
+    ],
     "wof:id":807402407,
-    "wof:lastmodified":1467090639,
+    "wof:lastmodified":1492098690,
     "wof:name":"Eyes On U Optical",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

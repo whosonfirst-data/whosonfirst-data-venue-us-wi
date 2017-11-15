@@ -2,14 +2,20 @@
   "id": 806791313,
   "type": "Feature",
   "properties": {
+    "addr:full":"3542 Manchester Rd Madison WI 53719",
+    "addr:housenumber":"3542",
+    "addr:postcode":"53719",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.492677,43.010762,-89.492677,43.010762",
     "geom:latitude":43.010762,
     "geom:longitude":-89.492677,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3542 Manchester Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125151377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72pUYShR6Hn9IkaQxvW3CC_43.010762_-89.492677@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601115,
-    "wof:geomhash":"f9a22ad207906dbf60d07c9298974f50",
+    "wof:geomhash":"f9bd5fe9d4f6a3b9fb137c6cc727ea66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806791313,
-    "wof:lastmodified":1467090462,
+    "wof:lastmodified":1510695795,
     "wof:name":"National Property Inspections",
     "wof:parent_id":85878885,
     "wof:placetype":"venue",

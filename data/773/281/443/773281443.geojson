@@ -2,9 +2,14 @@
   "id": 773281443,
   "type": "Feature",
   "properties": {
+    "addr:full":"813 Presidio Dr Waunakee WI 53597",
+    "addr:housenumber":"813",
+    "addr:postcode":"53597",
+    "addr:street":"Presidio Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.462838,43.182726,-89.462838,43.182726",
     "geom:latitude":43.182726,
     "geom:longitude":-89.462838,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wcSid9j6XnBawvLhFTHdp_43.182726_-89.462838@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462584525,
     "wof:geomhash":"e8c6de8110402dbd1cc3e985afa7f6e1",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773281443
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773281443,
-    "wof:lastmodified":1467090013,
+    "wof:lastmodified":1491935695,
     "wof:name":"Dream Scapes Landscaping LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

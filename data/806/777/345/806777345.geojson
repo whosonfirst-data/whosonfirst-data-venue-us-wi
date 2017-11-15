@@ -2,9 +2,14 @@
   "id": 806777345,
   "type": "Feature",
   "properties": {
+    "addr:full":"5961 S 108th Pl Hales Corners WI 53130",
+    "addr:housenumber":"5961",
+    "addr:postcode":"53130",
+    "addr:street":"S 108Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.04913,42.936575,-88.04913,42.936575",
     "geom:latitude":42.936575,
     "geom:longitude":-88.04913,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.holtzmotors.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494175,
+        85633793,
+        101733077,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5u8UpJareKWgS1KaygeG6O_42.936575_-88.049130@1294253271"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462600994,
     "wof:geomhash":"5cdef17395e26d38b1dfdcfc4d8243ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494175,
+            "locality_id":101733077,
+            "region_id":85688517,
+            "venue_id":806777345
+        }
+    ],
     "wof:id":806777345,
-    "wof:lastmodified":1467090459,
+    "wof:lastmodified":1492111804,
     "wof:name":"Holz Motors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

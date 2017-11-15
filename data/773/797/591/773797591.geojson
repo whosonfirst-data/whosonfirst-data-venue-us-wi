@@ -2,9 +2,14 @@
   "id": 773797591,
   "type": "Feature",
   "properties": {
+    "addr:full":"5900 Cornflour Ln Greendale WI 53129",
+    "addr:housenumber":"5900",
+    "addr:postcode":"53129",
+    "addr:street":"Cornflour Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.994669,42.936789,-87.994669,42.936789",
     "geom:latitude":42.936789,
     "geom:longitude":-87.994669,
@@ -24,7 +29,14 @@
     "sg:postcode":"53129",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404492089,
+        85633793,
+        101733071,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OHplQdl5BlwberPAsjSLs_42.936789_-87.994669@1294253271"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462588448,
     "wof:geomhash":"112ac7fd1780eaaaba289844dd71262f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492089,
+            "locality_id":101733071,
+            "region_id":85688517,
+            "venue_id":773797591
+        }
+    ],
     "wof:id":773797591,
-    "wof:lastmodified":1467090136,
+    "wof:lastmodified":1492103577,
     "wof:name":"Vaneska Rbert J Attrney At Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

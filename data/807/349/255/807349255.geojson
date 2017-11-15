@@ -2,9 +2,14 @@
   "id": 807349255,
   "type": "Feature",
   "properties": {
+    "addr:full":"1279 White Pigeon Rd Lake Geneva WI 53147",
+    "addr:housenumber":"1279",
+    "addr:postcode":"53147",
+    "addr:street":"White Pigeon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.40305,42.525026,-88.40305,42.525026",
     "geom:latitude":42.525026,
     "geom:longitude":-88.40305,
@@ -23,13 +28,7 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_717Pe0vPBVEz3E6YlS3tll_42.525026_-88.403050@1294253271"
@@ -37,18 +36,9 @@
     "wof:country":"US",
     "wof:created":1462606491,
     "wof:geomhash":"29e3ba3bff5f5819cd82c0e064fdd1d7",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":807349255
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807349255,
-    "wof:lastmodified":1467090617,
+    "wof:lastmodified":1492087971,
     "wof:name":"Kundert Farms",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

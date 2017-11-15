@@ -2,9 +2,14 @@
   "id": 823185703,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Moravian Valley Rd Waunakee WI 53597",
+    "addr:housenumber":"501",
+    "addr:postcode":"53597",
+    "addr:street":"Moravian Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.433548,43.180092,-89.433548,43.180092",
     "geom:latitude":43.180092,
     "geom:longitude":-89.433548,
@@ -36,12 +41,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pUifL1Sbt8FDaV81aoxma_43.180092_-89.433548@1303262812"
@@ -49,17 +49,9 @@
     "wof:country":"US",
     "wof:created":1462608140,
     "wof:geomhash":"2cc0e7a9280bfd4fccd3fc3df16bb805",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":823185703
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823185703,
-    "wof:lastmodified":1467090663,
+    "wof:lastmodified":1491935723,
     "wof:name":"Torger And Son, Ltd",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

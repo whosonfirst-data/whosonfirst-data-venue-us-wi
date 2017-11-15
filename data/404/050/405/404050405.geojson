@@ -2,9 +2,14 @@
   "id": 404050405,
   "type": "Feature",
   "properties": {
+    "addr:full":"3734 E Garden Pl Oak Creek WI 53154",
+    "addr:housenumber":"3734",
+    "addr:postcode":"53154",
+    "addr:street":"E Garden Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.860819,42.866519,-87.860819,42.866519",
     "geom:latitude":42.866519,
     "geom:longitude":-87.860819,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85809659,
+        102191575,
+        404494177,
         85633793,
         101733079,
         102081837,
-        85809659
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"b75c83ab82b03c4b43b52195b5473b76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404494177,
             "locality_id":101733079,
             "neighbourhood_id":85809659,
             "region_id":85688517,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":404050405,
-    "wof:lastmodified":1467089910,
+    "wof:lastmodified":1492108816,
     "wof:name":"Kat Home Improvement Inc",
     "wof:parent_id":85809659,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 185858569,
   "type": "Feature",
   "properties": {
+    "addr:full":"1817 W Lincoln Ave Milwaukee WI 53215",
+    "addr:housenumber":"1817",
+    "addr:postcode":"53215",
+    "addr:street":"W Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.936375,43.002906,-87.936375,43.002906",
     "geom:latitude":43.002906,
     "geom:longitude":-87.936375,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870927,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85894491,
-        85870927
+        85688517,
+        85894491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +50,30 @@
     "wof:geomhash":"3998fdabb1d7d87ec269da135f88e85f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
-            "neighbourhood_id":85894491,
+            "neighbourhood_id":85870927,
             "region_id":85688517,
             "venue_id":185858569
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
-            "neighbourhood_id":85870927,
+            "neighbourhood_id":85894491,
             "region_id":85688517,
             "venue_id":185858569
         }
     ],
     "wof:id":185858569,
-    "wof:lastmodified":1467089883,
+    "wof:lastmodified":1492088059,
     "wof:name":"Lincoln Avenue Elementary Schl",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

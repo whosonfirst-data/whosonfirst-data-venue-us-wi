@@ -2,9 +2,14 @@
   "id": 403809517,
   "type": "Feature",
   "properties": {
+    "addr:full":"3550 S Iowa Ave Milwaukee WI 53235",
+    "addr:housenumber":"3550",
+    "addr:postcode":"53235",
+    "addr:street":"S Iowa Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.884487,42.980312,-87.884487,42.980312",
     "geom:latitude":42.980312,
     "geom:longitude":-87.884487,
@@ -35,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85894493,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85894493
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +56,10 @@
     "wof:geomhash":"bdee0d141ead712f138d8da984182306",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85894493,
             "region_id":85688517,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":403809517,
-    "wof:lastmodified":1467089920,
+    "wof:lastmodified":1491913384,
     "wof:name":"Starfire Inc",
     "wof:parent_id":85894493,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790408941,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 S Division St Waunakee WI 53597",
+    "addr:housenumber":"800",
+    "addr:postcode":"53597",
+    "addr:street":"S Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.447173,43.186611,-89.447173,43.186611",
     "geom:latitude":43.186611,
     "geom:longitude":-89.447173,
@@ -28,12 +33,7 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34effl0Lu0fVBolDmPeoq3_43.186611_-89.447173@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462595605,
     "wof:geomhash":"2210f3c77f02c20fe62cddbabc03a184",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790408941
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790408941,
-    "wof:lastmodified":1467090312,
+    "wof:lastmodified":1491935693,
     "wof:name":"Inergy Propane",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

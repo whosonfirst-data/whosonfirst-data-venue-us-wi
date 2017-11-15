@@ -2,9 +2,14 @@
   "id": 370946275,
   "type": "Feature",
   "properties": {
+    "addr:full":"5749 S New York Ave Cudahy WI 53110",
+    "addr:housenumber":"5749",
+    "addr:postcode":"53110",
+    "addr:street":"S New York Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.878687,42.937573,-87.878687,42.937573",
     "geom:latitude":42.937573,
     "geom:longitude":-87.878687,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870975,
+        102191575,
+        404492091,
         85633793,
-        101733063,
+        101732987,
         102081837,
-        85870975
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"672a25f676e86d2a457c9f676fd6d79e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":101733063,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870975,
             "region_id":85688517,
             "venue_id":370946275
         }
     ],
     "wof:id":370946275,
-    "wof:lastmodified":1467089906,
+    "wof:lastmodified":1492111892,
     "wof:name":"Allegiance Equipment MGT",
     "wof:parent_id":85870975,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807401451,
   "type": "Feature",
   "properties": {
+    "addr:full":"6522 352nd Ave New Munster WI 53152",
+    "addr:housenumber":"6522",
+    "addr:postcode":"53152",
+    "addr:street":"352Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.235298,42.5821,-88.235298,42.5821",
     "geom:latitude":42.5821,
     "geom:longitude":-88.235298,
@@ -33,7 +38,13 @@
         "internet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493325,
+        85633793,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TIXOYiU0ea7lcFE1HWHPZ_42.582100_-88.235298@1303262807"
@@ -41,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1462607314,
     "wof:geomhash":"f661af665eb8344144d001c81d67aec7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493325,
+            "region_id":85688517,
+            "venue_id":807401451
+        }
+    ],
     "wof:id":807401451,
-    "wof:lastmodified":1467090639,
+    "wof:lastmodified":1492112039,
     "wof:name":"Tds Telecom-New Munster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

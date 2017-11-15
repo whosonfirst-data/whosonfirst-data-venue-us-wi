@@ -2,14 +2,20 @@
   "id": 806695973,
   "type": "Feature",
   "properties": {
+    "addr:full":"1043 N Lynndale Dr Appleton WI 54914",
+    "addr:housenumber":"1043",
+    "addr:postcode":"54914",
+    "addr:street":"N Lynndale Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.446036,44.267305,-88.446036,44.267305",
     "geom:latitude":44.267305,
     "geom:longitude":-88.446036,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1043 N Lynndale Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125158851,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GovCVT5JvBlMfhecXMOcp_44.267305_-88.446036@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600304,
-    "wof:geomhash":"583febdc5a5e825c0d0771978cf91898",
+    "wof:geomhash":"28b764f25ba47cb8fa02315e9f3f291c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806695973,
-    "wof:lastmodified":1467090440,
+    "wof:lastmodified":1510695068,
     "wof:name":"Rockwell Automation",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

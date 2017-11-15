@@ -2,14 +2,20 @@
   "id": 790184911,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 Main St E Menomonie WI 54751",
+    "addr:housenumber":"604",
+    "addr:postcode":"54751",
+    "addr:street":"Main St E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.92346,44.876331,-91.92346,44.876331",
     "geom:latitude":44.876331,
     "geom:longitude":-91.92346,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"604 Main St E",
     "sg:city":"Menomonie",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081747,
         85688517
     ],
+    "wof:brand_id":1125157001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UQMND9J2mLczdCLcJvvgP_44.876331_-91.923460@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593816,
-    "wof:geomhash":"d7093cf0d303647ab3a06ebf6a912284",
+    "wof:geomhash":"8276972d472e9a22a304c34adfa88f27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790184911,
-    "wof:lastmodified":1467090268,
+    "wof:lastmodified":1510695071,
     "wof:name":"Larry's Barber Shop",
     "wof:parent_id":85837813,
     "wof:placetype":"venue",

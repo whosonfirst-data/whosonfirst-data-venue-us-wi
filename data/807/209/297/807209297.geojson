@@ -2,14 +2,20 @@
   "id": 807209297,
   "type": "Feature",
   "properties": {
+    "addr:full":"1927 Erie Ave Sheboygan WI 53081",
+    "addr:housenumber":"1927",
+    "addr:postcode":"53081",
+    "addr:street":"Erie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.730882,43.75624,-87.730882,43.75624",
     "geom:latitude":43.75624,
     "geom:longitude":-87.730882,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1927 Erie Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":1125151549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iyMqSrlUcLmH6h9Rlzep1_43.756240_-87.730882@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604894,
-    "wof:geomhash":"485b4b8fd11e41ecd5db9ce87df332f6",
+    "wof:geomhash":"8e2e78897c8b70c4c2c03080828349c2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807209297,
-    "wof:lastmodified":1467090570,
+    "wof:lastmodified":1510695398,
     "wof:name":"Georgia-Pacific Corp",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

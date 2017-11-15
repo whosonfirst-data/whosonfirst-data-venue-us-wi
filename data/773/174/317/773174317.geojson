@@ -2,9 +2,14 @@
   "id": 773174317,
   "type": "Feature",
   "properties": {
+    "addr:full":"4098 S Lake Shore Dr Lake Geneva WI 53147",
+    "addr:housenumber":"4098",
+    "addr:postcode":"53147",
+    "addr:street":"S Lake Shore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.495656,42.545598,-88.495656,42.545598",
     "geom:latitude":42.545598,
     "geom:longitude":-88.495656,
@@ -29,13 +34,7 @@
         "cabin"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MfOxM7ykTAi9bvXwDee1w_42.545598_-88.495656@1294253271"
@@ -43,18 +42,9 @@
     "wof:country":"US",
     "wof:created":1462583696,
     "wof:geomhash":"e19c97bde12673e5f0e16f49226bff9f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":773174317
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773174317,
-    "wof:lastmodified":1467089979,
+    "wof:lastmodified":1492108865,
     "wof:name":"Mars Resort",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

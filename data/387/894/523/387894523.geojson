@@ -2,9 +2,14 @@
   "id": 387894523,
   "type": "Feature",
   "properties": {
+    "addr:full":"3210 N Maryland Ave Milwaukee WI 53211",
+    "addr:housenumber":"3210",
+    "addr:postcode":"53211",
+    "addr:street":"N Maryland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.88279,43.075978,-87.88279,43.075978",
     "geom:latitude":43.075978,
     "geom:longitude":-87.88279,
@@ -25,10 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870945,
+        102191575,
+        404492091,
         85633793,
+        101732987,
         102081837,
-        85870945
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +46,18 @@
     "wof:geomhash":"3407bcf16618047e03742908f5da607a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":-1,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870945,
             "region_id":85688517,
             "venue_id":387894523
         }
     ],
     "wof:id":387894523,
-    "wof:lastmodified":1467089926,
+    "wof:lastmodified":1491903025,
     "wof:name":"Milwaulkee Lib & Info Science",
     "wof:parent_id":85870945,
     "wof:placetype":"venue",

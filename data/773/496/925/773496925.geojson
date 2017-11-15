@@ -2,14 +2,20 @@
   "id": 773496925,
   "type": "Feature",
   "properties": {
+    "addr:full":"349 Jay Rd Cedar Grove WI 53013",
+    "addr:housenumber":"349",
+    "addr:postcode":"53013",
+    "addr:street":"Jay Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.808544,43.528429,-87.808544,43.528429",
     "geom:latitude":43.528429,
     "geom:longitude":-87.808544,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"349 Jay Rd",
     "sg:city":"Cedar Grove",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081873,
         85688517
     ],
+    "wof:brand_id":1125158325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tZL1RgkmOoCt7PZZbw6uK_43.528429_-87.808544@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586185,
-    "wof:geomhash":"1df3b329888054ddf5ba292cd0b16b75",
+    "wof:geomhash":"4d59a6a357288db760956c2df1b3280d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773496925,
-    "wof:lastmodified":1467090067,
+    "wof:lastmodified":1510700026,
     "wof:name":"International Reading Assn",
     "wof:parent_id":85829065,
     "wof:placetype":"venue",

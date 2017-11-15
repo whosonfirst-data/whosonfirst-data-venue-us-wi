@@ -2,14 +2,20 @@
   "id": 790521423,
   "type": "Feature",
   "properties": {
+    "addr:full":"5553 River Rd Waunakee WI 53597",
+    "addr:housenumber":"5553",
+    "addr:postcode":"53597",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.390959,43.160843,-89.390959,43.160843",
     "geom:latitude":43.160843,
     "geom:longitude":-89.390959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5553 River Rd",
     "sg:city":"Waunakee",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081795,
         85878869
     ],
+    "wof:brand_id":1125154353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A5EyFRxrKS4hKzpWV7OV8_43.160843_-89.390959@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596553,
-    "wof:geomhash":"40e392ad7fcc6c0138c27b9f6567a4ba",
+    "wof:geomhash":"c2ac5c58001ff0afe629f4a87aabd70f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790521423,
-    "wof:lastmodified":1467090337,
+    "wof:lastmodified":1510604929,
     "wof:name":"Picture Perfect",
     "wof:parent_id":85878869,
     "wof:placetype":"venue",

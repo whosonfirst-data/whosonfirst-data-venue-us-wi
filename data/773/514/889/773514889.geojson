@@ -2,9 +2,14 @@
   "id": 773514889,
   "type": "Feature",
   "properties": {
+    "addr:full":"3700 47th Ave Kenosha WI 53144",
+    "addr:housenumber":"3700",
+    "addr:postcode":"53144",
+    "addr:street":"47Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.865703,42.603938,-87.865703,42.603938",
     "geom:latitude":42.603938,
     "geom:longitude":-87.865703,
@@ -24,7 +29,14 @@
     "sg:postcode":"53144",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493393,
+        85633793,
+        101732567,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1q5xw6BEjH2wB2fiF8l5nf_42.603938_-87.865703@1294253271"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462586309,
     "wof:geomhash":"8e93f3182773a12ba1214588a0829c0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493393,
+            "locality_id":101732567,
+            "region_id":85688517,
+            "venue_id":773514889
+        }
+    ],
     "wof:id":773514889,
-    "wof:lastmodified":1467090072,
+    "wof:lastmodified":1492103558,
     "wof:name":"First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

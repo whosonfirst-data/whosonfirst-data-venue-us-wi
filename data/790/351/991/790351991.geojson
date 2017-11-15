@@ -2,14 +2,20 @@
   "id": 790351991,
   "type": "Feature",
   "properties": {
+    "addr:full":"1236 S Layton Blvd Milwaukee WI 53215",
+    "addr:housenumber":"1236",
+    "addr:postcode":"53215",
+    "addr:street":"S Layton Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.947717,43.017382,-87.947717,43.017382",
     "geom:latitude":43.017382,
     "geom:longitude":-87.947717,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1236 S Layton Blvd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125159785,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Lbw0usu0tlyPZ6XeA51po_43.017382_-87.947717@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462595152,
-    "wof:geomhash":"ec3f568e0e9525cb8f4cd505f7e7321f",
+    "wof:geomhash":"53b272849eb2664ffb053c0b6c40f415",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790351991,
-    "wof:lastmodified":1467090301,
+    "wof:lastmodified":1510696645,
     "wof:name":"Ascension Lutheran Church",
     "wof:parent_id":85870969,
     "wof:placetype":"venue",

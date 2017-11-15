@@ -2,9 +2,14 @@
   "id": 806846719,
   "type": "Feature",
   "properties": {
+    "addr:full":"669 Jackson Pkwy Williams Bay WI 53191",
+    "addr:housenumber":"669",
+    "addr:postcode":"53191",
+    "addr:street":"Jackson Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.524305,42.573511,-88.524305,42.573511",
     "geom:latitude":42.573511,
     "geom:longitude":-88.524305,
@@ -28,13 +33,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mgkYD951yJ2b0wATq401l_42.573511_-88.524305@1294253271"
@@ -42,18 +41,9 @@
     "wof:country":"US",
     "wof:created":1462601577,
     "wof:geomhash":"3dce0e4e7627255213d5c0fa1c142574",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806846719
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806846719,
-    "wof:lastmodified":1467090475,
+    "wof:lastmodified":1492109458,
     "wof:name":"Bill Speare Carpentry",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

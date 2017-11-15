@@ -2,9 +2,14 @@
   "id": 370790435,
   "type": "Feature",
   "properties": {
+    "addr:full":"25716 W Loomis Rd Wind Lake WI 53185",
+    "addr:housenumber":"25716",
+    "addr:postcode":"53185",
+    "addr:street":"W Loomis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.145828,42.829876,-88.145828,42.829876",
     "geom:latitude":42.829876,
     "geom:longitude":-88.145828,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688517,
+        102191575,
+        404494901,
         85633793,
         101733595,
         102081763
@@ -41,17 +48,17 @@
     "wof:geomhash":"8fa720068bdc87e88de862d88c771ca8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
+            "localadmin_id":404494901,
             "locality_id":101733595,
-            "neighbourhood_id":-1,
             "region_id":85688517,
             "venue_id":370790435
         }
     ],
     "wof:id":370790435,
-    "wof:lastmodified":1467089905,
+    "wof:lastmodified":1492097570,
     "wof:name":"American Eagle Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

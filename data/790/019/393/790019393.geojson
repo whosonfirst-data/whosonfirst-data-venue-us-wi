@@ -2,9 +2,14 @@
   "id": 790019393,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 W Main St Waunakee WI 53597",
+    "addr:housenumber":"203",
+    "addr:postcode":"53597",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.456842,43.192042,-89.456842,43.192042",
     "geom:latitude":43.192042,
     "geom:longitude":-89.456842,
@@ -27,12 +32,7 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Qg58vLgkgUi6lXdktLDBE_43.192042_-89.456842@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462592486,
     "wof:geomhash":"35d27a550736ab307101343cd493a231",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790019393
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790019393,
-    "wof:lastmodified":1467090235,
+    "wof:lastmodified":1491935727,
     "wof:name":"Moppet Play House The",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

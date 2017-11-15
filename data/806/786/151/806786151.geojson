@@ -2,9 +2,14 @@
   "id": 806786151,
   "type": "Feature",
   "properties": {
+    "addr:full":"1145 Bonnie Brae Ln Lake Geneva WI 53147",
+    "addr:housenumber":"1145",
+    "addr:postcode":"53147",
+    "addr:street":"Bonnie Brae Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.426592,42.575928,-88.426592,42.575928",
     "geom:latitude":42.575928,
     "geom:longitude":-88.426592,
@@ -27,13 +32,7 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PNQc3qxoutHx0gClFNM0G_42.575928_-88.426592@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462601069,
     "wof:geomhash":"78529ab1e7c01ef3715519148e5546ff",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806786151
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806786151,
-    "wof:lastmodified":1467090461,
+    "wof:lastmodified":1492109457,
     "wof:name":"Paladine Personal Chef Service",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

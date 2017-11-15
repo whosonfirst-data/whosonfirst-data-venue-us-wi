@@ -2,14 +2,20 @@
   "id": 789583071,
   "type": "Feature",
   "properties": {
+    "addr:full":"1995 Main St Green Bay WI 54302",
+    "addr:housenumber":"1995",
+    "addr:postcode":"54302",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.975762,44.493095,-87.975762,44.493095",
     "geom:latitude":44.493095,
     "geom:longitude":-87.975762,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1995 Main St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125151233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hBSXP3xi9yXRMXpmo8aS0_44.493095_-87.975762@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588930,
-    "wof:geomhash":"8b513e2d8d5e5bc755ebcc75b2752752",
+    "wof:geomhash":"a88c322b756b33f2b2460038542f0da5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789583071,
-    "wof:lastmodified":1467090149,
+    "wof:lastmodified":1510694072,
     "wof:name":"Qualex Inc",
     "wof:parent_id":85877953,
     "wof:placetype":"venue",

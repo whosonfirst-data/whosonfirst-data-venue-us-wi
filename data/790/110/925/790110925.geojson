@@ -2,14 +2,20 @@
   "id": 790110925,
   "type": "Feature",
   "properties": {
+    "addr:full":"2917 International Ln Madison WI 53704",
+    "addr:housenumber":"2917",
+    "addr:postcode":"53704",
+    "addr:street":"International Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.349731,43.126756,-89.349731,43.126756",
     "geom:latitude":43.126756,
     "geom:longitude":-89.349731,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2917 International Ln",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125152749,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mzTdW1JVT34MTS9WJ11lC_43.126756_-89.349731@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593226,
-    "wof:geomhash":"dc36efe04de871b9f16049803db13bb8",
+    "wof:geomhash":"aeaad115efdc37aa5ab8b8f7a599f1be",
     "wof:hierarchy":[
         {
             "campus_id":102525659,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":790110925,
-    "wof:lastmodified":1467090253,
+    "wof:lastmodified":1510613105,
     "wof:name":"Vocational Rehabilitation Div",
     "wof:parent_id":102525659,
     "wof:placetype":"venue",

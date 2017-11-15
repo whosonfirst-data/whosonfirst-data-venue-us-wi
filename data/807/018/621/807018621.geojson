@@ -2,9 +2,14 @@
   "id": 807018621,
   "type": "Feature",
   "properties": {
+    "addr:full":"5557 Rainbow Rd Waunakee WI 53597",
+    "addr:housenumber":"5557",
+    "addr:postcode":"53597",
+    "addr:street":"Rainbow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.425908,43.159698,-89.425908,43.159698",
     "geom:latitude":43.159698,
     "geom:longitude":-89.425908,
@@ -27,12 +32,7 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xrr7kviC1CVnZGVBogURS_43.159698_-89.425908@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462603021,
     "wof:geomhash":"f43512156880b34081cb578b7dabce22",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807018621
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807018621,
-    "wof:lastmodified":1467090514,
+    "wof:lastmodified":1491935697,
     "wof:name":"Northlake Consulting Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

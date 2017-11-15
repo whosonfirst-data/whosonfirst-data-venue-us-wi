@@ -2,9 +2,14 @@
   "id": 806842295,
   "type": "Feature",
   "properties": {
+    "addr:full":"4680 Troy's Trl Fontana WI 53125",
+    "addr:housenumber":"",
+    "addr:postcode":"4680;53125",
+    "addr:street":"Troy'S Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.526613,42.544632,-88.526613,42.544632",
     "geom:latitude":42.544632,
     "geom:longitude":-88.526613,
@@ -24,13 +29,7 @@
     "sg:postcode":"53125",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BSR4jG4mJUshtFdcsL3Br_42.544632_-88.526613@1294253271"
@@ -38,18 +37,9 @@
     "wof:country":"US",
     "wof:created":1462601529,
     "wof:geomhash":"30fb14cfd42fc68c270f8741b2470cbb",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806842295
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806842295,
-    "wof:lastmodified":1467090474,
+    "wof:lastmodified":1492098714,
     "wof:name":"Inland Lake Yachting Assn",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

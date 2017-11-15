@@ -2,14 +2,20 @@
   "id": 806950483,
   "type": "Feature",
   "properties": {
+    "addr:full":"248 Wausau Center Wausau WI 54403",
+    "addr:housenumber":"248",
+    "addr:postcode":"54403",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.628719,44.958748,-89.628719,44.958748",
     "geom:latitude":44.958748,
     "geom:longitude":-89.628719,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"248 Wausau Center",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081881,
         85868295
     ],
+    "wof:brand_id":420573797,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kbM6DV2og1GoIFmIlm4bg_44.958748_-89.628719@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602442,
-    "wof:geomhash":"b89538f0ea2d47f2e74821b7a554c7a8",
+    "wof:geomhash":"86c082bbf5e1282fc471cd30db45945c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806950483,
-    "wof:lastmodified":1467090498,
+    "wof:lastmodified":1510603469,
     "wof:name":"Walgreens",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",

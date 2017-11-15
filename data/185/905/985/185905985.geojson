@@ -2,9 +2,14 @@
   "id": 185905985,
   "type": "Feature",
   "properties": {
+    "addr:full":"14001 Washington Ave Sturtevant WI 53177",
+    "addr:housenumber":"14001",
+    "addr:postcode":"53177",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.956691,42.726389,-87.956691,42.726389",
     "geom:latitude":42.726389,
     "geom:longitude":-87.956691,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688517,
         85633793,
-        102081763,
-        85827175
+        85827175,
+        102081763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"f80067274610e5d2b7ccf8e2ed95262d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081763,
-            "locality_id":-1,
             "neighbourhood_id":85827175,
             "region_id":85688517,
             "venue_id":185905985
         }
     ],
     "wof:id":185905985,
-    "wof:lastmodified":1467089884,
+    "wof:lastmodified":1492108888,
     "wof:name":"Spokes Restaurant and Bar",
     "wof:parent_id":85827175,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790276159,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 W Main St Waunakee WI 53597",
+    "addr:housenumber":"501",
+    "addr:postcode":"53597",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461767,43.192029,-89.461767,43.192029",
     "geom:latitude":43.192029,
     "geom:longitude":-89.461767,
@@ -30,12 +35,7 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2r4fNeeA9EvzqyrN1PTJA2_43.192029_-89.461767@1294253271"
@@ -43,17 +43,9 @@
     "wof:country":"US",
     "wof:created":1462594570,
     "wof:geomhash":"4300888da63340c00c6b57953942dcae",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790276159
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790276159,
-    "wof:lastmodified":1467090285,
+    "wof:lastmodified":1491935695,
     "wof:name":"Mobil",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773503719,
   "type": "Feature",
   "properties": {
+    "addr:full":"1007 Townline Rd Wausau WI 54403",
+    "addr:housenumber":"1007",
+    "addr:postcode":"54403",
+    "addr:street":"Townline Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.612242,44.944906,-89.612242,44.944906",
     "geom:latitude":44.944906,
     "geom:longitude":-89.612242,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1007 Townline Rd",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081881,
         85854809
     ],
+    "wof:brand_id":1125150607,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YG8eg90aLg13aubxK6u4S_44.944906_-89.612242@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586230,
-    "wof:geomhash":"5c9166da642640d19e74f32b26169d87",
+    "wof:geomhash":"36707846ea3227a94df4a2991c45f3a3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773503719,
-    "wof:lastmodified":1467090069,
+    "wof:lastmodified":1510697768,
     "wof:name":"Kraft Foods",
     "wof:parent_id":85854809,
     "wof:placetype":"venue",

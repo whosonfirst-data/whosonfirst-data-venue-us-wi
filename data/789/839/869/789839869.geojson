@@ -2,9 +2,14 @@
   "id": 789839869,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 4th St Waunakee WI 53597",
+    "addr:housenumber":"311",
+    "addr:postcode":"53597",
+    "addr:street":"4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.459766,43.188705,-89.459766,43.188705",
     "geom:latitude":43.188705,
     "geom:longitude":-89.459766,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57BSs12LF5SjwZkabWbqXJ_43.188705_-89.459766@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462590945,
     "wof:geomhash":"a106f9fed4da589c2131df955bff3e61",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789839869
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789839869,
-    "wof:lastmodified":1467090201,
+    "wof:lastmodified":1491935711,
     "wof:name":"Laufenberg Math General Sales",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

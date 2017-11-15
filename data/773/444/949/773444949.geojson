@@ -2,14 +2,20 @@
   "id": 773444949,
   "type": "Feature",
   "properties": {
+    "addr:full":"6425 Odana Rd Madison WI 53719",
+    "addr:housenumber":"6425",
+    "addr:postcode":"53719",
+    "addr:street":"Odana Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.489864,43.054642,-89.489864,43.054642",
     "geom:latitude":43.054642,
     "geom:longitude":-89.489864,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6425 Odana Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125156549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Zshs4G97NaMuLFkjr8KYl_43.054642_-89.489864@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585801,
-    "wof:geomhash":"2590e90e8db7effafc84800eb6c8c3b6",
+    "wof:geomhash":"a16a3d0e9398bda18681ffe799e8606b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773444949,
-    "wof:lastmodified":1467090055,
+    "wof:lastmodified":1510700006,
     "wof:name":"Cystic Fibrosis Foundation",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",

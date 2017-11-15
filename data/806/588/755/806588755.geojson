@@ -2,14 +2,20 @@
   "id": 806588755,
   "type": "Feature",
   "properties": {
+    "addr:full":"1261 Canterbury Rd Green Bay WI 54304",
+    "addr:housenumber":"1261",
+    "addr:postcode":"54304",
+    "addr:street":"Canterbury Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.079174,44.502982,-88.079174,44.502982",
     "geom:latitude":44.502982,
     "geom:longitude":-88.079174,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1261 Canterbury Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125151095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19sU2tNE3wX5keNfkGb7gR_44.502982_-88.079174@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462599389,
-    "wof:geomhash":"1e7b68c86f668bbc6e4029fd94ee04d1",
+    "wof:geomhash":"62cca142d09e201440ee98fdee7faf2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806588755,
-    "wof:lastmodified":1467090415,
+    "wof:lastmodified":1510699972,
     "wof:name":"Stanley Home Products",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",

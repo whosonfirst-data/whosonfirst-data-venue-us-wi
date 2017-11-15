@@ -2,14 +2,20 @@
   "id": 353761181,
   "type": "Feature",
   "properties": {
+    "addr:full":"819 W Carpenter Ave Milwaukee WI 53221",
+    "addr:housenumber":"819",
+    "addr:postcode":"53221",
+    "addr:street":"W Carpenter Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.923398,42.955552,-87.923398,42.955552",
     "geom:latitude":42.955552,
     "geom:longitude":-87.923398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"819 W Carpenter Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102081837,
         85870855
     ],
+    "wof:brand_id":1125157931,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KyRhU7iu3maxeHB1QknzH_42.955552_-87.923398@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"8b69060da38bee0c419b24ef0273b797",
+    "wof:geomhash":"076d85aa28f2cca8a9af1419b42bdeee",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":353761181,
-    "wof:lastmodified":1467089890,
+    "wof:lastmodified":1510697457,
     "wof:name":"Old Dominion Freight Line Inc",
     "wof:parent_id":85870855,
     "wof:placetype":"venue",

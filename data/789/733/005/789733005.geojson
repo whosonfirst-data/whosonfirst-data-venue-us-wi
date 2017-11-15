@@ -2,9 +2,14 @@
   "id": 789733005,
   "type": "Feature",
   "properties": {
+    "addr:full":"1507 Dover Dr Waunakee WI 53597",
+    "addr:housenumber":"1507",
+    "addr:postcode":"53597",
+    "addr:street":"Dover Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.443216,43.179596,-89.443216,43.179596",
     "geom:latitude":43.179596,
     "geom:longitude":-89.443216,
@@ -28,12 +33,7 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17iSK97DRAyEQoRegfxcTr_43.179596_-89.443216@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462590124,
     "wof:geomhash":"a64c3759bc58210ad679516d3d5f1cd9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789733005
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789733005,
-    "wof:lastmodified":1467090180,
+    "wof:lastmodified":1491935682,
     "wof:name":"Metron-Athene Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

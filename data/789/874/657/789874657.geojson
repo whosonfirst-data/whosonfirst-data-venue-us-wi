@@ -2,9 +2,14 @@
   "id": 789874657,
   "type": "Feature",
   "properties": {
+    "addr:full":"342 Junction Rd Madison WI 53717",
+    "addr:housenumber":"342",
+    "addr:postcode":"53717",
+    "addr:street":"Junction Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.525161,43.074158,-89.525161,43.074158",
     "geom:latitude":43.074158,
     "geom:longitude":-89.525161,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"acc4df6afa6b29d717ad6725a06cf659",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":789874657,
-    "wof:lastmodified":1467090207,
+    "wof:lastmodified":1491894017,
     "wof:name":"Superior Design Homes",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

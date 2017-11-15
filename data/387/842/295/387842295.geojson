@@ -2,9 +2,14 @@
   "id": 387842295,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 N Gammon Rd Madison WI 53717",
+    "addr:housenumber":"205",
+    "addr:postcode":"53717",
+    "addr:street":"N Gammon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.502524,43.071669,-89.502524,43.071669",
     "geom:latitude":43.071669,
     "geom:longitude":-89.502524,
@@ -31,10 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
-        102081795
+        102081795,
+        85688517,
+        85878893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +53,30 @@
     "wof:geomhash":"e6e2b4afb5128cd448e8cb6f74ca61ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":387842295
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878893,
             "region_id":85688517,
             "venue_id":387842295
         }
     ],
     "wof:id":387842295,
-    "wof:lastmodified":1467089922,
+    "wof:lastmodified":1491893993,
     "wof:name":"S&G Partners LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

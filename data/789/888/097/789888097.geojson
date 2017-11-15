@@ -2,9 +2,14 @@
   "id": 789888097,
   "type": "Feature",
   "properties": {
+    "addr:full":"5376 Farmco Dr Madison WI 53704",
+    "addr:housenumber":"5376",
+    "addr:postcode":"53704",
+    "addr:street":"Farmco Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.410337,43.153479,-89.410337,43.153479",
     "geom:latitude":43.153479,
     "geom:longitude":-89.410337,
@@ -32,12 +37,7 @@
         "carrier"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZGHKPdkqfLnlN3Hl1BmwG_43.153479_-89.410337@1294253271"
@@ -45,17 +45,9 @@
     "wof:country":"US",
     "wof:created":1462591353,
     "wof:geomhash":"a8d67313e969bb10a16c1db64fbf7c67",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789888097
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789888097,
-    "wof:lastmodified":1467090210,
+    "wof:lastmodified":1491935698,
     "wof:name":"Rural Mutual Insurance Co",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

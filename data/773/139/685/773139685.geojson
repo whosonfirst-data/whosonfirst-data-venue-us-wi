@@ -2,9 +2,14 @@
   "id": 773139685,
   "type": "Feature",
   "properties": {
+    "addr:full":"7611 Voss Pkwy Middleton WI 53562",
+    "addr:housenumber":"",
+    "addr:postcode":"7611;53562",
+    "addr:street":"Voss Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.514311,43.088622,-89.514311,43.088622",
     "geom:latitude":43.088622,
     "geom:longitude":-89.514311,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"311a95804c10e2d73d33f8aa91932ec9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":773139685,
-    "wof:lastmodified":1467089971,
+    "wof:lastmodified":1491893987,
     "wof:name":"Feldman Shel",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

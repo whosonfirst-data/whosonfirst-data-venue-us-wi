@@ -2,9 +2,14 @@
   "id": 773613331,
   "type": "Feature",
   "properties": {
+    "addr:full":"5341 W River Rd Waunakee WI 53597",
+    "addr:housenumber":"5341",
+    "addr:postcode":"53597",
+    "addr:street":"W River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.405513,43.159209,-89.405513,43.159209",
     "geom:latitude":43.159209,
     "geom:longitude":-89.405513,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YvcgTTNPLXZ7AN2KThQYM_43.159209_-89.405513@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462587035,
     "wof:geomhash":"7447eb9f53e65408b18ad6951d9ba10a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773613331
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773613331,
-    "wof:lastmodified":1467090094,
+    "wof:lastmodified":1491935676,
     "wof:name":"Vyron Corporation",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

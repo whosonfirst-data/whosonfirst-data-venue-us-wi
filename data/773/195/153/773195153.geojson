@@ -2,9 +2,14 @@
   "id": 773195153,
   "type": "Feature",
   "properties": {
+    "addr:full":"16303 60th St Bristol WI 53104",
+    "addr:housenumber":"16303",
+    "addr:postcode":"53104",
+    "addr:street":"60Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.008813,42.582613,-88.008813,42.582613",
     "geom:latitude":42.582613,
     "geom:longitude":-88.008813,
@@ -28,7 +33,14 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493391,
+        85633793,
+        101732581,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kXzSyjjkBarBb0yuI2Xkk_42.582613_-88.008813@1294253271"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462583892,
     "wof:geomhash":"7b0ec83226722aa2068f16dd74a6b340",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493391,
+            "locality_id":101732581,
+            "region_id":85688517,
+            "venue_id":773195153
+        }
+    ],
     "wof:id":773195153,
-    "wof:lastmodified":1467089984,
+    "wof:lastmodified":1492097568,
     "wof:name":"Midwest Therapeutic Equestrian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

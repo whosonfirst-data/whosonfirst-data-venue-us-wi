@@ -2,14 +2,20 @@
   "id": 789827693,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 S Lasalle St Spencer WI 54479",
+    "addr:housenumber":"400",
+    "addr:postcode":"54479",
+    "addr:street":"S Lasalle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.299518,44.754822,-90.299518,44.754822",
     "geom:latitude":44.754822,
     "geom:longitude":-90.299518,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 S Lasalle St",
     "sg:city":"Spencer",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85832133,
         102081881
     ],
+    "wof:brand_id":1125152751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WLqafC1MzTDnW8ZeJZ7aw_44.754822_-90.299518@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590855,
-    "wof:geomhash":"cc4a5a80e09f606a6a566ecd0ad1b30f",
+    "wof:geomhash":"fd5ab3db8f0ea78be9ab4e93fd555b4a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789827693,
-    "wof:lastmodified":1467090198,
+    "wof:lastmodified":1510693928,
     "wof:name":"Wesco Distributing Inc",
     "wof:parent_id":85832133,
     "wof:placetype":"venue",

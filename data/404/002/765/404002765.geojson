@@ -2,14 +2,20 @@
   "id": 404002765,
   "type": "Feature",
   "properties": {
+    "addr:full":"363 Lagoon Ln Oak Creek WI 53154",
+    "addr:housenumber":"363",
+    "addr:postcode":"53154",
+    "addr:street":"Lagoon Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.917923,42.888641,-87.917923,42.888641",
     "geom:latitude":42.888641,
     "geom:longitude":-87.917923,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"363 Lagoon Ln",
     "sg:city":"Oak Creek",
     "sg:classifiers":[
@@ -29,32 +35,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        420550135,
+        102191575,
+        404494177,
         85633793,
         101733079,
-        102081837
+        102081837,
+        85688517
     ],
+    "wof:brand_id":1125154987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ca7r7VwQ53Ro4VhnOvEpE_42.888641_-87.917923@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"0fe039edb3190ae6a2bda1bc8bb29787",
+    "wof:geomhash":"dc0b87311d3e0375d5e6a3635177fe5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404494177,
             "locality_id":101733079,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420550135,
             "region_id":85688517,
             "venue_id":404002765
         }
     ],
     "wof:id":404002765,
-    "wof:lastmodified":1467089911,
+    "wof:lastmodified":1510695872,
     "wof:name":"Dominican Sisters",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

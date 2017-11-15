@@ -2,9 +2,14 @@
   "id": 386982723,
   "type": "Feature",
   "properties": {
+    "addr:full":"4303 75th St Kenosha WI 53142",
+    "addr:housenumber":"4303",
+    "addr:postcode":"53142",
+    "addr:street":"75Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.860084,42.56594,-87.860084,42.56594",
     "geom:latitude":42.56594,
     "geom:longitude":-87.860084,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85852717,
+        102191575,
+        404493393,
         85633793,
         101732567,
         102081309,
-        85852717
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"9a52273b53c0ed0341ed291217f8f191",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081309,
+            "localadmin_id":404493393,
             "locality_id":101732567,
             "neighbourhood_id":85852717,
             "region_id":85688517,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":386982723,
-    "wof:lastmodified":1467089896,
+    "wof:lastmodified":1492097565,
     "wof:name":"City View Mobile Home Park",
     "wof:parent_id":85852717,
     "wof:placetype":"venue",

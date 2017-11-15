@@ -2,9 +2,14 @@
   "id": 790179909,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 N Farwell Ave Milwaukee WI 53202",
+    "addr:housenumber":"2201",
+    "addr:postcode":"53202",
+    "addr:street":"N Farwell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.885505,43.060116,-87.885505,43.060116",
     "geom:latitude":43.060116,
     "geom:longitude":-87.885505,
@@ -25,10 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870883,
+        102191575,
+        404492091,
         85633793,
-        85870961,
-        102081837
+        101732987,
+        102081837,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +47,20 @@
     "wof:geomhash":"8ed20adccf63e061c8cf48dcb6ae7b79",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "neighbourhood_id":85870961,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870883,
             "region_id":85688517,
             "venue_id":790179909
         }
     ],
     "wof:id":790179909,
-    "wof:lastmodified":1467090267,
+    "wof:lastmodified":1491886718,
     "wof:name":"Village Bazaar",
-    "wof:parent_id":85870961,
+    "wof:parent_id":85870883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

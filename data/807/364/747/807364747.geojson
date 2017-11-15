@@ -2,14 +2,20 @@
   "id": 807364747,
   "type": "Feature",
   "properties": {
+    "addr:full":"518 River Pl Madison WI 53716",
+    "addr:housenumber":"518",
+    "addr:postcode":"53716",
+    "addr:street":"River Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.326306,43.045295,-89.326306,43.045295",
     "geom:latitude":43.045295,
     "geom:longitude":-89.326306,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"518 River Pl",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081795,
         85878883
     ],
+    "wof:brand_id":1125153339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wWgeobpSS0Fl1rdxhloFE_43.045295_-89.326306@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606717,
-    "wof:geomhash":"c46338c7da3416626140eecc9ec77b0f",
+    "wof:geomhash":"0797f7a1351b46c3c5113a855cd6b233",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807364747,
-    "wof:lastmodified":1467090623,
+    "wof:lastmodified":1510699017,
     "wof:name":"The Original Pancake House",
     "wof:parent_id":85878883,
     "wof:placetype":"venue",

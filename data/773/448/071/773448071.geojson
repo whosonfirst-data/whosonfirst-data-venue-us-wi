@@ -2,14 +2,20 @@
   "id": 773448071,
   "type": "Feature",
   "properties": {
+    "addr:full":"740 N Broadway St Milwaukee WI 53202",
+    "addr:housenumber":"740",
+    "addr:postcode":"53202",
+    "addr:street":"N Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.907773,43.038862,-87.907773,43.038862",
     "geom:latitude":43.038862,
     "geom:longitude":-87.907773,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"740 N Broadway St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":420575395,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NrzqHilO7SmrpDrv36Df4_43.038862_-87.907773@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585823,
-    "wof:geomhash":"2050e846ed9749c8294adef3c68c177c",
+    "wof:geomhash":"474073cdb992bbd1c3be0cb19477adc7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773448071,
-    "wof:lastmodified":1467090056,
+    "wof:lastmodified":1510602858,
     "wof:name":"Glass Doctor",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",

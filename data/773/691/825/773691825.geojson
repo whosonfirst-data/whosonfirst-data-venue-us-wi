@@ -2,14 +2,20 @@
   "id": 773691825,
   "type": "Feature",
   "properties": {
+    "addr:full":"276 Davison Dr Sun Prairie WI 53590",
+    "addr:housenumber":"276",
+    "addr:postcode":"53590",
+    "addr:street":"Davison Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.229574,43.18752,-89.229574,43.18752",
     "geom:latitude":43.18752,
     "geom:longitude":-89.229574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"276 Davison Dr",
     "sg:city":"Sun Prairie",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85878835,
         102081795
     ],
+    "wof:brand_id":1125159311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FWLMNdtx9TpZLnoIw2pAw_43.187520_-89.229574@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587628,
-    "wof:geomhash":"aeb873bb3f358607f015fabbd87ec301",
+    "wof:geomhash":"d182dfb1282e289e3ca4dc8583047662",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":773691825,
-    "wof:lastmodified":1467090112,
+    "wof:lastmodified":1510695248,
     "wof:name":"Mobil Mart",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

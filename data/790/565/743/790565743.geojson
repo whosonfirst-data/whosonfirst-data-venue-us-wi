@@ -2,9 +2,14 @@
   "id": 790565743,
   "type": "Feature",
   "properties": {
+    "addr:full":"8313 Greenway Blvd Middleton WI 53562",
+    "addr:housenumber":"8313",
+    "addr:postcode":"53562",
+    "addr:street":"Greenway Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.530218,43.090158,-89.530218,43.090158",
     "geom:latitude":43.090158,
     "geom:longitude":-89.530218,
@@ -26,11 +31,13 @@
     "sg:website":"www.russfeingold.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +48,10 @@
     "wof:geomhash":"eb05234d8b4d82c9c0ee4390670dc22f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":790565743,
-    "wof:lastmodified":1467090347,
+    "wof:lastmodified":1491894083,
     "wof:name":"Feingold Campaign",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

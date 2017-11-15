@@ -2,9 +2,14 @@
   "id": 807334221,
   "type": "Feature",
   "properties": {
+    "addr:full":"2411 W Southland Dr Oak Creek WI 53154",
+    "addr:housenumber":"2411",
+    "addr:postcode":"53154",
+    "addr:street":"W Southland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.947098,42.881401,-87.947098,42.881401",
     "geom:latitude":42.881401,
     "geom:longitude":-87.947098,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494177,
+        85633793,
+        101733079,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dPq5oIQwKm313e4Q9QygF_42.881357_-87.946262@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462606251,
     "wof:geomhash":"2a3b32326c5392286064ca7c1eadc3e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494177,
+            "locality_id":101733079,
+            "region_id":85688517,
+            "venue_id":807334221
+        }
+    ],
     "wof:id":807334221,
-    "wof:lastmodified":1467090611,
+    "wof:lastmodified":1492103669,
     "wof:name":"Nehmey Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 185979271,
   "type": "Feature",
   "properties": {
+    "addr:full":"7776 N 76th St Milwaukee WI 53223",
+    "addr:housenumber":"7776",
+    "addr:postcode":"53223",
+    "addr:street":"N 76Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.004896,43.156523,-88.004896,43.156523",
     "geom:latitude":43.156523,
     "geom:longitude":-88.004896,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7776 N 76th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102081837,
         85870797
     ],
+    "wof:brand_id":1125156981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LPOZGgRdy6gfcSCEuWqcX_43.156523_-88.004896@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"257e6f66fa71b190ac15a181abb69e7f",
+    "wof:geomhash":"a88bd76c484b8080d56103f8b91c765e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":185979271,
-    "wof:lastmodified":1467089885,
+    "wof:lastmodified":1510613088,
     "wof:name":"J D Byrider Auto Sales",
     "wof:parent_id":85870797,
     "wof:placetype":"venue",

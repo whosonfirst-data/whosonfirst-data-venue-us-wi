@@ -2,14 +2,20 @@
   "id": 790194317,
   "type": "Feature",
   "properties": {
+    "addr:full":"1031 Main St Onalaska WI 54650",
+    "addr:housenumber":"1031",
+    "addr:postcode":"54650",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.225377,43.884435,-91.225377,43.884435",
     "geom:latitude":43.884435,
     "geom:longitude":-91.225377,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1031 Main St",
     "sg:city":"Onalaska",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081301,
         85825891
     ],
+    "wof:brand_id":1125159375,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OWxhHqwrTBDQgsggOzO7r_43.884435_-91.225377@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593892,
-    "wof:geomhash":"941df65e6f0151e64fe55d7eb84ddcad",
+    "wof:geomhash":"d0d86715f077bf6f03bec8259edb3a2f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790194317,
-    "wof:lastmodified":1467090269,
+    "wof:lastmodified":1510695816,
     "wof:name":"St Patrick's Catholic Church",
     "wof:parent_id":85825891,
     "wof:placetype":"venue",

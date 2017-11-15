@@ -2,14 +2,20 @@
   "id": 807197579,
   "type": "Feature",
   "properties": {
+    "addr:full":"4201 N 27th St Milwaukee WI 53216",
+    "addr:housenumber":"4201",
+    "addr:postcode":"53216",
+    "addr:street":"N 27Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.946873,43.095161,-87.946873,43.095161",
     "geom:latitude":43.095161,
     "geom:longitude":-87.946873,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4201 N 27th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125156383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7f4gBa3HqVQn7BDQpNQ1Ow_43.095161_-87.946873@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604774,
-    "wof:geomhash":"eca5102053e15c4b4d91ea584e6ef81e",
+    "wof:geomhash":"5d8f9d1781ce409d2cefa09484993ff4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807197579,
-    "wof:lastmodified":1467090566,
+    "wof:lastmodified":1510698492,
     "wof:name":"Eaton Corporation",
     "wof:parent_id":85870907,
     "wof:placetype":"venue",

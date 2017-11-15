@@ -2,9 +2,14 @@
   "id": 806762089,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 High St Lake Geneva WI 53147",
+    "addr:housenumber":"720",
+    "addr:postcode":"53147",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.445771,42.597652,-88.445771,42.597652",
     "geom:latitude":42.597652,
     "geom:longitude":-88.445771,
@@ -27,13 +32,7 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_739VvbcQKrOhJAPwN6N9oR_42.597652_-88.445771@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462600864,
     "wof:geomhash":"9e2252fda11e92a8693bcfdf0c25abb8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806762089
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806762089,
-    "wof:lastmodified":1467090455,
+    "wof:lastmodified":1492098857,
     "wof:name":"Software Spectrum A Pdpt",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

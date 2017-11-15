@@ -2,14 +2,20 @@
   "id": 789650301,
   "type": "Feature",
   "properties": {
+    "addr:full":"255 Junction Rd Madison WI 53717",
+    "addr:housenumber":"255",
+    "addr:postcode":"53717",
+    "addr:street":"Junction Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.524892,43.072583,-89.524892,43.072583",
     "geom:latitude":43.072583,
     "geom:longitude":-89.524892,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"255 Junction Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -28,23 +34,28 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
+    "wof:brand_id":1125151807,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7022bqCgO2afgM1uiwkZvX_43.072583_-89.524892@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462589457,
-    "wof:geomhash":"63a0cfe218bd795aa784be7e40f2584c",
+    "wof:geomhash":"8ded2b3b0515a8e9edab3153de5a3a7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -52,7 +63,7 @@
         }
     ],
     "wof:id":789650301,
-    "wof:lastmodified":1467090164,
+    "wof:lastmodified":1510693835,
     "wof:name":"United States Cellular Corp",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

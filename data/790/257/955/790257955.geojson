@@ -2,14 +2,20 @@
   "id": 790257955,
   "type": "Feature",
   "properties": {
+    "addr:full":"10201 W Lincoln Ave Milwaukee WI 53227",
+    "addr:housenumber":"10201",
+    "addr:postcode":"53227",
+    "addr:street":"W Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.039474,43.002522,-88.039474,43.002522",
     "geom:latitude":43.002522,
     "geom:longitude":-88.039474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10201 W Lincoln Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125159603,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TzEuuhQQf8F33Eu4jNdaR_43.002522_-88.039474@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462594405,
-    "wof:geomhash":"68c5cd3ac76b929462385c4267a96e5e",
+    "wof:geomhash":"5797c370b652a323f528c61a44bf50b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790257955,
-    "wof:lastmodified":1467090282,
+    "wof:lastmodified":1510695405,
     "wof:name":"Lafarge Corp",
     "wof:parent_id":85870861,
     "wof:placetype":"venue",

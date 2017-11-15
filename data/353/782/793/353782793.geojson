@@ -2,14 +2,20 @@
   "id": 353782793,
   "type": "Feature",
   "properties": {
+    "addr:full":"1924 Calumet Dr Sheboygan WI 53081",
+    "addr:housenumber":"1924",
+    "addr:postcode":"53081",
+    "addr:street":"Calumet Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.725467,43.765796,-87.725467,43.765796",
     "geom:latitude":43.765796,
     "geom:longitude":-87.725467,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1924 Calumet Dr",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102081869,
         85818209
     ],
+    "wof:brand_id":1125155933,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oLw1Lr956kaqLtkfNMVPL_43.765796_-87.725467@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"d885b7a5a4337045a6458557f78cc4af",
+    "wof:geomhash":"cd8d0922a4d67339e86dca53f439f17d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":353782793,
-    "wof:lastmodified":1467089886,
+    "wof:lastmodified":1510697226,
     "wof:name":"Heads Up",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

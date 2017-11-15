@@ -2,14 +2,20 @@
   "id": 773442417,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Loomis Cir Madison WI 53704",
+    "addr:housenumber":"9",
+    "addr:postcode":"53704",
+    "addr:street":"Loomis Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.29035,43.119873,-89.29035,43.119873",
     "geom:latitude":43.119873,
     "geom:longitude":-89.29035,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9 Loomis Cir",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85878835,
         102081795
     ],
+    "wof:brand_id":1125156757,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ssRlfUDDQoxnZddEriPac_43.119873_-89.290350@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585776,
-    "wof:geomhash":"44e17f1e518f260ecc09511842e308ec",
+    "wof:geomhash":"09aa51198c685535abace1a56e41b9ee",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773442417,
-    "wof:lastmodified":1467090055,
+    "wof:lastmodified":1510694896,
     "wof:name":"Glamour Shots",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790325879,
   "type": "Feature",
   "properties": {
+    "addr:full":"6250 Woodland Dr Waunakee WI 53597",
+    "addr:housenumber":"6250",
+    "addr:postcode":"53597",
+    "addr:street":"Woodland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.470135,43.177515,-89.470135,43.177515",
     "geom:latitude":43.177515,
     "geom:longitude":-89.470135,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85841479,
+        102191575,
+        404493275,
         85633793,
         101732813,
         102081795,
-        85841479
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"8025ba25c3aac6060b5fcf0cf9610042",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404493275,
             "locality_id":101732813,
             "neighbourhood_id":85841479,
             "region_id":85688517,
@@ -52,9 +61,9 @@
         }
     ],
     "wof:id":790325879,
-    "wof:lastmodified":1467090296,
+    "wof:lastmodified":1491935724,
     "wof:name":"Hoffman Construciton Co",
-    "wof:parent_id":85841479,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 807112263,
   "type": "Feature",
   "properties": {
+    "addr:full":"1041 S 3rd Ave Wausau WI 54401",
+    "addr:housenumber":"1041",
+    "addr:postcode":"54401",
+    "addr:street":"S 3Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.639273,44.949103,-89.639273,44.949103",
     "geom:latitude":44.949103,
     "geom:longitude":-89.639273,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1041 S 3rd Ave",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081881,
         85868295
     ],
+    "wof:brand_id":1125157877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77AH2fwc3KcjONvZKJMWXA_44.949103_-89.639273@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603864,
-    "wof:geomhash":"3fc26011950051eb0f3d93b382178d3d",
+    "wof:geomhash":"afa5e4c389ef6564a350200119d99d14",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807112263,
-    "wof:lastmodified":1467090540,
+    "wof:lastmodified":1510693947,
     "wof:name":"Kwik Trip",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370699415,
   "type": "Feature",
   "properties": {
+    "addr:full":"3369 S 69th St Milwaukee WI 53219",
+    "addr:housenumber":"3369",
+    "addr:postcode":"53219",
+    "addr:street":"S 69Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.99912,42.982935,-87.99912,42.982935",
     "geom:latitude":42.982935,
     "geom:longitude":-87.99912,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870901,
+        102191575,
+        404492091,
         85633793,
-        101733091,
+        101732987,
         102081837,
-        85870901
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"d1531ac47933a08bb705140152f103c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":101733091,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870901,
             "region_id":85688517,
             "venue_id":370699415
         }
     ],
     "wof:id":370699415,
-    "wof:lastmodified":1467089899,
+    "wof:lastmodified":1491935399,
     "wof:name":"Midget Food Market",
     "wof:parent_id":85870901,
     "wof:placetype":"venue",

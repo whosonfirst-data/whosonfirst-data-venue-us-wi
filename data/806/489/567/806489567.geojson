@@ -2,14 +2,20 @@
   "id": 806489567,
   "type": "Feature",
   "properties": {
+    "addr:full":"889 Fairview Dr Hartford WI 53027",
+    "addr:housenumber":"889",
+    "addr:postcode":"53027",
+    "addr:street":"Fairview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.393552,43.303785,-88.393552,43.303785",
     "geom:latitude":43.303785,
     "geom:longitude":-88.393552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"889 Fairview Dr",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081745,
         85688517
     ],
+    "wof:brand_id":1125151709,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11ntgzmd2e4Ga29k4Vkzj3_43.303785_-88.393552@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598540,
-    "wof:geomhash":"a6d4b4239123e6e2b67e12f0be252af2",
+    "wof:geomhash":"e770e040e0dc83e33c3c6956f2a8a69e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806489567,
-    "wof:lastmodified":1467090391,
+    "wof:lastmodified":1510693984,
     "wof:name":"American Federation of St",
     "wof:parent_id":85841573,
     "wof:placetype":"venue",

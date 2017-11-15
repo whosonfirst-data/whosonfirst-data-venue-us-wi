@@ -2,14 +2,20 @@
   "id": 806633939,
   "type": "Feature",
   "properties": {
+    "addr:full":"606 N 9th St Sheboygan WI 53081",
+    "addr:housenumber":"606",
+    "addr:postcode":"53081",
+    "addr:street":"N 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.714685,43.751912,-87.714685,43.751912",
     "geom:latitude":43.751912,
     "geom:longitude":-87.714685,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"606 N 9th St",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":1125159421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mDlTpn9fF6RtdKsDd6MO2_43.751912_-87.714685@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462599768,
-    "wof:geomhash":"53ccabfdbaebfc03c648586899520942",
+    "wof:geomhash":"59bc3a6f7fed05a457683c9c27d64b4b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806633939,
-    "wof:lastmodified":1467090426,
+    "wof:lastmodified":1510613370,
     "wof:name":"US Health & Human Svc Dept",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

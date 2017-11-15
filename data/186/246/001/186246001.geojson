@@ -2,14 +2,20 @@
   "id": 186246001,
   "type": "Feature",
   "properties": {
+    "addr:full":"154 N 4th Ave Sturgeon Bay WI 54235",
+    "addr:housenumber":"154",
+    "addr:postcode":"54235",
+    "addr:street":"N 4Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.376276,44.836044,-87.376276,44.836044",
     "geom:latitude":44.836044,
     "geom:longitude":-87.376276,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"154 N 4th Ave",
     "sg:city":"Sturgeon Bay",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102081831,
         85851043
     ],
+    "wof:brand_id":1125152741,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FUi4D7RWVTpm9UkeBNcXk_44.836044_-87.376276@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"f83bd24595fcd50465bdc04c0ea90a67",
+    "wof:geomhash":"3e42c0d687a49c3d89b1e82b3cce9aa5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":186246001,
-    "wof:lastmodified":1467089914,
+    "wof:lastmodified":1510613103,
     "wof:name":"Speedway Superamerica LLC",
     "wof:parent_id":85851043,
     "wof:placetype":"venue",

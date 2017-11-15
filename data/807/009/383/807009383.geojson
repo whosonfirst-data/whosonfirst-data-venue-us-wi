@@ -2,14 +2,20 @@
   "id": 807009383,
   "type": "Feature",
   "properties": {
+    "addr:full":"3176 Holmgren Way Green Bay WI 54304",
+    "addr:housenumber":"3176",
+    "addr:postcode":"54304",
+    "addr:street":"Holmgren Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.079352,44.46142,-88.079352,44.46142",
     "geom:latitude":44.46142,
     "geom:longitude":-88.079352,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3176 Holmgren Way",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125152751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_174iEyIRhP3U5umrdQeebz_44.461420_-88.079352@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602938,
-    "wof:geomhash":"e101c023aff139a046f452894aef52b2",
+    "wof:geomhash":"8d550b2aa5343099c655183282d76bc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807009383,
-    "wof:lastmodified":1467090512,
+    "wof:lastmodified":1510693928,
     "wof:name":"Wesco Distributing Inc",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

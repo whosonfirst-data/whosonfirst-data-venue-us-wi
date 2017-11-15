@@ -2,9 +2,14 @@
   "id": 806494531,
   "type": "Feature",
   "properties": {
+    "addr:full":"28840 Beach Dr Waterford WI 53185",
+    "addr:housenumber":"28840",
+    "addr:postcode":"53185",
+    "addr:street":"Beach Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.209495,42.809636,-88.209495,42.809636",
     "geom:latitude":42.809636,
     "geom:longitude":-88.209495,
@@ -28,7 +33,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494995,
+        85633793,
+        101733611,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5K8gJyWYIStbTN5pq1j5U5_42.809636_-88.209495@1294253271"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462598574,
     "wof:geomhash":"a618b2076a6ebbc86afd65dcae4040a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494995,
+            "locality_id":101733611,
+            "region_id":85688517,
+            "venue_id":806494531
+        }
+    ],
     "wof:id":806494531,
-    "wof:lastmodified":1467090393,
+    "wof:lastmodified":1492098693,
     "wof:name":"Seegers Environmental LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

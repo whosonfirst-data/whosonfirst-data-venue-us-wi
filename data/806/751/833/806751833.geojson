@@ -2,14 +2,20 @@
   "id": 806751833,
   "type": "Feature",
   "properties": {
+    "addr:full":"3303 W College Ave Appleton WI 54914",
+    "addr:housenumber":"3303",
+    "addr:postcode":"54914",
+    "addr:street":"W College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.45319,44.261674,-88.45319,44.261674",
     "geom:latitude":44.261674,
     "geom:longitude":-88.45319,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3303 W College Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":420575035,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TpNfhiC8mpWfAPlUOOREM_44.261674_-88.453190@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600780,
-    "wof:geomhash":"2ecad58b75cdaccfa80de442230cd057",
+    "wof:geomhash":"5d9bcd9033607cf263e6b210c9f62edc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806751833,
-    "wof:lastmodified":1467090453,
+    "wof:lastmodified":1510602546,
     "wof:name":"Fed Ex Kinko's Ofc & Print Ctr",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

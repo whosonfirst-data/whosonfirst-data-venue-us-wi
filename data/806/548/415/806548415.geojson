@@ -2,14 +2,20 @@
   "id": 806548415,
   "type": "Feature",
   "properties": {
+    "addr:full":"2278 Bay Settlement Rd Green Bay WI 54311",
+    "addr:housenumber":"2278",
+    "addr:postcode":"54311",
+    "addr:street":"Bay Settlement Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.906039,44.528393,-87.906039,44.528393",
     "geom:latitude":44.528393,
     "geom:longitude":-87.906039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2278 Bay Settlement Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081867,
         85810409
     ],
+    "wof:brand_id":1125159495,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30zYRfNUU6Uiq9ej17u5Wc_44.528393_-87.906039@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462599021,
-    "wof:geomhash":"22d52313480b4b2cf81cff1dc8c42c9e",
+    "wof:geomhash":"bc0eebda9adf138a14ea3fc9d78b83fb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806548415,
-    "wof:lastmodified":1467090406,
+    "wof:lastmodified":1510695422,
     "wof:name":"Cenex Convenience Store",
     "wof:parent_id":85810409,
     "wof:placetype":"venue",

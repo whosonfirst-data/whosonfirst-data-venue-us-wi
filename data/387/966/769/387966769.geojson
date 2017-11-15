@@ -2,9 +2,14 @@
   "id": 387966769,
   "type": "Feature",
   "properties": {
+    "addr:full":"7625 N Range Line Rd Milwaukee WI 53209",
+    "addr:housenumber":"7625",
+    "addr:postcode":"53209",
+    "addr:street":"N Range Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.94533,43.15456,-87.94533,43.15456",
     "geom:latitude":43.15456,
     "geom:longitude":-87.94533,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870811,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870811
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"56c9da9cf37ef0eca64295fe88535355",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870811,
             "region_id":85688517,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":387966769,
-    "wof:lastmodified":1467089921,
+    "wof:lastmodified":1491915707,
     "wof:name":"Parks-Brown Deer Golf Course",
     "wof:parent_id":85870811,
     "wof:placetype":"venue",

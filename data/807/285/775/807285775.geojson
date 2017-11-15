@@ -2,9 +2,14 @@
   "id": 807285775,
   "type": "Feature",
   "properties": {
+    "addr:full":"436 N Westfield Rd Madison WI 53717",
+    "addr:housenumber":"436",
+    "addr:postcode":"53717",
+    "addr:street":"N Westfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.510225,43.072903,-89.510225,43.072903",
     "geom:latitude":43.072903,
     "geom:longitude":-89.510225,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"8e0b4f1dfbdfddf9e2a330e6074c39d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":807285775,
-    "wof:lastmodified":1467090594,
+    "wof:lastmodified":1491894090,
     "wof:name":"Main Communications",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

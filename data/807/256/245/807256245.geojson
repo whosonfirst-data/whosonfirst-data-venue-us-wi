@@ -2,14 +2,20 @@
   "id": 807256245,
   "type": "Feature",
   "properties": {
+    "addr:full":"255 Crestview Ln De Pere WI 54115",
+    "addr:housenumber":"255",
+    "addr:postcode":"54115",
+    "addr:street":"Crestview Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.043249,44.442962,-88.043249,44.442962",
     "geom:latitude":44.442962,
     "geom:longitude":-88.043249,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"255 Crestview Ln",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125151223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xe3pP2SOVCh7Yfd290r7j_44.442962_-88.043249@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605391,
-    "wof:geomhash":"1a4aa8df41a1492559d76e3423f66ae6",
+    "wof:geomhash":"a2bae2d46aea94b4cf2fdea8a1d449ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807256245,
-    "wof:lastmodified":1467090585,
+    "wof:lastmodified":1510697269,
     "wof:name":"Indoff Inc",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

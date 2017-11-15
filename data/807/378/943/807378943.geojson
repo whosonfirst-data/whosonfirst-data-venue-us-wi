@@ -2,14 +2,20 @@
   "id": 807378943,
   "type": "Feature",
   "properties": {
+    "addr:full":"16900 W Bluemound Rd Brookfield WI 53005",
+    "addr:housenumber":"16900",
+    "addr:postcode":"53005",
+    "addr:street":"W Bluemound Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.122966,43.037372,-88.122966,43.037372",
     "geom:latitude":43.037372,
     "geom:longitude":-88.122966,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16900 W Bluemound Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125150081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2d3qFmxd8JlgW48u5EzMzw_43.037372_-88.122966@1303262805"
     },
     "wof:country":"US",
     "wof:created":1462606907,
-    "wof:geomhash":"d83d6f92e29f1642d0deeee94b1c0435",
+    "wof:geomhash":"06a141e7924dea0ae061c9557e16b856",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":807378943,
-    "wof:lastmodified":1467090629,
+    "wof:lastmodified":1510696026,
     "wof:name":"David's Bridal",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",

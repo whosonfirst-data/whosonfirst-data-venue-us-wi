@@ -2,9 +2,14 @@
   "id": 806739521,
   "type": "Feature",
   "properties": {
+    "addr:full":"1005 Eric Ln Waunakee WI 53597",
+    "addr:housenumber":"1005",
+    "addr:postcode":"53597",
+    "addr:street":"Eric Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.467249,43.181493,-89.467249,43.181493",
     "geom:latitude":43.181493,
     "geom:longitude":-89.467249,
@@ -27,12 +32,7 @@
         "jeweler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bzWBI1ToSH667gjfab3cn_43.181493_-89.467249@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462600676,
     "wof:geomhash":"d34702c33a4a354b3740ba72c658adc5",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806739521
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806739521,
-    "wof:lastmodified":1467090450,
+    "wof:lastmodified":1491935687,
     "wof:name":"L & S Jewelers LTD",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

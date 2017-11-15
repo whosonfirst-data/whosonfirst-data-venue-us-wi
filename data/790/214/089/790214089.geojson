@@ -2,14 +2,20 @@
   "id": 790214089,
   "type": "Feature",
   "properties": {
+    "addr:full":"808 Buffalo St Manitowoc WI 54220",
+    "addr:housenumber":"808",
+    "addr:postcode":"54220",
+    "addr:street":"Buffalo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.659094,44.094686,-87.659094,44.094686",
     "geom:latitude":44.094686,
     "geom:longitude":-87.659094,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"808 Buffalo St",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":1125151393,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75qnmFRltvDT7zd8S5spHW_44.094686_-87.659094@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462594057,
-    "wof:geomhash":"e809b00d779222076bb25ec0ed5f1657",
+    "wof:geomhash":"ddeab92ddcaaa7547a0bd419be4405a0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790214089,
-    "wof:lastmodified":1467090273,
+    "wof:lastmodified":1510613541,
     "wof:name":"Styles Unlimited",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

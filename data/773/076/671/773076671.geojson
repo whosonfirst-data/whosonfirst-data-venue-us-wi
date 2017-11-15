@@ -2,14 +2,20 @@
   "id": 773076671,
   "type": "Feature",
   "properties": {
+    "addr:full":"10101 W Greenfield Ave Milwaukee WI 53214",
+    "addr:housenumber":"10101",
+    "addr:postcode":"53214",
+    "addr:street":"W Greenfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.039642,43.016516,-88.039642,43.016516",
     "geom:latitude":43.016516,
     "geom:longitude":-88.039642,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10101 W Greenfield Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125155625,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lTczSzAvmIZP0jr17OpvX_43.016516_-88.039642@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462582981,
-    "wof:geomhash":"952ca3ac433753e1f4a5524ec561f482",
+    "wof:geomhash":"c347c9d450fc52c669b9e4ca130e66cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773076671,
-    "wof:lastmodified":1467089956,
+    "wof:lastmodified":1510697625,
     "wof:name":"Jewel-Osco",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",

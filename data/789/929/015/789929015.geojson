@@ -2,9 +2,14 @@
   "id": 789929015,
   "type": "Feature",
   "properties": {
+    "addr:full":"523 W Madison St Darien WI 53114",
+    "addr:housenumber":"523",
+    "addr:postcode":"53114",
+    "addr:street":"W Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.724425,42.602533,-88.724425,42.602533",
     "geom:latitude":42.602533,
     "geom:longitude":-88.724425,
@@ -33,7 +38,14 @@
         "skid"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494691,
+        85633793,
+        101732235,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZRKPVdzHW7l83NybyPsag_42.602533_-88.724425@1294253271"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1462591704,
     "wof:geomhash":"607fbd74d119a0d02692a0511476137a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404494691,
+            "locality_id":101732235,
+            "region_id":85688517,
+            "venue_id":789929015
+        }
+    ],
     "wof:id":789929015,
-    "wof:lastmodified":1467090217,
+    "wof:lastmodified":1492098951,
     "wof:name":"Custom Lumber Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

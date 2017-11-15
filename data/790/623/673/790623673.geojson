@@ -2,14 +2,20 @@
   "id": 790623673,
   "type": "Feature",
   "properties": {
+    "addr:full":"4050 Commonwealth Ave Eau Claire WI 54701",
+    "addr:housenumber":"4050",
+    "addr:postcode":"54701",
+    "addr:street":"Commonwealth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.432192,44.774805,-91.432192,44.774805",
     "geom:latitude":44.774805,
     "geom:longitude":-91.432192,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4050 Commonwealth Ave",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125157739,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TpqmNPSOSPmrxM8yL92Bv_44.774805_-91.432192@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462597446,
-    "wof:geomhash":"4c12ea4a3859aeb2fb5b784d9f46a65f",
+    "wof:geomhash":"891f5df6396b08334c2ddfd5af974412",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790623673,
-    "wof:lastmodified":1467090360,
+    "wof:lastmodified":1510604915,
     "wof:name":"USA Nails",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

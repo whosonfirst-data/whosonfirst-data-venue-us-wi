@@ -2,14 +2,20 @@
   "id": 370378505,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 E Sunset Dr Waukesha WI 53189",
+    "addr:housenumber":"101",
+    "addr:postcode":"53189",
+    "addr:street":"E Sunset Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.226069,42.988344,-88.226069,42.988344",
     "geom:latitude":42.988344,
     "geom:longitude":-88.226069,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 E Sunset Dr",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101733483,
         102081741
     ],
+    "wof:brand_id":1125153569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CPygDEhoUStEapQJtU6Xp_42.988344_-88.226069@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"6529f439c04bf520981fbb5bd0ca0ec5",
+    "wof:geomhash":"e84a80bf1b6f2ebbcd0172ab74fd28c1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":370378505,
-    "wof:lastmodified":1467089904,
+    "wof:lastmodified":1510693206,
     "wof:name":"U S Bank National Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

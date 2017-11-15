@@ -2,14 +2,20 @@
   "id": 773393127,
   "type": "Feature",
   "properties": {
+    "addr:full":"611 N Broadway St Milwaukee WI 53202",
+    "addr:housenumber":"611",
+    "addr:postcode":"53202",
+    "addr:street":"N Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.907891,43.038519,-87.907891,43.038519",
     "geom:latitude":43.038519,
     "geom:longitude":-87.907891,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"611 N Broadway St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125154235,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sWnumQJIHe4BffBcHUYHB_43.038519_-87.907891@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585350,
-    "wof:geomhash":"769a4ab546202edf2e4050c505404669",
+    "wof:geomhash":"43474a10778f8c42428ffcd0baa57e96",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773393127,
-    "wof:lastmodified":1467090043,
+    "wof:lastmodified":1510694886,
     "wof:name":"Maximus Inc",
     "wof:parent_id":85867289,
     "wof:placetype":"venue",

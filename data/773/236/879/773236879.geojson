@@ -2,14 +2,20 @@
   "id": 773236879,
   "type": "Feature",
   "properties": {
+    "addr:full":"7677 S Howell Ave Oak Creek WI 53154",
+    "addr:housenumber":"7677",
+    "addr:postcode":"53154",
+    "addr:street":"S Howell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.911286,42.908165,-87.911286,42.908165",
     "geom:latitude":42.908165,
     "geom:longitude":-87.911286,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7677 S Howell Ave",
     "sg:city":"Oak Creek",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":420575631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QAkaXu2SlWfZpG28pgYzc_42.908165_-87.911286@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584194,
-    "wof:geomhash":"1f03d57204c55bb025c22bfc7ec616b6",
+    "wof:geomhash":"4ad371ef314eb6c3d957e02d2455e4c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773236879,
-    "wof:lastmodified":1467089997,
+    "wof:lastmodified":1510601968,
     "wof:name":"Children's World Learning Ctr",
     "wof:parent_id":85870933,
     "wof:placetype":"venue",

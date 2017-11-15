@@ -2,9 +2,14 @@
   "id": 790351167,
   "type": "Feature",
   "properties": {
+    "addr:full":"2010 Church St East Troy WI 53120",
+    "addr:housenumber":"2010",
+    "addr:postcode":"53120",
+    "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.404808,42.788273,-88.404808,42.788273",
     "geom:latitude":42.788273,
     "geom:longitude":-88.404808,
@@ -24,7 +29,14 @@
     "sg:postcode":"53120",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494701,
+        85633793,
+        101732243,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DbO9cdL0zmc38intpf8G6_42.788273_-88.404808@1294253271"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462595146,
     "wof:geomhash":"4fc45770939c4ffbee9dc63cd447d770",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404494701,
+            "locality_id":101732243,
+            "region_id":85688517,
+            "venue_id":790351167
+        }
+    ],
     "wof:id":790351167,
-    "wof:lastmodified":1467090301,
+    "wof:lastmodified":1492103487,
     "wof:name":"J Lauber's Old Fashion Ice Crm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

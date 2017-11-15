@@ -2,14 +2,20 @@
   "id": 789963161,
   "type": "Feature",
   "properties": {
+    "addr:full":"8402 W Old Sauk Rd Middleton WI 53717",
+    "addr:housenumber":"8402",
+    "addr:postcode":"53717",
+    "addr:street":"W Old Sauk Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.535539,43.074783,-89.535539,43.074783",
     "geom:latitude":43.074783,
     "geom:longitude":-89.535539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8402 W Old Sauk Rd",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -30,23 +36,28 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
+    "wof:brand_id":420575665,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0stmjQU8jiLHtq30F7BVpU_43.074783_-89.535539@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592024,
-    "wof:geomhash":"b3ab582d17fa0762806b087ea3c81dff",
+    "wof:geomhash":"9f54c6f5611dea503039201891807244",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":789963161,
-    "wof:lastmodified":1467090224,
+    "wof:lastmodified":1510602705,
     "wof:name":"Wild Birds Unlimited",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

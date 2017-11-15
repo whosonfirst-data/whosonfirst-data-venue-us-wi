@@ -2,14 +2,20 @@
   "id": 790027247,
   "type": "Feature",
   "properties": {
+    "addr:full":"2225 Starr Ct Green Bay WI 54303",
+    "addr:housenumber":"2225",
+    "addr:postcode":"54303",
+    "addr:street":"Starr Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.083731,44.526861,-88.083731,44.526861",
     "geom:latitude":44.526861,
     "geom:longitude":-88.083731,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2225 Starr Ct",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125153653,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7P7oVj2s6GFNWUqee2UhUL_44.526861_-88.083731@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592548,
-    "wof:geomhash":"a7c472c9cc8e65a5f957c4905ef1d867",
+    "wof:geomhash":"87e9427487b65b193aa11571f7100bc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790027247,
-    "wof:lastmodified":1467090237,
+    "wof:lastmodified":1510697209,
     "wof:name":"Weyerhaeuser Co",
     "wof:parent_id":85877951,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 823186263,
   "type": "Feature",
   "properties": {
+    "addr:full":"3230 University Ave Suite 10 Madison WI 53705",
+    "addr:housenumber":"3230;10",
+    "addr:postcode":"53705",
+    "addr:street":"University Ave Suite",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":823186263,
-    "wof:lastmodified":1467090663,
+    "wof:lastmodified":1472654051,
     "wof:name":"Electrolysis Clinic & Laser LLC",
     "wof:parent_id":85868277,
     "wof:placetype":"venue",

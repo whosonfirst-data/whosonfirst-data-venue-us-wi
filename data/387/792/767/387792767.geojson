@@ -2,9 +2,14 @@
   "id": 387792767,
   "type": "Feature",
   "properties": {
+    "addr:full":"12201 W Burleigh St Milwaukee WI 53222",
+    "addr:housenumber":"12201",
+    "addr:postcode":"53222",
+    "addr:street":"W Burleigh St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.066608,43.074463,-88.066608,43.074463",
     "geom:latitude":43.074463,
     "geom:longitude":-88.066608,
@@ -25,8 +30,14 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85870817,
+        102191575,
+        404492091,
         85633793,
-        85688517
+        101732987,
+        102081837,
+        85688517,
+        85870871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +47,30 @@
     "wof:geomhash":"aa318a066fcf429e61b1625385e03190",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870817,
+            "region_id":85688517,
+            "venue_id":387792767
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870871,
             "region_id":85688517,
             "venue_id":387792767
         }
     ],
     "wof:id":387792767,
-    "wof:lastmodified":1467089923,
+    "wof:lastmodified":1491898543,
     "wof:name":"Kenneth J Kirchen Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

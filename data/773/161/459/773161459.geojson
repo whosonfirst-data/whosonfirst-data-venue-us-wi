@@ -2,14 +2,20 @@
   "id": 773161459,
   "type": "Feature",
   "properties": {
+    "addr:full":"10950 US Hwy 2 Maple WI 54854",
+    "addr:housenumber":"10950",
+    "addr:postcode":"54854",
+    "addr:street":"Us Hwy 2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.737493,46.587425,-91.737493,46.587425",
     "geom:latitude":46.587425,
     "geom:longitude":-91.737493,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10950 US Hwy 2",
     "sg:city":"Maple",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081291,
         85827153
     ],
+    "wof:brand_id":1125157687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rB9XAHMDlng2y7wYL7v9s_46.587425_-91.737493@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583603,
-    "wof:geomhash":"a9556f0607917567b8daa992f203925b",
+    "wof:geomhash":"a4c0d77b2478c1e8f9977084cda2ac0e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773161459,
-    "wof:lastmodified":1467089976,
+    "wof:lastmodified":1510699514,
     "wof:name":"Novus Auto Glass Repair",
     "wof:parent_id":85827153,
     "wof:placetype":"venue",

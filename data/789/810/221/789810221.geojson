@@ -2,9 +2,14 @@
   "id": 789810221,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 S Century Ave Waunakee WI 53597",
+    "addr:housenumber":"205",
+    "addr:postcode":"53597",
+    "addr:street":"S Century Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461693,43.190796,-89.461693,43.190796",
     "geom:latitude":43.190796,
     "geom:longitude":-89.461693,
@@ -28,12 +33,7 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BoBgofbgGs30PltKDFAV5_43.190796_-89.461693@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462590715,
     "wof:geomhash":"65eb36611246a113fefb729c280f7f61",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789810221
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789810221,
-    "wof:lastmodified":1467090195,
+    "wof:lastmodified":1491935691,
     "wof:name":"Mr G S Shoes & Clothing",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

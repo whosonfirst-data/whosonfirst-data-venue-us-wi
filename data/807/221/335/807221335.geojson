@@ -2,14 +2,20 @@
   "id": 807221335,
   "type": "Feature",
   "properties": {
+    "addr:full":"5913 W Howard Ave Milwaukee WI 53220",
+    "addr:housenumber":"5913",
+    "addr:postcode":"53220",
+    "addr:street":"W Howard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.987383,42.973823,-87.987383,42.973823",
     "geom:latitude":42.973823,
     "geom:longitude":-87.987383,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5913 W Howard Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125152573,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dO3ZizLYP0byS0ljb7EId_42.973823_-87.987383@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605013,
-    "wof:geomhash":"a01e2898ed5ddcca30c1d8d663eceb61",
+    "wof:geomhash":"25d94029bf7a0c13a9bb9bfa598e23e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":807221335,
-    "wof:lastmodified":1467090574,
+    "wof:lastmodified":1510698841,
     "wof:name":"Beltone Hearing Aid Center",
     "wof:parent_id":420550055,
     "wof:placetype":"venue",

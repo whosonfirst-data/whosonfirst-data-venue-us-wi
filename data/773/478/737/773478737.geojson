@@ -2,14 +2,20 @@
   "id": 773478737,
   "type": "Feature",
   "properties": {
+    "addr:full":"3905 Wood Duck Ln Wausau WI 54401",
+    "addr:housenumber":"3905",
+    "addr:postcode":"54401",
+    "addr:street":"Wood Duck Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.649482,44.921002,-89.649482,44.921002",
     "geom:latitude":44.921002,
     "geom:longitude":-89.649482,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3905 Wood Duck Ln",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081881,
         85854809
     ],
+    "wof:brand_id":1125151103,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vwXDLbYqPlFmh07aIGPV9_44.921002_-89.649482@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586065,
-    "wof:geomhash":"1ed388413550ce5af84e10d0306c2c5c",
+    "wof:geomhash":"6436ee182715fb900b9189703beebd12",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773478737,
-    "wof:lastmodified":1467090063,
+    "wof:lastmodified":1510697584,
     "wof:name":"ABF Freight System Inc",
     "wof:parent_id":85854809,
     "wof:placetype":"venue",

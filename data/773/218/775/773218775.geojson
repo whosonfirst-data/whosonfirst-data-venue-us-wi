@@ -2,9 +2,14 @@
   "id": 773218775,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 W 2nd St Waunakee WI 53597",
+    "addr:housenumber":"200",
+    "addr:postcode":"53597",
+    "addr:street":"W 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.456845,43.19083,-89.456845,43.19083",
     "geom:latitude":43.19083,
     "geom:longitude":-89.456845,
@@ -27,12 +32,7 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4u9KR6IUmBlTLsXt9FC3JL_43.190830_-89.456845@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462584065,
     "wof:geomhash":"b81c220a0b182342a5a55f7a79c70fe7",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773218775
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773218775,
-    "wof:lastmodified":1467089992,
+    "wof:lastmodified":1491935680,
     "wof:name":"L & L Remodeling",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

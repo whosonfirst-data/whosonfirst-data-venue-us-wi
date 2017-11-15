@@ -2,14 +2,20 @@
   "id": 789810511,
   "type": "Feature",
   "properties": {
+    "addr:full":"11707 E Larson Dr Lake Nebagamon WI 54849",
+    "addr:housenumber":"11707",
+    "addr:postcode":"54849",
+    "addr:street":"E Larson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.689657,46.519463,-91.689657,46.519463",
     "geom:latitude":46.519463,
     "geom:longitude":-91.689657,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11707 E Larson Dr",
     "sg:city":"Lake Nebagamon",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081291,
         85827153
     ],
+    "wof:brand_id":1125151709,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SfbkaCkHxoImcVkElb2Oe_46.519463_-91.689657@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590717,
-    "wof:geomhash":"95533a84f58419221a63a2206c515594",
+    "wof:geomhash":"4d7592d9c39434e54993d278791259f6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789810511,
-    "wof:lastmodified":1467090195,
+    "wof:lastmodified":1510693985,
     "wof:name":"American Federation of St",
     "wof:parent_id":85827153,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790545469,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 S 7th Ave West Bend WI 53095",
+    "addr:housenumber":"140",
+    "addr:postcode":"53095",
+    "addr:street":"S 7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.185021,43.422622,-88.185021,43.422622",
     "geom:latitude":43.422622,
     "geom:longitude":-88.185021,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"140 S 7th Ave",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081745,
         85688517
     ],
+    "wof:brand_id":1125150593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ao8rcXrS5kO375VL0Eghw_43.422622_-88.185021@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596747,
-    "wof:geomhash":"90520c06091b4c33ee5caf0d07c1fdcd",
+    "wof:geomhash":"3096a613239ec0c73eb138993ddba498",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790545469,
-    "wof:lastmodified":1467090342,
+    "wof:lastmodified":1510613421,
     "wof:name":"Lutheran Social Svc",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",

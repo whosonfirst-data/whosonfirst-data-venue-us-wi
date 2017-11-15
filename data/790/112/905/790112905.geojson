@@ -2,9 +2,14 @@
   "id": 790112905,
   "type": "Feature",
   "properties": {
+    "addr:full":"4866 Trantin Ct Waunakee WI 53597",
+    "addr:housenumber":"4866",
+    "addr:postcode":"53597",
+    "addr:street":"Trantin Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.440649,43.122664,-89.440649,43.122664",
     "geom:latitude":43.122664,
     "geom:longitude":-89.440649,
@@ -28,12 +33,7 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ImBufKdiqitF4GD0bAMKl_43.122664_-89.440649@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462593238,
     "wof:geomhash":"67c45bd89a3d30171871262c52c5354f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790112905
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790112905,
-    "wof:lastmodified":1467090254,
+    "wof:lastmodified":1491935685,
     "wof:name":"Robert G Radwin",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

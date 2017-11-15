@@ -2,9 +2,14 @@
   "id": 807325329,
   "type": "Feature",
   "properties": {
+    "addr:full":"9602 State Line Rd Sharon WI 53585",
+    "addr:housenumber":"9602",
+    "addr:postcode":"53585",
+    "addr:street":"State Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.774504,42.491996,-88.774504,42.491996",
     "geom:latitude":42.491996,
     "geom:longitude":-88.774504,
@@ -23,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496167,
+        85633793,
+        102086197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qudb0RYCPkwaSx6NmnWcS_42.491996_-88.774504@1294253271"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1462606133,
     "wof:geomhash":"f0ce8307a6663e04efa90e7764a405b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086197,
+            "localadmin_id":404496167,
+            "region_id":85688697,
+            "venue_id":807325329
+        }
+    ],
     "wof:id":807325329,
-    "wof:lastmodified":1467090607,
+    "wof:lastmodified":1492095373,
     "wof:name":"Ken Franseen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

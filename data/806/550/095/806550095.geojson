@@ -2,9 +2,14 @@
   "id": 806550095,
   "type": "Feature",
   "properties": {
+    "addr:full":"7753 Bowers Rd Elkhorn WI 53121",
+    "addr:housenumber":"7753",
+    "addr:postcode":"53121",
+    "addr:street":"Bowers Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.445264,42.773455,-88.445264,42.773455",
     "geom:latitude":42.773455,
     "geom:longitude":-88.445264,
@@ -32,7 +37,13 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494469,
+        85633793,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2p1RoBuxKSSURV24Cjtnhe_42.773455_-88.445264@1294253271"
@@ -40,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1462599035,
     "wof:geomhash":"a11e10109c55a59d817dbd60e53c01dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404494469,
+            "region_id":85688517,
+            "venue_id":806550095
+        }
+    ],
     "wof:id":806550095,
-    "wof:lastmodified":1467090406,
+    "wof:lastmodified":1492109464,
     "wof:name":"Pendergon Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370281169,
   "type": "Feature",
   "properties": {
+    "addr:full":"3205 Old Lantern Dr Brookfield WI 53005",
+    "addr:housenumber":"3205",
+    "addr:postcode":"53005",
+    "addr:street":"Old Lantern Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.077298,43.077474,-88.077298,43.077474",
     "geom:latitude":43.077474,
     "geom:longitude":-88.077298,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870871,
+        102191575,
+        404492091,
         85633793,
-        101733089,
+        101732987,
         102081837,
-        85870871
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"95ec02f7aea24304546af35c87da3c09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":101733089,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870871,
             "region_id":85688517,
             "venue_id":370281169
         }
     ],
     "wof:id":370281169,
-    "wof:lastmodified":1467089906,
+    "wof:lastmodified":1491898524,
     "wof:name":"Cloudberry Soaps & Sundries",
     "wof:parent_id":85870871,
     "wof:placetype":"venue",

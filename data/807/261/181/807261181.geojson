@@ -2,14 +2,20 @@
   "id": 807261181,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 E Wisconsin Ave Milwaukee WI 53202",
+    "addr:housenumber":"250",
+    "addr:postcode":"53202",
+    "addr:street":"E Wisconsin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.908383,43.038684,-87.908383,43.038684",
     "geom:latitude":43.038684,
     "geom:longitude":-87.908383,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"250 E Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125153389,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nAqh4p4KBWRVcEWnM80NG_43.038684_-87.908383@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605441,
-    "wof:geomhash":"09c85d7bc1aa2893879ef7375b204a1c",
+    "wof:geomhash":"e300120cc66bf7213dda9e7f91d145fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807261181,
-    "wof:lastmodified":1467090587,
+    "wof:lastmodified":1510695720,
     "wof:name":"HQ Global Workplaces",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",

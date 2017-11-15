@@ -2,9 +2,14 @@
   "id": 790043145,
   "type": "Feature",
   "properties": {
+    "addr:full":"5555 Polo Ridge Waunakee WI 53597",
+    "addr:housenumber":"5555",
+    "addr:postcode":"53597",
+    "addr:street":"Polo Ridge",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.440766,43.161116,-89.440766,43.161116",
     "geom:latitude":43.161116,
     "geom:longitude":-89.440766,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lp208mpkQEdhB1GArAVrJ_43.161116_-89.440766@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462592666,
     "wof:geomhash":"fef9da0ecf90b1e5bdf1a6b165a200c1",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790043145
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790043145,
-    "wof:lastmodified":1467090240,
+    "wof:lastmodified":1491935709,
     "wof:name":"Malestrom Sports Ltd Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

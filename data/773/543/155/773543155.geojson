@@ -2,14 +2,20 @@
   "id": 773543155,
   "type": "Feature",
   "properties": {
+    "addr:full":"4079 State Hwy 28 Sheboygan Falls WI 53085",
+    "addr:housenumber":"4079",
+    "addr:postcode":"53085",
+    "addr:street":"State Hwy 28",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.895853,43.699963,-87.895853,43.699963",
     "geom:latitude":43.699963,
     "geom:longitude":-87.895853,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4079 State Hwy 28",
     "sg:city":"Sheboygan Falls",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081869,
         85836705
     ],
+    "wof:brand_id":420575543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35y9gZxw1xwTA8Q84A6MWy_43.699963_-87.895853@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586506,
-    "wof:geomhash":"765eed67216bb8bb98a37c99576bd520",
+    "wof:geomhash":"1d89c196ba4aaac8c1ec8ef9d21a6a8a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773543155,
-    "wof:lastmodified":1467090078,
+    "wof:lastmodified":1510602393,
     "wof:name":"Michaels Arts & Crafts Store",
     "wof:parent_id":85836705,
     "wof:placetype":"venue",

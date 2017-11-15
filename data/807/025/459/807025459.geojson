@@ -2,9 +2,14 @@
   "id": 807025459,
   "type": "Feature",
   "properties": {
+    "addr:full":"231 Junction Rd Madison WI 53717",
+    "addr:housenumber":"231",
+    "addr:postcode":"53717",
+    "addr:street":"Junction Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.524884,43.07233,-89.524884,43.07233",
     "geom:latitude":43.07233,
     "geom:longitude":-89.524884,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"8cc88a69d998c799e0d307d5b47d3c5e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":807025459,
-    "wof:lastmodified":1467090516,
+    "wof:lastmodified":1491894025,
     "wof:name":"CompUSA Inc",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807357733,
   "type": "Feature",
   "properties": {
+    "addr:full":"811 N Jefferson St Milwaukee WI 53202",
+    "addr:housenumber":"811",
+    "addr:postcode":"53202",
+    "addr:street":"N Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.905649,43.041409,-87.905649,43.041409",
     "geom:latitude":43.041409,
     "geom:longitude":-87.905649,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"811 N Jefferson St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125158579,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZqmAkVvN6WYJoh4j9jYME_43.041409_-87.905649@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606619,
-    "wof:geomhash":"568657700881a067171e84047591f1c8",
+    "wof:geomhash":"6619b8038c8b645d337afe845491f1f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807357733,
-    "wof:lastmodified":1467090621,
+    "wof:lastmodified":1510697293,
     "wof:name":"Monsoon",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",

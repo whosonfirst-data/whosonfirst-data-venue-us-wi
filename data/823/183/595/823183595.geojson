@@ -2,6 +2,10 @@
   "id": 823183595,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 S Main St Ste 18 Janesville WI 53545",
+    "addr:housenumber":"20;18",
+    "addr:postcode":"53545",
+    "addr:street":"S Main St Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":823183595,
-    "wof:lastmodified":1467090662,
+    "wof:lastmodified":1472654053,
     "wof:name":"USPS - United States Post Office - Downtown Janesville",
     "wof:parent_id":85803103,
     "wof:placetype":"venue",

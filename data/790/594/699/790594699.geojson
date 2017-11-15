@@ -2,9 +2,14 @@
   "id": 790594699,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Hawk Feather Cir Madison WI 53717",
+    "addr:housenumber":"18",
+    "addr:postcode":"53717",
+    "addr:street":"Hawk Feather Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.54241,43.081351,-89.54241,43.081351",
     "geom:latitude":43.081351,
     "geom:longitude":-89.54241,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"c282747401a9911fec06ae1b4ee75562",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":790594699,
-    "wof:lastmodified":1467090353,
+    "wof:lastmodified":1491894015,
     "wof:name":"Evergreen Sales & Marketing SE",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

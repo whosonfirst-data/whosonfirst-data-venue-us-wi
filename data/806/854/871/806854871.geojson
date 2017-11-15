@@ -2,14 +2,20 @@
   "id": 806854871,
   "type": "Feature",
   "properties": {
+    "addr:full":"3001 Ramada Way Green Bay WI 54304",
+    "addr:housenumber":"3001",
+    "addr:postcode":"54304",
+    "addr:street":"Ramada Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.080314,44.464974,-88.080314,44.464974",
     "geom:latitude":44.464974,
     "geom:longitude":-88.080314,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3001 Ramada Way",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125152249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6H0umHCEmFPAdrLYhLkAG8_44.464974_-88.080314@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601647,
-    "wof:geomhash":"2b881dbf0808d42640533b229b29de06",
+    "wof:geomhash":"dea5c8a1ec4ac31e1b6c4d251abb642e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806854871,
-    "wof:lastmodified":1467090476,
+    "wof:lastmodified":1510694095,
     "wof:name":"Xerox Corp",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387667955,
   "type": "Feature",
   "properties": {
+    "addr:full":"2462 N Murray Ave Milwaukee WI 53211",
+    "addr:housenumber":"2462",
+    "addr:postcode":"53211",
+    "addr:street":"N Murray Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.885475,43.063358,-87.885475,43.063358",
     "geom:latitude":43.063358,
     "geom:longitude":-87.885475,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870883,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870883
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"74998d57d4b6417a7580d86947690219",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870883,
             "region_id":85688517,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":387667955,
-    "wof:lastmodified":1467089929,
+    "wof:lastmodified":1491886717,
     "wof:name":"Ace Dental Lab",
     "wof:parent_id":85870883,
     "wof:placetype":"venue",

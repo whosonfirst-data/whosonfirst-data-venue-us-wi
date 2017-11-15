@@ -2,9 +2,14 @@
   "id": 806574061,
   "type": "Feature",
   "properties": {
+    "addr:full":"9900 S Franklin Dr Franklin WI 53132",
+    "addr:housenumber":"9900",
+    "addr:postcode":"53132",
+    "addr:street":"S Franklin Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.978375,42.865759,-87.978375,42.865759",
     "geom:latitude":42.865759,
     "geom:longitude":-87.978375,
@@ -33,7 +38,14 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RRNFFHvFFhwP0a88UetkM_42.865759_-87.978375@1294253271"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1462599265,
     "wof:geomhash":"fd68812f14b4ecd2886a335c30217046",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":806574061
+        }
+    ],
     "wof:id":806574061,
-    "wof:lastmodified":1467090412,
+    "wof:lastmodified":1492098699,
     "wof:name":"Ritt Beyer & Weir Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

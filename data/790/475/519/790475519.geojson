@@ -2,9 +2,14 @@
   "id": 790475519,
   "type": "Feature",
   "properties": {
+    "addr:full":"1080 Spleas Skoney Rd East Troy WI 53120",
+    "addr:housenumber":"1080",
+    "addr:postcode":"53120",
+    "addr:street":"Spleas Skoney Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.355163,42.818213,-88.355163,42.818213",
     "geom:latitude":42.818213,
     "geom:longitude":-88.355163,
@@ -28,7 +33,14 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494703,
+        85633793,
+        101733547,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HSdRW2xUZZyQdmOueYz8n_42.818213_-88.355163@1294253271"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462596154,
     "wof:geomhash":"0bc0c6adeb7506acf26baf9d81d5e2de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404494703,
+            "locality_id":101733547,
+            "region_id":85688517,
+            "venue_id":790475519
+        }
+    ],
     "wof:id":790475519,
-    "wof:lastmodified":1467090326,
+    "wof:lastmodified":1492112073,
     "wof:name":"MTCEH Wisconsin Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

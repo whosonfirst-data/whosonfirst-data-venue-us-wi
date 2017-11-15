@@ -2,9 +2,14 @@
   "id": 773145941,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 South St Waunakee WI 53597",
+    "addr:housenumber":"710",
+    "addr:postcode":"53597",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.455131,43.185446,-89.455131,43.185446",
     "geom:latitude":43.185446,
     "geom:longitude":-89.455131,
@@ -27,12 +32,7 @@
         "executive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5232PlcWlC2JnyPjnrl4Do_43.185446_-89.455131@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462583474,
     "wof:geomhash":"7a0e089dcbeccba3ff731b6280494211",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773145941
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773145941,
-    "wof:lastmodified":1467089972,
+    "wof:lastmodified":1491935680,
     "wof:name":"Waunakee Public Library",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

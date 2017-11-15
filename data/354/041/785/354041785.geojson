@@ -2,9 +2,14 @@
   "id": 354041785,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 15th Ave Union Grove WI 53182",
+    "addr:housenumber":"1500",
+    "addr:postcode":"53182",
+    "addr:street":"15Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.058361,42.681368,-88.058361,42.681368",
     "geom:latitude":42.681368,
     "geom:longitude":-88.058361,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688517,
+        102191575,
+        404494991,
         85633793,
         101732347,
         102081763
@@ -41,17 +48,17 @@
     "wof:geomhash":"556b4723b0986fea4c4d5dc07902c274",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
+            "localadmin_id":404494991,
             "locality_id":101732347,
-            "neighbourhood_id":-1,
             "region_id":85688517,
             "venue_id":354041785
         }
     ],
     "wof:id":354041785,
-    "wof:lastmodified":1467089935,
+    "wof:lastmodified":1492108862,
     "wof:name":"Old Settlers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

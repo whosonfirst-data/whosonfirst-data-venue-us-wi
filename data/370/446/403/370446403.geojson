@@ -2,9 +2,14 @@
   "id": 370446403,
   "type": "Feature",
   "properties": {
+    "addr:full":"7707 Harwood Ave Milwaukee WI 53213",
+    "addr:housenumber":"7707",
+    "addr:postcode":"53213",
+    "addr:street":"Harwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.00819,43.049325,-88.00819,43.049325",
     "geom:latitude":43.049325,
     "geom:longitude":-88.00819,
@@ -30,11 +35,13 @@
     "sg:website":"www.zdg.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870835,
+        102191575,
+        404492091,
         85633793,
-        101733089,
+        101732987,
         102081837,
-        85870835
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"450960db46d1b847ddb9e9a34d22043b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":101733089,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870835,
             "region_id":85688517,
             "venue_id":370446403
         }
     ],
     "wof:id":370446403,
-    "wof:lastmodified":1467089906,
+    "wof:lastmodified":1491905769,
     "wof:name":"Zimmerman Design Group Inc",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",

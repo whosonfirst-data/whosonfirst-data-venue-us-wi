@@ -2,14 +2,20 @@
   "id": 186293481,
   "type": "Feature",
   "properties": {
+    "addr:full":"707 S Main St Oshkosh WI 54902",
+    "addr:housenumber":"707",
+    "addr:postcode":"54902",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.538137,44.01103,-88.538137,44.01103",
     "geom:latitude":44.01103,
     "geom:longitude":-88.538137,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"707 S Main St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102081801,
         85851167
     ],
+    "wof:brand_id":1125152741,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FzKUGmS6IyxkiPWfKv2Wp_44.011030_-88.538137@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"1625ad3fea2fd046589383b64e005ac9",
+    "wof:geomhash":"460c02f0e98de9911a469b7976810fa3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":186293481,
-    "wof:lastmodified":1467089915,
+    "wof:lastmodified":1510613103,
     "wof:name":"Speedway Superamerica LLC",
     "wof:parent_id":85851167,
     "wof:placetype":"venue",

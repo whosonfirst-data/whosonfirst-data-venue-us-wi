@@ -2,9 +2,14 @@
   "id": 789622669,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Round Hill Cir Madison WI 53717",
+    "addr:housenumber":"5",
+    "addr:postcode":"53717",
+    "addr:street":"Round Hill Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.503844,43.071018,-89.503844,43.071018",
     "geom:latitude":43.071018,
     "geom:longitude":-89.503844,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"42b6aab97ef7b1f7f124562ea8c12b3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":789622669,
-    "wof:lastmodified":1467090158,
+    "wof:lastmodified":1491894000,
     "wof:name":"Stephen R Carpenter",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

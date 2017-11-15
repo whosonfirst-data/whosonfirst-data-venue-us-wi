@@ -2,14 +2,20 @@
   "id": 807363793,
   "type": "Feature",
   "properties": {
+    "addr:full":"4325 Lien Rd Madison WI 53704",
+    "addr:housenumber":"",
+    "addr:postcode":"4325;53704",
+    "addr:street":"Lien Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.304898,43.120951,-89.304898,43.120951",
     "geom:latitude":43.120951,
     "geom:longitude":-89.304898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4325 Lien Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125154983,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aCU1ASEvWPHrkmiA5sh5K_43.120951_-89.304898@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606705,
-    "wof:geomhash":"6b3e7360ded819f49c87ccd81c0f593a",
+    "wof:geomhash":"233359f7e20fe4d4fec666c3760acc5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":807363793,
-    "wof:lastmodified":1467090623,
+    "wof:lastmodified":1510695872,
     "wof:name":"Damon's Grill",
     "wof:parent_id":85878851,
     "wof:placetype":"venue",

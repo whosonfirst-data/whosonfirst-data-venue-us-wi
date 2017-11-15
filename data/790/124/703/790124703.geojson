@@ -2,9 +2,14 @@
   "id": 790124703,
   "type": "Feature",
   "properties": {
+    "addr:full":"910 Madison St Lake Geneva WI 53147",
+    "addr:housenumber":"910",
+    "addr:postcode":"53147",
+    "addr:street":"Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.438606,42.600719,-88.438606,42.600719",
     "geom:latitude":42.600719,
     "geom:longitude":-88.438606,
@@ -27,13 +32,7 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IfbmGWZhJ9hTZMohqmQuo_42.600719_-88.438606@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462593325,
     "wof:geomhash":"e11339ae360b2af5179435a80a2459ee",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":790124703
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790124703,
-    "wof:lastmodified":1467090256,
+    "wof:lastmodified":1492112092,
     "wof:name":"Railton Real Estate",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

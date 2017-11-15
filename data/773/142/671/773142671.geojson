@@ -2,14 +2,20 @@
   "id": 773142671,
   "type": "Feature",
   "properties": {
+    "addr:full":"4616 Twelve Oaks Dr Milton WI 53563",
+    "addr:housenumber":"4616",
+    "addr:postcode":"53563",
+    "addr:street":"Twelve Oaks Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.987362,42.740362,-88.987362,42.740362",
     "geom:latitude":42.740362,
     "geom:longitude":-88.987362,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4616 Twelve Oaks Dr",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081829,
         85688517
     ],
+    "wof:brand_id":1125156379,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oMvLC6Rt5x4QUdYPebjRD_42.740362_-88.987362@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583453,
-    "wof:geomhash":"7179ce48bc964e10a706b8d2ff13625a",
+    "wof:geomhash":"0db0ba23ebf1c362dc28dd3fa7a11d45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773142671,
-    "wof:lastmodified":1467089972,
+    "wof:lastmodified":1510699360,
     "wof:name":"Cousins Subs",
     "wof:parent_id":85803103,
     "wof:placetype":"venue",

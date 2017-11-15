@@ -2,9 +2,14 @@
   "id": 337354275,
   "type": "Feature",
   "properties": {
+    "addr:full":"7500 W North Ave Milwaukee WI 53213",
+    "addr:housenumber":"7500",
+    "addr:postcode":"53213",
+    "addr:street":"W North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.006458,43.060821,-88.006458,43.060821",
     "geom:latitude":43.060821,
     "geom:longitude":-88.006458,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870829,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870829
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"a4880eb588f7217370b39aaf089ff12c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870829,
             "region_id":85688517,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":337354275,
-    "wof:lastmodified":1467089895,
+    "wof:lastmodified":1491910490,
     "wof:name":"Lutheran Home Inc",
     "wof:parent_id":85870829,
     "wof:placetype":"venue",

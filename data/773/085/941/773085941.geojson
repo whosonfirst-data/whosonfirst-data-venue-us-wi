@@ -2,14 +2,20 @@
   "id": 773085941,
   "type": "Feature",
   "properties": {
+    "addr:full":"734 Buttenhoff Rd Chippewa Falls WI 54729",
+    "addr:housenumber":"734",
+    "addr:postcode":"54729",
+    "addr:street":"Buttenhoff Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.378305,44.917841,-91.378305,44.917841",
     "geom:latitude":44.917841,
     "geom:longitude":-91.378305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"734 Buttenhoff Rd",
     "sg:city":"Chippewa Falls",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081787,
         85837071
     ],
+    "wof:brand_id":1125152297,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rdkeUGdT1y9ebeGIaVRoL_44.917841_-91.378305@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583052,
-    "wof:geomhash":"42758747db9ab544e58b56e862f46f9b",
+    "wof:geomhash":"4adbe749269862e6b51d3eab8700389c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773085941,
-    "wof:lastmodified":1467089958,
+    "wof:lastmodified":1510695695,
     "wof:name":"Pace International Union",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",

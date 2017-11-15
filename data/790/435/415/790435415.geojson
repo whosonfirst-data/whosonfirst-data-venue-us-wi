@@ -2,9 +2,14 @@
   "id": 790435415,
   "type": "Feature",
   "properties": {
+    "addr:full":"8710 Montclair Dr Middleton WI 53562",
+    "addr:housenumber":"8710",
+    "addr:postcode":"53562",
+    "addr:street":"Montclair Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.539776,43.100511,-89.539776,43.100511",
     "geom:latitude":43.100511,
     "geom:longitude":-89.539776,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"cd444499e3e80f5cae1d1c534ca17c63",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":790435415,
-    "wof:lastmodified":1467090317,
+    "wof:lastmodified":1491894102,
     "wof:name":"J B Limousine Svc",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

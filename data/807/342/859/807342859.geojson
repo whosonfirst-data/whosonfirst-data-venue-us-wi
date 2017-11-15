@@ -2,9 +2,14 @@
   "id": 807342859,
   "type": "Feature",
   "properties": {
+    "addr:full":"5606 Spring Valley Rd Burlington WI 53105",
+    "addr:housenumber":"5606",
+    "addr:postcode":"53105",
+    "addr:street":"Spring Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.333821,42.646321,-88.333821,42.646321",
     "geom:latitude":42.646321,
     "geom:longitude":-88.333821,
@@ -27,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85865441,
+        102191575,
+        404494891,
         85633793,
         101733599,
         102081763,
-        85865441
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +49,10 @@
     "wof:geomhash":"cdb05d2923fd9c8e2fa969085b034aca",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
+            "localadmin_id":404494891,
             "locality_id":101733599,
             "neighbourhood_id":85865441,
             "region_id":85688517,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":807342859,
-    "wof:lastmodified":1467090615,
+    "wof:lastmodified":1492097636,
     "wof:name":"Harold Reich",
     "wof:parent_id":85865441,
     "wof:placetype":"venue",

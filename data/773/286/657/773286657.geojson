@@ -2,9 +2,14 @@
   "id": 773286657,
   "type": "Feature",
   "properties": {
+    "addr:full":"61 Highland St Williams Bay WI 53191",
+    "addr:housenumber":"61",
+    "addr:postcode":"53191",
+    "addr:street":"Highland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.547364,42.572849,-88.547364,42.572849",
     "geom:latitude":42.572849,
     "geom:longitude":-88.547364,
@@ -24,13 +29,7 @@
     "sg:postcode":"53191",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ufcWKSIaQf1AdIZBpAhTJ_42.572849_-88.547364@1294253271"
@@ -38,18 +37,9 @@
     "wof:country":"US",
     "wof:created":1462584575,
     "wof:geomhash":"6aeeb01790e4232f1f893ad4d8733db3",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":773286657
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773286657,
-    "wof:lastmodified":1467090014,
+    "wof:lastmodified":1492097569,
     "wof:name":"Charles G Taylor",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773206685,
   "type": "Feature",
   "properties": {
+    "addr:full":"5423 Elkhorn Dr Elkhorn WI 53121",
+    "addr:housenumber":"5423",
+    "addr:postcode":"53121",
+    "addr:street":"Elkhorn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.568008,42.747385,-88.568008,42.747385",
     "geom:latitude":42.747385,
     "geom:longitude":-88.568008,
@@ -29,7 +34,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550185
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MEF20nucSR1nNoO7vCktj_42.747385_-88.568008@1294253271"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462583975,
     "wof:geomhash":"4568a463954692bebb93997461d5a381",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550185,
+            "venue_id":773206685
+        }
+    ],
     "wof:id":773206685,
-    "wof:lastmodified":1467089989,
+    "wof:lastmodified":1492108940,
     "wof:name":"Tee Pee Ceramics",
     "wof:parent_id":420550185,
     "wof:placetype":"venue",

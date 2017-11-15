@@ -2,14 +2,20 @@
   "id": 806946245,
   "type": "Feature",
   "properties": {
+    "addr:full":"809 62nd Ave S Wausau WI 54401",
+    "addr:housenumber":"809",
+    "addr:postcode":"54401",
+    "addr:street":"62Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.71443,44.952834,-89.71443,44.952834",
     "geom:latitude":44.952834,
     "geom:longitude":-89.71443,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"809 62nd Ave S",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081881,
         85868295
     ],
+    "wof:brand_id":1125151549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GjPN1nImwOUDbUdDmaKY7_44.952834_-89.714430@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602408,
-    "wof:geomhash":"49f98091206db421b931485f68b595e1",
+    "wof:geomhash":"24e84dbf6302a5b5c1d3fb6c802a0e9c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806946245,
-    "wof:lastmodified":1467090496,
+    "wof:lastmodified":1510695398,
     "wof:name":"Georgia-Pacific Corp",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",

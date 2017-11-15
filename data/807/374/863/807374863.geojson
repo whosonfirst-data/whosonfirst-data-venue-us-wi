@@ -2,14 +2,20 @@
   "id": 807374863,
   "type": "Feature",
   "properties": {
+    "addr:full":"1724 Fordem Ave Madison WI 53704",
+    "addr:housenumber":"1724",
+    "addr:postcode":"53704",
+    "addr:street":"Fordem Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.363519,43.094407,-89.363519,43.094407",
     "geom:latitude":43.094407,
     "geom:longitude":-89.363519,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1724 Fordem Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":420575223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jSy6OQoh0swVPx9OS17Ki_43.094859_-89.363575@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462606853,
-    "wof:geomhash":"144a61a93b80e906b39588bf958a3cfd",
+    "wof:geomhash":"572bc4f91cac00136bd5253951f44ff1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807374863,
-    "wof:lastmodified":1467090628,
+    "wof:lastmodified":1510602902,
     "wof:name":"China Wok",
     "wof:parent_id":85878841,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807094495,
   "type": "Feature",
   "properties": {
+    "addr:full":"1210 Manor Dr Mt Horeb WI 53572",
+    "addr:housenumber":"1210",
+    "addr:postcode":"53572",
+    "addr:street":"Manor Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.720862,43.016934,-89.720862,43.016934",
     "geom:latitude":43.016934,
     "geom:longitude":-89.720862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1210 Manor Dr",
     "sg:city":"Mt Horeb",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85828611,
         102081795
     ],
+    "wof:brand_id":1125156157,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iDkYLYXo4e40bQBFUM1BV_43.016934_-89.720862@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603659,
-    "wof:geomhash":"9962d3bcdbe1dacad646269eb6cb90ff",
+    "wof:geomhash":"83cdf6b427cab8576fe75e36fd89d5a6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":807094495,
-    "wof:lastmodified":1467090534,
+    "wof:lastmodified":1510696658,
     "wof:name":"United Methodist Parsonage",
     "wof:parent_id":85828611,
     "wof:placetype":"venue",

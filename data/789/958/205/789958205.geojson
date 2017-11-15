@@ -2,14 +2,20 @@
   "id": 789958205,
   "type": "Feature",
   "properties": {
+    "addr:full":"3120 Terry Ln Eau Claire WI 54703",
+    "addr:housenumber":"3120",
+    "addr:postcode":"54703",
+    "addr:street":"Terry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.46542,44.848999,-91.46542,44.848999",
     "geom:latitude":44.848999,
     "geom:longitude":-91.46542,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3120 Terry Ln",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125150109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1msjv3PuuwA7W3VXPTObXa_44.848999_-91.465420@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591982,
-    "wof:geomhash":"1a74e47fda29407d042136381b20ab5b",
+    "wof:geomhash":"3f3e1c0b91f276b3bb68bab625b9bf5f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789958205,
-    "wof:lastmodified":1467090223,
+    "wof:lastmodified":1510694636,
     "wof:name":"Uswa",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

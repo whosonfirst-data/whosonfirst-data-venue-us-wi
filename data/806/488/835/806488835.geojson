@@ -2,14 +2,20 @@
   "id": 806488835,
   "type": "Feature",
   "properties": {
+    "addr:full":"909 Phoenix Way Green Bay WI 54304",
+    "addr:housenumber":"909",
+    "addr:postcode":"54304",
+    "addr:street":"Phoenix Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.0755,44.475329,-88.0755,44.475329",
     "geom:latitude":44.475329,
     "geom:longitude":-88.0755,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"909 Phoenix Way",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125156713,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0p361HNnX2cr25ACeZSfdU_44.475329_-88.075500@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598535,
-    "wof:geomhash":"dbe8de612dbf376ae4ee628f8b2abefc",
+    "wof:geomhash":"a6c4960da56084bf36f9a1e1301f0f7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806488835,
-    "wof:lastmodified":1467090391,
+    "wof:lastmodified":1510604937,
     "wof:name":"Car-X Auto Service",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

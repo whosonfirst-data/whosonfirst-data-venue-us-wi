@@ -2,14 +2,20 @@
   "id": 823184067,
   "type": "Feature",
   "properties": {
+    "addr:full":"3662 S Oakhill Ave Janesville WI 53546",
+    "addr:housenumber":"3662",
+    "addr:postcode":"53546",
+    "addr:street":"S Oakhill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.040922,42.62713,-89.040922,42.62713",
     "geom:latitude":42.62713,
     "geom:longitude":-89.040922,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3662 S Oakhill Ave",
     "sg:city":"Janesville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85825897,
         102081829
     ],
+    "wof:brand_id":1125150599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_203itrOZJJUOKsmwk8auTH_42.627130_-89.040922@1303262811"
     },
     "wof:country":"US",
     "wof:created":1462608121,
-    "wof:geomhash":"aaed1536f6532bbfd6488a81633ce3e5",
+    "wof:geomhash":"622d44e9d248c4d6ef7722fdd86222ec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823184067,
-    "wof:lastmodified":1467090662,
+    "wof:lastmodified":1510613426,
     "wof:name":"Airport Traffic Control Tower",
     "wof:parent_id":85825897,
     "wof:placetype":"venue",

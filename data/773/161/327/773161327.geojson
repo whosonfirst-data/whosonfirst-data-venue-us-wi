@@ -2,14 +2,20 @@
   "id": 773161327,
   "type": "Feature",
   "properties": {
+    "addr:full":"402 E Wisconsin Ave Appleton WI 54911",
+    "addr:housenumber":"402",
+    "addr:postcode":"54911",
+    "addr:street":"E Wisconsin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.398287,44.272982,-88.398287,44.272982",
     "geom:latitude":44.272982,
     "geom:longitude":-88.398287,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"402 E Wisconsin Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081851,
         85688517
     ],
+    "wof:brand_id":1125151075,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PugWLcwBUdFfVjnrve8on_44.272982_-88.398287@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583601,
-    "wof:geomhash":"c49ee8f0575791a813964b10e06a8a48",
+    "wof:geomhash":"2eba8c0eb089e7eec04378551d022eac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773161327,
-    "wof:lastmodified":1467089976,
+    "wof:lastmodified":1510696086,
     "wof:name":"M & I Bank",
     "wof:parent_id":85857401,
     "wof:placetype":"venue",

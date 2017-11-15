@@ -2,14 +2,20 @@
   "id": 806544751,
   "type": "Feature",
   "properties": {
+    "addr:full":"1415 Dopp St Waukesha WI 53188",
+    "addr:housenumber":"1415",
+    "addr:postcode":"53188",
+    "addr:street":"Dopp St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.252314,43.009393,-88.252314,43.009393",
     "geom:latitude":43.009393,
     "geom:longitude":-88.252314,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1415 Dopp St",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125159785,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30VNM7fhLmG1EIB95vilBq_43.009393_-88.252314@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598995,
-    "wof:geomhash":"022cde7263ef0adaf0424db0f4b3abac",
+    "wof:geomhash":"5453a40bacd311b944b400ffe41c6003",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806544751,
-    "wof:lastmodified":1467090405,
+    "wof:lastmodified":1510696644,
     "wof:name":"Ascension Lutheran Church",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",

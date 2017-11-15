@@ -2,14 +2,20 @@
   "id": 807375115,
   "type": "Feature",
   "properties": {
+    "addr:full":"4702 Cottage Grove Rd Madison WI 53716",
+    "addr:housenumber":"4702",
+    "addr:postcode":"53716",
+    "addr:street":"Cottage Grove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.300651,43.084328,-89.300651,43.084328",
     "geom:latitude":43.084328,
     "geom:longitude":-89.300651,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4702 Cottage Grove Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85878835,
         102081795
     ],
+    "wof:brand_id":1125152191,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y2DzD5ZwSteZuGdeahnNm_43.084304_-89.301225@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462606856,
-    "wof:geomhash":"9162815b61de7fca29b9e5102f7a6e4b",
+    "wof:geomhash":"451a0dfe41a89cd7e564fee64742c343",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807375115,
-    "wof:lastmodified":1467090628,
+    "wof:lastmodified":1510697278,
     "wof:name":"China Inn",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

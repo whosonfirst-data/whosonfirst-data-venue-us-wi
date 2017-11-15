@@ -2,14 +2,20 @@
   "id": 387304581,
   "type": "Feature",
   "properties": {
+    "addr:full":"131 E Wisconsin Ave Pewaukee WI 53072",
+    "addr:housenumber":"131",
+    "addr:postcode":"53072",
+    "addr:street":"E Wisconsin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.261978,43.081963,-88.261978,43.081963",
     "geom:latitude":43.081963,
     "geom:longitude":-88.261978,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"131 E Wisconsin Ave",
     "sg:city":"Pewaukee",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102081741,
         85841477
     ],
+    "wof:brand_id":1125154433,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qZOMw9XexVCG1lepPsKj8_43.081963_-88.261978@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"6b73565504386c74c61b8c9ceb34325e",
+    "wof:geomhash":"28524d6c4ae68090fb5c32b8563d60af",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387304581,
-    "wof:lastmodified":1467089930,
+    "wof:lastmodified":1510696747,
     "wof:name":"First Command Financial Plan",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",

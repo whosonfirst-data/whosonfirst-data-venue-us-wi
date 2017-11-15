@@ -2,14 +2,20 @@
   "id": 773492465,
   "type": "Feature",
   "properties": {
+    "addr:full":"319 State St Beloit WI 53511",
+    "addr:housenumber":"319",
+    "addr:postcode":"53511",
+    "addr:street":"State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.035564,42.499495,-89.035564,42.499495",
     "geom:latitude":42.499495,
     "geom:longitude":-89.035564,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"319 State St",
     "sg:city":"Beloit",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081829,
         85688517
     ],
+    "wof:brand_id":1125150195,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fJMbZRmBl9GGEHng069a2_42.499495_-89.035564@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586153,
-    "wof:geomhash":"cfc140441ed5fd805fbf523a25693ea0",
+    "wof:geomhash":"d773d91309162e2110e6e5b84c7b62d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773492465,
-    "wof:lastmodified":1467090066,
+    "wof:lastmodified":1510694266,
     "wof:name":"American General Finance Corp",
     "wof:parent_id":85812915,
     "wof:placetype":"venue",

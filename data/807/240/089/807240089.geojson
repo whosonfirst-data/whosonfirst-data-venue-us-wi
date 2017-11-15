@@ -2,14 +2,20 @@
   "id": 807240089,
   "type": "Feature",
   "properties": {
+    "addr:full":"802 George St De Pere WI 54115",
+    "addr:housenumber":"802",
+    "addr:postcode":"54115",
+    "addr:street":"George St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.054435,44.448804,-88.054435,44.448804",
     "geom:latitude":44.448804,
     "geom:longitude":-88.054435,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"802 George St",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125152655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50zTu4UwPcAxCcV1T0WiMB_44.448804_-88.054435@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605211,
-    "wof:geomhash":"00c364cd8b4d79ba5a6e1d1360c179ce",
+    "wof:geomhash":"0c5b3f512a8223cf50e17ae5b23b3db8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807240089,
-    "wof:lastmodified":1467090580,
+    "wof:lastmodified":1510698889,
     "wof:name":"Great Harvest Bread Co",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

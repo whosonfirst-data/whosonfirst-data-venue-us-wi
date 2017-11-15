@@ -2,14 +2,20 @@
   "id": 773750679,
   "type": "Feature",
   "properties": {
+    "addr:full":"4080 University Ave Madison WI 53705",
+    "addr:housenumber":"4080",
+    "addr:postcode":"53705",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.450907,43.075405,-89.450907,43.075405",
     "geom:latitude":43.075405,
     "geom:longitude":-89.450907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4080 University Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":420575045,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KgHNpMDjApuZMYAuRTs7O_43.075405_-89.450907@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588101,
-    "wof:geomhash":"30c605bbdd949e76c4be8895b761d7f2",
+    "wof:geomhash":"7ed21838cbcc3ffe78feab26992f42cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773750679,
-    "wof:lastmodified":1467090126,
+    "wof:lastmodified":1510607543,
     "wof:name":"Motherhood Maternity",
     "wof:parent_id":85868277,
     "wof:placetype":"venue",

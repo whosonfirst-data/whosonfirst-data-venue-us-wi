@@ -2,9 +2,14 @@
   "id": 807316059,
   "type": "Feature",
   "properties": {
+    "addr:full":"8920 State Line Rd Sharon WI 53585",
+    "addr:housenumber":"8920",
+    "addr:postcode":"53585",
+    "addr:street":"State Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.737894,42.49278,-88.737894,42.49278",
     "geom:latitude":42.49278,
     "geom:longitude":-88.737894,
@@ -23,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496167,
+        85633793,
+        102086197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19ehuRCg0SYDmFHk9joOOC_42.492780_-88.737894@1294253271"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1462606019,
     "wof:geomhash":"471201bfc9cef26b682ddd8f875ec6d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086197,
+            "localadmin_id":404496167,
+            "region_id":85688697,
+            "venue_id":807316059
+        }
+    ],
     "wof:id":807316059,
-    "wof:lastmodified":1467090604,
+    "wof:lastmodified":1492095373,
     "wof:name":"Donald Thurnau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

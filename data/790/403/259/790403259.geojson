@@ -2,9 +2,14 @@
   "id": 790403259,
   "type": "Feature",
   "properties": {
+    "addr:full":"4951 W Hunting Park Dr Franklin WI 53132",
+    "addr:housenumber":"4951",
+    "addr:postcode":"53132",
+    "addr:street":"W Hunting Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.977729,42.889234,-87.977729,42.889234",
     "geom:latitude":42.889234,
     "geom:longitude":-87.977729,
@@ -24,7 +29,14 @@
     "sg:postcode":"53132",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JThBhxj4Q4V2ofJhiZ2Oz_42.889234_-87.977729@1294253271"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462595557,
     "wof:geomhash":"f4c606161720494601983fb74ae3ed17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":790403259
+        }
+    ],
     "wof:id":790403259,
-    "wof:lastmodified":1467090311,
+    "wof:lastmodified":1492098697,
     "wof:name":"Mark Derouin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807364361,
   "type": "Feature",
   "properties": {
+    "addr:full":"2981 Triverton Pike Dr Madison WI 53711",
+    "addr:housenumber":"2981",
+    "addr:postcode":"53711",
+    "addr:street":"Triverton Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.429125,43.016264,-89.429125,43.016264",
     "geom:latitude":43.016264,
     "geom:longitude":-89.429125,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2981 Triverton Pike Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102081795,
         85878883
     ],
+    "wof:brand_id":1125150681,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Q3d2eL0YZ7astEL2hy0Oy_43.016264_-89.429125@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606712,
-    "wof:geomhash":"2319a1e0497c873216eee6d835825718",
+    "wof:geomhash":"2e290ca360c9ead90d5f79e1084fbd45",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":807364361,
-    "wof:lastmodified":1467090623,
+    "wof:lastmodified":1510698853,
     "wof:name":"Noodles & Company",
     "wof:parent_id":85878883,
     "wof:placetype":"venue",

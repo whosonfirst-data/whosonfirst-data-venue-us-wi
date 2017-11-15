@@ -2,14 +2,20 @@
   "id": 807330439,
   "type": "Feature",
   "properties": {
+    "addr:full":"705 Mansfield Ct Hartland WI 53029",
+    "addr:housenumber":"705",
+    "addr:postcode":"53029",
+    "addr:street":"Mansfield Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.329459,43.096806,-88.329459,43.096806",
     "geom:latitude":43.096806,
     "geom:longitude":-88.329459,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"705 Mansfield Ct",
     "sg:city":"Hartland",
     "sg:classifiers":[],
@@ -30,13 +36,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125151871,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MS5Cg4aKTcSmD8mmixcQr_43.096806_-88.329459@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462606202,
-    "wof:geomhash":"73733946028c995716aa54d152e8c38b",
+    "wof:geomhash":"dbd32c8c5fa74db76acc2752eb4610e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":807330439,
-    "wof:lastmodified":1467090609,
+    "wof:lastmodified":1510698680,
     "wof:name":"Amsoil Synthetic Lubricants",
     "wof:parent_id":85808383,
     "wof:placetype":"venue",

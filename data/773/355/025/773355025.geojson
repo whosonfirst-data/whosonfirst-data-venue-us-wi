@@ -2,9 +2,14 @@
   "id": 773355025,
   "type": "Feature",
   "properties": {
+    "addr:full":"1003 Centennial Pkwy Waunakee WI 53597",
+    "addr:housenumber":"1003",
+    "addr:postcode":"53597",
+    "addr:street":"Centennial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.467306,43.18168,-89.467306,43.18168",
     "geom:latitude":43.18168,
     "geom:longitude":-89.467306,
@@ -28,12 +33,7 @@
         "alert"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MKz1IRzWZw9ez8Lzwywzu_43.181680_-89.467306@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462585084,
     "wof:geomhash":"df25f90dde9d5b1f3def94b98290586a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773355025
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773355025,
-    "wof:lastmodified":1467090034,
+    "wof:lastmodified":1491935710,
     "wof:name":"Proalertus",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

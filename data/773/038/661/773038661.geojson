@@ -2,9 +2,14 @@
   "id": 773038661,
   "type": "Feature",
   "properties": {
+    "addr:full":"146 E Geneva Sq Lake Geneva WI 53147",
+    "addr:housenumber":"146",
+    "addr:postcode":"53147",
+    "addr:street":"E Geneva Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.42478,42.606571,-88.42478,42.606571",
     "geom:latitude":42.606571,
     "geom:longitude":-88.42478,
@@ -24,13 +29,7 @@
     "sg:postcode":"53147",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ksWDFryelZspOhHgrvtgm_42.606571_-88.424780@1294253271"
@@ -38,18 +37,9 @@
     "wof:country":"US",
     "wof:created":1462582653,
     "wof:geomhash":"6c7f9ff1c0cccafbea565ed0ec92249e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":773038661
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773038661,
-    "wof:lastmodified":1467089945,
+    "wof:lastmodified":1492108875,
     "wof:name":"AMG Lake Geneva Medical",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

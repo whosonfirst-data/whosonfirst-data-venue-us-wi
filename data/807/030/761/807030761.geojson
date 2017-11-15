@@ -2,14 +2,20 @@
   "id": 807030761,
   "type": "Feature",
   "properties": {
+    "addr:full":"514 Fairview Dr Plymouth WI 53073",
+    "addr:housenumber":"514",
+    "addr:postcode":"53073",
+    "addr:street":"Fairview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.970338,43.752919,-87.970338,43.752919",
     "geom:latitude":43.752919,
     "geom:longitude":-87.970338,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"514 Fairview Dr",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081869,
         85836705
     ],
+    "wof:brand_id":1125151165,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20I9SVac5pQ7lpAqWfcjRX_43.752919_-87.970338@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603129,
-    "wof:geomhash":"971ea9a4b50db689dd1a23e0fd643ecc",
+    "wof:geomhash":"a1cbfdb48e36f0d02feff109e9a5f86e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807030761,
-    "wof:lastmodified":1467090517,
+    "wof:lastmodified":1510698751,
     "wof:name":"Bankers Life",
     "wof:parent_id":85836705,
     "wof:placetype":"venue",

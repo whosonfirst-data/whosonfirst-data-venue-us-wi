@@ -2,9 +2,14 @@
   "id": 806963621,
   "type": "Feature",
   "properties": {
+    "addr:full":"27435 Washington Ave Waterford WI 53185",
+    "addr:housenumber":"27435",
+    "addr:postcode":"53185",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.176975,42.741843,-88.176975,42.741843",
     "geom:latitude":42.741843,
     "geom:longitude":-88.176975,
@@ -24,7 +29,13 @@
     "sg:postcode":"53185",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404492317,
+        85633793,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oGkQ4qmr5zy92DkHvYV1a_42.741843_-88.176975@1294253271"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462602553,
     "wof:geomhash":"2983ec8ed2a40f34dc5f832e8c5f78a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404492317,
+            "region_id":85688517,
+            "venue_id":806963621
+        }
+    ],
     "wof:id":806963621,
-    "wof:lastmodified":1467090500,
+    "wof:lastmodified":1492111894,
     "wof:name":"Hotspur Partners LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

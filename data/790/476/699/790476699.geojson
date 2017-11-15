@@ -2,9 +2,14 @@
   "id": 790476699,
   "type": "Feature",
   "properties": {
+    "addr:full":"6889 S Lovers Lane Rd Franklin WI 53132",
+    "addr:housenumber":"6889",
+    "addr:postcode":"53132",
+    "addr:street":"S Lovers Lane Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.046332,42.922676,-88.046332,42.922676",
     "geom:latitude":42.922676,
     "geom:longitude":-88.046332,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.poshusa.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55uvWjkNJfdra5PVvWzfxD_42.922676_-88.046332@1294253271"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462596164,
     "wof:geomhash":"c2dedb47d75b2b662a4644d0c2a6c46a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":790476699
+        }
+    ],
     "wof:id":790476699,
-    "wof:lastmodified":1467090326,
+    "wof:lastmodified":1492102974,
     "wof:name":"Priests Of The Sacred Heart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

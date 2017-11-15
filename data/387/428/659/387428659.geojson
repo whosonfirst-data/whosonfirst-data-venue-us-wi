@@ -2,9 +2,14 @@
   "id": 387428659,
   "type": "Feature",
   "properties": {
+    "addr:full":"3510 W Kiehnau Ave Milwaukee WI 53209",
+    "addr:housenumber":"3510",
+    "addr:postcode":"53209",
+    "addr:street":"W Kiehnau Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.955378,43.137191,-87.955378,43.137191",
     "geom:latitude":43.137191,
     "geom:longitude":-87.955378,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870811,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870811
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"c6aa3027da12a33c33f648d070469114",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870811,
             "region_id":85688517,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":387428659,
-    "wof:lastmodified":1467089932,
+    "wof:lastmodified":1491915717,
     "wof:name":"Alliance Manufacturing Svc",
     "wof:parent_id":85870811,
     "wof:placetype":"venue",

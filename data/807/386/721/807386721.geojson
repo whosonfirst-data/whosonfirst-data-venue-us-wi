@@ -2,6 +2,10 @@
   "id": 807386721,
   "type": "Feature",
   "properties": {
+    "addr:full":"10303 N Port Washington Rd 13 W Suite 202 Mequon WI 53092",
+    "addr:housenumber":"10303;13",
+    "addr:postcode":"53092",
+    "addr:street":"N Port Washington Rd;W Suite 202",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":807386721,
-    "wof:lastmodified":1467090633,
+    "wof:lastmodified":1472654589,
     "wof:name":"Bayside Law Offices",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",

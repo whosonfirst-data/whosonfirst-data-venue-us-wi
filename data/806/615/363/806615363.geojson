@@ -2,9 +2,14 @@
   "id": 806615363,
   "type": "Feature",
   "properties": {
+    "addr:full":"204 S Century Ave Waunakee WI 53597",
+    "addr:housenumber":"204",
+    "addr:postcode":"53597",
+    "addr:street":"S Century Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461843,43.190795,-89.461843,43.190795",
     "geom:latitude":43.190795,
     "geom:longitude":-89.461843,
@@ -27,12 +32,7 @@
         "salon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CmacqWyKqgiJL0htW86Gh_43.190795_-89.461843@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462599609,
     "wof:geomhash":"2bf34c166fd0fe0c7157ae3c99f2eecb",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806615363
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806615363,
-    "wof:lastmodified":1467090421,
+    "wof:lastmodified":1491935676,
     "wof:name":"Sunlife Tanning Studio",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

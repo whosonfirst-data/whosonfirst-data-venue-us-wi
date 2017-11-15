@@ -2,9 +2,14 @@
   "id": 789849037,
   "type": "Feature",
   "properties": {
+    "addr:full":"1060 43rd St Caledonia WI 53108",
+    "addr:housenumber":"1060",
+    "addr:postcode":"53108",
+    "addr:street":"43Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.972106,42.827403,-87.972106,42.827403",
     "geom:latitude":42.827403,
     "geom:longitude":-87.972106,
@@ -27,7 +32,10 @@
         "investor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rp3eoo9D5Vmm6zlxufRuT_42.827403_-87.972106@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462591020,
     "wof:geomhash":"b82428b16b064ffc6c93cd5c38c61db1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550151,
+            "venue_id":789849037
+        }
+    ],
     "wof:id":789849037,
-    "wof:lastmodified":1467090202,
+    "wof:lastmodified":1492092782,
     "wof:name":"Marjan Investments LLC",
     "wof:parent_id":420550151,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807024217,
   "type": "Feature",
   "properties": {
+    "addr:full":"819 School Ave Oshkosh WI 54901",
+    "addr:housenumber":"819",
+    "addr:postcode":"54901",
+    "addr:street":"School Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.520799,44.015102,-88.520799,44.015102",
     "geom:latitude":44.015102,
     "geom:longitude":-88.520799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"819 School Ave",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081801,
         85688517
     ],
+    "wof:brand_id":1125159727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JAmDjrShvd4bhqPO7cGak_44.015102_-88.520799@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603071,
-    "wof:geomhash":"4839460e6bab643f7c07d82120fa10ed",
+    "wof:geomhash":"9540d8e18857d65e54adde3d40cedc74",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807024217,
-    "wof:lastmodified":1467090515,
+    "wof:lastmodified":1510697222,
     "wof:name":"Trinity Lutheran School",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",

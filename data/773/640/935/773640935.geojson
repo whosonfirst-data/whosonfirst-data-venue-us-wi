@@ -2,9 +2,14 @@
   "id": 773640935,
   "type": "Feature",
   "properties": {
+    "addr:full":"326 Northport Dr Madison WI 53704",
+    "addr:housenumber":"326",
+    "addr:postcode":"53704",
+    "addr:street":"Northport Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.394726,43.144238,-89.394726,43.144238",
     "geom:latitude":43.144238,
     "geom:longitude":-89.394726,
@@ -29,12 +34,7 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YfaXEOCTVAeqExX2AEdQl_43.144238_-89.394726@1294253271"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462587254,
     "wof:geomhash":"92200016a408eb09cd419e728ee4682e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773640935
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773640935,
-    "wof:lastmodified":1467090100,
+    "wof:lastmodified":1491935671,
     "wof:name":"Northside Autobody Svc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806483111,
   "type": "Feature",
   "properties": {
+    "addr:full":"26530 Washington Ave Waterford WI 53185",
+    "addr:housenumber":"26530",
+    "addr:postcode":"53185",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.159731,42.742501,-88.159731,42.742501",
     "geom:latitude":42.742501,
     "geom:longitude":-88.159731,
@@ -24,7 +29,13 @@
     "sg:postcode":"53185",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404492317,
+        85633793,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NhB1FEhcShZSXf5c33pdJ_42.742501_-88.159731@1294253271"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462598492,
     "wof:geomhash":"fd799fc8f0424679227c35eb31ff0530",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404492317,
+            "region_id":85688517,
+            "venue_id":806483111
+        }
+    ],
     "wof:id":806483111,
-    "wof:lastmodified":1467090390,
+    "wof:lastmodified":1492103574,
     "wof:name":"Southeast Mutual Insurance Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

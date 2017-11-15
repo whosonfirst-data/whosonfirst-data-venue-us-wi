@@ -2,9 +2,14 @@
   "id": 370685157,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 N 32nd St Milwaukee WI 53208",
+    "addr:housenumber":"403",
+    "addr:postcode":"53208",
+    "addr:street":"N 32Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.954097,43.036121,-87.954097,43.036121",
     "geom:latitude":43.036121,
     "geom:longitude":-87.954097,
@@ -32,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870967,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870967
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +53,10 @@
     "wof:geomhash":"daf656eaa24fd6aeca2ed79d549f3841",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870967,
             "region_id":85688517,
@@ -56,7 +64,7 @@
         }
     ],
     "wof:id":370685157,
-    "wof:lastmodified":1467089907,
+    "wof:lastmodified":1491918255,
     "wof:name":"Soaring To New Heights",
     "wof:parent_id":85870967,
     "wof:placetype":"venue",

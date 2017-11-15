@@ -2,14 +2,20 @@
   "id": 807254161,
   "type": "Feature",
   "properties": {
+    "addr:full":"507 E Silver Spring Dr Milwaukee WI 53217",
+    "addr:housenumber":"507",
+    "addr:postcode":"53217",
+    "addr:street":"E Silver Spring Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.903079,43.118395,-87.903079,43.118395",
     "geom:latitude":43.118395,
     "geom:longitude":-87.903079,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"507 E Silver Spring Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125156245,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bAKZkEzHCp0XtP0mj01bx_43.118395_-87.903079@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605371,
-    "wof:geomhash":"160ac4c6cba57d0cb589660247efeb32",
+    "wof:geomhash":"deb599e80445f2abf82f647b56e745a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807254161,
-    "wof:lastmodified":1467090584,
+    "wof:lastmodified":1510695194,
     "wof:name":"Great Frame Up",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",

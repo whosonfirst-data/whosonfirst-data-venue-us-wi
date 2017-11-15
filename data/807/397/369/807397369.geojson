@@ -2,9 +2,14 @@
   "id": 807397369,
   "type": "Feature",
   "properties": {
+    "addr:full":"6570 S Lovers Lane Rd Franklin WI 53132",
+    "addr:housenumber":"6570",
+    "addr:postcode":"53132",
+    "addr:street":"S Lovers Lane Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.046349,42.921045,-88.046349,42.921045",
     "geom:latitude":42.921045,
     "geom:longitude":-88.046349,
@@ -27,7 +32,14 @@
         "salon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41oUGhI882rrJAP0RkngIA_42.921045_-88.046349@1303262806"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462607219,
     "wof:geomhash":"6ae0dc9aaeaff16c48dde193c455f5eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":807397369
+        }
+    ],
     "wof:id":807397369,
-    "wof:lastmodified":1467090637,
+    "wof:lastmodified":1492103591,
     "wof:name":"Year Round Tanning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

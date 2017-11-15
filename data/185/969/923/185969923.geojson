@@ -2,9 +2,14 @@
   "id": 185969923,
   "type": "Feature",
   "properties": {
+    "addr:full":"2711 S 84th St Milwaukee WI 53227",
+    "addr:housenumber":"2711",
+    "addr:postcode":"53227",
+    "addr:street":"S 84Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.017539,42.99442,-88.017539,42.99442",
     "geom:latitude":42.99442,
     "geom:longitude":-88.017539,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870901,
+        102191575,
+        404492091,
         85633793,
-        101733091,
+        101732987,
         102081837,
-        85870901
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"a6945ca498a03860704a397efd1ab5d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":101733091,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870901,
             "region_id":85688517,
             "venue_id":185969923
         }
     ],
     "wof:id":185969923,
-    "wof:lastmodified":1467089884,
+    "wof:lastmodified":1491935388,
     "wof:name":"Remtec",
     "wof:parent_id":85870901,
     "wof:placetype":"venue",

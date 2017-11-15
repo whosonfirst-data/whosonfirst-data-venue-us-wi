@@ -2,9 +2,14 @@
   "id": 773335031,
   "type": "Feature",
   "properties": {
+    "addr:full":"795 E Geneva St Elkhorn WI 53121",
+    "addr:housenumber":"795",
+    "addr:postcode":"53121",
+    "addr:street":"E Geneva St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.531026,42.669938,-88.531026,42.669938",
     "geom:latitude":42.669938,
     "geom:longitude":-88.531026,
@@ -27,7 +32,14 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494705,
+        85633793,
+        101732245,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IAhOMKRUOEEbsliGkbFlj_42.669938_-88.531026@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462584950,
     "wof:geomhash":"491f9ab4ac8c4da5d8108c6dd0b50401",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404494705,
+            "locality_id":101732245,
+            "region_id":85688517,
+            "venue_id":773335031
+        }
+    ],
     "wof:id":773335031,
-    "wof:lastmodified":1467090029,
+    "wof:lastmodified":1492098834,
     "wof:name":"Pet Depot Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

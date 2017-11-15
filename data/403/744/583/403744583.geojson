@@ -2,14 +2,20 @@
   "id": 403744583,
   "type": "Feature",
   "properties": {
+    "addr:full":"4729 W National Ave Milwaukee WI 53214",
+    "addr:housenumber":"4729",
+    "addr:postcode":"53214",
+    "addr:street":"W National Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.973413,43.019918,-87.973413,43.019918",
     "geom:latitude":43.019918,
     "geom:longitude":-87.973413,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4729 W National Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102081837,
         85870923
     ],
+    "wof:brand_id":1125152041,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29PDl0M5JKl6U0yf4c7TOK_43.019918_-87.973413@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"d3562ce31d2d091e652b02e8cc00581a",
+    "wof:geomhash":"51db3eaf16815f9c930c84c91c1ae030",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":403744583,
-    "wof:lastmodified":1467089918,
+    "wof:lastmodified":1510694908,
     "wof:name":"IOOF",
     "wof:parent_id":85870923,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806821675,
   "type": "Feature",
   "properties": {
+    "addr:full":"204 5th St Waunakee WI 53597",
+    "addr:housenumber":"204",
+    "addr:postcode":"53597",
+    "addr:street":"5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.458597,43.187606,-89.458597,43.187606",
     "geom:latitude":43.187606,
     "geom:longitude":-89.458597,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SG640XWn1b1s512D5rsUM_43.187606_-89.458597@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462601357,
     "wof:geomhash":"47230f05b210655313089fee21b02ede",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806821675
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806821675,
-    "wof:lastmodified":1467090469,
+    "wof:lastmodified":1491935715,
     "wof:name":"Restaino Bunbury & Associates",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

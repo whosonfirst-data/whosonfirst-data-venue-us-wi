@@ -2,14 +2,20 @@
   "id": 773635929,
   "type": "Feature",
   "properties": {
+    "addr:full":"4601 Cottage Grove Rd Madison WI 53716",
+    "addr:housenumber":"4601",
+    "addr:postcode":"53716",
+    "addr:street":"Cottage Grove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.299298,43.084266,-89.299298,43.084266",
     "geom:latitude":43.084266,
     "geom:longitude":-89.299298,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4601 Cottage Grove Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125156211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DMqFJFkoVRMA8ZtfAK32C_43.084266_-89.299298@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587215,
-    "wof:geomhash":"f0b46be5d4d85bdf641a5ef48e0cf582",
+    "wof:geomhash":"e42e2365f34a4c3e86b1e90eff34649d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773635929,
-    "wof:lastmodified":1467090099,
+    "wof:lastmodified":1510699590,
     "wof:name":"Citgo Quik Food Mart",
     "wof:parent_id":85878857,
     "wof:placetype":"venue",

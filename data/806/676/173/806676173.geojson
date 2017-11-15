@@ -2,14 +2,20 @@
   "id": 806676173,
   "type": "Feature",
   "properties": {
+    "addr:full":"1032 Gohres St La Crosse WI 54603",
+    "addr:housenumber":"1032",
+    "addr:postcode":"54603",
+    "addr:street":"Gohres St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.241561,43.849112,-91.241561,43.849112",
     "geom:latitude":43.849112,
     "geom:longitude":-91.241561,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1032 Gohres St",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081301,
         85688517
     ],
+    "wof:brand_id":1125155993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OFXvXII6nZ6BRELlFU4dp_43.849112_-91.241561@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600137,
-    "wof:geomhash":"92dfde4d224b687403d5d78eaa57a864",
+    "wof:geomhash":"0b1fc3cbceed87ce6b2a9280599c398c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806676173,
-    "wof:lastmodified":1467090435,
+    "wof:lastmodified":1510694033,
     "wof:name":"St James Catholic Church",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",

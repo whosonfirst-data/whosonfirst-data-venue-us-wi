@@ -2,9 +2,14 @@
   "id": 806594023,
   "type": "Feature",
   "properties": {
+    "addr:full":"6101 Hogan Rd Waunakee WI 53597",
+    "addr:housenumber":"6101",
+    "addr:postcode":"53597",
+    "addr:street":"Hogan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.421872,43.191519,-89.421872,43.191519",
     "geom:latitude":43.191519,
     "geom:longitude":-89.421872,
@@ -30,10 +35,13 @@
     "sg:website":"www.carlfstatz.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878869,
+        102191575,
+        404491669,
         85633793,
-        85868279,
-        102081795
+        101732721,
+        102081795,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +52,20 @@
     "wof:geomhash":"f7d5549ee06f72a82659b68fae3b152a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
-            "neighbourhood_id":85868279,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878869,
             "region_id":85688517,
             "venue_id":806594023
         }
     ],
     "wof:id":806594023,
-    "wof:lastmodified":1467090416,
+    "wof:lastmodified":1491935715,
     "wof:name":"Carl F Statz & Sons Inc",
-    "wof:parent_id":85868279,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

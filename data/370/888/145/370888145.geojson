@@ -2,14 +2,20 @@
   "id": 370888145,
   "type": "Feature",
   "properties": {
+    "addr:full":"2585 Lineville Rd Green Bay WI 54313",
+    "addr:housenumber":"2585",
+    "addr:postcode":"54313",
+    "addr:street":"Lineville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.080824,44.590851,-88.080824,44.590851",
     "geom:latitude":44.590851,
     "geom:longitude":-88.080824,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2585 Lineville Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102081867,
         85812321
     ],
+    "wof:brand_id":1125154489,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YIdcOx2tMzq31sJEfBOj5_44.590851_-88.080824@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"3db2b5c18f9db5214861b7eb27f93c3f",
+    "wof:geomhash":"0af7b1736c14bef7c7a8e95870e22571",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":370888145,
-    "wof:lastmodified":1467089904,
+    "wof:lastmodified":1510695960,
     "wof:name":"Shopko",
     "wof:parent_id":85812321,
     "wof:placetype":"venue",

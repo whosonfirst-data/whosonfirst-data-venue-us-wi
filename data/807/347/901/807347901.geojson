@@ -2,14 +2,20 @@
   "id": 807347901,
   "type": "Feature",
   "properties": {
+    "addr:full":"5132 US Hwy 51 Mercer WI 54547",
+    "addr:housenumber":"5132",
+    "addr:postcode":"54547",
+    "addr:street":"Us Hwy 51",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.056747,46.162952,-90.056747,46.162952",
     "geom:latitude":46.162952,
     "geom:longitude":-90.056747,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5132 US Hwy 51",
     "sg:city":"Mercer",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         102083009,
         85837125
     ],
+    "wof:brand_id":420575555,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6STdFXLNuQI0ApkWqclXHO_46.162952_-90.056747@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462606471,
-    "wof:geomhash":"6d99b7c44fac2fec660c8ceb5fd8dd60",
+    "wof:geomhash":"afcd31b9f740c2441fb544771be6981e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":807347901,
-    "wof:lastmodified":1467090617,
+    "wof:lastmodified":1510602867,
     "wof:name":"Ameri Gas Inc",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806786311,
   "type": "Feature",
   "properties": {
+    "addr:full":"2797 S Oneida St Green Bay WI 54304",
+    "addr:housenumber":"2797",
+    "addr:postcode":"54304",
+    "addr:street":"S Oneida St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.075173,44.472061,-88.075173,44.472061",
     "geom:latitude":44.472061,
     "geom:longitude":-88.075173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2797 S Oneida St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125152195,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fWthW6FULyOp7ykvsg1LD_44.472061_-88.075173@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601070,
-    "wof:geomhash":"44594d17fa62a5cdbba4ce8245c8fc26",
+    "wof:geomhash":"9355f8475d8094215e74228a7eee95c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806786311,
-    "wof:lastmodified":1467090461,
+    "wof:lastmodified":1510697275,
     "wof:name":"Cookies By Design",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

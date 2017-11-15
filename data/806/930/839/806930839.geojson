@@ -2,9 +2,14 @@
   "id": 806930839,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 Junction Rd Madison WI 53717",
+    "addr:housenumber":"601",
+    "addr:postcode":"53717",
+    "addr:street":"Junction Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.524805,43.069791,-89.524805,43.069791",
     "geom:latitude":43.069791,
     "geom:longitude":-89.524805,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +53,10 @@
     "wof:geomhash":"8cb14460ca1198c90ba3a9778936ebac",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":806930839,
-    "wof:lastmodified":1467090493,
+    "wof:lastmodified":1491894102,
     "wof:name":"Maggie Moos Ice Cream Treatery",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

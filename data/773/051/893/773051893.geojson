@@ -2,9 +2,14 @@
   "id": 773051893,
   "type": "Feature",
   "properties": {
+    "addr:full":"1236 Dodge St Lake Geneva WI 53147",
+    "addr:housenumber":"1236",
+    "addr:postcode":"53147",
+    "addr:street":"Dodge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.442913,42.595412,-88.442913,42.595412",
     "geom:latitude":42.595412,
     "geom:longitude":-88.442913,
@@ -27,13 +32,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HyJrV7TAMkVgfjpsF24lf_42.595412_-88.442913@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462582778,
     "wof:geomhash":"89683dc67757072f07eb0b9aabc66ac0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":773051893
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773051893,
-    "wof:lastmodified":1467089949,
+    "wof:lastmodified":1492108934,
     "wof:name":"Roof Doctors",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

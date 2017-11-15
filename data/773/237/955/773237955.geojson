@@ -2,9 +2,14 @@
   "id": 773237955,
   "type": "Feature",
   "properties": {
+    "addr:full":"5870 Easy St Waunakee WI 53597",
+    "addr:housenumber":"5870",
+    "addr:postcode":"53597",
+    "addr:street":"Easy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.447488,43.206489,-89.447488,43.206489",
     "geom:latitude":43.206489,
     "geom:longitude":-89.447488,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ellkM78CqpcnXuIiI5uGv_43.206489_-89.447488@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462584201,
     "wof:geomhash":"ef3f1b4d5d8b948b7837a82f691c7841",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773237955
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773237955,
-    "wof:lastmodified":1467089998,
+    "wof:lastmodified":1491935699,
     "wof:name":"Arlington Mutual Fire Insur Co",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

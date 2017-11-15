@@ -2,9 +2,14 @@
   "id": 790405175,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 S Wells St Lake Geneva WI 53147",
+    "addr:housenumber":"1101",
+    "addr:postcode":"53147",
+    "addr:street":"S Wells St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.419505,42.576564,-88.419505,42.576564",
     "geom:latitude":42.576564,
     "geom:longitude":-88.419505,
@@ -30,13 +35,7 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UgCw1vwssPWBRNcuBnSN8_42.576564_-88.419505@1294253271"
@@ -44,18 +43,9 @@
     "wof:country":"US",
     "wof:created":1462595574,
     "wof:geomhash":"a716d1ea831e6c6158cc93d2aa32bd17",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":790405175
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790405175,
-    "wof:lastmodified":1467090312,
+    "wof:lastmodified":1492097592,
     "wof:name":"Hevi-Duty Electric",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

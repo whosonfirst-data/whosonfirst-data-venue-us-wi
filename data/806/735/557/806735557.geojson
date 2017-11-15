@@ -2,14 +2,20 @@
   "id": 806735557,
   "type": "Feature",
   "properties": {
+    "addr:full":"933 Center Ave Oostburg WI 53070",
+    "addr:housenumber":"933",
+    "addr:postcode":"53070",
+    "addr:street":"Center Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.797786,43.623008,-87.797786,43.623008",
     "geom:latitude":43.623008,
     "geom:longitude":-87.797786,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"933 Center Ave",
     "sg:city":"Oostburg",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081869,
         85821461
     ],
+    "wof:brand_id":1125150315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Sl45buEDnDwminVEqy0CH_43.623008_-87.797786@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600628,
-    "wof:geomhash":"549832a638f5db40f0b0b2e6e0b87fdb",
+    "wof:geomhash":"842d17a55fdc3598ecd13507f16838fe",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806735557,
-    "wof:lastmodified":1467090449,
+    "wof:lastmodified":1510697386,
     "wof:name":"Principal Financial Group",
     "wof:parent_id":85821461,
     "wof:placetype":"venue",

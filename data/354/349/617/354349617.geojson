@@ -2,9 +2,14 @@
   "id": 354349617,
   "type": "Feature",
   "properties": {
+    "addr:full":"4500 S Burrell St Milwaukee WI 53207",
+    "addr:housenumber":"4500",
+    "addr:postcode":"53207",
+    "addr:street":"S Burrell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.908419,42.961811,-87.908419,42.961811",
     "geom:latitude":42.961811,
     "geom:longitude":-87.908419,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85894489,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85894489
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"32c839d2b7b7b1ed49dcd6bb80ab4f1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85894489,
             "region_id":85688517,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":354349617,
-    "wof:lastmodified":1467089935,
+    "wof:lastmodified":1491931515,
     "wof:name":"Total Door Solutions LLC",
     "wof:parent_id":85894489,
     "wof:placetype":"venue",

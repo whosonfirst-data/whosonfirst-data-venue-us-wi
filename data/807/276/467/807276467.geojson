@@ -2,14 +2,20 @@
   "id": 807276467,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 S Summit Dr Port Washington WI 53074",
+    "addr:housenumber":"604",
+    "addr:postcode":"53074",
+    "addr:street":"S Summit Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.892642,43.381958,-87.892642,43.381958",
     "geom:latitude":43.381958,
     "geom:longitude":-87.892642,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"604 S Summit Dr",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081873,
         85828641
     ],
+    "wof:brand_id":420575791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35p7VweBTXM3Mu2C4WOce2_43.381958_-87.892642@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605612,
-    "wof:geomhash":"01fb7fd8959208a506063b0b33a535af",
+    "wof:geomhash":"dc87f5b08e0031a31b62cf50e0b20419",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807276467,
-    "wof:lastmodified":1467090592,
+    "wof:lastmodified":1510615107,
     "wof:name":"Civil Air Patrol Inc",
     "wof:parent_id":85828641,
     "wof:placetype":"venue",

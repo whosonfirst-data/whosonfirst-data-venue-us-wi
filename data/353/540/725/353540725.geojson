@@ -2,14 +2,20 @@
   "id": 353540725,
   "type": "Feature",
   "properties": {
+    "addr:full":"2214 W Wisconsin St Portage WI 53901",
+    "addr:housenumber":"2214",
+    "addr:postcode":"53901",
+    "addr:street":"W Wisconsin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.487233,43.55554,-89.487233,43.55554",
     "geom:latitude":43.55554,
     "geom:longitude":-89.487233,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2214 W Wisconsin St",
     "sg:city":"Portage",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101733203,
         102081841
     ],
+    "wof:brand_id":1125155587,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gQfoxkxPjHPPYSwmvThQb_43.555540_-89.487233@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"e00e2f62c3e37bc7743cddb799d248b8",
+    "wof:geomhash":"99e210ee3a7142952727620e9999573b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":353540725,
-    "wof:lastmodified":1467089888,
+    "wof:lastmodified":1510694029,
     "wof:name":"Contech Construction Prods Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

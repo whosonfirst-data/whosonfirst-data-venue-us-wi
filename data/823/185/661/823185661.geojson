@@ -2,9 +2,14 @@
   "id": 823185661,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 N Klein Dr Waunakee WI 53597",
+    "addr:housenumber":"205",
+    "addr:postcode":"53597",
+    "addr:street":"N Klein Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.463516,43.19273,-89.463516,43.19273",
     "geom:latitude":43.19273,
     "geom:longitude":-89.463516,
@@ -41,12 +46,7 @@
     ],
     "sg:website":"http://www.waunakeepd.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54IreDq5iQQj7JORegAas4_43.192730_-89.463516@1303262812"
@@ -54,17 +54,9 @@
     "wof:country":"US",
     "wof:created":1462608140,
     "wof:geomhash":"15cac461ad064d18991bbbdc12f4c90d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":823185661
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823185661,
-    "wof:lastmodified":1467090663,
+    "wof:lastmodified":1491935721,
     "wof:name":"Waunakee Utilities",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

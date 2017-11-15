@@ -2,9 +2,14 @@
   "id": 790280489,
   "type": "Feature",
   "properties": {
+    "addr:full":"114 W Main St Waunakee WI 53597",
+    "addr:housenumber":"114",
+    "addr:postcode":"53597",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.455264,43.191867,-89.455264,43.191867",
     "geom:latitude":43.191867,
     "geom:longitude":-89.455264,
@@ -27,12 +32,7 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iACzEy6oBHVLADOCICnAU_43.191867_-89.455264@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462594613,
     "wof:geomhash":"0c3115148412daf625399348125adadc",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790280489
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790280489,
-    "wof:lastmodified":1467090286,
+    "wof:lastmodified":1491935709,
     "wof:name":"Danny's Painting Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

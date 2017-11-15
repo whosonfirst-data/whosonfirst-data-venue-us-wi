@@ -2,14 +2,20 @@
   "id": 773677165,
   "type": "Feature",
   "properties": {
+    "addr:full":"404 N Main St Oshkosh WI 54901",
+    "addr:housenumber":"404",
+    "addr:postcode":"54901",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.537437,44.018252,-88.537437,44.018252",
     "geom:latitude":44.018252,
     "geom:longitude":-88.537437,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"404 N Main St",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081801,
         85688517
     ],
+    "wof:brand_id":1125151231,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZPRLlrxz3R1zn6YnzJLUQ_44.018252_-88.537437@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587515,
-    "wof:geomhash":"9fd291ee52b2cd59f2f53a616044d0f7",
+    "wof:geomhash":"f91467f1cc5f99aa7993ed0e64a53c85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773677165,
-    "wof:lastmodified":1467090109,
+    "wof:lastmodified":1510694073,
     "wof:name":"Otis Elevator Company",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",

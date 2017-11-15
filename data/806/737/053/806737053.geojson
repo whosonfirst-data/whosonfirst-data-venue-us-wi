@@ -2,9 +2,14 @@
   "id": 806737053,
   "type": "Feature",
   "properties": {
+    "addr:full":"6702 Stonefield Rd Middleton WI 53562",
+    "addr:housenumber":"6702",
+    "addr:postcode":"53562",
+    "addr:street":"Stonefield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.50057,43.083233,-89.50057,43.083233",
     "geom:latitude":43.083233,
     "geom:longitude":-89.50057,
@@ -28,11 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517,
+        85841479,
+        404493275,
+        101732813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +53,30 @@
     "wof:geomhash":"be1861b6f3805e5e504c70a60c0d894b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":806737053
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404493275,
+            "locality_id":101732813,
+            "neighbourhood_id":85841479,
             "region_id":85688517,
             "venue_id":806737053
         }
     ],
     "wof:id":806737053,
-    "wof:lastmodified":1467090450,
+    "wof:lastmodified":1491894058,
     "wof:name":"Kriss Waldron & Assoc",
-    "wof:parent_id":85878843,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

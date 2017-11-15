@@ -2,14 +2,20 @@
   "id": 789992903,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 N Prospect Ave Milwaukee WI 53202",
+    "addr:housenumber":"1300",
+    "addr:postcode":"53202",
+    "addr:street":"N Prospect Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.895656,43.047681,-87.895656,43.047681",
     "geom:latitude":43.047681,
     "geom:longitude":-87.895656,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1300 N Prospect Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125159545,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mletb32AfnVrK0sXLzTZy_43.047681_-87.895656@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592272,
-    "wof:geomhash":"30c254c7a4cb574e3096dc9dce8c5886",
+    "wof:geomhash":"0cae27f214ab233a3b4cc1c67c49f964",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789992903,
-    "wof:lastmodified":1467090230,
+    "wof:lastmodified":1510699958,
     "wof:name":"Equity Corporate Housing",
     "wof:parent_id":85870987,
     "wof:placetype":"venue",

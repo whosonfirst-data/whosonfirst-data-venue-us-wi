@@ -2,9 +2,14 @@
   "id": 807030481,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Uniek Dr Waunakee WI 53597",
+    "addr:housenumber":"1000",
+    "addr:postcode":"53597",
+    "addr:street":"Uniek Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.43354,43.182305,-89.43354,43.182305",
     "geom:latitude":43.182305,
     "geom:longitude":-89.43354,
@@ -28,12 +33,7 @@
     ],
     "sg:website":"www.suttle-straus.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ya3NvB4XdXCgNryqe3EUx_43.182305_-89.433540@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462603127,
     "wof:geomhash":"25d089b4e44a99d5c9821475509aaea9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807030481
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807030481,
-    "wof:lastmodified":1467090517,
+    "wof:lastmodified":1491935722,
     "wof:name":"Suttle Straus Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

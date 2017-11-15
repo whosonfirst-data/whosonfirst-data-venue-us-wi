@@ -2,9 +2,14 @@
   "id": 773529667,
   "type": "Feature",
   "properties": {
+    "addr:full":"5737 Emerald Grove Ln Waunakee WI 53597",
+    "addr:housenumber":"5737",
+    "addr:postcode":"53597",
+    "addr:street":"Emerald Grove Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.436851,43.175302,-89.436851,43.175302",
     "geom:latitude":43.175302,
     "geom:longitude":-89.436851,
@@ -27,12 +32,7 @@
         "mill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YXP1zYSdlaFcuI8Q1wblP_43.175302_-89.436851@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462586408,
     "wof:geomhash":"1989c76e3a787e0a7da00954e4540243",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773529667
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773529667,
-    "wof:lastmodified":1467090075,
+    "wof:lastmodified":1491935673,
     "wof:name":"Andrew Currie Llc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

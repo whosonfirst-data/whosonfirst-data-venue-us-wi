@@ -2,9 +2,14 @@
   "id": 807201179,
   "type": "Feature",
   "properties": {
+    "addr:full":"1725 S Shore Dr Delavan WI 53115",
+    "addr:housenumber":"1725",
+    "addr:postcode":"53115",
+    "addr:street":"S Shore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.585522,42.614311,-88.585522,42.614311",
     "geom:latitude":42.614311,
     "geom:longitude":-88.585522,
@@ -28,7 +33,10 @@
         "gift"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04xLU7NdWOuKyldkkaHPen_42.614311_-88.585522@1294253271"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462604809,
     "wof:geomhash":"b68b06a0141ba46c952d127c1c9997fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550177,
+            "venue_id":807201179
+        }
+    ],
     "wof:id":807201179,
-    "wof:lastmodified":1467090568,
+    "wof:lastmodified":1492101788,
     "wof:name":"Village Supper Club The",
     "wof:parent_id":420550177,
     "wof:placetype":"venue",

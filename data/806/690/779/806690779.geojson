@@ -2,9 +2,14 @@
   "id": 806690779,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 Raymond Rd Waunakee WI 53597",
+    "addr:housenumber":"502",
+    "addr:postcode":"53597",
+    "addr:street":"Raymond Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.468594,43.185298,-89.468594,43.185298",
     "geom:latitude":43.185298,
     "geom:longitude":-89.468594,
@@ -27,12 +32,7 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KZJtEtiqDiD65gJtp2MUi_43.185298_-89.468594@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462600264,
     "wof:geomhash":"61e93c901ec3a7e67e15ad5a2d1629a8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806690779
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806690779,
-    "wof:lastmodified":1467090439,
+    "wof:lastmodified":1491935729,
     "wof:name":"Pro Design LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

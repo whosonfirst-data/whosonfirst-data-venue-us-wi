@@ -2,14 +2,20 @@
   "id": 823135775,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 E Wells St Milwaukee WI 53202",
+    "addr:housenumber":"117",
+    "addr:postcode":"53202",
+    "addr:street":"E Wells St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.910763,43.040796,-87.910763,43.040796",
     "geom:latitude":43.040796,
     "geom:longitude":-87.910763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"117 E Wells St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -50,13 +56,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125159195,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FteXWYxMxls3gFBpmGiPg_43.040796_-87.910763@1303262807"
     },
     "wof:country":"US",
     "wof:created":1462607429,
-    "wof:geomhash":"d1197e16df987441cb0db8933e32d92b",
+    "wof:geomhash":"5b911059ad63b892beda6ed0372dcca1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":823135775,
-    "wof:lastmodified":1467090641,
+    "wof:lastmodified":1510694590,
     "wof:name":"China Gourmet",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807288583,
   "type": "Feature",
   "properties": {
+    "addr:full":"8809 Oriole Ln Waterford WI 53185",
+    "addr:housenumber":"8809",
+    "addr:postcode":"53185",
+    "addr:street":"Oriole Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.155971,42.840946,-88.155971,42.840946",
     "geom:latitude":42.840946,
     "geom:longitude":-88.155971,
@@ -27,7 +32,14 @@
         "stone"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494901,
+        85633793,
+        101733595,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4i3TCuaAVghVQWivaQyMBr_42.840946_-88.155971@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462605734,
     "wof:geomhash":"9232c50215d03c785a9ce57331a5d034",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494901,
+            "locality_id":101733595,
+            "region_id":85688517,
+            "venue_id":807288583
+        }
+    ],
     "wof:id":807288583,
-    "wof:lastmodified":1467090595,
+    "wof:lastmodified":1492103404,
     "wof:name":"Horner Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807375705,
   "type": "Feature",
   "properties": {
+    "addr:full":"2465 Lineville Rd Green Bay WI 54313",
+    "addr:housenumber":"2465",
+    "addr:postcode":"54313",
+    "addr:street":"Lineville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.07591,44.590915,-88.07591,44.590915",
     "geom:latitude":44.590915,
     "geom:longitude":-88.07591,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2465 Lineville Rd",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125153957,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WEdn9UBppbcBUjGBZbxvt_44.590914_-88.075688@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462606868,
-    "wof:geomhash":"0be58f0ab26559d428407d6291d17b97",
+    "wof:geomhash":"4b68000dca07b8fcc88e122a8c4a133b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807375705,
-    "wof:lastmodified":1467090628,
+    "wof:lastmodified":1510700008,
     "wof:name":"Figaro's Pizza",
     "wof:parent_id":85815317,
     "wof:placetype":"venue",

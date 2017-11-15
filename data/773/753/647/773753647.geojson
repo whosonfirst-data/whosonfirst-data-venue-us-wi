@@ -2,9 +2,14 @@
   "id": 773753647,
   "type": "Feature",
   "properties": {
+    "addr:full":"5527 Maria Way Waunakee WI 53597",
+    "addr:housenumber":"5527",
+    "addr:postcode":"53597",
+    "addr:street":"Maria Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.428486,43.157582,-89.428486,43.157582",
     "geom:latitude":43.157582,
     "geom:longitude":-89.428486,
@@ -29,12 +34,7 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sHHoPqPrFoPjZrTMEQq8w_43.157582_-89.428486@1294253271"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462588122,
     "wof:geomhash":"f0cb153f36b81529ce644094c5547453",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773753647
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773753647,
-    "wof:lastmodified":1467090126,
+    "wof:lastmodified":1491935688,
     "wof:name":"Kuehn Construction Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

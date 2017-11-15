@@ -2,14 +2,20 @@
   "id": 823183211,
   "type": "Feature",
   "properties": {
+    "addr:full":"590 S Saint Josephs Cir Edgerton WI 53534",
+    "addr:housenumber":"590",
+    "addr:postcode":"53534",
+    "addr:street":"S Saint Josephs Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.063732,42.844892,-89.063732,42.844892",
     "geom:latitude":42.844892,
     "geom:longitude":-89.063732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"590 S Saint Josephs Cir",
     "sg:city":"Edgerton",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         85836935,
         102081829
     ],
+    "wof:brand_id":1125151235,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_391Fo9mhWwbiEYSVIcFHWF_42.844892_-89.063732@1303262811"
     },
     "wof:country":"US",
     "wof:created":1462608105,
-    "wof:geomhash":"92bcbe66a60d88c5310a3a1fca84f0d8",
+    "wof:geomhash":"64d5fd168193069c9f46de1d86170afc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823183211,
-    "wof:lastmodified":1467090662,
+    "wof:lastmodified":1510694066,
     "wof:name":"St Joseph Catholic Church",
     "wof:parent_id":85836935,
     "wof:placetype":"venue",

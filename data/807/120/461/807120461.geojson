@@ -2,9 +2,14 @@
   "id": 807120461,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 South St Waunakee WI 53597",
+    "addr:housenumber":"103",
+    "addr:postcode":"53597",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.455032,43.190827,-89.455032,43.190827",
     "geom:latitude":43.190827,
     "geom:longitude":-89.455032,
@@ -27,12 +32,7 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MBbl2QZ2eBJeiWUzHm9go_43.190827_-89.455032@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462603945,
     "wof:geomhash":"bd9160d38a2d8aaa6267abd5fc3eb4ad",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807120461
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807120461,
-    "wof:lastmodified":1467090542,
+    "wof:lastmodified":1491935722,
     "wof:name":"Leos Salons Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

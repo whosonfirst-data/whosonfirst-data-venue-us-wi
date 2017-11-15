@@ -2,6 +2,10 @@
   "id": 773618735,
   "type": "Feature",
   "properties": {
+    "addr:full":"12345 W Holt Ave Milwaukee WI 53227",
+    "addr:housenumber":"12345",
+    "addr:postcode":"53227",
+    "addr:street":"W Holt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":773618735,
-    "wof:lastmodified":1467090095,
+    "wof:lastmodified":1472654931,
     "wof:name":"Colony",
     "wof:parent_id":85870861,
     "wof:placetype":"venue",

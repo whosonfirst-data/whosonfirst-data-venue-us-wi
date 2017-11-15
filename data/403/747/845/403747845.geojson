@@ -2,9 +2,14 @@
   "id": 403747845,
   "type": "Feature",
   "properties": {
+    "addr:full":"3741 N 36th St Milwaukee WI 53216",
+    "addr:housenumber":"3741",
+    "addr:postcode":"53216",
+    "addr:street":"N 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.958505,43.085294,-87.958505,43.085294",
     "geom:latitude":43.085294,
     "geom:longitude":-87.958505,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870825,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870825
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"8e2f816e7783b7f7d88d93c5705df6a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870825,
             "region_id":85688517,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":403747845,
-    "wof:lastmodified":1467089918,
+    "wof:lastmodified":1491926533,
     "wof:name":"D & B A/C & Heating Service",
     "wof:parent_id":85870825,
     "wof:placetype":"venue",

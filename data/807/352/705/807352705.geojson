@@ -2,9 +2,14 @@
   "id": 807352705,
   "type": "Feature",
   "properties": {
+    "addr:full":"5802 State Hwy 113 Waunakee WI 53597",
+    "addr:housenumber":"5802",
+    "addr:postcode":"53597",
+    "addr:street":"State Hwy 113",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.439135,43.192141,-89.439135,43.192141",
     "geom:latitude":43.192141,
     "geom:longitude":-89.439135,
@@ -22,12 +27,7 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UJ2gq1qgjLxg4GNUxxYrn_43.192141_-89.439135@1294253271"
@@ -35,17 +35,9 @@
     "wof:country":"US",
     "wof:created":1462606538,
     "wof:geomhash":"93a896df5544c8c51abd238a27a181ac",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807352705
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807352705,
-    "wof:lastmodified":1467090619,
+    "wof:lastmodified":1491935681,
     "wof:name":"Jerome Breunig",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

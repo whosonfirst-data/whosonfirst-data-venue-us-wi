@@ -2,14 +2,20 @@
   "id": 790162449,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Fen Oak Ct Madison WI 53718",
+    "addr:housenumber":"1",
+    "addr:postcode":"53718",
+    "addr:street":"Fen Oak Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.289535,43.056373,-89.289535,43.056373",
     "geom:latitude":43.056373,
     "geom:longitude":-89.289535,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Fen Oak Ct",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125153411,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68YseVTujuXTF7yrXYw82z_43.056373_-89.289535@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593620,
-    "wof:geomhash":"0dedb1a1ce10f3ee4df6c68d795eabf7",
+    "wof:geomhash":"e6019c3cb11d844fb9c336b33227abca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790162449,
-    "wof:lastmodified":1467090263,
+    "wof:lastmodified":1510695030,
     "wof:name":"Natural Resource Conservation",
     "wof:parent_id":85878847,
     "wof:placetype":"venue",

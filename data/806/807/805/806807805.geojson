@@ -2,9 +2,14 @@
   "id": 806807805,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 Buck Trl Twin Lakes WI 53181",
+    "addr:housenumber":"308",
+    "addr:postcode":"53181",
+    "addr:street":"Buck Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.227477,42.530706,-88.227477,42.530706",
     "geom:latitude":42.530706,
     "geom:longitude":-88.227477,
@@ -28,7 +33,10 @@
         "form"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ySOeLPjvekH4zwnuFye48_42.530706_-88.227477@1294253271"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462601248,
     "wof:geomhash":"590f9a8a939600ce2ca2a461478555e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":806807805
+        }
+    ],
     "wof:id":806807805,
-    "wof:lastmodified":1467090466,
+    "wof:lastmodified":1492098851,
     "wof:name":"Town & Country Business Forms",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

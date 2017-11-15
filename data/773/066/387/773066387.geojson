@@ -2,14 +2,20 @@
   "id": 773066387,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 S Franklin St Stanley WI 54768",
+    "addr:housenumber":"203",
+    "addr:postcode":"54768",
+    "addr:street":"S Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.932489,44.958826,-90.932489,44.958826",
     "geom:latitude":44.958826,
     "geom:longitude":-90.932489,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"203 S Franklin St",
     "sg:city":"Stanley",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081787,
         85837071
     ],
+    "wof:brand_id":1125154109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BzLBjZH7L0WxEOi7ZU0cE_44.958826_-90.932489@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462582909,
-    "wof:geomhash":"bc892d505d917f71b35d1bfb141565b5",
+    "wof:geomhash":"0394dde4c4d3a899de515f2fadb6024a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773066387,
-    "wof:lastmodified":1467089953,
+    "wof:lastmodified":1510694939,
     "wof:name":"Church Of The Brethren",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370430791,
   "type": "Feature",
   "properties": {
+    "addr:full":"7513 7th Ave Kenosha WI 53143",
+    "addr:housenumber":"7513",
+    "addr:postcode":"53143",
+    "addr:street":"7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.819357,42.564832,-87.819357,42.564832",
     "geom:latitude":42.564832,
     "geom:longitude":-87.819357,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85810813,
+        102191575,
+        404493393,
         85633793,
         101732567,
         102081309,
-        85810813
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"801277ce61d3cc5d3c88d4fa5bd8185a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081309,
+            "localadmin_id":404493393,
             "locality_id":101732567,
             "neighbourhood_id":85810813,
             "region_id":85688517,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":370430791,
-    "wof:lastmodified":1467089904,
+    "wof:lastmodified":1492088078,
     "wof:name":"Carol Beach Partners II LLC",
     "wof:parent_id":85810813,
     "wof:placetype":"venue",

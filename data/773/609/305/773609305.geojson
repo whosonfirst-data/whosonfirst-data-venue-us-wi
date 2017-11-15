@@ -2,14 +2,20 @@
   "id": 773609305,
   "type": "Feature",
   "properties": {
+    "addr:full":"1409 Emil St Madison WI 53713",
+    "addr:housenumber":"1409",
+    "addr:postcode":"53713",
+    "addr:street":"Emil St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.410087,43.036597,-89.410087,43.036597",
     "geom:latitude":43.036597,
     "geom:longitude":-89.410087,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1409 Emil St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85878867,
         102081795
     ],
+    "wof:brand_id":1125150879,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zws0ozkw8DhQ5PsE1xskL_43.036597_-89.410087@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587004,
-    "wof:geomhash":"a068c7f7f5f3cc69232b01b3eb150c12",
+    "wof:geomhash":"166fa1914fc756225c227539de669f1f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773609305,
-    "wof:lastmodified":1467090093,
+    "wof:lastmodified":1510613216,
     "wof:name":"Service Master",
     "wof:parent_id":85878867,
     "wof:placetype":"venue",

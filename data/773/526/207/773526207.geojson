@@ -2,9 +2,14 @@
   "id": 773526207,
   "type": "Feature",
   "properties": {
+    "addr:full":"5339 Lighthouse Bay Dr Madison WI 53704",
+    "addr:housenumber":"5339",
+    "addr:postcode":"53704",
+    "addr:street":"Lighthouse Bay Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.405995,43.148637,-89.405995,43.148637",
     "geom:latitude":43.148637,
     "geom:longitude":-89.405995,
@@ -24,12 +29,7 @@
     "sg:postcode":"53704",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DzRBnwpqEz6jf9HcD6GGm_43.148637_-89.405995@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462586386,
     "wof:geomhash":"f94c58de3f40123fa9ecabf4ae0c17c8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773526207
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773526207,
-    "wof:lastmodified":1467090074,
+    "wof:lastmodified":1491935698,
     "wof:name":"Mariner's Inn",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

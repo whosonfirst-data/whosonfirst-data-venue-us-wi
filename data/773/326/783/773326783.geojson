@@ -2,9 +2,14 @@
   "id": 773326783,
   "type": "Feature",
   "properties": {
+    "addr:full":"1136 Sausalito Dr Waunakee WI 53597",
+    "addr:housenumber":"1136",
+    "addr:postcode":"53597",
+    "addr:street":"Sausalito Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.46281,43.179162,-89.46281,43.179162",
     "geom:latitude":43.179162,
     "geom:longitude":-89.46281,
@@ -28,12 +33,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0x1CtfcJWeUrElwKZElZ5H_43.179162_-89.462810@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462584886,
     "wof:geomhash":"a6aad18b4d2b7eaf61a1c5c92fdfa570",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773326783
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773326783,
-    "wof:lastmodified":1467090027,
+    "wof:lastmodified":1491935689,
     "wof:name":"Competitive Tree Svc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807394687,
   "type": "Feature",
   "properties": {
+    "addr:full":"516 N Lincoln St Elkhorn WI 53121",
+    "addr:housenumber":"516",
+    "addr:postcode":"53121",
+    "addr:street":"N Lincoln St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.54143,42.680558,-88.54143,42.680558",
     "geom:latitude":42.680558,
     "geom:longitude":-88.54143,
@@ -19,7 +24,10 @@
     "sg:province":"WI",
     "sg:website":"http://www.theglassguys.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550193
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Gv1yVNm6wXW1bO1r8j9dC_42.680558_-88.541430@1303262806"
@@ -27,9 +35,15 @@
     "wof:country":"US",
     "wof:created":1462607156,
     "wof:geomhash":"be6b51ef3c514b32b8eca72a0d4a4440",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550193,
+            "venue_id":807394687
+        }
+    ],
     "wof:id":807394687,
-    "wof:lastmodified":1467090636,
+    "wof:lastmodified":1492098892,
     "wof:name":"American Glass & Window LLC",
     "wof:parent_id":420550193,
     "wof:placetype":"venue",

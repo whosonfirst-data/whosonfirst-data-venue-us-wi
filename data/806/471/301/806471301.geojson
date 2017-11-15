@@ -2,9 +2,14 @@
   "id": 806471301,
   "type": "Feature",
   "properties": {
+    "addr:full":"5568 Schmidt Rd Elkhorn WI 53121",
+    "addr:housenumber":"",
+    "addr:postcode":"5568;53121",
+    "addr:street":"Schmidt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.574138,42.706068,-88.574138,42.706068",
     "geom:latitude":42.706068,
     "geom:longitude":-88.574138,
@@ -27,7 +32,10 @@
         "cutlery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550193
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uLFwfkLRIrKAyOSue7ZJE_42.706068_-88.574138@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462598398,
     "wof:geomhash":"0e5f4338ba6deec05026fbccf0174ca5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550193,
+            "venue_id":806471301
+        }
+    ],
     "wof:id":806471301,
-    "wof:lastmodified":1467090387,
+    "wof:lastmodified":1492103652,
     "wof:name":"Crossblades LLC",
     "wof:parent_id":420550193,
     "wof:placetype":"venue",

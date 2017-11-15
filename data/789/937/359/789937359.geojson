@@ -2,6 +2,10 @@
   "id": 789937359,
   "type": "Feature",
   "properties": {
+    "addr:full":"5534 State Rd 50 Delavan WI 53115",
+    "addr:housenumber":"5534;50",
+    "addr:postcode":"53115",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789937359,
-    "wof:lastmodified":1467090219,
+    "wof:lastmodified":1472654574,
     "wof:name":"Hands 'n Tans",
     "wof:parent_id":85829149,
     "wof:placetype":"venue",

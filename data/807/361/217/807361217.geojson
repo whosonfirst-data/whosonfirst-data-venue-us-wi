@@ -2,9 +2,14 @@
   "id": 807361217,
   "type": "Feature",
   "properties": {
+    "addr:full":"4711 S 108th St Greenfield WI 53228",
+    "addr:housenumber":"4711",
+    "addr:postcode":"53228",
+    "addr:street":"S 108Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.049011,42.958513,-88.049011,42.958513",
     "geom:latitude":42.958513,
     "geom:longitude":-88.049011,
@@ -28,7 +33,14 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494171,
+        85633793,
+        101733073,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ChGX2rw1xZns1j6rz52fX_42.958513_-88.049011@1299784598"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462606671,
     "wof:geomhash":"89824b1569272098121663bd3d4c1b9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494171,
+            "locality_id":101733073,
+            "region_id":85688517,
+            "venue_id":807361217
+        }
+    ],
     "wof:id":807361217,
-    "wof:lastmodified":1467090622,
+    "wof:lastmodified":1492098738,
     "wof:name":"The Forum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

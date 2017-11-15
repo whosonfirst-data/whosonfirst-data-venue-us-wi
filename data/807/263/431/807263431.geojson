@@ -2,9 +2,14 @@
   "id": 807263431,
   "type": "Feature",
   "properties": {
+    "addr:full":"4959 Simon Trl Waunakee WI 53597",
+    "addr:housenumber":"4959",
+    "addr:postcode":"53597",
+    "addr:street":"Simon Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.436449,43.127969,-89.436449,43.127969",
     "geom:latitude":43.127969,
     "geom:longitude":-89.436449,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VNpHvFEBY8Tr6YylUgtm9_43.127969_-89.436449@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462605464,
     "wof:geomhash":"dcf437f26445d341c40f662ea2ca50ea",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807263431
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807263431,
-    "wof:lastmodified":1467090587,
+    "wof:lastmodified":1491935695,
     "wof:name":"Advanced Balance Corp",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

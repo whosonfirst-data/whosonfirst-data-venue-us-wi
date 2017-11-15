@@ -2,9 +2,14 @@
   "id": 807396259,
   "type": "Feature",
   "properties": {
+    "addr:full":"4659A W Basswood Dr Franklin WI 53132",
+    "addr:housenumber":"4659a",
+    "addr:postcode":"53132",
+    "addr:street":"W Basswood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.97745,42.866765,-87.97745,42.866765",
     "geom:latitude":42.866765,
     "geom:longitude":-87.97745,
@@ -35,7 +40,14 @@
     ],
     "sg:website":"http://www.allsolutions.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dQkgYK88NdOx28hVviKwQ_42.866765_-87.977450@1303262806"
@@ -43,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1462607190,
     "wof:geomhash":"3449d0cec2b2730e25dbbf4987d07e76",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":807396259
+        }
+    ],
     "wof:id":807396259,
-    "wof:lastmodified":1467090636,
+    "wof:lastmodified":1492103408,
     "wof:name":"All Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

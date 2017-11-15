@@ -2,9 +2,14 @@
   "id": 185887435,
   "type": "Feature",
   "properties": {
+    "addr:full":"4861 S 27th St Milwaukee WI 53221",
+    "addr:housenumber":"4861",
+    "addr:postcode":"53221",
+    "addr:street":"S 27Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.948854,42.956878,-87.948854,42.956878",
     "geom:latitude":42.956878,
     "geom:longitude":-87.948854,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870931,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870931
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"66b9647581781a2d9e60996454b86c86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870931,
             "region_id":85688517,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":185887435,
-    "wof:lastmodified":1467089885,
+    "wof:lastmodified":1492108875,
     "wof:name":"Aedon Homecare LLC",
     "wof:parent_id":85870931,
     "wof:placetype":"venue",

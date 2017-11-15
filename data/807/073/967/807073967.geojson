@@ -2,14 +2,20 @@
   "id": 807073967,
   "type": "Feature",
   "properties": {
+    "addr:full":"539 Water St Eau Claire WI 54703",
+    "addr:housenumber":"539",
+    "addr:postcode":"54703",
+    "addr:street":"Water St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.511144,44.802089,-91.511144,44.802089",
     "geom:latitude":44.802089,
     "geom:longitude":-91.511144,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"539 Water St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125151363,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RIG5xsBkp1yDRAsYxrTum_44.802089_-91.511144@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603488,
-    "wof:geomhash":"c35d273e75891318f199fe19dd2ffe87",
+    "wof:geomhash":"e0ee40fef25c0f9d8f1a1b98e36dcf81",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807073967,
-    "wof:lastmodified":1467090528,
+    "wof:lastmodified":1510696779,
     "wof:name":"Holiday Station Store",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

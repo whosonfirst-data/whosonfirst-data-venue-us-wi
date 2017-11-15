@@ -2,14 +2,20 @@
   "id": 773488865,
   "type": "Feature",
   "properties": {
+    "addr:full":"1214 W Wells St Milwaukee WI 53233",
+    "addr:housenumber":"1214",
+    "addr:postcode":"53233",
+    "addr:street":"W Wells St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.92857,43.04031,-87.92857,43.04031",
     "geom:latitude":43.04031,
     "geom:longitude":-87.92857,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1214 W Wells St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125156379,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NeZAaNQz9BoXQLGD9jHhH_43.040310_-87.928570@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586131,
-    "wof:geomhash":"2ecc05e06f605493646bd98f31bc0949",
+    "wof:geomhash":"0a303f245f433b0a730bc7b345aca5fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773488865,
-    "wof:lastmodified":1467090065,
+    "wof:lastmodified":1510699360,
     "wof:name":"Cousins Subs",
     "wof:parent_id":85870839,
     "wof:placetype":"venue",

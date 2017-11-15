@@ -2,14 +2,20 @@
   "id": 806908381,
   "type": "Feature",
   "properties": {
+    "addr:full":"3434 N 36th St Milwaukee WI 53216",
+    "addr:housenumber":"3434",
+    "addr:postcode":"53216",
+    "addr:street":"N 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.958329,43.082044,-87.958329,43.082044",
     "geom:latitude":43.082044,
     "geom:longitude":-87.958329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3434 N 36th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125158065,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QIRnUGHgdTh98wF8FTKWY_43.082044_-87.958329@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602079,
-    "wof:geomhash":"f8d2669e5a83224dbc3c60cdea97d3f7",
+    "wof:geomhash":"deb2f8d6eacc896e108b51c72517e37c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806908381,
-    "wof:lastmodified":1467090488,
+    "wof:lastmodified":1510694586,
     "wof:name":"Classic Hair Design",
     "wof:parent_id":85870825,
     "wof:placetype":"venue",

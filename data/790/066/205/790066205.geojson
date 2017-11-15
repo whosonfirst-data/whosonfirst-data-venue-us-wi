@@ -2,9 +2,14 @@
   "id": 790066205,
   "type": "Feature",
   "properties": {
+    "addr:full":"1130 Pebble Beach Ct Twin Lakes WI 53181",
+    "addr:housenumber":"1130",
+    "addr:postcode":"53181",
+    "addr:street":"Pebble Beach Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.233183,42.530275,-88.233183,42.530275",
     "geom:latitude":42.530275,
     "geom:longitude":-88.233183,
@@ -27,7 +32,10 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3w2xDxqv4KPrT65HGgkNyE_42.530275_-88.233183@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462592864,
     "wof:geomhash":"ddcaf24024676d6b95a739f7706f2400",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":790066205
+        }
+    ],
     "wof:id":790066205,
-    "wof:lastmodified":1467090245,
+    "wof:lastmodified":1492098713,
     "wof:name":"Mr EDS",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

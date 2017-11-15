@@ -2,9 +2,14 @@
   "id": 806731099,
   "type": "Feature",
   "properties": {
+    "addr:full":"15510 38th St Kenosha WI 53144",
+    "addr:housenumber":"15510",
+    "addr:postcode":"53144",
+    "addr:street":"38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.997129,42.604465,-87.997129,42.604465",
     "geom:latitude":42.604465,
     "geom:longitude":-87.997129,
@@ -24,7 +29,13 @@
     "sg:postcode":"53144",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493397,
+        85633793,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7T5crPZTxe9PZ2yIf7ILxV_42.604465_-87.997129@1294253271"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462600595,
     "wof:geomhash":"aadc243c73608994b3131785b5ca198f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493397,
+            "region_id":85688517,
+            "venue_id":806731099
+        }
+    ],
     "wof:id":806731099,
-    "wof:lastmodified":1467090448,
+    "wof:lastmodified":1492108935,
     "wof:name":"Buskro Global Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

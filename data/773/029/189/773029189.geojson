@@ -2,9 +2,14 @@
   "id": 773029189,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 Spahn Dr Waunakee WI 53597",
+    "addr:housenumber":"801",
+    "addr:postcode":"53597",
+    "addr:street":"Spahn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.462933,43.180928,-89.462933,43.180928",
     "geom:latitude":43.180928,
     "geom:longitude":-89.462933,
@@ -27,12 +32,7 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VdbQS169otErXkJIhwGRH_43.180928_-89.462933@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462582559,
     "wof:geomhash":"8a5350fe772db050c79a1dc93a50fa75",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773029189
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773029189,
-    "wof:lastmodified":1467089941,
+    "wof:lastmodified":1491935699,
     "wof:name":"Rod Voss Construction",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

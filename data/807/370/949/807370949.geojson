@@ -2,14 +2,20 @@
   "id": 807370949,
   "type": "Feature",
   "properties": {
+    "addr:full":"650 N Casaloma Dr Appleton WI 54913",
+    "addr:housenumber":"650",
+    "addr:postcode":"54913",
+    "addr:street":"N Casaloma Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.476135,44.267319,-88.476135,44.267319",
     "geom:latitude":44.267319,
     "geom:longitude":-88.476135,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"650 N Casaloma Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125150761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IGFmy2WA5S4gwYDMhSOmz_44.267319_-88.476135@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606800,
-    "wof:geomhash":"4ad408329255519effa3280127ecb22e",
+    "wof:geomhash":"d8be55aa6317b39a3d9f73a9ff48095e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807370949,
-    "wof:lastmodified":1467090626,
+    "wof:lastmodified":1510697651,
     "wof:name":"Atlanta Bread Company",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

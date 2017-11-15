@@ -2,9 +2,14 @@
   "id": 789660331,
   "type": "Feature",
   "properties": {
+    "addr:full":"5703 Bailey Rd Delavan WI 53115",
+    "addr:housenumber":"5703",
+    "addr:postcode":"53115",
+    "addr:street":"Bailey Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.594833,42.597027,-88.594833,42.597027",
     "geom:latitude":42.597027,
     "geom:longitude":-88.594833,
@@ -34,7 +39,8 @@
         85633793,
         101733549,
         102081883,
-        85814169
+        85814169,
+        420550177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +57,17 @@
             "neighbourhood_id":85814169,
             "region_id":85688517,
             "venue_id":789660331
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550177,
+            "venue_id":789660331
         }
     ],
     "wof:id":789660331,
-    "wof:lastmodified":1467090166,
+    "wof:lastmodified":1492112095,
     "wof:name":"Williams Enterprises Inc",
-    "wof:parent_id":85814169,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

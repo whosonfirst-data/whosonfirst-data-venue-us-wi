@@ -2,14 +2,20 @@
   "id": 790216049,
   "type": "Feature",
   "properties": {
+    "addr:full":"723 Center Ave Sheboygan WI 53081",
+    "addr:housenumber":"723",
+    "addr:postcode":"53081",
+    "addr:street":"Center Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.712665,43.750803,-87.712665,43.750803",
     "geom:latitude":43.750803,
     "geom:longitude":-87.712665,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"723 Center Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":420574769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61Hl4ll22ii3z0EUkuO4KZ_43.750803_-87.712665@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462594076,
-    "wof:geomhash":"9429d5f4ec5448364bf90c06eb8f4ca0",
+    "wof:geomhash":"fc96bbee5c02f9bf61aa7887e302bed7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790216049,
-    "wof:lastmodified":1467090274,
+    "wof:lastmodified":1510604081,
     "wof:name":"Ramada Inn",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

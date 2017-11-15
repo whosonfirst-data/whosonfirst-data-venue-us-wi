@@ -2,9 +2,14 @@
   "id": 773281295,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Manor Dr Shullsburg WI 53597",
+    "addr:housenumber":"1",
+    "addr:postcode":"53597",
+    "addr:street":"Manor Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.464869,43.183256,-89.464869,43.183256",
     "geom:latitude":43.183256,
     "geom:longitude":-89.464869,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tgvLqTKr6598GHd8NpTNr_43.183256_-89.464869@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462584524,
     "wof:geomhash":"dc4555dcea37db9b79405534b9ccfe1f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773281295
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773281295,
-    "wof:lastmodified":1467090013,
+    "wof:lastmodified":1491935707,
     "wof:name":"Minter Towne Mart",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

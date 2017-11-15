@@ -2,14 +2,20 @@
   "id": 789661571,
   "type": "Feature",
   "properties": {
+    "addr:full":"2240 W Spencer St Appleton WI 54914",
+    "addr:housenumber":"2240",
+    "addr:postcode":"54914",
+    "addr:street":"W Spencer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.44533,44.25874,-88.44533,44.25874",
     "geom:latitude":44.25874,
     "geom:longitude":-88.44533,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2240 W Spencer St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125150727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73SRYHbCzF9DIj9Z0TLwji_44.258740_-88.445330@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462589553,
-    "wof:geomhash":"1d8c1526d43d219a5a93922e4079774c",
+    "wof:geomhash":"15a3ad11db8a0b97f6b98469c28b9066",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789661571,
-    "wof:lastmodified":1467090166,
+    "wof:lastmodified":1510695861,
     "wof:name":"U-Save Auto Rental",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

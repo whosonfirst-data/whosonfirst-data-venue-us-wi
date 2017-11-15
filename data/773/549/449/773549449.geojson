@@ -2,14 +2,20 @@
   "id": 773549449,
   "type": "Feature",
   "properties": {
+    "addr:full":"725 American Ave Waukesha WI 53188",
+    "addr:housenumber":"725",
+    "addr:postcode":"53188",
+    "addr:street":"American Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.242336,43.011205,-88.242336,43.011205",
     "geom:latitude":43.011205,
     "geom:longitude":-88.242336,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"725 American Ave",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":420575689,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cWwAjdROM4EyPV90T5WO0_43.011205_-88.242336@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586563,
-    "wof:geomhash":"de54019736b219e4b6c4d11a07b8652f",
+    "wof:geomhash":"ab21d395bfa5859cf1f967e3db9cfeba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773549449,
-    "wof:lastmodified":1467090079,
+    "wof:lastmodified":1510602098,
     "wof:name":"Meals On Wheels",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790329189,
   "type": "Feature",
   "properties": {
+    "addr:full":"11426 Fox River Rd Wilmot WI 53192",
+    "addr:housenumber":"11426",
+    "addr:postcode":"53192",
+    "addr:street":"Fox River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.187177,42.508864,-88.187177,42.508864",
     "geom:latitude":42.508864,
     "geom:longitude":-88.187177,
@@ -27,7 +32,10 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rtpCiqoobcP2XfTcdAYTQ_42.508864_-88.187177@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462594987,
     "wof:geomhash":"de8acdb8fe8fe6835e2152d26e638f87",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":790329189
+        }
+    ],
     "wof:id":790329189,
-    "wof:lastmodified":1467090296,
+    "wof:lastmodified":1492087969,
     "wof:name":"B & K Lake LLC",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789761615,
   "type": "Feature",
   "properties": {
+    "addr:full":"227 1st St W Altoona WI 54720",
+    "addr:housenumber":"227",
+    "addr:postcode":"54720",
+    "addr:street":"1St St W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.435023,44.806646,-91.435023,44.806646",
     "geom:latitude":44.806646,
     "geom:longitude":-91.435023,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"227 1st St W",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125153175,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1I017UXpG4oymM0LsnRBvU_44.806646_-91.435023@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590344,
-    "wof:geomhash":"9a55a1d14d7f8da7d4dda8f555efbe0a",
+    "wof:geomhash":"964f0ca594b813bc543d220c28bbe787",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789761615,
-    "wof:lastmodified":1467090186,
+    "wof:lastmodified":1510699292,
     "wof:name":"Rural Development",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

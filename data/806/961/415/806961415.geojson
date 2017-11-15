@@ -2,14 +2,20 @@
   "id": 806961415,
   "type": "Feature",
   "properties": {
+    "addr:full":"4152 University Ave Madison WI 53705",
+    "addr:housenumber":"4152",
+    "addr:postcode":"53705",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.450803,43.075402,-89.450803,43.075402",
     "geom:latitude":43.075402,
     "geom:longitude":-89.450803,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4152 University Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125151351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EzwhxJxejwY4LK9xvDp0c_43.075402_-89.450803@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602536,
-    "wof:geomhash":"322b2e138ef8a3b42d8bca08ff91103b",
+    "wof:geomhash":"df262061ee6dfa33cd26ed26a052f82c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806961415,
-    "wof:lastmodified":1467090500,
+    "wof:lastmodified":1510695179,
     "wof:name":"Charles Schwab & Co",
     "wof:parent_id":85868277,
     "wof:placetype":"venue",

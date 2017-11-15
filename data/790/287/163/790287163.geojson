@@ -2,9 +2,14 @@
   "id": 790287163,
   "type": "Feature",
   "properties": {
+    "addr:full":"805 S Division St Waunakee WI 53597",
+    "addr:housenumber":"805",
+    "addr:postcode":"53597",
+    "addr:street":"S Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.447038,43.186031,-89.447038,43.186031",
     "geom:latitude":43.186031,
     "geom:longitude":-89.447038,
@@ -27,12 +32,7 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QhIzU5NXDnSkqe4x0k9pt_43.186031_-89.447038@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462594663,
     "wof:geomhash":"a779084e56f54fabd196667bd4dc50f7",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790287163
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790287163,
-    "wof:lastmodified":1467090288,
+    "wof:lastmodified":1491935710,
     "wof:name":"Stewart Construction",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

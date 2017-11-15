@@ -2,14 +2,20 @@
   "id": 806926963,
   "type": "Feature",
   "properties": {
+    "addr:full":"541 Dunbar Ave Waukesha WI 53186",
+    "addr:housenumber":"541",
+    "addr:postcode":"53186",
+    "addr:street":"Dunbar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.241509,43.005233,-88.241509,43.005233",
     "geom:latitude":43.005233,
     "geom:longitude":-88.241509,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"541 Dunbar Ave",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125150487,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LQnqs7J4qVfldVsM7X4e4_43.005233_-88.241509@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602248,
-    "wof:geomhash":"76a2a3f11d5c7964b67caa12e97077b3",
+    "wof:geomhash":"fb4e6ed2e346790864b1a7e68dc7c9f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806926963,
-    "wof:lastmodified":1467090492,
+    "wof:lastmodified":1510699989,
     "wof:name":"Furniture Medic Inc",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",

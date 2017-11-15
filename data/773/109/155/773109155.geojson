@@ -2,14 +2,20 @@
   "id": 773109155,
   "type": "Feature",
   "properties": {
+    "addr:full":"860 N Rapids Rd Manitowoc WI 54220",
+    "addr:housenumber":"860",
+    "addr:postcode":"54220",
+    "addr:street":"N Rapids Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.70083,44.102028,-87.70083,44.102028",
     "geom:latitude":44.102028,
     "geom:longitude":-87.70083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"860 N Rapids Rd",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":1125152707,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mzO9n9SrbW89p2iZh30Kl_44.102028_-87.700830@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583215,
-    "wof:geomhash":"89dd87ae9934ee3feb21467cc35e5413",
+    "wof:geomhash":"15b7c043f0e8cdb693c692fad308de4f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773109155,
-    "wof:lastmodified":1467089963,
+    "wof:lastmodified":1510697050,
     "wof:name":"Financial Network Investment",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

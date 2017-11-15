@@ -2,14 +2,20 @@
   "id": 773241971,
   "type": "Feature",
   "properties": {
+    "addr:full":"3220 W National Ave Milwaukee WI 53215",
+    "addr:housenumber":"3220",
+    "addr:postcode":"53215",
+    "addr:street":"W National Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.954864,43.02185,-87.954864,43.02185",
     "geom:latitude":43.02185,
     "geom:longitude":-87.954864,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3220 W National Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125152131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5M3JM5aV4alrdj4oYRAJxI_43.021850_-87.954864@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584229,
-    "wof:geomhash":"dc1c80037304c63bfd0f40a14caa9cfb",
+    "wof:geomhash":"9f942798241bc78e715368a46685bd1a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773241971,
-    "wof:lastmodified":1467089999,
+    "wof:lastmodified":1510695269,
     "wof:name":"CTX Mortgage Co",
     "wof:parent_id":85870841,
     "wof:placetype":"venue",

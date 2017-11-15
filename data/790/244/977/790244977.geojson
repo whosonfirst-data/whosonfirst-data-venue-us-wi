@@ -2,9 +2,14 @@
   "id": 790244977,
   "type": "Feature",
   "properties": {
+    "addr:full":"199 Baldwin St Sharon WI 53585",
+    "addr:housenumber":"199",
+    "addr:postcode":"53585",
+    "addr:street":"Baldwin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.729133,42.502168,-88.729133,42.502168",
     "geom:latitude":42.502168,
     "geom:longitude":-88.729133,
@@ -34,7 +39,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494465,
+        85633793,
+        101732253,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PMiaUCoEkVwcn7YOt79yC_42.502168_-88.729133@1294253271"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1462594283,
     "wof:geomhash":"9c7ebfcbc92184c52a27ba5fe92424a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404494465,
+            "locality_id":101732253,
+            "region_id":85688517,
+            "venue_id":790244977
+        }
+    ],
     "wof:id":790244977,
-    "wof:lastmodified":1467090280,
+    "wof:lastmodified":1492098848,
     "wof:name":"A Norther Cup Coffee & Tea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

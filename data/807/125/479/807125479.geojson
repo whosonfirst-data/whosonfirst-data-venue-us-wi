@@ -2,14 +2,20 @@
   "id": 807125479,
   "type": "Feature",
   "properties": {
+    "addr:full":"2108 Kohler Memorial Dr Sheboygan WI 53081",
+    "addr:housenumber":"2108",
+    "addr:postcode":"53081",
+    "addr:street":"Memorial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.736923,43.756494,-87.736923,43.756494",
     "geom:latitude":43.756494,
     "geom:longitude":-87.736923,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2108 Kohler Memorial Dr",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":420574199,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Icc780dffv9QohfL0SL41_43.756494_-87.736923@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604005,
-    "wof:geomhash":"f7791208c5e52f4e2aa1f67b4f8f9f4f",
+    "wof:geomhash":"39bc8899e7e0ca336f3fef2a72d2ed59",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":807125479,
-    "wof:lastmodified":1467090544,
+    "wof:lastmodified":1510604851,
     "wof:name":"Miracle-Ear",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

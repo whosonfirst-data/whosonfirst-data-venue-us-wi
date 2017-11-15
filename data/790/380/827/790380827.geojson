@@ -2,9 +2,14 @@
   "id": 790380827,
   "type": "Feature",
   "properties": {
+    "addr:full":"131 Prairie St Sharon WI 53585",
+    "addr:housenumber":"131",
+    "addr:postcode":"53585",
+    "addr:street":"Prairie St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.732366,42.49424,-88.732366,42.49424",
     "geom:latitude":42.49424,
     "geom:longitude":-88.732366,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494465,
+        85633793,
+        101732253,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iZ0afRINNsSkJHd7prm9J_42.494240_-88.732366@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462595386,
     "wof:geomhash":"15ee691879e1b3af410b3dae90b34008",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404494465,
+            "locality_id":101732253,
+            "region_id":85688517,
+            "venue_id":790380827
+        }
+    ],
     "wof:id":790380827,
-    "wof:lastmodified":1467090307,
+    "wof:lastmodified":1492098849,
     "wof:name":"Stateline Mechanical Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

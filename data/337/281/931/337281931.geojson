@@ -2,9 +2,14 @@
   "id": 337281931,
   "type": "Feature",
   "properties": {
+    "addr:full":"4075 N 124th St Brookfield WI 53005",
+    "addr:housenumber":"4075",
+    "addr:postcode":"53005",
+    "addr:street":"N 124Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.066414,43.088984,-88.066414,43.088984",
     "geom:latitude":43.088984,
     "geom:longitude":-88.066414,
@@ -30,7 +35,12 @@
     "sg:website":"www.aegraphics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85870871,
+        102191575,
+        404492091,
         85633793,
+        101732987,
+        102081837,
         85688517
     ],
     "wof:breaches":[],
@@ -41,18 +51,20 @@
     "wof:geomhash":"146af82c9b4acbf996e0acc7188d85f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870871,
             "region_id":85688517,
             "venue_id":337281931
         }
     ],
     "wof:id":337281931,
-    "wof:lastmodified":1467089895,
+    "wof:lastmodified":1491898496,
     "wof:name":"A & E Graphics Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85870871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

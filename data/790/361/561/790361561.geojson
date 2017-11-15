@@ -2,9 +2,14 @@
   "id": 790361561,
   "type": "Feature",
   "properties": {
+    "addr:full":"3241 Co Hwy U Franksville WI 53126",
+    "addr:housenumber":"3241",
+    "addr:postcode":"53126",
+    "addr:street":"Co Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.012391,42.787394,-88.012391,42.787394",
     "geom:latitude":42.787394,
     "geom:longitude":-88.012391,
@@ -27,7 +32,10 @@
         "refrigeration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550141
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RM1uSkwZOYTTB8GIAvf21_42.787394_-88.012391@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462595240,
     "wof:geomhash":"53dd10c150df2f6c3380f6c34cda2d75",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550141,
+            "venue_id":790361561
+        }
+    ],
     "wof:id":790361561,
-    "wof:lastmodified":1467090303,
+    "wof:lastmodified":1492103437,
     "wof:name":"Brossman Refrigeration",
     "wof:parent_id":420550141,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806910847,
   "type": "Feature",
   "properties": {
+    "addr:full":"1015 S Holiday Dr Waunakee WI 53597",
+    "addr:housenumber":"1015",
+    "addr:postcode":"53597",
+    "addr:street":"S Holiday Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.4657,43.179378,-89.4657,43.179378",
     "geom:latitude":43.179378,
     "geom:longitude":-89.4657,
@@ -27,12 +32,7 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GfHSVq6DfdwJ2eHeo6Dje_43.179378_-89.465700@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462602103,
     "wof:geomhash":"330aefcc87f6703996c917e0aaa81cd8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806910847
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806910847,
-    "wof:lastmodified":1467090489,
+    "wof:lastmodified":1491935679,
     "wof:name":"Johnson & Johnson Consulting",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

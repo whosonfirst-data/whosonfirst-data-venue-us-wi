@@ -2,9 +2,14 @@
   "id": 806576119,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 Estate Ct Elkhorn WI 53121",
+    "addr:housenumber":"211",
+    "addr:postcode":"53121",
+    "addr:street":"Estate Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.547727,42.683786,-88.547727,42.683786",
     "geom:latitude":42.683786,
     "geom:longitude":-88.547727,
@@ -28,7 +33,10 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550193
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TMxudB1vdLz5VWC7ZO91X_42.683786_-88.547727@1294253271"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462599280,
     "wof:geomhash":"0c6eaf0d73c3cb13169e9c4da119125b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550193,
+            "venue_id":806576119
+        }
+    ],
     "wof:id":806576119,
-    "wof:lastmodified":1467090412,
+    "wof:lastmodified":1492111865,
     "wof:name":"Geneva Research",
     "wof:parent_id":420550193,
     "wof:placetype":"venue",

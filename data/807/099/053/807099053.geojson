@@ -2,9 +2,14 @@
   "id": 807099053,
   "type": "Feature",
   "properties": {
+    "addr:full":"9518 S Ryan Green Ct Franklin WI 53132",
+    "addr:housenumber":"9518",
+    "addr:postcode":"53132",
+    "addr:street":"S Ryan Green Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.965843,42.87158,-87.965843,42.87158",
     "geom:latitude":42.87158,
     "geom:longitude":-87.965843,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dNJVQgca4TdhdBj1v3TeX_42.871580_-87.965843@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462603710,
     "wof:geomhash":"cdfe257b5ee55c33c92def5be9edeaf8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":807099053
+        }
+    ],
     "wof:id":807099053,
-    "wof:lastmodified":1467090536,
+    "wof:lastmodified":1492103343,
     "wof:name":"Rice Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

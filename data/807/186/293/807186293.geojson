@@ -2,14 +2,20 @@
   "id": 807186293,
   "type": "Feature",
   "properties": {
+    "addr:full":"7450 Green Bay Rd Kenosha WI 53142",
+    "addr:housenumber":"7450",
+    "addr:postcode":"53142",
+    "addr:street":"Green Bay Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.886213,42.573522,-87.886213,42.573522",
     "geom:latitude":42.573522,
     "geom:longitude":-87.886213,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7450 Green Bay Rd",
     "sg:city":"Kenosha",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081309,
         85688517
     ],
+    "wof:brand_id":1125151233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y5qIx9b14FrdDYgVf1keH_42.573522_-87.886213@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604653,
-    "wof:geomhash":"485696db6c64c55cab029ea006728468",
+    "wof:geomhash":"0f3ae6388e7f1cd57df20f1538e929fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807186293,
-    "wof:lastmodified":1467090563,
+    "wof:lastmodified":1510694072,
     "wof:name":"Qualex Inc",
     "wof:parent_id":85852717,
     "wof:placetype":"venue",

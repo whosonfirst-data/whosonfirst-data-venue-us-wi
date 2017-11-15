@@ -2,9 +2,14 @@
   "id": 807179871,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 W Main St Waunakee WI 53597",
+    "addr:housenumber":"206",
+    "addr:postcode":"53597",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.456897,43.191893,-89.456897,43.191893",
     "geom:latitude":43.191893,
     "geom:longitude":-89.456897,
@@ -29,12 +34,7 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MNEegBsUIRBJKVlErx7C0_43.191893_-89.456897@1294253271"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462604584,
     "wof:geomhash":"0e254bb87c64b1161a4de036fed33dae",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807179871
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807179871,
-    "wof:lastmodified":1467090561,
+    "wof:lastmodified":1491935686,
     "wof:name":"Little Treasures Preschool",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

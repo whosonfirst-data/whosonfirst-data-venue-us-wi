@@ -2,9 +2,14 @@
   "id": 806593701,
   "type": "Feature",
   "properties": {
+    "addr:full":"2225 Eagle Dr Middleton WI 53562",
+    "addr:housenumber":"2225",
+    "addr:postcode":"53562",
+    "addr:street":"Eagle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.527683,43.100558,-89.527683,43.100558",
     "geom:latitude":43.100558,
     "geom:longitude":-89.527683,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"642ffaf042024b6406be22999ce3ab21",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":806593701,
-    "wof:lastmodified":1467090416,
+    "wof:lastmodified":1491894037,
     "wof:name":"Ball Body Shop Inc",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806490419,
   "type": "Feature",
   "properties": {
+    "addr:full":"216 Wausau Center Wausau WI 54403",
+    "addr:housenumber":"216",
+    "addr:postcode":"54403",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.62872,44.958687,-89.62872,44.958687",
     "geom:latitude":44.958687,
     "geom:longitude":-89.62872,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"216 Wausau Center",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081881,
         85868295
     ],
+    "wof:brand_id":420575197,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TSuA2zOBNyXFWYZmUsnlT_44.958687_-89.628720@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598545,
-    "wof:geomhash":"077943d1ccd6b07242b2138a0b6d4ffc",
+    "wof:geomhash":"2ee0a3095dd8f55c42bb13a5eb1ede0a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806490419,
-    "wof:lastmodified":1467090392,
+    "wof:lastmodified":1510602480,
     "wof:name":"Zales Jewelers",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",

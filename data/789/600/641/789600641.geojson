@@ -2,9 +2,14 @@
   "id": 789600641,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 Dover Ct Waunakee WI 53597",
+    "addr:housenumber":"1101",
+    "addr:postcode":"53597",
+    "addr:street":"Dover Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.44317,43.180344,-89.44317,43.180344",
     "geom:latitude":43.180344,
     "geom:longitude":-89.44317,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZmG2nqVMmfTx8EHndSlSi_43.180344_-89.443170@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462589073,
     "wof:geomhash":"d493814148c8241936ef56629b9230ea",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789600641
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789600641,
-    "wof:lastmodified":1467090153,
+    "wof:lastmodified":1491935725,
     "wof:name":"Wisconsin Fture Prblem Solving",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

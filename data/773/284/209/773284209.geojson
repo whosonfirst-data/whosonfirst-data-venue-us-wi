@@ -2,14 +2,20 @@
   "id": 773284209,
   "type": "Feature",
   "properties": {
+    "addr:full":"7600 W Layton Ave Milwaukee WI 53220",
+    "addr:housenumber":"7600",
+    "addr:postcode":"53220",
+    "addr:street":"W Layton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.014119,42.959243,-88.014119,42.959243",
     "geom:latitude":42.959243,
     "geom:longitude":-88.014119,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7600 W Layton Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         404492089,
         101733071
     ],
+    "wof:brand_id":1125151075,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0u2AqG9fr3ZUnT5nj6ZqBK_42.959243_-88.014119@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584552,
-    "wof:geomhash":"8b8ba7d6223d841fb01d2926c3670154",
+    "wof:geomhash":"217327d5a8de443e2770e2cf1cdc8f8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":773284209,
-    "wof:lastmodified":1467090014,
+    "wof:lastmodified":1510696087,
     "wof:name":"M & I Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

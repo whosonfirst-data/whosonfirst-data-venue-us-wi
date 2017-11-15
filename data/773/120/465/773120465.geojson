@@ -2,9 +2,14 @@
   "id": 773120465,
   "type": "Feature",
   "properties": {
+    "addr:full":"1541 Grosse Point Dr Middleton WI 53562",
+    "addr:housenumber":"1541",
+    "addr:postcode":"53562",
+    "addr:street":"Grosse Point Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.516691,43.089715,-89.516691,43.089715",
     "geom:latitude":43.089715,
     "geom:longitude":-89.516691,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"4ca14e5635ce4b20c414a2f093f17102",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":773120465,
-    "wof:lastmodified":1467089966,
+    "wof:lastmodified":1491894041,
     "wof:name":"Mojo Woodworks Inc",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

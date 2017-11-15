@@ -2,14 +2,20 @@
   "id": 789736013,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 5th Ave N La Crosse WI 54601",
+    "addr:housenumber":"130",
+    "addr:postcode":"54601",
+    "addr:street":"5Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.249375,43.812523,-91.249375,43.812523",
     "geom:latitude":43.812523,
     "geom:longitude":-91.249375,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"130 5th Ave N",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081301,
         85688517
     ],
+    "wof:brand_id":1125153857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aputkF0Hg78GSnZ0PoNHS_43.812523_-91.249375@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590145,
-    "wof:geomhash":"357e9d6e2d2c5819cd8973ee368bab5b",
+    "wof:geomhash":"bed34b25c9a6e7af38533d01ccf7d0e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789736013,
-    "wof:lastmodified":1467090181,
+    "wof:lastmodified":1510697164,
     "wof:name":"Cornerstone Community Church",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807107853,
   "type": "Feature",
   "properties": {
+    "addr:full":"2418 N New Franken Rd New Franken WI 54229",
+    "addr:housenumber":"2418",
+    "addr:postcode":"54229",
+    "addr:street":"N New Franken Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.825775,44.533964,-87.825775,44.533964",
     "geom:latitude":44.533964,
     "geom:longitude":-87.825775,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2418 N New Franken Rd",
     "sg:city":"New Franken",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85855119,
         102081867
     ],
+    "wof:brand_id":1125153959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lRtP0WJu1tJNabB2eAx2E_44.533964_-87.825775@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603814,
-    "wof:geomhash":"3b9799660490eeba811b87bbc5abbd03",
+    "wof:geomhash":"4c334cbd8ad958a91886cd5f58c49609",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":807107853,
-    "wof:lastmodified":1467090539,
+    "wof:lastmodified":1510700012,
     "wof:name":"Hair Depot",
     "wof:parent_id":85855119,
     "wof:placetype":"venue",

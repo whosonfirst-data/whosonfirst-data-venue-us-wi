@@ -2,9 +2,14 @@
   "id": 807308119,
   "type": "Feature",
   "properties": {
+    "addr:full":"3966 Maclean Rd Elkhorn WI 53121",
+    "addr:housenumber":"3966",
+    "addr:postcode":"53121",
+    "addr:street":"Maclean Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.495217,42.649703,-88.495217,42.649703",
     "geom:latitude":42.649703,
     "geom:longitude":-88.495217,
@@ -23,13 +28,7 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04JkWlz9SXQHXKO2RkmgHQ_42.649703_-88.495217@1294253271"
@@ -37,18 +36,9 @@
     "wof:country":"US",
     "wof:created":1462605939,
     "wof:geomhash":"c2b458a8683ee140ca7f2cd1b50e5903",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":807308119
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807308119,
-    "wof:lastmodified":1467090602,
+    "wof:lastmodified":1492098954,
     "wof:name":"Whispering Oat Farms Inc",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

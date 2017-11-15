@@ -2,9 +2,14 @@
   "id": 789882919,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 E Main St Waunakee WI 53597",
+    "addr:housenumber":"119",
+    "addr:postcode":"53597",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.453453,43.191988,-89.453453,43.191988",
     "geom:latitude":43.191988,
     "geom:longitude":-89.453453,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3N2bTflk13SZWePpxygrmT_43.191988_-89.453453@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462591316,
     "wof:geomhash":"5681e69bd781d5d4208b7bf37c55abc9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789882919
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789882919,
-    "wof:lastmodified":1467090209,
+    "wof:lastmodified":1491935683,
     "wof:name":"Wisconsin Agribusiness Council",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

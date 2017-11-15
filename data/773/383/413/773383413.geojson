@@ -2,9 +2,14 @@
   "id": 773383413,
   "type": "Feature",
   "properties": {
+    "addr:full":"2531 Lakeshore Dr Kansasville WI 53139",
+    "addr:housenumber":"2531",
+    "addr:postcode":"53139",
+    "addr:street":"Lakeshore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.133151,42.697271,-88.133151,42.697271",
     "geom:latitude":42.697271,
     "geom:longitude":-88.133151,
@@ -27,7 +32,10 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LuExwg8GGbfTFCRqyrraH_42.697271_-88.133151@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462585275,
     "wof:geomhash":"463f8911803431d77dc7131f0e462e4f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550143,
+            "venue_id":773383413
+        }
+    ],
     "wof:id":773383413,
-    "wof:lastmodified":1467090041,
+    "wof:lastmodified":1492103646,
     "wof:name":"Apollo Network Services",
     "wof:parent_id":420550143,
     "wof:placetype":"venue",

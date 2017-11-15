@@ -2,9 +2,14 @@
   "id": 773334719,
   "type": "Feature",
   "properties": {
+    "addr:full":"23514 31st St Salem WI 53168",
+    "addr:housenumber":"23514",
+    "addr:postcode":"53168",
+    "addr:street":"31St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.09669,42.612064,-88.09669,42.612064",
     "geom:latitude":42.612064,
     "geom:longitude":-88.09669,
@@ -24,7 +29,13 @@
     "sg:postcode":"53168",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404491699,
+        85633793,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7laBTGACUrIdhOotuWFgsS_42.612064_-88.096690@1294253271"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462584948,
     "wof:geomhash":"7f720ea15100386909b46c076c97eb95",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404491699,
+            "region_id":85688517,
+            "venue_id":773334719
+        }
+    ],
     "wof:id":773334719,
-    "wof:lastmodified":1467090029,
+    "wof:lastmodified":1492108863,
     "wof:name":"Willo Siberians",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

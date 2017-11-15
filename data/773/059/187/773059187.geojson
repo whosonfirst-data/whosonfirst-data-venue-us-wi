@@ -2,9 +2,14 @@
   "id": 773059187,
   "type": "Feature",
   "properties": {
+    "addr:full":"1510 Bradford Bay Waunakee WI 53597",
+    "addr:housenumber":"1510",
+    "addr:postcode":"53597",
+    "addr:street":"Bradford Bay",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.44574,43.175106,-89.44574,43.175106",
     "geom:latitude":43.175106,
     "geom:longitude":-89.44574,
@@ -27,12 +32,7 @@
         "physician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GE1IRJsHp5gaNudUhUtOo_43.175106_-89.445740@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462582837,
     "wof:geomhash":"861567deac8823fc88dcacf8be99f9f9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773059187
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773059187,
-    "wof:lastmodified":1467089951,
+    "wof:lastmodified":1491935700,
     "wof:name":"James P Thomas",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789987435,
   "type": "Feature",
   "properties": {
+    "addr:full":"545 W Dayton St Madison WI 53703",
+    "addr:housenumber":"545",
+    "addr:postcode":"53703",
+    "addr:street":"W Dayton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.395905,43.070875,-89.395905,43.070875",
     "geom:latitude":43.070875,
     "geom:longitude":-89.395905,
@@ -31,7 +36,9 @@
         85633793,
         101732721,
         102081795,
-        85688517
+        85688517,
+        85878887,
+        85868283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +57,32 @@
             "neighbourhood_id":85878863,
             "region_id":85688517,
             "venue_id":789987435
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85878887,
+            "region_id":85688517,
+            "venue_id":789987435
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":85868283,
+            "region_id":85688517,
+            "venue_id":789987435
         }
     ],
     "wof:id":789987435,
-    "wof:lastmodified":1467090229,
+    "wof:lastmodified":1491921804,
     "wof:name":"Business & Education Partner",
-    "wof:parent_id":85878863,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 807157547,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 John St Waunakee WI 53597",
+    "addr:housenumber":"801",
+    "addr:postcode":"53597",
+    "addr:street":"John St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.471083,43.189518,-89.471083,43.189518",
     "geom:latitude":43.189518,
     "geom:longitude":-89.471083,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Zl4KjkF8Zok1hj36k6duS_43.189518_-89.471083@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462604344,
     "wof:geomhash":"1bb08189b9cf7139b68ebe0fc2d0d8fe",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807157547
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807157547,
-    "wof:lastmodified":1467090554,
+    "wof:lastmodified":1491935696,
     "wof:name":"Banner Pest Control",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

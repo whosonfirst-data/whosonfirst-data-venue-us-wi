@@ -2,9 +2,14 @@
   "id": 806486449,
   "type": "Feature",
   "properties": {
+    "addr:full":"2897 High Rd Elkhorn WI 53121",
+    "addr:housenumber":"2897",
+    "addr:postcode":"53121",
+    "addr:street":"High Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.445044,42.775937,-88.445044,42.775937",
     "geom:latitude":42.775937,
     "geom:longitude":-88.445044,
@@ -27,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494469,
+        85633793,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12SH9Sntx00YiypWMVI2QQ_42.775937_-88.445044@1294253271"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462598518,
     "wof:geomhash":"cbc18358227ce5f62428b3888ea9d72f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404494469,
+            "region_id":85688517,
+            "venue_id":806486449
+        }
+    ],
     "wof:id":806486449,
-    "wof:lastmodified":1467090391,
+    "wof:lastmodified":1492098707,
     "wof:name":"Capital Missions Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

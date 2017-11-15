@@ -2,9 +2,14 @@
   "id": 807256993,
   "type": "Feature",
   "properties": {
+    "addr:full":"1817 Milldrum St Union Grove WI 53182",
+    "addr:housenumber":"1817",
+    "addr:postcode":"53182",
+    "addr:street":"Milldrum St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.048167,42.674333,-88.048167,42.674333",
     "geom:latitude":42.674333,
     "geom:longitude":-88.048167,
@@ -33,7 +38,14 @@
         "music"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494991,
+        85633793,
+        101732347,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HyFf7laRIrxwDxbkH0SVA_42.674333_-88.048167@1294253271"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1462605399,
     "wof:geomhash":"7b768c92a4ba65f1e8f11131de87f62d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494991,
+            "locality_id":101732347,
+            "region_id":85688517,
+            "venue_id":807256993
+        }
+    ],
     "wof:id":807256993,
-    "wof:lastmodified":1467090585,
+    "wof:lastmodified":1492103393,
     "wof:name":"T W Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789584367,
   "type": "Feature",
   "properties": {
+    "addr:full":"2613 Seiferth Rd Madison WI 53716",
+    "addr:housenumber":"",
+    "addr:postcode":"2613;53716",
+    "addr:street":"Seiferth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.307454,43.062118,-89.307454,43.062118",
     "geom:latitude":43.062118,
     "geom:longitude":-89.307454,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2613 Seiferth Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125158051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oK2lCCN77WxyDhUyTApmq_43.062118_-89.307454@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588942,
-    "wof:geomhash":"f279e24241e3123ee69c05c2c2637f9d",
+    "wof:geomhash":"9fce0bfa28aa56c717bfd0d3e084a378",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":789584367,
-    "wof:lastmodified":1467090150,
+    "wof:lastmodified":1510694793,
     "wof:name":"CAM Bar",
     "wof:parent_id":85878847,
     "wof:placetype":"venue",

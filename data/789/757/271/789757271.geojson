@@ -2,9 +2,14 @@
   "id": 789757271,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Kingston Way Waunakee WI 53597",
+    "addr:housenumber":"104",
+    "addr:postcode":"53597",
+    "addr:street":"Kingston Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.455479,43.1816,-89.455479,43.1816",
     "geom:latitude":43.1816,
     "geom:longitude":-89.455479,
@@ -27,12 +32,7 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jS3VF6Stx6hDE7cHEM9vr_43.181600_-89.455479@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462590309,
     "wof:geomhash":"548775acd89d3f0150621ab54fc20454",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789757271
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789757271,
-    "wof:lastmodified":1467090185,
+    "wof:lastmodified":1491935719,
     "wof:name":"Transportation Issues",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

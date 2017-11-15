@@ -2,9 +2,14 @@
   "id": 806403163,
   "type": "Feature",
   "properties": {
+    "addr:full":"5500 Martha Dr New Berlin WI 53146",
+    "addr:housenumber":"5500",
+    "addr:postcode":"53146",
+    "addr:street":"Martha Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.150156,42.944728,-88.150156,42.944728",
     "geom:latitude":42.944728,
     "geom:longitude":-88.150156,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85868297,
+        102191575,
+        404495657,
         85633793,
         101733509,
         102081741,
-        85868297
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"9da900a0cad42042697b950bd35b5485",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081741,
+            "localadmin_id":404495657,
             "locality_id":101733509,
             "neighbourhood_id":85868297,
             "region_id":85688517,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":806403163,
-    "wof:lastmodified":1467090371,
+    "wof:lastmodified":1492108908,
     "wof:name":"Applebeck Studios LTD",
     "wof:parent_id":85868297,
     "wof:placetype":"venue",

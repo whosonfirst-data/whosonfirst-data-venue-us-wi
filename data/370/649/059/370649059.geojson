@@ -2,14 +2,20 @@
   "id": 370649059,
   "type": "Feature",
   "properties": {
+    "addr:full":"145 S Main St West Bend WI 53095",
+    "addr:housenumber":"145",
+    "addr:postcode":"53095",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.182224,43.423108,-88.182224,43.423108",
     "geom:latitude":43.423108,
     "geom:longitude":-88.182224,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"145 S Main St",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -38,12 +44,13 @@
         102081745,
         85859413
     ],
+    "wof:brand_id":1125151617,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rXQujeYBe9rkzMb19i0SP_43.423108_-88.182224@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff802a628effbff5fb515bd4f2a0c87b",
+    "wof:geomhash":"1fabe9f4bea92023b627baca61f10826",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":370649059,
-    "wof:lastmodified":1467089904,
+    "wof:lastmodified":1510696953,
     "wof:name":"Wachovia Securities LLC",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",

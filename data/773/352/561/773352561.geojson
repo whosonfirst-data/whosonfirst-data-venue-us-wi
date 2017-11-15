@@ -2,14 +2,20 @@
   "id": 773352561,
   "type": "Feature",
   "properties": {
+    "addr:full":"6300 W Douglas Ave Milwaukee WI 53218",
+    "addr:housenumber":"6300",
+    "addr:postcode":"53218",
+    "addr:street":"W Douglas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.987924,43.129567,-87.987924,43.129567",
     "geom:latitude":43.129567,
     "geom:longitude":-87.987924,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6300 W Douglas Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125151471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RbjGLV6CRLEgTgiZJ9iDP_43.129567_-87.987924@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585064,
-    "wof:geomhash":"3d6cbc07a54bce690da08b2bafbb0648",
+    "wof:geomhash":"a420d6a013e1a3640641927e58f6aa4e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773352561,
-    "wof:lastmodified":1467090033,
+    "wof:lastmodified":1510698972,
     "wof:name":"Hertz Equipment Rental",
     "wof:parent_id":85870805,
     "wof:placetype":"venue",

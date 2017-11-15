@@ -2,14 +2,20 @@
   "id": 807024455,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 Johnston Dr Manitowoc WI 54220",
+    "addr:housenumber":"2101",
+    "addr:postcode":"54220",
+    "addr:street":"Johnston Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.640413,44.126423,-87.640413,44.126423",
     "geom:latitude":44.126423,
     "geom:longitude":-87.640413,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2101 Johnston Dr",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":1125152639,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7L9IgcBvBzbW53DoPJt8tM_44.126423_-87.640413@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603073,
-    "wof:geomhash":"99a0980a3e446e1402303a9551d64058",
+    "wof:geomhash":"c2d7c92c61a3d90435447cb1b96e2110",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807024455,
-    "wof:lastmodified":1467090515,
+    "wof:lastmodified":1510697378,
     "wof:name":"Berean Baptist Church",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

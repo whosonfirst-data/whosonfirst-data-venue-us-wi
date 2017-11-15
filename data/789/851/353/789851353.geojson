@@ -2,9 +2,14 @@
   "id": 789851353,
   "type": "Feature",
   "properties": {
+    "addr:full":"703 Lochmoore Dr Waunakee WI 53597",
+    "addr:housenumber":"703",
+    "addr:postcode":"53597",
+    "addr:street":"Lochmoore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.460052,43.202602,-89.460052,43.202602",
     "geom:latitude":43.202602,
     "geom:longitude":-89.460052,
@@ -28,12 +33,7 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5T6IrtBRE3q7TIBWlnWLZq_43.202602_-89.460052@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462591037,
     "wof:geomhash":"40ea1f564f50ae79e59ed7616de5c4ca",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789851353
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789851353,
-    "wof:lastmodified":1467090203,
+    "wof:lastmodified":1491935714,
     "wof:name":"Shawn Smith Builders",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

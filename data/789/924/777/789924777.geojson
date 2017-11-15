@@ -2,9 +2,14 @@
   "id": 789924777,
   "type": "Feature",
   "properties": {
+    "addr:full":"1120 Waukesha Rd Caledonia WI 53108",
+    "addr:housenumber":"1120",
+    "addr:postcode":"53108",
+    "addr:street":"Waukesha Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.00777,42.825876,-88.00777,42.825876",
     "geom:latitude":42.825876,
     "geom:longitude":-88.00777,
@@ -24,7 +29,10 @@
     "sg:postcode":"53108",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550141
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lbV3egKNcXpg4zAohy509_42.825876_-88.007770@1294253271"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462591662,
     "wof:geomhash":"b0bb4f33c67baf7ac7ac5e36775d5c26",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550141,
+            "venue_id":789924777
+        }
+    ],
     "wof:id":789924777,
-    "wof:lastmodified":1467090217,
+    "wof:lastmodified":1492098692,
     "wof:name":"Keith Fehl",
     "wof:parent_id":420550141,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387042549,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 South St Waunakee WI 53597",
+    "addr:housenumber":"209",
+    "addr:postcode":"53597",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.455053,43.19032,-89.455053,43.19032",
     "geom:latitude":43.19032,
     "geom:longitude":-89.455053,
@@ -24,31 +29,16 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        102081795,
-        85868279
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eQssVsCOTGqRWmeC5mXwz_43.190320_-89.455053@1294253271"
     },
     "wof:country":"US",
     "wof:geomhash":"dfe16d091e81fbcadb4275682d4b2a50",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081795,
-            "locality_id":-1,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":387042549
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":387042549,
-    "wof:lastmodified":1467089930,
+    "wof:lastmodified":1491935713,
     "wof:name":"Saint John Church & School",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

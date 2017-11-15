@@ -2,9 +2,14 @@
   "id": 387617719,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Uniek Dr Waunakee WI 53597",
+    "addr:housenumber":"900",
+    "addr:postcode":"53597",
+    "addr:street":"Uniek Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.436904,43.182328,-89.436904,43.182328",
     "geom:latitude":43.182328,
     "geom:longitude":-89.436904,
@@ -29,31 +34,16 @@
         "contract"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        102081795,
-        85868279
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ola7HmUAUNWGWUT4XqeXk_43.182328_-89.436904@1294253271"
     },
     "wof:country":"US",
     "wof:geomhash":"e316106d6c273320af7e042baa94f8b9",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081795,
-            "locality_id":-1,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":387617719
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":387617719,
-    "wof:lastmodified":1467089922,
+    "wof:lastmodified":1491935699,
     "wof:name":"Madison Freight Systems Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

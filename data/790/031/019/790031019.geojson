@@ -2,9 +2,14 @@
   "id": 790031019,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 Charleston Cir Waunakee WI 53597",
+    "addr:housenumber":"1600",
+    "addr:postcode":"53597",
+    "addr:street":"Charleston Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.438941,43.17196,-89.438941,43.17196",
     "geom:latitude":43.17196,
     "geom:longitude":-89.438941,
@@ -28,12 +33,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ASiUcEsHxZSiZbG67HSk0_43.171960_-89.438941@1294253271"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462592580,
     "wof:geomhash":"d6406c7bf778a8865ce01504604c652c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790031019
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790031019,
-    "wof:lastmodified":1467090238,
+    "wof:lastmodified":1491935693,
     "wof:name":"Cottage Mills LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

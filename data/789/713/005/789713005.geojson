@@ -2,9 +2,14 @@
   "id": 789713005,
   "type": "Feature",
   "properties": {
+    "addr:full":"114 E Main St Waunakee WI 53597",
+    "addr:housenumber":"114",
+    "addr:postcode":"53597",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.453421,43.191837,-89.453421,43.191837",
     "geom:latitude":43.191837,
     "geom:longitude":-89.453421,
@@ -25,12 +30,7 @@
     "sg:province":"WI",
     "sg:website":"www.doitbest.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QlpcrchWIbpT4I90wxioY_43.191837_-89.453421@1294253271"
@@ -38,17 +38,9 @@
     "wof:country":"US",
     "wof:created":1462589959,
     "wof:geomhash":"0803ef96ed67cd95404ce0c8c68aa515",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789713005
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789713005,
-    "wof:lastmodified":1467090176,
+    "wof:lastmodified":1491935687,
     "wof:name":"Koltes Lumber Co",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

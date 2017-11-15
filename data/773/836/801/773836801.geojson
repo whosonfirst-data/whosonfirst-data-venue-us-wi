@@ -2,14 +2,20 @@
   "id": 773836801,
   "type": "Feature",
   "properties": {
+    "addr:full":"8942 W Schlinger Ave Milwaukee WI 53214",
+    "addr:housenumber":"8942",
+    "addr:postcode":"53214",
+    "addr:street":"W Schlinger Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.024643,43.023907,-88.024643,43.023907",
     "geom:latitude":43.023907,
     "geom:longitude":-88.024643,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8942 W Schlinger Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125157791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aD8fQHSTltZ6uua8pkrnK_43.023907_-88.024643@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588778,
-    "wof:geomhash":"2ce46a4d19979757628f034483fc7261",
+    "wof:geomhash":"4278d6c4504e7e5d47597fd285c6b99d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773836801,
-    "wof:lastmodified":1467090145,
+    "wof:lastmodified":1510698902,
     "wof:name":"CH2M Hill",
     "wof:parent_id":420550045,
     "wof:placetype":"venue",

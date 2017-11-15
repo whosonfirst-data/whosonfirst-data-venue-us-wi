@@ -2,14 +2,20 @@
   "id": 789606465,
   "type": "Feature",
   "properties": {
+    "addr:full":"3465 S 35th St Milwaukee WI 53215",
+    "addr:housenumber":"3465",
+    "addr:postcode":"53215",
+    "addr:street":"S 35Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.958261,42.981601,-87.958261,42.981601",
     "geom:latitude":42.981601,
     "geom:longitude":-87.958261,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3465 S 35th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125155841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BwRjJ918rvpqnWdUhweso_42.981601_-87.958261@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462589114,
-    "wof:geomhash":"9a470b00c7ebc133333b7a25fd0f89d6",
+    "wof:geomhash":"6f12758c96e2364b9d16ae8a75825768",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789606465,
-    "wof:lastmodified":1467090155,
+    "wof:lastmodified":1510697488,
     "wof:name":"Sentry Insurance Co",
     "wof:parent_id":420550023,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806738025,
   "type": "Feature",
   "properties": {
+    "addr:full":"883 N High Point Rd Madison WI 53717",
+    "addr:housenumber":"883",
+    "addr:postcode":"53717",
+    "addr:street":"N High Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.518667,43.078417,-89.518667,43.078417",
     "geom:latitude":43.078417,
     "geom:longitude":-89.518667,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"5243b2aac228e3ab55c4c3bd37fb3a55",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":806738025,
-    "wof:lastmodified":1467090450,
+    "wof:lastmodified":1491894058,
     "wof:name":"Odd Volume",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

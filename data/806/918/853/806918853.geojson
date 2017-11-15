@@ -2,9 +2,14 @@
   "id": 806918853,
   "type": "Feature",
   "properties": {
+    "addr:full":"5408 26th St Kenosha WI 53144",
+    "addr:housenumber":"5408",
+    "addr:postcode":"53144",
+    "addr:street":"26Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.873189,42.614626,-87.873189,42.614626",
     "geom:latitude":42.614626,
     "geom:longitude":-87.873189,
@@ -30,7 +35,14 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493393,
+        85633793,
+        101732567,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6C3ivnWFS4KzMnQtCB91ud_42.614626_-87.873189@1294253271"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462602164,
     "wof:geomhash":"49cec8570b9f95b400d26cb845425489",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493393,
+            "locality_id":101732567,
+            "region_id":85688517,
+            "venue_id":806918853
+        }
+    ],
     "wof:id":806918853,
-    "wof:lastmodified":1467090490,
+    "wof:lastmodified":1492111878,
     "wof:name":"Terrell Builders LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

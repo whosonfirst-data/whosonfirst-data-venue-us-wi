@@ -2,9 +2,14 @@
   "id": 806676389,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 Klein Dr Waunakee WI 53597",
+    "addr:housenumber":"209",
+    "addr:postcode":"53597",
+    "addr:street":"Klein Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.463397,43.191428,-89.463397,43.191428",
     "geom:latitude":43.191428,
     "geom:longitude":-89.463397,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kafYOEpij6cOZc4FfBf5k_43.191428_-89.463397@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462600139,
     "wof:geomhash":"1ebe9ad416722ad9040d425a41d84f03",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806676389
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806676389,
-    "wof:lastmodified":1467090435,
+    "wof:lastmodified":1491935729,
     "wof:name":"Dan Arnold Insurance",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

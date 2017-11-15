@@ -2,9 +2,14 @@
   "id": 371040187,
   "type": "Feature",
   "properties": {
+    "addr:full":"5540 State Rd 50 Delavan WI 53115",
+    "addr:housenumber":"5540;50",
+    "addr:postcode":"53115",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.594798,42.627971,-88.594798,42.627971",
     "geom:latitude":42.627971,
     "geom:longitude":-88.594798,
@@ -43,7 +48,6 @@
     "wof:geomhash":"245e4adbfeb052a844c83c2e37559e5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081883,
             "locality_id":101733549,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":371040187,
-    "wof:lastmodified":1467089914,
+    "wof:lastmodified":1492108874,
     "wof:name":"Northland Neurology",
     "wof:parent_id":85829149,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169858583,
   "type": "Feature",
   "properties": {
+    "addr:full":"8027 W Woodland Ave Milwaukee WI 53213",
+    "addr:housenumber":"8027",
+    "addr:postcode":"53213",
+    "addr:street":"W Woodland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.013127,43.056272,-88.013127,43.056272",
     "geom:latitude":43.056272,
     "geom:longitude":-88.013127,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870835,
+        102191575,
+        404492091,
         85633793,
-        101733089,
+        101732987,
         102081837,
-        85870835
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"5074deea548eb813b6894eba55588707",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":101733089,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870835,
             "region_id":85688517,
             "venue_id":169858583
         }
     ],
     "wof:id":169858583,
-    "wof:lastmodified":1467089908,
+    "wof:lastmodified":1491905778,
     "wof:name":"Creative Packaging Inc",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",

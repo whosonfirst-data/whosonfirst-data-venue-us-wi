@@ -2,9 +2,14 @@
   "id": 773362491,
   "type": "Feature",
   "properties": {
+    "addr:full":"7309 W Old Sauk Rd Middleton WI 53562",
+    "addr:housenumber":"7309",
+    "addr:postcode":"53562",
+    "addr:street":"W Old Sauk Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.545614,43.074692,-89.545614,43.074692",
     "geom:latitude":43.074692,
     "geom:longitude":-89.545614,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"5ceb373ac2e940583380f9c581d143d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":773362491,
-    "wof:lastmodified":1467090036,
+    "wof:lastmodified":1491894029,
     "wof:name":"Sew Biz Plus",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

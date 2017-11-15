@@ -2,9 +2,14 @@
   "id": 370198655,
   "type": "Feature",
   "properties": {
+    "addr:full":"7244 N 38th St Milwaukee WI 53209",
+    "addr:housenumber":"7244",
+    "addr:postcode":"53209",
+    "addr:street":"N 38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.959075,43.149323,-87.959075,43.149323",
     "geom:latitude":43.149323,
     "geom:longitude":-87.959075,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870811,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870811
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"7894e1faf1ef9634d6fee0a1b14a5df9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870811,
             "region_id":85688517,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":370198655,
-    "wof:lastmodified":1467089901,
+    "wof:lastmodified":1491915710,
     "wof:name":"WV Furniture Service",
     "wof:parent_id":85870811,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806830905,
   "type": "Feature",
   "properties": {
+    "addr:full":"5617 E Peninsula Rd Waterford WI 53185",
+    "addr:housenumber":"5617",
+    "addr:postcode":"53185",
+    "addr:street":"E Peninsula Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.216678,42.792111,-88.216678,42.792111",
     "geom:latitude":42.792111,
     "geom:longitude":-88.216678,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494995,
+        85633793,
+        101733611,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3j2VhfYKdNpUUvw8o62C1S_42.792111_-88.216678@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462601432,
     "wof:geomhash":"86de1cfdf46cd8dfb17289ff01236636",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494995,
+            "locality_id":101733611,
+            "region_id":85688517,
+            "venue_id":806830905
+        }
+    ],
     "wof:id":806830905,
-    "wof:lastmodified":1467090471,
+    "wof:lastmodified":1492103438,
     "wof:name":"J&J Custom Finishing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

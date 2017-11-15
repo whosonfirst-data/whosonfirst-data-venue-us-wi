@@ -2,9 +2,14 @@
   "id": 387422547,
   "type": "Feature",
   "properties": {
+    "addr:full":"354 E National Ave Milwaukee WI 53204",
+    "addr:housenumber":"354",
+    "addr:postcode":"53204",
+    "addr:street":"E National Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.906474,43.02327,-87.906474,43.02327",
     "geom:latitude":43.02327,
     "geom:longitude":-87.906474,
@@ -25,12 +30,14 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85867287,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870925,
-        85867287
+        85688517,
+        85870925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,28 +47,30 @@
     "wof:geomhash":"0850585edb3d742ab84acde279f4fb27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
-            "neighbourhood_id":85870925,
+            "neighbourhood_id":85867287,
             "region_id":85688517,
             "venue_id":387422547
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
-            "neighbourhood_id":85867287,
+            "neighbourhood_id":85870925,
             "region_id":85688517,
             "venue_id":387422547
         }
     ],
     "wof:id":387422547,
-    "wof:lastmodified":1467089922,
+    "wof:lastmodified":1491896317,
     "wof:name":"Milwaukee's Firehouse Pub",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

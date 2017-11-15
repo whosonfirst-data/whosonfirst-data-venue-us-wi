@@ -2,14 +2,20 @@
   "id": 806511659,
   "type": "Feature",
   "properties": {
+    "addr:full":"4827 E 2nd St Superior WI 54880",
+    "addr:housenumber":"4827",
+    "addr:postcode":"54880",
+    "addr:street":"E 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.011255,46.678569,-92.011255,46.678569",
     "geom:latitude":46.678569,
     "geom:longitude":-92.011255,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4827 E 2nd St",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081291,
         85827153
     ],
+    "wof:brand_id":1125151363,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aqj8FOfXoV5FdRJdQyZnp_46.678569_-92.011255@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598728,
-    "wof:geomhash":"be875d86f60990d3f10620cd105a1134",
+    "wof:geomhash":"15710443b79efc655dd61f96495accc6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806511659,
-    "wof:lastmodified":1467090397,
+    "wof:lastmodified":1510696779,
     "wof:name":"Holiday Station Store",
     "wof:parent_id":85827153,
     "wof:placetype":"venue",

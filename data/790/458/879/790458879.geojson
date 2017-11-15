@@ -2,9 +2,14 @@
   "id": 790458879,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 Eagle Dr Middleton WI 53562",
+    "addr:housenumber":"2101",
+    "addr:postcode":"53562",
+    "addr:street":"Eagle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.527762,43.098431,-89.527762,43.098431",
     "geom:latitude":43.098431,
     "geom:longitude":-89.527762,
@@ -32,11 +37,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517,
+        85841479,
+        404493275,
+        101732813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +57,30 @@
     "wof:geomhash":"56bfbfeec31c228d8b11538069e66083",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
+            "region_id":85688517,
+            "venue_id":790458879
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404493275,
+            "locality_id":101732813,
+            "neighbourhood_id":85841479,
             "region_id":85688517,
             "venue_id":790458879
         }
     ],
     "wof:id":790458879,
-    "wof:lastmodified":1467090322,
+    "wof:lastmodified":1491894030,
     "wof:name":"Fastenal Company",
-    "wof:parent_id":85878843,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

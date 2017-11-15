@@ -2,14 +2,20 @@
   "id": 807024569,
   "type": "Feature",
   "properties": {
+    "addr:full":"1302 Blackhawk Trl Waukesha WI 53186",
+    "addr:housenumber":"1302",
+    "addr:postcode":"53186",
+    "addr:street":"Blackhawk Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.203419,42.990865,-88.203419,42.990865",
     "geom:latitude":42.990865,
     "geom:longitude":-88.203419,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1302 Blackhawk Trl",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081741,
         85868297
     ],
+    "wof:brand_id":1125150593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zd86OwelmBHRiSN1HcBIF_42.990865_-88.203419@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603073,
-    "wof:geomhash":"bb28a57c6ed98e69c59c6ba2db2d7501",
+    "wof:geomhash":"17cbcd10bbe90ae7a390861e6dcbe747",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807024569,
-    "wof:lastmodified":1467090515,
+    "wof:lastmodified":1510613420,
     "wof:name":"Lutheran Social Svc",
     "wof:parent_id":85868297,
     "wof:placetype":"venue",

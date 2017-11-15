@@ -2,14 +2,20 @@
   "id": 773430533,
   "type": "Feature",
   "properties": {
+    "addr:full":"397 Woodfield Dr Green Bay WI 54313",
+    "addr:housenumber":"397",
+    "addr:postcode":"54313",
+    "addr:street":"Woodfield Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.08817,44.55218,-88.08817,44.55218",
     "geom:latitude":44.55218,
     "geom:longitude":-88.08817,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"397 Woodfield Dr",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125157895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UB3qE37ekRsOK71MXsbjy_44.552180_-88.088170@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585673,
-    "wof:geomhash":"2fa703d9024f37bdd4a86f9a55c1ba34",
+    "wof:geomhash":"2800daa9f84a3ca1ac2fdefd5f1aaa31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773430533,
-    "wof:lastmodified":1467090052,
+    "wof:lastmodified":1510694207,
     "wof:name":"Longaberger",
     "wof:parent_id":85817867,
     "wof:placetype":"venue",

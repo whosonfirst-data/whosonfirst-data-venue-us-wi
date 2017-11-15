@@ -2,9 +2,14 @@
   "id": 806469919,
   "type": "Feature",
   "properties": {
+    "addr:full":"705 Country Aire Ct Waunakee WI 53597",
+    "addr:housenumber":"705",
+    "addr:postcode":"53597",
+    "addr:street":"Country Aire Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.464834,43.185507,-89.464834,43.185507",
     "geom:latitude":43.185507,
     "geom:longitude":-89.464834,
@@ -29,12 +34,7 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EBxVL6HYVCg3RdV90W5ne_43.185507_-89.464834@1294253271"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462598389,
     "wof:geomhash":"e9cd945cd4c8a2e22e8e16412e7861ab",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806469919
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806469919,
-    "wof:lastmodified":1467090387,
+    "wof:lastmodified":1491935703,
     "wof:name":"Stenciling By Victoria",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

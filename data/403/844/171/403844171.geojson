@@ -2,14 +2,20 @@
   "id": 403844171,
   "type": "Feature",
   "properties": {
+    "addr:full":"2822 Tower Ave Superior WI 54880",
+    "addr:housenumber":"2822",
+    "addr:postcode":"54880",
+    "addr:street":"Tower Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.103947,46.706001,-92.103947,46.706001",
     "geom:latitude":46.706001,
     "geom:longitude":-92.103947,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2822 Tower Ave",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         101732327,
         102081291
     ],
+    "wof:brand_id":1125154343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xiuZTj0UqEnbMgNERQ10D_46.706001_-92.103947@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"c6446ef64b64c9294179ac391bcf7e23",
+    "wof:geomhash":"a071b3fdc8673a4077fafae020a07cf3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":403844171,
-    "wof:lastmodified":1467089919,
+    "wof:lastmodified":1510698938,
     "wof:name":"National Bank Of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

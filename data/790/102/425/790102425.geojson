@@ -2,9 +2,14 @@
   "id": 790102425,
   "type": "Feature",
   "properties": {
+    "addr:full":"817 Centennial Pkwy Waunakee WI 53597",
+    "addr:housenumber":"817",
+    "addr:postcode":"53597",
+    "addr:street":"Centennial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.464678,43.181668,-89.464678,43.181668",
     "geom:latitude":43.181668,
     "geom:longitude":-89.464678,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vdNKMtznqr2pof4ueKvGt_43.181668_-89.464678@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462593157,
     "wof:geomhash":"f1cb97d741182be3d5c2dbd5e389a0c5",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790102425
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790102425,
-    "wof:lastmodified":1467090252,
+    "wof:lastmodified":1491935712,
     "wof:name":"Marvin Greiber LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790583943,
   "type": "Feature",
   "properties": {
+    "addr:full":"8923 W Brown Deer Rd Milwaukee WI 53224",
+    "addr:housenumber":"8923",
+    "addr:postcode":"53224",
+    "addr:street":"W Brown Deer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.019476,43.177693,-88.019476,43.177693",
     "geom:latitude":43.177693,
     "geom:longitude":-88.019476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8923 W Brown Deer Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125155471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wHJ2iRGM39YY04yyHcaG7_43.177693_-88.019476@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462597076,
-    "wof:geomhash":"1b50fc743e31f8c9b45444a4a3560c54",
+    "wof:geomhash":"724f60e0ea857f84bf384e8456e09097",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790583943,
-    "wof:lastmodified":1467090351,
+    "wof:lastmodified":1510612912,
     "wof:name":"Concentra Medical Center",
     "wof:parent_id":420550085,
     "wof:placetype":"venue",

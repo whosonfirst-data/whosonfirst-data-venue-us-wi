@@ -2,14 +2,20 @@
   "id": 773196423,
   "type": "Feature",
   "properties": {
+    "addr:full":"275 W Capitol Dr Milwaukee WI 53212",
+    "addr:housenumber":"275",
+    "addr:postcode":"53212",
+    "addr:street":"W Capitol Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.912708,43.089205,-87.912708,43.089205",
     "geom:latitude":43.089205,
     "geom:longitude":-87.912708,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"275 W Capitol Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125155729,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MvXoUtOZR0WnBRzxSZpQ0_43.089205_-87.912708@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583901,
-    "wof:geomhash":"9cbf6d12c62bd667c4d6c05abac91740",
+    "wof:geomhash":"73e74dc9f3d015da514dd02d29e70bad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773196423,
-    "wof:lastmodified":1467089985,
+    "wof:lastmodified":1510697286,
     "wof:name":"Carriage Cleaners",
     "wof:parent_id":85870941,
     "wof:placetype":"venue",

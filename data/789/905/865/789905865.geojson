@@ -2,14 +2,20 @@
   "id": 789905865,
   "type": "Feature",
   "properties": {
+    "addr:full":"1613 Freedom Ct Manitowoc WI 54228",
+    "addr:housenumber":"1613",
+    "addr:postcode":"54228",
+    "addr:street":"Freedom Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.638668,44.322139,-87.638668,44.322139",
     "geom:latitude":44.322139,
     "geom:longitude":-87.638668,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1613 Freedom Ct",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081871,
         85827947
     ],
+    "wof:brand_id":1125154979,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tSJ6Ur8oUE6G8YU1iM3IS_44.322139_-87.638668@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591492,
-    "wof:geomhash":"f0e30c321071eb05819373a544154406",
+    "wof:geomhash":"b77b53a9eb1a76ed0959b05f13abab2a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789905865,
-    "wof:lastmodified":1467090213,
+    "wof:lastmodified":1510613156,
     "wof:name":"Creative Solutions",
     "wof:parent_id":85827947,
     "wof:placetype":"venue",

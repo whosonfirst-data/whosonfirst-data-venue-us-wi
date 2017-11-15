@@ -2,6 +2,10 @@
   "id": 807250643,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 Eastman St Oshkosh WI 54901",
+    "addr:housenumber":"1234",
+    "addr:postcode":"54901",
+    "addr:street":"Eastman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":807250643,
-    "wof:lastmodified":1467090583,
+    "wof:lastmodified":1472654346,
     "wof:name":"Dutchman Painting",
     "wof:parent_id":85845403,
     "wof:placetype":"venue",

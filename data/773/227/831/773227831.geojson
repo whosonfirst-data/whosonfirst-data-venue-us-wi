@@ -2,9 +2,14 @@
   "id": 773227831,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 W Main St Waunakee WI 53597",
+    "addr:housenumber":"124",
+    "addr:postcode":"53597",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.455394,43.191871,-89.455394,43.191871",
     "geom:latitude":43.191871,
     "geom:longitude":-89.455394,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iZkVDPGpFCgWlu2wgSnJ0_43.191871_-89.455394@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462584127,
     "wof:geomhash":"817538f77dd24b071c052333201d55be",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773227831
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773227831,
-    "wof:lastmodified":1467089995,
+    "wof:lastmodified":1491935682,
     "wof:name":"Hydro Tech-Rainbow",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

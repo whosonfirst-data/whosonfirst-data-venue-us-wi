@@ -2,14 +2,20 @@
   "id": 790042603,
   "type": "Feature",
   "properties": {
+    "addr:full":"2701 N Richmond St Appleton WI 54911",
+    "addr:housenumber":"2701",
+    "addr:postcode":"54911",
+    "addr:street":"N Richmond St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.41578,44.286654,-88.41578,44.286654",
     "geom:latitude":44.286654,
     "geom:longitude":-88.41578,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2701 N Richmond St",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125153147,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bq3yrxlZY4IyidVGPHPdZ_44.286654_-88.415780@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592662,
-    "wof:geomhash":"5c83967a9bd4d2eac92d0c217b6cae8b",
+    "wof:geomhash":"aee4979299cbf6808d0677b61ce4d84e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790042603,
-    "wof:lastmodified":1467090240,
+    "wof:lastmodified":1510613262,
     "wof:name":"First Federal Savings Bank",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

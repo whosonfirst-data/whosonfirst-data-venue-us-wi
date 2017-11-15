@@ -2,9 +2,14 @@
   "id": 789762873,
   "type": "Feature",
   "properties": {
+    "addr:full":"5557 Maria Way Waunakee WI 53597",
+    "addr:housenumber":"5557",
+    "addr:postcode":"53597",
+    "addr:street":"Maria Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.428173,43.160263,-89.428173,43.160263",
     "geom:latitude":43.160263,
     "geom:longitude":-89.428173,
@@ -29,12 +34,7 @@
         "music"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5b7g27W0MJuBe6i7KfzNkZ_43.160263_-89.428173@1294253271"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462590353,
     "wof:geomhash":"7247ecd801f914c4b1a62a286de93448",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789762873
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789762873,
-    "wof:lastmodified":1467090186,
+    "wof:lastmodified":1491935697,
     "wof:name":"All Occassions",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

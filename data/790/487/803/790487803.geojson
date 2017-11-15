@@ -2,9 +2,14 @@
   "id": 790487803,
   "type": "Feature",
   "properties": {
+    "addr:full":"812 Wrigley Dr Lake Geneva WI 53147",
+    "addr:housenumber":"812",
+    "addr:postcode":"53147",
+    "addr:street":"Wrigley Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.432773,42.587073,-88.432773,42.587073",
     "geom:latitude":42.587073,
     "geom:longitude":-88.432773,
@@ -24,13 +29,7 @@
     "sg:postcode":"53147",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yHNWxaRmpEbKIbyqvuV3e_42.587073_-88.432773@1294253271"
@@ -38,18 +37,9 @@
     "wof:country":"US",
     "wof:created":1462596274,
     "wof:geomhash":"ae7e9f0fb8aaeb44c86816e4ef27941c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":790487803
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790487803,
-    "wof:lastmodified":1467090329,
+    "wof:lastmodified":1492108929,
     "wof:name":"Riviera Ballroom",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

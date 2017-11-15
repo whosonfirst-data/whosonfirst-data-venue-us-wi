@@ -2,9 +2,14 @@
   "id": 790069495,
   "type": "Feature",
   "properties": {
+    "addr:full":"1802 Blue Ridge Trl Waunakee WI 53597",
+    "addr:housenumber":"1802",
+    "addr:postcode":"53597",
+    "addr:street":"Blue Ridge Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.43428,43.172929,-89.43428,43.172929",
     "geom:latitude":43.172929,
     "geom:longitude":-89.43428,
@@ -27,12 +32,7 @@
         "paper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iJmfgtTq1Wc2AiweEHp9A_43.172929_-89.434280@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462592887,
     "wof:geomhash":"6b767d8750f8e64c92e5d9d1878268ad",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790069495
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790069495,
-    "wof:lastmodified":1467090245,
+    "wof:lastmodified":1491935696,
     "wof:name":"Supply Solutions LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806848123,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 S Century Ave Waunakee WI 53597",
+    "addr:housenumber":"701",
+    "addr:postcode":"53597",
+    "addr:street":"S Century Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461681,43.184534,-89.461681,43.184534",
     "geom:latitude":43.184534,
     "geom:longitude":-89.461681,
@@ -27,12 +32,7 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UzYyUlFkXcdO1IxQjDmX6_43.184534_-89.461681@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462601587,
     "wof:geomhash":"f2f2fedefd2c092dd33bd0d8fdeaf6ff",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806848123
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806848123,
-    "wof:lastmodified":1467090475,
+    "wof:lastmodified":1491935678,
     "wof:name":"Peace Lutheran Church Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

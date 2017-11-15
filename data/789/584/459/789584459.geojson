@@ -2,6 +2,10 @@
   "id": 789584459,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 N Executive Dr Brookfield WI 53005",
+    "addr:housenumber":"200",
+    "addr:postcode":"53005",
+    "addr:street":"N Executive Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789584459,
-    "wof:lastmodified":1467090150,
+    "wof:lastmodified":1472653915,
     "wof:name":"Claim Source",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",

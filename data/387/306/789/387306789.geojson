@@ -2,14 +2,20 @@
   "id": 387306789,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 W Humbird St Rice Lake WI 54868",
+    "addr:housenumber":"119",
+    "addr:postcode":"54868",
+    "addr:street":"W Humbird St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.736494,45.505323,-91.736494,45.505323",
     "geom:latitude":45.505323,
     "geom:longitude":-91.736494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"119 W Humbird St",
     "sg:city":"Rice Lake",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101733283,
         102081847
     ],
+    "wof:brand_id":1125150919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Fw9pp9iaDSd4HJT3D2x3Z_45.505323_-91.736494@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c55a3afb0999f6981ff76f0189e3122",
+    "wof:geomhash":"1ebca399bc757360c7d690aeab9627e3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387306789,
-    "wof:lastmodified":1467089932,
+    "wof:lastmodified":1510613227,
     "wof:name":"Grace Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

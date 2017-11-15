@@ -2,9 +2,14 @@
   "id": 807142623,
   "type": "Feature",
   "properties": {
+    "addr:full":"1876 Deignan Rd Genoa City WI 53128",
+    "addr:housenumber":"1876",
+    "addr:postcode":"53128",
+    "addr:street":"Deignan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.376614,42.52374,-88.376614,42.52374",
     "geom:latitude":42.52374,
     "geom:longitude":-88.376614,
@@ -27,13 +32,7 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3v5jpIEXoIz2dYM4fLqQba_42.523740_-88.376614@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462604189,
     "wof:geomhash":"afa1e0b5be60e88d400a76d7b52e99c7",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":807142623
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807142623,
-    "wof:lastmodified":1467090549,
+    "wof:lastmodified":1492087971,
     "wof:name":"Garden Gate Child Care Center",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

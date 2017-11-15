@@ -2,14 +2,20 @@
   "id": 773540219,
   "type": "Feature",
   "properties": {
+    "addr:full":"6404 Offshore Dr Madison WI 53705",
+    "addr:housenumber":"6404",
+    "addr:postcode":"53705",
+    "addr:street":"Offshore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.488986,43.063278,-89.488986,43.063278",
     "geom:latitude":43.063278,
     "geom:longitude":-89.488986,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6404 Offshore Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125150593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dudB0WMJ1IWgMIwqhTjkq_43.063278_-89.488986@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586479,
-    "wof:geomhash":"bf3458be6966ee677207dca3e44aa9b3",
+    "wof:geomhash":"cb3f6f7d883d94a9c8c294be552c0c22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773540219,
-    "wof:lastmodified":1467090078,
+    "wof:lastmodified":1510613421,
     "wof:name":"Lutheran Social Svc",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",

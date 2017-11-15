@@ -2,9 +2,14 @@
   "id": 789583895,
   "type": "Feature",
   "properties": {
+    "addr:full":"903 Centennial Pkwy Waunakee WI 53597",
+    "addr:housenumber":"903",
+    "addr:postcode":"53597",
+    "addr:street":"Centennial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.466098,43.181677,-89.466098,43.181677",
     "geom:latitude":43.181677,
     "geom:longitude":-89.466098,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HPnwAs20KHzFfzWZu7wP7_43.181677_-89.466098@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462588939,
     "wof:geomhash":"a820b7b76be9fdd7b6034fcab927e7e0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789583895
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789583895,
-    "wof:lastmodified":1467090149,
+    "wof:lastmodified":1491935711,
     "wof:name":"MMS Enterprises",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

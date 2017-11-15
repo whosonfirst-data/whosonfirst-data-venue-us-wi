@@ -2,9 +2,14 @@
   "id": 806379581,
   "type": "Feature",
   "properties": {
+    "addr:full":"5114 Co Hwy P Delavan WI 53115",
+    "addr:housenumber":"5114",
+    "addr:postcode":"53115",
+    "addr:street":"Co Hwy P Delavan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.659389,42.678434,-88.659389,42.678434",
     "geom:latitude":42.678434,
     "geom:longitude":-88.659389,
@@ -24,12 +29,7 @@
     "sg:postcode":"53115",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85834291,
-        102081883
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6db2o7HAXZOtezHAR7Zu2f_42.678434_-88.659389@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462597670,
     "wof:geomhash":"3064bbb5024bb08fe4431fd249e3cdfc",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "neighbourhood_id":85834291,
-            "region_id":85688517,
-            "venue_id":806379581
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806379581,
-    "wof:lastmodified":1467090366,
+    "wof:lastmodified":1492103493,
     "wof:name":"Phoenix Inspections",
     "wof:parent_id":85834291,
     "wof:placetype":"venue",

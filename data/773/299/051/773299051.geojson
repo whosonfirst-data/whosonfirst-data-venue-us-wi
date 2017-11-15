@@ -2,9 +2,14 @@
   "id": 773299051,
   "type": "Feature",
   "properties": {
+    "addr:full":"132 W Main St Waunakee WI 53597",
+    "addr:housenumber":"132",
+    "addr:postcode":"53597",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.455621,43.191874,-89.455621,43.191874",
     "geom:latitude":43.191874,
     "geom:longitude":-89.455621,
@@ -31,12 +36,7 @@
     ],
     "sg:website":"www.landacleary.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wHJolaG2uL6hWYC043WX8_43.191874_-89.455621@1294253271"
@@ -44,17 +44,9 @@
     "wof:country":"US",
     "wof:created":1462584672,
     "wof:geomhash":"ebae3392133ae2c4acade079380493db",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773299051
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773299051,
-    "wof:lastmodified":1467090020,
+    "wof:lastmodified":1491935726,
     "wof:name":"Landa Cleary Travel Co",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

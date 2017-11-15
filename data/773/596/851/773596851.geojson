@@ -2,14 +2,20 @@
   "id": 773596851,
   "type": "Feature",
   "properties": {
+    "addr:full":"6386 Lake Ellen Dr Cascade WI 53011",
+    "addr:housenumber":"6386",
+    "addr:postcode":"53011",
+    "addr:street":"Lake Ellen Dr Cascade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.016701,43.643278,-88.016701,43.643278",
     "geom:latitude":43.643278,
     "geom:longitude":-88.016701,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6386 Lake Ellen Dr",
     "sg:city":"Cascade",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081869,
         85836705
     ],
+    "wof:brand_id":420575745,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AKlqSZ533pXgIXcHL21fr_43.643278_-88.016701@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586922,
-    "wof:geomhash":"8491186e6939e0acc6dd1bd740ab0a56",
+    "wof:geomhash":"8336b19acab1c6c33d659f77f713f054",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773596851,
-    "wof:lastmodified":1467090090,
+    "wof:lastmodified":1510602837,
     "wof:name":"Communications Workers-America",
     "wof:parent_id":85836705,
     "wof:placetype":"venue",

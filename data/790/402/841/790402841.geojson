@@ -2,9 +2,14 @@
   "id": 790402841,
   "type": "Feature",
   "properties": {
+    "addr:full":"5590 Woodland Dr Waunakee WI 53597",
+    "addr:housenumber":"5590",
+    "addr:postcode":"53597",
+    "addr:street":"Woodland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.436703,43.175613,-89.436703,43.175613",
     "geom:latitude":43.175613,
     "geom:longitude":-89.436703,
@@ -27,12 +32,7 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lpKGOaSSRgHWL8V27fbhP_43.175613_-89.436703@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462595555,
     "wof:geomhash":"0a9f477cbbffbce1c24131ffc4dfa00a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790402841
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790402841,
-    "wof:lastmodified":1467090311,
+    "wof:lastmodified":1491935712,
     "wof:name":"Deli Delicious LLC",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

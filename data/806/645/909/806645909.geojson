@@ -2,9 +2,14 @@
   "id": 806645909,
   "type": "Feature",
   "properties": {
+    "addr:full":"1004 South St Waunakee WI 53597",
+    "addr:housenumber":"1004",
+    "addr:postcode":"53597",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.45549,43.180652,-89.45549,43.180652",
     "geom:latitude":43.180652,
     "geom:longitude":-89.45549,
@@ -27,12 +32,7 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YDqRhgOCP0hOHgyTTtPiy_43.180652_-89.455490@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462599867,
     "wof:geomhash":"85eb9b993765fcd41477ea523930038e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806645909
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806645909,
-    "wof:lastmodified":1467090428,
+    "wof:lastmodified":1491935729,
     "wof:name":"Guys Wize",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

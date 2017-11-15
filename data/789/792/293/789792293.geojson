@@ -2,9 +2,14 @@
   "id": 789792293,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 W Main St Waunakee WI 53597",
+    "addr:housenumber":"401",
+    "addr:postcode":"53597",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.460274,43.192015,-89.460274,43.192015",
     "geom:latitude":43.192015,
     "geom:longitude":-89.460274,
@@ -29,12 +34,7 @@
     ],
     "sg:website":"www.walgreens.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0425Xagycinf6dd1Mo0zpy_43.192015_-89.460274@1294253271"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462590581,
     "wof:geomhash":"8ca4b74e5efa9a2f3401cd7050f49711",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789792293
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789792293,
-    "wof:lastmodified":1467090192,
+    "wof:lastmodified":1491935691,
     "wof:name":"Walgreens",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

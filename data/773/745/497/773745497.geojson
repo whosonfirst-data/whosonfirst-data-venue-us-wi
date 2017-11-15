@@ -2,9 +2,14 @@
   "id": 773745497,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Klein Dr Waunakee WI 53597",
+    "addr:housenumber":"205",
+    "addr:postcode":"53597",
+    "addr:street":"Klein Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.463396,43.191403,-89.463396,43.191403",
     "geom:latitude":43.191403,
     "geom:longitude":-89.463396,
@@ -27,12 +32,7 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TfUhYKlh91tm87zpViAYt_43.191403_-89.463396@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462588066,
     "wof:geomhash":"c1e09c7feb48d140a76573d25c787266",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773745497
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773745497,
-    "wof:lastmodified":1467090124,
+    "wof:lastmodified":1491935684,
     "wof:name":"Wollack & Wollack Sc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

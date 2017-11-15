@@ -2,9 +2,14 @@
   "id": 773487555,
   "type": "Feature",
   "properties": {
+    "addr:full":"5320 Blue Bill Park Dr S Madison WI 53704",
+    "addr:housenumber":"5320",
+    "addr:postcode":"53704",
+    "addr:street":"Blue Bill Park Dr S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.409672,43.149261,-89.409672,43.149261",
     "geom:latitude":43.149261,
     "geom:longitude":-89.409672,
@@ -29,12 +34,7 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CRM4NpdHLQrD0WCBUBVVJ_43.149261_-89.409672@1294253271"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462586123,
     "wof:geomhash":"16ff859a9e39c31d879c3c8f751f07e5",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773487555
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773487555,
-    "wof:lastmodified":1467090065,
+    "wof:lastmodified":1491935671,
     "wof:name":"Confluence Arts",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

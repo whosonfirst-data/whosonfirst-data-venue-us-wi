@@ -2,14 +2,20 @@
   "id": 789917741,
   "type": "Feature",
   "properties": {
+    "addr:full":"4801 Voges Rd Madison WI 53718",
+    "addr:housenumber":"4801",
+    "addr:postcode":"53718",
+    "addr:street":"Voges Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.295675,43.040606,-89.295675,43.040606",
     "geom:latitude":43.040606,
     "geom:longitude":-89.295675,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4801 Voges Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85878835,
         102081795
     ],
+    "wof:brand_id":420575395,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lY68H5BJdWlGvOY9BUjhZ_43.040606_-89.295675@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591605,
-    "wof:geomhash":"eca6367854339faa0aaa0e7378b286e8",
+    "wof:geomhash":"ad373fe6496596f18e12faba927d94c5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789917741,
-    "wof:lastmodified":1467090215,
+    "wof:lastmodified":1510602857,
     "wof:name":"Glass Doctor",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

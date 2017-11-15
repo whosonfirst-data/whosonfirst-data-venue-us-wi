@@ -2,14 +2,20 @@
   "id": 186055513,
   "type": "Feature",
   "properties": {
+    "addr:full":"3440 S 27th St Milwaukee WI 53215",
+    "addr:housenumber":"3440",
+    "addr:postcode":"53215",
+    "addr:street":"S 27Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.948274,42.982019,-87.948274,42.982019",
     "geom:latitude":42.982019,
     "geom:longitude":-87.948274,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3440 S 27th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102081837,
         85870955
     ],
+    "wof:brand_id":1125154063,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4n4nzjFdW44ducgJQTDy0g_42.982019_-87.948274@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"51bd24ccdce0b8d5bbc7ac7d0ea8abfa",
+    "wof:geomhash":"9244c114772a600028c1b6256468743c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":186055513,
-    "wof:lastmodified":1467089915,
+    "wof:lastmodified":1510695324,
     "wof:name":"Novacare Pa Inc",
     "wof:parent_id":85870955,
     "wof:placetype":"venue",

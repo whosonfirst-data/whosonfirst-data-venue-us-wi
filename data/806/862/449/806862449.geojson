@@ -2,14 +2,20 @@
   "id": 806862449,
   "type": "Feature",
   "properties": {
+    "addr:full":"317 S Walker Way Sun Prairie WI 53590",
+    "addr:housenumber":"317",
+    "addr:postcode":"53590",
+    "addr:street":"S Walker Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.236563,43.177648,-89.236563,43.177648",
     "geom:latitude":43.177648,
     "geom:longitude":-89.236563,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"317 S Walker Way",
     "sg:city":"Sun Prairie",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85878835,
         102081795
     ],
+    "wof:brand_id":420575745,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22KVIFOPDO0s5oHwhNXdlt_43.177648_-89.236563@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601709,
-    "wof:geomhash":"9ea8f4a8f847b6c3af28d7558b1bcf03",
+    "wof:geomhash":"523a61fadfe9a54a83d39a401279a7f4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":806862449,
-    "wof:lastmodified":1467090478,
+    "wof:lastmodified":1510602838,
     "wof:name":"Communications Workers-America",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789831199,
   "type": "Feature",
   "properties": {
+    "addr:full":"8840 N Greenview Dr Middleton WI 53562",
+    "addr:housenumber":"8840",
+    "addr:postcode":"53562",
+    "addr:street":"N Greenview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.541548,43.099079,-89.541548,43.099079",
     "geom:latitude":43.099079,
     "geom:longitude":-89.541548,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"64ca92e53f6fa1d1be5463ca4eb71702",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":789831199,
-    "wof:lastmodified":1467090199,
+    "wof:lastmodified":1491894053,
     "wof:name":"Precision Devices Inc",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

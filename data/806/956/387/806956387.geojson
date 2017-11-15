@@ -2,9 +2,14 @@
   "id": 806956387,
   "type": "Feature",
   "properties": {
+    "addr:full":"602 6th St Waunakee WI 53597",
+    "addr:housenumber":"602",
+    "addr:postcode":"53597",
+    "addr:street":"6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.463922,43.186733,-89.463922,43.186733",
     "geom:latitude":43.186733,
     "geom:longitude":-89.463922,
@@ -27,12 +32,7 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TkJ4GV75unRL3RolefjTl_43.186733_-89.463922@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462602497,
     "wof:geomhash":"7699e296e81785bd2dc8b089651b2279",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806956387
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806956387,
-    "wof:lastmodified":1467090499,
+    "wof:lastmodified":1491935679,
     "wof:name":"Computer Prompt",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

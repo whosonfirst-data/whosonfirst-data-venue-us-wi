@@ -2,9 +2,14 @@
   "id": 789984413,
   "type": "Feature",
   "properties": {
+    "addr:full":"5634 Rankin Ln Waunakee WI 53597",
+    "addr:housenumber":"5634",
+    "addr:postcode":"53597",
+    "addr:street":"Rankin Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.428912,43.16291,-89.428912,43.16291",
     "geom:latitude":43.16291,
     "geom:longitude":-89.428912,
@@ -27,12 +32,7 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1r2s6ZJ6Y44CvP0kYWlLeh_43.162910_-89.428912@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462592204,
     "wof:geomhash":"b24edf51fddd6e70f53c6f4fe61f4f8b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789984413
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789984413,
-    "wof:lastmodified":1467090229,
+    "wof:lastmodified":1491935704,
     "wof:name":"Krysinski & Assoc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

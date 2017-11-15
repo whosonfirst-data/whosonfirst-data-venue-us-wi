@@ -2,9 +2,14 @@
   "id": 773052585,
   "type": "Feature",
   "properties": {
+    "addr:full":"11035 W Forest Home Ave Hales Corners WI 53130",
+    "addr:housenumber":"11035",
+    "addr:postcode":"53130",
+    "addr:street":"W Forest Home Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.051615,42.931995,-88.051615,42.931995",
     "geom:latitude":42.931995,
     "geom:longitude":-88.051615,
@@ -27,7 +32,14 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494175,
+        85633793,
+        101733077,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GVZGCpVfEs2Q6DCGbedrJ_42.931995_-88.051615@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462582783,
     "wof:geomhash":"5b88e1a9d26a432b521cf7d40a9b9fbd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494175,
+            "locality_id":101733077,
+            "region_id":85688517,
+            "venue_id":773052585
+        }
+    ],
     "wof:id":773052585,
-    "wof:lastmodified":1467089949,
+    "wof:lastmodified":1492102969,
     "wof:name":"Radiologists Association Limit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

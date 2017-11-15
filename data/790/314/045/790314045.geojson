@@ -2,14 +2,20 @@
   "id": 790314045,
   "type": "Feature",
   "properties": {
+    "addr:full":"2087 Witzel Ave Oshkosh WI 54904",
+    "addr:housenumber":"2087",
+    "addr:postcode":"54904",
+    "addr:street":"Witzel Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.588509,44.018064,-88.588509,44.018064",
     "geom:latitude":44.018064,
     "geom:longitude":-88.588509,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2087 Witzel Ave",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081801,
         85819403
     ],
+    "wof:brand_id":420575255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_550gjy7zUCXfxtnSsSrTHe_44.018064_-88.588509@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462594876,
-    "wof:geomhash":"250706065ece4cc1cfb99403986426e0",
+    "wof:geomhash":"2d489ea8d1eadaeddb42c532197d5ea8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790314045,
-    "wof:lastmodified":1467090293,
+    "wof:lastmodified":1510603009,
     "wof:name":"Game Stop Corp",
     "wof:parent_id":85819403,
     "wof:placetype":"venue",

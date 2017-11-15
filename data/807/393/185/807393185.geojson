@@ -2,9 +2,14 @@
   "id": 807393185,
   "type": "Feature",
   "properties": {
+    "addr:full":"2720 W 7 Mile Rd Caledonia WI 53108",
+    "addr:housenumber":"2720",
+    "addr:postcode":"53108",
+    "addr:street":"W 7 Mile Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.9534,42.829498,-87.9534,42.829498",
     "geom:latitude":42.829498,
     "geom:longitude":-87.9534,
@@ -24,7 +29,10 @@
     "sg:postcode":"53108",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UA35sUFcjWd0pwnjhgMxQ_42.829498_-87.953400@1303262806"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462607122,
     "wof:geomhash":"1563d0a62a28fd8a6095778c8cd2b5cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550151,
+            "venue_id":807393185
+        }
+    ],
     "wof:id":807393185,
-    "wof:lastmodified":1467090635,
+    "wof:lastmodified":1492103406,
     "wof:name":"Digi-Cell",
     "wof:parent_id":420550151,
     "wof:placetype":"venue",

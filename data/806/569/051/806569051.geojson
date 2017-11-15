@@ -2,14 +2,20 @@
   "id": 806569051,
   "type": "Feature",
   "properties": {
+    "addr:full":"1595 Allouez Ave Green Bay WI 54311",
+    "addr:housenumber":"1595",
+    "addr:postcode":"54311",
+    "addr:street":"Allouez Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.003356,44.473076,-88.003356,44.473076",
     "geom:latitude":44.473076,
     "geom:longitude":-88.003356,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1595 Allouez Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125151223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oCMba3LTdSzcta5Ilbj25_44.473076_-88.003356@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462599198,
-    "wof:geomhash":"099fa65d96c023d582f099cc722eff7f",
+    "wof:geomhash":"73c5e2f5bc9e6ca3d19fc04957a18ca7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806569051,
-    "wof:lastmodified":1467090411,
+    "wof:lastmodified":1510697269,
     "wof:name":"Indoff Inc",
     "wof:parent_id":85877933,
     "wof:placetype":"venue",

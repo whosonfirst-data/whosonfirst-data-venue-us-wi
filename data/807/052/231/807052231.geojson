@@ -2,14 +2,20 @@
   "id": 807052231,
   "type": "Feature",
   "properties": {
+    "addr:full":"651 Bay Park Sq Green Bay WI 54304",
+    "addr:housenumber":"651",
+    "addr:postcode":"54304",
+    "addr:street":"Bay Park Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.067846,44.48463,-88.067846,44.48463",
     "geom:latitude":44.48463,
     "geom:longitude":-88.067846,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"651 Bay Park Sq",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125155953,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2t7O4hELGd8VsopmHEjeJE_44.484630_-88.067846@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603304,
-    "wof:geomhash":"d28a7b38a558ad42613fd6801fc26917",
+    "wof:geomhash":"68013211a44ded95c1505a6f880b79a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807052231,
-    "wof:lastmodified":1467090523,
+    "wof:lastmodified":1510698915,
     "wof:name":"Mrs Fields Original Cookies",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",

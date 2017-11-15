@@ -2,9 +2,14 @@
   "id": 790237951,
   "type": "Feature",
   "properties": {
+    "addr:full":"6924 Park Ln Wind Lake WI 53185",
+    "addr:housenumber":"6924",
+    "addr:postcode":"53185",
+    "addr:street":"Park Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.174789,42.811159,-88.174789,42.811159",
     "geom:latitude":42.811159,
     "geom:longitude":-88.174789,
@@ -28,7 +33,14 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494901,
+        85633793,
+        101733595,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3q4YPCzetBOk7rYu3II6Mo_42.811159_-88.174789@1294253271"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462594235,
     "wof:geomhash":"20129c4ad33955d5de220e8612c06477",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494901,
+            "locality_id":101733595,
+            "region_id":85688517,
+            "venue_id":790237951
+        }
+    ],
     "wof:id":790237951,
-    "wof:lastmodified":1467090278,
+    "wof:lastmodified":1492112073,
     "wof:name":"Personalized Cabinetry & Cntr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

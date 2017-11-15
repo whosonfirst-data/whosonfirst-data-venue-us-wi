@@ -2,14 +2,20 @@
   "id": 806835577,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 E Murray St Boyd WI 54726",
+    "addr:housenumber":"206",
+    "addr:postcode":"54726",
+    "addr:street":"E Murray St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.043036,44.951555,-91.043036,44.951555",
     "geom:latitude":44.951555,
     "geom:longitude":-91.043036,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"206 E Murray St",
     "sg:city":"Boyd",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081787,
         85837071
     ],
+    "wof:brand_id":1125156657,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wGOmuEQOjsw7dM2ulF81R_44.951555_-91.043036@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601472,
-    "wof:geomhash":"5e8541c6e2b334556b8984e1be539954",
+    "wof:geomhash":"9f30d6227b85bda4c6306d23e65e4458",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806835577,
-    "wof:lastmodified":1467090472,
+    "wof:lastmodified":1510698682,
     "wof:name":"St Peter's Lutheran Church",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",

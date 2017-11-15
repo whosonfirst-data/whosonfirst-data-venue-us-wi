@@ -2,14 +2,20 @@
   "id": 370280173,
   "type": "Feature",
   "properties": {
+    "addr:full":"1121 W Oklahoma Ave Milwaukee WI 53215",
+    "addr:housenumber":"1121",
+    "addr:postcode":"53215",
+    "addr:street":"W Oklahoma Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.927335,42.98819,-87.927335,42.98819",
     "geom:latitude":42.98819,
     "geom:longitude":-87.927335,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1121 W Oklahoma Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -28,23 +34,27 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870849,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870849
+        85688517
     ],
+    "wof:brand_id":1125159335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tGsUMnLWo8j3UIYpQu2If_42.988190_-87.927335@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"0cece6fbdad8f52966d6e5b204e0840f",
+    "wof:geomhash":"56a773eae1d50f4ca73d39d65fbaa752",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870849,
             "region_id":85688517,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":370280173,
-    "wof:lastmodified":1467089902,
+    "wof:lastmodified":1510695225,
     "wof:name":"Perfect Image",
     "wof:parent_id":85870849,
     "wof:placetype":"venue",

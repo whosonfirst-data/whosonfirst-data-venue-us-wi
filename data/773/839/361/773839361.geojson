@@ -2,14 +2,20 @@
   "id": 773839361,
   "type": "Feature",
   "properties": {
+    "addr:full":"2380 E Mason St Green Bay WI 54302",
+    "addr:housenumber":"2380",
+    "addr:postcode":"54302",
+    "addr:street":"E Mason St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.959967,44.487394,-87.959967,44.487394",
     "geom:latitude":44.487394,
     "geom:longitude":-87.959967,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2380 E Mason St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125159009,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TNublSrxKV1mhQLg4OZer_44.487394_-87.959967@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588807,
-    "wof:geomhash":"1ee9a62d6defc7d4d99812e81bd00434",
+    "wof:geomhash":"251ebf84731ba69914e3cf8e3a3ab7ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773839361,
-    "wof:lastmodified":1467090146,
+    "wof:lastmodified":1510697158,
     "wof:name":"Hobby Lobby Creative Center",
     "wof:parent_id":85877953,
     "wof:placetype":"venue",

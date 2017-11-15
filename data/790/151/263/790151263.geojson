@@ -2,9 +2,14 @@
   "id": 790151263,
   "type": "Feature",
   "properties": {
+    "addr:full":"1614 Reedsville Rd Lake Geneva WI 53147",
+    "addr:housenumber":"1614",
+    "addr:postcode":"53147",
+    "addr:street":"Reedsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.456671,42.551747,-88.456671,42.551747",
     "geom:latitude":42.551747,
     "geom:longitude":-88.456671,
@@ -24,13 +29,7 @@
     "sg:postcode":"53147",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Gp5PQslwJ1yOSk7waokGH_42.551747_-88.456671@1294253271"
@@ -38,18 +37,9 @@
     "wof:country":"US",
     "wof:created":1462593514,
     "wof:geomhash":"85d87c664e5be9639bb4f9735f7e74ba",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":790151263
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790151263,
-    "wof:lastmodified":1467090261,
+    "wof:lastmodified":1492109455,
     "wof:name":"South Bass Island Trading Co L",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

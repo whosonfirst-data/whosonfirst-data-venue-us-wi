@@ -2,9 +2,14 @@
   "id": 790463797,
   "type": "Feature",
   "properties": {
+    "addr:full":"8436 W Old Sauk Rd Middleton WI 53717",
+    "addr:housenumber":"8436",
+    "addr:postcode":"53717",
+    "addr:street":"W Old Sauk Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.535533,43.074783,-89.535533,43.074783",
     "geom:latitude":43.074783,
     "geom:longitude":-89.535533,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"e938030064697c6f4779873434c69475",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":790463797,
-    "wof:lastmodified":1467090323,
+    "wof:lastmodified":1491894081,
     "wof:name":"Q Nails & Spa",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

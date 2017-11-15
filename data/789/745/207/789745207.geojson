@@ -2,9 +2,14 @@
   "id": 789745207,
   "type": "Feature",
   "properties": {
+    "addr:full":"7688 Leta Way Verona WI 53593",
+    "addr:housenumber":"7688",
+    "addr:postcode":"53593",
+    "addr:street":"Leta Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.583232,43.041008,-89.583232,43.041008",
     "geom:latitude":43.041008,
     "geom:longitude":-89.583232,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"0f0cb2adf5030d82b38ef6fa82228064",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":789745207,
-    "wof:lastmodified":1467090183,
+    "wof:lastmodified":1491894065,
     "wof:name":"Welch Investment Property LLC",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

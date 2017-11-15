@@ -2,9 +2,14 @@
   "id": 807100091,
   "type": "Feature",
   "properties": {
+    "addr:full":"426 W Walworth St Elkhorn WI 53121",
+    "addr:housenumber":"426",
+    "addr:postcode":"53121",
+    "addr:street":"W Walworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.55156,42.671143,-88.55156,42.671143",
     "geom:latitude":42.671143,
     "geom:longitude":-88.55156,
@@ -24,7 +29,10 @@
     "sg:postcode":"53121",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1My2b6Pz9qSI8Hgk8SjwQw_42.671143_-88.551560@1294253271"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462603729,
     "wof:geomhash":"3cbf22e2d2f21fb81de7a68ed495ef8a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550177,
+            "venue_id":807100091
+        }
+    ],
     "wof:id":807100091,
-    "wof:lastmodified":1467090536,
+    "wof:lastmodified":1492098954,
     "wof:name":"Future Antiques Inc",
     "wof:parent_id":420550177,
     "wof:placetype":"venue",

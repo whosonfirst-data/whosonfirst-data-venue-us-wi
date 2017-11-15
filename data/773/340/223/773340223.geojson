@@ -2,14 +2,20 @@
   "id": 773340223,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 Riverside Dr Green Bay WI 54301",
+    "addr:housenumber":"2200",
+    "addr:postcode":"54301",
+    "addr:street":"Riverside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.030339,44.48375,-88.030339,44.48375",
     "geom:latitude":44.48375,
     "geom:longitude":-88.030339,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2200 Riverside Dr",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125151637,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4K1Gk3A6VspLVHO9nhG62p_44.483750_-88.030339@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584982,
-    "wof:geomhash":"8f3c8305a0537a831c92210ccd355482",
+    "wof:geomhash":"1b2ca09accbeebfee19e9666df81c9e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773340223,
-    "wof:lastmodified":1467090030,
+    "wof:lastmodified":1510695902,
     "wof:name":"Citigroup Global Markets Inc",
     "wof:parent_id":85877931,
     "wof:placetype":"venue",

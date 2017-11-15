@@ -2,9 +2,14 @@
   "id": 790089971,
   "type": "Feature",
   "properties": {
+    "addr:full":"994 Lake Geneva Blvd Lake Geneva WI 53147",
+    "addr:housenumber":"994",
+    "addr:postcode":"53147",
+    "addr:street":"Lake Geneva Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.425712,42.579562,-88.425712,42.579562",
     "geom:latitude":42.579562,
     "geom:longitude":-88.425712,
@@ -27,13 +32,7 @@
         "antenna"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XJXlLxXpnT8UrqpnDo1HX_42.579562_-88.425712@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462593049,
     "wof:geomhash":"e1c3ccfba9a9ba72b0106885baa696f7",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":790089971
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790089971,
-    "wof:lastmodified":1467090249,
+    "wof:lastmodified":1492103478,
     "wof:name":"G & B Antenna Sales & Service",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

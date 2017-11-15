@@ -2,14 +2,20 @@
   "id": 789796301,
   "type": "Feature",
   "properties": {
+    "addr:full":"3526 W Silver Spring Dr Milwaukee WI 53209",
+    "addr:housenumber":"3526",
+    "addr:postcode":"53209",
+    "addr:street":"W Silver Spring Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.957191,43.119237,-87.957191,43.119237",
     "geom:latitude":43.119237,
     "geom:longitude":-87.957191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3526 W Silver Spring Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125159551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05oysE2awbjEOnM6pMDxGn_43.119237_-87.957191@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590614,
-    "wof:geomhash":"deee2a737dcdc48e822d028b3d846d08",
+    "wof:geomhash":"e30115810ec0f7e1d4efcbaa7b48ae79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789796301,
-    "wof:lastmodified":1467090192,
+    "wof:lastmodified":1510696651,
     "wof:name":"Family Vision Care",
     "wof:parent_id":85870907,
     "wof:placetype":"venue",

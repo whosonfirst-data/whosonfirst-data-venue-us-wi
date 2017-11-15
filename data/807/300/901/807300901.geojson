@@ -2,9 +2,14 @@
   "id": 807300901,
   "type": "Feature",
   "properties": {
+    "addr:full":"4639 S 108th St Milwaukee WI 53228",
+    "addr:housenumber":"4639",
+    "addr:postcode":"53228",
+    "addr:street":"S 108Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.047995,42.960074,-88.047995,42.960074",
     "geom:latitude":42.960074,
     "geom:longitude":-88.047995,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494171,
+        85633793,
+        101733073,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qc5duWapBCeazoLjkHClH_42.960074_-88.047995@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462605863,
     "wof:geomhash":"4fd206e77653eb1c755111c980fe249e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494171,
+            "locality_id":101733073,
+            "region_id":85688517,
+            "venue_id":807300901
+        }
+    ],
     "wof:id":807300901,
-    "wof:lastmodified":1467090599,
+    "wof:lastmodified":1492098737,
     "wof:name":"City Cuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 403779225,
   "type": "Feature",
   "properties": {
+    "addr:full":"3654 E Carpenter Ave Cudahy WI 53110",
+    "addr:housenumber":"3654",
+    "addr:postcode":"53110",
+    "addr:street":"E Carpenter Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.858705,42.955625,-87.858705,42.955625",
     "geom:latitude":42.955625,
     "geom:longitude":-87.858705,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870851,
+        102191575,
+        404492091,
         85633793,
-        101733083,
+        101732987,
         102081837,
-        85870851
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"33088f3a42deb6bf5233525260133a99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":101733083,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870851,
             "region_id":85688517,
             "venue_id":403779225
         }
     ],
     "wof:id":403779225,
-    "wof:lastmodified":1467089918,
+    "wof:lastmodified":1492108816,
     "wof:name":"Alex Thien LLC",
     "wof:parent_id":85870851,
     "wof:placetype":"venue",

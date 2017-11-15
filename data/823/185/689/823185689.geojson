@@ -2,9 +2,14 @@
   "id": 823185689,
   "type": "Feature",
   "properties": {
+    "addr:full":"5341 W River Rd Waunakee WI 53597",
+    "addr:housenumber":"5341",
+    "addr:postcode":"53597",
+    "addr:street":"W River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.40841,43.159175,-89.40841,43.159175",
     "geom:latitude":43.159175,
     "geom:longitude":-89.40841,
@@ -76,12 +81,7 @@
     ],
     "sg:website":"http://www.pharoheating.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2y0KewlaLQEAv7GU7aMdmK_43.159175_-89.408410@1303262812"
@@ -89,17 +89,9 @@
     "wof:country":"US",
     "wof:created":1462608140,
     "wof:geomhash":"0d92a5c523d5ff622383895d46dddc42",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":823185689
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823185689,
-    "wof:lastmodified":1467090663,
+    "wof:lastmodified":1491935719,
     "wof:name":"Pharo Heating & Air Conditioning",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

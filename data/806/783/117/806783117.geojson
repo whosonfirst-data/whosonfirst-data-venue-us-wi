@@ -2,9 +2,14 @@
   "id": 806783117,
   "type": "Feature",
   "properties": {
+    "addr:full":"259 Smythe Dr Williams Bay WI 53191",
+    "addr:housenumber":"259",
+    "addr:postcode":"53191",
+    "addr:street":"Smythe Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.552251,42.5775,-88.552251,42.5775",
     "geom:latitude":42.5775,
     "geom:longitude":-88.552251,
@@ -24,13 +29,7 @@
     "sg:postcode":"53191",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_584VG6rxySt0Ane8pMVwfi_42.577500_-88.552251@1294253271"
@@ -38,18 +37,9 @@
     "wof:country":"US",
     "wof:created":1462601045,
     "wof:geomhash":"b72b2e872a312d86769457634ff27c62",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806783117
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806783117,
-    "wof:lastmodified":1467090460,
+    "wof:lastmodified":1492109457,
     "wof:name":"Lpg Greetings",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

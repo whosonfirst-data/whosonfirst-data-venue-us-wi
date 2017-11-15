@@ -2,14 +2,20 @@
   "id": 806406783,
   "type": "Feature",
   "properties": {
+    "addr:full":"1013 Johnson Ct Stoughton WI 53589",
+    "addr:housenumber":"1013",
+    "addr:postcode":"53589",
+    "addr:street":"Johnson Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.224351,42.932391,-89.224351,42.932391",
     "geom:latitude":42.932391,
     "geom:longitude":-89.224351,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1013 Johnson Ct",
     "sg:city":"Stoughton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125154625,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_200Ksgi45gpUmbtjSBZcOX_42.932391_-89.224351@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462597888,
-    "wof:geomhash":"da940ba723faf8dc67cf8bf40abd845c",
+    "wof:geomhash":"c31649e13f460dd4a0684321937e6327",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806406783,
-    "wof:lastmodified":1467090372,
+    "wof:lastmodified":1510695409,
     "wof:name":"Critter Control",
     "wof:parent_id":85868281,
     "wof:placetype":"venue",

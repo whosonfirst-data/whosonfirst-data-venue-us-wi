@@ -2,9 +2,14 @@
   "id": 773292513,
   "type": "Feature",
   "properties": {
+    "addr:full":"8125 University Ave Middleton WI 53562",
+    "addr:housenumber":"8125",
+    "addr:postcode":"53562",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.523538,43.096838,-89.523538,43.096838",
     "geom:latitude":43.096838,
     "geom:longitude":-89.523538,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"ba977dcbb41d03658d17d7e03d7e787a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":773292513,
-    "wof:lastmodified":1467090016,
+    "wof:lastmodified":1491894056,
     "wof:name":"Lycon Inc",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

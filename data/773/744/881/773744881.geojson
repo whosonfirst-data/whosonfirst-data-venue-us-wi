@@ -2,6 +2,10 @@
   "id": 773744881,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 W Washington Ave Madison WI 53703",
+    "addr:housenumber":"123",
+    "addr:postcode":"53703",
+    "addr:street":"W Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":773744881,
-    "wof:lastmodified":1467090124,
+    "wof:lastmodified":1472654972,
     "wof:name":"Crime Information Bureau",
     "wof:parent_id":85878831,
     "wof:placetype":"venue",

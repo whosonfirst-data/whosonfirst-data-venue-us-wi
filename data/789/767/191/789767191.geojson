@@ -2,14 +2,20 @@
   "id": 789767191,
   "type": "Feature",
   "properties": {
+    "addr:full":"1294 State Hwy 175 Hubertus WI 53033",
+    "addr:housenumber":"1294",
+    "addr:postcode":"53033",
+    "addr:street":"State Hwy 175",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.185825,43.235221,-88.185825,43.235221",
     "geom:latitude":43.235221,
     "geom:longitude":-88.185825,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1294 State Hwy 175",
     "sg:city":"Hubertus",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081745,
         85688517
     ],
+    "wof:brand_id":1125153829,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6R5P8T7ZXGU88jgZf5uTmE_43.235221_-88.185825@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590382,
-    "wof:geomhash":"5ca841aace5e6de65a9e54e6d72d7a15",
+    "wof:geomhash":"462538bf6085792dc20a71e46d7a5aa2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":789767191,
-    "wof:lastmodified":1467090187,
+    "wof:lastmodified":1510693755,
     "wof:name":"Video Plus",
     "wof:parent_id":85814463,
     "wof:placetype":"venue",

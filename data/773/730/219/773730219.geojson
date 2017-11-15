@@ -2,14 +2,20 @@
   "id": 773730219,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 S 18th Ave Wausau WI 54401",
+    "addr:housenumber":"220",
+    "addr:postcode":"54401",
+    "addr:street":"S 18Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.655816,44.961441,-89.655816,44.961441",
     "geom:latitude":44.961441,
     "geom:longitude":-89.655816,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"220 S 18th Ave",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081881,
         85868295
     ],
+    "wof:brand_id":1125151075,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SENyH9UdywkwLhvYB7Edy_44.961441_-89.655816@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587949,
-    "wof:geomhash":"ff9f4ee87ecbf604cb5a0c97a6d40cfb",
+    "wof:geomhash":"5fd7f243c09d90ab01fb146e146d1597",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773730219,
-    "wof:lastmodified":1467090121,
+    "wof:lastmodified":1510696086,
     "wof:name":"M & I Bank",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",

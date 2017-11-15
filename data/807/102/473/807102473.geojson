@@ -2,9 +2,14 @@
   "id": 807102473,
   "type": "Feature",
   "properties": {
+    "addr:full":"228 E National Ave Milwaukee WI 53204",
+    "addr:housenumber":"228",
+    "addr:postcode":"53204",
+    "addr:street":"E National Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.908457,43.023276,-87.908457,43.023276",
     "geom:latitude":43.023276,
     "geom:longitude":-87.908457,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85870925,
+        85867287,
         102191575,
         404492091,
         85633793,
         101732987,
         102081837,
         85688517,
-        85867287
+        85870925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +56,7 @@
             "county_id":102081837,
             "localadmin_id":404492091,
             "locality_id":101732987,
-            "neighbourhood_id":85870925,
+            "neighbourhood_id":85867287,
             "region_id":85688517,
             "venue_id":807102473
         },
@@ -61,15 +66,15 @@
             "county_id":102081837,
             "localadmin_id":404492091,
             "locality_id":101732987,
-            "neighbourhood_id":85867287,
+            "neighbourhood_id":85870925,
             "region_id":85688517,
             "venue_id":807102473
         }
     ],
     "wof:id":807102473,
-    "wof:lastmodified":1467090537,
+    "wof:lastmodified":1491896312,
     "wof:name":"Milwaukee Coach & Carriage LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

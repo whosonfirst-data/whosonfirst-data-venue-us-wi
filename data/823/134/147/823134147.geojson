@@ -2,9 +2,14 @@
   "id": 823134147,
   "type": "Feature",
   "properties": {
+    "addr:full":"11312 Fox River Rd Wilmot WI 53192",
+    "addr:housenumber":"11312",
+    "addr:postcode":"53192",
+    "addr:street":"Fox River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.181906,42.512601,-88.181906,42.512601",
     "geom:latitude":42.512601,
     "geom:longitude":-88.181906,
@@ -27,7 +32,10 @@
         "diner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1k7msRS2tvrTKZ26J6uzJN_42.512601_-88.181906@1303262807"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462607403,
     "wof:geomhash":"132285b0656597df2a9773709f0c06c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":823134147
+        }
+    ],
     "wof:id":823134147,
-    "wof:lastmodified":1467090641,
+    "wof:lastmodified":1492103507,
     "wof:name":"Wilmot Cafe",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

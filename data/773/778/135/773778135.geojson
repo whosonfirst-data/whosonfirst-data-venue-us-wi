@@ -2,9 +2,14 @@
   "id": 773778135,
   "type": "Feature",
   "properties": {
+    "addr:full":"7506 Voss Pkwy Middleton WI 53562",
+    "addr:housenumber":"",
+    "addr:postcode":"7506;53562",
+    "addr:street":"Voss Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.511051,43.089261,-89.511051,43.089261",
     "geom:latitude":43.089261,
     "geom:longitude":-89.511051,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"a0aa91d5dc1d9a1ebe900e372ae879fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":773778135,
-    "wof:lastmodified":1467090132,
+    "wof:lastmodified":1491894001,
     "wof:name":"Computer Ad Venture",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 403798413,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 E Laverne Dr Oak Creek WI 53154",
+    "addr:housenumber":"625",
+    "addr:postcode":"53154",
+    "addr:street":"E Laverne Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.905099,42.895947,-87.905099,42.895947",
     "geom:latitude":42.895947,
     "geom:longitude":-87.905099,
@@ -25,10 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        420550135,
+        102191575,
+        404494177,
         85633793,
         101733079,
-        102081837
+        102081837,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"85c333d5e5eb978d68be0e64f965e2a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404494177,
             "locality_id":101733079,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420550135,
             "region_id":85688517,
             "venue_id":403798413
         }
     ],
     "wof:id":403798413,
-    "wof:lastmodified":1467089918,
+    "wof:lastmodified":1492108816,
     "wof:name":"Michael Mihopulos Piano Tuning",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 806687249,
   "type": "Feature",
   "properties": {
+    "addr:full":"3066 Main St East Troy WI 53120",
+    "addr:housenumber":"3066",
+    "addr:postcode":"53120",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.410298,42.784788,-88.410298,42.784788",
     "geom:latitude":42.784788,
     "geom:longitude":-88.410298,
@@ -27,7 +32,14 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494701,
+        85633793,
+        101732243,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YHMb6jsbU3vHfBQPYRISP_42.784788_-88.410298@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462600232,
     "wof:geomhash":"b83346e812f3a047f03def3537100adb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404494701,
+            "locality_id":101732243,
+            "region_id":85688517,
+            "venue_id":806687249
+        }
+    ],
     "wof:id":806687249,
-    "wof:lastmodified":1467090438,
+    "wof:lastmodified":1492103489,
     "wof:name":"Quest Diagnostics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

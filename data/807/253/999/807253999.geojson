@@ -2,14 +2,20 @@
   "id": 807253999,
   "type": "Feature",
   "properties": {
+    "addr:full":"5315 Wall St Madison WI 53718",
+    "addr:housenumber":"5315",
+    "addr:postcode":"53718",
+    "addr:street":"Wall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.288114,43.132629,-89.288114,43.132629",
     "geom:latitude":43.132629,
     "geom:longitude":-89.288114,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5315 Wall St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         85878835,
         102081795
     ],
+    "wof:brand_id":1125153035,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kNkVAUTvnZbfldxPpz4lP_43.132629_-89.288114@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605369,
-    "wof:geomhash":"011f0f1ad35cf96c5a37f9e5c872aaec",
+    "wof:geomhash":"3ae556c668dd3936b86c710158308ad2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807253999,
-    "wof:lastmodified":1467090584,
+    "wof:lastmodified":1510613162,
     "wof:name":"Lanier Worldwide Inc",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

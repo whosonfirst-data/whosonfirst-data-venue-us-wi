@@ -2,9 +2,14 @@
   "id": 806663545,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Lincoln Pkwy Williams Bay WI 53191",
+    "addr:housenumber":"45",
+    "addr:postcode":"53191",
+    "addr:street":"Lincoln Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.525403,42.574242,-88.525403,42.574242",
     "geom:latitude":42.574242,
     "geom:longitude":-88.525403,
@@ -27,13 +32,7 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7StdXW1Ma9Xmw34AIxF1dC_42.574242_-88.525403@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462600029,
     "wof:geomhash":"061610332bed347e187763be32439289",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806663545
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806663545,
-    "wof:lastmodified":1467090433,
+    "wof:lastmodified":1492109457,
     "wof:name":"Slovick & Assoc",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

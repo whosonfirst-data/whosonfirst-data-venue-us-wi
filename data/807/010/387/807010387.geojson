@@ -2,9 +2,14 @@
   "id": 807010387,
   "type": "Feature",
   "properties": {
+    "addr:full":"1106 S Cambridge Ct Waunakee WI 53597",
+    "addr:housenumber":"1106",
+    "addr:postcode":"53597",
+    "addr:street":"S Cambridge Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.445753,43.181074,-89.445753,43.181074",
     "geom:latitude":43.181074,
     "geom:longitude":-89.445753,
@@ -27,12 +32,7 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FWwCBkCsuQEelkBht6tZC_43.181074_-89.445753@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462602946,
     "wof:geomhash":"2e48a1012accb10d16975ad8c477dd07",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807010387
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807010387,
-    "wof:lastmodified":1467090512,
+    "wof:lastmodified":1491935680,
     "wof:name":"Lee Maddox Photography",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

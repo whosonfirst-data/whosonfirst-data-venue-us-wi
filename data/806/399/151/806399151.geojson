@@ -2,9 +2,14 @@
   "id": 806399151,
   "type": "Feature",
   "properties": {
+    "addr:full":"1016 Eric Ln Waunakee WI 53597",
+    "addr:housenumber":"1016",
+    "addr:postcode":"53597",
+    "addr:street":"Eric Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.467396,43.181153,-89.467396,43.181153",
     "geom:latitude":43.181153,
     "geom:longitude":-89.467396,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KX4xeZT8iOwyJQ8nWhCs8_43.181153_-89.467396@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462597834,
     "wof:geomhash":"c9027d338b7028718262b6e010b773db",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806399151
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806399151,
-    "wof:lastmodified":1467090370,
+    "wof:lastmodified":1491935728,
     "wof:name":"Markley Stven C Raltor CRS Gri",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

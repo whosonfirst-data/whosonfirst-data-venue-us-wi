@@ -2,9 +2,14 @@
   "id": 790003839,
   "type": "Feature",
   "properties": {
+    "addr:full":"590 Kearney Rd Burlington WI 53105",
+    "addr:housenumber":"590",
+    "addr:postcode":"53105",
+    "addr:street":"Kearney Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.336251,42.716599,-88.336251,42.716599",
     "geom:latitude":42.716599,
     "geom:longitude":-88.336251,
@@ -25,10 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85826135,
-        102081883
+        102191575,
+        404494989,
+        85633793,
+        101732343,
+        102081763,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +47,18 @@
     "wof:geomhash":"faa1f6109b0a969f608ee171d59fdcb9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081883,
+            "county_id":102081763,
+            "localadmin_id":404494989,
+            "locality_id":101732343,
             "neighbourhood_id":85826135,
             "region_id":85688517,
             "venue_id":790003839
         }
     ],
     "wof:id":790003839,
-    "wof:lastmodified":1467090232,
+    "wof:lastmodified":1492103475,
     "wof:name":"Vector III",
     "wof:parent_id":85826135,
     "wof:placetype":"venue",

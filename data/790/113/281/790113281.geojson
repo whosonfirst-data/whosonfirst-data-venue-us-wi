@@ -2,9 +2,14 @@
   "id": 790113281,
   "type": "Feature",
   "properties": {
+    "addr:full":"2935 US Hwy 12 Madison WI 53711",
+    "addr:housenumber":"2935",
+    "addr:postcode":"53711",
+    "addr:street":"Us Hwy 12",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.520625,43.090488,-89.520625,43.090488",
     "geom:latitude":43.090488,
     "geom:longitude":-89.520625,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"f0c66629a6535ba709d08acc66e3e751",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":790113281,
-    "wof:lastmodified":1467090254,
+    "wof:lastmodified":1491894031,
     "wof:name":"Movie Gallery",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

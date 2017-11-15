@@ -2,14 +2,20 @@
   "id": 806481735,
   "type": "Feature",
   "properties": {
+    "addr:full":"2170 Velp Ave Green Bay WI 54303",
+    "addr:housenumber":"",
+    "addr:postcode":"2170;54303",
+    "addr:street":"Velp Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.06858,44.559913,-88.06858,44.559913",
     "geom:latitude":44.559913,
     "geom:longitude":-88.06858,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2170 Velp Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125150877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0j4lc8002wmIQCE0VblaxU_44.559913_-88.068580@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598482,
-    "wof:geomhash":"2efb802ef3f19e39d47012beb451d1c2",
+    "wof:geomhash":"b28733919a84f0c8c5d810bf67b3e548",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806481735,
-    "wof:lastmodified":1467090390,
+    "wof:lastmodified":1510613212,
     "wof:name":"R G I S Inventory Specialists",
     "wof:parent_id":85815317,
     "wof:placetype":"venue",

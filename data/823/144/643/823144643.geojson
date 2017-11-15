@@ -2,14 +2,20 @@
   "id": 823144643,
   "type": "Feature",
   "properties": {
+    "addr:full":"2931 S Kinnickinnic Ave Milwaukee WI 53207",
+    "addr:housenumber":"2931",
+    "addr:postcode":"53207",
+    "addr:street":"S Kinnickinnic Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.88636,42.991581,-87.88636,42.991581",
     "geom:latitude":42.991581,
     "geom:longitude":-87.88636,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2931 S Kinnickinnic Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125154641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qBcr714rH8Io8BEwZNi8v_42.991581_-87.886360@1303262808"
     },
     "wof:country":"US",
     "wof:created":1462607598,
-    "wof:geomhash":"95b7b63a50b9184804e46a150b1287ca",
+    "wof:geomhash":"d1978440a03334628a50dc97af035577",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":823144643,
-    "wof:lastmodified":1467090645,
+    "wof:lastmodified":1510699363,
     "wof:name":"Grace Presbyterian Church",
     "wof:parent_id":85870973,
     "wof:placetype":"venue",

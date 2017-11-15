@@ -2,14 +2,20 @@
   "id": 807233039,
   "type": "Feature",
   "properties": {
+    "addr:full":"2416 W Mason St Green Bay WI 54303",
+    "addr:housenumber":"2416",
+    "addr:postcode":"54303",
+    "addr:street":"W Mason St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.091226,44.524084,-88.091226,44.524084",
     "geom:latitude":44.524084,
     "geom:longitude":-88.091226,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2416 W Mason St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125158467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NOkm8Jk7vzpnCUXbpjOlD_44.524084_-88.091226@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605148,
-    "wof:geomhash":"c11dbc36861a2c73eca61c75838e4969",
+    "wof:geomhash":"579b5a69462a6ced52301a803e5b2c40",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807233039,
-    "wof:lastmodified":1467090578,
+    "wof:lastmodified":1510613246,
     "wof:name":"Butternut Bread",
     "wof:parent_id":85877951,
     "wof:placetype":"venue",

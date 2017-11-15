@@ -2,14 +2,20 @@
   "id": 337462667,
   "type": "Feature",
   "properties": {
+    "addr:full":"1353 Gohres St La Crosse WI 54603",
+    "addr:housenumber":"1353",
+    "addr:postcode":"54603",
+    "addr:street":"Gohres St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.237552,43.849297,-91.237552,43.849297",
     "geom:latitude":43.849297,
     "geom:longitude":-91.237552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1353 Gohres St",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102081301,
         85837759
     ],
+    "wof:brand_id":1125159051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eGJEZcOVL5Q2OE2Y5iePL_43.849297_-91.237552@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc92ef36eb4d5e90ef73fdb79ff65ca3",
+    "wof:geomhash":"9f8aa1e9faabe48bc1b91946fd3ac508",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":337462667,
-    "wof:lastmodified":1467089896,
+    "wof:lastmodified":1510697216,
     "wof:name":"New Life Tabernacle",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",

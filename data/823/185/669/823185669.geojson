@@ -2,9 +2,14 @@
   "id": 823185669,
   "type": "Feature",
   "properties": {
+    "addr:full":"651 W Main St Waunakee WI 53597",
+    "addr:housenumber":"651",
+    "addr:postcode":"53597",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.46553,43.192081,-89.46553,43.192081",
     "geom:latitude":43.192081,
     "geom:longitude":-89.46553,
@@ -33,12 +38,7 @@
         "hotspot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RRob7CXphVgcQpmSMyud4_43.192081_-89.465530@1303262812"
@@ -46,17 +46,9 @@
     "wof:country":"US",
     "wof:created":1462608140,
     "wof:geomhash":"8b494c41bea357fc2046f4307b1fe77d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":823185669
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823185669,
-    "wof:lastmodified":1467090663,
+    "wof:lastmodified":1491935706,
     "wof:name":"Ils Wayport Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

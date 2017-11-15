@@ -2,9 +2,14 @@
   "id": 773465971,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Baker St Waunakee WI 53597",
+    "addr:housenumber":"110",
+    "addr:postcode":"53597",
+    "addr:street":"Baker St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.454852,43.192741,-89.454852,43.192741",
     "geom:latitude":43.192741,
     "geom:longitude":-89.454852,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21tPFdliLkEK1cVjSl9xEh_43.192741_-89.454852@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462585958,
     "wof:geomhash":"85e039128f96b60e4a7f3a30b61ae8e1",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":773465971
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773465971,
-    "wof:lastmodified":1467090060,
+    "wof:lastmodified":1491935687,
     "wof:name":"Wisconsin Rural Partners Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807008753,
   "type": "Feature",
   "properties": {
+    "addr:full":"2782 Packerland Dr Green Bay WI 54313",
+    "addr:housenumber":"2782",
+    "addr:postcode":"54313",
+    "addr:street":"Packerland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.109588,44.486964,-88.109588,44.486964",
     "geom:latitude":44.486964,
     "geom:longitude":-88.109588,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2782 Packerland Dr",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125151053,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59377GZdOKoGhqPMeRCGrO_44.486964_-88.109588@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602933,
-    "wof:geomhash":"1d71cd18891d4295129db0885c96b6db",
+    "wof:geomhash":"ad69d041d61759982bbde1b0269dec5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807008753,
-    "wof:lastmodified":1467090511,
+    "wof:lastmodified":1510613134,
     "wof:name":"Schwans Home Service Inc",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807388341,
   "type": "Feature",
   "properties": {
+    "addr:full":"10345 N Port Washington Rd Floor 2 Mequon WI 53092",
+    "addr:housenumber":"10345",
+    "addr:postcode":"53092",
+    "addr:street":"N Port Washington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.924366,43.205642,-87.924366,43.205642",
     "geom:latitude":43.205642,
     "geom:longitude":-87.924366,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10345 N Port Washington Rd Floor 2",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -63,13 +69,14 @@
         102081873,
         85688517
     ],
+    "wof:brand_id":1125158421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GqFegg3VxbbMa7LFDc4w1_43.205642_-87.924366@1303262805"
     },
     "wof:country":"US",
     "wof:created":1462607042,
-    "wof:geomhash":"480a1d07ab5aee3863333dc730afbfb9",
+    "wof:geomhash":"e0d661c265b1af55a9958c9bff670bb2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +90,7 @@
         }
     ],
     "wof:id":807388341,
-    "wof:lastmodified":1467090633,
+    "wof:lastmodified":1510694767,
     "wof:name":"Wells Fargo Advisors",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",

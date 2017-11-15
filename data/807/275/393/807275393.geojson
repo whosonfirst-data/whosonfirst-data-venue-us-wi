@@ -2,14 +2,20 @@
   "id": 807275393,
   "type": "Feature",
   "properties": {
+    "addr:full":"1926 S Van Dyke Rd Appleton WI 54914",
+    "addr:housenumber":"1926",
+    "addr:postcode":"54914",
+    "addr:street":"S Van Dyke Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.470031,44.244795,-88.470031,44.244795",
     "geom:latitude":44.244795,
     "geom:longitude":-88.470031,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1926 S Van Dyke Rd",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125153259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4i5hF7SU0VACvRzC3ODtV9_44.244795_-88.470031@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605597,
-    "wof:geomhash":"c3cfbbc30e4c0cd4a60b5db36cd55d4c",
+    "wof:geomhash":"9576219f78d124a215393df2114ad6e6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807275393,
-    "wof:lastmodified":1467090591,
+    "wof:lastmodified":1510697123,
     "wof:name":"Velocity Express Inc",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

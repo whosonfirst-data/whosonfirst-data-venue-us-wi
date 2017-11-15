@@ -2,14 +2,20 @@
   "id": 773723805,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 S Oneida St Green Bay WI 54304",
+    "addr:housenumber":"2201",
+    "addr:postcode":"54304",
+    "addr:street":"S Oneida St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.064847,44.489734,-88.064847,44.489734",
     "geom:latitude":44.489734,
     "geom:longitude":-88.064847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2201 S Oneida St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125156379,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7leRaIOIilAMMV1efNQs0j_44.489734_-88.064847@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587898,
-    "wof:geomhash":"1f7f419e4f74fa1e173c2b25343da53e",
+    "wof:geomhash":"1fea6d64ab19ea6454075ca3bd54394f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773723805,
-    "wof:lastmodified":1467090119,
+    "wof:lastmodified":1510699360,
     "wof:name":"Cousins Subs",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",

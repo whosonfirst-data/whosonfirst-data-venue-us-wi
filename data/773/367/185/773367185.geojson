@@ -2,9 +2,14 @@
   "id": 773367185,
   "type": "Feature",
   "properties": {
+    "addr:full":"8750 Hart Dr Waterford WI 53185",
+    "addr:housenumber":"8750",
+    "addr:postcode":"53185",
+    "addr:street":"Hart Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.165001,42.841913,-88.165001,42.841913",
     "geom:latitude":42.841913,
     "geom:longitude":-88.165001,
@@ -27,7 +32,13 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494901,
+        85633793,
+        102081763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GtNhN8ilN55KAhxKP4fyz_42.841913_-88.165001@1294253271"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462585163,
     "wof:geomhash":"195fdeec6698b0e42a512ff12c808229",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081763,
+            "localadmin_id":404494901,
+            "region_id":85688517,
+            "venue_id":773367185
+        }
+    ],
     "wof:id":773367185,
-    "wof:lastmodified":1467090037,
+    "wof:lastmodified":1492108624,
     "wof:name":"Cleaning Mates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789890173,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Bayberry Trl Madison WI 53717",
+    "addr:housenumber":"2",
+    "addr:postcode":"53717",
+    "addr:street":"Bayberry Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.506256,43.065506,-89.506256,43.065506",
     "geom:latitude":43.065506,
     "geom:longitude":-89.506256,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 Bayberry Trl",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -29,23 +35,28 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
+    "wof:brand_id":1125159355,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jM2KzRCgqC3SRQkEfwOsC_43.065506_-89.506256@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591372,
-    "wof:geomhash":"6eaaed5561a05e3bc4fcfd76cb94381e",
+    "wof:geomhash":"ff512a6f62e29fed05a0f1818058c7e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +64,7 @@
         }
     ],
     "wof:id":789890173,
-    "wof:lastmodified":1467090210,
+    "wof:lastmodified":1510699280,
     "wof:name":"Rooter-Man",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

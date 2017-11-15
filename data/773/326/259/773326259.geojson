@@ -2,14 +2,20 @@
   "id": 773326259,
   "type": "Feature",
   "properties": {
+    "addr:full":"756 Jefferson St Sturgeon Bay WI 54235",
+    "addr:housenumber":"756",
+    "addr:postcode":"54235",
+    "addr:street":"Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.372977,44.839332,-87.372977,44.839332",
     "geom:latitude":44.839332,
     "geom:longitude":-87.372977,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"756 Jefferson St",
     "sg:city":"Sturgeon Bay",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081831,
         85688517
     ],
+    "wof:brand_id":420574719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5L4RxaMjPdmKrCatPo318f_44.839332_-87.372977@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584882,
-    "wof:geomhash":"c5cdff5770b01e3c382ec86965bb8c26",
+    "wof:geomhash":"d4cb34fd136db1af3c4ee47141c61c0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773326259,
-    "wof:lastmodified":1467090027,
+    "wof:lastmodified":1510608791,
     "wof:name":"A G Edwards & Sons Inc",
     "wof:parent_id":85851043,
     "wof:placetype":"venue",

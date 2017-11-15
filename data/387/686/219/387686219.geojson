@@ -2,9 +2,14 @@
   "id": 387686219,
   "type": "Feature",
   "properties": {
+    "addr:full":"7635 W Bluemound Rd Milwaukee WI 53213",
+    "addr:housenumber":"7635",
+    "addr:postcode":"53213",
+    "addr:street":"W Bluemound Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.007981,43.03508,-88.007981,43.03508",
     "geom:latitude":43.03508,
     "geom:longitude":-88.007981,
@@ -26,11 +31,13 @@
     "sg:website":"www.wisecon.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870835,
+        102191575,
+        404492091,
         85633793,
-        101733089,
+        101732987,
         102081837,
-        85870835
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"c06039035e2cf837fe3043cc35898a69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":101733089,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870835,
             "region_id":85688517,
             "venue_id":387686219
         }
     ],
     "wof:id":387686219,
-    "wof:lastmodified":1467089930,
+    "wof:lastmodified":1491905798,
     "wof:name":"Wisconsin Council On Economic",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",

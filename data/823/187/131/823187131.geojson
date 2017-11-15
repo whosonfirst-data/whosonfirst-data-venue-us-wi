@@ -2,14 +2,20 @@
   "id": 823187131,
   "type": "Feature",
   "properties": {
+    "addr:full":"7433 Mineral Point Rd Madison WI 53717",
+    "addr:housenumber":"7433",
+    "addr:postcode":"53717",
+    "addr:street":"Mineral Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.511394,43.060554,-89.511394,43.060554",
     "geom:latitude":43.060554,
     "geom:longitude":-89.511394,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7433 Mineral Point Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":420574789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WczztUi93E4n9h5YsAjgD_43.060554_-89.511394@1303262812"
     },
     "wof:country":"US",
     "wof:created":1462608157,
-    "wof:geomhash":"318f0d0b5775ac141ff7b9980f362d5d",
+    "wof:geomhash":"e7dd4761b3ab76d5d2879eeff6fe4909",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":823187131,
-    "wof:lastmodified":1467090664,
+    "wof:lastmodified":1510604031,
     "wof:name":"Barnes & Noble Booksellers",
     "wof:parent_id":85834009,
     "wof:placetype":"venue",

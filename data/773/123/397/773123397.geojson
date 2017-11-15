@@ -2,14 +2,20 @@
   "id": 773123397,
   "type": "Feature",
   "properties": {
+    "addr:full":"355 Fox River Dr Appleton WI 54913",
+    "addr:housenumber":"355",
+    "addr:postcode":"54913",
+    "addr:street":"Fox River Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.468518,44.264247,-88.468518,44.264247",
     "geom:latitude":44.264247,
     "geom:longitude":-88.468518,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"355 Fox River Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125157817,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03BSa7mu3hULM3WoO7eAKU_44.264247_-88.468518@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583319,
-    "wof:geomhash":"6361a0e2dae3c5af8d43aff3d58012be",
+    "wof:geomhash":"ae3ae9e95c3fd3f5007d335af7eb9d46",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773123397,
-    "wof:lastmodified":1467089967,
+    "wof:lastmodified":1510694200,
     "wof:name":"Country Suites By Carlson",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

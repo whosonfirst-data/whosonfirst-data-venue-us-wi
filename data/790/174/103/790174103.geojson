@@ -2,14 +2,20 @@
   "id": 790174103,
   "type": "Feature",
   "properties": {
+    "addr:full":"16535 W Bluemound Rd Brookfield WI 53005",
+    "addr:housenumber":"16535",
+    "addr:postcode":"53005",
+    "addr:street":"W Bluemound Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.118741,43.036667,-88.118741,43.036667",
     "geom:latitude":43.036667,
     "geom:longitude":-88.118741,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16535 W Bluemound Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125158111,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61aEaRt7IIY9PHn35CU1UT_43.036667_-88.118741@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593728,
-    "wof:geomhash":"e9cbf6dd8261b025ae464fa545ab1711",
+    "wof:geomhash":"6bd463e6e92f33f064e5adc0037474be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790174103,
-    "wof:lastmodified":1467090266,
+    "wof:lastmodified":1510696727,
     "wof:name":"ICI Dulux Paint Centers",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",

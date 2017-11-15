@@ -2,14 +2,20 @@
   "id": 790119859,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 Park Pl Appleton WI 54914",
+    "addr:housenumber":"39",
+    "addr:postcode":"54914",
+    "addr:street":"Park Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.467163,44.257093,-88.467163,44.257093",
     "geom:latitude":44.257093,
     "geom:longitude":-88.467163,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"39 Park Pl",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125152677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pU72ZZUKF8E5oDeS7Rfjq_44.257093_-88.467163@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593289,
-    "wof:geomhash":"27cfe2443311a21a07cea509c6f1bbf3",
+    "wof:geomhash":"a4cb208f8952d5d1deaf09bcbdd1b46c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790119859,
-    "wof:lastmodified":1467090255,
+    "wof:lastmodified":1510697145,
     "wof:name":"Siemens Energy & Automation",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

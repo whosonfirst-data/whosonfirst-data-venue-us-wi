@@ -2,9 +2,14 @@
   "id": 789809461,
   "type": "Feature",
   "properties": {
+    "addr:full":"817 Elizabeth St Waunakee WI 53597",
+    "addr:housenumber":"817",
+    "addr:postcode":"53597",
+    "addr:street":"Elizabeth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.46968,43.190508,-89.46968,43.190508",
     "geom:latitude":43.190508,
     "geom:longitude":-89.46968,
@@ -27,12 +32,7 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eXP0qMf8aH3hQnFcas2cy_43.190508_-89.469680@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462590710,
     "wof:geomhash":"0712734572acfae105b7d3df7b1df396",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789809461
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789809461,
-    "wof:lastmodified":1467090195,
+    "wof:lastmodified":1491935721,
     "wof:name":"Appliance Repair Center",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

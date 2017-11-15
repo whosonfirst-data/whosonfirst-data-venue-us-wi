@@ -2,14 +2,20 @@
   "id": 773486435,
   "type": "Feature",
   "properties": {
+    "addr:full":"380 Gascoigne Dr Waukesha WI 53188",
+    "addr:housenumber":"380",
+    "addr:postcode":"53188",
+    "addr:street":"Gascoigne Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.224834,43.025924,-88.224834,43.025924",
     "geom:latitude":43.025924,
     "geom:longitude":-88.224834,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"380 Gascoigne Dr",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125150109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45yRTxQ8EPNxKbWDJvgQAZ_43.025924_-88.224834@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586116,
-    "wof:geomhash":"ea9562da653ac9091fd8505f5a938abf",
+    "wof:geomhash":"d9930335c407260b96c5913a01e80a07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773486435,
-    "wof:lastmodified":1467090065,
+    "wof:lastmodified":1510694637,
     "wof:name":"Uswa",
     "wof:parent_id":85815589,
     "wof:placetype":"venue",

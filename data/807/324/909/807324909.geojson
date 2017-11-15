@@ -2,9 +2,14 @@
   "id": 807324909,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 N Century Ave Waunakee WI 53597",
+    "addr:housenumber":"800",
+    "addr:postcode":"53597",
+    "addr:street":"N Century Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461761,43.200218,-89.461761,43.200218",
     "geom:latitude":43.200218,
     "geom:longitude":-89.461761,
@@ -31,12 +36,7 @@
     ],
     "sg:website":"http://www.madisongolf.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OMfrj5GDH9jzMovXSD64u_43.199799_-89.461761@1293134755"
@@ -44,17 +44,9 @@
     "wof:country":"US",
     "wof:created":1462606128,
     "wof:geomhash":"b1fd898e23ae6793de67c819c79bb8c8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807324909
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807324909,
-    "wof:lastmodified":1467090607,
+    "wof:lastmodified":1491935696,
     "wof:name":"Meadows Of Six Mile Creek",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

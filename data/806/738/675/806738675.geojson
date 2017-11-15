@@ -2,14 +2,20 @@
   "id": 806738675,
   "type": "Feature",
   "properties": {
+    "addr:full":"926 N Westhill Blvd Appleton WI 54914",
+    "addr:housenumber":"926",
+    "addr:postcode":"54914",
+    "addr:street":"N Westhill Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.461019,44.272028,-88.461019,44.272028",
     "geom:latitude":44.272028,
     "geom:longitude":-88.461019,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"926 N Westhill Blvd",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125155435,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xc9C18aQM8GOX2hPGntQC_44.272028_-88.461019@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600669,
-    "wof:geomhash":"68017184cf29819ffa8507c8cc364844",
+    "wof:geomhash":"b932ed0578a195a74971217d7fa5f684",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806738675,
-    "wof:lastmodified":1467090450,
+    "wof:lastmodified":1510694939,
     "wof:name":"Unemployment Insurance",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

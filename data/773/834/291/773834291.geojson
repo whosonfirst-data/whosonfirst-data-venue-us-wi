@@ -2,14 +2,20 @@
   "id": 773834291,
   "type": "Feature",
   "properties": {
+    "addr:full":"5211 Rib Mountain Dr Wausau WI 54401",
+    "addr:housenumber":"",
+    "addr:postcode":"5211;54401",
+    "addr:street":"Rib Mountain Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.652537,44.909058,-89.652537,44.909058",
     "geom:latitude":44.909058,
     "geom:longitude":-89.652537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5211 Rib Mountain Dr",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081881,
         85854809
     ],
+    "wof:brand_id":1125151075,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zjVxTnaJ4fjqgjDYOwH2f_44.909058_-89.652537@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588758,
-    "wof:geomhash":"48cc3ac78435ce97ad63ddc6c006eb4a",
+    "wof:geomhash":"9a341bacfc89c5d2dd2e175c969af0d5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773834291,
-    "wof:lastmodified":1467090145,
+    "wof:lastmodified":1510696086,
     "wof:name":"M & I Bank",
     "wof:parent_id":85854809,
     "wof:placetype":"venue",

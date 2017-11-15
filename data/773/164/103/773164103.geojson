@@ -2,14 +2,20 @@
   "id": 773164103,
   "type": "Feature",
   "properties": {
+    "addr:full":"2021 McCoy Rd Sun Prairie WI 53590",
+    "addr:housenumber":"2021",
+    "addr:postcode":"53590",
+    "addr:street":"Mccoy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.246063,43.175988,-89.246063,43.175988",
     "geom:latitude":43.175988,
     "geom:longitude":-89.246063,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2021 McCoy Rd",
     "sg:city":"Sun Prairie",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85878835,
         102081795
     ],
+    "wof:brand_id":1125152079,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aJBQ2OdB5pjrucb3KjWlL_43.175988_-89.246063@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583623,
-    "wof:geomhash":"b93f9765a2ffe798a6cb9c30a2d06228",
+    "wof:geomhash":"59e03cb562e3fcc92caa6f9bf1f0b4e8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":773164103,
-    "wof:lastmodified":1467089977,
+    "wof:lastmodified":1510697802,
     "wof:name":"Big Apple Bagels",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",

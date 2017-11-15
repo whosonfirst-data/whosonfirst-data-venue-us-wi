@@ -2,9 +2,14 @@
   "id": 370988893,
   "type": "Feature",
   "properties": {
+    "addr:full":"2968 N Farwell Ave Milwaukee WI 53211",
+    "addr:housenumber":"2968",
+    "addr:postcode":"53211",
+    "addr:street":"N Farwell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.881645,43.071551,-87.881645,43.071551",
     "geom:latitude":43.071551,
     "geom:longitude":-87.881645,
@@ -25,10 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870945,
+        102191575,
+        404492091,
         85633793,
+        101732987,
         102081837,
-        85870945
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +46,18 @@
     "wof:geomhash":"d3e65c8c8f998f901068f8c86dfb5257",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":-1,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870945,
             "region_id":85688517,
             "venue_id":370988893
         }
     ],
     "wof:id":370988893,
-    "wof:lastmodified":1467089901,
+    "wof:lastmodified":1491903028,
     "wof:name":"Psycho Acoustics",
     "wof:parent_id":85870945,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773410285,
   "type": "Feature",
   "properties": {
+    "addr:full":"5904 Haase Rd De Forest WI 53532",
+    "addr:housenumber":"5904",
+    "addr:postcode":"53532",
+    "addr:street":"Haase Rd De Forest",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.320733,43.17232,-89.320733,43.17232",
     "geom:latitude":43.17232,
     "geom:longitude":-89.320733,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5904 Haase Rd",
     "sg:city":"De Forest",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85852311,
         102081795
     ],
+    "wof:brand_id":1125158411,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xxDKuOGRIrtKnPWdNkAxi_43.172320_-89.320733@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585490,
-    "wof:geomhash":"bbf7cb90a33b25c3448b69bb353edd5d",
+    "wof:geomhash":"d43197efcf2dfdb9a78d349f3579243c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773410285,
-    "wof:lastmodified":1467090047,
+    "wof:lastmodified":1510697116,
     "wof:name":"Thermo King",
     "wof:parent_id":85852311,
     "wof:placetype":"venue",

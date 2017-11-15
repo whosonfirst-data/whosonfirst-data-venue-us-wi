@@ -2,14 +2,20 @@
   "id": 789837065,
   "type": "Feature",
   "properties": {
+    "addr:full":"4156 Co Rd B Mc Farland WI 53558",
+    "addr:housenumber":"4156",
+    "addr:postcode":"53558",
+    "addr:street":"Co Rd B Mc Farland",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.321641,42.968262,-89.321641,42.968262",
     "geom:latitude":42.968262,
     "geom:longitude":-89.321641,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4156 Co Rd B",
     "sg:city":"Mc Farland",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85829451,
         102081795
     ],
+    "wof:brand_id":1125154289,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QBTmru7qXARwSyE4Gx1lu_42.968262_-89.321641@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590921,
-    "wof:geomhash":"57e445688f6a984459f03db3770dbe35",
+    "wof:geomhash":"974bf0946036fd905170dca29c5d2b17",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":789837065,
-    "wof:lastmodified":1467090200,
+    "wof:lastmodified":1510693860,
     "wof:name":"Charter Cmmnctons Holdings LLC",
     "wof:parent_id":85829451,
     "wof:placetype":"venue",

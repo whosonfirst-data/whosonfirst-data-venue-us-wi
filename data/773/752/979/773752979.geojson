@@ -2,14 +2,20 @@
   "id": 773752979,
   "type": "Feature",
   "properties": {
+    "addr:full":"610 N 6th St Sheboygan WI 53081",
+    "addr:housenumber":"610",
+    "addr:postcode":"53081",
+    "addr:street":"N 6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.709679,43.751003,-87.709679,43.751003",
     "geom:latitude":43.751003,
     "geom:longitude":-87.709679,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"610 N 6th St",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":1125151709,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Yt9NlWcGkPOvZKZDoeuzj_43.751003_-87.709679@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588118,
-    "wof:geomhash":"fca0f7f304d1e5cbfd0d4c646ca722f5",
+    "wof:geomhash":"619395406a4e9c0bee5e4be8e9444dcc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":773752979,
-    "wof:lastmodified":1467090126,
+    "wof:lastmodified":1510693985,
     "wof:name":"American Federation of St",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790426579,
   "type": "Feature",
   "properties": {
+    "addr:full":"91 Overland Trl Oshkosh WI 54904",
+    "addr:housenumber":"91",
+    "addr:postcode":"54904",
+    "addr:street":"Overland Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.612791,44.019388,-88.612791,44.019388",
     "geom:latitude":44.019388,
     "geom:longitude":-88.612791,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"91 Overland Trl",
     "sg:city":"Oshkosh",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081801,
         85819403
     ],
+    "wof:brand_id":420575397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yXEcPuXBsm8ZTNdy9KY6G_44.019388_-88.612791@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462595744,
-    "wof:geomhash":"a5410b0a03527e35176ccd520de35976",
+    "wof:geomhash":"1098d59ed042fb6c1ad66fad4ff7356c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790426579,
-    "wof:lastmodified":1467090316,
+    "wof:lastmodified":1510602744,
     "wof:name":"Jazzercise",
     "wof:parent_id":85819403,
     "wof:placetype":"venue",

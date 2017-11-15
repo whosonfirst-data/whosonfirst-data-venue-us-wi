@@ -2,14 +2,20 @@
   "id": 790296563,
   "type": "Feature",
   "properties": {
+    "addr:full":"614 School Pl West Bend WI 53090",
+    "addr:housenumber":"614",
+    "addr:postcode":"53090",
+    "addr:street":"School Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.186476,43.443014,-88.186476,43.443014",
     "geom:latitude":43.443014,
     "geom:longitude":-88.186476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"614 School Pl",
     "sg:city":"West Bend",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081745,
         85688517
     ],
+    "wof:brand_id":420575631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57WgZCPh1YqLIZv0bKhVWk_43.443014_-88.186476@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462594741,
-    "wof:geomhash":"ff6e90f8074827a70e10f9b5b850f49d",
+    "wof:geomhash":"4b1fed5f6a4de10cef3ad4b1fd9a986f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790296563,
-    "wof:lastmodified":1467090290,
+    "wof:lastmodified":1510601968,
     "wof:name":"Children's World Learning Ctr",
     "wof:parent_id":85859413,
     "wof:placetype":"venue",

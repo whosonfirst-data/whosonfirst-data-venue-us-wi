@@ -2,9 +2,14 @@
   "id": 387754603,
   "type": "Feature",
   "properties": {
+    "addr:full":"1840 Roosevelt Ave Racine WI 53406",
+    "addr:housenumber":"1840",
+    "addr:postcode":"53406",
+    "addr:street":"Roosevelt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.840815,42.708556,-87.840815,42.708556",
     "geom:latitude":42.708556,
     "geom:longitude":-87.840815,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85854859,
+        102191575,
+        404494985,
         85633793,
-        101732321,
+        101732325,
         102081763,
-        85854859
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"d24a7d1fced623f7903b16a3a2728b5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
-            "locality_id":101732321,
+            "localadmin_id":404494985,
+            "locality_id":101732325,
             "neighbourhood_id":85854859,
             "region_id":85688517,
             "venue_id":387754603
         }
     ],
     "wof:id":387754603,
-    "wof:lastmodified":1467089929,
+    "wof:lastmodified":1492097572,
     "wof:name":"South Willow Apartments",
     "wof:parent_id":85854859,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790372623,
   "type": "Feature",
   "properties": {
+    "addr:full":"406 Pinehurst Dr Waunakee WI 53597",
+    "addr:housenumber":"406",
+    "addr:postcode":"53597",
+    "addr:street":"Pinehurst Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.454764,43.195101,-89.454764,43.195101",
     "geom:latitude":43.195101,
     "geom:longitude":-89.454764,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46udg5nG66Vji56opYiUj8_43.195101_-89.454764@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462595327,
     "wof:geomhash":"7fc87497bae40e19dd6df74e20381155",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790372623
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790372623,
-    "wof:lastmodified":1467090305,
+    "wof:lastmodified":1491935675,
     "wof:name":"Steve Kaufman & Assoc Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

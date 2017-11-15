@@ -2,14 +2,20 @@
   "id": 807125615,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 E Wisconsin Ave Milwaukee WI 53202",
+    "addr:housenumber":"100",
+    "addr:postcode":"53202",
+    "addr:street":"E Wisconsin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.909117,43.038574,-87.909117,43.038574",
     "geom:latitude":43.038574,
     "geom:longitude":-87.909117,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 E Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ivmngAjPsrYMzaL9Jss8n_43.038574_-87.909117@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604006,
-    "wof:geomhash":"537022e1283726a20aca03ee476f2ac1",
+    "wof:geomhash":"6a6653a78e886b83955094972c6a8b9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807125615,
-    "wof:lastmodified":1467090544,
+    "wof:lastmodified":1510607665,
     "wof:name":"Central Parking System",
     "wof:parent_id":85867289,
     "wof:placetype":"venue",

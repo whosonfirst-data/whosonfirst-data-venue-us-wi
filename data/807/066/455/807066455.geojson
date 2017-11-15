@@ -2,9 +2,14 @@
   "id": 807066455,
   "type": "Feature",
   "properties": {
+    "addr:full":"30722 Geneva Rd Salem WI 53168",
+    "addr:housenumber":"",
+    "addr:postcode":"30722;53168",
+    "addr:street":"Geneva Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.183248,42.571119,-88.183248,42.571119",
     "geom:latitude":42.571119,
     "geom:longitude":-88.183248,
@@ -24,7 +29,10 @@
     "sg:postcode":"53168",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1G8I4psYEIdccED7iqULwV_42.571119_-88.183248@1294253271"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462603419,
     "wof:geomhash":"dfdcbb25f0a0fc0bf98ea662bf729df0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":807066455
+        }
+    ],
     "wof:id":807066455,
-    "wof:lastmodified":1467090526,
+    "wof:lastmodified":1492112038,
     "wof:name":"Neptune Smoked Fish Co LLC",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

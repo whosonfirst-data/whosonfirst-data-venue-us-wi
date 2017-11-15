@@ -2,9 +2,14 @@
   "id": 790485493,
   "type": "Feature",
   "properties": {
+    "addr:full":"4278 Oriole Dr Lake Geneva WI 53147",
+    "addr:housenumber":"4278",
+    "addr:postcode":"53147",
+    "addr:street":"Oriole Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.510782,42.576558,-88.510782,42.576558",
     "geom:latitude":42.576558,
     "geom:longitude":-88.510782,
@@ -24,13 +29,7 @@
     "sg:postcode":"53147",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dHEXdCZudpx1w3YjEGQ4r_42.576558_-88.510782@1294253271"
@@ -38,18 +37,9 @@
     "wof:country":"US",
     "wof:created":1462596240,
     "wof:geomhash":"0c54f953cdc9618ecdaa88f8df697c6f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":790485493
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790485493,
-    "wof:lastmodified":1467090328,
+    "wof:lastmodified":1492098954,
     "wof:name":"Robin Kasson",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

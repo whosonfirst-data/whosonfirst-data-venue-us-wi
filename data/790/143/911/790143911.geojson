@@ -2,14 +2,20 @@
   "id": 790143911,
   "type": "Feature",
   "properties": {
+    "addr:full":"535 S Taylor Dr Sheboygan WI 53081",
+    "addr:housenumber":"535",
+    "addr:postcode":"53081",
+    "addr:street":"S Taylor Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.749594,43.751617,-87.749594,43.751617",
     "geom:latitude":43.751617,
     "geom:longitude":-87.749594,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"535 S Taylor Dr",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":420574881,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CdIRikWqw5LgBdoGIIXN6_43.751617_-87.749594@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593459,
-    "wof:geomhash":"7624509a6ca5fae4c6970a8e555dcffd",
+    "wof:geomhash":"6d9de515ff11f120f2cfe0c01727b61b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":790143911,
-    "wof:lastmodified":1467090260,
+    "wof:lastmodified":1510604423,
     "wof:name":"Cost Cutters Family Hair Care",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

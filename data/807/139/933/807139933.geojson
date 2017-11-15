@@ -2,14 +2,20 @@
   "id": 807139933,
   "type": "Feature",
   "properties": {
+    "addr:full":"925 State Hwy 164 Waukesha WI 53186",
+    "addr:housenumber":"925",
+    "addr:postcode":"53186",
+    "addr:street":"State Hwy 164",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.218015,43.02212,-88.218015,43.02212",
     "geom:latitude":43.02212,
     "geom:longitude":-88.218015,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"925 State Hwy 164",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081741,
         85688517
     ],
+    "wof:brand_id":1125155625,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5a3jOWpTHYNaPGIDGa40fi_43.022120_-88.218015@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604158,
-    "wof:geomhash":"279dc6c0d7676ce1adf643ed6c68c9e7",
+    "wof:geomhash":"f7e6cbe15a03416b733e4a140f72c43a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807139933,
-    "wof:lastmodified":1467090549,
+    "wof:lastmodified":1510697624,
     "wof:name":"Jewel-Osco",
     "wof:parent_id":85815589,
     "wof:placetype":"venue",

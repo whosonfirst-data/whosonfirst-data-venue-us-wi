@@ -2,14 +2,20 @@
   "id": 807100177,
   "type": "Feature",
   "properties": {
+    "addr:full":"635 Lincoln Ave Stoughton WI 53589",
+    "addr:housenumber":"635",
+    "addr:postcode":"53589",
+    "addr:street":"Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.233281,42.926639,-89.233281,42.926639",
     "geom:latitude":42.926639,
     "geom:longitude":-89.233281,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"635 Lincoln Ave",
     "sg:city":"Stoughton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125153317,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NP2ZVkWz9C4LJ6NXE1xzz_42.926639_-89.233281@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603734,
-    "wof:geomhash":"c27cc8e7aef24e672ac3f9a970496605",
+    "wof:geomhash":"2084deae3e4449243ad11d1c21007c11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807100177,
-    "wof:lastmodified":1467090536,
+    "wof:lastmodified":1510699509,
     "wof:name":"La Petite Academy Inc",
     "wof:parent_id":85868281,
     "wof:placetype":"venue",

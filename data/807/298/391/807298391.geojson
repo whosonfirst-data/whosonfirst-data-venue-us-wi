@@ -2,9 +2,14 @@
   "id": 807298391,
   "type": "Feature",
   "properties": {
+    "addr:full":"7131 S 68th St Franklin WI 53132",
+    "addr:housenumber":"7131",
+    "addr:postcode":"53132",
+    "addr:street":"S 68Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.999335,42.915695,-87.999335,42.915695",
     "geom:latitude":42.915695,
     "geom:longitude":-87.999335,
@@ -28,7 +33,14 @@
         "transport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EkO0it8Kbb6Zh2fNqP8zy_42.915695_-87.999335@1294253271"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462605834,
     "wof:geomhash":"0b17947e383a7a63867d915a1e45deb2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":807298391
+        }
+    ],
     "wof:id":807298391,
-    "wof:lastmodified":1467090598,
+    "wof:lastmodified":1492103595,
     "wof:name":"Marine Service Bureau Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

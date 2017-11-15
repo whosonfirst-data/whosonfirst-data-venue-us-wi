@@ -2,9 +2,14 @@
   "id": 186289063,
   "type": "Feature",
   "properties": {
+    "addr:full":"5312 W Lisbon Ave Milwaukee WI 53210",
+    "addr:housenumber":"5312",
+    "addr:postcode":"53210",
+    "addr:street":"W Lisbon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.980933,43.064705,-87.980933,43.064705",
     "geom:latitude":43.064705,
     "geom:longitude":-87.980933,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870829,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870829
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"56ad6bdf12a43eec536a6ddad4b0b08a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870829,
             "region_id":85688517,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":186289063,
-    "wof:lastmodified":1467089917,
+    "wof:lastmodified":1491910478,
     "wof:name":"Avenue Auto Sales & Svc",
     "wof:parent_id":85870829,
     "wof:placetype":"venue",

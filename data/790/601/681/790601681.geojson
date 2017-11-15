@@ -2,14 +2,20 @@
   "id": 790601681,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 W Glendale Ave Appleton WI 54911",
+    "addr:housenumber":"123",
+    "addr:postcode":"54911",
+    "addr:street":"W Glendale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.407046,44.28056,-88.407046,44.28056",
     "geom:latitude":44.28056,
     "geom:longitude":-88.407046,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"123 W Glendale Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125154283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NEMlvns4qYvZAiAZGjnh7_44.280560_-88.407046@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462597239,
-    "wof:geomhash":"e14a336c798729eecf87f345b48a9a98",
+    "wof:geomhash":"cc7c07f375573cec1d2071867f9614c4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790601681,
-    "wof:lastmodified":1467090355,
+    "wof:lastmodified":1510693857,
     "wof:name":"Bill's Barber Shop",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

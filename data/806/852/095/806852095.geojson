@@ -2,9 +2,14 @@
   "id": 806852095,
   "type": "Feature",
   "properties": {
+    "addr:full":"7525 334th Ave Burlington WI 53105",
+    "addr:housenumber":"7525",
+    "addr:postcode":"53105",
+    "addr:street":"334Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.215447,42.566594,-88.215447,42.566594",
     "geom:latitude":42.566594,
     "geom:longitude":-88.215447,
@@ -24,7 +29,10 @@
     "sg:postcode":"53105",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0G0ulHs7idOqljXLYbFnUg_42.566594_-88.215447@1294253271"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462601626,
     "wof:geomhash":"3eb823baf8a80faa448a8970576e7f1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":806852095
+        }
+    ],
     "wof:id":806852095,
-    "wof:lastmodified":1467090476,
+    "wof:lastmodified":1492109458,
     "wof:name":"Bradleys Lawn Care Inc",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

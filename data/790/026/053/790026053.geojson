@@ -2,14 +2,20 @@
   "id": 790026053,
   "type": "Feature",
   "properties": {
+    "addr:full":"408 Galloway St Eau Claire WI 54703",
+    "addr:housenumber":"408",
+    "addr:postcode":"54703",
+    "addr:street":"Galloway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.500184,44.814778,-91.500184,44.814778",
     "geom:latitude":44.814778,
     "geom:longitude":-91.500184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"408 Galloway St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081761,
         85868291
     ],
+    "wof:brand_id":1125156791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0609WYvwagAmxOPVVZvVVR_44.814778_-91.500184@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592539,
-    "wof:geomhash":"ceef53edd20d6f377924c2367dc7b4e4",
+    "wof:geomhash":"c2d43b153a9ea193aae668100c06dcb0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790026053,
-    "wof:lastmodified":1467090237,
+    "wof:lastmodified":1510695703,
     "wof:name":"My Place",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807017569,
   "type": "Feature",
   "properties": {
+    "addr:full":"5898 Woodland Dr Waunakee WI 53597",
+    "addr:housenumber":"5898",
+    "addr:postcode":"53597",
+    "addr:street":"Woodland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.447215,43.177443,-89.447215,43.177443",
     "geom:latitude":43.177443,
     "geom:longitude":-89.447215,
@@ -27,12 +32,7 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VBDt3M8xRGJU3MIzb9Lcf_43.177443_-89.447215@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462603007,
     "wof:geomhash":"c830a51878bcce068c44749cdd48ee2e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807017569
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807017569,
-    "wof:lastmodified":1467090514,
+    "wof:lastmodified":1491935694,
     "wof:name":"Paul T Magio DDS",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

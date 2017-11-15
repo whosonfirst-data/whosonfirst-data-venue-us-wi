@@ -2,14 +2,20 @@
   "id": 790114015,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Fulton St Wausau WI 54403",
+    "addr:housenumber":"102",
+    "addr:postcode":"54403",
+    "addr:street":"Fulton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.628474,44.965008,-89.628474,44.965008",
     "geom:latitude":44.965008,
     "geom:longitude":-89.628474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"102 Fulton St",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081881,
         85868295
     ],
+    "wof:brand_id":1125151207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7O2McqJ1U8T7LqLGbhoRqK_44.965008_-89.628474@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593246,
-    "wof:geomhash":"f158464aad07b35568532614b82237ec",
+    "wof:geomhash":"c61a444683f4dcc690deceda8af55c7b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790114015,
-    "wof:lastmodified":1467090254,
+    "wof:lastmodified":1510613191,
     "wof:name":"ABC Supply Co",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",

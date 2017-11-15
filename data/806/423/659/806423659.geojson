@@ -2,9 +2,14 @@
   "id": 806423659,
   "type": "Feature",
   "properties": {
+    "addr:full":"493 Wrigley Dr Lake Geneva WI 53147",
+    "addr:housenumber":"493",
+    "addr:postcode":"53147",
+    "addr:street":"Wrigley Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.432757,42.58784,-88.432757,42.58784",
     "geom:latitude":42.58784,
     "geom:longitude":-88.432757,
@@ -24,13 +29,7 @@
     "sg:postcode":"53147",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oK6repTiI8ulSti2mH8j7_42.587840_-88.432757@1294253271"
@@ -38,18 +37,9 @@
     "wof:country":"US",
     "wof:created":1462598032,
     "wof:geomhash":"4dd674ba269981ca3ebc1257c4f2018e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806423659
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806423659,
-    "wof:lastmodified":1467090376,
+    "wof:lastmodified":1492103566,
     "wof:name":"Eleven Gables Inn On The Lake",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

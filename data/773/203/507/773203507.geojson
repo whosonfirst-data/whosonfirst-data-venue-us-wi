@@ -2,14 +2,20 @@
   "id": 773203507,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 N Westhill Blvd Appleton WI 54914",
+    "addr:housenumber":"601",
+    "addr:postcode":"54914",
+    "addr:street":"N Westhill Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.46113,44.266012,-88.46113,44.266012",
     "geom:latitude":44.266012,
     "geom:longitude":-88.46113,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"601 N Westhill Blvd",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125153843,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05JuZaeiQhSI2NGREaQbJL_44.266012_-88.461130@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583954,
-    "wof:geomhash":"64b3a74a87c220df4ad357d815ed0a58",
+    "wof:geomhash":"8fa4b967143440ce425ca6c9231c0a67",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773203507,
-    "wof:lastmodified":1467089987,
+    "wof:lastmodified":1510699672,
     "wof:name":"Bassett Furniture Direct",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

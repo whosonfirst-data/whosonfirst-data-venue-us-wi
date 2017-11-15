@@ -2,14 +2,20 @@
   "id": 806981929,
   "type": "Feature",
   "properties": {
+    "addr:full":"1508 Co Rd V Sheboygan WI 53081",
+    "addr:housenumber":"1508",
+    "addr:postcode":"53081",
+    "addr:street":"Co Rd V",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.720849,43.672771,-87.720849,43.672771",
     "geom:latitude":43.672771,
     "geom:longitude":-87.720849,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1508 Co Rd V",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85854963,
         102081869
     ],
+    "wof:brand_id":1125157699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53wQmypTVf3Znr55NvCuqd_43.672771_-87.720849@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602709,
-    "wof:geomhash":"d2c107577b1e676c4b11302650955b28",
+    "wof:geomhash":"c43c14ee1a978095640b2e2ad93f3c4e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":806981929,
-    "wof:lastmodified":1467090505,
+    "wof:lastmodified":1510694902,
     "wof:name":"Physicians Mutual Insurance Co",
     "wof:parent_id":85854963,
     "wof:placetype":"venue",

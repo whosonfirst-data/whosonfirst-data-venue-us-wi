@@ -2,14 +2,20 @@
   "id": 773467125,
   "type": "Feature",
   "properties": {
+    "addr:full":"3231 Laura Ln Middleton WI 53562",
+    "addr:housenumber":"3231",
+    "addr:postcode":"53562",
+    "addr:street":"Laura Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.514532,43.106981,-89.514532,43.106981",
     "geom:latitude":43.106981,
     "geom:longitude":-89.514532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3231 Laura Ln",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081795,
         85841479
     ],
+    "wof:brand_id":1125154889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CLbPpUTDM8if2YYGdZ364_43.106981_-89.514532@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585965,
-    "wof:geomhash":"81c5ace17956b579fa23b9f5deaa819f",
+    "wof:geomhash":"1b6932d5c9d2e58b5f0eb131030f9a42",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773467125,
-    "wof:lastmodified":1467090060,
+    "wof:lastmodified":1510697719,
     "wof:name":"International Union-Oper Engrs",
     "wof:parent_id":85841479,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773644575,
   "type": "Feature",
   "properties": {
+    "addr:full":"2930 Allied St Green Bay WI 54304",
+    "addr:housenumber":"2930",
+    "addr:postcode":"54304",
+    "addr:street":"Allied St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.082073,44.472287,-88.082073,44.472287",
     "geom:latitude":44.472287,
     "geom:longitude":-88.082073,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2930 Allied St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125159437,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qVcIF8RXwnnxfoFPHszk3_44.472287_-88.082073@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587287,
-    "wof:geomhash":"7975980090bb2b58e3c00adf3ef9d460",
+    "wof:geomhash":"268047e31b789388f0338a66da37e779",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773644575,
-    "wof:lastmodified":1467090101,
+    "wof:lastmodified":1510697978,
     "wof:name":"Wingfoot Commercial Tire Systs",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

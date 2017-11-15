@@ -2,14 +2,20 @@
   "id": 823165305,
   "type": "Feature",
   "properties": {
+    "addr:full":"6633 W Forest Home Ave Milwaukee WI 53220",
+    "addr:housenumber":"6633",
+    "addr:postcode":"53220",
+    "addr:street":"W Forest Home Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.996393,42.971459,-87.996393,42.971459",
     "geom:latitude":42.971459,
     "geom:longitude":-87.996393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6633 W Forest Home Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -45,13 +51,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":420575071,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5F4dSDq304oE1bifg7gqGu_42.971459_-87.996393@1303262810"
     },
     "wof:country":"US",
     "wof:created":1462607873,
-    "wof:geomhash":"c445c3f8d2cdaffcc643fd7d7b14fae7",
+    "wof:geomhash":"033f7e6247ee72c0515f4de8c93c9d22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":823165305,
-    "wof:lastmodified":1467090654,
+    "wof:lastmodified":1510602740,
     "wof:name":"Merry Maids",
     "wof:parent_id":420558473,
     "wof:placetype":"venue",

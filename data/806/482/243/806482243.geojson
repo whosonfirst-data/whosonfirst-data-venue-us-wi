@@ -2,9 +2,14 @@
   "id": 806482243,
   "type": "Feature",
   "properties": {
+    "addr:full":"7645 Farmington Way Madison WI 53717",
+    "addr:housenumber":"7645",
+    "addr:postcode":"53717",
+    "addr:street":"Farmington Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.516369,43.073689,-89.516369,43.073689",
     "geom:latitude":43.073689,
     "geom:longitude":-89.516369,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"7bb2c27c00c48e303f1f131dbc8d257a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":806482243,
-    "wof:lastmodified":1467090390,
+    "wof:lastmodified":1491894092,
     "wof:name":"Nino Amato & Assoc LLC",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

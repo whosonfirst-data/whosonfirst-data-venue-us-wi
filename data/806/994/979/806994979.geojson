@@ -2,14 +2,20 @@
   "id": 806994979,
   "type": "Feature",
   "properties": {
+    "addr:full":"610 Lombardi Ave Green Bay WI 54304",
+    "addr:housenumber":"610",
+    "addr:postcode":"54304",
+    "addr:street":"Lombardi Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.039414,44.495354,-88.039414,44.495354",
     "geom:latitude":44.495354,
     "geom:longitude":-88.039414,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"610 Lombardi Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125151219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69cLv4JTnP6q5tAh6OsG8b_44.495354_-88.039414@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602813,
-    "wof:geomhash":"50ad7c73408c9038800d8a86306438e0",
+    "wof:geomhash":"b4d94ae9a69a83f72b2fbbb0391cf98d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806994979,
-    "wof:lastmodified":1467090508,
+    "wof:lastmodified":1510697575,
     "wof:name":"Graybar Electric Co",
     "wof:parent_id":85877931,
     "wof:placetype":"venue",

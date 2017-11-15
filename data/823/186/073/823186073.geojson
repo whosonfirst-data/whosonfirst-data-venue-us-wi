@@ -2,14 +2,20 @@
   "id": 823186073,
   "type": "Feature",
   "properties": {
+    "addr:full":"4271 Lien Rd Madison WI 53704",
+    "addr:housenumber":"",
+    "addr:postcode":"4271;53704",
+    "addr:street":"Lien Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.308746,43.121029,-89.308746,43.121029",
     "geom:latitude":43.121029,
     "geom:longitude":-89.308746,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4271 Lien Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -52,13 +58,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125159945,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OZDNhINjB7GFJpYaFLtAu_43.121029_-89.308746@1303262812"
     },
     "wof:country":"US",
     "wof:created":1462608144,
-    "wof:geomhash":"5de9cc903b796d37dbf0694994b0d551",
+    "wof:geomhash":"7a9fd2b2479b02579e0f4124817a898f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,7 +79,7 @@
         }
     ],
     "wof:id":823186073,
-    "wof:lastmodified":1467090663,
+    "wof:lastmodified":1510696677,
     "wof:name":"Michaels - The Arts & Craft Store",
     "wof:parent_id":85878851,
     "wof:placetype":"venue",

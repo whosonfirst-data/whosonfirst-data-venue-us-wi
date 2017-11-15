@@ -2,9 +2,14 @@
   "id": 773167535,
   "type": "Feature",
   "properties": {
+    "addr:full":"7210 State Rd 120 East Troy WI 53120",
+    "addr:housenumber":"7210",
+    "addr:postcode":"53120",
+    "addr:street":"State Rd 120",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.406297,42.752995,-88.406297,42.752995",
     "geom:latitude":42.752995,
     "geom:longitude":-88.406297,
@@ -27,7 +32,13 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404492469,
+        85633793,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bzDozy9KYolIwhIINFEGw_42.752995_-88.406297@1294253271"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462583646,
     "wof:geomhash":"1ea612b8256cf4857c1100e81c655f2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404492469,
+            "region_id":85688517,
+            "venue_id":773167535
+        }
+    ],
     "wof:id":773167535,
-    "wof:lastmodified":1467089978,
+    "wof:lastmodified":1492087962,
     "wof:name":"Spruce It Up",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

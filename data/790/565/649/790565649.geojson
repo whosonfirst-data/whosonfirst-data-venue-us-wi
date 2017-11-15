@@ -2,14 +2,20 @@
   "id": 790565649,
   "type": "Feature",
   "properties": {
+    "addr:full":"1523 N Waterville Rd Oconomowoc WI 53066",
+    "addr:housenumber":"1523",
+    "addr:postcode":"53066",
+    "addr:street":"N Waterville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.425401,43.052434,-88.425401,43.052434",
     "geom:latitude":43.052434,
     "geom:longitude":-88.425401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1523 N Waterville Rd",
     "sg:city":"Oconomowoc",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85854741,
         102081741
     ],
+    "wof:brand_id":1125154091,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iVWOcQD0STz1BQnWtjQUJ_43.052434_-88.425401@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596922,
-    "wof:geomhash":"cc3bc2ca12597a753b73cab67b19b52d",
+    "wof:geomhash":"b013b6e94615b68b9362aa097860878a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790565649,
-    "wof:lastmodified":1467090347,
+    "wof:lastmodified":1510699678,
     "wof:name":"Vulcan Materials Company",
     "wof:parent_id":85854741,
     "wof:placetype":"venue",

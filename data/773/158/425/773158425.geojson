@@ -2,9 +2,14 @@
   "id": 773158425,
   "type": "Feature",
   "properties": {
+    "addr:full":"7019 US Hwy 12 Elkhorn WI 53121",
+    "addr:housenumber":"7019",
+    "addr:postcode":"53121",
+    "addr:street":"Us Hwy 12",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.553525,42.747934,-88.553525,42.747934",
     "geom:latitude":42.747934,
     "geom:longitude":-88.553525,
@@ -28,7 +33,10 @@
         "fishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550193
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SR3h0ZN7YdK0elqTcRgXA_42.747934_-88.553525@1294253271"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462583579,
     "wof:geomhash":"d0cf946131883e2c0ea8fa6e07361e1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550193,
+            "venue_id":773158425
+        }
+    ],
     "wof:id":773158425,
-    "wof:lastmodified":1467089975,
+    "wof:lastmodified":1492098891,
     "wof:name":"Sugar Creek Bait & Tackle",
     "wof:parent_id":420550193,
     "wof:placetype":"venue",

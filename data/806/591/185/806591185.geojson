@@ -2,9 +2,14 @@
   "id": 806591185,
   "type": "Feature",
   "properties": {
+    "addr:full":"3535 W 7 Mile Rd Caledonia WI 53108",
+    "addr:housenumber":"3535",
+    "addr:postcode":"53108",
+    "addr:street":"W 7 Mile Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.957531,42.82965,-87.957531,42.82965",
     "geom:latitude":42.82965,
     "geom:longitude":-87.957531,
@@ -27,7 +32,10 @@
         "equine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7R4e8xewBGu3sQt27JlWmY_42.829650_-87.957531@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462599407,
     "wof:geomhash":"6afd48d54d55bae8ee09d7258d7eb773",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550151,
+            "venue_id":806591185
+        }
+    ],
     "wof:id":806591185,
-    "wof:lastmodified":1467090416,
+    "wof:lastmodified":1492103488,
     "wof:name":"Kayces Classic Critters & Eqp",
     "wof:parent_id":420550151,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773024105,
   "type": "Feature",
   "properties": {
+    "addr:full":"2830 Progress Rd Madison WI 53716",
+    "addr:housenumber":"2830",
+    "addr:postcode":"53716",
+    "addr:street":"Progress Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.304209,43.055562,-89.304209,43.055562",
     "geom:latitude":43.055562,
     "geom:longitude":-89.304209,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2830 Progress Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125153259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tjvmpxpEsfRNuueVxyGaw_43.055562_-89.304209@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462582506,
-    "wof:geomhash":"9579a1d5e757265fceedc69da5167e37",
+    "wof:geomhash":"a53e7d83e664703ee02bbb2013eecbd9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773024105,
-    "wof:lastmodified":1467089940,
+    "wof:lastmodified":1510697123,
     "wof:name":"Velocity Express Inc",
     "wof:parent_id":85878847,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806978851,
   "type": "Feature",
   "properties": {
+    "addr:full":"10710 W Scharles Ave Hales Corners WI 53130",
+    "addr:housenumber":"10710",
+    "addr:postcode":"53130",
+    "addr:street":"W Scharles Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.04828,42.939818,-88.04828,42.939818",
     "geom:latitude":42.939818,
     "geom:longitude":-88.04828,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.akrit.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494175,
+        85633793,
+        101733077,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dr26OomZyAjrJ5g0xVDms_42.939818_-88.048280@1294253271"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462602680,
     "wof:geomhash":"27af3622a51f3663fd1d0133f0ff71cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494175,
+            "locality_id":101733077,
+            "region_id":85688517,
+            "venue_id":806978851
+        }
+    ],
     "wof:id":806978851,
-    "wof:lastmodified":1467090504,
+    "wof:lastmodified":1492108911,
     "wof:name":"Akrit Sales & Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

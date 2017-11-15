@@ -2,14 +2,20 @@
   "id": 807260241,
   "type": "Feature",
   "properties": {
+    "addr:full":"3747 Douglas Ave Racine WI 53402",
+    "addr:housenumber":"3747",
+    "addr:postcode":"53402",
+    "addr:street":"Douglas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.802688,42.769413,-87.802688,42.769413",
     "geom:latitude":42.769413,
     "geom:longitude":-87.802688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3747 Douglas Ave",
     "sg:city":"Racine",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102081763,
         85688517
     ],
+    "wof:brand_id":1125152133,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tyACYul5gw1tt11lfro4h_42.769413_-87.802688@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605433,
-    "wof:geomhash":"96a7f367ad93586d834eedd67351ede4",
+    "wof:geomhash":"ede7d89fd3472c1187f23c3f6da1e985",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":807260241,
-    "wof:lastmodified":1467090586,
+    "wof:lastmodified":1510695267,
     "wof:name":"Cingular Wireless LLC",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773555597,
   "type": "Feature",
   "properties": {
+    "addr:full":"1119 Marshall St Manitowoc WI 54220",
+    "addr:housenumber":"1119",
+    "addr:postcode":"54220",
+    "addr:street":"Marshall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.663159,44.087108,-87.663159,44.087108",
     "geom:latitude":44.087108,
     "geom:longitude":-87.663159,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1119 Marshall St",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":1125154149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nZeKWEKM9YIFeXN18c7HX_44.087108_-87.663159@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586612,
-    "wof:geomhash":"b59027764cbe6c988c179dac3786b2d2",
+    "wof:geomhash":"b0058328c093a5db884486694ab58b5b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773555597,
-    "wof:lastmodified":1467090081,
+    "wof:lastmodified":1510694979,
     "wof:name":"Shear Madness",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

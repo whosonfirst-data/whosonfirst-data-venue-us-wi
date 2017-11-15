@@ -2,14 +2,20 @@
   "id": 773679151,
   "type": "Feature",
   "properties": {
+    "addr:full":"6105 Odana Rd Madison WI 53719",
+    "addr:housenumber":"6105",
+    "addr:postcode":"53719",
+    "addr:street":"Odana Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.489321,43.054182,-89.489321,43.054182",
     "geom:latitude":43.054182,
     "geom:longitude":-89.489321,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6105 Odana Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":420575389,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Jf0bWJryOr9LyNxWuiOZF_43.054182_-89.489321@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587533,
-    "wof:geomhash":"aca89ed4611ebf188b63b702125c3bcb",
+    "wof:geomhash":"8cbac1fc9cf1b20f61eb96d0f1d7b79e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773679151,
-    "wof:lastmodified":1467090109,
+    "wof:lastmodified":1510607670,
     "wof:name":"Fastsigns",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",

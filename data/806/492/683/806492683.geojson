@@ -2,9 +2,14 @@
   "id": 806492683,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Haskins St Lake Geneva WI 53147",
+    "addr:housenumber":"201",
+    "addr:postcode":"53147",
+    "addr:street":"Haskins St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.427251,42.600237,-88.427251,42.600237",
     "geom:latitude":42.600237,
     "geom:longitude":-88.427251,
@@ -27,13 +32,7 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Z0cX74src3gSUO4tSk9fV_42.600237_-88.427251@1294253271"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1462598561,
     "wof:geomhash":"b09876f5ce11809af42c00b99d195341",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806492683
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806492683,
-    "wof:lastmodified":1467090392,
+    "wof:lastmodified":1492111865,
     "wof:name":"Lake Geneva Wastewater Plant",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

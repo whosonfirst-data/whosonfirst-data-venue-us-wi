@@ -2,14 +2,20 @@
   "id": 806980817,
   "type": "Feature",
   "properties": {
+    "addr:full":"2516 Wollmer St Manitowoc WI 54220",
+    "addr:housenumber":"2516",
+    "addr:postcode":"54220",
+    "addr:street":"Wollmer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.680016,44.094201,-87.680016,44.094201",
     "geom:latitude":44.094201,
     "geom:longitude":-87.680016,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2516 Wollmer St",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":1125156919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18gvi1hqG7ZXELcobMHPh6_44.094201_-87.680016@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602696,
-    "wof:geomhash":"63619843ac96920f51b0605104f5f0b2",
+    "wof:geomhash":"2e70255f3cb787b4e31fb18a0c44de03",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806980817,
-    "wof:lastmodified":1467090504,
+    "wof:lastmodified":1510698506,
     "wof:name":"Book Nook",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

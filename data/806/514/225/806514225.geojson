@@ -2,14 +2,20 @@
   "id": 806514225,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 Spring St Manitowoc WI 54220",
+    "addr:housenumber":"1801",
+    "addr:postcode":"54220",
+    "addr:street":"Spring St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.666086,44.102068,-87.666086,44.102068",
     "geom:latitude":44.102068,
     "geom:longitude":-87.666086,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1801 Spring St",
     "sg:city":"Manitowoc",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":1125155735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uuYF6xlvsFpvUoZDhkAzu_44.102068_-87.666086@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598747,
-    "wof:geomhash":"77ad8708bb96b06b92562145d18af9d8",
+    "wof:geomhash":"17c40b9d3e8964197ee00876d2d80da0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806514225,
-    "wof:lastmodified":1467090397,
+    "wof:lastmodified":1510699770,
     "wof:name":"Cemex",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

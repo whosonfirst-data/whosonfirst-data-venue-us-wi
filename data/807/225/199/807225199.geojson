@@ -2,14 +2,20 @@
   "id": 807225199,
   "type": "Feature",
   "properties": {
+    "addr:full":"6120 Rock Falls Rd Eau Claire WI 54701",
+    "addr:housenumber":"6120",
+    "addr:postcode":"54701",
+    "addr:street":"Rock Falls Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.617824,44.727292,-91.617824,44.727292",
     "geom:latitude":44.727292,
     "geom:longitude":-91.617824,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6120 Rock Falls Rd",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081761,
         85848105
     ],
+    "wof:brand_id":1125157817,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7E4l3JB8gnMIwFD0VseEFd_44.727292_-91.617824@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605068,
-    "wof:geomhash":"b0d0d91dbea6cba4052849a90841688a",
+    "wof:geomhash":"72df7829ff560275f2c3da1c95b22f2d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807225199,
-    "wof:lastmodified":1467090575,
+    "wof:lastmodified":1510694200,
     "wof:name":"Country Suites By Carlson",
     "wof:parent_id":85848105,
     "wof:placetype":"venue",

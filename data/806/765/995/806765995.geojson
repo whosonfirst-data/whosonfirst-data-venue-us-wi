@@ -2,14 +2,20 @@
   "id": 806765995,
   "type": "Feature",
   "properties": {
+    "addr:full":"4625 Michaels Dr Appleton WI 54913",
+    "addr:housenumber":"4625",
+    "addr:postcode":"54913",
+    "addr:street":"Michaels Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.476434,44.267542,-88.476434,44.267542",
     "geom:latitude":44.267542,
     "geom:longitude":-88.476434,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4625 Michaels Dr",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125150081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GbQtsjuVcTnlhu959jWZm_44.267542_-88.476434@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600893,
-    "wof:geomhash":"9cf6dd7650a8f8155c29b3d89a697ecf",
+    "wof:geomhash":"4b54137dad41e8121fea8eb9afde29af",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806765995,
-    "wof:lastmodified":1467090456,
+    "wof:lastmodified":1510696026,
     "wof:name":"David's Bridal",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773732569,
   "type": "Feature",
   "properties": {
+    "addr:full":"631 W Northland Ave Appleton WI 54911",
+    "addr:housenumber":"631",
+    "addr:postcode":"54911",
+    "addr:street":"W Northland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.411116,44.287203,-88.411116,44.287203",
     "geom:latitude":44.287203,
     "geom:longitude":-88.411116,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"631 W Northland Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081851,
         85805401
     ],
+    "wof:brand_id":1125151391,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PhcQbQbLU0uBNJbHLPYP9_44.287203_-88.411116@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587970,
-    "wof:geomhash":"d305109eb6bf4b18115e8dd369709fbc",
+    "wof:geomhash":"b1dcd5236e1ffca3aa9dde81059427b8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773732569,
-    "wof:lastmodified":1467090121,
+    "wof:lastmodified":1510613543,
     "wof:name":"Schlotzsky's Deli",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",

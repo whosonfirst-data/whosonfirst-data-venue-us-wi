@@ -2,9 +2,14 @@
   "id": 807402641,
   "type": "Feature",
   "properties": {
+    "addr:full":"2903 264th Ave Salem WI 53168",
+    "addr:housenumber":"2903",
+    "addr:postcode":"53168",
+    "addr:street":"264Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.129701,42.614275,-88.129701,42.614275",
     "geom:latitude":42.614275,
     "geom:longitude":-88.129701,
@@ -24,7 +29,13 @@
     "sg:postcode":"53168",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404491699,
+        85633793,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JJVUBNb9rr9YJD0794YPp_42.614275_-88.129701@1303262807"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462607343,
     "wof:geomhash":"7227295c81154afde82f5f1ffb70a059",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404491699,
+            "region_id":85688517,
+            "venue_id":807402641
+        }
+    ],
     "wof:id":807402641,
-    "wof:lastmodified":1467090639,
+    "wof:lastmodified":1492103547,
     "wof:name":"Diettrich Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

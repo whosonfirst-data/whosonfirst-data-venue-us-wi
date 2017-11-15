@@ -2,14 +2,20 @@
   "id": 353505629,
   "type": "Feature",
   "properties": {
+    "addr:full":"1720 Broadway St S Menomonie WI 54751",
+    "addr:housenumber":"1720",
+    "addr:postcode":"54751",
+    "addr:street":"Broadway St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.929688,44.86726,-91.929688,44.86726",
     "geom:latitude":44.86726,
     "geom:longitude":-91.929688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1720 Broadway St S",
     "sg:city":"Menomonie",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102081747,
         85837813
     ],
+    "wof:brand_id":1125151085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CrETgeJrKfbWo03STA5Nr_44.867260_-91.929688@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"615acb7484d64aa0409f41fce4820216",
+    "wof:geomhash":"1c243be8524bfea41643057dca57cded",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":353505629,
-    "wof:lastmodified":1467089891,
+    "wof:lastmodified":1510695429,
     "wof:name":"Perkins Family Restaurant",
     "wof:parent_id":85837813,
     "wof:placetype":"venue",

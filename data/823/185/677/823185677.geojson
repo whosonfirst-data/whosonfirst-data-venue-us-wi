@@ -2,9 +2,14 @@
   "id": 823185677,
   "type": "Feature",
   "properties": {
+    "addr:full":"323 Santa Fe Trl Waunakee WI 53597",
+    "addr:housenumber":"323",
+    "addr:postcode":"53597",
+    "addr:street":"Santa Fe Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.451508,43.198794,-89.451508,43.198794",
     "geom:latitude":43.198794,
     "geom:longitude":-89.451508,
@@ -27,12 +32,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kvcQIfgv90QQaOmNZbDK2_43.198794_-89.451508@1303262812"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462608140,
     "wof:geomhash":"80689489093554d9a5dff24f6f74dc4e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":823185677
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823185677,
-    "wof:lastmodified":1467090663,
+    "wof:lastmodified":1491935702,
     "wof:name":"Farrell Robert M Builder",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

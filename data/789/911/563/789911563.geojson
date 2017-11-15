@@ -2,14 +2,20 @@
   "id": 789911563,
   "type": "Feature",
   "properties": {
+    "addr:full":"1828 E Otter Ln Mosinee WI 54455",
+    "addr:housenumber":"1828",
+    "addr:postcode":"54455",
+    "addr:street":"E Otter Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.712918,44.829356,-89.712918,44.829356",
     "geom:latitude":44.829356,
     "geom:longitude":-89.712918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1828 E Otter Ln",
     "sg:city":"Mosinee",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081881,
         85688517
     ],
+    "wof:brand_id":1125151709,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WpmSalKPDFR5az3NErnQZ_44.829356_-89.712918@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591552,
-    "wof:geomhash":"2cc1f13793ad668753bf85c33bfb5cb4",
+    "wof:geomhash":"bcf92e68629e3782ac7b4100fc1a0d96",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789911563,
-    "wof:lastmodified":1467090214,
+    "wof:lastmodified":1510693985,
     "wof:name":"American Federation of St",
     "wof:parent_id":85865437,
     "wof:placetype":"venue",

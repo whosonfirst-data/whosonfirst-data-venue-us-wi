@@ -2,14 +2,20 @@
   "id": 773792129,
   "type": "Feature",
   "properties": {
+    "addr:full":"6800 Century Ave Middleton WI 53562",
+    "addr:housenumber":"6800",
+    "addr:postcode":"53562",
+    "addr:street":"Century Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.501745,43.108985,-89.501745,43.108985",
     "geom:latitude":43.108985,
     "geom:longitude":-89.501745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6800 Century Ave",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081795,
         85841479
     ],
+    "wof:brand_id":420575719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rHfWIuB4FCcMkiEfceASe_43.108985_-89.501745@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588404,
-    "wof:geomhash":"126c2aa111f4801dd3993a9b93b5dd3c",
+    "wof:geomhash":"6378d08fc5b8e19c61cda0d0cd979fdc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773792129,
-    "wof:lastmodified":1467090135,
+    "wof:lastmodified":1510602885,
     "wof:name":"Guaranty Bank",
     "wof:parent_id":85841479,
     "wof:placetype":"venue",

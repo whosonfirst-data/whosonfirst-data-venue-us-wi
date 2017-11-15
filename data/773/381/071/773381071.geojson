@@ -2,14 +2,20 @@
   "id": 773381071,
   "type": "Feature",
   "properties": {
+    "addr:full":"4707 Lien Rd Madison WI 53704",
+    "addr:housenumber":"4707",
+    "addr:postcode":"53704",
+    "addr:street":"Lien Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.301898,43.121002,-89.301898,43.121002",
     "geom:latitude":43.121002,
     "geom:longitude":-89.301898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4707 Lien Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125152107,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cC17wTLS0SuSAYil7vQfj_43.121002_-89.301898@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585258,
-    "wof:geomhash":"b6d3582710e7c962cdc0bf9a48c73898",
+    "wof:geomhash":"c03e17387dd5752c53b8266d2cf8fce4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773381071,
-    "wof:lastmodified":1467090040,
+    "wof:lastmodified":1510694960,
     "wof:name":"Signs By Tomorrow",
     "wof:parent_id":85878851,
     "wof:placetype":"venue",

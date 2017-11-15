@@ -2,14 +2,20 @@
   "id": 773668465,
   "type": "Feature",
   "properties": {
+    "addr:full":"1288 Rudy St Onalaska WI 54650",
+    "addr:housenumber":"1288",
+    "addr:postcode":"54650",
+    "addr:street":"Rudy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.197742,43.875854,-91.197742,43.875854",
     "geom:latitude":43.875854,
     "geom:longitude":-91.197742,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1288 Rudy St",
     "sg:city":"Onalaska",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081301,
         85825891
     ],
+    "wof:brand_id":1125158851,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VVgmGXWKSkHxnRfWMixEt_43.875854_-91.197742@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587456,
-    "wof:geomhash":"67ac16cd3884ee590f24a9d7d192e336",
+    "wof:geomhash":"11e50383b5e57da73138f299476bc183",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773668465,
-    "wof:lastmodified":1467090106,
+    "wof:lastmodified":1510695068,
     "wof:name":"Rockwell Automation",
     "wof:parent_id":85825891,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773047587,
   "type": "Feature",
   "properties": {
+    "addr:full":"1103 Wisconsin St Lake Geneva WI 53147",
+    "addr:housenumber":"1103",
+    "addr:postcode":"53147",
+    "addr:street":"Wisconsin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.441867,42.594349,-88.441867,42.594349",
     "geom:latitude":42.594349,
     "geom:longitude":-88.441867,
@@ -29,13 +34,7 @@
     ],
     "sg:website":"www.alcenter.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UEx8JH88GJUQLN0PX9YTv_42.594349_-88.441867@1294253271"
@@ -43,18 +42,9 @@
     "wof:country":"US",
     "wof:created":1462582721,
     "wof:geomhash":"49c9a936e93f3f05bed271c5c0bc41b5",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":773047587
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773047587,
-    "wof:lastmodified":1467089948,
+    "wof:lastmodified":1492108873,
     "wof:name":"Center-Accelerated Learning",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 403788875,
   "type": "Feature",
   "properties": {
+    "addr:full":"7100 W Center St Wauwatosa WI 53210",
+    "addr:housenumber":"7100",
+    "addr:postcode":"53210",
+    "addr:street":"W Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.001854,43.068045,-88.001854,43.068045",
     "geom:latitude":43.068045,
     "geom:longitude":-88.001854,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870829,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870829
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"ef4baa1627e793605bb6540f358d4f07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870829,
             "region_id":85688517,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":403788875,
-    "wof:lastmodified":1467089919,
+    "wof:lastmodified":1491910474,
     "wof:name":"Norris & Assoc",
     "wof:parent_id":85870829,
     "wof:placetype":"venue",

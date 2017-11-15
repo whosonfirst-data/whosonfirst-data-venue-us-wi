@@ -2,9 +2,14 @@
   "id": 773046745,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Highgate Cir Madison WI 53717",
+    "addr:housenumber":"5",
+    "addr:postcode":"53717",
+    "addr:street":"Highgate Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.513423,43.081895,-89.513423,43.081895",
     "geom:latitude":43.081895,
     "geom:longitude":-89.513423,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"b3b843fc4e8d6ff113044c3f088ac52d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":773046745,
-    "wof:lastmodified":1467089947,
+    "wof:lastmodified":1491894055,
     "wof:name":"Nerd Shop Inc",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

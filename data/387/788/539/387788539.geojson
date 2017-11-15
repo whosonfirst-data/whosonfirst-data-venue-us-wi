@@ -2,14 +2,20 @@
   "id": 387788539,
   "type": "Feature",
   "properties": {
+    "addr:full":"6774 Acorn Ave Cataract WI 54656",
+    "addr:housenumber":"6774",
+    "addr:postcode":"54656",
+    "addr:street":"Acorn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.855967,44.129097,-90.855967,44.129097",
     "geom:latitude":44.129097,
     "geom:longitude":-90.855967,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6774 Acorn Ave",
     "sg:city":"Cataract",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         85633793,
         85688517
     ],
+    "wof:brand_id":1125151381,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zgm3og5s25gSYCe3oROSw_44.129097_-90.855967@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c0f41b109a39c10aac1db3bf497a325",
+    "wof:geomhash":"aae867aa42a7ef1f1f2e5d2bb40c6175",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":387788539,
-    "wof:lastmodified":1467089927,
+    "wof:lastmodified":1510695307,
     "wof:name":"Peace Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

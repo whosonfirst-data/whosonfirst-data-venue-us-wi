@@ -2,9 +2,14 @@
   "id": 806774555,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 W 2nd St Waunakee WI 53597",
+    "addr:housenumber":"210",
+    "addr:postcode":"53597",
+    "addr:street":"W 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.456975,43.190757,-89.456975,43.190757",
     "geom:latitude":43.190757,
     "geom:longitude":-89.456975,
@@ -27,12 +32,7 @@
         "embroidery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GquEqNh0Oow0SyasoPIU1_43.190757_-89.456975@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462600972,
     "wof:geomhash":"9682df91e41647159c068d270bf14f3d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806774555
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806774555,
-    "wof:lastmodified":1467090458,
+    "wof:lastmodified":1491935706,
     "wof:name":"Stitch Wiz",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773028759,
   "type": "Feature",
   "properties": {
+    "addr:full":"5103 Sherman St Wausau WI 54401",
+    "addr:housenumber":"5103",
+    "addr:postcode":"54401",
+    "addr:street":"Sherman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.699787,44.951595,-89.699787,44.951595",
     "geom:latitude":44.951595,
     "geom:longitude":-89.699787,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5103 Sherman St",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081881,
         85868295
     ],
+    "wof:brand_id":1125158153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZEbpFAmYGJ0XcivAR4ge6_44.951595_-89.699787@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462582555,
-    "wof:geomhash":"5fa70ae7198017fb210663daeec839e0",
+    "wof:geomhash":"5a4f955522dccbe284ad9548c869b787",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773028759,
-    "wof:lastmodified":1467089941,
+    "wof:lastmodified":1510697479,
     "wof:name":"Old Dominion Freight Line",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",

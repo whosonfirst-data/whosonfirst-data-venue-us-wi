@@ -2,9 +2,14 @@
   "id": 790587811,
   "type": "Feature",
   "properties": {
+    "addr:full":"902 N High Point Rd Madison WI 53717",
+    "addr:housenumber":"902",
+    "addr:postcode":"53717",
+    "addr:street":"N High Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.519016,43.079093,-89.519016,43.079093",
     "geom:latitude":43.079093,
     "geom:longitude":-89.519016,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"d94a369762f549029beedcec41ee3bf6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":790587811,
-    "wof:lastmodified":1467090352,
+    "wof:lastmodified":1491894023,
     "wof:name":"Rosewood Villas",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

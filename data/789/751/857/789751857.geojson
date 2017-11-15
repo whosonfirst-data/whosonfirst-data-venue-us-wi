@@ -2,14 +2,20 @@
   "id": 789751857,
   "type": "Feature",
   "properties": {
+    "addr:full":"630 Ontario Ave Sheboygan WI 53081",
+    "addr:housenumber":"630",
+    "addr:postcode":"53081",
+    "addr:street":"Ontario Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.710903,43.755314,-87.710903,43.755314",
     "geom:latitude":43.755314,
     "geom:longitude":-87.710903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"630 Ontario Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":1125150919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ni2SgbsZxV0BkxjVi1LTA_43.755314_-87.710903@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590266,
-    "wof:geomhash":"57216c33cdbfb8f9fa4e7efa9f637e96",
+    "wof:geomhash":"18372b6e530ab30972ff0d20c023d78a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":789751857,
-    "wof:lastmodified":1467090184,
+    "wof:lastmodified":1510613226,
     "wof:name":"Grace Episcopal Church",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

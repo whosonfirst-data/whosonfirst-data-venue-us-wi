@@ -2,14 +2,20 @@
   "id": 790486197,
   "type": "Feature",
   "properties": {
+    "addr:full":"5929 W Lisbon Ave Milwaukee WI 53210",
+    "addr:housenumber":"5929",
+    "addr:postcode":"53210",
+    "addr:street":"W Lisbon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.987142,43.06783,-87.987142,43.06783",
     "geom:latitude":43.06783,
     "geom:longitude":-87.987142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5929 W Lisbon Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":420575987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hoC5RuFD3inWvuBBcmWwp_43.067830_-87.987142@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596246,
-    "wof:geomhash":"6c7f16c93058bb9387c14a730fc8e5fe",
+    "wof:geomhash":"54950cb7ab13538bf7813b7770cc3193",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790486197,
-    "wof:lastmodified":1467090328,
+    "wof:lastmodified":1510622703,
     "wof:name":"Osco Drug",
     "wof:parent_id":420550049,
     "wof:placetype":"venue",

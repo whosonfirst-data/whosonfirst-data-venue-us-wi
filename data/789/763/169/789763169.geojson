@@ -2,9 +2,14 @@
   "id": 789763169,
   "type": "Feature",
   "properties": {
+    "addr:full":"909 Turnberry Dr Waunakee WI 53597",
+    "addr:housenumber":"909",
+    "addr:postcode":"53597",
+    "addr:street":"Turnberry Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.455475,43.200575,-89.455475,43.200575",
     "geom:latitude":43.200575,
     "geom:longitude":-89.455475,
@@ -24,12 +29,7 @@
     "sg:postcode":"53597",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ydkV12amohxN9sasRU0rE_43.200575_-89.455475@1294253271"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462590354,
     "wof:geomhash":"ac491f60a77ec0798a25b02e4fe8f9e8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789763169
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789763169,
-    "wof:lastmodified":1467090186,
+    "wof:lastmodified":1491935711,
     "wof:name":"My Favorite Toys Co",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773264225,
   "type": "Feature",
   "properties": {
+    "addr:full":"1070 Vail Dr Burlington WI 53105",
+    "addr:housenumber":"1070",
+    "addr:postcode":"53105",
+    "addr:street":"Vail Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.355476,42.706324,-88.355476,42.706324",
     "geom:latitude":42.706324,
     "geom:longitude":-88.355476,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404492469,
+        85633793,
+        102081883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77Qv1ePw39bkIBXMqlee8E_42.706324_-88.355476@1294253271"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462584391,
     "wof:geomhash":"c57f51c013bb96ea2607253861941a1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081883,
+            "localadmin_id":404492469,
+            "region_id":85688517,
+            "venue_id":773264225
+        }
+    ],
     "wof:id":773264225,
-    "wof:lastmodified":1467090008,
+    "wof:lastmodified":1492096438,
     "wof:name":"Beets Scott Carpentry & Tile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

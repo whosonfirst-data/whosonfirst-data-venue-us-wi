@@ -2,14 +2,20 @@
   "id": 773350971,
   "type": "Feature",
   "properties": {
+    "addr:full":"4001 State Hwy 28 Sheboygan WI 53081",
+    "addr:housenumber":"4001",
+    "addr:postcode":"53081",
+    "addr:street":"State Hwy 28",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.764932,43.717589,-87.764932,43.717589",
     "geom:latitude":43.717589,
     "geom:longitude":-87.764932,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4001 State Hwy 28",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85854963,
         102081869
     ],
+    "wof:brand_id":420575029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pzYsMcnbX53Hjl68zAsIF_43.717589_-87.764932@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585052,
-    "wof:geomhash":"36b204d4a8ca995581ad383562a5c720",
+    "wof:geomhash":"2743d305fab937383b3e72c072a15d25",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":773350971,
-    "wof:lastmodified":1467090033,
+    "wof:lastmodified":1510602827,
     "wof:name":"Chili's Grill & Bar",
     "wof:parent_id":85854963,
     "wof:placetype":"venue",

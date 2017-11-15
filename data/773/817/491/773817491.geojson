@@ -2,14 +2,20 @@
   "id": 773817491,
   "type": "Feature",
   "properties": {
+    "addr:full":"1540 Saemann Ave Sheboygan WI 53081",
+    "addr:housenumber":"1540",
+    "addr:postcode":"53081",
+    "addr:street":"Saemann Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.724387,43.764392,-87.724387,43.764392",
     "geom:latitude":43.764392,
     "geom:longitude":-87.724387,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1540 Saemann Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85818209,
         102081869
     ],
+    "wof:brand_id":420575357,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WewdRIB4FHkWMvpD4WWf9_43.764392_-87.724387@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588612,
-    "wof:geomhash":"724af1cf0da9a246a522b101006fa9cc",
+    "wof:geomhash":"9717717ccd55fa6f8a65183a34424d2a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":773817491,
-    "wof:lastmodified":1467090141,
+    "wof:lastmodified":1510603000,
     "wof:name":"ServiceMaster",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",

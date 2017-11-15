@@ -2,14 +2,20 @@
   "id": 773416639,
   "type": "Feature",
   "properties": {
+    "addr:full":"7409 Franklin Ave Middleton WI 53562",
+    "addr:housenumber":"7409",
+    "addr:postcode":"53562",
+    "addr:street":"Franklin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.510101,43.098143,-89.510101,43.098143",
     "geom:latitude":43.098143,
     "geom:longitude":-89.510101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7409 Franklin Ave",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081795,
         85841479
     ],
+    "wof:brand_id":1125150549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DqKOKYXguPkibKZ20LSie_43.098143_-89.510101@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585547,
-    "wof:geomhash":"b14368444e4da238d0654abaf18b1924",
+    "wof:geomhash":"6f37fe428c23570cffca6d17d46eb0ce",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773416639,
-    "wof:lastmodified":1467090049,
+    "wof:lastmodified":1510695853,
     "wof:name":"Free & Accepted Masons of",
     "wof:parent_id":85841479,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806545631,
   "type": "Feature",
   "properties": {
+    "addr:full":"352 Peller Rd Lake Geneva WI 53147",
+    "addr:housenumber":"352",
+    "addr:postcode":"53147",
+    "addr:street":"Peller Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.415737,42.594644,-88.415737,42.594644",
     "geom:latitude":42.594644,
     "geom:longitude":-88.415737,
@@ -33,13 +38,7 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        101733551,
-        102081883,
-        85812017
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iE45a6nVLJU0bacVlInD7_42.594644_-88.415737@1294253271"
@@ -47,18 +46,9 @@
     "wof:country":"US",
     "wof:created":1462599001,
     "wof:geomhash":"14096add15de7abccc773b9f64d13d79",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081883,
-            "locality_id":101733551,
-            "neighbourhood_id":85812017,
-            "region_id":85688517,
-            "venue_id":806545631
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806545631,
-    "wof:lastmodified":1467090405,
+    "wof:lastmodified":1492103566,
     "wof:name":"Consultant In Neurology Sc",
     "wof:parent_id":85812017,
     "wof:placetype":"venue",

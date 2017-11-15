@@ -2,14 +2,20 @@
   "id": 789797333,
   "type": "Feature",
   "properties": {
+    "addr:full":"1509 N Ashland Ave De Pere WI 54115",
+    "addr:housenumber":"1509",
+    "addr:postcode":"54115",
+    "addr:street":"N Ashland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.074946,44.458667,-88.074946,44.458667",
     "geom:latitude":44.458667,
     "geom:longitude":-88.074946,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1509 N Ashland Ave",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125158351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gTAIAh0wD7gvW5L2R1DgU_44.458667_-88.074946@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590622,
-    "wof:geomhash":"cd2433da8392a2003c8cc6c90b9e947f",
+    "wof:geomhash":"9f6a151752cea1dc76618ede602af935",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789797333,
-    "wof:lastmodified":1467090193,
+    "wof:lastmodified":1510694185,
     "wof:name":"Morton Buildings",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

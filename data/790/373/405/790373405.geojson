@@ -2,9 +2,14 @@
   "id": 790373405,
   "type": "Feature",
   "properties": {
+    "addr:full":"34241 Bassett Rd Bassett WI 53105",
+    "addr:housenumber":"34241",
+    "addr:postcode":"53105",
+    "addr:street":"Bassett Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.217154,42.536232,-88.217154,42.536232",
     "geom:latitude":42.536232,
     "geom:longitude":-88.217154,
@@ -24,7 +29,10 @@
     "sg:postcode":"53105",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gMhPOsDD8L3noaAaeC4rA_42.536232_-88.217154@1294253271"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462595332,
     "wof:geomhash":"72a8ca2f659191c210233848ef31e452",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":790373405
+        }
+    ],
     "wof:id":790373405,
-    "wof:lastmodified":1467090305,
+    "wof:lastmodified":1492087969,
     "wof:name":"US Post Office",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

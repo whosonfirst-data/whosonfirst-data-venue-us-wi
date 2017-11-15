@@ -2,14 +2,20 @@
   "id": 807362615,
   "type": "Feature",
   "properties": {
+    "addr:full":"1650 Deming Way Middleton WI 53562",
+    "addr:housenumber":"1650",
+    "addr:postcode":"53562",
+    "addr:street":"Deming Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.527127,43.09072,-89.527127,43.09072",
     "geom:latitude":43.09072,
     "geom:longitude":-89.527127,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1650 Deming Way",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -31,23 +37,28 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
+    "wof:brand_id":420575303,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1y4GJmnx0kgHPV7kAYC1EP_43.090720_-89.527127@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606691,
-    "wof:geomhash":"e9fb42e7cea4e62790341e51f678908f",
+    "wof:geomhash":"d7f9b89de9114272f040565e7a570803",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -55,7 +66,7 @@
         }
     ],
     "wof:id":807362615,
-    "wof:lastmodified":1467090623,
+    "wof:lastmodified":1510601935,
     "wof:name":"Cold Stone Creamery",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

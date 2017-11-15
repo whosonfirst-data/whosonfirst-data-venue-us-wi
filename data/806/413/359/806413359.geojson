@@ -2,14 +2,20 @@
   "id": 806413359,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 Egg Harbor Rd Sturgeon Bay WI 54235",
+    "addr:housenumber":"",
+    "addr:postcode":"54235",
+    "addr:street":"Egg Harbor Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.369589,44.843308,-87.369589,44.843308",
     "geom:latitude":44.843308,
     "geom:longitude":-87.369589,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1300 Egg Harbor Rd",
     "sg:city":"Sturgeon Bay",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081831,
         85688517
     ],
+    "wof:brand_id":1125153687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DvxXNU2BOFdUxzplt0e4b_44.843308_-87.369589@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462597962,
-    "wof:geomhash":"b1476f64030664209e569acc8d407b5c",
+    "wof:geomhash":"f72df778eb90f5cb3b0fda634cae7c58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806413359,
-    "wof:lastmodified":1467090374,
+    "wof:lastmodified":1510698886,
     "wof:name":"Dunham's Sports",
     "wof:parent_id":85851043,
     "wof:placetype":"venue",

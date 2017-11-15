@@ -2,9 +2,14 @@
   "id": 790420417,
   "type": "Feature",
   "properties": {
+    "addr:full":"5031 Church Rd Middleton WI 53562",
+    "addr:housenumber":"5031",
+    "addr:postcode":"53562",
+    "addr:street":"Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.541413,43.135401,-89.541413,43.135401",
     "geom:latitude":43.135401,
     "geom:longitude":-89.541413,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"274bb8191b2fec224b553dcfaa79ec52",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":790420417,
-    "wof:lastmodified":1467090315,
+    "wof:lastmodified":1491894024,
     "wof:name":"L & G Investments Inc",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

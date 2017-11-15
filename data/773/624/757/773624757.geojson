@@ -2,14 +2,20 @@
   "id": 773624757,
   "type": "Feature",
   "properties": {
+    "addr:full":"5445 S 76th St Greendale WI 53129",
+    "addr:housenumber":"5445",
+    "addr:postcode":"53129",
+    "addr:street":"S 76Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.008562,42.949151,-88.008562,42.949151",
     "geom:latitude":42.949151,
     "geom:longitude":-88.008562,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5445 S 76th St",
     "sg:city":"Greendale",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         404494171,
         101733073
     ],
+    "wof:brand_id":1125151823,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OLRHsttKpeFh2IISiFGJq_42.949151_-88.008562@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587128,
-    "wof:geomhash":"2805b58461c3db7a9b3b61b078f04a99",
+    "wof:geomhash":"24b95099a4ac7285f3f079d2e50730d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":773624757,
-    "wof:lastmodified":1467090097,
+    "wof:lastmodified":1510694568,
     "wof:name":"Bed Bath & Beyond Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

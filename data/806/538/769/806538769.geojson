@@ -2,14 +2,20 @@
   "id": 806538769,
   "type": "Feature",
   "properties": {
+    "addr:full":"2704 11th St Two Rivers WI 54241",
+    "addr:housenumber":"2704",
+    "addr:postcode":"54241",
+    "addr:street":"11Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.587556,44.143597,-87.587556,44.143597",
     "geom:latitude":44.143597,
     "geom:longitude":-87.587556,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2704 11th St",
     "sg:city":"Two Rivers",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081871,
         85832123
     ],
+    "wof:brand_id":1125152183,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nVSH3E2OXKnizigBWIh9G_44.143597_-87.587556@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598944,
-    "wof:geomhash":"cef37615129cbc8d5d684d25949c82e9",
+    "wof:geomhash":"6ec6d92c1849ce265cd5e8549b2f4720",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806538769,
-    "wof:lastmodified":1467090403,
+    "wof:lastmodified":1510693998,
     "wof:name":"Womens International Bowl",
     "wof:parent_id":85832123,
     "wof:placetype":"venue",

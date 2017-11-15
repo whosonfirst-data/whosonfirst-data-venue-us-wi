@@ -2,14 +2,20 @@
   "id": 807364185,
   "type": "Feature",
   "properties": {
+    "addr:full":"3256 University Ave Madison WI 53705",
+    "addr:housenumber":"3256",
+    "addr:postcode":"53705",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.443057,43.075293,-89.443057,43.075293",
     "geom:latitude":43.075293,
     "geom:longitude":-89.443057,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3256 University Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081795,
         85688517
     ],
+    "wof:brand_id":1125150761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1i85nrMevlnX1ARv2JJJc2_43.075293_-89.443057@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462606710,
-    "wof:geomhash":"917ab34bc70eec153fe28ac4d1b1c534",
+    "wof:geomhash":"eb348b815a53ec3ae465d2fe427136c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807364185,
-    "wof:lastmodified":1467090623,
+    "wof:lastmodified":1510697651,
     "wof:name":"Atlanta Bread Company",
     "wof:parent_id":85868277,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789877713,
   "type": "Feature",
   "properties": {
+    "addr:full":"753 Jefferson Ct De Forest WI 53532",
+    "addr:housenumber":"753",
+    "addr:postcode":"53532",
+    "addr:street":"Jefferson Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.330538,43.245851,-89.330538,43.245851",
     "geom:latitude":43.245851,
     "geom:longitude":-89.330538,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"753 Jefferson Ct",
     "sg:city":"De Forest",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85852311,
         102081795
     ],
+    "wof:brand_id":420574449,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3f1clM7Zmkw4FtlnVIJQg3_43.245851_-89.330538@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591263,
-    "wof:geomhash":"37527fb7ab3f175ac61811f1f47492dc",
+    "wof:geomhash":"e57ba98c0df8e2a7d52a463acd1f1a0f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":789877713,
-    "wof:lastmodified":1467090208,
+    "wof:lastmodified":1510604751,
     "wof:name":"Shaklee Distributor",
     "wof:parent_id":85852311,
     "wof:placetype":"venue",

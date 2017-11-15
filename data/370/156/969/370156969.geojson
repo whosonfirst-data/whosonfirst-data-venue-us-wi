@@ -2,9 +2,14 @@
   "id": 370156969,
   "type": "Feature",
   "properties": {
+    "addr:full":"7603 W State St Milwaukee WI 53208",
+    "addr:housenumber":"7603",
+    "addr:postcode":"53208",
+    "addr:street":"W State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.007218,43.0491,-88.007218,43.0491",
     "geom:latitude":43.0491,
     "geom:longitude":-88.007218,
@@ -32,11 +37,13 @@
     "sg:website":"www.littlereadbook.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870835,
+        102191575,
+        404492091,
         85633793,
-        101733089,
+        101732987,
         102081837,
-        85870835
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +53,18 @@
     "wof:geomhash":"bc2d55a875338173d5a329f79ccc47e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
-            "locality_id":101733089,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
             "neighbourhood_id":85870835,
             "region_id":85688517,
             "venue_id":370156969
         }
     ],
     "wof:id":370156969,
-    "wof:lastmodified":1467089899,
+    "wof:lastmodified":1491905768,
     "wof:name":"Little Read Book Inc",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",

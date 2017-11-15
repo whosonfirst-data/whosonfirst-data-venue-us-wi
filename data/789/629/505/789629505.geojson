@@ -2,9 +2,14 @@
   "id": 789629505,
   "type": "Feature",
   "properties": {
+    "addr:full":"6025 W Glen Ct Franklin WI 53132",
+    "addr:housenumber":"6025",
+    "addr:postcode":"53132",
+    "addr:street":"W Glen Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.991351,42.898055,-87.991351,42.898055",
     "geom:latitude":42.898055,
     "geom:longitude":-87.991351,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Nqq27SMMM23m3dDQn0Srt_42.898055_-87.991351@1294253271"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462589289,
     "wof:geomhash":"4f923f02baa7b06552d579f7318326f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":789629505
+        }
+    ],
     "wof:id":789629505,
-    "wof:lastmodified":1467090160,
+    "wof:lastmodified":1492102998,
     "wof:name":"Tenaglia & Tenaglia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789710135,
   "type": "Feature",
   "properties": {
+    "addr:full":"2355 N 35th St Milwaukee WI 53210",
+    "addr:housenumber":"2355",
+    "addr:postcode":"53210",
+    "addr:street":"N 35Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.95758,43.061441,-87.95758,43.061441",
     "geom:latitude":43.061441,
     "geom:longitude":-87.95758,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2355 N 35th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125155625,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RAsYAki86QkIggQvNByNO_43.061441_-87.957580@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462589934,
-    "wof:geomhash":"171501111ac2af2961645c42ad14f8d5",
+    "wof:geomhash":"0b2da6061610c3c78570750c7653bc0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789710135,
-    "wof:lastmodified":1467090176,
+    "wof:lastmodified":1510697625,
     "wof:name":"Jewel-Osco",
     "wof:parent_id":85894495,
     "wof:placetype":"venue",

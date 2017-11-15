@@ -2,9 +2,14 @@
   "id": 806801405,
   "type": "Feature",
   "properties": {
+    "addr:full":"5515 Shamrock Rd Waunakee WI 53597",
+    "addr:housenumber":"5515",
+    "addr:postcode":"53597",
+    "addr:street":"Shamrock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.42701,43.157451,-89.42701,43.157451",
     "geom:latitude":43.157451,
     "geom:longitude":-89.42701,
@@ -27,12 +32,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2G0diG69GZ6Ff1Fueu4vBE_43.157451_-89.427010@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462601195,
     "wof:geomhash":"92a326d2955dffc58c478093286a95cc",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806801405
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806801405,
-    "wof:lastmodified":1467090464,
+    "wof:lastmodified":1491935708,
     "wof:name":"Geiger Plmg of Waunakee Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

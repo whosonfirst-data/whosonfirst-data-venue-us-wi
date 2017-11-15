@@ -2,14 +2,20 @@
   "id": 773507981,
   "type": "Feature",
   "properties": {
+    "addr:full":"2670 S Ashland Ave Green Bay WI 54304",
+    "addr:housenumber":"2670",
+    "addr:postcode":"54304",
+    "addr:street":"S Ashland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.063746,44.47303,-88.063746,44.47303",
     "geom:latitude":44.47303,
     "geom:longitude":-88.063746,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2670 S Ashland Ave",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125151903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CHryPBN9kGSib0tu0ruAB_44.473030_-88.063746@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586259,
-    "wof:geomhash":"b8e39ae89f2a72085d30738976a2f83a",
+    "wof:geomhash":"a1c39a8289c661ffa0c13861f37bddab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773507981,
-    "wof:lastmodified":1467090070,
+    "wof:lastmodified":1510697316,
     "wof:name":"Muscular Dystrophy Assn",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

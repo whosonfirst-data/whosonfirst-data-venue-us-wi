@@ -2,14 +2,20 @@
   "id": 387860027,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 W Madison St Eau Claire WI 54703",
+    "addr:housenumber":"221",
+    "addr:postcode":"54703",
+    "addr:street":"W Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.511149,44.815467,-91.511149,44.815467",
     "geom:latitude":44.815467,
     "geom:longitude":-91.511149,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"221 W Madison St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102081761,
         85848105
     ],
+    "wof:brand_id":1125152749,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XPNaGJRhAuPGF4YXrxATr_44.815467_-91.511149@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"020fecebd17e9a304361823d257de806",
+    "wof:geomhash":"5d5a94b4fcc645cdb3ae017c89e7cfc1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387860027,
-    "wof:lastmodified":1467089926,
+    "wof:lastmodified":1510613105,
     "wof:name":"Vocational Rehabilitation Div",
     "wof:parent_id":85848105,
     "wof:placetype":"venue",

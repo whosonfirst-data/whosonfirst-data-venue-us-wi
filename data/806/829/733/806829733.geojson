@@ -2,9 +2,14 @@
   "id": 806829733,
   "type": "Feature",
   "properties": {
+    "addr:full":"737 Swallowtail Dr Madison WI 53717",
+    "addr:housenumber":"737",
+    "addr:postcode":"53717",
+    "addr:street":"Swallowtail Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.542673,43.077247,-89.542673,43.077247",
     "geom:latitude":43.077247,
     "geom:longitude":-89.542673,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"714a4c9f5b439381223b07b58608180f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":806829733,
-    "wof:lastmodified":1467090471,
+    "wof:lastmodified":1491894001,
     "wof:name":"PM Enterprises",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790146879,
   "type": "Feature",
   "properties": {
+    "addr:full":"433 E Washington St Slinger WI 53086",
+    "addr:housenumber":"433",
+    "addr:postcode":"53086",
+    "addr:street":"E Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.281637,43.331879,-88.281637,43.331879",
     "geom:latitude":43.331879,
     "geom:longitude":-88.281637,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"433 E Washington St",
     "sg:city":"Slinger",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85810007,
         102081745
     ],
+    "wof:brand_id":1125153829,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0H9DgbnaJO3xl6vL3LHTq9_43.331879_-88.281637@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462593485,
-    "wof:geomhash":"239d30abbbe1dc91504333043a3a70b4",
+    "wof:geomhash":"09971b8661f5e988856818a24eae47c2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790146879,
-    "wof:lastmodified":1467090260,
+    "wof:lastmodified":1510693754,
     "wof:name":"Video Plus",
     "wof:parent_id":85810007,
     "wof:placetype":"venue",

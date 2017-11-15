@@ -2,14 +2,20 @@
   "id": 337499985,
   "type": "Feature",
   "properties": {
+    "addr:full":"2900 Curry Ln Green Bay WI 54311",
+    "addr:housenumber":"2900",
+    "addr:postcode":"54311",
+    "addr:street":"Curry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.933435,44.524423,-87.933435,44.524423",
     "geom:latitude":44.524423,
     "geom:longitude":-87.933435,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2900 Curry Ln",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102081867,
         85877939
     ],
+    "wof:brand_id":1125154939,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eIVcZkyBGfXGJ4Xkwqb1y_44.524423_-87.933435@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4ff09bf90cb5a8d799de89c505845e1",
+    "wof:geomhash":"2e12b4e7a600b7ba00e712d87a2994f8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":337499985,
-    "wof:lastmodified":1467089893,
+    "wof:lastmodified":1510613315,
     "wof:name":"Us Veterans Affairs Dept",
     "wof:parent_id":85877939,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773814025,
   "type": "Feature",
   "properties": {
+    "addr:full":"251 E Juneau Ave Milwaukee WI 53202",
+    "addr:housenumber":"251",
+    "addr:postcode":"53202",
+    "addr:street":"E Juneau Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.908586,43.045766,-87.908586,43.045766",
     "geom:latitude":43.045766,
     "geom:longitude":-87.908586,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"251 E Juneau Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -34,15 +40,17 @@
         85633793,
         101732987,
         102081837,
-        85688517
+        85688517,
+        85870999
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RvTRayoUPzXfQB2DeQwxp_43.045766_-87.908586@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588583,
-    "wof:geomhash":"f32ad08b3e9f0dd06729fbdbdf0b4107",
+    "wof:geomhash":"a4c2677e228bd45f15e2188be3989fab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +61,22 @@
             "neighbourhood_id":85870985,
             "region_id":85688517,
             "venue_id":773814025
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":85870999,
+            "region_id":85688517,
+            "venue_id":773814025
         }
     ],
     "wof:id":773814025,
-    "wof:lastmodified":1467090140,
+    "wof:lastmodified":1510602715,
     "wof:name":"Central Parking System",
-    "wof:parent_id":85870985,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

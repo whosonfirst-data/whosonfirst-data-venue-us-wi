@@ -2,9 +2,14 @@
   "id": 353467047,
   "type": "Feature",
   "properties": {
+    "addr:full":"813 Main St Union Grove WI 53182",
+    "addr:housenumber":"813",
+    "addr:postcode":"53182",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.051818,42.689936,-88.051818,42.689936",
     "geom:latitude":42.689936,
     "geom:longitude":-88.051818,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688517,
+        102191575,
+        404494991,
         85633793,
         101732347,
         102081763
@@ -41,17 +48,17 @@
     "wof:geomhash":"0aeacb3814450add5abb791ba4a2217d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
+            "localadmin_id":404494991,
             "locality_id":101732347,
-            "neighbourhood_id":-1,
             "region_id":85688517,
             "venue_id":353467047
         }
     ],
     "wof:id":353467047,
-    "wof:lastmodified":1467089891,
+    "wof:lastmodified":1492088063,
     "wof:name":"Koss Law Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

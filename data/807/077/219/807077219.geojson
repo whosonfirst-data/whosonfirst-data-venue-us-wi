@@ -2,14 +2,20 @@
   "id": 807077219,
   "type": "Feature",
   "properties": {
+    "addr:full":"10025 W North Ave Milwaukee WI 53226",
+    "addr:housenumber":"10025",
+    "addr:postcode":"53226",
+    "addr:street":"W North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.038472,43.060257,-88.038472,43.060257",
     "geom:latitude":43.060257,
     "geom:longitude":-88.038472,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10025 W North Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081837,
         85688517
     ],
+    "wof:brand_id":1125157459,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VQKbmDZJabpXxqHSelA8g_43.060257_-88.038472@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603512,
-    "wof:geomhash":"4dc53923691a0ead520d48d57537c38d",
+    "wof:geomhash":"7244e99537c9573f40c269683d6d1760",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807077219,
-    "wof:lastmodified":1467090529,
+    "wof:lastmodified":1510699922,
     "wof:name":"Our Redeemer Lutheran Church",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",

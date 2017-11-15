@@ -2,14 +2,20 @@
   "id": 773302475,
   "type": "Feature",
   "properties": {
+    "addr:full":"2080 Holmgren Way Green Bay WI 54304",
+    "addr:housenumber":"2080",
+    "addr:postcode":"54304",
+    "addr:street":"Holmgren Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.055968,44.494479,-88.055968,44.494479",
     "geom:latitude":44.494479,
     "geom:longitude":-88.055968,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2080 Holmgren Way",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125151405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dVUXdmdXV4fqpIf45DXH2_44.494479_-88.055968@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584703,
-    "wof:geomhash":"93fdd13b575aafd443d68d9d73ef7505",
+    "wof:geomhash":"1ab20fe490af807f1876ebb4070be945",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773302475,
-    "wof:lastmodified":1467090021,
+    "wof:lastmodified":1510699335,
     "wof:name":"Bumper To Bumper Auto Parts",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",

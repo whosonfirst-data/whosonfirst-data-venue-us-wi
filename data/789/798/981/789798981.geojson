@@ -2,9 +2,14 @@
   "id": 789798981,
   "type": "Feature",
   "properties": {
+    "addr:full":"9704 343rd Ave Twin Lakes WI 53181",
+    "addr:housenumber":"9704",
+    "addr:postcode":"53181",
+    "addr:street":"343Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.225594,42.533033,-88.225594,42.533033",
     "geom:latitude":42.533033,
     "geom:longitude":-88.225594,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550003
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qUmAJDHMx9iOgisovgNZm_42.533033_-88.225594@1294253271"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462590634,
     "wof:geomhash":"7ed28dd80a808c6a5e3ed27ae35f6a90",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550003,
+            "venue_id":789798981
+        }
+    ],
     "wof:id":789798981,
-    "wof:lastmodified":1467090193,
+    "wof:lastmodified":1492087968,
     "wof:name":"Triton Construction Inc",
     "wof:parent_id":420550003,
     "wof:placetype":"venue",

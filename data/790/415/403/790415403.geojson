@@ -2,9 +2,14 @@
   "id": 790415403,
   "type": "Feature",
   "properties": {
+    "addr:full":"4292 Twin Valley Rd Middleton WI 53562",
+    "addr:housenumber":"4292",
+    "addr:postcode":"53562",
+    "addr:street":"Twin Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.58128,43.089123,-89.58128,43.089123",
     "geom:latitude":43.089123,
     "geom:longitude":-89.58128,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"7c82d2bce6cdbb8fe589cd57e2514954",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":790415403,
-    "wof:lastmodified":1467090314,
+    "wof:lastmodified":1491894083,
     "wof:name":"Wk Construction Company Inc",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

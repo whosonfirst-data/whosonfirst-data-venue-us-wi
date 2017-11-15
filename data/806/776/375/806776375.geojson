@@ -2,9 +2,14 @@
   "id": 806776375,
   "type": "Feature",
   "properties": {
+    "addr:full":"5339 W River Rd Waunakee WI 53597",
+    "addr:housenumber":"5339",
+    "addr:postcode":"53597",
+    "addr:street":"W River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.405592,43.159132,-89.405592,43.159132",
     "geom:latitude":43.159132,
     "geom:longitude":-89.405592,
@@ -29,12 +34,7 @@
         "upholstery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gZ410l0el1pVXeAv9NznT_43.159132_-89.405592@1294253271"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462600986,
     "wof:geomhash":"d739546833e3a0a58e91be99b124ec15",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":806776375
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806776375,
-    "wof:lastmodified":1467090458,
+    "wof:lastmodified":1491935681,
     "wof:name":"Jim's Auto Upholstery",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

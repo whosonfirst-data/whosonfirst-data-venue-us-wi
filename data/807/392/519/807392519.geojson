@@ -2,9 +2,14 @@
   "id": 807392519,
   "type": "Feature",
   "properties": {
+    "addr:full":"3405 Sheard Rd Burlington WI 53105",
+    "addr:housenumber":"",
+    "addr:postcode":"3405;53105",
+    "addr:street":"Sheard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.169356,42.686142,-88.169356,42.686142",
     "geom:latitude":42.686142,
     "geom:longitude":-88.169356,
@@ -27,7 +32,10 @@
         "taxidermist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ubQQ3h3ySCuMo8aX1KvSg_42.686142_-88.169356@1303262806"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462607103,
     "wof:geomhash":"9d56a050a19bbdefcd4a61d55f335dcd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550143,
+            "venue_id":807392519
+        }
+    ],
     "wof:id":807392519,
-    "wof:lastmodified":1467090635,
+    "wof:lastmodified":1492108873,
     "wof:name":"Wildlife Indoors Taxidermy",
     "wof:parent_id":420550143,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807395869,
   "type": "Feature",
   "properties": {
+    "addr:full":"6500 Northway Greendale WI 53129",
+    "addr:housenumber":"6500",
+    "addr:postcode":"53129",
+    "addr:street":"Northway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.995949,42.942402,-87.995949,42.942402",
     "geom:latitude":42.942402,
     "geom:longitude":-87.995949,
@@ -36,7 +41,14 @@
         "government-city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404492089,
+        85633793,
+        101733071,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yC9g60Wz638H65Ssf99sY_42.942402_-87.995949@1303262806"
@@ -44,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1462607181,
     "wof:geomhash":"8718230e0b59cc7dade4e1968aa560c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492089,
+            "locality_id":101733071,
+            "region_id":85688517,
+            "venue_id":807395869
+        }
+    ],
     "wof:id":807395869,
-    "wof:lastmodified":1467090636,
+    "wof:lastmodified":1492098747,
     "wof:name":"Village Of Greendale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

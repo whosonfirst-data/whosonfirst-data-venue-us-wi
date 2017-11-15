@@ -2,9 +2,14 @@
   "id": 806647199,
   "type": "Feature",
   "properties": {
+    "addr:full":"7421 Cedar Creek Trl Madison WI 53717",
+    "addr:housenumber":"7421",
+    "addr:postcode":"53717",
+    "addr:street":"Cedar Creek Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.511655,43.064751,-89.511655,43.064751",
     "geom:latitude":43.064751,
     "geom:longitude":-89.511655,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85878843,
+        102191575,
+        404491669,
         85633793,
         101732721,
         102081795,
-        85878843
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"655b741422f9dfd8cdf6e2336ed868c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081795,
+            "localadmin_id":404491669,
             "locality_id":101732721,
             "neighbourhood_id":85878843,
             "region_id":85688517,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":806647199,
-    "wof:lastmodified":1467090429,
+    "wof:lastmodified":1491894030,
     "wof:name":"Century 21",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",

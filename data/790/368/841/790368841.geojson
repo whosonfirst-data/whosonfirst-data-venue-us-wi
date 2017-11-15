@@ -2,9 +2,14 @@
   "id": 790368841,
   "type": "Feature",
   "properties": {
+    "addr:full":"5500 Surrey Ln Waunakee WI 53597",
+    "addr:housenumber":"5500",
+    "addr:postcode":"53597",
+    "addr:street":"Surrey Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.438133,43.160357,-89.438133,43.160357",
     "geom:latitude":43.160357,
     "geom:longitude":-89.438133,
@@ -27,12 +32,7 @@
         "amusement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zAbNenDJ6wq4ZG4gzJrBb_43.160357_-89.438133@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462595295,
     "wof:geomhash":"b55374d064247ad1cc86b2c410e609c4",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":790368841
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790368841,
-    "wof:lastmodified":1467090305,
+    "wof:lastmodified":1491935677,
     "wof:name":"Carriage Ridge Stables",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

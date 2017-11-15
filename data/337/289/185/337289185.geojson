@@ -2,9 +2,14 @@
   "id": 337289185,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 57th St Kenosha WI 53140",
+    "addr:housenumber":"604",
+    "addr:postcode":"53140",
+    "addr:street":"57Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.819593,42.584089,-87.819593,42.584089",
     "geom:latitude":42.584089,
     "geom:longitude":-87.819593,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85810813,
+        102191575,
+        404493393,
         85633793,
         101732567,
         102081309,
-        85810813
+        85688517
     ],
     "wof:brand_id":420575893,
     "wof:breaches":[],
@@ -44,9 +51,10 @@
     "wof:geomhash":"cc04503bcc01490fc05883c0c41c9172",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081309,
+            "localadmin_id":404493393,
             "locality_id":101732567,
             "neighbourhood_id":85810813,
             "region_id":85688517,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":337289185,
-    "wof:lastmodified":1467089895,
+    "wof:lastmodified":1492108777,
     "wof:name":"Public Defender",
     "wof:parent_id":85810813,
     "wof:placetype":"venue",

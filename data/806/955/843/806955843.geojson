@@ -2,14 +2,20 @@
   "id": 806955843,
   "type": "Feature",
   "properties": {
+    "addr:full":"2815 S Oneida St Green Bay WI 54304",
+    "addr:housenumber":"2815",
+    "addr:postcode":"54304",
+    "addr:street":"S Oneida St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.074959,44.472709,-88.074959,44.472709",
     "geom:latitude":44.472709,
     "geom:longitude":-88.074959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2815 S Oneida St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081867,
         85688517
     ],
+    "wof:brand_id":1125155003,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DE86atKOVhAoX9rpZOMZJ_44.472709_-88.074959@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602492,
-    "wof:geomhash":"5d8dcb8f987c22dec6384f58f189ec07",
+    "wof:geomhash":"9fbbfefec07e9d351b9df13bc0cf4fd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806955843,
-    "wof:lastmodified":1467090499,
+    "wof:lastmodified":1510699953,
     "wof:name":"Good Feet Store",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",

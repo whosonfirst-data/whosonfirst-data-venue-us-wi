@@ -2,14 +2,20 @@
   "id": 337306759,
   "type": "Feature",
   "properties": {
+    "addr:full":"11120 Wynsong Dr Baraboo WI 53913",
+    "addr:housenumber":"11120",
+    "addr:postcode":"53913",
+    "addr:street":"Wynsong Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.765842,43.490251,-89.765842,43.490251",
     "geom:latitude":43.490251,
     "geom:longitude":-89.765842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11120 Wynsong Dr",
     "sg:city":"Baraboo",
     "sg:classifiers":[
@@ -28,12 +34,13 @@
         85633793,
         85688517
     ],
+    "wof:brand_id":1125152867,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61MeOcK0x2y3KgTym3tSIq_43.490251_-89.765842@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"2dd803e2777212cb8af5b6c452526114",
+    "wof:geomhash":"1bc48cbc85ed17b744bc5b4a9c74686e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,7 +52,7 @@
         }
     ],
     "wof:id":337306759,
-    "wof:lastmodified":1467089896,
+    "wof:lastmodified":1510613354,
     "wof:name":"Dollar Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

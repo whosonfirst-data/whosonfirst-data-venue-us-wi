@@ -2,14 +2,20 @@
   "id": 789903205,
   "type": "Feature",
   "properties": {
+    "addr:full":"2801 14th Pl Kenosha WI 53140",
+    "addr:housenumber":"2801",
+    "addr:postcode":"53140",
+    "addr:street":"14Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.843582,42.63225,-87.843582,42.63225",
     "geom:latitude":42.63225,
     "geom:longitude":-87.843582,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2801 14th Pl",
     "sg:city":"Kenosha",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081309,
         85688517
     ],
+    "wof:brand_id":420574547,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KwAMOzinVJEBxYZrsuytn_42.632250_-87.843582@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591470,
-    "wof:geomhash":"800ef3acc7f607f153ee1222cd2d0cde",
+    "wof:geomhash":"30bafd1a82d8b8def44f558988cfba9a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789903205,
-    "wof:lastmodified":1467090213,
+    "wof:lastmodified":1510603871,
     "wof:name":"Piggly Wiggly",
     "wof:parent_id":85810813,
     "wof:placetype":"venue",

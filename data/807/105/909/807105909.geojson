@@ -2,9 +2,14 @@
   "id": 807105909,
   "type": "Feature",
   "properties": {
+    "addr:full":"5394 S 108th St Hales Corners WI 53130",
+    "addr:housenumber":"5394",
+    "addr:postcode":"53130",
+    "addr:street":"S 108Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.048211,42.94719,-88.048211,42.94719",
     "geom:latitude":42.94719,
     "geom:longitude":-88.048211,
@@ -24,7 +29,14 @@
     "sg:postcode":"53130",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494175,
+        85633793,
+        101733077,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LT5DBUKUrQ8RGozFTpYed_42.947190_-88.048211@1294253271"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462603793,
     "wof:geomhash":"9dc34aeede9e8ebddfe9f9acc966bc18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494175,
+            "locality_id":101733077,
+            "region_id":85688517,
+            "venue_id":807105909
+        }
+    ],
     "wof:id":807105909,
-    "wof:lastmodified":1467090538,
+    "wof:lastmodified":1492095242,
     "wof:name":"Balistreri Bros Italian Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

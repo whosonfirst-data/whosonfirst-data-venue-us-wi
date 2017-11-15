@@ -2,9 +2,14 @@
   "id": 823178647,
   "type": "Feature",
   "properties": {
+    "addr:full":"3410 80th St Racine WI 53402",
+    "addr:housenumber":"3410",
+    "addr:postcode":"53402",
+    "addr:street":"80Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.017038,42.783864,-88.017038,42.783864",
     "geom:latitude":42.783864,
     "geom:longitude":-88.017038,
@@ -27,7 +32,10 @@
         "orthodontist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550141
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aOqolLuiesedPuqFHApnh_42.783864_-88.017038@1303262811"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462608046,
     "wof:geomhash":"0e27d94efa798d8e91b7884fd1e4c78a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550141,
+            "venue_id":823178647
+        }
+    ],
     "wof:id":823178647,
-    "wof:lastmodified":1467090660,
+    "wof:lastmodified":1492097592,
     "wof:name":"Deerwood Orthodontics",
     "wof:parent_id":420550141,
     "wof:placetype":"venue",

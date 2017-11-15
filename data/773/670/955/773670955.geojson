@@ -2,14 +2,20 @@
   "id": 773670955,
   "type": "Feature",
   "properties": {
+    "addr:full":"1418 Main St Bloomer WI 54724",
+    "addr:housenumber":"1418",
+    "addr:postcode":"54724",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.488748,45.102213,-91.488748,45.102213",
     "geom:latitude":45.102213,
     "geom:longitude":-91.488748,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1418 Main St",
     "sg:city":"Bloomer",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081787,
         85837071
     ],
+    "wof:brand_id":1125152049,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41KNwWpJ8ZWgeBClwZRYmU_45.102213_-91.488748@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587473,
-    "wof:geomhash":"8b156704d6c5256b1fc08e3fa719bc7e",
+    "wof:geomhash":"7bf14c80238831507b4b2ec47c24775f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773670955,
-    "wof:lastmodified":1467090107,
+    "wof:lastmodified":1510694909,
     "wof:name":"Main Street Cafe",
     "wof:parent_id":85837071,
     "wof:placetype":"venue",

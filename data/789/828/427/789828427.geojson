@@ -2,14 +2,20 @@
   "id": 789828427,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 River St Belleville WI 53508",
+    "addr:housenumber":"106",
+    "addr:postcode":"53508",
+    "addr:street":"River St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.53295,42.863979,-89.53295,42.863979",
     "geom:latitude":42.863979,
     "geom:longitude":-89.53295,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 River St",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85804673,
         102081795
     ],
+    "wof:brand_id":420574813,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7myfLgEY74aS9gTnsPjrYz_42.863979_-89.532950@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590860,
-    "wof:geomhash":"cc2f7d3ee3ed3a21007581c59e2c6413",
+    "wof:geomhash":"63befebfd22689bebdfd9449b6fad426",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":789828427,
-    "wof:lastmodified":1467090198,
+    "wof:lastmodified":1510604575,
     "wof:name":"Kiwanis International Inc",
     "wof:parent_id":85804673,
     "wof:placetype":"venue",

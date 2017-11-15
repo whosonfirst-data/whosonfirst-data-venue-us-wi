@@ -2,14 +2,20 @@
   "id": 807257963,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 S 17th Ave Wausau WI 54401",
+    "addr:housenumber":"109",
+    "addr:postcode":"54401",
+    "addr:street":"S 17Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.655277,44.961467,-89.655277,44.961467",
     "geom:latitude":44.961467,
     "geom:longitude":-89.655277,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"109 S 17th Ave",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081881,
         85868295
     ],
+    "wof:brand_id":1125157877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rpDeUenzuovUDQBqI0i6l_44.961467_-89.655277@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605411,
-    "wof:geomhash":"aa0f0a43443c6ca7b97741310edc7a47",
+    "wof:geomhash":"f87a019895d075bd0499c719b3bedc55",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807257963,
-    "wof:lastmodified":1467090586,
+    "wof:lastmodified":1510693947,
     "wof:name":"Kwik Trip",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",

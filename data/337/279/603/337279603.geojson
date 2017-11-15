@@ -2,9 +2,14 @@
   "id": 337279603,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 E Wisconsin Ave Milwaukee WI 53202",
+    "addr:housenumber":"250",
+    "addr:postcode":"53202",
+    "addr:street":"E Wisconsin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.908383,43.038684,-87.908383,43.038684",
     "geom:latitude":43.038684,
     "geom:longitude":-87.908383,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870999,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870999
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"09c85d7bc1aa2893879ef7375b204a1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85870999,
             "region_id":85688517,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":337279603,
-    "wof:lastmodified":1467089894,
+    "wof:lastmodified":1491921223,
     "wof:name":"Legacy Capital Patners Inc",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806678359,
   "type": "Feature",
   "properties": {
+    "addr:full":"8203 W Coventry Dr Franklin WI 53132",
+    "addr:housenumber":"8203",
+    "addr:postcode":"53132",
+    "addr:street":"W Coventry Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.019317,42.906911,-88.019317,42.906911",
     "geom:latitude":42.906911,
     "geom:longitude":-88.019317,
@@ -24,7 +29,14 @@
     "sg:postcode":"53132",
     "sg:province":"WI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494167,
+        85633793,
+        101733067,
+        102081837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dSLvZstpiEF7JZD7d2oWp_42.906911_-88.019317@1294253271"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462600158,
     "wof:geomhash":"f75a6a007b4b93474d960fe19e7e0787",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404494167,
+            "locality_id":101733067,
+            "region_id":85688517,
+            "venue_id":806678359
+        }
+    ],
     "wof:id":806678359,
-    "wof:lastmodified":1467090436,
+    "wof:lastmodified":1492103510,
     "wof:name":"Digital Media DI&m In Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

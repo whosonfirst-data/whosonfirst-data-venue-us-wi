@@ -2,9 +2,14 @@
   "id": 370975155,
   "type": "Feature",
   "properties": {
+    "addr:full":"1010 W Armour Ave Milwaukee WI 53221",
+    "addr:housenumber":"1010",
+    "addr:postcode":"53221",
+    "addr:street":"W Armour Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.919835,42.961759,-87.919835,42.961759",
     "geom:latitude":42.961759,
     "geom:longitude":-87.919835,
@@ -25,11 +30,13 @@
     "sg:province":"WI",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85894489,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85894489
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"8b076020720c26384f5fa6b2d4869be2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
             "neighbourhood_id":85894489,
             "region_id":85688517,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":370975155,
-    "wof:lastmodified":1467089906,
+    "wof:lastmodified":1491931509,
     "wof:name":"Adk Design Inc",
     "wof:parent_id":85894489,
     "wof:placetype":"venue",

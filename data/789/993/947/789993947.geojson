@@ -2,14 +2,20 @@
   "id": 789993947,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 N Holiday Dr Waunakee WI 53597",
+    "addr:housenumber":"205",
+    "addr:postcode":"53597",
+    "addr:street":"N Holiday Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.465624,43.192738,-89.465624,43.192738",
     "geom:latitude":43.192738,
     "geom:longitude":-89.465624,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"205 N Holiday Dr",
     "sg:city":"Waunakee",
     "sg:classifiers":[
@@ -28,30 +34,18 @@
     ],
     "sg:website":"www.shopthepig.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
+    "wof:brand_id":420574547,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3d30jjnT54wdwSJ30C1hLw_43.192738_-89.465624@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592280,
-    "wof:geomhash":"34e05c0d33c2c0c5936549545cfbeb7f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789993947
-        }
-    ],
+    "wof:geomhash":"ed89f1532c82d84986b8dd40bcffa647",
+    "wof:hierarchy":[],
     "wof:id":789993947,
-    "wof:lastmodified":1467090230,
+    "wof:lastmodified":1510603870,
     "wof:name":"Piggly Wiggly",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

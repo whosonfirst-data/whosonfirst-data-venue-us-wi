@@ -2,14 +2,20 @@
   "id": 789810715,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 W Lawton St Edgerton WI 53534",
+    "addr:housenumber":"202",
+    "addr:postcode":"53534",
+    "addr:street":"W Lawton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.0723,42.83269,-89.0723,42.83269",
     "geom:latitude":42.83269,
     "geom:longitude":-89.0723,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"202 W Lawton St",
     "sg:city":"Edgerton",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85836935,
         102081829
     ],
+    "wof:brand_id":1125153273,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OSedy67AowAq542XO74Yw_42.832690_-89.072300@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462590718,
-    "wof:geomhash":"7edf3906291eaf10d7d88b2133d4da5f",
+    "wof:geomhash":"9b6994c20b800e172eff11f57ddbd77d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":789810715,
-    "wof:lastmodified":1467090195,
+    "wof:lastmodified":1510698837,
     "wof:name":"Adventures In Advertising",
     "wof:parent_id":85836935,
     "wof:placetype":"venue",

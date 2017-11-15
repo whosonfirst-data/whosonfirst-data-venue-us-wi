@@ -2,9 +2,14 @@
   "id": 387255477,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 S Layton Blvd Milwaukee WI 53215",
+    "addr:housenumber":"2200",
+    "addr:postcode":"53215",
+    "addr:street":"S Layton Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.948165,43.003168,-87.948165,43.003168",
     "geom:latitude":43.003168,
     "geom:longitude":-87.948165,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85870927,
+        102191575,
+        404492091,
         85633793,
         101732987,
         102081837,
-        85870843,
-        85870927
+        85688517,
+        85870843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +50,30 @@
     "wof:geomhash":"ea6688a673307b61e5332bc921d1a123",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
-            "neighbourhood_id":85870843,
+            "neighbourhood_id":85870927,
             "region_id":85688517,
             "venue_id":387255477
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081837,
+            "localadmin_id":404492091,
             "locality_id":101732987,
-            "neighbourhood_id":85870927,
+            "neighbourhood_id":85870843,
             "region_id":85688517,
             "venue_id":387255477
         }
     ],
     "wof:id":387255477,
-    "wof:lastmodified":1467089926,
+    "wof:lastmodified":1492108863,
     "wof:name":"Lead International",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],

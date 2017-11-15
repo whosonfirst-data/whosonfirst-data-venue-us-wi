@@ -2,9 +2,14 @@
   "id": 807199085,
   "type": "Feature",
   "properties": {
+    "addr:full":"229 S Century Ave Waunakee WI 53597",
+    "addr:housenumber":"229",
+    "addr:postcode":"53597",
+    "addr:street":"S Century Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.461691,43.190507,-89.461691,43.190507",
     "geom:latitude":43.190507,
     "geom:longitude":-89.461691,
@@ -30,12 +35,7 @@
         "gymnasium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QNcBVrZMMCphIBjF0IIE2_43.190507_-89.461691@1294253271"
@@ -43,17 +43,9 @@
     "wof:country":"US",
     "wof:created":1462604789,
     "wof:geomhash":"d3f3510b9ad5823a9ee9093dfcd16aa6",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":807199085
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807199085,
-    "wof:lastmodified":1467090567,
+    "wof:lastmodified":1491935685,
     "wof:name":"Curves For Women",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

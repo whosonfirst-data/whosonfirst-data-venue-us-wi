@@ -2,9 +2,14 @@
   "id": 789768899,
   "type": "Feature",
   "properties": {
+    "addr:full":"5382 Blue Bill Park Dr S Madison WI 53704",
+    "addr:housenumber":"5382",
+    "addr:postcode":"53704",
+    "addr:street":"Blue Bill Park Dr S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.409966,43.151005,-89.409966,43.151005",
     "geom:latitude":43.151005,
     "geom:longitude":-89.409966,
@@ -27,12 +32,7 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688517,
-        85633793,
-        85868279,
-        102081795
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wy3vW31CrTrn0skFfJsuw_43.151005_-89.409966@1294253271"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462590394,
     "wof:geomhash":"23ed1644c7929a99c4a7324543df792e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081795,
-            "neighbourhood_id":85868279,
-            "region_id":85688517,
-            "venue_id":789768899
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789768899,
-    "wof:lastmodified":1467090187,
+    "wof:lastmodified":1491935681,
     "wof:name":"P&A Consulting Group Inc",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",

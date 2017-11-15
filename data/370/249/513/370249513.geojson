@@ -2,14 +2,20 @@
   "id": 370249513,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Front St Beaver Dam WI 53916",
+    "addr:housenumber":"200",
+    "addr:postcode":"53916",
+    "addr:street":"Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.841216,43.45621,-88.841216,43.45621",
     "geom:latitude":43.45621,
     "geom:longitude":-88.841216,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 Front St",
     "sg:city":"Beaver Dam",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         101733249,
         102081887
     ],
+    "wof:brand_id":1125151739,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_760dsDalgf9RvZwui6V42L_43.456210_-88.841216@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"e7e59fe2d6c89ed76cd9a2e2a9b55585",
+    "wof:geomhash":"8e70d6dc1139383b2590982233f9197a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":370249513,
-    "wof:lastmodified":1467089898,
+    "wof:lastmodified":1510698809,
     "wof:name":"Lutheran Brotherhood Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

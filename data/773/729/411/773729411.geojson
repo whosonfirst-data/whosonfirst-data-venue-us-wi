@@ -2,14 +2,20 @@
   "id": 773729411,
   "type": "Feature",
   "properties": {
+    "addr:full":"2311 Badger Pkwy Madison WI 53713",
+    "addr:housenumber":"2311",
+    "addr:postcode":"53713",
+    "addr:street":"Badger Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.391707,43.039596,-89.391707,43.039596",
     "geom:latitude":43.039596,
     "geom:longitude":-89.391707,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2311 Badger Pkwy",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081795,
         85878883
     ],
+    "wof:brand_id":1125156757,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aMINk6WxhQnq7bhoxA5bN_43.039596_-89.391707@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587943,
-    "wof:geomhash":"a440074a209ba2924a70af38d1676ced",
+    "wof:geomhash":"c4a92a2fb5e1aeb089112b2852d790b4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773729411,
-    "wof:lastmodified":1467090121,
+    "wof:lastmodified":1510694896,
     "wof:name":"Glamour Shots",
     "wof:parent_id":85878883,
     "wof:placetype":"venue",

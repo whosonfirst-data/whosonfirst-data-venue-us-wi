@@ -2,14 +2,20 @@
   "id": 186281763,
   "type": "Feature",
   "properties": {
+    "addr:full":"48 E Towne Mall Madison WI 53704",
+    "addr:housenumber":"48",
+    "addr:postcode":"53704",
+    "addr:street":"E Towne Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.304432,43.128006,-89.304432,43.128006",
     "geom:latitude":43.128006,
     "geom:longitude":-89.304432,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"48 E Towne Mall",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102081795,
         85878851
     ],
+    "wof:brand_id":1125156207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7f4olRhjeaPuzlZWv4IUP4_43.128006_-89.304432@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"c0fa996b707d6847f474beb994f4a8aa",
+    "wof:geomhash":"6c43012250d6966318a699a1df012bbe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":186281763,
-    "wof:lastmodified":1467089917,
+    "wof:lastmodified":1510698946,
     "wof:name":"Christopher & Banks Inc",
     "wof:parent_id":85878851,
     "wof:placetype":"venue",

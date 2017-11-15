@@ -2,14 +2,20 @@
   "id": 337334115,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Gould St Beaver Dam WI 53916",
+    "addr:housenumber":"215",
+    "addr:postcode":"53916",
+    "addr:street":"Gould St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.823619,43.461237,-88.823619,43.461237",
     "geom:latitude":43.461237,
     "geom:longitude":-88.823619,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 Gould St",
     "sg:city":"Beaver Dam",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         101733249,
         102081887
     ],
+    "wof:brand_id":1125154641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VVC3KTqMH7uSdUwhEL59U_43.461237_-88.823619@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"4c9ef3c6a270d042a69f5b9e63e55ed6",
+    "wof:geomhash":"bba1d412c18d95a117dc5fe689328983",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":337334115,
-    "wof:lastmodified":1467089893,
+    "wof:lastmodified":1510699364,
     "wof:name":"Grace Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
