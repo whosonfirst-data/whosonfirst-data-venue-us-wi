@@ -7,13 +7,16 @@
     "addr:postcode":"53212",
     "addr:street":"N 4Th St Ste 103",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.915474,43.069737,-87.915474,43.069737",
     "geom:latitude":43.069737,
     "geom:longitude":-87.915474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2821 N 4th St Ste 103",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607707,
-    "wof:geomhash":"d4e4defb09f7fa1585781623017d9b5c",
+    "wof:geomhash":"61ee2ee3a9eca6223a0e731e3e7a04f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":823152985,
-    "wof:lastmodified":1472653955,
+    "wof:lastmodified":1510943562,
     "wof:name":"League Of Martin",
     "wof:parent_id":85870991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806807785
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

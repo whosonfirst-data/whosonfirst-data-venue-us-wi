@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.907891,43.038519,-87.907891,43.038519",
     "geom:latitude":43.038519,
     "geom:longitude":-87.907891,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"611 N Broadway St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
         "sg:id":"SG_7BWp3Uxq5HbAEFoPizwgrN_43.038519_-87.907891@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"769a4ab546202edf2e4050c505404669",
+    "wof:geomhash":"43474a10778f8c42428ffcd0baa57e96",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":354385221,
-    "wof:lastmodified":1472654060,
+    "wof:lastmodified":1510941423,
     "wof:name":"Milwaukee Womens Center Inc",
     "wof:parent_id":85867289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773030857
+    ],
     "wof:tags":[
         "c",
         "alcohol",

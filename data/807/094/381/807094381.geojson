@@ -7,13 +7,16 @@
     "addr:postcode":"53405",
     "addr:street":"Spring St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.825722,42.733605,-87.825722,42.733605",
     "geom:latitude":42.733605,
     "geom:longitude":-87.825722,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3805 Spring St",
     "sg:city":"Racine",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603657,
-    "wof:geomhash":"186e5216cd9e844336f101104d6c3ae9",
+    "wof:geomhash":"e7bb876a5edb7d0288a1dbeac1b827b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":807094381,
-    "wof:lastmodified":1472654123,
+    "wof:lastmodified":1510942836,
     "wof:name":"Clinic Of Racine Optical Dept",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823179459
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"

@@ -7,13 +7,16 @@
     "addr:postcode":"53218",
     "addr:street":"W Appleton Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.013732,43.10207,-88.013732,43.10207",
     "geom:latitude":43.10207,
     "geom:longitude":-88.013732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8050 W Appleton Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1462582982,
-    "wof:geomhash":"1fb24e63fbadd6d5da5ce59704588129",
+    "wof:geomhash":"d9757d839cc736282b6433ecfac955af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,12 +70,14 @@
         }
     ],
     "wof:id":773076871,
-    "wof:lastmodified":1472654392,
+    "wof:lastmodified":1510943557,
     "wof:name":"Ark Haven For The Elderly",
     "wof:parent_id":85870869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823162243
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "home",

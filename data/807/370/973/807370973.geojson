@@ -7,13 +7,16 @@
     "addr:postcode":"54913",
     "addr:street":"W Wisconsin Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.469745,44.272901,-88.469745,44.272901",
     "geom:latitude":44.272901,
     "geom:longitude":-88.469745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4301 W Wisconsin Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606801,
-    "wof:geomhash":"c028395e9f8f58bf4ea269e78a67b6bd",
+    "wof:geomhash":"3196404c1d6cc91351532f08861dc0ec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":807370973,
-    "wof:lastmodified":1472654553,
+    "wof:lastmodified":1510943911,
     "wof:name":"Arby's",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        773628693
+    ],
+    "wof:supersedes":[
+        773069083
+    ],
     "wof:tags":[
         "burger",
         "american"

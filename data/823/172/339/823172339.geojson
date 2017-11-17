@@ -7,13 +7,16 @@
     "addr:postcode":"53225",
     "addr:street":"W Fond Du Lac Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.019501,43.123852,-88.019501,43.123852",
     "geom:latitude":43.123852,
     "geom:longitude":-88.019501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8701 W Fond Du Lac Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607958,
-    "wof:geomhash":"f73f53767833a53c8fd98504a68bb2fe",
+    "wof:geomhash":"9046ff9270f5b2f57d8533bbe28a5871",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":823172339,
-    "wof:lastmodified":1472654008,
+    "wof:lastmodified":1510942226,
     "wof:name":"Chicken Man",
     "wof:parent_id":85870903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773248079
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

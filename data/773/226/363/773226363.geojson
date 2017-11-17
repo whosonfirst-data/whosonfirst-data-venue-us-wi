@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.884934,43.088632,-87.884934,43.088632",
     "geom:latitude":43.088632,
     "geom:longitude":-87.884934,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3930 N Murray Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584117,
-    "wof:geomhash":"bf64e6ad6e1168626b3a4758896e86bb",
+    "wof:geomhash":"989ae62b22222d548d8b6a771af04006",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":773226363,
-    "wof:lastmodified":1472654795,
+    "wof:lastmodified":1510941558,
     "wof:name":"Village of Shorewood",
     "wof:parent_id":85870879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823150047
+    ],
     "wof:tags":[
         "executive"
     ]

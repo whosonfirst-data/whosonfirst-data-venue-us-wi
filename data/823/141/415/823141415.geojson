@@ -7,13 +7,16 @@
     "addr:postcode":"53204",
     "addr:street":"S Cesar E Chavez Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.933082,43.018801,-87.933082,43.018801",
     "geom:latitude":43.018801,
     "geom:longitude":-87.933082,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1207 S Cesar E Chavez Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607539,
-    "wof:geomhash":"37ce50d4cd6c3ddb309ed7f50dd815f3",
+    "wof:geomhash":"ab9e84a300d33ec35ca8d94af885514c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":823141415,
-    "wof:lastmodified":1472653917,
+    "wof:lastmodified":1510942882,
     "wof:name":"El Charro Liquor",
     "wof:parent_id":85870969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789705915
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

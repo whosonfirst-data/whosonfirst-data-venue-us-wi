@@ -7,13 +7,16 @@
     "addr:postcode":"53233",
     "addr:street":"W Clybourn St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.938314,43.0361,-87.938314,43.0361",
     "geom:latitude":43.0361,
     "geom:longitude":-87.938314,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2030 W Clybourn St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608044,
-    "wof:geomhash":"d16e0eede85c58bfb1d2c9e609dfa84b",
+    "wof:geomhash":"1764fd835941f733d60c79dbb2ba419b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":823178433,
-    "wof:lastmodified":1472654047,
+    "wof:lastmodified":1510941194,
     "wof:name":"Sav-On Foods",
     "wof:parent_id":85870889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773316623
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"53209",
     "addr:street":"W Silver Spring Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.937576,43.119061,-87.937576,43.119061",
     "geom:latitude":43.119061,
     "geom:longitude":-87.937576,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2100 W Silver Spring Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607632,
-    "wof:geomhash":"2a41790a229c47214791bf2c6600298c",
+    "wof:geomhash":"1b0d3dfb3dd4a1437553a4bca9d4b5bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":823146987,
-    "wof:lastmodified":1472653933,
+    "wof:lastmodified":1510943346,
     "wof:name":"Animal Emergency Center",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807180599
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

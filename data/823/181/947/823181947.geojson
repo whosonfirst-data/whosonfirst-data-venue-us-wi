@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.983528,42.520988,-88.983528,42.520988",
     "geom:latitude":42.520988,
     "geom:longitude":-88.983528,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2799 Cranston Rd",
     "sg:city":"Beloit",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608087,
-    "wof:geomhash":"a5f947b226a813500cd0a60f8a1ebb58",
+    "wof:geomhash":"5a876717b27c37c2cc7be7a4b55715a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":823181947,
-    "wof:lastmodified":1472654053,
+    "wof:lastmodified":1510941364,
     "wof:name":"Luxury 10 Cinemas",
     "wof:parent_id":85842871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740084061
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"53233",
     "addr:street":"N 9Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.923012,43.041943,-87.923012,43.041943",
     "geom:latitude":43.041943,
     "geom:longitude":-87.923012,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"901 N 9th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -53,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608042,
-    "wof:geomhash":"d056fee030e6dc12eeaa71967d731c95",
+    "wof:geomhash":"2b11f9422fcfc35233c8763cc6f084b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,12 +70,14 @@
         }
     ],
     "wof:id":823178309,
-    "wof:lastmodified":1472654042,
+    "wof:lastmodified":1510941750,
     "wof:name":"Aramark",
     "wof:parent_id":85870965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806821627
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "concession",

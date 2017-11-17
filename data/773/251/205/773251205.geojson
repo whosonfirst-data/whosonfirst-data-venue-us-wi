@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.001144,42.712623,-89.001144,42.712623",
     "geom:latitude":42.712623,
     "geom:longitude":-89.001144,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2500 Milton Ave",
     "sg:city":"Janesville",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584302,
-    "wof:geomhash":"c855e41d639902a7d43dca2844ef9108",
+    "wof:geomhash":"85013f20dd24ca490a38fc4251146294",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":773251205,
-    "wof:lastmodified":1472654800,
+    "wof:lastmodified":1510941680,
     "wof:name":"JC Penney",
     "wof:parent_id":85803103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823183631
+    ],
     "wof:tags":[]
 },
   "bbox": [

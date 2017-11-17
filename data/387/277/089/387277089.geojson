@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.885014,42.578901,-87.885014,42.578901",
     "geom:latitude":42.578901,
     "geom:longitude":-87.885014,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6127 Green Bay Rd",
     "sg:city":"Kenosha",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_11yEcqh1uRcKwlpeU18T6N_42.578901_-87.885014@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"344c4bf9d4ad5546a6c3514ae835557a",
+    "wof:geomhash":"0c58b319139b9be26e996a1a7510f96d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":387277089,
-    "wof:lastmodified":1472654112,
+    "wof:lastmodified":1510942289,
     "wof:name":"Dynasty Mortgage Inc",
     "wof:parent_id":85852717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740088579
+    ],
     "wof:tags":[
         "loan",
         "real estate"

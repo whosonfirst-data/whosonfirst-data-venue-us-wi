@@ -7,6 +7,7 @@
     "addr:postcode":"53719",
     "addr:street":"Mineral Point Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-89.525276,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sg:address":"8118 Mineral Point Rd",
     "sg:city":"Madison",
     "sg:classifiers":[],
@@ -37,6 +38,7 @@
     "wof:brand_id":1125150081,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":4497182279,
         "sg:id":"SG_1G4WgzbZiZc9ylc78tVFul_43.060478_-89.525276@1303262812"
     },
     "wof:country":"US",
@@ -55,13 +57,17 @@
         }
     ],
     "wof:id":823187247,
-    "wof:lastmodified":1510710244,
+    "wof:lastmodified":1510943555,
     "wof:name":"David's Bridal",
     "wof:parent_id":85834009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        806618171
+    ],
+    "wof:supersedes":[
+        806618171
+    ],
     "wof:tags":[]
 },
   "bbox": [

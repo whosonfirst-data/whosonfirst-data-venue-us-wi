@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.299553,43.139873,-89.299553,43.139873",
     "geom:latitude":43.139873,
     "geom:longitude":-89.299553,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4797 Hayes Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462590892,
-    "wof:geomhash":"08831f1d969be840bda2ab6033687044",
+    "wof:geomhash":"06d262e47e8085f4fbbf0410f586b048",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":789832979,
-    "wof:lastmodified":1472654426,
+    "wof:lastmodified":1510942857,
     "wof:name":"Wisconsin Pta",
     "wof:parent_id":85878835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773233817
+    ],
     "wof:tags":[
         "membership"
     ]

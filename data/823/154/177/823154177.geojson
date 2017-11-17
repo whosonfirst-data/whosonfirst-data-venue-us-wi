@@ -7,6 +7,7 @@
     "addr:postcode":"53213",
     "addr:street":"W Bluemound Rd #",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.012978,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8112 W Bluemound Rd # 201",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607721,
-    "wof:geomhash":"3f62a23555f6057f84f27e6a84a57b40",
+    "wof:geomhash":"27e9cafadd9e855c746c14da9fa64298",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":823154177,
-    "wof:lastmodified":1491905736,
+    "wof:lastmodified":1510943513,
     "wof:name":"Hope Dispensing Systems Inc",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807047827
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "development",

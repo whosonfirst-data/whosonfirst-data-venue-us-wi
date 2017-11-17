@@ -7,13 +7,16 @@
     "addr:postcode":"53215",
     "addr:street":"W Oklahoma Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.926397,42.988271,-87.926397,42.988271",
     "geom:latitude":42.988271,
     "geom:longitude":-87.926397,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1107 W Oklahoma Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607775,
-    "wof:geomhash":"bf9ea9e756dd67322f259160713c4200",
+    "wof:geomhash":"3064607d418c9874b2e6ffb6a6778389",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":823158047,
-    "wof:lastmodified":1472653959,
+    "wof:lastmodified":1510943562,
     "wof:name":"Pero Komozec Md",
     "wof:parent_id":85870849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790374579
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medicine",

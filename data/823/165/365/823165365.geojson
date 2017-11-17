@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.009324,42.959332,-88.009324,42.959332",
     "geom:latitude":42.959332,
     "geom:longitude":-88.009324,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7700 W Layton Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -66,7 +68,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607874,
-    "wof:geomhash":"f871f6c948a19cf375e31ccc4c119b08",
+    "wof:geomhash":"48ea4be00daa0195128d4f92b3dbfcb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -90,13 +92,15 @@
         }
     ],
     "wof:id":823165365,
-    "wof:lastmodified":1472653993,
+    "wof:lastmodified":1510943721,
     "wof:name":"Hooters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        353492093
+    ],
     "wof:tags":[
         "american",
         "take"

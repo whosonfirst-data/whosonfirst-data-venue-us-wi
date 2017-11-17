@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.912881,43.118611,-87.912881,43.118611",
     "geom:latitude":43.118611,
     "geom:longitude":-87.912881,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 W Silver Spring Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603744,
-    "wof:geomhash":"1b008a5dba2f40321f1fea8f4dc2a958",
+    "wof:geomhash":"9bcc815250b2541dcb5dc3810550f8ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":807100991,
-    "wof:lastmodified":1472654152,
+    "wof:lastmodified":1510941795,
     "wof:name":"John E Darling DDS",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823161113
+    ],
     "wof:tags":[]
 },
   "bbox": [

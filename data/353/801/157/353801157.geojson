@@ -7,6 +7,7 @@
     "addr:postcode":"53220",
     "addr:street":"S 76Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.008446,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4965 S 76th St",
     "sg:city":"Greenfield",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
         "sg:id":"SG_7WR7s68q3ygYdiOFXGt18p_42.955615_-88.008446@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"14125dfed7d0c5a7c8d1978e9c94f356",
+    "wof:geomhash":"45feba3c1bf4ee19f28caeec26eec025",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,12 +77,14 @@
         }
     ],
     "wof:id":353801157,
-    "wof:lastmodified":1492088060,
+    "wof:lastmodified":1510944057,
     "wof:name":"Verizon Wireless",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823165683
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "telephone",

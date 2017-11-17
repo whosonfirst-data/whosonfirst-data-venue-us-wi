@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.047678,43.063727,-88.047678,43.063727",
     "geom:latitude":43.063727,
     "geom:longitude":-88.047678,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2500 N Mayfair Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462587089,
-    "wof:geomhash":"de4799d2318c2d5ff3a2fa0b4f22d9f5",
+    "wof:geomhash":"ab587026b7086ebbb22b6b7971d8bb13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":773618629,
-    "wof:lastmodified":1472654930,
+    "wof:lastmodified":1510942981,
     "wof:name":"Hand Surgery LTD",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773104867
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

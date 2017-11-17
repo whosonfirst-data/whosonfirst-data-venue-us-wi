@@ -7,6 +7,7 @@
     "addr:postcode":"53132",
     "addr:street":"W Loomis Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.028258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9229 W Loomis Rd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462600419,
-    "wof:geomhash":"4e29bae5094425545100f6a5cff84cdc",
+    "wof:geomhash":"69fcc725210c86e7f38627f777381d14",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":806710055,
-    "wof:lastmodified":1492103002,
+    "wof:lastmodified":1510941430,
     "wof:name":"City of Franklin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807397077
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "executive",

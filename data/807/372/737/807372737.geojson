@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.893708,42.697967,-87.893708,42.697967",
     "geom:latitude":42.697967,
     "geom:longitude":-87.893708,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8913 Durand Ave",
     "sg:city":"Sturtevant",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606826,
-    "wof:geomhash":"06ab2bb2254bd9647549f3bb8493f80e",
+    "wof:geomhash":"1f660ca1f2b3d3bb1eb08378b44be111",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":807372737,
-    "wof:lastmodified":1472654553,
+    "wof:lastmodified":1510944070,
     "wof:name":"Hardee's",
     "wof:parent_id":85854859,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773231215
+    ],
     "wof:tags":[
         "burger",
         "american"

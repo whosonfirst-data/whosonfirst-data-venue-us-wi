@@ -7,13 +7,16 @@
     "addr:postcode":"53715",
     "addr:street":"S Park St Ste 205",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.401068,43.067545,-89.401068,43.067545",
     "geom:latitude":43.067545,
     "geom:longitude":-89.401068,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20 S Park St Ste 205",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608153,
-    "wof:geomhash":"b5de66994a2a18fe635bb464e02a468c",
+    "wof:geomhash":"054880160fce7d25f7589d66f2b1243a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":823186815,
-    "wof:lastmodified":1472654066,
+    "wof:lastmodified":1510941271,
     "wof:name":"Neurosurgery Center",
     "wof:parent_id":85868283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790325695
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

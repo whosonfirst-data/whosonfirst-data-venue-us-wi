@@ -7,13 +7,16 @@
     "addr:postcode":"53050",
     "addr:street":"4Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.552658,43.486686,-88.552658,43.486686",
     "geom:latitude":43.486686,
     "geom:longitude":-88.552658,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"605 4th St",
     "sg:city":"Mayville",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_49IyWCnYncfYzcCJLnJP56_43.486686_-88.552658@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"171dec4421116bd1eeb98a32703d7a73",
+    "wof:geomhash":"23b34980fdcca906b2440b97356be95f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":353768615,
-    "wof:lastmodified":1472654090,
+    "wof:lastmodified":1510941660,
     "wof:name":"Tab Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823196125
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "interior",

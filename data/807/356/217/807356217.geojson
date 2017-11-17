@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.856092,42.58762,-87.856092,42.58762",
     "geom:latitude":42.58762,
     "geom:longitude":-87.856092,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3907 52nd St",
     "sg:city":"Kenosha",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606597,
-    "wof:geomhash":"750664b7b2b40b676826ffaf63461381",
+    "wof:geomhash":"af06e5ebdf4f51dd25acf227deecfc7b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":807356217,
-    "wof:lastmodified":1472654521,
+    "wof:lastmodified":1510943262,
     "wof:name":"Arby's",
     "wof:parent_id":85810813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806709821
+    ],
     "wof:tags":[
         "burger",
         "american"

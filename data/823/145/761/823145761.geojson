@@ -7,13 +7,16 @@
     "addr:postcode":"53208",
     "addr:street":"W State St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.975639,43.04417,-87.975639,43.04417",
     "geom:latitude":43.04417,
     "geom:longitude":-87.975639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5001 W State St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607617,
-    "wof:geomhash":"d56781db586b26e4b6eec970d83d4e85",
+    "wof:geomhash":"c991d86eb676ae8911d6af64a30b2818",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":823145761,
-    "wof:lastmodified":1472653933,
+    "wof:lastmodified":1510943362,
     "wof:name":"NAPA Distribution Center",
     "wof:parent_id":85870885,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790479933
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

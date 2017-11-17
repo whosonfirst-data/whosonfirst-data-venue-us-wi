@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.9307,43.01602,-87.9307,43.01602",
     "geom:latitude":43.01602,
     "geom:longitude":-87.9307,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 W Orchard St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584946,
-    "wof:geomhash":"75c2224050807fbe4f8b10a282ee4673",
+    "wof:geomhash":"90efe79f26dd514c1c1ab370144739cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":773334393,
-    "wof:lastmodified":1472654838,
+    "wof:lastmodified":1510944167,
     "wof:name":"Ganong's Corner",
     "wof:parent_id":85870893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823141443
+    ],
     "wof:tags":[]
 },
   "bbox": [

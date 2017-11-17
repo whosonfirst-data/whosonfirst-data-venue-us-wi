@@ -7,13 +7,16 @@
     "addr:postcode":"53217",
     "addr:street":"W Silver Spring Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.917473,43.118574,-87.917473,43.118574",
     "geom:latitude":43.118574,
     "geom:longitude":-87.917473,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"695 W Silver Spring Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607805,
-    "wof:geomhash":"11dcf45ca1555bd7c06e52f88ee664c7",
+    "wof:geomhash":"0ee8d8149d834bbbdee9ede0f3da394b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":823160495,
-    "wof:lastmodified":1472653972,
+    "wof:lastmodified":1510943209,
     "wof:name":"Pearle Vision",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773466011
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

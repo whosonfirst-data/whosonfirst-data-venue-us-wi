@@ -7,6 +7,7 @@
     "addr:postcode":"53220",
     "addr:street":"S 76Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.008444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4975 S 76th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
         "sg:id":"SG_5aLtnf13dGzx90HigVuOvY_42.955883_-88.008444@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc7c81148df02f582264adc959347b68",
+    "wof:geomhash":"2224e69ef98886b9e2c3613a77a7b28e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,12 +78,14 @@
         }
     ],
     "wof:id":386942197,
-    "wof:lastmodified":1492088060,
+    "wof:lastmodified":1510942990,
     "wof:name":"Disc Go Round",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823164665
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "compact",

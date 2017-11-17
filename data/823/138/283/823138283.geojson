@@ -7,13 +7,16 @@
     "addr:postcode":"53202",
     "addr:street":"N Farwell Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.891285,43.054105,-87.891285,43.054105",
     "geom:latitude":43.054105,
     "geom:longitude":-87.891285,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1806 N Farwell Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[],
@@ -33,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1328513199,
         "sg:id":"SG_0Lw5NbPw8vXQRlerCslWPU_43.054105_-87.891285@1303262807"
     },
     "wof:country":"US",
     "wof:created":1462607473,
-    "wof:geomhash":"bd9c31b9cd53ef455c62212b0b96ddec",
+    "wof:geomhash":"38322a7ba371d3ad72e25a9fd58e1c6f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,13 +55,17 @@
         }
     ],
     "wof:id":823138283,
-    "wof:lastmodified":1472653908,
+    "wof:lastmodified":1510944120,
     "wof:name":"EE Sane Thai Cuisine",
     "wof:parent_id":85870987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        790527423
+    ],
+    "wof:supersedes":[
+        790527423
+    ],
     "wof:tags":[]
 },
   "bbox": [

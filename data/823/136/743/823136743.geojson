@@ -7,13 +7,16 @@
     "addr:postcode":"53202",
     "addr:street":"E Kilbourn Ave # 1020",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.907727,43.04249,-87.907727,43.04249",
     "geom:latitude":43.04249,
     "geom:longitude":-87.907727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"330 E Kilbourn Ave # 1020",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607447,
-    "wof:geomhash":"47dba1f7dbd198e84ae81f8a1142e1b3",
+    "wof:geomhash":"b6d44e9a75358815c02a71730ddcc259",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":823136743,
-    "wof:lastmodified":1472653921,
+    "wof:lastmodified":1510943142,
     "wof:name":"Valuation Research Corporation",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806746813
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "appraisers-business",

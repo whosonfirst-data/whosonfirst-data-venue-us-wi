@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.887495,43.097666,-87.887495,43.097666",
     "geom:latitude":43.097666,
     "geom:longitude":-87.887495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4423 N Oakland Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602857,
-    "wof:geomhash":"619e30e2b6391ad9eab8588cd4cb7072",
+    "wof:geomhash":"2f0ab406e5c62c6e64070a5fd6427597",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":806999491,
-    "wof:lastmodified":1472654782,
+    "wof:lastmodified":1510942316,
     "wof:name":"Men's Room Barbershop",
     "wof:parent_id":85870879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823149473
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.893937,43.052938,-87.893937,43.052938",
     "geom:latitude":43.052938,
     "geom:longitude":-87.893937,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1317 E Brady St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595455,
-    "wof:geomhash":"c77346dc264149748f52933401d9e6f5",
+    "wof:geomhash":"c54aef8bae6b747b6b063dd87689051b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +65,15 @@
         }
     ],
     "wof:id":790388853,
-    "wof:lastmodified":1472654587,
+    "wof:lastmodified":1510943535,
     "wof:name":"Rochambo Coffee & Tea House",
     "wof:parent_id":85870987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823137693
+    ],
     "wof:tags":[
         "eating",
         "business",

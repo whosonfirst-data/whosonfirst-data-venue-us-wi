@@ -7,13 +7,16 @@
     "addr:postcode":"53212",
     "addr:street":"W Galena St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.913852,43.051109,-87.913852,43.051109",
     "geom:latitude":43.051109,
     "geom:longitude":-87.913852,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"235 W Galena St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595830,
-    "wof:geomhash":"d803036471fc8fc7098296dc8103ee79",
+    "wof:geomhash":"b3cde233d97af866a5981c72b242c56e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":790438351,
-    "wof:lastmodified":1472654635,
+    "wof:lastmodified":1510942531,
     "wof:name":"Aging Dept of",
     "wof:parent_id":85870831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773825385
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

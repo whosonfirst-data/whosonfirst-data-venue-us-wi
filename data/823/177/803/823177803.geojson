@@ -7,13 +7,16 @@
     "addr:postcode":"53233",
     "addr:street":"N 9Th St Ste G3",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.923012,43.041943,-87.923012,43.041943",
     "geom:latitude":43.041943,
     "geom:longitude":-87.923012,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"901 N 9th St Ste G3",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608036,
-    "wof:geomhash":"d056fee030e6dc12eeaa71967d731c95",
+    "wof:geomhash":"2b11f9422fcfc35233c8763cc6f084b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":823177803,
-    "wof:lastmodified":1472654031,
+    "wof:lastmodified":1510942537,
     "wof:name":"Election Commission",
     "wof:parent_id":85870965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806709787
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "parish",

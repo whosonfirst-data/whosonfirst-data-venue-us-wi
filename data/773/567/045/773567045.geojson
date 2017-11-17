@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.964246,43.18564,-87.964246,43.18564",
     "geom:latitude":43.18564,
     "geom:longitude":-87.964246,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9120 N Green Bay Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586700,
-    "wof:geomhash":"5d5e7769de414071027fbda857ef948e",
+    "wof:geomhash":"3b18eb7776a9319f7aa30c05ffbd109c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":773567045,
-    "wof:lastmodified":1472654914,
+    "wof:lastmodified":1510943393,
     "wof:name":"McDonalds",
     "wof:parent_id":85894487,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807358561
+    ],
     "wof:tags":[
         "eating"
     ]

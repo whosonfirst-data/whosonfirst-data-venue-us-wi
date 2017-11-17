@@ -7,13 +7,16 @@
     "addr:postcode":"b11 milwaukee;53202",
     "addr:street":"E Wells St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.909637,43.041012,-87.909637,43.041012",
     "geom:latitude":43.041012,
     "geom:longitude":-87.909637,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 E Wells St Rm B11",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607454,
-    "wof:geomhash":"1cbf0b482ccab856db891b429eb2061a",
+    "wof:geomhash":"aee2f4db4bd879f0690ff75be135b2a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":823136941,
-    "wof:lastmodified":1472653929,
+    "wof:lastmodified":1510941352,
     "wof:name":"Legislative Reference Bureau",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773347415
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "legislator"

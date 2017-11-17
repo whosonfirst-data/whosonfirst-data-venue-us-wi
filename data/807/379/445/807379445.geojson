@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.124604,43.036591,-88.124604,43.036591",
     "geom:latitude":43.036591,
     "geom:longitude":-88.124604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16985 W Bluemound Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606913,
-    "wof:geomhash":"89f42ca7260d0293dccd3e45f022c446",
+    "wof:geomhash":"91e40171f0e6f53b21e4af370f309db9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":807379445,
-    "wof:lastmodified":1472654564,
+    "wof:lastmodified":1510941415,
     "wof:name":"Salon West & Body Works Spa",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        370634385
+    ],
     "wof:tags":[]
 },
   "bbox": [

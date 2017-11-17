@@ -15,6 +15,7 @@
     "geom:longitude":-88.02729,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9200 W Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -54,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607999,
-    "wof:geomhash":"99b40a39d5d32834e21a40a175d17fbd",
+    "wof:geomhash":"e36790d1a7d9b090fbe25b52cf42943d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +69,15 @@
         }
     ],
     "wof:id":823174957,
-    "wof:lastmodified":1491905738,
+    "wof:lastmodified":1510942808,
     "wof:name":"Medical College of WI",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823174419
+    ],
     "wof:tags":[
         "physician",
         "oncology",

@@ -7,13 +7,16 @@
     "addr:postcode":"53202",
     "addr:street":"E Wisconsin Ave Ste 200",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.906464,43.038738,-87.906464,43.038738",
     "geom:latitude":43.038738,
     "geom:longitude":-87.906464,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 E Wisconsin Ave Ste 200",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607457,
-    "wof:geomhash":"79b7b5d29418ee269b9a8d773ef625f5",
+    "wof:geomhash":"4e8772e40f22d019d2a2c770ebddc994",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":823137089,
-    "wof:lastmodified":1472653895,
+    "wof:lastmodified":1510943204,
     "wof:name":"Planned Futures Of America Inc",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773566759
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial",

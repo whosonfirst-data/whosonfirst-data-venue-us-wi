@@ -15,6 +15,7 @@
     "geom:longitude":-87.906527,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 E Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592161,
-    "wof:geomhash":"1e03fb9598a22d11603a5125f5f134c7",
+    "wof:geomhash":"21d030635441a48cdf403018569fe8ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,13 +73,15 @@
         }
     ],
     "wof:id":789979305,
-    "wof:lastmodified":1491921235,
+    "wof:lastmodified":1510943161,
     "wof:name":"Verizon",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823136181
+    ],
     "wof:tags":[
         "telecommunication"
     ]

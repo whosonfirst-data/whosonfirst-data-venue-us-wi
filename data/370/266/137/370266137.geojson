@@ -7,6 +7,7 @@
     "addr:postcode":"53207",
     "addr:street":"S Howell Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.909716,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5300 S Howell Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
         "sg:id":"SG_3cwc3eY4VrBrPUwnH9RqlW_42.947265_-87.909716@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"c3430d98f5a04e603aae4173d8482668",
+    "wof:geomhash":"5e643e9facda2f35f13f0a8b84d57733",
     "wof:hierarchy":[
         {
             "campus_id":102530849,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":370266137,
-    "wof:lastmodified":1492108778,
+    "wof:lastmodified":1510943139,
     "wof:name":"Budget Rent-A-Car",
     "wof:parent_id":102530849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790152477
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger",

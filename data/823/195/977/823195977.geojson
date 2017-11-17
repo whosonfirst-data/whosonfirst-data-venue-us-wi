@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.475403,43.056318,-89.475403,43.056318",
     "geom:latitude":43.056318,
     "geom:longitude":-89.475403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"University Research Park 505 South Rosa Road, Suite 29",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608276,
-    "wof:geomhash":"caa3313821be1f663d1f4e0ca4ab61ce",
+    "wof:geomhash":"6da9f14173768f233612666210a861a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":823195977,
-    "wof:lastmodified":1472654063,
+    "wof:lastmodified":1510943679,
     "wof:name":"ConjuGon",
     "wof:parent_id":85878893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790136123
+    ],
     "wof:tags":[]
 },
   "bbox": [

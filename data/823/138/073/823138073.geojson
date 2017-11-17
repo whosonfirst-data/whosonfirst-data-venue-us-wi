@@ -7,13 +7,16 @@
     "addr:postcode":"53202",
     "addr:street":"N Water St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.909081,43.038631,-87.909081,43.038631",
     "geom:latitude":43.038631,
     "geom:longitude":-87.909081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"700 N Water St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607470,
-    "wof:geomhash":"b7cd945e29bd9cab82f4c46bc6e377d9",
+    "wof:geomhash":"3b3248fbbb8668522dcae6eb601d1576",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":823138073,
-    "wof:lastmodified":1472653897,
+    "wof:lastmodified":1510944155,
     "wof:name":"Anderson/Roethle Inc",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773809973
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"

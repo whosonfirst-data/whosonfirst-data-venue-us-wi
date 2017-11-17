@@ -15,6 +15,7 @@
     "geom:longitude":-88.007418,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1417 N Wauwatosa Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606640,
-    "wof:geomhash":"a36cb8a05bb7bdd82b7916d0d3e110df",
+    "wof:geomhash":"8cecf9fa5121a59dc4ff7f64baaacbb7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":807359313,
-    "wof:lastmodified":1491905788,
+    "wof:lastmodified":1510943263,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823153673
+    ],
     "wof:tags":[
         "american"
     ]

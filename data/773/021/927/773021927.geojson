@@ -7,13 +7,16 @@
     "addr:postcode":"53528",
     "addr:street":"N Hill Point Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.62714,43.12918,-89.62714,43.12918",
     "geom:latitude":43.12918,
     "geom:longitude":-89.62714,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5000 N Hill Point Rd",
     "sg:city":"Cross Plains",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462582483,
-    "wof:geomhash":"8807f20949246614fb6410f5e048ca1b",
+    "wof:geomhash":"0fce2250018088d7f0606f8cf7f27627",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":773021927,
-    "wof:lastmodified":1472653982,
+    "wof:lastmodified":1510944160,
     "wof:name":"Miker's",
     "wof:parent_id":85832771,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773037511
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"

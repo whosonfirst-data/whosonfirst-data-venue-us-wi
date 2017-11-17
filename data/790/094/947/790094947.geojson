@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.959263,44.487386,-87.959263,44.487386",
     "geom:latitude":44.487386,
     "geom:longitude":-87.959263,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2350 E Mason St",
     "sg:city":"Green Bay",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462593089,
-    "wof:geomhash":"c6075d35448bd929b67a9886a00675ba",
+    "wof:geomhash":"1b3ef518102a51f076cb1e94c00ca63f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":790094947,
-    "wof:lastmodified":1472654151,
+    "wof:lastmodified":1510942783,
     "wof:name":"Daves Bookcenter",
     "wof:parent_id":85877953,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773034049
+    ],
     "wof:tags":[]
 },
   "bbox": [

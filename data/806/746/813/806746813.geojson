@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.907285,43.042515,-87.907285,43.042515",
     "geom:latitude":43.042515,
     "geom:longitude":-87.907285,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"330 E Kilbourn Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462600736,
-    "wof:geomhash":"1e3b23216e6bb276e7227be4f219158a",
+    "wof:geomhash":"41b816a66ae99d419896b9ba5aa25b5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":806746813,
-    "wof:lastmodified":1472654574,
+    "wof:lastmodified":1510943142,
     "wof:name":"Valuation Research Corp",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823136743
+    ],
     "wof:tags":[
         "valuation"
     ]

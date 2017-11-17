@@ -7,13 +7,16 @@
     "addr:postcode":"53703",
     "addr:street":"W Wilson St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.382488,43.071718,-89.382488,43.071718",
     "geom:latitude":43.071718,
     "geom:longitude":-89.382488,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 W Wilson St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0GBllNMzb2TsVzIibsvmMf_43.071718_-89.382488@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"d6fccb34c8cf7697bddcebcab8221425",
+    "wof:geomhash":"cc3ff2964f9e3306c103b1f5e938ab62",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":353934659,
-    "wof:lastmodified":1472654108,
+    "wof:lastmodified":1510944005,
     "wof:name":"State AIDS/Hiv Program",
     "wof:parent_id":85878845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789895549
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

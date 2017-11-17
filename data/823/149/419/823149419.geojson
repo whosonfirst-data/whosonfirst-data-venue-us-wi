@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.886238,43.089211,-87.886238,43.089211",
     "geom:latitude":43.089211,
     "geom:longitude":-87.886238,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1901 E Capitol Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607661,
-    "wof:geomhash":"fe11ce1a66a80c9cc1ff735a0b67b739",
+    "wof:geomhash":"a75f835dc1a389c274e07e214fe2a7d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,13 +53,15 @@
         }
     ],
     "wof:id":823149419,
-    "wof:lastmodified":1472653918,
+    "wof:lastmodified":1510941558,
     "wof:name":"Shorewood Family Physicians",
     "wof:parent_id":85870879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790019161
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"53203",
     "addr:street":"N 6Th St Rm",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.919022,43.04105,-87.919022,43.04105",
     "geom:latitude":43.04105,
     "geom:longitude":-87.919022,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"819 N 6th St Rm 570",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607492,
-    "wof:geomhash":"f3132b19985cf65f2cbd9c89efc66148",
+    "wof:geomhash":"f2cdfcad9a83d7057bcb95eee819529f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":823139331,
-    "wof:lastmodified":1472653913,
+    "wof:lastmodified":1510942440,
     "wof:name":"State & Local Finance Office",
     "wof:parent_id":85870965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806900191
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

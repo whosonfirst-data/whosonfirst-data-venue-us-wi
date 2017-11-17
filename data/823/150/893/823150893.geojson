@@ -7,13 +7,16 @@
     "addr:postcode":"53211",
     "addr:street":"N Bartlett Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.889236,43.063751,-87.889236,43.063751",
     "geom:latitude":43.063751,
     "geom:longitude":-87.889236,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2498 N Bartlett Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607679,
-    "wof:geomhash":"d7a44086bb485768bd9368ccaa934a7e",
+    "wof:geomhash":"4d9299a6da67084af1594dbde0cc1e2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":823150893,
-    "wof:lastmodified":1472653951,
+    "wof:lastmodified":1510941785,
     "wof:name":"The Red Dot",
     "wof:parent_id":85867291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807358955
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

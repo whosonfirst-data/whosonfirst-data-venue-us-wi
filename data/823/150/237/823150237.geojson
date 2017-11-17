@@ -7,13 +7,16 @@
     "addr:postcode":"53211",
     "addr:street":"N Oakland Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.887457,43.092834,-87.887457,43.092834",
     "geom:latitude":43.092834,
     "geom:longitude":-87.887457,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4156 N Oakland Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607670,
-    "wof:geomhash":"d2f1366b342a881d83e70c03ccb11be6",
+    "wof:geomhash":"d117bc2a0e3a456d3fbac97df5f02d17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":823150237,
-    "wof:lastmodified":1472653941,
+    "wof:lastmodified":1510941826,
     "wof:name":"Benji's Deli",
     "wof:parent_id":85870879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807358999
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

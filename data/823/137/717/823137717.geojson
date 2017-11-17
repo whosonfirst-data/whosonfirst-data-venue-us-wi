@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.906628,43.040179,-87.906628,43.040179",
     "geom:latitude":43.040179,
     "geom:longitude":-87.906628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"759 N Milwaukee St # 415",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -57,7 +59,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607466,
-    "wof:geomhash":"bee20eb365861c78ad3fbe5c326b04b3",
+    "wof:geomhash":"3ecaf25d79e857458bd8e177cce2b6d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,13 +73,15 @@
         }
     ],
     "wof:id":823137717,
-    "wof:lastmodified":1472653922,
+    "wof:lastmodified":1510942051,
     "wof:name":"F S C Securties",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        354017293
+    ],
     "wof:tags":[
         "management",
         "consultant",

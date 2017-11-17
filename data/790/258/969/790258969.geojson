@@ -7,13 +7,16 @@
     "addr:postcode":"53203",
     "addr:street":"W Wisconsin Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.912559,43.038803,-87.912559,43.038803",
     "geom:latitude":43.038803,
     "geom:longitude":-87.912559,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"152 W Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594413,
-    "wof:geomhash":"b2dedc5154b381973482f4b946a3073d",
+    "wof:geomhash":"c6a085ea61104458e4a3f488415dd573",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":790258969,
-    "wof:lastmodified":1472654383,
+    "wof:lastmodified":1510942368,
     "wof:name":"Atr Corp",
     "wof:parent_id":85870965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806854443
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "general",

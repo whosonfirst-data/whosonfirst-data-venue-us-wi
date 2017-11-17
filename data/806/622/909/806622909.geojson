@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.905573,43.041005,-87.905573,43.041005",
     "geom:latitude":43.041005,
     "geom:longitude":-87.905573,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"761 N Jefferson St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599675,
-    "wof:geomhash":"3512750036f3bf1860662a044720a092",
+    "wof:geomhash":"0d8ecd375fa22990500365b760a4a3d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":806622909,
-    "wof:lastmodified":1472654385,
+    "wof:lastmodified":1510943325,
     "wof:name":"Watts Tea Shop",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823138107
+    ],
     "wof:tags":[]
 },
   "bbox": [

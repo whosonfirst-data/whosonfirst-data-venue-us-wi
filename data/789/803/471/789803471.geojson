@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.066763,43.062935,-88.066763,43.062935",
     "geom:latitude":43.062935,
     "geom:longitude":-88.066763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2420 N 124th St",
     "sg:city":"Wauwatosa",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462590664,
-    "wof:geomhash":"c9e99c2554fa1fe3b6538a1cb0af2076",
+    "wof:geomhash":"010b00c185045554e0b16eff33b85474",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":789803471,
-    "wof:lastmodified":1472654366,
+    "wof:lastmodified":1510941324,
     "wof:name":"YMCA",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823173243
+    ],
     "wof:tags":[
         "organization",
         "welfare"

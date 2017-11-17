@@ -7,6 +7,7 @@
     "addr:postcode":"53219",
     "addr:street":"S 74Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.00508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2810 S 74th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607856,
-    "wof:geomhash":"242a94953b08aa863807e533d7037b15",
+    "wof:geomhash":"68e3863323db4c06acc929e6d84b6e44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":823164217,
-    "wof:lastmodified":1491935393,
+    "wof:lastmodified":1510943851,
     "wof:name":"CRH Construction LLC",
     "wof:parent_id":85870901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773095381
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "concrete-stamped",

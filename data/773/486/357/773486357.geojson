@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.927387,43.221235,-87.927387,43.221235",
     "geom:latitude":43.221235,
     "geom:longitude":-87.927387,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1424 W Mequon Rd",
     "sg:city":"Thiensville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586115,
-    "wof:geomhash":"08743b4fbac5d829097bd2281259017b",
+    "wof:geomhash":"42fdeafc60ca052cf8e9220d12296fb4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":773486357,
-    "wof:lastmodified":1472654890,
+    "wof:lastmodified":1510942655,
     "wof:name":"Lecare Styling Center",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        337398881
+    ],
     "wof:tags":[
         "shop"
     ]

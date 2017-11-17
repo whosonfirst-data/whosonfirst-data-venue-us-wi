@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.595599,44.552721,-90.595599,44.552721",
     "geom:latitude":44.552721,
     "geom:longitude":-90.595599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 E Division St",
     "sg:city":"Neillsville",
     "sg:classifiers":[
@@ -40,16 +42,18 @@
     },
     "wof:country":"US",
     "wof:created":1462606870,
-    "wof:geomhash":"a060711d314ea0c53c4a485ebabfcd40",
+    "wof:geomhash":"dcb137508ed3be028aa41dc5460e388a",
     "wof:hierarchy":[],
     "wof:id":807375811,
-    "wof:lastmodified":1472654585,
+    "wof:lastmodified":1510941941,
     "wof:name":"Hardee's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789674321
+    ],
     "wof:tags":[
         "burger",
         "american"

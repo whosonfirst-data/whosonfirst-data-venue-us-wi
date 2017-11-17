@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.914984,43.039436,-87.914984,43.039436",
     "geom:latitude":43.039436,
     "geom:longitude":-87.914984,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"310 W Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606623,
-    "wof:geomhash":"dbd4ab1cb047fb69d9cad13ddc585303",
+    "wof:geomhash":"0ae39070cdb3d2aa1837859507600e39",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":807358027,
-    "wof:lastmodified":1472654518,
+    "wof:lastmodified":1510943143,
     "wof:name":"The Capital Grille",
     "wof:parent_id":85870965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823138977
+    ],
     "wof:tags":[
         "new",
         "american"

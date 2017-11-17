@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.025444,43.016439,-88.025444,43.016439",
     "geom:latitude":43.016439,
     "geom:longitude":-88.025444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9047 W Greenfield Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604136,
-    "wof:geomhash":"efc41fc3df209c68de5e75470784f884",
+    "wof:geomhash":"1c7a18be4d5a2bf734aef447402f50a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":807137479,
-    "wof:lastmodified":1472654186,
+    "wof:lastmodified":1510941571,
     "wof:name":"Allis Care Ctr",
     "wof:parent_id":420550045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823156265
+    ],
     "wof:tags":[
         "home",
         "convalescent"

@@ -7,13 +7,16 @@
     "addr:postcode":"53203",
     "addr:street":"W Highland Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.913784,43.044264,-87.913784,43.044264",
     "geom:latitude":43.044264,
     "geom:longitude":-87.913784,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"205 W Highland Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607493,
-    "wof:geomhash":"04c5c7b283647a7cb3c7025067bf28b4",
+    "wof:geomhash":"2c2838b274775c11b5fb94bba9b40ef2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":823139357,
-    "wof:lastmodified":1472653920,
+    "wof:lastmodified":1510942793,
     "wof:name":"M&E Architects-Surveyors",
     "wof:parent_id":85882371,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        337539569
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "architects'",

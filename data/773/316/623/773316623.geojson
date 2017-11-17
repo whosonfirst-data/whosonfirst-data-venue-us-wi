@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.940528,43.0362,-87.940528,43.0362",
     "geom:latitude":43.0362,
     "geom:longitude":-87.940528,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2030 W Clybourn St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584821,
-    "wof:geomhash":"8bf330d9b6b542b95006d1db328c8e9b",
+    "wof:geomhash":"e67d3237effafbe3e25e89783b97f86c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +67,15 @@
         }
     ],
     "wof:id":773316623,
-    "wof:lastmodified":1472654822,
+    "wof:lastmodified":1510941194,
     "wof:name":"Sav-On Foods",
     "wof:parent_id":85870977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823178433
+    ],
     "wof:tags":[
         "grocer"
     ]

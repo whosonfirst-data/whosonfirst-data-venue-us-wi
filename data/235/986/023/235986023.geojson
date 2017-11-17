@@ -7,6 +7,7 @@
     "addr:postcode":"53142",
     "addr:street":"120Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.954379,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11211 120th Ave",
     "sg:city":"Pleasant Prairie",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
         "sg:id":"SG_0YRaDtjq2whD2j0uLUJYAG_42.523679_-87.954379@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"e00d29cfbc338c3f6ce273dff1e952ae",
+    "wof:geomhash":"5141f5b4e2b9bd34c22bd965695dfbef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":235986023,
-    "wof:lastmodified":1492098766,
+    "wof:lastmodified":1510942587,
     "wof:name":"Music Outlet II Inc",
     "wof:parent_id":85852717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773151283
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"

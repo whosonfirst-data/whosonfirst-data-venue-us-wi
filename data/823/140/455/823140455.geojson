@@ -7,13 +7,16 @@
     "addr:postcode":"53204",
     "addr:street":"W National Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.925854,43.023254,-87.925854,43.023254",
     "geom:latitude":43.023254,
     "geom:longitude":-87.925854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1139 W National Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607517,
-    "wof:geomhash":"c1a98b1c21f096df25be82fa23425be5",
+    "wof:geomhash":"c310ea6ac79175345cd42f98db8b0290",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":823140455,
-    "wof:lastmodified":1472653918,
+    "wof:lastmodified":1510942774,
     "wof:name":"Centrobrook Church",
     "wof:parent_id":85870951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773566049
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

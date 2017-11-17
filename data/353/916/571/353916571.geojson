@@ -15,6 +15,7 @@
     "geom:longitude":-87.857692,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7630 Pershing Blvd",
     "sg:city":"Kenosha",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
         "sg:id":"SG_1Apyj2XUlwQrnt2jNv58Sq_42.564142_-87.857692@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"b52a39152af5c8277ef892b479ad417c",
+    "wof:geomhash":"e28fbb5c5ad7666ba92c56e69834ca2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":353916571,
-    "wof:lastmodified":1492097562,
+    "wof:lastmodified":1510943338,
     "wof:name":"Sears Portrait Studio Ef9",
     "wof:parent_id":85810813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740081281
+    ],
     "wof:tags":[
         "photographer"
     ]

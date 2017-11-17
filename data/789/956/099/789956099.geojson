@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.084832,44.357856,-89.084832,44.357856",
     "geom:latitude":44.357856,
     "geom:longitude":-89.084832,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 S Main St",
     "sg:city":"Waupaca",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1462591968,
-    "wof:geomhash":"daf2c641bef097231bcb3c21275cab94",
+    "wof:geomhash":"55a3cf9048213146fb8bb234d9fdeb87",
     "wof:hierarchy":[],
     "wof:id":789956099,
-    "wof:lastmodified":1472654600,
+    "wof:lastmodified":1510942053,
     "wof:name":"WAUPACA STREET DEPARTMENT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789942597
+    ],
     "wof:tags":[
         "executive"
     ]

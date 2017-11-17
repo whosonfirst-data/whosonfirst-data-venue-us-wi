@@ -7,13 +7,16 @@
     "addr:postcode":"53202",
     "addr:street":"N Milwaukee St Suite 575",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.905981,43.034115,-87.905981,43.034115",
     "geom:latitude":43.034115,
     "geom:longitude":-87.905981,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"316 N Milwaukee St Suite 575",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607448,
-    "wof:geomhash":"19ab82f41cf1d3e9101a238ff984f609",
+    "wof:geomhash":"1b7f828e656ec722202a1f482b534d2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":823136779,
-    "wof:lastmodified":1472653917,
+    "wof:lastmodified":1510942230,
     "wof:name":"Ray Reporting Inc",
     "wof:parent_id":85871001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        403825947
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "stenographers-public"

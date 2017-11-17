@@ -7,13 +7,16 @@
     "addr:postcode":"54474",
     "addr:street":"Market St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.63608,44.86355,-89.63608,44.86355",
     "geom:latitude":44.86355,
     "geom:longitude":-89.63608,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10101 Market St",
     "sg:city":"Mosinee",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462596337,
-    "wof:geomhash":"4aed62ac736371682e0a39af408d4e92",
+    "wof:geomhash":"bd5f041024bc0aa96d4d05ade3e10782",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":790495869,
-    "wof:lastmodified":1472654692,
+    "wof:lastmodified":1510941778,
     "wof:name":"Oshkosh BGosh",
     "wof:parent_id":85865437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790556087
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"

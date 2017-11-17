@@ -7,13 +7,16 @@
     "addr:postcode":"53226",
     "addr:street":"W North Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.024631,43.06056,-88.024631,43.06056",
     "geom:latitude":43.06056,
     "geom:longitude":-88.024631,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8930 W North Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_3qpDeAk46cZE4lCRlrM79y_43.060560_-88.024631@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"4764c80536c32fd989500507574bf088",
+    "wof:geomhash":"178c642bec92a6dce44f9b2e97118e3d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":386969359,
-    "wof:lastmodified":1472653914,
+    "wof:lastmodified":1510943721,
     "wof:name":"Center Marketing Company",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823173125
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "convenience",

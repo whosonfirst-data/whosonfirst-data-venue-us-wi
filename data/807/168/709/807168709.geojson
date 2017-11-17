@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.021926,43.016459,-88.021926,43.016459",
     "geom:latitude":43.016459,
     "geom:longitude":-88.021926,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8707 W Greenfield Ave",
     "sg:city":"West Allis",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604470,
-    "wof:geomhash":"44add39a24425bd0e1f2880dd3654871",
+    "wof:geomhash":"387a29d6fcf5e7989c50ec3eeef894e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":807168709,
-    "wof:lastmodified":1472654215,
+    "wof:lastmodified":1510942397,
     "wof:name":"P R Novelty",
     "wof:parent_id":420550045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823155797
+    ],
     "wof:tags":[
         "antique"
     ]

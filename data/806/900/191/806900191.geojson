@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.919021,43.041257,-87.919021,43.041257",
     "geom:latitude":43.041257,
     "geom:longitude":-87.919021,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"819 N 6th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602010,
-    "wof:geomhash":"a2ad388be92f6e4e5d6990dc72f7ffd3",
+    "wof:geomhash":"f8796fcc6ce10e2465b50fc018a2d1f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":806900191,
-    "wof:lastmodified":1472654699,
+    "wof:lastmodified":1510942440,
     "wof:name":"State & Local Finance Office",
     "wof:parent_id":85870965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823139331
+    ],
     "wof:tags":[
         "state",
         "local",

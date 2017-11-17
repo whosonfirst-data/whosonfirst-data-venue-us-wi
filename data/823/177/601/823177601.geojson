@@ -7,13 +7,16 @@
     "addr:postcode":"53233",
     "addr:street":"W Michigan St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.940603,43.037498,-87.940603,43.037498",
     "geom:latitude":43.037498,
     "geom:longitude":-87.940603,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2203 W Michigan St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608034,
-    "wof:geomhash":"80173c31b06f25059b481c3831a46099",
+    "wof:geomhash":"f2e14f9776f5ae654753fdd5958bc823",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":823177601,
-    "wof:lastmodified":1472654026,
+    "wof:lastmodified":1510942413,
     "wof:name":"Downey Inc.",
     "wof:parent_id":85870977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773412511
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor",

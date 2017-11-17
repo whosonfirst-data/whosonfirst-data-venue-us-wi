@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.862701,42.553191,-88.862701,42.553191",
     "geom:latitude":42.553191,
     "geom:longitude":-88.862701,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"108 Allen St",
     "sg:city":"Clinton",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608102,
-    "wof:geomhash":"838fcc6f637b6d6bcfd0a79e400c1773",
+    "wof:geomhash":"83135c8aaf5e7cea1d38dddfc586dc62",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":823182977,
-    "wof:lastmodified":1472654056,
+    "wof:lastmodified":1510941932,
     "wof:name":"Boxcars Pub & Grub",
     "wof:parent_id":85852239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        370283045
+    ],
     "wof:tags":[]
 },
   "bbox": [

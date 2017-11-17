@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.041455,42.500601,-89.041455,42.500601",
     "geom:latitude":42.500601,
     "geom:longitude":-89.041455,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"250 Garden Ln",
     "sg:city":"Beloit",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605186,
-    "wof:geomhash":"37bf34bd0d2f722aec77eede626badf9",
+    "wof:geomhash":"9c42fe2f6588159bf58ae6ca35970e96",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":807237427,
-    "wof:lastmodified":1472654322,
+    "wof:lastmodified":1510943004,
     "wof:name":"Court System-Paternity",
     "wof:parent_id":85812915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740088313
+    ],
     "wof:tags":[
         "county"
     ]

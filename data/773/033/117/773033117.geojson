@@ -7,13 +7,16 @@
     "addr:postcode":"53202",
     "addr:street":"N Farwell Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.895897,43.048976,-87.895897,43.048976",
     "geom:latitude":43.048976,
     "geom:longitude":-87.895897,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1442 N Farwell Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462582607,
-    "wof:geomhash":"489122b22b0ee01b816ace786264a27b",
+    "wof:geomhash":"9d9730b52150a5552c8feb55d0ef2b4d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":773033117,
-    "wof:lastmodified":1472653959,
+    "wof:lastmodified":1510941495,
     "wof:name":"Apartment Association of SE WI",
     "wof:parent_id":85870833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790493983
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "building",

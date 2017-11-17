@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.914071,43.038732,-87.914071,43.038732",
     "geom:latitude":43.038732,
     "geom:longitude":-87.914071,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"275 W Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606623,
-    "wof:geomhash":"910f7cb64d549dbac73f61dd3ccd8b44",
+    "wof:geomhash":"d4b634a6d434cfe5350e253682efad52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":807357981,
-    "wof:lastmodified":1472654544,
+    "wof:lastmodified":1510941434,
     "wof:name":"The Chocolate Factory",
     "wof:parent_id":85870965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823139611
+    ],
     "wof:tags":[
         "american"
     ]

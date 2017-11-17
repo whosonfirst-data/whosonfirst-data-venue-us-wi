@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.128194,43.090043,-88.128194,43.090043",
     "geom:latitude":43.090043,
     "geom:longitude":-88.128194,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17495 W Capitol Dr",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606989,
-    "wof:geomhash":"42ed7c249cba52b6b7c6b24c100e70c6",
+    "wof:geomhash":"dd11a7c356fbbb4852813ef1c461ee62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,13 +68,15 @@
         }
     ],
     "wof:id":807384305,
-    "wof:lastmodified":1472654563,
+    "wof:lastmodified":1510942261,
     "wof:name":"Linda's Hair Studio",
     "wof:parent_id":85832419,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806415251
+    ],
     "wof:tags":[
         "hair",
         "stylist"

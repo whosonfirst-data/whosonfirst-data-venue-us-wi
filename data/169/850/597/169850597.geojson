@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.902289,43.038906,-87.902289,43.038906",
     "geom:latitude":43.038906,
     "geom:longitude":-87.902289,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"777 E Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_2GTML41glQx7DAib2FTvsw_43.038906_-87.902289@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"984694ec9a1566f1e0283f952f022611",
+    "wof:geomhash":"edc3db85e68246c5dbbc08726a9a8fe5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":169850597,
-    "wof:lastmodified":1472653938,
+    "wof:lastmodified":1510944188,
     "wof:name":"US Bank",
     "wof:parent_id":85867289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823137271
+    ],
     "wof:tags":[
         "market",
         "capital"

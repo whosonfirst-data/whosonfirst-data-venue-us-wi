@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.398949,43.052907,-89.398949,43.052907",
     "geom:latitude":43.052907,
     "geom:longitude":-89.398949,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1313 Fish Hatchery Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601769,
-    "wof:geomhash":"a1bc845f870eb15b0a1f4e754e5e3a8f",
+    "wof:geomhash":"2b6fff65c76adc244906cf2e25213366",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":806869697,
-    "wof:lastmodified":1472654683,
+    "wof:lastmodified":1510942400,
     "wof:name":"Dean Medical Center",
     "wof:parent_id":85878849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789670029
+    ],
     "wof:tags":[
         "medical",
         "clinic"

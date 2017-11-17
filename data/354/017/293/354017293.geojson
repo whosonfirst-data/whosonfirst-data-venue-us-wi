@@ -7,6 +7,7 @@
     "addr:postcode":"53202",
     "addr:street":"N Milwaukee St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.906841,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"759 N Milwaukee St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
         "sg:id":"SG_1XWuv2gfPnRkUvyV2xLo0N_43.040977_-87.906841@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"5399c23522501d3ae856f631976f46ea",
+    "wof:geomhash":"aa7b1e7973f521a7703b1a665d688ca4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":354017293,
-    "wof:lastmodified":1491921227,
+    "wof:lastmodified":1510942051,
     "wof:name":"F S C Securties",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823137717
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory",

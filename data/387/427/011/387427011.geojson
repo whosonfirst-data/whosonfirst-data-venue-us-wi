@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.966724,43.089883,-87.966724,43.089883",
     "geom:latitude":43.089883,
     "geom:longitude":-87.966724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4222 W Capitol Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_7hZnTUmxTRcTSupxJNkTba_43.089883_-87.966724@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"d8bd5f6d4fd6a4594992582bf16b3ce1",
+    "wof:geomhash":"98b7d4ca8796978ebdf6f39f0ce87f25",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":387427011,
-    "wof:lastmodified":1472654163,
+    "wof:lastmodified":1510943694,
     "wof:name":"JCS Carpet Cleaning",
     "wof:parent_id":85870959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823158525
+    ],
     "wof:tags":[
         "cleaners",
         "rug",

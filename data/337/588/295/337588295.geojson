@@ -7,13 +7,16 @@
     "addr:postcode":"53220",
     "addr:street":"S 76Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.008246,42.959451,-88.008246,42.959451",
     "geom:latitude":42.959451,
     "geom:longitude":-88.008246,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4610 S 76th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
         "sg:id":"SG_30lfItjB1lAvRJXf4EyIFE_42.959451_-88.008246@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"80ee203a2e95be240144cc7bb8123272",
+    "wof:geomhash":"10483ab2d1db31d3c43b25e65a7e322d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":337588295,
-    "wof:lastmodified":1472654020,
+    "wof:lastmodified":1510942798,
     "wof:name":"Best Buy",
     "wof:parent_id":85870865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823165773
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consumer",

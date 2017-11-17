@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.047473,43.04628,-88.047473,43.04628",
     "geom:latitude":43.04628,
     "geom:longitude":-88.047473,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1233 N Mayfair Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462600682,
-    "wof:geomhash":"f72b242541296968f2f7e829838e6684",
+    "wof:geomhash":"a8cce72726c6e2181099ca4f5e53704c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":806740291,
-    "wof:lastmodified":1472654544,
+    "wof:lastmodified":1510942867,
     "wof:name":"Kforce Inc",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806596233
+    ],
     "wof:tags":[
         "temporary"
     ]

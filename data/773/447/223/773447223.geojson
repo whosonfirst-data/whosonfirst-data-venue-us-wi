@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.497554,44.815965,-91.497554,44.815965",
     "geom:latitude":44.815965,
     "geom:longitude":-91.497554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"800 Wisconsin St",
     "sg:city":"Eau Claire",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585818,
-    "wof:geomhash":"8f8c6432d2318155e82b71eda779d53a",
+    "wof:geomhash":"4feec316c35c243ef1abb374a13f851a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":773447223,
-    "wof:lastmodified":1472654876,
+    "wof:lastmodified":1510942801,
     "wof:name":"L P I Inc",
     "wof:parent_id":85868291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773081967
+    ],
     "wof:tags":[
         "industrial",
         "personnel",

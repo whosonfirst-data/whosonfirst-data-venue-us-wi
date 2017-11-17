@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.898067,43.055133,-87.898067,43.055133",
     "geom:latitude":43.055133,
     "geom:longitude":-87.898067,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1801 N Humboldt Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -42,11 +44,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1043413895,
         "sg:id":"SG_2IGgkTwGE3Ha4BSwZG7LS4_43.055133_-87.898067@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462598155,
-    "wof:geomhash":"d7a5d1fbee8bbb2d6814be85e074670f",
+    "wof:geomhash":"fbffa2d1e59308bd5d362e57c70a1e27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +63,15 @@
         }
     ],
     "wof:id":806438819,
-    "wof:lastmodified":1472654074,
+    "wof:lastmodified":1510941993,
     "wof:name":"Pitch's Lounge & Restaurant",
     "wof:parent_id":85870987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823134779
+    ],
     "wof:tags":[
         "tavern"
     ]

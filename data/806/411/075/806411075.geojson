@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.905357,43.038726,-87.905357,43.038726",
     "geom:latitude":43.038726,
     "geom:longitude":-87.905357,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"411 E Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597937,
-    "wof:geomhash":"7f1790f257a7ebabc8dbb2c5b21eee86",
+    "wof:geomhash":"cbac74ac244087d7bef875e7516909f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":806411075,
-    "wof:lastmodified":1472653995,
+    "wof:lastmodified":1510943455,
     "wof:name":"M B Real Estate",
     "wof:parent_id":85867289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823137989
+    ],
     "wof:tags":[
         "building",
         "parks"

@@ -7,6 +7,7 @@
     "addr:postcode":"53219",
     "addr:street":"W Lincoln Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.999304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6915 W Lincoln Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607841,
-    "wof:geomhash":"fd7f0734273a59d3317968a503f310e2",
+    "wof:geomhash":"e8dd4db8065924f4783cd00e08f23ebe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":823162969,
-    "wof:lastmodified":1492112128,
+    "wof:lastmodified":1510942239,
     "wof:name":"Filippo's Italian Restaurant",
     "wof:parent_id":85870937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807373775
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

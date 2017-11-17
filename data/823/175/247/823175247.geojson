@@ -7,6 +7,7 @@
     "addr:postcode":"53227",
     "addr:street":"S 90Th St Ste 214",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.024841,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2424 S 90th St Ste 214",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -66,7 +68,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608004,
-    "wof:geomhash":"27922a403dac72debd5c3eaf2fab5a82",
+    "wof:geomhash":"1ed0cf16bbeddab977aa541cb87e8759",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,12 +82,14 @@
         }
     ],
     "wof:id":823175247,
-    "wof:lastmodified":1492103499,
+    "wof:lastmodified":1510942487,
     "wof:name":"Lakeshore Medical Clinic",
     "wof:parent_id":85870861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806809021
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

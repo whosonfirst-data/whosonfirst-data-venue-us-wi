@@ -7,13 +7,16 @@
     "addr:postcode":"53211",
     "addr:street":"E Kenwood Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.882858,43.074699,-87.882858,43.074699",
     "geom:latitude":43.074699,
     "geom:longitude":-87.882858,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2200 E Kenwood Blvd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[],
@@ -34,11 +37,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3931681190,
         "sg:id":"SG_5TIe86Smiem632F4U6MquW_43.074699_-87.882858@1303262808"
     },
     "wof:country":"US",
     "wof:created":1462607668,
-    "wof:geomhash":"1c6d5ec7cfd9385c0e5986cdf2912af5",
+    "wof:geomhash":"f455e573c96a8c65a93d5aae3beedbf7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,13 +56,17 @@
         }
     ],
     "wof:id":823150019,
-    "wof:lastmodified":1472653937,
+    "wof:lastmodified":1510943559,
     "wof:name":"UWM Bookstore",
     "wof:parent_id":85870945,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        370757715
+    ],
+    "wof:supersedes":[
+        370757715
+    ],
     "wof:tags":[]
 },
   "bbox": [

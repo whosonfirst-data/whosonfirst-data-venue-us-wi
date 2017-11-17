@@ -7,13 +7,16 @@
     "addr:postcode":"53589",
     "addr:street":"Lake Kegonsa Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.284827,42.929097,-89.284827,42.929097",
     "geom:latitude":42.929097,
     "geom:longitude":-89.284827,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1460 Lake Kegonsa Rd",
     "sg:city":"Stoughton",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608137,
-    "wof:geomhash":"bcceddfe45fad07b8cb253a86f8299cf",
+    "wof:geomhash":"8628041c803cc7e28f6811bf8d5327cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":823185467,
-    "wof:lastmodified":1472654056,
+    "wof:lastmodified":1510942821,
     "wof:name":"Nalyn's Pet Grooming Svc",
     "wof:parent_id":85868281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773753657
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

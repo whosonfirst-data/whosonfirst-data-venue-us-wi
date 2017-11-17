@@ -7,13 +7,16 @@
     "addr:postcode":"54914",
     "addr:street":"W Wisconsin Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.460559,44.273059,-88.460559,44.273059",
     "geom:latitude":44.273059,
     "geom:longitude":-88.460559,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3801 W Wisconsin Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462596274,
-    "wof:geomhash":"d346b06cb8a8270eca8460384d2f9154",
+    "wof:geomhash":"aacc9858d1d4b182c263cdbeaee8118d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +59,17 @@
         }
     ],
     "wof:id":790487875,
-    "wof:lastmodified":1472654687,
+    "wof:lastmodified":1510943560,
     "wof:name":"Arbys",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        807371133
+    ],
+    "wof:supersedes":[
+        790120545
+    ],
     "wof:tags":[
         "fast"
     ]

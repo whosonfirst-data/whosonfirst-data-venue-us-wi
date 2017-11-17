@@ -7,6 +7,7 @@
     "addr:postcode":"53005",
     "addr:street":"W Capitol Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.081249,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13715 W Capitol Dr",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594248,
-    "wof:geomhash":"74be21222ea64b32f7c2cb29727bd12c",
+    "wof:geomhash":"fd99e8731530d54dd9ea8115bc9d5686",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":790239967,
-    "wof:lastmodified":1491898542,
+    "wof:lastmodified":1510942540,
     "wof:name":"Tanfastic Tanning Salon",
     "wof:parent_id":85870871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807377281
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
