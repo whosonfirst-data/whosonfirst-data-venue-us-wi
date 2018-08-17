@@ -14,6 +14,7 @@
     "geom:longitude":-88.106933,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"95 N Moorland Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597810,
-    "wof:geomhash":"be243ff168809f0f2594ac7df4e90345",
+    "wof:geomhash":"929abd5bd4a2b0f7e9c39c4364e8bc6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,16 @@
         }
     ],
     "wof:id":806397167,
-    "wof:lastmodified":1472653969,
+    "wof:lastmodified":1534535343,
     "wof:name":"Houlihans Restaurants Inc",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773691343,
+        807353213
+    ],
     "wof:tags":[
         "bar"
     ]

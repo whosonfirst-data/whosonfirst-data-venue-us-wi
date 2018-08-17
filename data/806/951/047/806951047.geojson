@@ -2,18 +2,24 @@
   "id": 806951047,
   "type": "Feature",
   "properties": {
-    "addr:full":"2458 N Murray Ave Milwaukee WI 53211",
+    "addr:city":"Milwaukee",
+    "addr:full":"2458 N Murray Ave Milwaukee, Wi 53211",
+    "addr:house_number":"2458",
     "addr:housenumber":"2458",
+    "addr:phone":"+1 414-332-8828",
     "addr:postcode":"53211",
+    "addr:road":"N Murray Ave",
+    "addr:state":"WI",
     "addr:street":"N Murray Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.885474,43.063451,-87.885474,43.063451",
-    "geom:latitude":43.063451,
-    "geom:longitude":-87.885474,
+    "geom:bbox":"-87.88546,43.06303,-87.88546,43.06303",
+    "geom:latitude":43.06303,
+    "geom:longitude":-87.88546,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2458 N Murray Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -36,7 +42,10 @@
         "product",
         "ceramic"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530849
+    ],
     "wof:belongsto":[
         85870883,
         102191575,
@@ -48,11 +57,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500061,
         "sg:id":"SG_4JqZIaWwTSXDh6DP6W34PL_43.063451_-87.885474@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462602450,
-    "wof:geomhash":"72affc91360b11867f3144e33b19f104",
+    "wof:geomhash":"4a36a874ac9edc4795a02c0339a397bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +76,7 @@
         }
     ],
     "wof:id":806951047,
-    "wof:lastmodified":1472654737,
+    "wof:lastmodified":1534535365,
     "wof:name":"Murray Hill Pottery Works",
     "wof:parent_id":85870883,
     "wof:placetype":"venue",
@@ -79,10 +89,10 @@
     ]
 },
   "bbox": [
-    -87.885474,
-    43.063451,
-    -87.885474,
-    43.063451
+    -87.88546,
+    43.06303,
+    -87.88546,
+    43.06303
 ],
-  "geometry": {"coordinates":[-87.885474,43.063451],"type":"Point"}
+  "geometry": {"coordinates":[-87.88545999999999,43.06303],"type":"Point"}
 }

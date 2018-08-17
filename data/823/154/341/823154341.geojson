@@ -2,19 +2,25 @@
   "id": 823154341,
   "type": "Feature",
   "properties": {
-    "addr:full":"7406 Hillcrest Dr Milwaukee WI 53213",
+    "addr:city":"Wauwatosa",
+    "addr:full":"7406 Hillcrest Dr Wauwatosa, Wi 53213-2226",
+    "addr:house_number":"7406",
     "addr:housenumber":"7406",
-    "addr:postcode":"53213",
+    "addr:phone":"+1 414-774-8672",
+    "addr:postcode":"53213-2226",
+    "addr:road":"Hillcrest Dr",
+    "addr:state":"WI",
     "addr:street":"Hillcrest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-88.004828,43.05523,-88.004828,43.05523",
-    "geom:latitude":43.05523,
-    "geom:longitude":-88.004828,
+    "geom:bbox":"-88.00503,43.05533,-88.00503,43.05533",
+    "geom:latitude":43.05533,
+    "geom:longitude":-88.00503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"7406 Hillcrest Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -37,7 +43,11 @@
         "historical"
     ],
     "sg:website":"http://www.wauwatosahistoricalsociety.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532225,
+        102530849
+    ],
     "wof:belongsto":[
         85870835,
         102191575,
@@ -49,11 +59,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500401,
         "sg:id":"SG_3iJu3iCoegAS5gc9sSNUjQ_43.055230_-88.004828@1303262809"
     },
     "wof:country":"US",
     "wof:created":1462607723,
-    "wof:geomhash":"6efc4b5e9ed19cfad1cf5e3cf9557b33",
+    "wof:geomhash":"d632af0b62e48965e8512f6d9ec1fc24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +78,7 @@
         }
     ],
     "wof:id":823154341,
-    "wof:lastmodified":1491905723,
+    "wof:lastmodified":1534535365,
     "wof:name":"Wauwatosa Historical Society",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",
@@ -79,10 +90,10 @@
     ]
 },
   "bbox": [
-    -88.004828,
-    43.05523,
-    -88.004828,
-    43.05523
+    -88.00503,
+    43.05533,
+    -88.00503,
+    43.05533
 ],
-  "geometry": {"coordinates":[-88.004828,43.05523],"type":"Point"}
+  "geometry": {"coordinates":[-88.00503,43.05533],"type":"Point"}
 }

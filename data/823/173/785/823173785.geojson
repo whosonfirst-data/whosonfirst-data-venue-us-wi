@@ -7,6 +7,7 @@
     "addr:postcode":"53226",
     "addr:street":"W Wisconsin Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.024719,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9000 W Wisconsin Ave C165",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607979,
-    "wof:geomhash":"beead7dbda8636f6b56bd482c0898273",
+    "wof:geomhash":"60caa40b3d468799060307a7d5ed2743",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":823173785,
-    "wof:lastmodified":1491905761,
+    "wof:lastmodified":1534535358,
     "wof:name":"Flight For Life",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807272897
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "service-air",

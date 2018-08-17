@@ -7,6 +7,7 @@
     "addr:postcode":"53597",
     "addr:street":"S Woodland Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-89.431973,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5668 S Woodland Dr",
     "sg:city":"Waunakee",
     "sg:classifiers":[
@@ -33,22 +35,26 @@
         "animal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85868279
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WEo3zsXJAedvbkl8rvjF4_43.165375_-89.431973@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600351,
-    "wof:geomhash":"5caa763f40e9a180000b2fdc91f9750f",
+    "wof:geomhash":"57734310cae09e8c99ef6f452514f421",
     "wof:hierarchy":[],
     "wof:id":806701721,
-    "wof:lastmodified":1491935718,
+    "wof:lastmodified":1534535343,
     "wof:name":"Divall Arabians",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773086949
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equine",

@@ -14,6 +14,7 @@
     "geom:longitude":-89.625341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"407 Grant St",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462589835,
-    "wof:geomhash":"25f41c6d8d1513e1d07e04ca694d6638",
+    "wof:geomhash":"9ccd1eff10cf777b64a402c7e0574aff",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":789696881,
-    "wof:lastmodified":1472654144,
+    "wof:lastmodified":1534535344,
     "wof:name":"City/County Data Center Comm",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789927753
+    ],
     "wof:tags":[
         "executive",
         "datum"

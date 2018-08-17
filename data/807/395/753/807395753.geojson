@@ -14,6 +14,7 @@
     "geom:longitude":-87.998077,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6951 Industrial Loop",
     "sg:city":"Greendale",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607178,
-    "wof:geomhash":"a36ad517a1c527b18297573c70711073",
+    "wof:geomhash":"efca5f0401f3acf991dccde90756c133",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +66,15 @@
         }
     ],
     "wof:id":807395753,
-    "wof:lastmodified":1472654592,
+    "wof:lastmodified":1534535364,
     "wof:name":"Treter Law",
     "wof:parent_id":85870857,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807395695
+    ],
     "wof:tags":[
         "attorney",
         "federal",

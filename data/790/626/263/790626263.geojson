@@ -7,6 +7,7 @@
     "addr:postcode":"53901",
     "addr:street":"W Edgewater St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.458975,43.539147,-89.458975,43.539147",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.458975,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"109 W Edgewater St",
     "sg:city":"Portage",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1462597469,
-    "wof:geomhash":"53d2325354a4967e2d73e203f76c9d09",
+    "wof:geomhash":"744bbf87c1bfad203e9696cb20dcc60b",
     "wof:hierarchy":[],
     "wof:id":790626263,
-    "wof:lastmodified":1472654787,
+    "wof:lastmodified":1534535345,
     "wof:name":"Jane Morgan Memorial Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790135543
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

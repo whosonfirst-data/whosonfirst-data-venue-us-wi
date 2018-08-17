@@ -7,6 +7,7 @@
     "addr:postcode":"54880",
     "addr:street":"Belknap St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.09777,46.720738,-92.09777,46.720738",
@@ -14,6 +15,7 @@
     "geom:longitude":-92.09777,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1313 Belknap St",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
         "sg:id":"SG_08kGuQUT9Yh4oUzlwAVfDK_46.720738_-92.097770@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"6bc0ee20e989e1b10607fd40769d035e",
+    "wof:geomhash":"59dce041d59b8feec0ddb2f08b7fed8e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":354315383,
-    "wof:lastmodified":1472654059,
+    "wof:lastmodified":1534535346,
     "wof:name":"Douglas County Corp Counsel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773189467
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

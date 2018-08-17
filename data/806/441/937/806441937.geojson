@@ -14,6 +14,7 @@
     "geom:longitude":-87.899008,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"900 E Auer Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598182,
-    "wof:geomhash":"6f925b2ff8daf1e3f8185d5f1b859f06",
+    "wof:geomhash":"adff03bcb3166d5eaeebdbacfc65680e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806441937,
-    "wof:lastmodified":1472654076,
+    "wof:lastmodified":1534535345,
     "wof:name":"Riverwest",
     "wof:parent_id":85867295,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823152071
+    ],
     "wof:tags":[
         "drinking"
     ]

@@ -2,18 +2,24 @@
   "id": 790468919,
   "type": "Feature",
   "properties": {
-    "addr:full":"1000 N Oak Ave Marshfield WI 54449",
+    "addr:city":"Marshfield",
+    "addr:full":"1000 N Oak Ave Marshfield, Wi 54449-5703",
+    "addr:house_number":"1000",
     "addr:housenumber":"1000",
-    "addr:postcode":"54449",
+    "addr:phone":"+1 715-387-5562",
+    "addr:postcode":"54449-5703",
+    "addr:road":"N Oak Ave",
+    "addr:state":"WI",
     "addr:street":"N Oak Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.17633,44.677213,-90.17633,44.677213",
-    "geom:latitude":44.677213,
-    "geom:longitude":-90.17633,
+    "geom:bbox":"-90.17676,44.67585,-90.17676,44.67585",
+    "geom:latitude":44.67585,
+    "geom:longitude":-90.17676,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1000 N Oak Ave",
     "sg:city":"Marshfield",
     "sg:classifiers":[
@@ -35,19 +41,23 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527221
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500821,
         "sg:id":"SG_5adiLIXzkhXqprA6Xop0km_44.677213_-90.176330@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596082,
-    "wof:geomhash":"586fcf861f1da5a5b43ac3c2f3cf5a00",
+    "wof:geomhash":"9062e0def89514e6bf8342a7d9d8f619",
     "wof:hierarchy":[],
     "wof:id":790468919,
-    "wof:lastmodified":1472654668,
-    "wof:name":"New Visions Gallery Inc",
+    "wof:lastmodified":1534535364,
+    "wof:name":"New Visions Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
@@ -58,10 +68,10 @@
     ]
 },
   "bbox": [
-    -90.17633,
-    44.677213,
-    -90.17633,
-    44.677213
+    -90.17676,
+    44.67585,
+    -90.17676,
+    44.67585
 ],
-  "geometry": {"coordinates":[-90.17632999999999,44.677213],"type":"Point"}
+  "geometry": {"coordinates":[-90.17676,44.67585],"type":"Point"}
 }

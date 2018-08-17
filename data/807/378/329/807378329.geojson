@@ -7,6 +7,7 @@
     "addr:postcode":"53005",
     "addr:street":"N 126Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.069008,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3540 N 126th St",
     "sg:city":"Brookfield",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606900,
-    "wof:geomhash":"2a4a4a9a76170934cc17c248798d3c29",
+    "wof:geomhash":"0b3a94ee280f097f20612d4d8dc1a61e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":807378329,
-    "wof:lastmodified":1491898496,
+    "wof:lastmodified":1534535341,
     "wof:name":"Plank Rd. Publishing Inc.",
     "wof:parent_id":85870871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        403776223
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

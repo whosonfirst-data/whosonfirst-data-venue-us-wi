@@ -2,17 +2,22 @@
   "id": 789846621,
   "type": "Feature",
   "properties": {
-    "addr:full":"1401 Belknap St Superior WI 54880",
+    "addr:city":"Superior",
+    "addr:full":"1401 Belknap St Superior, Wi 54880",
+    "addr:house_number":"1401",
     "addr:housenumber":"1401",
+    "addr:phone":"+1 715-395-2787",
     "addr:postcode":"54880",
+    "addr:road":"Belknap St",
+    "addr:state":"WI",
     "addr:street":"Belknap St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-92.099443,46.720662,-92.099443,46.720662",
-    "geom:latitude":46.720662,
-    "geom:longitude":-92.099443,
+    "geom:bbox":"-92.09809,46.72075,-92.09809,46.72075",
+    "geom:latitude":46.72075,
+    "geom:longitude":-92.09809,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,20 +34,25 @@
     "sg:phone":"+1 715 395 2787",
     "sg:postcode":"54880",
     "sg:province":"WI",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527965,
+        102528763
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500090,
         "osm:way":450222948,
         "sg:id":"SG_6GJCtpeplB4N9Vh362cY1f_46.720662_-92.099443@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591003,
-    "wof:geomhash":"dc5d5423e470279ffc7e2d8e51655f0a",
+    "wof:geomhash":"8a1aaf35dc14b5b5522b29e82cf8668e",
     "wof:hierarchy":[],
     "wof:id":789846621,
-    "wof:lastmodified":1510941559,
-    "wof:name":"Harrington Arts Ctr",
+    "wof:lastmodified":1534535348,
+    "wof:name":"Harrington Arts Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
@@ -51,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -92.099443,
-    46.720662,
-    -92.099443,
-    46.720662
+    -92.09809,
+    46.72075,
+    -92.09809,
+    46.72075
 ],
-  "geometry": {"coordinates":[-92.09944299999999,46.720662],"type":"Point"}
+  "geometry": {"coordinates":[-92.09809,46.72075],"type":"Point"}
 }

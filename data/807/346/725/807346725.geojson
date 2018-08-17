@@ -2,18 +2,23 @@
   "id": 807346725,
   "type": "Feature",
   "properties": {
-    "addr:full":"1034 N 4th St Milwaukee WI 53203",
+    "addr:city":"Milwaukee",
+    "addr:full":"1034 N 4Th St Milwaukee, Wi 53203-1304",
+    "addr:house_number":"1034",
     "addr:housenumber":"1034",
-    "addr:postcode":"53203",
+    "addr:postcode":"53203-1304",
+    "addr:road":"N 4Th St",
+    "addr:state":"WI",
     "addr:street":"N 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.915942,43.043417,-87.915942,43.043417",
-    "geom:latitude":43.043417,
-    "geom:longitude":-87.915942,
+    "geom:bbox":"-87.9159,43.04346,-87.9159,43.04346",
+    "geom:latitude":43.04346,
+    "geom:longitude":-87.9159,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1034 N 4th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -33,7 +38,10 @@
         "renovation",
         "volunteer"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530849
+    ],
     "wof:belongsto":[
         85882371,
         102191575,
@@ -45,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500713,
         "sg:id":"SG_6mlHoG1FV5YiU6yBsJcRB0_43.043827_-87.915909@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462606455,
-    "wof:geomhash":"603728814b26d0be759aa6ec8face7da",
+    "wof:geomhash":"e5d0b2ddb9a4e579957e3523a8d98002",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":807346725,
-    "wof:lastmodified":1472654510,
+    "wof:lastmodified":1534535364,
     "wof:name":"Turner Ballroom Preservation Trust",
     "wof:parent_id":85882371,
     "wof:placetype":"venue",
@@ -78,10 +87,10 @@
     ]
 },
   "bbox": [
-    -87.915942,
-    43.043417,
-    -87.915942,
-    43.043417
+    -87.9159,
+    43.04346,
+    -87.9159,
+    43.04346
 ],
-  "geometry": {"coordinates":[-87.915942,43.043417],"type":"Point"}
+  "geometry": {"coordinates":[-87.91589999999999,43.04346],"type":"Point"}
 }

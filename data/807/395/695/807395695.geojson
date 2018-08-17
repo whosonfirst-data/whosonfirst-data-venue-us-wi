@@ -7,6 +7,7 @@
     "addr:postcode":"53129",
     "addr:street":"Industrial Loop",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.998077,42.928994,-87.998077,42.928994",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.998077,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6951 Industrial Loop",
     "sg:city":"Greendale",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607176,
-    "wof:geomhash":"a36ad517a1c527b18297573c70711073",
+    "wof:geomhash":"efca5f0401f3acf991dccde90756c133",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +53,14 @@
         }
     ],
     "wof:id":807395695,
-    "wof:lastmodified":1472654592,
+    "wof:lastmodified":1534535364,
     "wof:name":"Treter Law Office",
     "wof:parent_id":85870857,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807395753
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

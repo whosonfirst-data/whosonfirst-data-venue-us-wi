@@ -2,18 +2,24 @@
   "id": 823173967,
   "type": "Feature",
   "properties": {
-    "addr:full":"10001 W Bluemound Rd Milwaukee WI 53226",
+    "addr:city":"Milwaukee",
+    "addr:full":"10001 W Bluemound Rd Milwaukee, Wi 53226",
+    "addr:house_number":"10001",
     "addr:housenumber":"10001",
+    "addr:phone":"+1 414-771-3040",
     "addr:postcode":"53226",
+    "addr:road":"W Bluemound Rd",
+    "addr:state":"WI",
     "addr:street":"W Bluemound Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.065475,43.036449,-88.065475,43.036449",
-    "geom:latitude":43.036449,
-    "geom:longitude":-88.065475,
+    "geom:bbox":"-88.04631,43.03493,-88.04631,43.03493",
+    "geom:latitude":43.03493,
+    "geom:longitude":-88.04631,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"10001 W Bluemound Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -32,7 +38,11 @@
         "government-county"
     ],
     "sg:website":"http://www.milwaukeedems.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532225,
+        102530849
+    ],
     "wof:belongsto":[
         85867293,
         102191575,
@@ -44,11 +54,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500871,
         "sg:id":"SG_4kFirJFe3xxPjyTm8jTyAP_43.036449_-88.065475@1303262811"
     },
     "wof:country":"US",
     "wof:created":1462607981,
-    "wof:geomhash":"d2f9af2f81c5c5b23ed286e5e7b673e2",
+    "wof:geomhash":"75b6cbce5d339f255124c318014f6177",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,8 +73,8 @@
         }
     ],
     "wof:id":823173967,
-    "wof:lastmodified":1472654018,
-    "wof:name":"County Zoo",
+    "wof:lastmodified":1534535365,
+    "wof:name":"Milwaukee County Zoo",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
@@ -75,10 +86,10 @@
     ]
 },
   "bbox": [
-    -88.065475,
-    43.036449,
-    -88.065475,
-    43.036449
+    -88.04631,
+    43.03493,
+    -88.04631,
+    43.03493
 ],
-  "geometry": {"coordinates":[-88.06547500000001,43.036449],"type":"Point"}
+  "geometry": {"coordinates":[-88.04631000000001,43.03493],"type":"Point"}
 }

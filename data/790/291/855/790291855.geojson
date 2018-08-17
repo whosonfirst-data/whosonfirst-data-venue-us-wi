@@ -7,6 +7,7 @@
     "addr:postcode":"54914",
     "addr:street":"W College Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.475996,44.261928,-88.475996,44.261928",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.475996,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4321 W College Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594706,
-    "wof:geomhash":"fea84a96bd084de07a199d20baf6af3f",
+    "wof:geomhash":"cb478a8a132b7dd3a8f53670f04e52f5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":790291855,
-    "wof:lastmodified":1472654433,
+    "wof:lastmodified":1534535350,
     "wof:name":"Cellmark Associates",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773291391
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "durable",

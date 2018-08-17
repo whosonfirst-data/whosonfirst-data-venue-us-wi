@@ -7,6 +7,7 @@
     "addr:postcode":"54935",
     "addr:street":"W Johnson St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-88.475768,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"718 W Johnson St",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -44,12 +45,14 @@
     "wof:geomhash":"817cd0c34762e5713ed9baa9fd7db00a",
     "wof:hierarchy":[],
     "wof:id":807009475,
-    "wof:lastmodified":1511321164,
+    "wof:lastmodified":1534535361,
     "wof:name":"Pizza Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807371609
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"

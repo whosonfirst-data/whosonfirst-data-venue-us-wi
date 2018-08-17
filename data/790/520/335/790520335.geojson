@@ -7,6 +7,7 @@
     "addr:postcode":"53202",
     "addr:street":"E Wisconsin Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.909159,43.038495,-87.909159,43.038495",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.909159,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"111 E Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1462596545,
-    "wof:geomhash":"41df6a13ab23709c24be85cb8e5bf355",
+    "wof:geomhash":"9cd8ee3f78d2fea04d35190d7d215501",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":790520335,
-    "wof:lastmodified":1472654699,
+    "wof:lastmodified":1534535356,
     "wof:name":"Mendel Group",
     "wof:parent_id":85867289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186121643
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",

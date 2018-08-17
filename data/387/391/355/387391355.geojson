@@ -7,6 +7,7 @@
     "addr:postcode":"53203",
     "addr:street":"N Plankinton Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.9123,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"710 N Plankinton Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
         "sg:id":"SG_3Ks0SvtmmMRIvuzOyf4Vip_43.040037_-87.912300@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"68b4a250e600c7a530b2f245ef051906",
+    "wof:geomhash":"388a7e5fdf3420d40c6796e762dcd34b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":387391355,
-    "wof:lastmodified":1491921255,
+    "wof:lastmodified":1534535346,
     "wof:name":"Spirit Of Milwaukee",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789747905
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "amusement"

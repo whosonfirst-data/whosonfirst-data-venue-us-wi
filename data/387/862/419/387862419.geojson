@@ -7,6 +7,7 @@
     "addr:postcode":"53226",
     "addr:street":"W Bluemound Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.039912,43.034762,-88.039912,43.034762",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.039912,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10001 W Bluemound Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_0cCcxi9zEClQOohvxokMGN_43.034762_-88.039912@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"f15417b87cdda94d5717ba4d7a10e96e",
+    "wof:geomhash":"0a4eb96944dbb551e08dbebcb399d30f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":387862419,
-    "wof:lastmodified":1472654226,
+    "wof:lastmodified":1534535355,
     "wof:name":"Oceans Of Fun",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823174631
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"

@@ -7,6 +7,7 @@
     "addr:postcode":"53212",
     "addr:street":"N 4Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.915575,43.070779,-87.915575,43.070779",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.915575,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2821 N 4th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591551,
-    "wof:geomhash":"deb853547fe9e9e0d2cb3ff8a351db3f",
+    "wof:geomhash":"afe0448080349fa390dd98e68093cea7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":789911383,
-    "wof:lastmodified":1472654531,
+    "wof:lastmodified":1534535354,
     "wof:name":"White Glove Group Inc",
     "wof:parent_id":85870991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806940727
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

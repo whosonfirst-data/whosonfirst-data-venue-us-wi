@@ -7,6 +7,7 @@
     "addr:postcode":"53202",
     "addr:street":"N Farwell Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.894444,43.050798,-87.894444,43.050798",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.894444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1669 N Farwell Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586542,
-    "wof:geomhash":"71eed446f703fe8db296c7e2075b08b3",
+    "wof:geomhash":"08168934a19a194e5da4dc020a4b817b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":773546491,
-    "wof:lastmodified":1472654911,
+    "wof:lastmodified":1534535352,
     "wof:name":"Exclusive Company Corp",
     "wof:parent_id":85870987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823134293
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

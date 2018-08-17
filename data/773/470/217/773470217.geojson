@@ -7,6 +7,7 @@
     "addr:postcode":"53562",
     "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.489393,43.091812,-89.489393,43.091812",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.489393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6333 University Ave",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585991,
-    "wof:geomhash":"60a702bab2e20fcd162d83b24637bc29",
+    "wof:geomhash":"3042b6eef5d1f4302a88f29c9e0bd96e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":773470217,
-    "wof:lastmodified":1472654883,
+    "wof:lastmodified":1534535359,
     "wof:name":"Geri Gerold Photography",
     "wof:parent_id":85841479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773791707
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"

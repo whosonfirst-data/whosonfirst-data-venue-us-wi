@@ -7,6 +7,7 @@
     "addr:postcode":"53226",
     "addr:street":"W Research Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.042702,43.04163,-88.042702,43.04163",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.042702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10701 W Research Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607964,
-    "wof:geomhash":"587a8244451abd9b27ba08c293c4fea2",
+    "wof:geomhash":"b17f39da5026890c17932aec06d345b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":823172525,
-    "wof:lastmodified":1472654015,
+    "wof:lastmodified":1534535359,
     "wof:name":"Ebenezer Child Care Center",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773808881
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

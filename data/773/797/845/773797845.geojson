@@ -7,6 +7,7 @@
     "addr:postcode":"53012",
     "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.044918,43.350657,-88.044918,43.350657",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.044918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2088 Washington Ave",
     "sg:city":"Cedarburg",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588450,
-    "wof:geomhash":"706fd998e2f00780c18917b87c85b9fa",
+    "wof:geomhash":"a857c79224e08ceecda72a0737e4879f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":773797845,
-    "wof:lastmodified":1472654990,
+    "wof:lastmodified":1534535362,
     "wof:name":"TJM LTD",
     "wof:parent_id":85826293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807380227
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "environmental",

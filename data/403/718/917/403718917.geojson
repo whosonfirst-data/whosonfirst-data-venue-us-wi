@@ -14,6 +14,7 @@
     "geom:longitude":-89.378424,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 E Wilson St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
         "sg:id":"SG_1jPhiloQjYesWgKIRGUevw_43.074602_-89.378424@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"8568a566e672bce3021f72b3416f91ba",
+    "wof:geomhash":"6d40c7d11d9796c5d31da0a932f5f0da",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":403718917,
-    "wof:lastmodified":1472653899,
+    "wof:lastmodified":1534535340,
     "wof:name":"Wisconsin Womens Council",
     "wof:parent_id":85878845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773705053
+    ],
     "wof:tags":[
         "council"
     ]

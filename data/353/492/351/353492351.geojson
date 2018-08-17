@@ -14,6 +14,7 @@
     "geom:longitude":-87.909018,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"622 N Water St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -42,7 +43,7 @@
         "sg:id":"SG_2aD5M7hV2SrMfgyaZGrEri_43.038304_-87.909018@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"cbe746de33a2646b9fd65e95f393cd6e",
+    "wof:geomhash":"1af48e1de9e0cffe3ec5cb64a11e60f2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":353492351,
-    "wof:lastmodified":1472653981,
+    "wof:lastmodified":1534535337,
     "wof:name":"Fox ONeill & Shannon SC",
     "wof:parent_id":85867289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807165683
+    ],
     "wof:tags":[
         "attorney"
     ]

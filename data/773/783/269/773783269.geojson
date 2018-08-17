@@ -14,6 +14,7 @@
     "geom:longitude":-88.047474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10400 W North Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588341,
-    "wof:geomhash":"42eafbabed9fecd987abc1bcbccc4dbe",
+    "wof:geomhash":"6f8929599310c7b0177c1bc25c594dd3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":773783269,
-    "wof:lastmodified":1472654981,
+    "wof:lastmodified":1534535359,
     "wof:name":"Aurora Health Ctr",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823174089
+    ],
     "wof:tags":[
         "clinic"
     ]

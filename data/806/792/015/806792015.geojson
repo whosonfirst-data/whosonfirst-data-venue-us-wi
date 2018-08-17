@@ -2,18 +2,24 @@
   "id": 806792015,
   "type": "Feature",
   "properties": {
-    "addr:full":"116 N Main St Potosi WI 53820",
+    "addr:city":"Potosi",
+    "addr:full":"116 N Main St Potosi, Wi 53820",
+    "addr:house_number":"116",
     "addr:housenumber":"116",
+    "addr:phone":"+1 608-763-2745",
     "addr:postcode":"53820",
+    "addr:road":"N Main St",
+    "addr:state":"WI",
     "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.712131,42.689998,-90.712131,42.689998",
-    "geom:latitude":42.689998,
-    "geom:longitude":-90.712131,
+    "geom:bbox":"-90.71207,42.69038,-90.71207,42.69038",
+    "geom:latitude":42.69038,
+    "geom:longitude":-90.71207,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"116 N Main St",
     "sg:city":"Potosi",
     "sg:classifiers":[
@@ -30,18 +36,20 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500040,
         "sg:id":"SG_2OPtJH9vvL5yrj9Ebwbgs4_42.689998_-90.712131@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462601120,
-    "wof:geomhash":"d1904680c6aba98d5d719d6371dd3a9f",
+    "wof:geomhash":"b490303feade927baefd9207055126a3",
     "wof:hierarchy":[],
     "wof:id":806792015,
-    "wof:lastmodified":1472654603,
+    "wof:lastmodified":1534535364,
     "wof:name":"Passage Thru Time",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -90.712131,
-    42.689998,
-    -90.712131,
-    42.689998
+    -90.71207,
+    42.69038,
+    -90.71207,
+    42.69038
 ],
-  "geometry": {"coordinates":[-90.712131,42.689998],"type":"Point"}
+  "geometry": {"coordinates":[-90.71207,42.69038],"type":"Point"}
 }

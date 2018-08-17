@@ -7,6 +7,7 @@
     "addr:postcode":"53226",
     "addr:street":"W North Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.043426,43.060161,-88.043426,43.060161",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.043426,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10425 W North Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597726,
-    "wof:geomhash":"cf804019e79e5512d75a35f6da02cd9d",
+    "wof:geomhash":"b57a73082e910ec0f8a42df22f7c553f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":806386187,
-    "wof:lastmodified":1472653965,
+    "wof:lastmodified":1534535338,
     "wof:name":"David G Kamper MD",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354257305
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

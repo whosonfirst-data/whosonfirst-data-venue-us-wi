@@ -7,6 +7,7 @@
     "addr:postcode":"53217",
     "addr:street":"W Coventry Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.912497,43.140461,-87.912497,43.140461",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.912497,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"250 W Coventry Ct",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605471,
-    "wof:geomhash":"cee14d2388e76993c8383b38b2ea6a53",
+    "wof:geomhash":"3a2989d3ed9416ef74f22295714bde62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":807264001,
-    "wof:lastmodified":1472654352,
+    "wof:lastmodified":1534535346,
     "wof:name":"Podell Podell & Magor Law Offs",
     "wof:parent_id":85870821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773160503
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

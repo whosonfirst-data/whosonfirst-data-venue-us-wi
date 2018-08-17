@@ -7,6 +7,7 @@
     "addr:postcode":"54568",
     "addr:street":"Us Hwy 51",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-89.700678,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"195 US Hwy 51",
     "sg:city":"Woodruff",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"ccc83b626e679b58c5bd768be3b0fccd",
     "wof:hierarchy":[],
     "wof:id":807017195,
-    "wof:lastmodified":1510695429,
+    "wof:lastmodified":1534535351,
     "wof:name":"Perkins Family Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773519677
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

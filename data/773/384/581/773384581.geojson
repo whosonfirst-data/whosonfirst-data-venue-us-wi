@@ -7,6 +7,7 @@
     "addr:postcode":"53703",
     "addr:street":"W Washington Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.387017,43.072806,-89.387017,43.072806",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.387017,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"222 W Washington Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585287,
-    "wof:geomhash":"fe362363c50b51b9e5ceaa5b862ad15b",
+    "wof:geomhash":"b01d24ad1ddba36c89accfeb68cd0f87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":773384581,
-    "wof:lastmodified":1472654859,
+    "wof:lastmodified":1534535354,
     "wof:name":"Velocity Learning Systems LLC",
     "wof:parent_id":85878831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806960759
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "day"

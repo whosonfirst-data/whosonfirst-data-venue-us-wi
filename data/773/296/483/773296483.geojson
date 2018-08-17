@@ -14,6 +14,7 @@
     "geom:longitude":-88.047807,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2300 N Mayfair Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584648,
-    "wof:geomhash":"a8b4ef05473c5c294b1bb966f28f41b1",
+    "wof:geomhash":"53cca12655cc16ccb666f00e762aed87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":773296483,
-    "wof:lastmodified":1472654826,
+    "wof:lastmodified":1534535350,
     "wof:name":"William N Stathas DDS",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773167333
+    ],
     "wof:tags":[
         "dentist"
     ]

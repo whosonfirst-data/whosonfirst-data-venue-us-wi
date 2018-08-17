@@ -15,6 +15,7 @@
     "geom:longitude":-87.910933,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 N Water St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -50,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588594,
-    "wof:geomhash":"4bb0e374ee7635b9563b3a4587a94f62",
+    "wof:geomhash":"981dfe9da8ca89e79fd584f15eed7c5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -84,13 +85,15 @@
         }
     ],
     "wof:id":773815485,
-    "wof:lastmodified":1491887078,
+    "wof:lastmodified":1534535359,
     "wof:name":"Hoffman York",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773616479
+    ],
     "wof:tags":[
         "counselor"
     ]

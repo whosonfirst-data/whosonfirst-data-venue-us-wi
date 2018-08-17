@@ -7,6 +7,7 @@
     "addr:postcode":"53202",
     "addr:street":"E Kilbourn Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.907285,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"330 E Kilbourn Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_0jXvFDAKB0Dza7SKOLSKF1_43.042515_-87.907285@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e3b23216e6bb276e7227be4f219158a",
+    "wof:geomhash":"41b816a66ae99d419896b9ba5aa25b5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":370961959,
-    "wof:lastmodified":1491921200,
+    "wof:lastmodified":1534535344,
     "wof:name":"Chernov Stern & Burbach SC",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790132395
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

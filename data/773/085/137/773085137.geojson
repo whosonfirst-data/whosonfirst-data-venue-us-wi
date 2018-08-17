@@ -14,6 +14,7 @@
     "geom:longitude":-88.027213,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9120 W Hampton Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462583047,
-    "wof:geomhash":"eda09bd0cba9798ff892b463601baec8",
+    "wof:geomhash":"55134b820f7fb72c020da41be4882cf9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":773085137,
-    "wof:lastmodified":1472654378,
+    "wof:lastmodified":1534535343,
     "wof:name":"Academic & Family Svc",
     "wof:parent_id":420550025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773742131
+    ],
     "wof:tags":[
         "psychologist"
     ]

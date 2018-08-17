@@ -2,18 +2,24 @@
   "id": 806720863,
   "type": "Feature",
   "properties": {
-    "addr:full":"806 3rd St Pepin WI 54759",
+    "addr:city":"Pepin",
+    "addr:full":"806 3Rd St Pepin, Wi 54759",
+    "addr:house_number":"806",
     "addr:housenumber":"806",
+    "addr:phone":"+1 715-442-6501",
     "addr:postcode":"54759",
+    "addr:road":"3Rd St",
+    "addr:state":"WI",
     "addr:street":"3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-92.15333,44.442436,-92.15333,44.442436",
-    "geom:latitude":44.442436,
-    "geom:longitude":-92.15333,
+    "geom:bbox":"-92.14868,44.44257,-92.14868,44.44257",
+    "geom:latitude":44.44257,
+    "geom:longitude":-92.14868,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"806 3rd St",
     "sg:city":"Pepin",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 715 442 6501",
     "sg:postcode":"54759",
     "sg:province":"WI",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500483,
         "sg:id":"SG_5DIzOgjqznHz6LRQF84Wlo_44.442436_-92.153330@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600508,
-    "wof:geomhash":"e660bdb0c1b776991c47b40fe48c79c1",
+    "wof:geomhash":"21eb73d5361f19d27c2f8e8513643cd5",
     "wof:hierarchy":[],
     "wof:id":806720863,
-    "wof:lastmodified":1472654511,
+    "wof:lastmodified":1534535365,
     "wof:name":"Pepin Depot Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -92.15333,
-    44.442436,
-    -92.15333,
-    44.442436
+    -92.14868,
+    44.44257,
+    -92.14868,
+    44.44257
 ],
-  "geometry": {"coordinates":[-92.15333,44.442436],"type":"Point"}
+  "geometry": {"coordinates":[-92.14868,44.44257],"type":"Point"}
 }

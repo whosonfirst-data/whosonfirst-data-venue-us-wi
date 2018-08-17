@@ -2,18 +2,24 @@
   "id": 353953727,
   "type": "Feature",
   "properties": {
-    "addr:full":"18 E Washington Ave Tomahawk WI 54487",
+    "addr:city":"Tomahawk",
+    "addr:full":"18 E Washington Ave Tomahawk, Wi 54487",
+    "addr:house_number":"18",
     "addr:housenumber":"18",
+    "addr:phone":"+1 715-453-3628",
     "addr:postcode":"54487",
+    "addr:road":"E Washington Ave",
+    "addr:state":"WI",
     "addr:street":"E Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.729052,45.472983,-89.729052,45.472983",
-    "geom:latitude":45.472983,
-    "geom:longitude":-89.729052,
+    "geom:bbox":"-89.72803,45.47296,-89.72803,45.47296",
+    "geom:latitude":45.47296,
+    "geom:longitude":-89.72803,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"18 E Washington Ave",
     "sg:city":"Tomahawk",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688517,
         85633793,
@@ -39,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500028,
         "sg:id":"SG_3thchPCEUvI5NdgjbTReRd_45.472983_-89.729052@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"eedc5ddcfe58ef7959aa160631825917",
+    "wof:geomhash":"f95f8f5c215c0ca6b816d8741a071b8f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":353953727,
-    "wof:lastmodified":1472654108,
+    "wof:lastmodified":1534535340,
     "wof:name":"Tomahawk Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -67,10 +75,10 @@
     ]
 },
   "bbox": [
-    -89.729052,
-    45.472983,
-    -89.729052,
-    45.472983
+    -89.72803,
+    45.47296,
+    -89.72803,
+    45.47296
 ],
-  "geometry": {"coordinates":[-89.729052,45.472983],"type":"Point"}
+  "geometry": {"coordinates":[-89.72803,45.47296],"type":"Point"}
 }

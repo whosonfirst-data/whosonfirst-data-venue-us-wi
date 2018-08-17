@@ -7,6 +7,7 @@
     "addr:postcode":"53705",
     "addr:street":"Mineral Point Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.512161,43.060509,-89.512161,43.060509",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.512161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7475 Mineral Point Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_0E20N4D10rbiGxypfxoNyp_43.060509_-89.512161@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"b3749a1af481506c09703fe35407ebb6",
+    "wof:geomhash":"f75a25e099a67659b573cef57a078086",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":337342227,
-    "wof:lastmodified":1472653956,
+    "wof:lastmodified":1534535350,
     "wof:name":"Nevada Bobs Discount Golf",
     "wof:parent_id":85834009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806715089
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

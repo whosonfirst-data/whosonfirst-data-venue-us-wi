@@ -7,6 +7,7 @@
     "addr:postcode":"54935",
     "addr:street":"W Johnson St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.476788,43.7844,-88.476788,43.7844",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.476788,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"835 W Johnson St",
     "sg:city":"Fond Du Lac",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1462586802,
-    "wof:geomhash":"7d5b95e15d661063380040003ed2eaf7",
+    "wof:geomhash":"1d995f82d11de8308a8c1d1a014f92fe",
     "wof:hierarchy":[],
     "wof:id":773579719,
-    "wof:lastmodified":1472654923,
+    "wof:lastmodified":1534535357,
     "wof:name":"Nedrebos Formal Wear Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186165931
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

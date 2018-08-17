@@ -14,6 +14,7 @@
     "geom:longitude":-87.884255,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2025 E Newport Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462590142,
-    "wof:geomhash":"ad2c323e6490683552293765e68dcccb",
+    "wof:geomhash":"72b9294d3aaab11137a29b26566149a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":789735551,
-    "wof:lastmodified":1472654278,
+    "wof:lastmodified":1534535345,
     "wof:name":"Wisconsin Renal Care Group",
     "wof:parent_id":85870879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807075133
+    ],
     "wof:tags":[
         "clinic"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"53132",
     "addr:street":"W Loomis Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.028884,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9151 W Loomis Rd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607238,
-    "wof:geomhash":"6e33a24d0701ab729c55f9b1c45ea150",
+    "wof:geomhash":"322b465bc48d5ed10baec7925cfb58f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":807397987,
-    "wof:lastmodified":1492103522,
+    "wof:lastmodified":1534535350,
     "wof:name":"Franklin Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806596683
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

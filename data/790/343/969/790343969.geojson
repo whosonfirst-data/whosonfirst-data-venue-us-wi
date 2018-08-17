@@ -2,18 +2,24 @@
   "id": 790343969,
   "type": "Feature",
   "properties": {
-    "addr:full":"300 Marina Dr Superior WI 54880",
+    "addr:city":"Superior",
+    "addr:full":"300 Marina Dr Superior, Wi 54880",
+    "addr:house_number":"300",
     "addr:housenumber":"300",
+    "addr:phone":"+1 715-394-5712",
     "addr:postcode":"54880",
+    "addr:road":"Marina Dr",
+    "addr:state":"WI",
     "addr:street":"Marina Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-92.053375,46.717452,-92.053375,46.717452",
-    "geom:latitude":46.717452,
-    "geom:longitude":-92.053375,
+    "geom:bbox":"-92.06304,46.71797,-92.06304,46.71797",
+    "geom:latitude":46.71797,
+    "geom:longitude":-92.06304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"300 Marina Dr",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -27,18 +33,23 @@
     "sg:phone":"+1 715 392 5742",
     "sg:postcode":"54880",
     "sg:province":"WI",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527965,
+        102528763
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500025,
         "sg:id":"SG_111I5zu97m4utm8ej1T8oJ_46.717452_-92.053375@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462595093,
-    "wof:geomhash":"644b1c7ece2cd73d7f6a3ce9fda6db63",
+    "wof:geomhash":"ff5407a6f18fdc5c313e5dcaf50dddd4",
     "wof:hierarchy":[],
     "wof:id":790343969,
-    "wof:lastmodified":1472654531,
+    "wof:lastmodified":1534535362,
     "wof:name":"Ss Meteor Maritime Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -92.053375,
-    46.717452,
-    -92.053375,
-    46.717452
+    -92.06304,
+    46.71797,
+    -92.06304,
+    46.71797
 ],
-  "geometry": {"coordinates":[-92.053375,46.717452],"type":"Point"}
+  "geometry": {"coordinates":[-92.06304,46.71797],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"54913",
     "addr:street":"W Wisconsin Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-88.467712,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"4301 W Wisconsin Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -56,12 +57,14 @@
         }
     ],
     "wof:id":807035761,
-    "wof:lastmodified":1511324261,
+    "wof:lastmodified":1534535342,
     "wof:name":"J C Penney Co",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387658361
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

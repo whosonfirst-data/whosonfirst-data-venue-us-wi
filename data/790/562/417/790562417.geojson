@@ -7,6 +7,7 @@
     "addr:postcode":"53597",
     "addr:street":"S Woodland Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-89.43193,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5620 S Woodland Dr",
     "sg:city":"Waunakee",
     "sg:classifiers":[
@@ -34,22 +36,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85868279
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cJNL6yDwljFD8vITHN7Z9_43.162849_-89.431930@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462596893,
-    "wof:geomhash":"b19af5310a4f0147ee71d3e64b9aba0e",
+    "wof:geomhash":"ef233aacaae0c5a80d3e3eb2b64d1dcc",
     "wof:hierarchy":[],
     "wof:id":790562417,
-    "wof:lastmodified":1491935698,
+    "wof:lastmodified":1534535348,
     "wof:name":"Woodtech Industries",
     "wof:parent_id":85868279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790256107
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "household",

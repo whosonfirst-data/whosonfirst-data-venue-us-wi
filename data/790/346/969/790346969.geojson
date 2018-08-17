@@ -7,6 +7,7 @@
     "addr:postcode":"53213",
     "addr:street":"Dewey Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.009452,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1220 Dewey Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595115,
-    "wof:geomhash":"6eafccb0b9ff10864155594906ecf814",
+    "wof:geomhash":"82366a59b94484f92fcd8a78b6ba5a55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":790346969,
-    "wof:lastmodified":1491905722,
+    "wof:lastmodified":1534535349,
     "wof:name":"Milwaukee Psychiatric Hospital",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789867047
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "psychiatric"

@@ -15,6 +15,7 @@
     "geom:longitude":-88.024807,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2424 S 90th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586485,
-    "wof:geomhash":"522dd4074c1778e9bc45322e319d6248",
+    "wof:geomhash":"f67b293a6d19c65d549815a1ef3d139b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":773541145,
-    "wof:lastmodified":1492102995,
+    "wof:lastmodified":1534535351,
     "wof:name":"West Allis Psychiatric Assoc",
     "wof:parent_id":85870861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789961061
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

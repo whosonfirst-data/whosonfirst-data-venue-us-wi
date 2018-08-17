@@ -2,18 +2,24 @@
   "id": 789917047,
   "type": "Feature",
   "properties": {
-    "addr:full":"531 4th Ave Baraboo WI 53913",
+    "addr:city":"Baraboo",
+    "addr:full":"531 4Th Ave Baraboo, Wi 53913",
+    "addr:house_number":"531",
     "addr:housenumber":"531",
+    "addr:phone":"+1 608-356-1001",
     "addr:postcode":"53913",
+    "addr:road":"4Th Ave",
+    "addr:state":"WI",
     "addr:street":"4Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.749089,43.470943,-89.749089,43.470943",
-    "geom:latitude":43.470943,
-    "geom:longitude":-89.749089,
+    "geom:bbox":"-89.74329,43.47339,-89.74329,43.47339",
+    "geom:latitude":43.47339,
+    "geom:longitude":-89.74329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"531 4th Ave",
     "sg:city":"Baraboo",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 608 356 1001",
     "sg:postcode":"53913",
     "sg:province":"WI",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500024,
         "sg:id":"SG_4ZeMKt895XXlnd2YCkU26w_43.470943_-89.749089@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462591594,
-    "wof:geomhash":"db126224846b09e5b5326c200aff4fa5",
+    "wof:geomhash":"82d06241e4aac13cd9b60cca87d0b954",
     "wof:hierarchy":[],
     "wof:id":789917047,
-    "wof:lastmodified":1472654533,
+    "wof:lastmodified":1534535365,
     "wof:name":"Sauk County Historical Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -89.749089,
-    43.470943,
-    -89.749089,
-    43.470943
+    -89.74329,
+    43.47339,
+    -89.74329,
+    43.47339
 ],
-  "geometry": {"coordinates":[-89.749089,43.470943],"type":"Point"}
+  "geometry": {"coordinates":[-89.74329,43.47339],"type":"Point"}
 }

@@ -14,6 +14,7 @@
     "geom:longitude":-88.279633,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"190 Gardner Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606494,
-    "wof:geomhash":"b65ff912915498199dc1dc3e8ba4b42d",
+    "wof:geomhash":"0c9963c8ffe6625d53a8f0fc9357c914",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":807349443,
-    "wof:lastmodified":1472654520,
+    "wof:lastmodified":1534535360,
     "wof:name":"Smith Timothy H DDS",
     "wof:parent_id":85865439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773709923
+    ],
     "wof:tags":[
         "dentist"
     ]

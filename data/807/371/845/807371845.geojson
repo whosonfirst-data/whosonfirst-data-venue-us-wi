@@ -7,6 +7,7 @@
     "addr:postcode":"54956",
     "addr:street":"E Bell St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-88.46335,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"102 E Bell St",
     "sg:city":"Neenah",
     "sg:classifiers":[
@@ -64,12 +65,14 @@
         }
     ],
     "wof:id":807371845,
-    "wof:lastmodified":1512142835,
+    "wof:lastmodified":1534535343,
     "wof:name":"McDonald's",
     "wof:parent_id":420550295,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806400839
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

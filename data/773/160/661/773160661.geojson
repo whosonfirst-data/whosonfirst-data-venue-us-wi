@@ -2,18 +2,24 @@
   "id": 773160661,
   "type": "Feature",
   "properties": {
-    "addr:full":"12800 N Lake Shore Dr Mequon WI 53097",
+    "addr:city":"Mequon",
+    "addr:full":"12800 North Lake Shore Drive Mequon, Wi 53097",
+    "addr:house_number":"12800",
     "addr:housenumber":"12800",
+    "addr:phone":"+1 262-243-4470",
     "addr:postcode":"53097",
+    "addr:road":"North Lake Shore Drive",
+    "addr:state":"WI",
     "addr:street":"N Lake Shore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.904125,43.219294,-87.904125,43.219294",
-    "geom:latitude":43.219294,
-    "geom:longitude":-87.904125,
+    "geom:bbox":"-87.904,43.2202,-87.904,43.2202",
+    "geom:latitude":43.2202,
+    "geom:longitude":-87.904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"12800 N Lake Shore Dr",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -31,7 +37,8 @@
         "arts",
         "liberal"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85870795,
         102191575,
@@ -43,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409502992,
         "sg:id":"SG_6OyZd0e7FweVUrP9wOrXR7_43.219294_-87.904125@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462583594,
-    "wof:geomhash":"27d9566d15815bc3cfe46900ee4818cd",
+    "wof:geomhash":"02f5979db8e4ea3f9709b8fd56caea79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +69,8 @@
         }
     ],
     "wof:id":773160661,
-    "wof:lastmodified":1472654696,
-    "wof:name":"Concordia University Wisconsin",
+    "wof:lastmodified":1534535346,
+    "wof:name":"Concordia University Gallery",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
@@ -74,10 +82,10 @@
     ]
 },
   "bbox": [
-    -87.904125,
-    43.219294,
-    -87.904125,
-    43.219294
+    -87.904,
+    43.2202,
+    -87.904,
+    43.2202
 ],
-  "geometry": {"coordinates":[-87.90412499999999,43.219294],"type":"Point"}
+  "geometry": {"coordinates":[-87.904,43.2202],"type":"Point"}
 }

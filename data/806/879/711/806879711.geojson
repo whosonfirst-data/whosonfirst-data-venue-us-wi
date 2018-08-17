@@ -14,6 +14,7 @@
     "geom:longitude":-88.079422,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"165 Bishops Way",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601854,
-    "wof:geomhash":"a1bf7504016edbcfff1b131a3679f997",
+    "wof:geomhash":"bf89e3e78d60af91b6246d85d708feca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806879711,
-    "wof:lastmodified":1472654684,
+    "wof:lastmodified":1534535352,
     "wof:name":"Hundts Financial Service Inc",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806700175
+    ],
     "wof:tags":[
         "counselor"
     ]

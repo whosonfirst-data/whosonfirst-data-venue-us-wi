@@ -14,6 +14,7 @@
     "geom:longitude":-89.021507,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 E Milwaukee St",
     "sg:city":"Janesville",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462590172,
-    "wof:geomhash":"3942a4196dfb846f996bd3ebba62a94c",
+    "wof:geomhash":"e29b57e397c4ea406c7e73f4ae34edfb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":789739897,
-    "wof:lastmodified":1472654288,
+    "wof:lastmodified":1534535345,
     "wof:name":"Dept of Revenue Wisconsin",
     "wof:parent_id":85803103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790401473
+    ],
     "wof:tags":[
         "executive"
     ]

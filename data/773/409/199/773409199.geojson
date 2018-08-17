@@ -2,18 +2,24 @@
   "id": 773409199,
   "type": "Feature",
   "properties": {
-    "addr:full":"906 E 2nd St Superior WI 54880",
+    "addr:city":"Superior",
+    "addr:full":"906 E 2Nd St Superior, Wi 54880",
+    "addr:house_number":"906",
     "addr:housenumber":"906",
+    "addr:phone":"+1 715-394-5712",
     "addr:postcode":"54880",
+    "addr:road":"E 2Nd St",
+    "addr:state":"WI",
     "addr:street":"E 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-92.062166,46.718037,-92.062166,46.718037",
-    "geom:latitude":46.718037,
-    "geom:longitude":-92.062166,
+    "geom:bbox":"-92.06304,46.71797,-92.06304,46.71797",
+    "geom:latitude":46.71797,
+    "geom:longitude":-92.06304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"906 E 2nd St",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -28,19 +34,24 @@
     "sg:postcode":"54880",
     "sg:province":"WI",
     "sg:website":"www.superiorpublicmuseums.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527965,
+        102528763
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500109,
         "sg:id":"SG_0fU6D03AWynx3lX02QW5PB_46.718037_-92.062166@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585482,
-    "wof:geomhash":"1482a3047001b0b1b93a80dc1596d437",
+    "wof:geomhash":"ff5407a6f18fdc5c313e5dcaf50dddd4",
     "wof:hierarchy":[],
     "wof:id":773409199,
-    "wof:lastmodified":1472654864,
-    "wof:name":"Fairlawn Mansion & Museum",
+    "wof:lastmodified":1534535365,
+    "wof:name":"Fairlawn Mansion And Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
@@ -49,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -92.062166,
-    46.718037,
-    -92.062166,
-    46.718037
+    -92.06304,
+    46.71797,
+    -92.06304,
+    46.71797
 ],
-  "geometry": {"coordinates":[-92.062166,46.718037],"type":"Point"}
+  "geometry": {"coordinates":[-92.06304,46.71797],"type":"Point"}
 }

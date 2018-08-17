@@ -2,18 +2,24 @@
   "id": 807300283,
   "type": "Feature",
   "properties": {
-    "addr:full":"303 Iron St Hurley WI 54534",
+    "addr:city":"Hurley",
+    "addr:full":"303 Iron St Hurley, Wi 54534-1356",
+    "addr:house_number":"303",
     "addr:housenumber":"303",
-    "addr:postcode":"54534",
+    "addr:phone":"+1 715-561-2244",
+    "addr:postcode":"54534-1356",
+    "addr:road":"Iron St",
+    "addr:state":"WI",
     "addr:street":"Iron St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.183178,46.448005,-90.183178,46.448005",
-    "geom:latitude":46.448005,
-    "geom:longitude":-90.183178,
+    "geom:bbox":"-90.18459,46.44797,-90.18459,46.44797",
+    "geom:latitude":46.44797,
+    "geom:longitude":-90.18459,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"303 Iron St",
     "sg:city":"Hurley",
     "sg:classifiers":[
@@ -32,21 +38,25 @@
     "sg:phone":"+1 715 561 2244",
     "sg:postcode":"54534",
     "sg:province":"WI",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534231
+    ],
     "wof:belongsto":[
-        85688599,
+        85837125,
         85633793,
         85951281,
         102083009,
-        85837125
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500393,
         "sg:id":"SG_33uQt6FWPic713b8rsU28C_46.448005_-90.183178@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605852,
-    "wof:geomhash":"f80028497fe0bc0d8c061ac241634d5d",
+    "wof:geomhash":"bc1f7681e074489779a425e583106775",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":807300283,
-    "wof:lastmodified":1472654421,
+    "wof:lastmodified":1534535364,
     "wof:name":"Iron County Historical Society",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",
@@ -68,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.183178,
-    46.448005,
-    -90.183178,
-    46.448005
+    -90.18459,
+    46.44797,
+    -90.18459,
+    46.44797
 ],
-  "geometry": {"coordinates":[-90.183178,46.448005],"type":"Point"}
+  "geometry": {"coordinates":[-90.18459,46.44797],"type":"Point"}
 }

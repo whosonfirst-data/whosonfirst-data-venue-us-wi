@@ -7,6 +7,7 @@
     "addr:postcode":"53092",
     "addr:street":"W Glen Oaks Ln",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.921366,43.235767,-87.921366,43.235767",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.921366,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1001 W Glen Oaks Ln",
     "sg:city":"Thiensville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584146,
-    "wof:geomhash":"0db6431a2331a6953c5499f6189426a9",
+    "wof:geomhash":"d7c9d083100aefeb33b97aa869972691",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":773230453,
-    "wof:lastmodified":1472654792,
+    "wof:lastmodified":1534535350,
     "wof:name":"Pharmacy Buying Group of Amer",
     "wof:parent_id":85829269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806592607
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "business"

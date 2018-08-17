@@ -14,6 +14,7 @@
     "geom:longitude":-87.90775,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"231 E Buffalo St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584459,
-    "wof:geomhash":"b6a7d345716bb9e6dccd66f2ac7d0aa6",
+    "wof:geomhash":"dc9ae0a2843929107418dfadef188a75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":773272387,
-    "wof:lastmodified":1472654813,
+    "wof:lastmodified":1534535349,
     "wof:name":"Pieper Properties Inc",
     "wof:parent_id":85871001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806725981
+    ],
     "wof:tags":[
         "building",
         "ope",

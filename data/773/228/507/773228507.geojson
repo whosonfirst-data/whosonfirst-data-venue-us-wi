@@ -2,18 +2,24 @@
   "id": 773228507,
   "type": "Feature",
   "properties": {
-    "addr:full":"2344 118th St Chippewa Falls WI 54729",
+    "addr:city":"Chippewa Falls",
+    "addr:full":"2344 118Th St Chippewa Falls, Wi 54729",
+    "addr:house_number":"2344",
     "addr:housenumber":"2344",
+    "addr:phone":"+1 715-723-9926",
     "addr:postcode":"54729",
+    "addr:road":"118Th St",
+    "addr:state":"WI",
     "addr:street":"118Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-91.430945,44.892761,-91.430945,44.892761",
-    "geom:latitude":44.892761,
-    "geom:longitude":-91.430945,
+    "geom:bbox":"-91.43108,44.8923,-91.43108,44.8923",
+    "geom:latitude":44.8923,
+    "geom:longitude":-91.43108,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2344 118th St",
     "sg:city":"Chippewa Falls",
     "sg:classifiers":[
@@ -30,18 +36,24 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528797
+    ],
+    "wof:belongsto":[
+        420549971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500135,
         "sg:id":"SG_5CETZYeFYcGJsqG5ywa9sC_44.892761_-91.430945@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584131,
-    "wof:geomhash":"ba0859f2bcea440973fb0d93a5061c31",
+    "wof:geomhash":"82b21a2dda0192bc5c5aecfa6f90359d",
     "wof:hierarchy":[],
     "wof:id":773228507,
-    "wof:lastmodified":1472654797,
+    "wof:lastmodified":1534535348,
     "wof:name":"Cavalcade Of Cars Museum",
     "wof:parent_id":420549971,
     "wof:placetype":"venue",
@@ -53,10 +65,10 @@
     ]
 },
   "bbox": [
-    -91.430945,
-    44.892761,
-    -91.430945,
-    44.892761
+    -91.43108,
+    44.8923,
+    -91.43108,
+    44.8923
 ],
-  "geometry": {"coordinates":[-91.43094499999999,44.892761],"type":"Point"}
+  "geometry": {"coordinates":[-91.43107999999999,44.8923],"type":"Point"}
 }

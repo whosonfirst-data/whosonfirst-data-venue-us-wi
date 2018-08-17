@@ -2,18 +2,23 @@
   "id": 773300003,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 W Main St Sparta WI 54656",
+    "addr:city":"Sparta",
+    "addr:full":"200 W Main St Sparta, Wi 54656-2141",
+    "addr:house_number":"200",
     "addr:housenumber":"200",
-    "addr:postcode":"54656",
+    "addr:postcode":"54656-2141",
+    "addr:road":"W Main St",
+    "addr:state":"WI",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.813707,43.944368,-90.813707,43.944368",
-    "geom:latitude":43.944368,
-    "geom:longitude":-90.813707,
+    "geom:bbox":"-90.81258,43.94446,-90.81258,43.94446",
+    "geom:latitude":43.94446,
+    "geom:longitude":-90.81258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"200 W Main St",
     "sg:city":"Sparta",
     "sg:classifiers":[
@@ -30,19 +35,21 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500679,
         "sg:id":"SG_7BFHsP79av8sYei9kRYdmw_43.944368_-90.813707@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462584680,
-    "wof:geomhash":"28fbc0de319337e637032f0131a93c3d",
+    "wof:geomhash":"d3c4a994c7ab1ce6e246b75aa7c48cb8",
     "wof:hierarchy":[],
     "wof:id":773300003,
-    "wof:lastmodified":1472654810,
-    "wof:name":"Deke Slayton Memorial Museums",
+    "wof:lastmodified":1534535365,
+    "wof:name":"Deke Slayton Memorial Space & Bicycle Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
@@ -53,10 +60,10 @@
     ]
 },
   "bbox": [
-    -90.813707,
-    43.944368,
-    -90.813707,
-    43.944368
+    -90.81258,
+    43.94446,
+    -90.81258,
+    43.94446
 ],
-  "geometry": {"coordinates":[-90.81370699999999,43.944368],"type":"Point"}
+  "geometry": {"coordinates":[-90.81258,43.94446],"type":"Point"}
 }

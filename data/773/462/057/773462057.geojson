@@ -7,6 +7,7 @@
     "addr:postcode":"53216",
     "addr:street":"W Capitol Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.000625,43.089936,-88.000625,43.089936",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.000625,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7000 W Capitol Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585931,
-    "wof:geomhash":"6837987cd8bef3447b96797b97b5ff10",
+    "wof:geomhash":"333e9c77bc2c55af06c4b663b9ebdead",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":773462057,
-    "wof:lastmodified":1472654880,
+    "wof:lastmodified":1534535353,
     "wof:name":"Kitts Frozen Custard",
     "wof:parent_id":85870905,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823158613
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drive"

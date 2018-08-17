@@ -14,6 +14,7 @@
     "geom:longitude":-89.384576,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"44 E Mifflin St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
         "sg:id":"SG_7ejTUTKiVw109SgS1K9AxU_43.075962_-89.384576@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc828c7a47441dba840df67db988e184",
+    "wof:geomhash":"e9e5d1e800f1297d0a49c0c4955a16a9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":387053899,
-    "wof:lastmodified":1472653963,
+    "wof:lastmodified":1534535341,
     "wof:name":"Ethics Board Wisconsin",
     "wof:parent_id":85878859,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        387304107
+    ],
     "wof:tags":[
         "ethics",
         "state",

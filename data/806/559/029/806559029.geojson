@@ -14,6 +14,7 @@
     "geom:longitude":-88.12627,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2205 N Calhoun Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599116,
-    "wof:geomhash":"6bd88ddd62f79b30a9d7ffb330eb6f92",
+    "wof:geomhash":"e0cf51e9b1b26ea88e30d47431f19dbd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806559029,
-    "wof:lastmodified":1472654275,
+    "wof:lastmodified":1534535349,
     "wof:name":"Brookfield Cyclery & Fitness",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807378429
+    ],
     "wof:tags":[
         "repair"
     ]

@@ -15,6 +15,7 @@
     "geom:longitude":-87.909235,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"700 N Water St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
         "sg:id":"SG_2m3H8cTFedkRd2QhEWUnMU_43.039808_-87.909235@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"4e7449fb0027059c8ef188efa1277e31",
+    "wof:geomhash":"95fa7ce076e60ecda51b8bc4f0bd5507",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,16 @@
         }
     ],
     "wof:id":387012421,
-    "wof:lastmodified":1491921229,
+    "wof:lastmodified":1534535341,
     "wof:name":"Capital Inv Svcs of Amer",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773021771,
+        823135071
+    ],
     "wof:tags":[
         "advisory"
     ]

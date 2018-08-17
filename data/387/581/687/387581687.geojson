@@ -7,6 +7,7 @@
     "addr:postcode":"53713",
     "addr:street":"Fish Hatchery Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.411749,43.027679,-89.411749,43.027679",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.411749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2927 Fish Hatchery Rd",
     "sg:city":"Fitchburg",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_3jOlFUj9QYtC4sLvtLFOWc_43.027679_-89.411749@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"50e91c7443f454c0ac920d4c14e2f4b4",
+    "wof:geomhash":"bbe2735141704de7797c52e97c344ed1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":387581687,
-    "wof:lastmodified":1472654201,
+    "wof:lastmodified":1534535338,
     "wof:name":"Laura Vancil Real Estate",
     "wof:parent_id":85878883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354184361
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

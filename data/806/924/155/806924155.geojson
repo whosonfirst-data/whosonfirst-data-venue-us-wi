@@ -14,6 +14,7 @@
     "geom:longitude":-87.906841,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"759 N Milwaukee St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602226,
-    "wof:geomhash":"5399c23522501d3ae856f631976f46ea",
+    "wof:geomhash":"aa7b1e7973f521a7703b1a665d688ca4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":806924155,
-    "wof:lastmodified":1472654721,
+    "wof:lastmodified":1534535353,
     "wof:name":"Court Reporter Registary Inc",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790557871
+    ],
     "wof:tags":[
         "court",
         "reporter"

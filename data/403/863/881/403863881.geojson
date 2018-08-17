@@ -14,6 +14,7 @@
     "geom:longitude":-87.895897,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1442 N Farwell Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
         "sg:id":"SG_5fyhnIdnzujjgB4Qtit1it_43.048976_-87.895897@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"489122b22b0ee01b816ace786264a27b",
+    "wof:geomhash":"9d9730b52150a5552c8feb55d0ef2b4d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":403863881,
-    "wof:lastmodified":1472654024,
+    "wof:lastmodified":1534535341,
     "wof:name":"Planning Council For Health",
     "wof:parent_id":85870833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806717553
+    ],
     "wof:tags":[
         "nonphysical",
         "commercial"

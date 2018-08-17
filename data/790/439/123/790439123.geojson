@@ -7,6 +7,7 @@
     "addr:postcode":"54426",
     "addr:street":"E Redwood St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.962384,44.921709,-89.962384,44.921709",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.962384,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"199 E Redwood St",
     "sg:city":"Edgar",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595835,
-    "wof:geomhash":"fcb352ffb8f3c16626df64017b3ec433",
+    "wof:geomhash":"9981592f79e91a31d5b489227720357b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":790439123,
-    "wof:lastmodified":1472654630,
+    "wof:lastmodified":1534535338,
     "wof:name":"Chad's Auto Repair",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        371016131
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repairing",

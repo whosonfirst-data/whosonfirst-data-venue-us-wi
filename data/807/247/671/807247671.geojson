@@ -2,18 +2,24 @@
   "id": 807247671,
   "type": "Feature",
   "properties": {
-    "addr:full":"5300 S Howell Ave Milwaukee WI 53207",
+    "addr:city":"Milwaukee",
+    "addr:full":"5300 S Howell Ave Milwaukee, Wi 53207",
+    "addr:house_number":"5300",
     "addr:housenumber":"5300",
+    "addr:phone":"+1 414-747-4503",
     "addr:postcode":"53207",
+    "addr:road":"S Howell Ave",
+    "addr:state":"WI",
     "addr:street":"S Howell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.909716,42.947265,-87.909716,42.947265",
-    "geom:latitude":42.947265,
-    "geom:longitude":-87.909716,
+    "geom:bbox":"-87.90962,42.94782,-87.90962,42.94782",
+    "geom:latitude":42.94782,
+    "geom:longitude":-87.90962,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"5300 S Howell Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 414 747 4630",
     "sg:postcode":"53207",
     "sg:province":"WI",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534295,
+        102530849
+    ],
     "wof:belongsto":[
         102530849,
         85870975,
@@ -40,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500870,
         "sg:id":"SG_78iEXWYUkRcBHgG2OJgGSG_42.947265_-87.909716@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605301,
-    "wof:geomhash":"c3430d98f5a04e603aae4173d8482668",
+    "wof:geomhash":"14a4c0e8c20bd3b05da9f6aa7363edb7",
     "wof:hierarchy":[
         {
             "campus_id":102530849,
@@ -59,8 +70,8 @@
         }
     ],
     "wof:id":807247671,
-    "wof:lastmodified":1472654343,
-    "wof:name":"Mitchell Gallery of Fligh",
+    "wof:lastmodified":1534535364,
+    "wof:name":"Mitchell Gallery Of Flight",
     "wof:parent_id":102530849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
@@ -69,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.909716,
-    42.947265,
-    -87.909716,
-    42.947265
+    -87.90962,
+    42.94782,
+    -87.90962,
+    42.94782
 ],
-  "geometry": {"coordinates":[-87.909716,42.947265],"type":"Point"}
+  "geometry": {"coordinates":[-87.90962,42.94782],"type":"Point"}
 }

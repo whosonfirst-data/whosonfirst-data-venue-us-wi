@@ -2,17 +2,22 @@
   "id": 370360535,
   "type": "Feature",
   "properties": {
-    "addr:full":"2285 S Broadway Green Bay WI 54304",
+    "addr:city":"Green Bay",
+    "addr:full":"2285 S Broadway Green Bay, Wi 54304-4832",
+    "addr:house_number":"2285",
     "addr:housenumber":"2285",
-    "addr:postcode":"54304",
+    "addr:phone":"+1 920-437-7623",
+    "addr:postcode":"54304-4832",
+    "addr:road":"S Broadway",
+    "addr:state":"WI",
     "addr:street":"S Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-88.04807,44.484399,-88.04807,44.484399",
-    "geom:latitude":44.484399,
-    "geom:longitude":-88.04807,
+    "geom:bbox":"-88.04816,44.48426,-88.04816,44.48426",
+    "geom:latitude":44.48426,
+    "geom:longitude":-88.04816,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -33,7 +38,10 @@
         "gallery"
     ],
     "sg:website":"www.nationalrrmuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529587
+    ],
     "wof:belongsto":[
         85688517,
         85633793,
@@ -43,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500732,
         "osm:node":367811178,
         "sg:id":"SG_71tBO4ILre6koyzV9DO7do_44.484399_-88.048070@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"d6a9d00eea83061ee025aa3ea9943056",
+    "wof:geomhash":"f616a1191a3d01bfb30775d958a8a4b1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":370360535,
-    "wof:lastmodified":1510941347,
+    "wof:lastmodified":1534535338,
     "wof:name":"National Railroad Museum",
     "wof:parent_id":85877943,
     "wof:placetype":"venue",
@@ -72,10 +81,10 @@
     ]
 },
   "bbox": [
-    -88.04807,
-    44.484399,
-    -88.04807,
-    44.484399
+    -88.04816,
+    44.48426,
+    -88.04816,
+    44.48426
 ],
-  "geometry": {"coordinates":[-88.04807,44.484399],"type":"Point"}
+  "geometry": {"coordinates":[-88.04816,44.48426],"type":"Point"}
 }

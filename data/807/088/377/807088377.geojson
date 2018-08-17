@@ -7,6 +7,7 @@
     "addr:postcode":"53202",
     "addr:street":"N Jefferson St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.904074,43.028817,-87.904074,43.028817",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.904074,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"126 N Jefferson St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603604,
-    "wof:geomhash":"d6c86395fbce6a437726c2832990e665",
+    "wof:geomhash":"32ccf425a96b7641f525d44a2a5ad2ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,15 @@
         }
     ],
     "wof:id":807088377,
-    "wof:lastmodified":1472654117,
+    "wof:lastmodified":1534535352,
     "wof:name":"Arcadis Geraghty & Miller Inc",
     "wof:parent_id":85867287,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806585683,
+        823134305
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "environmental",

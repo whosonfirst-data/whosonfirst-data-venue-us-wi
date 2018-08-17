@@ -15,6 +15,7 @@
     "geom:longitude":-88.008476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5300 S 76th St",
     "sg:city":"Greendale",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
         "sg:id":"SG_5wq4Wr2P7t2yDUf1mVxbfJ_42.946837_-88.008476@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"2a5bbe05f7512642e943508c05045efa",
+    "wof:geomhash":"f3ebd7ca1aac39cbac8a0e81a53bd6b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,13 +76,15 @@
         }
     ],
     "wof:id":387195331,
-    "wof:lastmodified":1492108864,
+    "wof:lastmodified":1534535341,
     "wof:name":"Claire's Boutique",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        387283123
+    ],
     "wof:tags":[
         "item",
         "boutique"

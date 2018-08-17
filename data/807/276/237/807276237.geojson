@@ -15,6 +15,7 @@
     "geom:longitude":-89.524858,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"451 Junction Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605609,
-    "wof:geomhash":"69f29b42bffdbb198084753cad910643",
+    "wof:geomhash":"ec3a5c307081caf20f298599076b73bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":807276237,
-    "wof:lastmodified":1491894095,
+    "wof:lastmodified":1534535358,
     "wof:name":"Rheumatology Clinic Inc",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773030429
+    ],
     "wof:tags":[
         "laboratory"
     ]

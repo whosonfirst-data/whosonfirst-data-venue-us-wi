@@ -7,6 +7,7 @@
     "addr:postcode":"53105",
     "addr:street":"Milwaukee Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-88.260584,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2088 Milwaukee Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -66,12 +67,14 @@
         }
     ],
     "wof:id":807355275,
-    "wof:lastmodified":1511323087,
+    "wof:lastmodified":1534535364,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":85865439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807392011
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

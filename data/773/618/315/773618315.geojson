@@ -7,6 +7,7 @@
     "addr:postcode":"53105",
     "addr:street":"Plank Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.183436,42.719139,-88.183436,42.719139",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.183436,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"27021 Plank Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1462587087,
-    "wof:geomhash":"8300de736b51351243ad0a045967f3a0",
+    "wof:geomhash":"a00f0e31ec63826ee0e30ba21cff4ea2",
     "wof:hierarchy":[],
     "wof:id":773618315,
-    "wof:lastmodified":1472654930,
+    "wof:lastmodified":1534535362,
     "wof:name":"Double L Leather Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807392239
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "product",

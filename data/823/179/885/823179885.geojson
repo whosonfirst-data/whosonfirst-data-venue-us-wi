@@ -7,6 +7,7 @@
     "addr:postcode":"53405",
     "addr:street":"Spring St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.825227,42.733342,-87.825227,42.733342",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.825227,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3805 Spring St",
     "sg:city":"Racine",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608061,
-    "wof:geomhash":"f7dee5142a7d0ed9c6242c83020ab87b",
+    "wof:geomhash":"a235dff63638a57a60bc44b8244259f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":823179885,
-    "wof:lastmodified":1472654055,
+    "wof:lastmodified":1534535359,
     "wof:name":"Decheck & Martini Family Practice",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807303351
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "practice",

@@ -7,6 +7,7 @@
     "addr:postcode":"53226",
     "addr:street":"W Watertown Plank Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.02062,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8701 W Watertown Plank Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586451,
-    "wof:geomhash":"96a368847c825f2970890eabd1822457",
+    "wof:geomhash":"0975f60771192ef3b60d46b7068f409d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":773535805,
-    "wof:lastmodified":1491905793,
+    "wof:lastmodified":1534535356,
     "wof:name":"Children's Hospital Library",
     "wof:parent_id":85870835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806999689
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "special",

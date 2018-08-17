@@ -7,6 +7,7 @@
     "addr:postcode":"53223",
     "addr:street":"N 67Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.994948,43.1444,-87.994948,43.1444",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.994948,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7703 N 67th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591763,
-    "wof:geomhash":"c2d73e72034bae8c985489a89d3cc26e",
+    "wof:geomhash":"f1c98e804c5bd7c465a4e07361c35216",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":789936547,
-    "wof:lastmodified":1472654584,
+    "wof:lastmodified":1534535354,
     "wof:name":"Diamond Die Inc",
     "wof:parent_id":85870805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823169191
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"

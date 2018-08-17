@@ -2,18 +2,24 @@
   "id": 370624705,
   "type": "Feature",
   "properties": {
-    "addr:full":"6100 W Mequon Rd Mequon WI 53092",
+    "addr:city":"Mequon",
+    "addr:full":"6100 W Mequon Road Mequon, Wi 53092",
+    "addr:house_number":"6100",
     "addr:housenumber":"6100",
+    "addr:phone":"+1 262-242-3107",
     "addr:postcode":"53092",
+    "addr:road":"W Mequon Road",
+    "addr:state":"WI",
     "addr:street":"W Mequon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.983605,43.221554,-87.983605,43.221554",
-    "geom:latitude":43.221554,
-    "geom:longitude":-87.983605,
+    "geom:bbox":"-87.985,43.22156,-87.985,43.22156",
+    "geom:latitude":43.22156,
+    "geom:longitude":-87.985,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"6100 W Mequon Rd",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -32,7 +38,10 @@
     "sg:phone":"+1 262 242 3107",
     "sg:postcode":"53092",
     "sg:province":"WI",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532187
+    ],
     "wof:belongsto":[
         85688517,
         85633793,
@@ -42,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500517,
         "sg:id":"SG_3SSdZJLYCcvyG676PdkyL8_43.221554_-87.983605@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"38af75b31ec9d36bc9391295ea4e17a6",
+    "wof:geomhash":"34488e3d5c4e648605e6edbd4a99cb27",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":370624705,
-    "wof:lastmodified":1472654116,
+    "wof:lastmodified":1534535340,
     "wof:name":"Mequon Historical Society",
     "wof:parent_id":85870795,
     "wof:placetype":"venue",
@@ -68,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.983605,
-    43.221554,
-    -87.983605,
-    43.221554
+    -87.985,
+    43.22156,
+    -87.985,
+    43.22156
 ],
-  "geometry": {"coordinates":[-87.983605,43.221554],"type":"Point"}
+  "geometry": {"coordinates":[-87.985,43.22156],"type":"Point"}
 }

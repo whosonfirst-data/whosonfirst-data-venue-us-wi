@@ -2,17 +2,22 @@
   "id": 823134701,
   "type": "Feature",
   "properties": {
-    "addr:full":"700 N Art Museum Dr Milwaukee WI 53202",
+    "addr:city":"Milwaukee",
+    "addr:full":"700 N Art Museum Dr Milwaukee, Wi 53202-4007",
+    "addr:house_number":"700",
     "addr:housenumber":"700",
-    "addr:postcode":"53202",
+    "addr:phone":"+1 414-224-3200",
+    "addr:postcode":"53202-4007",
+    "addr:road":"N Art Museum Dr",
+    "addr:state":"WI",
     "addr:street":"N Art Museum Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.897423,43.037338,-87.897423,43.037338",
-    "geom:latitude":43.037338,
-    "geom:longitude":-87.897423,
+    "geom:bbox":"-87.89908,43.04109,-87.89908,43.04109",
+    "geom:latitude":43.04109,
+    "geom:longitude":-87.89908,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -24,7 +29,10 @@
     "sg:postcode":"53202",
     "sg:province":"WI",
     "sg:website":"http://www.mam.org/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530849
+    ],
     "wof:belongsto":[
         85867287,
         102191575,
@@ -36,12 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500345,
         "osm:way":51865486,
         "sg:id":"SG_6qZzK0TDzR7d9QJtkGQ3PD_43.037338_-87.897423@1303262807"
     },
     "wof:country":"US",
     "wof:created":1462607412,
-    "wof:geomhash":"5f409443962023ebd4f425780406601e",
+    "wof:geomhash":"dbd00d9c215912955be1b2499246a959",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":823134701,
-    "wof:lastmodified":1510941365,
+    "wof:lastmodified":1534535365,
     "wof:name":"Milwaukee Art Museum",
     "wof:parent_id":85867287,
     "wof:placetype":"venue",
@@ -65,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.897423,
-    43.037338,
-    -87.897423,
-    43.037338
+    -87.89908,
+    43.04109,
+    -87.89908,
+    43.04109
 ],
-  "geometry": {"coordinates":[-87.897423,43.037338],"type":"Point"}
+  "geometry": {"coordinates":[-87.89908,43.04109],"type":"Point"}
 }

@@ -2,18 +2,23 @@
   "id": 773510293,
   "type": "Feature",
   "properties": {
-    "addr:full":"2848 N 117th St Milwaukee WI 53222",
+    "addr:city":"Milwaukee",
+    "addr:full":"2848 N 117St Milwaukee, Wi 53222",
+    "addr:house_number":"2848",
     "addr:housenumber":"2848",
     "addr:postcode":"53222",
+    "addr:road":"N 117St",
+    "addr:state":"WI",
     "addr:street":"N 117Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.05983,43.069708,-88.05983,43.069708",
-    "geom:latitude":43.069708,
-    "geom:longitude":-88.05983,
+    "geom:bbox":"-88.0596,43.07075,-88.0596,43.07075",
+    "geom:latitude":43.07075,
+    "geom:longitude":-88.0596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2848 N 117th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -27,7 +32,11 @@
     "sg:phone":"+1 414 771 9908",
     "sg:postcode":"53222",
     "sg:province":"WI",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532225,
+        102530849
+    ],
     "wof:belongsto":[
         85870817,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500512,
         "sg:id":"SG_1L81BFtt7VseiWPMaRjfoO_43.069708_-88.059830@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462586274,
-    "wof:geomhash":"1b8f3b0cf7f89bcb3a74320b4d31dc6c",
+    "wof:geomhash":"09150415e0c97ef314f855c794539517",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +67,8 @@
         }
     ],
     "wof:id":773510293,
-    "wof:lastmodified":1472654896,
-    "wof:name":"Historical Preservation Soc",
+    "wof:lastmodified":1534535364,
+    "wof:name":"Historical Preservation Society",
     "wof:parent_id":85870817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.05983,
-    43.069708,
-    -88.05983,
-    43.069708
+    -88.0596,
+    43.07075,
+    -88.0596,
+    43.07075
 ],
-  "geometry": {"coordinates":[-88.05983000000001,43.069708],"type":"Point"}
+  "geometry": {"coordinates":[-88.0596,43.07075],"type":"Point"}
 }

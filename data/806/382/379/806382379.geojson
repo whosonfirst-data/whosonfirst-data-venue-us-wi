@@ -14,6 +14,7 @@
     "geom:longitude":-88.282312,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"248 McHenry St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597696,
-    "wof:geomhash":"cf30771a1559d8fb12a28a03d96017b4",
+    "wof:geomhash":"bf29098466f58a089d265fc56e2243d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806382379,
-    "wof:lastmodified":1472653968,
+    "wof:lastmodified":1534535343,
     "wof:name":"David Taylor MD",
     "wof:parent_id":85865439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807390849
+    ],
     "wof:tags":[
         "medical"
     ]

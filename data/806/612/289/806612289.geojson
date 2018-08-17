@@ -7,6 +7,7 @@
     "addr:postcode":"53203",
     "addr:street":"N Plankinton Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.911152,43.038051,-87.911152,43.038051",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.911152,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"648 N Plankinton Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599586,
-    "wof:geomhash":"cb68c483038d2a4a7f957bf71273872f",
+    "wof:geomhash":"e04443bee63f1585320172d72f525dd5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":806612289,
-    "wof:lastmodified":1472654356,
+    "wof:lastmodified":1534535341,
     "wof:name":"Uihlein Financial Inc",
     "wof:parent_id":85867289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387191221
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "preparation",

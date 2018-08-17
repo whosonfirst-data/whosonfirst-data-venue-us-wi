@@ -7,6 +7,7 @@
     "addr:postcode":"54403",
     "addr:street":"Forest St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.625441,44.957085,-89.625441,44.957085",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.625441,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"500 Forest St",
     "sg:city":"Wausau",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591674,
-    "wof:geomhash":"bb90ac19276a8f13f1c6d90dc5f57411",
+    "wof:geomhash":"603b370b8384cfa79e0d14dfc4721a03",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":789926005,
-    "wof:lastmodified":1472654557,
+    "wof:lastmodified":1534535351,
     "wof:name":"Division Community Corrections",
     "wof:parent_id":85868295,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807095177
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "corrections",

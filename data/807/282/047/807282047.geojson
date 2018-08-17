@@ -14,6 +14,7 @@
     "geom:longitude":-88.226118,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1320 Pewaukee Rd",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605669,
-    "wof:geomhash":"beada72265a3cb5c26dbe5f014322b44",
+    "wof:geomhash":"f0d3b10973a4a15718f347fb62c1a069",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":807282047,
-    "wof:lastmodified":1472654389,
+    "wof:lastmodified":1534535359,
     "wof:name":"Facilities Management",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807152091
+    ],
     "wof:tags":[
         "executive"
     ]

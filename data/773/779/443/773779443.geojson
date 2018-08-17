@@ -14,6 +14,7 @@
     "geom:longitude":-87.904837,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"555 E Wells St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588314,
-    "wof:geomhash":"f46cc579d6ffe5d6a077f5fe18e47720",
+    "wof:geomhash":"746ed8abd93a717eda1270d03d8904db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":773779443,
-    "wof:lastmodified":1472654981,
+    "wof:lastmodified":1534535358,
     "wof:name":"American Academy of Emergency",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773484901
+    ],
     "wof:tags":[
         "health"
     ]

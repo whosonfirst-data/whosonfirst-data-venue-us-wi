@@ -14,6 +14,7 @@
     "geom:longitude":-87.907334,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"207 E Buffalo St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462587620,
-    "wof:geomhash":"5e16ded42470e5dc9f31cfeaf2ed2d5e",
+    "wof:geomhash":"836b92e23ebe4f1af10bf45b6bbd2e79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":773690861,
-    "wof:lastmodified":1472654960,
+    "wof:lastmodified":1534535356,
     "wof:name":"Ellingsen Brady",
     "wof:parent_id":85871001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773020007
+    ],
     "wof:tags":[
         "counselor"
     ]

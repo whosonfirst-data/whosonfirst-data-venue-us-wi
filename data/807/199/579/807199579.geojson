@@ -2,18 +2,24 @@
   "id": 807199579,
   "type": "Feature",
   "properties": {
-    "addr:full":"18 S Janesville St Milton WI 53563",
+    "addr:city":"Milton",
+    "addr:full":"18 S Janesville St Milton, Wi 53563",
+    "addr:house_number":"18",
     "addr:housenumber":"18",
+    "addr:phone":"+1 608-868-7772",
     "addr:postcode":"53563",
+    "addr:road":"S Janesville St",
+    "addr:state":"WI",
     "addr:street":"S Janesville St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.936502,42.776624,-88.936502,42.776624",
-    "geom:latitude":42.776624,
-    "geom:longitude":-88.936502,
+    "geom:bbox":"-88.9363,42.77786,-88.9363,42.77786",
+    "geom:latitude":42.77786,
+    "geom:longitude":-88.9363,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"18 S Janesville St",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 608 868 7772",
     "sg:postcode":"53563",
     "sg:province":"WI",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85834509,
         102191575,
@@ -39,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500074,
         "sg:id":"SG_4mIQ4itpGwQWyLfq3rlGas_42.776624_-88.936502@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462604793,
-    "wof:geomhash":"73fc2ba3c8f4009d80346cdfe195d9ca",
+    "wof:geomhash":"ce3354c88a4ff125996cc70a4bad48d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":807199579,
-    "wof:lastmodified":1472654266,
+    "wof:lastmodified":1534535362,
     "wof:name":"Milton House Museum",
     "wof:parent_id":85834509,
     "wof:placetype":"venue",
@@ -67,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.936502,
-    42.776624,
-    -88.936502,
-    42.776624
+    -88.9363,
+    42.77786,
+    -88.9363,
+    42.77786
 ],
-  "geometry": {"coordinates":[-88.936502,42.776624],"type":"Point"}
+  "geometry": {"coordinates":[-88.9363,42.77786],"type":"Point"}
 }

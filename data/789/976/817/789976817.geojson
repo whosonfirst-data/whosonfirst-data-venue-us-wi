@@ -7,6 +7,7 @@
     "addr:postcode":"53005",
     "addr:street":"W Bluemound Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.121366,43.037022,-88.121366,43.037022",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.121366,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"17100 W Bluemound Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592143,
-    "wof:geomhash":"1cfae171aa22d5d3ee6be460ea655e00",
+    "wof:geomhash":"39112514c00c6ca9db7a0a0d01dafcb6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":789976817,
-    "wof:lastmodified":1472654636,
+    "wof:lastmodified":1534535338,
     "wof:name":"Midwest Gem Lab Of Wi Inc",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353694217
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"

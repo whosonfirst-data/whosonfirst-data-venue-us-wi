@@ -2,18 +2,24 @@
   "id": 790033065,
   "type": "Feature",
   "properties": {
-    "addr:full":"702 S Randall Ave Madison WI 53715",
+    "addr:city":"Madison",
+    "addr:full":"702 S Randall Avenue Madison, Wi 53715-1600",
+    "addr:house_number":"702",
     "addr:housenumber":"702",
-    "addr:postcode":"53715",
+    "addr:phone":"+1 608-266-4732",
+    "addr:postcode":"53715-1600",
+    "addr:road":"S Randall Avenue",
+    "addr:state":"WI",
     "addr:street":"S Randall Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.409058,43.060958,-89.409058,43.060958",
-    "geom:latitude":43.060958,
-    "geom:longitude":-89.409058,
+    "geom:bbox":"-89.40904,43.06092,-89.40904,43.06092",
+    "geom:latitude":43.06092,
+    "geom:longitude":-89.40904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"702 S Randall Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "zoo"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525659
+    ],
     "wof:belongsto":[
         85853787,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409500078,
         "sg:id":"SG_04cHQeb9nDuPe5f2XXUH5e_43.060958_-89.409058@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462592595,
-    "wof:geomhash":"939e32649f45b847c8ad35e7c15ad518",
+    "wof:geomhash":"60f63f076f87967385a4dd9ceed061fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +70,8 @@
         }
     ],
     "wof:id":790033065,
-    "wof:lastmodified":1472654023,
-    "wof:name":"Zoological Society Henry Vilas",
+    "wof:lastmodified":1534535364,
+    "wof:name":"Henry Vilas Zoo",
     "wof:parent_id":85853787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -89.409058,
-    43.060958,
-    -89.409058,
-    43.060958
+    -89.40904,
+    43.06092,
+    -89.40904,
+    43.06092
 ],
-  "geometry": {"coordinates":[-89.409058,43.060958],"type":"Point"}
+  "geometry": {"coordinates":[-89.40904,43.06092],"type":"Point"}
 }

@@ -14,6 +14,7 @@
     "geom:longitude":-88.04727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 N Mayfair Rd",
     "sg:city":"Wauwatosa",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592665,
-    "wof:geomhash":"b1edd090d9815a95faa74bc74eb05eea",
+    "wof:geomhash":"4c499595fc070edaea4211b5483d1598",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":790042987,
-    "wof:lastmodified":1472654061,
+    "wof:lastmodified":1534535342,
     "wof:name":"West Side Medical Assoc",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790333307
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

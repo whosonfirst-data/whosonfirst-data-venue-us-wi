@@ -7,6 +7,7 @@
     "addr:postcode":"53202",
     "addr:street":"N Broadway St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.907181,43.032482,-87.907181,43.032482",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.907181,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"159 N Broadway St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585873,
-    "wof:geomhash":"601e5df9f440659c5a77d2cd15f2c05b",
+    "wof:geomhash":"30522800d44d6ea6f6fe90c572668ad3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":773454505,
-    "wof:lastmodified":1472654881,
+    "wof:lastmodified":1534535352,
     "wof:name":"East Town Women's Resale Shop",
     "wof:parent_id":85867287,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823134629
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop",

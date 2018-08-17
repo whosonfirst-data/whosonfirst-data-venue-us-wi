@@ -2,18 +2,24 @@
   "id": 773750495,
   "type": "Feature",
   "properties": {
-    "addr:full":"12156 Garrett Bay Rd Ellison Bay WI 54210",
+    "addr:city":"Ellison Bay",
+    "addr:full":"12156 Garrett Bay Rd Ellison Bay, Wi 54210",
+    "addr:house_number":"12156",
     "addr:housenumber":"12156",
+    "addr:phone":"+1 920-854-5049",
     "addr:postcode":"54210",
+    "addr:road":"Garrett Bay Rd",
+    "addr:state":"WI",
     "addr:street":"Garrett Bay Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.069569,45.262102,-87.069569,45.262102",
-    "geom:latitude":45.262102,
-    "geom:longitude":-87.069569,
+    "geom:bbox":"-87.06988,45.26173,-87.06988,45.26173",
+    "geom:latitude":45.26173,
+    "geom:longitude":-87.06988,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"12156 Garrett Bay Rd",
     "sg:city":"Ellison Bay",
     "sg:classifiers":[
@@ -30,18 +36,22 @@
     "sg:tags":[
         "pottery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102522167
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500111,
         "sg:id":"SG_5YUCWMO9sPZIpaainTx3jF_45.262102_-87.069569@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462588100,
-    "wof:geomhash":"d5627771c343c6143baa688b2d77745c",
+    "wof:geomhash":"08f0b2891b7209b85a00a286cbbdbcf3",
     "wof:hierarchy":[],
     "wof:id":773750495,
-    "wof:lastmodified":1472654974,
+    "wof:lastmodified":1534535365,
     "wof:name":"Ellison Bay Pottery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,10 +63,10 @@
     ]
 },
   "bbox": [
-    -87.069569,
-    45.262102,
-    -87.069569,
-    45.262102
+    -87.06988,
+    45.26173,
+    -87.06988,
+    45.26173
 ],
-  "geometry": {"coordinates":[-87.069569,45.262102],"type":"Point"}
+  "geometry": {"coordinates":[-87.06988,45.26173],"type":"Point"}
 }

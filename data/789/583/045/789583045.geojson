@@ -14,6 +14,7 @@
     "geom:longitude":-88.047627,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2600 N Mayfair Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588930,
-    "wof:geomhash":"d4eb3c52d6718086fad2b6e6c29178dd",
+    "wof:geomhash":"9fd7f65b7227f342e9c6e131dbef7432",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":789583045,
-    "wof:lastmodified":1472653895,
+    "wof:lastmodified":1534535342,
     "wof:name":"Vernon Roche and Hodgson",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789923883
+    ],
     "wof:tags":[
         "psychological",
         "consultant"

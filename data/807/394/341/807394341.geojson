@@ -7,6 +7,7 @@
     "addr:postcode":"53115",
     "addr:street":"Borg Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.625593,42.627325,-88.625593,42.627325",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.625593,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"518 Borg Rd",
     "sg:city":"Delavan",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607147,
-    "wof:geomhash":"b1947480d5803e228a1c3807172f5eb9",
+    "wof:geomhash":"a919d36ee2a224838d60e4fbc6166c22",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +50,14 @@
         }
     ],
     "wof:id":807394341,
-    "wof:lastmodified":1472654584,
+    "wof:lastmodified":1534535348,
     "wof:name":"Super 8 Delavan",
     "wof:parent_id":85829149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773251179
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

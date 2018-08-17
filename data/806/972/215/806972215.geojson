@@ -7,6 +7,7 @@
     "addr:postcode":"54153",
     "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.866435,44.889119,-87.866435,44.889119",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.866435,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"301 Washington St",
     "sg:city":"Oconto",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1462602628,
-    "wof:geomhash":"141d196b57d8fe91bbbb06dfafb612ac",
+    "wof:geomhash":"2f79641c930e803a52a2f69214719884",
     "wof:hierarchy":[],
     "wof:id":806972215,
-    "wof:lastmodified":1472654771,
+    "wof:lastmodified":1534535346,
     "wof:name":"County of Oconto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806469173
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"

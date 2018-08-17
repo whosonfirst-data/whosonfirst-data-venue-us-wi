@@ -7,6 +7,7 @@
     "addr:postcode":"53129",
     "addr:street":"W Loomis Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.98507,42.945839,-87.98507,42.945839",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.98507,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5980 W Loomis Rd",
     "sg:city":"Greendale",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607175,
-    "wof:geomhash":"cd808fb3a91935952e6892107dd79a89",
+    "wof:geomhash":"6272cac627276523176d6cb5e04b9e83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":807395613,
-    "wof:lastmodified":1472654592,
+    "wof:lastmodified":1534535347,
     "wof:name":"Volunteer Missionary Movement",
     "wof:parent_id":85870939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773220361
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-salvation",

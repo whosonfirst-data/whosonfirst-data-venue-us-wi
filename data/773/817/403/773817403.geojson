@@ -14,6 +14,7 @@
     "geom:longitude":-87.908246,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"841 N Broadway St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588612,
-    "wof:geomhash":"b29bad24c544f8953101298cf1c92e81",
+    "wof:geomhash":"fe6fba72c99c0ecf0b682387a51fd933",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":773817403,
-    "wof:lastmodified":1472654993,
+    "wof:lastmodified":1534535359,
     "wof:name":"Milwaukee City Record Center",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773370041
+    ],
     "wof:tags":[
         "special"
     ]

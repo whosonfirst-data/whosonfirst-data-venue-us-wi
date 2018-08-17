@@ -14,6 +14,7 @@
     "geom:longitude":-87.911152,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"648 N Plankinton Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
         "sg:id":"SG_48pxWuUz1cb1yykPptrpwJ_43.038051_-87.911152@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"cb68c483038d2a4a7f957bf71273872f",
+    "wof:geomhash":"e04443bee63f1585320172d72f525dd5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":387191221,
-    "wof:lastmodified":1472654075,
+    "wof:lastmodified":1534535341,
     "wof:name":"Henry Uihlein Office",
     "wof:parent_id":85867289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806612289
+    ],
     "wof:tags":[
         "consultant",
         "planning",

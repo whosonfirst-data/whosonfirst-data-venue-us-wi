@@ -2,18 +2,24 @@
   "id": 807113679,
   "type": "Feature",
   "properties": {
-    "addr:full":"3110 Erie Ave Sheboygan WI 53081",
+    "addr:city":"Sheboygan",
+    "addr:full":"3110 Erie Ave Sheboygan, Wi 53081-3660",
+    "addr:house_number":"3110",
     "addr:housenumber":"3110",
-    "addr:postcode":"53081",
+    "addr:phone":"+1 414-458-1103",
+    "addr:postcode":"53081-3660",
+    "addr:road":"Erie Ave",
+    "addr:state":"WI",
     "addr:street":"Erie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.745191,43.752744,-87.745191,43.752744",
-    "geom:latitude":43.752744,
-    "geom:longitude":-87.745191,
+    "geom:bbox":"-87.74838,43.75249,-87.74838,43.75249",
+    "geom:latitude":43.75249,
+    "geom:longitude":-87.74838,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3110 Erie Ave",
     "sg:city":"Sheboygan",
     "sg:classifiers":[
@@ -31,20 +37,22 @@
         "executive",
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688517,
+        102081869,
         85633793,
-        85818209,
-        102081869
+        85688517,
+        85818209
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500745,
         "sg:id":"SG_4e8F6UpcKficrfJpvFMIFJ_43.752744_-87.745191@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462603876,
-    "wof:geomhash":"bee5ee3a4b565b907dcbc4ebcff63528",
+    "wof:geomhash":"274512baf0c92098f01bacd39f86d48d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,8 +63,8 @@
         }
     ],
     "wof:id":807113679,
-    "wof:lastmodified":1472654150,
-    "wof:name":"Sheboygan Historical Society",
+    "wof:lastmodified":1534535365,
+    "wof:name":"Sheboygan County Historical Society",
     "wof:parent_id":85818209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
@@ -68,10 +76,10 @@
     ]
 },
   "bbox": [
-    -87.745191,
-    43.752744,
-    -87.745191,
-    43.752744
+    -87.74838,
+    43.75249,
+    -87.74838,
+    43.75249
 ],
-  "geometry": {"coordinates":[-87.74519100000001,43.752744],"type":"Point"}
+  "geometry": {"coordinates":[-87.74838,43.75249],"type":"Point"}
 }

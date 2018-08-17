@@ -7,6 +7,7 @@
     "addr:postcode":"53717",
     "addr:street":"Tree Ln",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-89.519845,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7940 Tree Ln",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_5CQGcgRciscwShaacOOUtt_43.060559_-89.519845@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"29164a934249e4883b13fa3f16cb7138",
+    "wof:geomhash":"35b8dff3792a57a288ef3de3d1609f39",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":387481219,
-    "wof:lastmodified":1491894012,
+    "wof:lastmodified":1534535341,
     "wof:name":"Retro Hair Studio LLC",
     "wof:parent_id":85878843,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        403735377
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

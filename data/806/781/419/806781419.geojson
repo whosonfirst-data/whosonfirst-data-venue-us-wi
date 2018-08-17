@@ -7,6 +7,7 @@
     "addr:postcode":"53202",
     "addr:street":"E Wells St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.904837,43.041222,-87.904837,43.041222",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.904837,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"555 E Wells St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601027,
-    "wof:geomhash":"f46cc579d6ffe5d6a077f5fe18e47720",
+    "wof:geomhash":"746ed8abd93a717eda1270d03d8904db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":806781419,
-    "wof:lastmodified":1472654601,
+    "wof:lastmodified":1534535352,
     "wof:name":"Society For The Advancement",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823135299
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

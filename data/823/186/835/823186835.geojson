@@ -14,6 +14,7 @@
     "geom:longitude":-89.399064,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1313 Fish Hatchery Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608153,
-    "wof:geomhash":"f583a166fdd6dafd68780e592ade04ad",
+    "wof:geomhash":"0d86aecfe16a497488092f0dc4c8f74c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +66,15 @@
         }
     ],
     "wof:id":823186835,
-    "wof:lastmodified":1472654066,
+    "wof:lastmodified":1534535356,
     "wof:name":"Dean Medial Center",
     "wof:parent_id":85878849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806869697
+    ],
     "wof:tags":[
         "medical"
     ]

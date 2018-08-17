@@ -14,6 +14,7 @@
     "geom:longitude":-87.915575,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2821 N 4th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591085,
-    "wof:geomhash":"deb853547fe9e9e0d2cb3ff8a351db3f",
+    "wof:geomhash":"afe0448080349fa390dd98e68093cea7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":789857623,
-    "wof:lastmodified":1472654457,
+    "wof:lastmodified":1534535349,
     "wof:name":"Unity Healthcare LLC",
     "wof:parent_id":85870991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773603239
+    ],
     "wof:tags":[
         "temporary",
         "health",

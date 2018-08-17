@@ -7,6 +7,7 @@
     "addr:postcode":"53132",
     "addr:street":"W Loomis Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.028938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9200 W Loomis Rd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591543,
-    "wof:geomhash":"acef866dd4a3ff1c849516b62e770f4d",
+    "wof:geomhash":"9a613a6fe6020f0f00f089dec58a305a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":789910411,
-    "wof:lastmodified":1492103000,
+    "wof:lastmodified":1534535351,
     "wof:name":"S C Medved Ent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773433041
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

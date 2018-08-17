@@ -7,6 +7,7 @@
     "addr:postcode":"53151",
     "addr:street":"W Howard Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.107617,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"15455 W Howard Ave",
     "sg:city":"New Berlin",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606601,
-    "wof:geomhash":"5a5d7a08a116da1fe157fae0544bcbb1",
+    "wof:geomhash":"990f440a6bf862494f8ffdcca3613f28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":807356595,
-    "wof:lastmodified":1492103539,
+    "wof:lastmodified":1534535350,
     "wof:name":"Rocky Rococo",
     "wof:parent_id":420550229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806597753
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

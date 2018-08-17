@@ -7,6 +7,7 @@
     "addr:postcode":"53205",
     "addr:street":"N 12Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.927008,43.054113,-87.927008,43.054113",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.927008,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1819 N 12th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607550,
-    "wof:geomhash":"96165cba1eea14b15021dca8d1367e65",
+    "wof:geomhash":"1003b68bb2da004a1a5d8d5a8cccc462",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +53,14 @@
         }
     ],
     "wof:id":823141931,
-    "wof:lastmodified":1472653932,
+    "wof:lastmodified":1534535347,
     "wof:name":"12th Street Liquor Store",
     "wof:parent_id":420550063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790245007
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"53222",
     "addr:street":"N Mayfair Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.047627,43.061865,-88.047627,43.061865",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.047627,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2600 N Mayfair Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591655,
-    "wof:geomhash":"d4eb3c52d6718086fad2b6e6c29178dd",
+    "wof:geomhash":"9fd7f65b7227f342e9c6e131dbef7432",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":789923883,
-    "wof:lastmodified":1472654576,
+    "wof:lastmodified":1534535342,
     "wof:name":"Vernon Roche & Hodgson Inc",
     "wof:parent_id":85870873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789583045
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

@@ -2,18 +2,24 @@
   "id": 806699167,
   "type": "Feature",
   "properties": {
-    "addr:full":"2233 N 4th St Milwaukee WI 53212",
+    "addr:city":"Milwaukee",
+    "addr:full":"2233 N 4Th St Milwaukee, Wi 53212",
+    "addr:house_number":"2233",
     "addr:housenumber":"2233",
+    "addr:phone":"+1 414-264-2500",
     "addr:postcode":"53212",
+    "addr:road":"N 4Th St",
+    "addr:state":"WI",
     "addr:street":"N 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.91571,43.059903,-87.91571,43.059903",
-    "geom:latitude":43.059903,
-    "geom:longitude":-87.91571,
+    "geom:bbox":"-87.91573,43.05949,-87.91573,43.05949",
+    "geom:latitude":43.05949,
+    "geom:longitude":-87.91573,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2233 N 4th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:postcode":"53212",
     "sg:province":"WI",
     "sg:website":"www.blackholocaustmuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530849
+    ],
     "wof:belongsto":[
         420550051,
         102191575,
@@ -40,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500867,
         "sg:id":"SG_4MRVRqlA3qrXMB5EVvsAY5_43.059903_-87.915710@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462600328,
-    "wof:geomhash":"315e8b2abbab160bc32cd8781b5736c8",
+    "wof:geomhash":"a317a4d2ef68e478809257d01e0231cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":806699167,
-    "wof:lastmodified":1472654472,
-    "wof:name":"America's Black Holocaust",
+    "wof:lastmodified":1534535365,
+    "wof:name":"Americas Black Holocaust Museum",
     "wof:parent_id":420550051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
@@ -68,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.91571,
-    43.059903,
-    -87.91571,
-    43.059903
+    -87.91573,
+    43.05949,
+    -87.91573,
+    43.05949
 ],
-  "geometry": {"coordinates":[-87.91571,43.059903],"type":"Point"}
+  "geometry": {"coordinates":[-87.91573,43.05949],"type":"Point"}
 }

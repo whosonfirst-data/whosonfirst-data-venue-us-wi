@@ -2,18 +2,24 @@
   "id": 790352635,
   "type": "Feature",
   "properties": {
-    "addr:full":"210 S Washington St Elkhorn WI 53121",
+    "addr:city":"Elkhorn",
+    "addr:full":"210 S Washington St Elkhorn, Wi 53121",
+    "addr:house_number":"210",
     "addr:housenumber":"210",
+    "addr:phone":"+1 262-723-7848",
     "addr:postcode":"53121",
+    "addr:road":"S Washington St",
+    "addr:state":"WI",
     "addr:street":"S Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.54229,42.668617,-88.54229,42.668617",
-    "geom:latitude":42.668617,
-    "geom:longitude":-88.54229,
+    "geom:bbox":"-88.5423,42.66765,-88.5423,42.66765",
+    "geom:latitude":42.66765,
+    "geom:longitude":-88.5423,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"210 S Washington St",
     "sg:city":"Elkhorn",
     "sg:classifiers":[
@@ -30,18 +36,22 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[],
+    "wof:belongsto":[
+        420550177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500115,
         "sg:id":"SG_7NoDGQ4c913qGwis5MlLtS_42.668617_-88.542290@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462595157,
-    "wof:geomhash":"fe5f458f046ea2933ab8f007bb136506",
+    "wof:geomhash":"c7fa54d56e6d9641b663ae8ea4e67295",
     "wof:hierarchy":[],
     "wof:id":790352635,
-    "wof:lastmodified":1472654535,
+    "wof:lastmodified":1534535364,
     "wof:name":"Doris M Reinke Resource Center",
     "wof:parent_id":420550177,
     "wof:placetype":"venue",
@@ -53,10 +63,10 @@
     ]
 },
   "bbox": [
-    -88.54229,
-    42.668617,
-    -88.54229,
-    42.668617
+    -88.5423,
+    42.66765,
+    -88.5423,
+    42.66765
 ],
-  "geometry": {"coordinates":[-88.54228999999999,42.668617],"type":"Point"}
+  "geometry": {"coordinates":[-88.5423,42.66765],"type":"Point"}
 }

@@ -14,6 +14,7 @@
     "geom:longitude":-87.908383,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"250 E Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462587424,
-    "wof:geomhash":"09c85d7bc1aa2893879ef7375b204a1c",
+    "wof:geomhash":"e300120cc66bf7213dda9e7f91d145fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":773663557,
-    "wof:lastmodified":1472654947,
+    "wof:lastmodified":1534535354,
     "wof:name":"Felcom Inc",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789905999
+    ],
     "wof:tags":[
         "internet"
     ]

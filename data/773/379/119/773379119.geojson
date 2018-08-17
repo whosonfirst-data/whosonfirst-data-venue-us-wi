@@ -2,18 +2,24 @@
   "id": 773379119,
   "type": "Feature",
   "properties": {
-    "addr:full":"505 W Grand Ave Chippewa Falls WI 54729",
+    "addr:city":"Chippewa Falls",
+    "addr:full":"505 West Grand Avenue Chippewa Falls, Wi 54729-2263",
+    "addr:house_number":"505",
     "addr:housenumber":"505",
-    "addr:postcode":"54729",
+    "addr:phone":"+1 715-723-7181",
+    "addr:postcode":"54729-2263",
+    "addr:road":"West Grand Avenue",
+    "addr:state":"WI",
     "addr:street":"W Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-91.400485,44.932536,-91.400485,44.932536",
-    "geom:latitude":44.932536,
-    "geom:longitude":-91.400485,
+    "geom:bbox":"-91.39959,44.93305,-91.39959,44.93305",
+    "geom:latitude":44.93305,
+    "geom:longitude":-91.39959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"505 W Grand Ave",
     "sg:city":"Chippewa Falls",
     "sg:classifiers":[
@@ -36,19 +42,25 @@
         "gallery",
         "historical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528797
+    ],
+    "wof:belongsto":[
+        420549971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500176,
         "sg:id":"SG_0S482GYqHNWV9RSVyiw3re_44.932536_-91.400485@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585244,
-    "wof:geomhash":"4b4bfbd95cad264e11b7aa4eabb3ec3a",
+    "wof:geomhash":"8dd917694a26396344cd1ff41911fc29",
     "wof:hierarchy":[],
     "wof:id":773379119,
-    "wof:lastmodified":1472654852,
-    "wof:name":"Cook Rutledge Mansion Inc",
+    "wof:lastmodified":1534535365,
+    "wof:name":"Cook-Rutledge Mansion",
     "wof:parent_id":420549971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
@@ -60,10 +72,10 @@
     ]
 },
   "bbox": [
-    -91.400485,
-    44.932536,
-    -91.400485,
-    44.932536
+    -91.39959,
+    44.93305,
+    -91.39959,
+    44.93305
 ],
-  "geometry": {"coordinates":[-91.400485,44.932536],"type":"Point"}
+  "geometry": {"coordinates":[-91.39959,44.93305],"type":"Point"}
 }

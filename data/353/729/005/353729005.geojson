@@ -7,6 +7,7 @@
     "addr:postcode":"53202",
     "addr:street":"E Wisconsin Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.904156,43.038799,-87.904156,43.038799",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.904156,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"517 E Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_4Bfoljg2sFyPoF0dqTnr0E_43.038799_-87.904156@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"e66615c4f8f8b98b03b1ac0205de2b34",
+    "wof:geomhash":"ed8765a68673aedd4b4e663177e732b5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":353729005,
-    "wof:lastmodified":1472654082,
+    "wof:lastmodified":1534535350,
     "wof:name":"Office Labor MGT Standards",
     "wof:parent_id":85867289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773291453
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "labor",

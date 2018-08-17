@@ -7,6 +7,7 @@
     "addr:postcode":"53092",
     "addr:street":"N Port Washington Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.924134,43.228854,-87.924134,43.228854",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.924134,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11649 N Port Washington Rd",
     "sg:city":"Mequon",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_2lPtDXaBH7bbTPt3IsGYYv_43.228854_-87.924134@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"d8698661d37c52fb5ecf3be2e6ba9a0f",
+    "wof:geomhash":"7291a1da7cc47e0d7baf2323be658cc6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":387717433,
-    "wof:lastmodified":1472654222,
+    "wof:lastmodified":1534535363,
     "wof:name":"Deshur Homes Co",
     "wof:parent_id":85829269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807387577
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "home",

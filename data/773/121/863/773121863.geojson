@@ -14,6 +14,7 @@
     "geom:longitude":-88.051112,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11040 W Bluemound Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462583307,
-    "wof:geomhash":"087af9ff831f77d84e3ddb6f22f62483",
+    "wof:geomhash":"a8e12827b631acc3f78db898ac6b8192",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":773121863,
-    "wof:lastmodified":1472654515,
+    "wof:lastmodified":1534535344,
     "wof:name":"Scott R Riedel & Assoc",
     "wof:parent_id":85867293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773116763
+    ],
     "wof:tags":[
         "acoustical",
         "consultant"

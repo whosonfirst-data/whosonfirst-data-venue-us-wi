@@ -7,6 +7,7 @@
     "addr:postcode":"53221",
     "addr:street":"S 27Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.948662,42.958959,-87.948662,42.958959",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.948662,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4774 S 27th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_363IiN0ryKi3JmVzBe4R20_42.958959_-87.948662@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"6986dcdb67b9a72198b002c663c37cde",
+    "wof:geomhash":"9b0524427483e7ef6e0dbc201e0f9fa4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":387653195,
-    "wof:lastmodified":1472654219,
+    "wof:lastmodified":1534535354,
     "wof:name":"Carquest Auto Parts",
     "wof:parent_id":85870931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823167037
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile",

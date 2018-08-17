@@ -7,6 +7,7 @@
     "addr:postcode":"53545",
     "addr:street":"Milton Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.001144,42.712623,-89.001144,42.712623",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.001144,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2500 Milton Ave",
     "sg:city":"Janesville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_1fVL0GoBJ80TkdWISAlhhX_42.712623_-89.001144@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"c855e41d639902a7d43dca2844ef9108",
+    "wof:geomhash":"85013f20dd24ca490a38fc4251146294",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":353690241,
-    "wof:lastmodified":1472654078,
+    "wof:lastmodified":1534535349,
     "wof:name":"Gymboree Store Janesville Mall",
     "wof:parent_id":85803103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789873537
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "building",

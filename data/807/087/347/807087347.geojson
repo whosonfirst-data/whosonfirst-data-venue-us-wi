@@ -7,6 +7,7 @@
     "addr:postcode":"54555",
     "addr:street":"Cherry St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.398028,45.690366,-90.398028,45.690366",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.398028,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"126 Cherry St",
     "sg:city":"Phillips",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1462603590,
-    "wof:geomhash":"4ba722a73345eedf0525e2e1f66f720b",
+    "wof:geomhash":"f005a108a8efc4b7391a91e80e2df995",
     "wof:hierarchy":[],
     "wof:id":807087347,
-    "wof:lastmodified":1472654118,
+    "wof:lastmodified":1534535342,
     "wof:name":"Child Support Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773047937
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "county",

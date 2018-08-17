@@ -7,6 +7,7 @@
     "addr:postcode":"54911",
     "addr:street":"W College Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.40678,44.261741,-88.40678,44.261741",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.40678,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"103 W College Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601833,
-    "wof:geomhash":"aa6f49790c675131288c73b0a2f0290c",
+    "wof:geomhash":"449595d6a00eb844de51cf2e31479e0b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":806877905,
-    "wof:lastmodified":1472654693,
+    "wof:lastmodified":1534535348,
     "wof:name":"Salon Moxie",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773231531
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

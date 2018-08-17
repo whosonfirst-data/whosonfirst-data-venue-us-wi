@@ -14,6 +14,7 @@
     "geom:longitude":-89.387017,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"222 W Washington Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599180,
-    "wof:geomhash":"fe362363c50b51b9e5ceaa5b862ad15b",
+    "wof:geomhash":"b01d24ad1ddba36c89accfeb68cd0f87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806566717,
-    "wof:lastmodified":1472654291,
+    "wof:lastmodified":1534535349,
     "wof:name":"5 Nines Data Services",
     "wof:parent_id":85878831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773033975
+    ],
     "wof:tags":[
         "communications"
     ]

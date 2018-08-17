@@ -2,17 +2,21 @@
   "id": 807328225,
   "type": "Feature",
   "properties": {
-    "addr:full":"929 E Wisconsin Ave Milwaukee WI 53202",
+    "addr:city":"Milwaukee",
+    "addr:full":"929 East Wisconsin Avenue Milwaukee, Wi 53202-5406",
+    "addr:house_number":"929",
     "addr:housenumber":"929",
-    "addr:postcode":"53202",
+    "addr:postcode":"53202-5406",
+    "addr:road":"East Wisconsin Avenue",
+    "addr:state":"WI",
     "addr:street":"E Wisconsin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.900083,43.039115,-87.900083,43.039115",
-    "geom:latitude":43.039115,
-    "geom:longitude":-87.900083,
+    "geom:bbox":"-87.90027,43.03902,-87.90027,43.03902",
+    "geom:latitude":43.03902,
+    "geom:longitude":-87.90027,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -35,7 +39,10 @@
         "art"
     ],
     "sg:website":"http://www.bbcmkids.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530849
+    ],
     "wof:belongsto":[
         85867289,
         102191575,
@@ -47,12 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409500277,
         "osm:node":4039188836,
         "sg:id":"SG_3ag4l20WpZaIWLRx77255i_43.039213_-87.899615@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462606176,
-    "wof:geomhash":"3c6a80c43c3ab126014d96e92a5076ed",
+    "wof:geomhash":"74fd542bf57feeb7adff470b978e5bd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,8 +74,8 @@
         }
     ],
     "wof:id":807328225,
-    "wof:lastmodified":1510942784,
-    "wof:name":"Betty Brinn Children's Museum",
+    "wof:lastmodified":1534535365,
+    "wof:name":"Betty Brinn Children'S Museum",
     "wof:parent_id":85867289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
@@ -80,10 +88,10 @@
     ]
 },
   "bbox": [
-    -87.900083,
-    43.039115,
-    -87.900083,
-    43.039115
+    -87.90027,
+    43.03902,
+    -87.90027,
+    43.03902
 ],
-  "geometry": {"coordinates":[-87.900083,43.039115],"type":"Point"}
+  "geometry": {"coordinates":[-87.90027000000001,43.03902],"type":"Point"}
 }

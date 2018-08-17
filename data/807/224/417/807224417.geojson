@@ -7,6 +7,7 @@
     "addr:postcode":"53045",
     "addr:street":"W Capitol Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.133578,43.09054,-88.133578,43.09054",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.133578,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"17700 W Capitol Dr",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605056,
-    "wof:geomhash":"efbc0fef7d67e9d3cef780067cd36ece",
+    "wof:geomhash":"559d3aafe627aaa2308e40c0df39135b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":807224417,
-    "wof:lastmodified":1472654313,
+    "wof:lastmodified":1534535360,
     "wof:name":"Mr B's Bartolotta Steakhouse",
     "wof:parent_id":85832419,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807354185
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

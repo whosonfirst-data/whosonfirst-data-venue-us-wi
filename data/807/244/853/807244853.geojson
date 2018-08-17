@@ -7,6 +7,7 @@
     "addr:postcode":"53188",
     "addr:street":"N Grandview Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.255811,43.040016,-88.255811,43.040016",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.255811,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2727 N Grandview Blvd",
     "sg:city":"Waukesha",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605275,
-    "wof:geomhash":"178848ede2a4c9cb15e4f2ffc8d98fe8",
+    "wof:geomhash":"26b2243a9c2b4054ea985cb723222353",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":807244853,
-    "wof:lastmodified":1472654349,
+    "wof:lastmodified":1534535343,
     "wof:name":"Investment Center Waukesha",
     "wof:parent_id":85841477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806393891
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "security"

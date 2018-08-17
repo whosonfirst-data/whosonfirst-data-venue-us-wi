@@ -7,6 +7,7 @@
     "addr:postcode":"53209",
     "addr:street":"W Brown Deer Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.958421,43.178511,-87.958421,43.178511",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.958421,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3900 W Brown Deer Rd",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586571,
-    "wof:geomhash":"2fc8b2a684a5c6475427ce6007ed8d0e",
+    "wof:geomhash":"816e170005d35147e3e7650cb5a68575",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":773550683,
-    "wof:lastmodified":1472654912,
+    "wof:lastmodified":1534535356,
     "wof:name":"Le Peep Restaurant",
     "wof:parent_id":85894487,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773706161
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

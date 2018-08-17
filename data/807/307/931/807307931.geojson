@@ -7,6 +7,7 @@
     "addr:postcode":"54915",
     "addr:street":"W Edison Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.404356,44.255362,-88.404356,44.255362",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.404356,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"101 W Edison Ave",
     "sg:city":"Appleton",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605937,
-    "wof:geomhash":"cdae3d77998efee4cbe2acc4c0ada9c8",
+    "wof:geomhash":"5a163ac25f6d5761294d966694b1e1a4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,12 +52,14 @@
         }
     ],
     "wof:id":807307931,
-    "wof:lastmodified":1472654447,
+    "wof:lastmodified":1534535360,
     "wof:name":"Storage Systems-Wi Inc",
     "wof:parent_id":85805401,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807325827
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "rack"

@@ -7,6 +7,7 @@
     "addr:postcode":"53005",
     "addr:street":"N Sunnyslope Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.086804,43.033939,-88.086804,43.033939",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.086804,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"250 N Sunnyslope Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584823,
-    "wof:geomhash":"fbec62246b1ca22ca1ae2daf420a13dd",
+    "wof:geomhash":"5df8090928f6c22f8d4f00afabd05901",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":773317019,
-    "wof:lastmodified":1472654822,
+    "wof:lastmodified":1534535344,
     "wof:name":"Hyperion Solutions Corporation",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773107285
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "prepackaged",

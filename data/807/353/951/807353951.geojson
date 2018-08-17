@@ -14,6 +14,7 @@
     "geom:longitude":-88.147375,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"18900 W Bluemound Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606559,
-    "wof:geomhash":"f1d2de4127e7a4c407afe6872517871e",
+    "wof:geomhash":"a7720c8c9d6268da4f37ad7333231e0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":807353951,
-    "wof:lastmodified":1472654539,
+    "wof:lastmodified":1534535360,
     "wof:name":"Emperor's Kitchen",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807218411
+    ],
     "wof:tags":[
         "asian",
         "chinese"

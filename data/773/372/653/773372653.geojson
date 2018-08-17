@@ -7,6 +7,7 @@
     "addr:postcode":"53212",
     "addr:street":"N 6Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.919021,43.041257,-87.919021,43.041257",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.919021,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"819 N 6th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585200,
-    "wof:geomhash":"a2ad388be92f6e4e5d6990dc72f7ffd3",
+    "wof:geomhash":"f8796fcc6ce10e2465b50fc018a2d1f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":773372653,
-    "wof:lastmodified":1472654857,
+    "wof:lastmodified":1534535339,
     "wof:name":"Hearings and Appeals Division",
     "wof:parent_id":85870965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353906183
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "appeal",

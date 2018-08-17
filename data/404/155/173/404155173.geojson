@@ -15,6 +15,7 @@
     "geom:longitude":-87.908383,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"250 E Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
         "sg:id":"SG_2qh8k1Q7etbMvKgWxWNCzU_43.038684_-87.908383@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"09c85d7bc1aa2893879ef7375b204a1c",
+    "wof:geomhash":"e300120cc66bf7213dda9e7f91d145fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":404155173,
-    "wof:lastmodified":1491921224,
+    "wof:lastmodified":1534535342,
     "wof:name":"Hq Global Workplaces Inc",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807261181
+    ],
     "wof:tags":[
         "business"
     ]

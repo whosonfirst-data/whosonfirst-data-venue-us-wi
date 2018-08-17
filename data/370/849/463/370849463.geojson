@@ -7,6 +7,7 @@
     "addr:postcode":"53404",
     "addr:street":"Mound Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.79532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1220 Mound Ave",
     "sg:city":"Racine",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
         "sg:id":"SG_7l3qehjxZA8MTecHSkjJfc_42.728887_-87.795320@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"fb965c845707fe6c6e2b3847ddfbf9af",
+    "wof:geomhash":"5f4bf8239507a938e87ab78a83bb50b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":370849463,
-    "wof:lastmodified":1492108939,
+    "wof:lastmodified":1534535358,
     "wof:name":"Racine Council On Alcohol",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773746453
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "info",

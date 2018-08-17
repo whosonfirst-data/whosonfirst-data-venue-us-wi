@@ -14,6 +14,7 @@
     "geom:longitude":-87.913852,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"235 W Galena St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462589621,
-    "wof:geomhash":"d803036471fc8fc7098296dc8103ee79",
+    "wof:geomhash":"b3cde233d97af866a5981c72b242c56e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":789669011,
-    "wof:lastmodified":1472654111,
+    "wof:lastmodified":1534535344,
     "wof:name":"Aging Milwaukee County",
     "wof:parent_id":85870831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773825385
+    ],
     "wof:tags":[
         "county"
     ]

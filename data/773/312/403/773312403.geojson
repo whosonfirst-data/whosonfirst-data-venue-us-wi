@@ -7,6 +7,7 @@
     "addr:postcode":"53202",
     "addr:street":"N Jefferson St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.905405,43.040763,-87.905405,43.040763",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.905405,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"770 N Jefferson St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584787,
-    "wof:geomhash":"8594b8a3b81efe45d7552cee05fd9545",
+    "wof:geomhash":"51fc0a6eb88ee73c3232591e66e285f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":773312403,
-    "wof:lastmodified":1472654828,
+    "wof:lastmodified":1534535360,
     "wof:name":"Soup Ladele",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807357461
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"

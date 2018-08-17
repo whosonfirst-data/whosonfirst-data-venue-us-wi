@@ -2,18 +2,24 @@
   "id": 773449043,
   "type": "Feature",
   "properties": {
-    "addr:full":"208 S Chestnut Ave Marshfield WI 54449",
+    "addr:city":"Marshfield",
+    "addr:full":"208 S Chestnut Ave Marshfield, Wi 54449-2733",
+    "addr:house_number":"208",
     "addr:housenumber":"208",
-    "addr:postcode":"54449",
+    "addr:phone":"+1 715-389-8999",
+    "addr:postcode":"54449-2733",
+    "addr:road":"S Chestnut Ave",
+    "addr:state":"WI",
     "addr:street":"S Chestnut Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.17577,44.666393,-90.17577,44.666393",
-    "geom:latitude":44.666393,
-    "geom:longitude":-90.17577,
+    "geom:bbox":"-90.17798,44.65839,-90.17798,44.65839",
+    "geom:latitude":44.65839,
+    "geom:longitude":-90.17798,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"208 S Chestnut Ave",
     "sg:city":"Marshfield",
     "sg:classifiers":[
@@ -27,18 +33,22 @@
     "sg:phone":"+1 715 389 8999",
     "sg:postcode":"54449",
     "sg:province":"WI",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527221
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500835,
         "sg:id":"SG_3R75NelkXPyI1aFpOpGHlt_44.666393_-90.175770@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462585830,
-    "wof:geomhash":"a913d98b81b9b211e4f32774d6b354b8",
+    "wof:geomhash":"6dc7c690f96b6c808438e3aec4e5f058",
     "wof:hierarchy":[],
     "wof:id":773449043,
-    "wof:lastmodified":1472654874,
+    "wof:lastmodified":1534535364,
     "wof:name":"Chestnut Avenue Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.17577,
-    44.666393,
-    -90.17577,
-    44.666393
+    -90.17798,
+    44.65839,
+    -90.17798,
+    44.65839
 ],
-  "geometry": {"coordinates":[-90.17577,44.666393],"type":"Point"}
+  "geometry": {"coordinates":[-90.17798000000001,44.65839],"type":"Point"}
 }

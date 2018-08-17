@@ -14,6 +14,7 @@
     "geom:longitude":-87.905689,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"839 N Jefferson St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598740,
-    "wof:geomhash":"83f511be8fde74f514dc74ef9becc474",
+    "wof:geomhash":"808de28bb3ad793ffdc915456012aa13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806513327,
-    "wof:lastmodified":1472654204,
+    "wof:lastmodified":1534535347,
     "wof:name":"Michael Chernin Law Office",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823136765
+    ],
     "wof:tags":[
         "attorney"
     ]

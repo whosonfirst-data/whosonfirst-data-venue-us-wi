@@ -2,18 +2,24 @@
   "id": 790222637,
   "type": "Feature",
   "properties": {
-    "addr:full":"403 N Broadway De Pere WI 54115",
+    "addr:city":"De Pere",
+    "addr:full":"403 N Broadway De Pere, Wi 54115-2511",
+    "addr:house_number":"403",
     "addr:housenumber":"403",
-    "addr:postcode":"54115",
+    "addr:phone":"+1 920-336-3877",
+    "addr:postcode":"54115-2511",
+    "addr:road":"N Broadway",
+    "addr:state":"WI",
     "addr:street":"N Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.060051,44.45342,-88.060051,44.45342",
-    "geom:latitude":44.45342,
-    "geom:longitude":-88.060051,
+    "geom:bbox":"-88.0602,44.45289,-88.0602,44.45289",
+    "geom:latitude":44.45289,
+    "geom:longitude":-88.0602,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"403 N Broadway",
     "sg:city":"De Pere",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 920 336 3877",
     "sg:postcode":"54115",
     "sg:province":"WI",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529587
+    ],
     "wof:belongsto":[
         85855345,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500204,
         "sg:id":"SG_30YPeduwGghEn6NbndXHzs_44.453420_-88.060051@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462594120,
-    "wof:geomhash":"6f1b4b01447415b9b5f4d8797598df39",
+    "wof:geomhash":"60cfc939ba3aa80628060d8e08937fb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +67,8 @@
         }
     ],
     "wof:id":790222637,
-    "wof:lastmodified":1472654316,
-    "wof:name":"The De Pere Historcal Society",
+    "wof:lastmodified":1534535347,
+    "wof:name":"De Pere Historical Society",
     "wof:parent_id":85855345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.060051,
-    44.45342,
-    -88.060051,
-    44.45342
+    -88.0602,
+    44.45289,
+    -88.0602,
+    44.45289
 ],
-  "geometry": {"coordinates":[-88.060051,44.45342],"type":"Point"}
+  "geometry": {"coordinates":[-88.06019999999999,44.45289],"type":"Point"}
 }

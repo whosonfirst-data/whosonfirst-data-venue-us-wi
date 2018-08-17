@@ -15,6 +15,7 @@
     "geom:longitude":-87.909242,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"735 N Water St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
         "sg:id":"SG_3BaWa3HFFcBhY557y5ajc6_43.038929_-87.909242@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"ebb439e471b05c289063b660b6038611",
+    "wof:geomhash":"85a3b4e78065defc215fa1c6ab99227d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":386977845,
-    "wof:lastmodified":1491921255,
+    "wof:lastmodified":1534535339,
     "wof:name":"Buford's Investigation",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773730701
+    ],
     "wof:tags":[
         "process",
         "server"

@@ -2,18 +2,24 @@
   "id": 823156537,
   "type": "Feature",
   "properties": {
-    "addr:full":"640 S 84th St Milwaukee WI 53214",
+    "addr:city":"Milwaukee",
+    "addr:full":"640 S 84Th St Milwaukee, Wi 53214",
+    "addr:house_number":"640",
     "addr:housenumber":"640",
+    "addr:phone":"+1 414-319-0848",
     "addr:postcode":"53214",
+    "addr:road":"S 84Th St",
+    "addr:state":"WI",
     "addr:street":"S 84Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.017273,43.02393,-88.017273,43.02393",
-    "geom:latitude":43.02393,
-    "geom:longitude":-88.017273,
+    "geom:bbox":"-88.02957,43.01957,-88.02957,43.01957",
+    "geom:latitude":43.01957,
+    "geom:longitude":-88.02957,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"640 S 84th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 414 290 0105",
     "sg:postcode":"53214",
     "sg:province":"WI",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532225,
+        102530849
+    ],
     "wof:belongsto":[
         420550045,
         102191575,
@@ -39,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500081,
         "sg:id":"SG_2NxCahF83VBztaMR0PWOXN_43.023930_-88.017273@1303262809"
     },
     "wof:country":"US",
     "wof:created":1462607757,
-    "wof:geomhash":"7eb6eaef851d53ac764a56dc7fba06aa",
+    "wof:geomhash":"85972ce9e0a26b697e2ebe6b0e3c5a52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +68,8 @@
         }
     ],
     "wof:id":823156537,
-    "wof:lastmodified":1472653951,
-    "wof:name":"International Clown Hall-Fame",
+    "wof:lastmodified":1534535364,
+    "wof:name":"International Clown Hall Of Fame",
     "wof:parent_id":420550045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
@@ -67,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.017273,
-    43.02393,
-    -88.017273,
-    43.02393
+    -88.02957,
+    43.01957,
+    -88.02957,
+    43.01957
 ],
-  "geometry": {"coordinates":[-88.017273,43.02393],"type":"Point"}
+  "geometry": {"coordinates":[-88.02957000000001,43.01957],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"53045",
     "addr:street":"W North Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.156395,43.061318,-88.156395,43.061318",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.156395,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"19475 W North Ave",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462589169,
-    "wof:geomhash":"09e4d0ee746f40b3e2d1ac1fc74e573f",
+    "wof:geomhash":"26a1d557dda3b7d77d22c66cb341f9e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":789614471,
-    "wof:lastmodified":1472653997,
+    "wof:lastmodified":1534535343,
     "wof:name":"Pain Management Cons Milwaukee",
     "wof:parent_id":85832419,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790092517
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

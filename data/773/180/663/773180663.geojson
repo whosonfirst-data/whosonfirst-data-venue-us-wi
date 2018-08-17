@@ -7,6 +7,7 @@
     "addr:postcode":"53405",
     "addr:street":"Durand Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-87.824638,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3701 Durand Ave",
     "sg:city":"Racine",
     "sg:classifiers":[
@@ -63,12 +64,14 @@
         }
     ],
     "wof:id":773180663,
-    "wof:lastmodified":1511322702,
+    "wof:lastmodified":1534535346,
     "wof:name":"H & R Block",
     "wof:parent_id":85854859,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790212775
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "return"

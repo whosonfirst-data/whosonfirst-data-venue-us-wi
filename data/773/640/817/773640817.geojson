@@ -2,18 +2,24 @@
   "id": 773640817,
   "type": "Feature",
   "properties": {
-    "addr:full":"22 S Madison St Waupun WI 53963",
+    "addr:city":"Waupun",
+    "addr:full":"22 S Madison St Waupun, Wi 53963",
+    "addr:house_number":"22",
     "addr:housenumber":"22",
+    "addr:phone":"+1 920-324-7931",
     "addr:postcode":"53963",
+    "addr:road":"S Madison St",
+    "addr:state":"WI",
     "addr:street":"S Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.729868,43.632958,-88.729868,43.632958",
-    "geom:latitude":43.632958,
-    "geom:longitude":-88.729868,
+    "geom:bbox":"-88.72987,43.63223,-88.72987,43.63223",
+    "geom:latitude":43.63223,
+    "geom:longitude":-88.72987,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"22 S Madison St",
     "sg:city":"Waupun",
     "sg:classifiers":[
@@ -30,18 +36,20 @@
     "sg:tags":[
         "village"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500002,
         "sg:id":"SG_2NIxmZniLj2kNlh1bdIeXm_43.632958_-88.729868@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462587253,
-    "wof:geomhash":"5be51adaacaf3555c4a77a8e512c581d",
+    "wof:geomhash":"db7453978ce9e8bd93931da2478fab28",
     "wof:hierarchy":[],
     "wof:id":773640817,
-    "wof:lastmodified":1472654941,
+    "wof:lastmodified":1534535364,
     "wof:name":"Waupun City Heritage Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -88.729868,
-    43.632958,
-    -88.729868,
-    43.632958
+    -88.72987,
+    43.63223,
+    -88.72987,
+    43.63223
 ],
-  "geometry": {"coordinates":[-88.729868,43.632958],"type":"Point"}
+  "geometry": {"coordinates":[-88.72987000000001,43.63223],"type":"Point"}
 }

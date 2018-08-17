@@ -7,6 +7,7 @@
     "addr:postcode":"53202",
     "addr:street":"N Jefferson St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.905604,43.042077,-87.905604,43.042077",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.905604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"839 N Jefferson St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607448,
-    "wof:geomhash":"8c63321bc55d9ea2415729f3ffd3ad9d",
+    "wof:geomhash":"613b73095ca4d213a795f49b04b40619",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":823136765,
-    "wof:lastmodified":1472653922,
+    "wof:lastmodified":1534535347,
     "wof:name":"Chernin Michael L",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806513327
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "practice",

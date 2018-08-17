@@ -2,18 +2,24 @@
   "id": 790212353,
   "type": "Feature",
   "properties": {
-    "addr:full":"429 7th St N La Crosse WI 54601",
+    "addr:city":"La Crosse",
+    "addr:full":"429 7Th St N La Crosse, Wi 54601",
+    "addr:house_number":"429",
     "addr:housenumber":"429",
+    "addr:phone":"+1 608-784-9080",
     "addr:postcode":"54601",
+    "addr:road":"7Th St N",
+    "addr:state":"WI",
     "addr:street":"7Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-91.246715,43.813864,-91.246715,43.813864",
-    "geom:latitude":43.813864,
-    "geom:longitude":-91.246715,
+    "geom:bbox":"-91.24812,43.81495,-91.24812,43.81495",
+    "geom:latitude":43.81495,
+    "geom:longitude":-91.24812,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"429 7th St N",
     "sg:city":"La Crosse",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 608 784 9080",
     "sg:postcode":"54601",
     "sg:province":"WI",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526211
+    ],
     "wof:belongsto":[
         85837759,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500077,
         "sg:id":"SG_1gNLJBLD4PBgoXAe2MsTam_43.813864_-91.246715@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462594042,
-    "wof:geomhash":"740cd9a8ead05f3d2319320da2a0b6ed",
+    "wof:geomhash":"fe7f46f2338fa401ced13e6705ad6ea8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":790212353,
-    "wof:lastmodified":1472654310,
+    "wof:lastmodified":1534535346,
     "wof:name":"Hixon House",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -91.246715,
-    43.813864,
-    -91.246715,
-    43.813864
+    -91.24812,
+    43.81495,
+    -91.24812,
+    43.81495
 ],
-  "geometry": {"coordinates":[-91.24671499999999,43.813864],"type":"Point"}
+  "geometry": {"coordinates":[-91.24812,43.81495],"type":"Point"}
 }

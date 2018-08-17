@@ -7,6 +7,7 @@
     "addr:postcode":"53202",
     "addr:street":"N Water St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.909519,43.040711,-87.909519,43.040711",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.909519,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"780 N Water St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585747,
-    "wof:geomhash":"e78b55d0a2a4553af64fe1d273c8dfcf",
+    "wof:geomhash":"4f6e1d79617f358caa3dca269f49f7c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,20 @@
         }
     ],
     "wof:id":773438515,
-    "wof:lastmodified":1472654875,
+    "wof:lastmodified":1534535352,
     "wof:name":"Godfrey & Kahn SC",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823134947,
+        823135291,
+        823135423,
+        823136089,
+        823137173,
+        823138201,
+        823138679
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "firm",

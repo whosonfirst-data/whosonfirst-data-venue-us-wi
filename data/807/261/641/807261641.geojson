@@ -2,18 +2,24 @@
   "id": 807261641,
   "type": "Feature",
   "properties": {
-    "addr:full":"618 2nd Ave New Glarus WI 53574",
+    "addr:city":"New Glarus",
+    "addr:full":"618 2Nd Ave New Glarus, Wi 53574",
+    "addr:house_number":"618",
     "addr:housenumber":"618",
+    "addr:phone":"+1 608-527-2614",
     "addr:postcode":"53574",
+    "addr:road":"2Nd Ave",
+    "addr:state":"WI",
     "addr:street":"2Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.643094,42.818168,-89.643094,42.818168",
-    "geom:latitude":42.818168,
-    "geom:longitude":-89.643094,
+    "geom:bbox":"-89.63994,42.81815,-89.63994,42.81815",
+    "geom:latitude":42.81815,
+    "geom:longitude":-89.63994,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"618 2nd Ave",
     "sg:city":"New Glarus",
     "sg:classifiers":[
@@ -30,19 +36,21 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500112,
         "sg:id":"SG_7NBFuxfUpQAtdXPrbvijlK_42.818168_-89.643094@1294253271"
     },
     "wof:country":"US",
     "wof:created":1462605445,
-    "wof:geomhash":"20a5eed0518d19a949f79a02757b329f",
+    "wof:geomhash":"0fd58ccd1c14141b658ceab8ee62fbeb",
     "wof:hierarchy":[],
     "wof:id":807261641,
-    "wof:lastmodified":1472654363,
-    "wof:name":"Chalet Of The Golden Fleece",
+    "wof:lastmodified":1534535365,
+    "wof:name":"Chalet Of Golden Fleece",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -89.643094,
-    42.818168,
-    -89.643094,
-    42.818168
+    -89.63994,
+    42.81815,
+    -89.63994,
+    42.81815
 ],
-  "geometry": {"coordinates":[-89.643094,42.818168],"type":"Point"}
+  "geometry": {"coordinates":[-89.63994,42.81815],"type":"Point"}
 }

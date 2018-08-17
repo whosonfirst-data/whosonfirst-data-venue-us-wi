@@ -7,6 +7,7 @@
     "addr:postcode":"53215",
     "addr:street":"W Kinnickinnic River Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.952339,42.990885,-87.952339,42.990885",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.952339,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2901 W Kinnickinnic River Pkwy",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_1sDYkrvPY6IpPB6ClTX0Kr_42.990885_-87.952339@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"25cd41884ab3f664af39959dec7165bd",
+    "wof:geomhash":"f60df31c3a6258b30bfd4526fe33b56a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":370882729,
-    "wof:lastmodified":1472654157,
+    "wof:lastmodified":1534535358,
     "wof:name":"Wisconsin Center For Clinical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773752633
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

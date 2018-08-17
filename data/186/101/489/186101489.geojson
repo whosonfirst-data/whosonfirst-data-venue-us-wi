@@ -14,6 +14,7 @@
     "geom:longitude":-87.915575,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2821 N 4th St",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
         "sg:id":"SG_1NU2yHk4MGJXZ2GYLUo0Oy_43.070779_-87.915575@1294253271"
     },
     "wof:country":"US",
-    "wof:geomhash":"deb853547fe9e9e0d2cb3ff8a351db3f",
+    "wof:geomhash":"afe0448080349fa390dd98e68093cea7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":186101489,
-    "wof:lastmodified":1472653956,
+    "wof:lastmodified":1534535357,
     "wof:name":"Wisconsin Security Police Svc",
     "wof:parent_id":85870991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806638997
+    ],
     "wof:tags":[
         "guard",
         "patrol"

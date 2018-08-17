@@ -7,6 +7,7 @@
     "addr:postcode":"53122",
     "addr:street":"Watertown Plank Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.080733,43.042261,-88.080733,43.042261",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.080733,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13500 Watertown Plank Rd",
     "sg:city":"Elm Grove",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604520,
-    "wof:geomhash":"5e683408f9ab7a2d5978fe5590c3d80a",
+    "wof:geomhash":"e2b76c8f03153110c5c303c81f71f17f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":807173369,
-    "wof:lastmodified":1472654233,
+    "wof:lastmodified":1534535343,
     "wof:name":"Ogden Realty Co",
     "wof:parent_id":85808849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790070711
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -14,6 +14,7 @@
     "geom:longitude":-87.963203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 Washington St",
     "sg:city":"Grafton",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606957,
-    "wof:geomhash":"02206fd47cd503aa7ec34b275dc13c52",
+    "wof:geomhash":"1ce9da21707c7b0f6cee53c86365b5dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":807382725,
-    "wof:lastmodified":1472654574,
+    "wof:lastmodified":1534535363,
     "wof:name":"Milwaukee Medical Clinic Advanced Healthcare Sc",
     "wof:parent_id":85823669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807383125
+    ],
     "wof:tags":[
         "podiatrist"
     ]

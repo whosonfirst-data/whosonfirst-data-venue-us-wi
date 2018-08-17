@@ -14,6 +14,7 @@
     "geom:longitude":-88.020004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8516 W Capitol Dr",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462583339,
-    "wof:geomhash":"038c17bd56e0c5f508eb59b0069f1cdd",
+    "wof:geomhash":"5f60df5481e62e5e8934e1a0ef5a1d94",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":773126751,
-    "wof:lastmodified":1472654512,
+    "wof:lastmodified":1534535345,
     "wof:name":"Institech Inc",
     "wof:parent_id":85870997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806780783
+    ],
     "wof:tags":[
         "help",
         "supply"

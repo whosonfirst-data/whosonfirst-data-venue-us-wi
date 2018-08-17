@@ -14,6 +14,7 @@
     "geom:longitude":-87.908383,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"250 E Wisconsin Ave",
     "sg:city":"Milwaukee",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604353,
-    "wof:geomhash":"09c85d7bc1aa2893879ef7375b204a1c",
+    "wof:geomhash":"e300120cc66bf7213dda9e7f91d145fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":807157997,
-    "wof:lastmodified":1472654217,
+    "wof:lastmodified":1534535352,
     "wof:name":"Forsythe Solutions",
     "wof:parent_id":85870999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807133735
+    ],
     "wof:tags":[
         "design",
         "integrated",
